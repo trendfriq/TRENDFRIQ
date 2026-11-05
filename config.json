@@ -1,0 +1,23 @@
+{
+  "items_per_topic": 8,
+  "max_items": 120,
+  "topics": [
+    {"label": "Corporate earnings", "category": "Finance", "query": "public company quarterly earnings revenue results when:7d"},
+    {"label": "Global markets", "category": "Finance", "query": "global stock markets economic outlook when:7d"},
+    {"label": "Brand moves", "category": "Brands", "query": "major brand launch acquisition marketing partnership when:7d"},
+    {"label": "Bangladesh business", "category": "Brands", "query": "Bangladesh companies business investment industry when:7d"},
+    {"label": "Artificial intelligence", "category": "Technology", "query": "artificial intelligence new model launch research when:7d"},
+    {"label": "Emerging technology", "category": "Technology", "query": "technology breakthrough new product semiconductor robotics when:7d"},
+    {"label": "Global economy", "category": "Economy", "query": "global economy inflation monetary policy GDP when:7d"},
+    {"label": "Bangladesh economy", "category": "Economy", "query": "Bangladesh economy inflation exchange rate exports when:7d"}
+  ],
+  "countries": [
+    {"name": "Bangladesh", "code": "BGD"},
+    {"name": "United States", "code": "USA"},
+    {"name": "India", "code": "IND"}
+  ],
+  "indicators": [
+    {"label": "GDP growth", "code": "NY.GDP.MKTP.KD.ZG", "format": "percent"},
+    {"label": "Inflation", "code": "FP.CPI.TOTL.ZG", "format": "percent"}
+  ]
+}
