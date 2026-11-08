@@ -1,5 +1,65 @@
 [
   {
+    "id": "86fd194d6f8dfe6da06389",
+    "title": "Sylvamo Q3 Earnings Call Highlights",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDRJc2JCTGU0aU1zRUJsaF9sNkdnOURzWXQ2VzI5amo1VHA2Q1haVVE1Q29nQ1hzZ2kxRUJwQ25XQm1adVdaQ3RELWxPTUtMSlhqZGpJSzluVFhsTlV4OXZoM3lHVDJGVkg3VzBtWGhjUFhVMHh3clRqa2ZWXzJJelo0U2pOZTFNbEZUZGoxTzdlNXViSGxMcUx3aDUwVkRVOUE?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-08T18:14:12Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b8afd458bcaf45a445956a",
+    "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdmZYc2w5LXZFeVMtNEtZWUR2cURFcUhqbVA4Rk5sNXZBVnlFOWdXZ3RSenBJVG5YLWwtM2hNUWcwaUo0aFVMdTNlLTdxQVRMM1k0RlBwSVJmMk1wbWRyeHdkX19nUGZ2TGhKdTl3eWxBdG10bU1iMHU1dTYxeGpYYk5rZF9JejdRbjllTGdSRW1FNUNnVHhiUzZITGxiRlk4OW95bkN6V0wwYzFWYXZFNWxkU1I2c1RLYzBMVnhlX2ZNaWUzQ3hIRDM4TzBhLXPSAdQBQVVfeXFMTnU1Q19ObTZjMTdYTHZseGk4ek1GMHNsaEs0REFFRE85Y013bzNmVU5PMXVOdk9KMWZZdUNkSlRJZ1VvN1FFdHRJY0llWmMySHJ3WThkYzFBcW1jSXhBSU1OV3cyRFZLYUxEQ09mdHRQNlllSmE3dU5TWjNWU1A2MGh4TC1rRm5lQzRiWlJOQmlNT3ZOaXphdWJ1ZXNLVmxWamNvcFdXODJlb0p3Y1VDbFlzTVdYRGZkY3ZsUHdGUGFWNXdQQnlGOThSVmNTaXhiS1NITFE?oc=5",
+    "source": "PBS",
+    "published": "2026-11-08T18:05:01Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "76c541675e3ff9b0731ee8",
+    "title": "Global Markets Face Tech Earnings Tests And Geopolitical Uncertainty",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjdlT29RTEhqQlRNbkI5U1FGU2c0ZjJBN0w5by1DTTExTUlqZzNtVzc1YlFlOXBoN1ExUzloTUV0VHBUajR0cXFGV0NuUXFGd3hUNVNZZnM2eDdwX3IzOWRqdEZHTjQtSVdUcXY3QXppcWZNSEd2OGlDdmltVFhOX1hrYkRvVXFwNUhNcGVpLTZ4ZmpKVmtWdWRGa3ZYMmlUQk13ZktB?oc=5",
+    "source": "The Daily Scrum News",
+    "published": "2026-11-08T18:01:40Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6924233f3e83d09de08a75",
+    "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+    "summary": "SNL seems to have its knives out for tech executives.",
+    "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+    "source": "TechCrunch",
+    "published": "2026-11-08T18:00:04Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/elon-musk-snl.jpg?resize=1200,595"
+  },
+  {
+    "id": "07141ad7abea75515a89fb",
+    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+    "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-08T17:35:13Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
+  },
+  {
     "id": "2f1c02ddf8130da3cb52ae",
     "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
     "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
@@ -372,6 +432,18 @@
     "image": ""
   },
   {
+    "id": "537fcddb741fda339a02e2",
+    "title": "Bomb Threats Hit Seven European Flights in One Day",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdFJrejI5T2FpRnVxNTVDa1hLNWNRMG81Vk1qaEFpdU9qNGFXVHJjU0U0MnpzQmNPaXRhM29tTVZRUE5CM0FKdDllVU9xRFAxSlVkYkZGMWJkQThNNVhxZnRyWFRYaGV0VEtLa29sNV8yZl93TVFUdlRlLVdwTnU1dTVYVmhnSm84Vzl5UEktR3VXRUZEdG5oUnA2enhyaGc?oc=5",
+    "source": "Seoul Economic Daily",
+    "published": "2026-11-08T12:11:56Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "f086e69ea291a427521195",
     "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
     "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI ‘AI clog’: UK battles onslaught of chatbot-generated complaints Editorial: the AI backlash – Silicon Valley’s political power is cracking Last week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinn",
@@ -440,6 +512,18 @@
     "published": "2026-11-08T11:44:30Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d48f23ba34625745c75f9e",
+    "title": "DFA: Diplomacy is PH’s primary tool in managing disputes with China",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFBkN3h0U2VUc0luRmZ0YlNxVnlKNkd3bXZXSHBxX194dy1kdVBxQmpsSjJBVDJULVFnektndFhvcGZfQi1qbUpvZ2hNVFc0VEV0clRwc0p6RjlyWGNOYThPQ3UtRXdlOVRmNHhCN1BzZmg1V2swb0cxUWNxYURSemdzOU5DZGFDNmMyejhtOUxqeXZwTWJTeUJlYnhiTnhqNVlHVjRNS2dKZ9IBrwFBVV95cUxPUnoxSVZvY2NwNDVQSkJRSmJCNVNxRmJfQ0VwSWU2SHA4LWdLNWZENDFNSUdqWmhnRGQ4ZzZ5WTNXTXU0cXBPZWtmdXUzTWQtWmpLbWF1UzZkMlFqUUZDVlhERU11RlMzMklLLUlJbDhxTW1NbzNFT1dKZlFvNnpweldUakRNQUttNzcyVjlwQ2RPNW81c3VfWHBQTjFWRUs5TC16REI0NjJpRXV4SnI4?oc=5",
+    "source": "Inquirer.net",
+    "published": "2026-11-08T11:38:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -1584,6 +1668,18 @@
     "image": ""
   },
   {
+    "id": "8b965e35a594fbbc0068ee",
+    "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "2026-11-07T16:17:02Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "949ca82ab4607078fe8379",
     "title": "Costco members can get $5 off the reimagined Ocarina of Time",
     "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets [&#8230;]",
@@ -2040,6 +2136,18 @@
     "image": ""
   },
   {
+    "id": "eec05ea7c1018779960ef0",
+    "title": "Top US, Chinese officials raise trade ‘concerns’ as Apec approaches",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGhWcFFDS0N4al9WOHllMzl0a3VkckxiRWJlVnRGc0x5WERHaVFJbmRMLVBYUS1zZ0lISGM2Ul82VDRjMlhicjlJakhFNE5lV3FhbWR5cUdxWGpya2M3ZElqT0V1UHY4X09tajRWLXJlSkJuWENPQTJ5VUppanhqdTdZWUNGMkpCQ0J2ZzJSYlRQYUtJRm50SmNYbUNDQk5XWjMzWUpMczVZMEdUbno4TE5nNThYYlhoRlFmbm5Kb3JKQmtNRlE?oc=5",
+    "source": "Free Malaysia Today",
+    "published": "2026-11-07T07:38:03Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "04579c2f169006f1442e07",
     "title": "Lessons from the Midterms for the AI Industry",
     "summary": "",
@@ -2132,6 +2240,18 @@
     "published": "2026-11-07T06:01:00Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ad18111ac6d42fac983038",
+    "title": "Global Cosmetics News – Weekly Review | Week 45, November 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkM2T2U1MTQ1Z0NyZ0N5VXEwd1VmV3hPVkhWSTA0SF9RSnh2b1h2UG51OTFhUFRpSmtRX0thLWZwU3NFVWtmeVR0TkthZTktN09lWVNMY0lwX1M2SmJjY2JqUlEwU3REdWIxZVM0VTI4NE45aHQwNENadnJFeHdxanpTNnZDY21ZdnpiUjF5QkVvVXJ2cC1RTk5n?oc=5",
+    "source": "Global Cosmetics News",
+    "published": "2026-11-07T06:00:39Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -3078,6 +3198,18 @@
     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSEpJb2pQNWgxV2FPWEd1cFZzdmRZX3Q5SGRodmd5UWZmcURiSndUZ3lXRHV1R1ZMM00yalE4YVlHWEl1RnJkS0dad3ZTY2RuQVZGN0F4ZlJTb1MtNzBPeUNzTk1Bc19LZi0tWFlpckJncHlTMnRaWUREUFlJZEVmQW1pRER3VHU2aFpwN2ZwUzAzaTRtdnlOVXlOeFZJRUk5SlhFT1FXUy1TNjA0bDdjTDluVEtyRzZVall4cW45WjhOWl9yRm1aNkhOZzFYeFlhLWJWNUFnbjdFM2kzZkdLbDZNSzNUckVpX1NXTXNycnpSTFFXZVdWSUtwYUlFWDBNN3cyNEFDb3hMZzBt?oc=5",
     "source": "VideoWeek",
     "published": "2026-11-06T14:10:42Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a26cb300c967211bedabd9",
+    "title": "FOX CORPORATION COMPLETES ACQUISITION OF ROKU",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0FUNjFWaURaRGQyalBLTGZZbU9qZFhoRm5GSng3ZzZZS2lUUnBKU3U5YWZadWRoaHV6OF91V1NGb3drVVllWDFkMzBUb0dJOHJKMFRreHd3SFNXb1B5M05WVVNndVZrTDdEelJJZV9FUnJiVEhXUEgtaWxKeWRqVFk3djZRUHk1blRXN0M3bWJtaG9xeG5WWVhKVFpELXpXdVBv?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-11-06T14:10:00Z",
     "category": "Brands",
     "topic": "Brands & business",
     "country": "",
