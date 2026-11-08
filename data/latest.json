@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-08T19:27:06.137444Z",
+  "last_updated": "2026-11-08T20:13:46.095625Z",
   "articles": [
+    {
+      "id": "ab64ab2f789c4bc1d34eaa",
+      "title": "Synopsys joins European initiative to support semiconductor startups and SMEs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFJGSDZXbGFhQUItNWhKVHVJQlN2RXRTS3lYZGRLc1p1ZDVSR0hIWlNpRl96TlU5SnVnaUpZLW1WVjR5ZHRuc18yTm1hcjg5M2dyRVdvV2dKc3BESDFEUlpiTU5xQTNHUkVwd09xSkdNQ3AxT0pOYVMtTlFCMUVHbE1UY04xSDc1WERhZW5NRk5oYXdCdzJRQzhXcld4OUJPSThPTHdyV01MRkl0VzJWWlJ4SVdZcFk3WFh3djhLd3A?oc=5",
+      "source": "New Electronics",
+      "published": "2026-11-08T19:58:26Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "07141ad7abea75515a89fb",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T19:58:02Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "340b23d5b30066362d5d8f",
+      "title": "Europe’s Two-Speed AI Economy: Why Small Firms Are Falling Behind, and How to Catch Up",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0RGalNnbFFUNWhQcTNOdlQwMG5EeVhoaVpJZ2Z2ZmJ1SjBJbDgwd3hRa1F0QXpXSG0xSHpXdS1Pb1NtbnFxNS1DRGZxUG5BeGJnTDlhV2lmYWljRkVCT3k1bFphbEdSelJZWExxYmVXSV9sMHNsV0ZtZTVzNThxcnI5TQ?oc=5",
+      "source": "European Business Magazine",
+      "published": "2026-11-08T19:57:23Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "53e0b854f325021a3fd719",
+      "title": "In March 2000, Cisco Briefly Became The World's Most Valuable Company As Its Stock Closed At $80.06. Buyers That Day Waited More Than 25 Years For It To Close Higher. Here's What AI Investors Need To Know",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOanNEcUpkYWpsWjgtSnN3SmpEel9yYlFZNkY1WklNQWNicnNQdjMtWnZfNVF4T0Iya3hmTHlSZm5VT29zOWRuOWRQMFRmQzRiVHRGbzNScDRZODZ2QjEzMXR0SU9aTVcwaFZYakdkUDlQR25xM01NNmZabEJ0bWNqS3NuRGF6M0QxWUhMaUVCZGxINkNwbTNaN3FITWI4NS1iVTM1THNfUmx0T25MbzdUYzVnRVJwUi1nMVc0bkE0U1FPREhRYlRmMXB5aUpQQVlxQUp6bThJUVo4TE9HTTF6cWUwM1BBbHRaRmJFSEI2OE8wOFpoMng4cklZUmVtaTdhbmtONkpXeHJRSkxSLTB0NTgwUlNzdWl1M0VnbThfOWJGTXFpVnBQYURwNTVUSWlKeE1IYjVBd2NDczNSbVVnZnh4dzdTYUl2czBiUUhNcmZ3UGNfU3lz?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-08T19:54:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e14606d865d4d621bb5c7c",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T19:51:30Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800"
+    },
+    {
+      "id": "2f8fc736a22d98670aa67c",
+      "title": "Global companies see China as innovation hub for Asia-Pacific, world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPelY2MlZOU0R0dEFGZUZHYS01ajE2amVhdEl1RGQ5X0R0UU1STHI2a2VDTDRiYktfZHFXODByOVhGNGpWUUVTMk8wUUprcFFuMUdNcGVhQUp5THJWeG9aS0U3enk0ZVNleWlvd0s1S0M2d3RoblFEbXp2TjJiRjIxSUVubGMzU1FHeUpUN01KbnJlM0kxVFFTZmJJMkdzVUdJWHI0T3F2SjhQcXNURmJHNXd1TC1sUm1XZWQw?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-08T19:27:16Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "115856182950e41c3ecdb9",
       "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
@@ -24,6 +96,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "e880f3c9ead21e3a01e18d",
+      "title": "China import expo spotlights deeper Asia-Pacific industrial cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzZOdkFnclVmZUZnLTFmaU5GLThVWjA3bVVyS05XcHlhNXphRThGaWluTWRnZXEyVngxZHhqUm5TSHJKS3p2OFlUZ1RlZXNKcE5INUpEaWhfWlVKc011ZW95ZFRlMFdjT2VTVmZBSXFWYUV6STFtMHhUeF9ILUd5akVkVDViUGVWd2swRjBEQnNrcE0wN0Z4bVZrY0JsSXc?oc=5",
+      "source": "Macau Business",
+      "published": "2026-11-08T18:26:06Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "379d0639d8e7925b482019",
@@ -120,18 +204,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034a0f8d3305abc1d2f7454ff0a5026f"
-    },
-    {
-      "id": "07141ad7abea75515a89fb",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T17:35:13Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "2f1c02ddf8130da3cb52ae",
@@ -566,6 +638,18 @@
       "image": "https://i.guim.co.uk/img/media/bcb07f839060d7b54330feb02b27ea2cae25f696/62_0_2371_1897/master/2371.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7d523e653b0eabb65c57cf030091382"
     },
     {
+      "id": "0b62d5d15f938b9dc094ec",
+      "title": "Maryland Comptroller launches AI economic impact tracker to monitor workforce changes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTN0U2laNExTTk5Ma1BWcExDM3U3bUpKemZmcUNTVmkxTnVOU3o3bEhRdUN6c1U0UWJTUmsxclY2TjF0NHBKZVhlTjM1NEFFY1AtY211VU9RdUNHakpwMDNpejVWNjB0SWZfbi16ZHJMZlBOd0R2UnhvSHI1c2JzTnZTcS01WDQtbkk1Y3M4M3dvNVFtT1NKbXk4MnhjeklJNzlFUmVEX2VKV0NPWHFKTEc3Vjd2ZUNuZXhyVDhfQQ?oc=5",
+      "source": "NottinghamMD.com",
+      "published": "2026-11-08T12:00:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "88d95ca6c2a7814d89f10a",
       "title": "INTERVIEW| Amazon's EGP 29 bln investment highlights Egypt drive to expand production, exports: GM",
       "summary": "",
@@ -814,18 +898,6 @@
       "published": "2026-11-08T08:58:00Z",
       "category": "Economy",
       "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1e18f0fb794076ed231ac2",
-      "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-08T08:55:42Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1368,78 +1440,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "c4c648932b3d7ff19108f2",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T21:36:16Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "0d352384355207022c2521",
-      "title": "Pediatric Device Showcase Highlights Software Medical Innovations",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXhucFc3TVlkRHJjQkVCWUc1S2N3b2lUbEJ2UWVKcm52cXl0Y0pfdEtzd3NRNWx4OENNUVBzcURoWjVfc1BCSjBqTFh6X1I1eUU4X2gyeWh5UWJ6b04zQngtclZWbHFza2hjSm9ZRUxlVmVBMmZCYVVWazhkelJQWTNobGx0ck03N0JCREdWbDdXckIw?oc=5",
-      "source": "Bioengineer.org",
-      "published": "2026-11-07T21:34:34Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f3222b626492b46f7a2373",
-      "title": "CANEX: Exhibitor Urges Greater Global Awareness Of Nigerian Products",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB4TGVUV2VlTk1BYkJGQnFwYWZLZjhDS1hfNk5NMHB1XzZYYWN1QnJ3cmpsZGVfY2VabUtMOUFET2s?oc=5",
-      "source": "News Agency of Nigeria",
-      "published": "2026-11-07T21:31:20Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4e392e0aaa878514344f9a",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T21:17:08Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
-    },
-    {
-      "id": "81fe501a2463958f052cb4",
-      "title": "How Investors May Respond To Armstrong World Industries Stock After Raised 2026 Guidance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmJacEdGQlI1TEw0TVJ1QWtvWTdwdDh6dzVxRFVrSVpCNUZlNlk1RkxMZk1YQThpSzRQekdIeWgxX1pkOGc3SWlhLXN0TExMLUVaVkt1TXJKeWxIbk1DYWdCbWRIWmd5Rzh5Q3c3NjhBTlo0SmFWQnNReGdvTDlOaFk0Tlp2NGZyNXZVX1AycVFTUnViYWJjT20xcHYyT0I4dUxaVDYtYmRDODktcFRZa1REZ05KWDBYUVoxWDF4dG5rQUFzMkZfemVQT3ZOU0g1QW41bVdkMkx4UnZMQU5BVdIB5gFBVV95cUxNanN2NWFPV1EwakM5R3ZWc1cwNkFzaTVJbWxXcEc3bzl5MVptQjV5Sm10Znk2bkdaelN2dzJSX1hJMGN4OHQxV01HRUhQUDZjLVVBM1VxYVNTcFdsckdEWk5rdGhYYUNST0F0QU55U3h2TUMxcDIzTHFjaDhYd3JOZGxSNjQyY25xbFEwLVFtQzZfdXpkX0FtTEluYkp0Mld6UlF5Si1HQVJ2cnpCcDF1WGhqa2xvQUZncHRxRnFwbVdIODZWS2JvMGxNUEpLay1GdUVuN25rVHlqVjN1QW4teVZ2czVQdw?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-07T20:25:04Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "193d985bb4f15456178708",
-      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-      "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
-      "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-      "source": "NPR",
-      "published": "2026-11-07T20:18:18Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F77%2F67a1bd07484b844a6a8d15b90a17%2Fap26301008182475.jpg"
     }
   ],
   "countries": [
