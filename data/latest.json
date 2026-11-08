@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-08T17:12:38.722465Z",
+  "last_updated": "2026-11-08T17:52:19.060468Z",
   "articles": [
+    {
+      "id": "d882fcba81a7dae62f367e",
+      "title": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTNSTHlWXy1vdEQ5dDV2a0gtTFZQZmJfNzIxM1ZSUTFvWmhDVWhnMUtjTy1WMTFIVnVIcEhhekRNN3hpMk5kQks2X2QxVVNnMW9qVE5hNVh2cmFya0xSYWd6LTJBWWI2aGplMlpIdnY5ZWJ3OUpuQnhVc1N4aXI4V3hzTkRzTUt1RmFfNl90UVNDSS1FZnMyTk1aeTJKc2xsOUtvVmtXQzA1ZzNSNjRoQw?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-08T17:32:22Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2f1c02ddf8130da3cb52ae",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T17:30:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077"
+    },
+    {
+      "id": "c08233254ab55692344230",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "published": "2026-11-08T17:23:19Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "dfb7c585a47464e2b612e8",
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo At least seven people were killed and more than 100 others injured when two trains collided on Sunday south of Cairo, authorities have said. The crash occurred in al-Ayyat district in Giza province, about 30 miles (50km) south of the capital, when",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "source": "The Guardian",
+      "published": "2026-11-08T17:19:39Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034a0f8d3305abc1d2f7454ff0a5026f"
+    },
     {
       "id": "3af53f8572641d8a87f7ed",
       "title": "TechCrunch Mobility: The Cybertruck experiment is over",
@@ -24,30 +72,6 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3555+0+0/resize/5333x3555!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F5f%2F9142e9fb4171b7967dc02de2a559%2Fap26311421156364.jpg"
-    },
-    {
-      "id": "dfb7c585a47464e2b612e8",
-      "title": "Collision of two trains in Egypt kills at least four",
-      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo At least four people were killed and almost 90 others were injured when two trains collided on Sunday south of Cairo, authorities have said. The crash occurred in al-Ayyat district in Giza province, about 30 miles (5okm) south of the capital, when",
-      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "source": "The Guardian",
-      "published": "2026-11-08T16:38:57Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0cee9ac6dd8f1f6c39c7c8202ab1e97"
-    },
-    {
-      "id": "d882fcba81a7dae62f367e",
-      "title": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTNSTHlWXy1vdEQ5dDV2a0gtTFZQZmJfNzIxM1ZSUTFvWmhDVWhnMUtjTy1WMTFIVnVIcEhhekRNN3hpMk5kQks2X2QxVVNnMW9qVE5hNVh2cmFya0xSYWd6LTJBWWI2aGplMlpIdnY5ZWJ3OUpuQnhVc1N4aXI4V3hzTkRzTUt1RmFfNl90UVNDSS1FZnMyTk1aeTJKc2xsOUtvVmtXQzA1ZzNSNjRoQw?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-08T16:37:03Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     },
     {
       "id": "2750aa3feb24597d00e65c",
@@ -170,6 +194,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722"
     },
     {
+      "id": "d2b9303010106a593acaef",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T14:42:09Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "id": "d04570c52c8f8b01828517",
       "title": "What we know so far after Krakow gun attack",
       "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
@@ -214,6 +250,42 @@
       "published": "2026-11-08T13:42:46Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "379d0639d8e7925b482019",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T13:40:24Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
+    },
+    {
+      "id": "659206a1382c32348f656f",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T13:37:50Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"
+    },
+    {
+      "id": "eb8dcb9ece826bfd0913c7",
+      "title": "Why Global Partners Stock Is Up 8.0% And What's Next",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDdZT2RERFhPeWIyZ3hBc0FBYzdZMmxjRG5SeG5kU01qVTNfRzZtbUljT0M4ZzFQUExObFBNS1RGR0FtOW04QlhTNHpiVy1yaXVTZklucnFWSkY2MW5iTldnODYxVlBKYUtmVWF1Q2FPWHAxZVVIeEdOOHdKWkxFaWtvRkFiME94Nkg2ekQ0dGU2Y1dlejJ2QjJrc0xyU2FZVFp2ZWVUUHp5c3RXMDlPU0pIVjNlbEtOa3fSAb8BQVVfeXFMTTl6WTljY0kzMS1pV25ubU9WVkNLRGlSSHFNUWFNel9OSGxEMmtKellRT0dyZjBfRlZRaFBGZEVfU1NFOUo4NEhVWTZlcmtYNkhsekd5ZFdBR3FFdk5FWmw5dWd0cUM4MFkwc0ZKRHh5UUp6cW9yLWg2b0t5TnhwcHNQOHZYRUVERnJPalFTS0hRUjltNVBrSlZVa2RYRGVNLWJtdHFJLWtsdWIyZS05WS1VTk9EbzVZNmVfMFRWeTQ?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-08T13:34:46Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -406,6 +478,18 @@
       "published": "2026-11-08T11:39:44Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "eebc42c37fde0e9f72a1cb",
+      "title": "Why the US Dollar Will Remain the Dominant Currency for 20 Years | Gita Gopinath | FO585 Raj Shamani",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUE1NUjhrdmxVZjlXVGNmakE4WHRHbDVmQVdPYk12MUx6YUFvZjMxYlFWbEhlNTc1R0JGNzc2Q3V1YnRzRlJYUFg5RXRIZ0VyaUd2TDM3SElVUlBtSmxj?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-08T11:33:39Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1354,90 +1438,6 @@
       "published": "2026-11-07T18:06:58Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "055776a69bb152f31cf9da",
-      "title": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUm5pT3hsUTgtVnJTWl9zTUxFZlpBUEtYeHNsMjQ2em9ybzdCcmtHLWszT1lhZEc0NkJqMV8xWHRMUG9faXQ3M2pyMUxLejRUWXJNa3c2aFhaamdEbzdPMWJtdGl1Yno3TEVBaUpvQzVZdHFibEFiMGRSeUswdUhhcmM0cllNV0VpYTV0VU1oTlBva3F2NGV5ekdiZTNDUXBqWFNjaXczclRmb0pNUGYtUWZTT3JJNlo4RDZj?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-07T18:01:39Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "763ff19db7cf70b9bf96f7",
-      "title": "Egypt, Slovenia discuss boosting trade, investment ties",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGRQaUdncGNqRTV6c00zSm5DVUdBZjc3NW5LUmlMMXZVY0xLLWxnbk0wRmJTLU96SG5lRUZTS1VFSHNObHBKaUE1QmZTMU1BX20xalpiSGFzV2ZZWUdfNGFuWVZTRld2eG0tQXEwT1ZfV3RTdTB6VV9FWnRmWnpIdV9nVWcteGc4Um42QnJtU2pCb19uc200?oc=5",
-      "source": "Daily News Egypt",
-      "published": "2026-11-07T17:51:06Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "38d57ad722e26573f7d954",
-      "title": "Like cars, Chinese motorcycles out to conquer Europe",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakFOZEZQRER0cUdzTl9DRno3LWp5eXZhcjRYYTI3RkttTWNGMlN6bEppOV9GSXYwNzNQNU1EZmRUei1PeklibVotVndnOWJueWR2aUpvb0hqRDZfc0RGcXBJWVJmVVB4RFNxdlZqRDFQb2k5MHNGdWcxbTFBVTUwanB2cmZoaFpWSjktM3VsckxScDZ6bHM4N0E5eTBZS2tnZ0phLVF4ZlZCdWdVWFE?oc=5",
-      "source": "The Daily Star",
-      "published": "2026-11-07T17:37:41Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fa2aab729edf0774f24cac",
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T17:24:07Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800"
-    },
-    {
-      "id": "ad634f62bfc0ae82085888",
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T17:18:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900"
-    },
-    {
-      "id": "d885a696d889ce6383aa8c",
-      "title": "Ousted Paraguayan president appears before prosecutors",
-      "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-      "source": "NPR",
-      "published": "2026-11-07T17:14:36Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg"
-    },
-    {
-      "id": "d95d3c1b88b94765dd89bd",
-      "title": "MetLife Q3 Earnings Call Highlights",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1NfSlYwdndyZGV6eVZuWUtTNS0xU3RHR1h4akhrS1pnVnNpRXdHOElXOF9qOWFiQ0txZUc3MnJEZFJSaDVIVDhBSF9FRzdXa2tWMzF4T2FGcjFYTW5WS0tiUW9IZEdydzc0c2JvV0sxdHhvZktxUDVxeEVSbVJva21ZUFNhQUstYjEwdTQyYlg1SkhfTDFiTEFFelo?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-07T17:14:26Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
