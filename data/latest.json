@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T05:53:04.595267Z",
+  "last_updated": "2026-11-08T06:10:56.004709Z",
   "articles": [
     {
       "id": "84f5b599c0c85eb83124af",
@@ -1106,6 +1106,18 @@
       "image": ""
     },
     {
+      "id": "a5d62e55c9d5be10eedee8",
+      "title": "Joint statement by the Minister of Foreign Affairs of Canada and the Federal Minister for European and International Affairs of Austria",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTlViUXJsUHBCaWxtLXk1VDJHcFhHT00yZjR0U1ZweF8zSDZYNUFXQmNUZEhEYzV1d2pTYWlsNXc5R3pTODNuazZqYzNQck42bC1xSEg0MFNPTzZtVmJ6cmZJemIzR1Y4ZnRGSW5LcHZPVVktaWpNSlFDVFVXSGpUeTBTb2N5UmlXOXZHRDNzTWxmeGU0Qm95bFpFNksxU1BJclRtQzVrOXhIdlNpcXRtOF9CdGFTMVdnM09ONldhYTVuVFNtYnphb0ZrbWJuMXJWLUFlZlVSSnZ1T0xlN2tDTmlqXzZhdmdLam1lUzlkclpEeVFlSjhmOXFqQUZLM2lFSEV2eEN1ZTROODZFMElwelpLR3AwanlKemg4OWZB?oc=5",
+      "source": "Canada.ca",
+      "published": "2026-11-06T20:14:43Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5c86e4b6d2e384c3d78a00",
       "title": "How Agentic Artificial Intelligence Is Reshaping Agricultural Research and Farming Operations",
       "summary": "",
@@ -1428,18 +1440,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "e3b83f3df8bd66e1ff84f2",
-      "title": "US job growth exceeds expectations in October despite economic uncertainty",
-      "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday. Economists had said the labor market has been stuck ",
-      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-      "source": "The Guardian",
-      "published": "2026-11-06T13:42:26Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9ba3c8021f5428ac610116ab9bd4033"
     }
   ],
   "countries": [
