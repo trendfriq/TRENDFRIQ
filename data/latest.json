@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-08T06:56:20.761864Z",
+  "last_updated": "2026-11-08T07:59:58.608742Z",
   "articles": [
+    {
+      "id": "d04570c52c8f8b01828517",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T07:52:33Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "id": "254e85493d1fc31e5980c1",
+      "title": "Turkish minister warns Middle East war to reshape regional economy, security",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXRRQmhVR1VPa0RfbXpQZG10RGp1NHBnNFVwRk04WVFpd2xlOGNpWG5VTFVDWFBOWFpmN2RTcDFqWi15VWxpd3diV0R5SDdNbDQ2aXlfbkY1OVN2ZC1Nek1WSlVzXzNiY1Z1eTFJWlhwcnp6eEhwbjAxYTlIRkNOZXZaUVZMMU5QckxNQlIzTHZjWHNHbUNHTlRKLXZMS09BWUN6ZTRRUzhaRXlhZ3M5RTAwQjg?oc=5",
+      "source": "Yeni Şafak English",
+      "published": "2026-11-08T07:08:20Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3a788ed2aa022f594306d0",
+      "title": "Youth in Birgunj build working tech solutions in intensive AI-Assisted Software Engineering Bootcamp",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nMnNCZUlxdC1vVHhBZlkwOEd3R3FsLTRzaHFtb0IzYm5iM1lzM0M2bEVFamdOSUljcDhrWmd0NmlDSlQtZXdzZ0JwUEJwOG1WdmxtUXRBM1hpenlMUlBtNV90X0szUUp5Ym5lRWpKZEFJNkVidHJYWDF3?oc=5",
+      "source": "OnlineKhabar English News",
+      "published": "2026-11-08T07:03:13Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "987516c0a83f4e36359922",
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s super El Niño event. High winds in parts of Colombia, one of the",
+      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "source": "The Guardian",
+      "published": "2026-11-08T07:00:34Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/9998f654354c4d901763da7a8e3a1176665da648/11_5_1775_1421/master/1775.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=382d4f908fec7f5f79e1434000b8fd9b"
+    },
+    {
+      "id": "49c81042c8f39bf5b1bec9",
+      "title": "Transactions on Machine Learning Research Review",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RbGRMc0ZYVElJeFZ1X1pzdzRyUEhaUm1PbDlYSnNlZFNqcGltSzJtWm9LVXdhS1NwaE1IZEx0d21meUY0UW9wLU9QVmpHVGdnYm9hc3E0WF8xbGlybEFWTFk0QW9RTVNLWkVfZlR3OXpLUGVmbEE?oc=5",
+      "source": "CASRAI",
+      "published": "2026-11-08T06:22:08Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "84f5b599c0c85eb83124af",
       "title": "US President Donald Trump will attend the ASEAN Summit in Manila and the Asia-Pacific Economic Cooperation summit in Shenzhen, China, on Nov. 18-19. https://tinyurl.com/3sd226cm",
@@ -10,6 +70,18 @@
       "published": "2026-11-08T05:41:18Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "06695934c2ea94ff5fd0cd",
+      "title": "The 7 Best Cross-Border Tech M&A Advisors for Founders in 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHNfV3I3V245Y1RGMTFxb05Sd01Gbld3WEtpa0p4YkpnUzVTY1JsdHNwSjY5LWdqaFlFV0E2SkZtZkN5MXBGUjhIaXpjVW9IM0dtUE5oWE9OcDVKR0N5N2FsazNBc3dET0JwdXptTUE5RUFWNUptQmhuV2ROZ2ZfclVTeWt3UDZCQTZ4MEI5SQ?oc=5",
+      "source": "TechBullion",
+      "published": "2026-11-08T05:34:23Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -30,6 +102,18 @@
       "title": "Charting the global economy: Job growth in US tops all forecasts",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWmw1LXBza2VaeUVuZGtkNzF4a1ctbUstSmltYmJuaUxWZW9wR2RjblFPMXRhYWpONmR1cURrZjNrV280UjhXT2RDdEZXR09mSWhxTnYzS0k3OHl4WUpTUW5aQ2NydDc2ODEzZl9WbUxydVQwTzZFVG1CemZNMnVYOXNJYmFVczFRV2pzOG9yNUptLTRYbnlJdV9ieVRxWGlCSXc3VEc4c0V4M0FqSERDOHhEZFQ2ZXVZWDYxQ1oyVmxPUkVQYjVlRzV4NURoMVdxeXl6aVJzd09VejZyS0s0MzFHR0k?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-08T05:09:16Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "84783e67145f2d7411100f",
+      "title": "Charting the global economy: Job growth in US tops all forecasts",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWmw1LXBza2VaeUVuZGtkNzF4a1ctbUstSmltYmJuaUxWZW9wR2RjblFPMXRhYWpONmR1cURrZjNrV280UjhXT2RDdEZXR09mSWhxTnYzS0k3OHl4WUpTUW5aQ2NydDc2ODEzZl9WbUxydVQwTzZFVG1CemZNMnVYOXNJYmFVczFRV2pzOG9yNUptLTRYbnlJdV9ieVRxWGlCSXc3VEc4c0V4M0FqSERDOHhEZFQ2ZXVZWDYxQ1oyVmxPUkVQYjVlRzV4NURoMVdxeXl6aVJzd09VejZyS0s0MzFHR0nSAeoBQVVfeXFMTWd4ajdKR1ZlQXV2Yk50bzc1NHhUNXczaTc5V1BydGVEeThBdElXWGxtcXdoTm1yOEV6VE14WkduVjQ3bWdvOGUzVThMQ2FpMk5TMXQydVhBX2taWDRNN2FTR3lOZjRCYXRhUW5VWVc1Zy14SjBrOVlOaWZPN0ZOVmpPb2NkaDBvQ1JJU2l2VjRaWURra25pSk02bFV5SVVMbmcxWU1tVEJXRHFnalZScTctRUtFWk80bllqOWFTdFJjeWJta1otTlV6VlU3MTAyOTZKUEhnOWNOZmFidzJEVFhNWkdSaVY3T3BR?oc=5",
       "source": "The Economic Times",
       "published": "2026-11-08T05:09:16Z",
       "category": "Economy",
@@ -108,18 +192,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "d04570c52c8f8b01828517",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T01:47:41Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
     },
     {
       "id": "4c995660511b5ebf4e4dc0",
@@ -770,6 +842,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "476c53f18deffb61a2a837",
+      "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-07T12:22:01Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "97cf4b4f2e210fae3ff211",
       "title": "This Nvidia-Backed AI Startup Is Helping Chip Giants Save Time And Money",
       "summary": "",
@@ -1044,18 +1128,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/fcd2f563900100a09e32551733206c8276b969a9/896_0_5047_4037/master/5047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4c842b64136cc70ed47978dfc1217da5"
-    },
-    {
-      "id": "476c53f18deffb61a2a837",
-      "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-07T04:55:32Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     },
     {
       "id": "e0820bf841f4174fb17a68",
@@ -1366,78 +1438,6 @@
       "published": "2026-11-06T19:27:13Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0d8ff67061a9f55f11897b",
-      "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-      "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52. He was best known for the Oscar-winning trans drama A Fantastic Woman and his English-language films included Gloria Bell and The Wonder. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-      "source": "The Guardian",
-      "published": "2026-11-06T19:23:24Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f6a6cae8f175168cacea46f4a86c8976eba48874/0_1_3771_3014/master/3771.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf17f0b84abb311e2b9dd28a34f717d1"
-    },
-    {
-      "id": "9f1aba68d4a47499981e15",
-      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-      "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-      "source": "NPR",
-      "published": "2026-11-06T19:13:06Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6816x4544+0+0/resize/6816x4544!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F70%2F4c7f5387455fac4992cf3fc5c68e%2Fap26310822769131.jpg"
-    },
-    {
-      "id": "f535280c987a445b73c6a1",
-      "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-      "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-      "source": "NPR",
-      "published": "2026-11-06T19:00:21Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2Fb8%2Fb629bb2042d1afc6a8774ba0e682%2Fgettyimages-2286697424-1.jpg"
-    },
-    {
-      "id": "4124fc328a5ee49a687c2d",
-      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-      "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police w",
-      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-      "source": "The Guardian",
-      "published": "2026-11-06T18:51:37Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/master/1702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1dd4952c059ad2294542e8030420610b"
-    },
-    {
-      "id": "01856f52ceb43a68949e72",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-06T18:32:16Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "f1436baa00bcd6598af4b5",
-      "title": "Earnings Calendar and Analysis for This Week (November 9-13)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2JlZjF1QU9yZTBqNVJ4aXJUUjVFMDA4SWxPdEVienI3d2dFcFF4Z3BVNE40LWxmOHV1REljUVFaSFY3X2FrQm1xV2NMYWY3SHRoOFdhMXc2ZWFyZGtYTGV3Ul9lY1htRExZOFpMLXJGRWVRSWU1dTBUcjVSc0lEckdXTEhkck45Ujh3?oc=5",
-      "source": "Kiplinger",
-      "published": "2026-11-06T18:22:51Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
