@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T06:24:57.542747Z",
+  "last_updated": "2026-11-08T06:56:20.761864Z",
   "articles": [
     {
       "id": "84f5b599c0c85eb83124af",
@@ -266,6 +266,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765"
     },
     {
+      "id": "c4c648932b3d7ff19108f2",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T21:36:16Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "id": "0d352384355207022c2521",
       "title": "Pediatric Device Showcase Highlights Software Medical Innovations",
       "summary": "",
@@ -322,6 +334,18 @@
       "published": "2026-11-07T19:29:58Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f79c357f101d53fe7cde85",
+      "title": "3 Financial Stocks Tied To AI Credit Stress Investors Should Watch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOFVpWjBJRHhjVW9rVzBYaEN3RnNTSFh1aUl4NWlVMXcwOEVyTkxzeGdjWndIX1hOY0d3b2U0cklxcHo4Y1k5OGZXVjRWdm05TzZfakpDbTRDWnIxOEtPaFlXQ3hrTWZCSEtMVTE3d1MyS25IanNwb29UeWFWWjJmcmVrU280cWoxcVJfVW11dmRTWnBuYkVvc3ZnUVAyWDRMZkl1bko3SUZVanhJSjF0cFBJNGpuQ0l4TTRwWlR6RWxEbmo0VWt5OG5ZZW93MWRzOE0xZlp4LUZ0dGM4bHpBeXZfMVLSAeoBQVVfeXFMUHZQZGJFOXRSRkpzYkwwc3pybjRFX1ZIM3d5ZmtKU29FdHh4UzYybmpDT1gwZzFKRF9fVWxkZGpCdjhEZlV0b0ZfbkhSdURnTF9xbXZhb19hRnAwYnduUFI5VmdsNmFKUUNKY3IxRDJIbTlReUhhVlRQbnRKcmkxcXdwOGc3QkNjekZXQzI2TnRtMkJIOHdUc1htMm1KNWJrOG5PNnc0NGlKWTUtdVlMV3YyeGVjNnVhanY5cHgtaGNHeXpiSTgzbm1YRDBQRmlBOE1SUlQtSGRkRUJNMDBQYUpVOHVuSWlyM0pB?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-07T19:26:16Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -386,6 +410,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "id": "ff4266a06cba381f9a095c",
+      "title": "USANA Health Sciences Q3 Earnings Call Highlights",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjZrTF9aZV9zWTBNUktiQk42V1U1RUp5X1ZrY29aUjN6VmNORm9nbkZsSHVwbURHVUxvdmliZ3RmNmJKWllmWHhGX1Vqamh6VUg4a3dpenpBd01sSEYzQnRxMjhIdEt4bEJHaDFPVGY5cl9pRVd1RE80TDJIUGwzSUJmSFphWUVQOHZwVDhrbDUyRWJlNFZDZ3Y1b0c5djlubTAxUkY5TEpxUVRQY1BJ?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-07T18:14:15Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8b45f1ba15dad66ef495cc",
       "title": "Vista Group Backs Africa’s Creative Economy as Sponsor of CANEX WKND 2026 in Lagos",
       "summary": "",
@@ -444,6 +480,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg"
+    },
+    {
+      "id": "d95d3c1b88b94765dd89bd",
+      "title": "MetLife Q3 Earnings Call Highlights",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1NfSlYwdndyZGV6eVZuWUtTNS0xU3RHR1h4akhrS1pnVnNpRXdHOElXOF9qOWFiQ0txZUc3MnJEZFJSaDVIVDhBSF9FRzdXa2tWMzF4T2FGcjFYTW5WS0tiUW9IZEdydzc0c2JvV0sxdHhvZktxUDVxeEVSbVJva21ZUFNhQUstYjEwdTQyYlg1SkhfTDFiTEFFelo?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-07T17:14:26Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c8a113443d4ce205f5e5fd",
@@ -1390,54 +1438,6 @@
       "published": "2026-11-06T18:22:51Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5f030213cb5c21952638de",
-      "title": "Unlocking the African diaspora’s financial capital for economic growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2FycWtkUGdwZWNHaEpEX3dOXzIwM19ZQTFSMjdSVFp2WjNjdGhkSnFaMmtvMDV2b09tR3kzbkhXTm1JR1Q2bFlTOTBKWHNabkIwVVFpUW1TM1FITjBiVWxOMVd4Y3FWSWpvaTlqRWxlcGpNZzZ6NTBtSjdMdmN1Um1YcHdDaFBLaTljQ2VmSkxHcVJrV1hEV0ZlS2pYYVIyYmN6bE1FcXlUcEYx?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-06T18:15:22Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "22d1bd4d12abdd6014deb0",
-      "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
-      "source": "Carnegie Endowment for International Peace",
-      "published": "2026-11-06T18:10:28Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2589fe9dd3d8d2d7b5afb9",
-      "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXY1aERtTnkyQkdENklCT0hrUGEwVTVBd1hBdlllWjFWcE1ULVZ2Y2VqWGd0XzljLW5XbzRMbk92azQxYjRqQi01R1hybFNXbGtPSllmVmw4QUplRUY0emN5cVNhRl9LVmFGMWJ4N2doSjRZc3dFaEJsTTBnZHJfd0dqQ3V4ZnBKWG1MWjBGQTZIWm5YRjIyalN5ZHQ4UkdCc0NxM9IBqgFBVV95cUxOQ2ozbWlvNFpOdmpGMlNfdVd4MHo3dWRZRkRYbHdHRVQxajJFU1c0RndSNmt1bk9PZUNHZmZubVVGa2xsb1BueHhWVEp1cE9aTERsLTVhakRqVnQ5MC13cjNOWHF6MzdYaDRadVZvOEVxc1cySnlFYVdwcld3d0NkcmJwQ2w1bXdWSXk1U0Y3WG5CeEppOTE3YXVXazVFbjRYX3FDQWtGZDZpdw?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T17:53:15Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "208ced9c44858b29d68923",
-      "title": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-06T17:53:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
