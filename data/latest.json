@@ -1,17 +1,53 @@
 {
-  "last_updated": "2026-11-08T15:37:21.561637Z",
+  "last_updated": "2026-11-08T16:22:19.910664Z",
   "articles": [
+    {
+      "id": "8539f9066e6deca1ece304",
+      "title": "The real benefits of hosting an APEC meeting appear beyond the conference venue",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WblJ4S3JCYWIwMnhCTlUwanVlVzFhem10NmlDb1lXaGphaWhKWWtGVUR3QWoyLWhySUhEUDY4OEptZkFIbHlCSTlkY2VWeEdvY0RKNDF4TWs?oc=5",
+      "source": "chinadailyhk",
+      "published": "2026-11-08T16:03:06Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "d882fcba81a7dae62f367e",
       "title": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTNSTHlWXy1vdEQ5dDV2a0gtTFZQZmJfNzIxM1ZSUTFvWmhDVWhnMUtjTy1WMTFIVnVIcEhhekRNN3hpMk5kQks2X2QxVVNnMW9qVE5hNVh2cmFya0xSYWd6LTJBWWI2aGplMlpIdnY5ZWJ3OUpuQnhVc1N4aXI4V3hzTkRzTUt1RmFfNl90UVNDSS1FZnMyTk1aeTJKc2xsOUtvVmtXQzA1ZzNSNjRoQw?oc=5",
       "source": "The Washington Post",
-      "published": "2026-11-08T15:34:52Z",
+      "published": "2026-11-08T16:02:22Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "184c1db3f9a4bbec0a5743",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-08T16:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "1fd2c4b355c27cd812da74",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-08T15:37:25Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
       "id": "777089278013f2e93b429b",
@@ -300,18 +336,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "1fd2c4b355c27cd812da74",
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-08T11:25:32Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
       "id": "1649fd65c3aad216440823",
@@ -1416,30 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a3a63a91f6daf1ab8843d0",
-      "title": "No clear winner after tight New Zealand general election",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T15:56:28Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "1ab28dde47a3074f5d545d",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "source": "The Verge",
-      "published": "2026-11-07T15:50:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
