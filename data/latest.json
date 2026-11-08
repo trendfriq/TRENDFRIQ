@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-08T21:37:11.457446Z",
+  "last_updated": "2026-11-08T22:21:17.876595Z",
   "articles": [
+    {
+      "id": "f74b4c79307a6db2cf924a",
+      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+      "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+      "source": "NPR",
+      "published": "2026-11-08T22:04:13Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "ba952abffb3d4856effb70",
+      "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+      "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true owners or their descendants.",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
+      "source": "NPR",
+      "published": "2026-11-08T22:04:09Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "e9caf7fbc524fe5e65ec7f",
+      "title": "Shafaq News..Iraqi deputy PM discusses energy investment with US",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkV2a0x4OUpRREgxOWNfczZuZFFPaEVqX3M3N19kV09DVkRiLW02ZDNTbmctQXp3NzNlejBUZTVQbkRSUVNfekV5cy1SRkh2RkhRTDE3Nkh4NVhMQ2hlWDRycFlEa2NnM3Y0M0NlOVR0b0NzYWhWR0Q5S2ZyY09lZ1BBYlc?oc=5",
+      "source": "شفق نيوز",
+      "published": "2026-11-08T22:01:30Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7978cc85b6b0372d326c66",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T22:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2149461717.jpg?resize=1200,900"
+    },
+    {
+      "id": "5a16ed41c9ce2c8ad0a99e",
+      "title": "APA NTA 06-11-2026 $3.60404",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVhBcEpWZzdJMXJSNXU5SUtUWFlYekN6T2Zid2lZWG9OSG93cTBGSzlIRHVVUDVJTzBvcUN6T1pfZmtPY1Q2YUhxdWJuQmtPNzdCYzU5UGNLazJwS3hmSUJjU25DODZxdHhWb2pIdENST2l4NFA5Mm03ZDNlZ1lqd1VYMHVKYlBR?oc=5",
+      "source": "BusinessDesk",
+      "published": "2026-11-08T21:41:18Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "ab3c0090fa33621fad6524",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
@@ -250,6 +310,18 @@
       "published": "2026-11-08T18:06:12Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "145b4af795811b5b5f0700",
+      "title": "EU clears AkzoNobel-Axalta merger on condition AkzoNobel sells its European car refinish paint business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGZUdS0xQlBEWVhUVzdMYXY1MnBqNFJMNlpyNDk2YmtHYmdVOGFtUWwxZm5ObGVtNGZ5VVJuMTRsdFMwb3o3ZEV0YzNPMElsYkxsNmlWYU5kUkVQYXplZXowTE1TbGszODlFUXdkQkw4aDNaQmVpcmdlbVJIVFRKbHhNNnhkREFDT1FnQnlwR0lGb2JoZzYzWnJfQVFEd1FTd3k1dENOYkgxeHh5clliMTZfM0tmZ2ZFbXZBWm4xNExqUQ?oc=5",
+      "source": "MLQ.ai",
+      "published": "2026-11-08T18:06:07Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -945,7 +1017,7 @@
       "source": "Nation Thailand",
       "published": "2026-11-08T09:15:00Z",
       "category": "World",
-      "topic": "Middle East",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1366,78 +1438,6 @@
       "published": "2026-11-08T01:31:52Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3999b8619bc691cbadc735",
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15UTVfV3RVdEMwVXd0M0xNdXVKWDl6Z0dtNE1pSXlySW8td0tKXzBSQ2c0RUZaYlE3WVJ1MGVTYWgyRTBWbTVsRGN5QndiVjlZa09WN0otOGVidmc?oc=5",
-      "source": "BBC",
-      "published": "2026-11-08T00:52:39Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c0612f7267428eb61dfd08",
-      "title": "When wording changes what we find: The impact of inflation expectations on spending",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlNjdmJrNnFlSDlNNDRMS3dkOXBzQlRCRnFBX3AxZ0NfTVVuMHhZV1E3QzZra1pFOW1hT0RDQmZhRDI0cG1URTR5MjhuQlQ4V3RQOG5qcmFzNXZRS1hzOTNlZ2JlcEM3QkgySXUxazhqQnNlcVlkTUs5WHBjWmpScThHdE9OWDNmNDJ2T1JpWTZoXzdqeXl5VlNqcml3YXM4aV9JRWJPOA?oc=5",
-      "source": "CEPR",
-      "published": "2026-11-08T00:46:24Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e3d6f99e0ff04bc765ea2d",
-      "title": "Can the Zelda remake capture the magic of the original?",
-      "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-08T00:37:45Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg"
-    },
-    {
-      "id": "2f9779d033750a42f50f97",
-      "title": "AI SuperBright Cuts a 20-Plus-Module Plan to Six or Seven Before School Pilots",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3Z6aFQ4Y0NuRkc2UmNXeXY5OEt0R2FqcjUySEx0SEtyd0VLNXRxMHI5aDU0bW0tUklNLTFNWXEydjNzVUJYWGFCVmVpNTNOTTFwTi15QndIbFFYZFlrV3BMb0hPd1Nad2pQTm01RGJ6Mk4yM2pXV0Jja0FCX3k2dTZnY1o?oc=5",
-      "source": "KoreaTechDesk",
-      "published": "2026-11-08T00:32:44Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "05437a2638e9985a6bec20",
-      "title": "Traditional Pharma Big Five: Four Companies Post Q3 Operating Profit Growth…Q4 Variables Include 'Royalties and Revenue Gaps'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3S2t4X3RacFhqVmN2UXVqbkljb0pvNjdEUmkwWFMtdm9QZTNPRFNodElsR3Nkc2x5VjJ0TGVHSVRIWjdWQlpxa216ZlpmYXVMbkxGcENKQnV4WC1wV2U4X3pOVk93R2dRT015VmFR?oc=5",
-      "source": "머니투데이",
-      "published": "2026-11-08T00:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "657d3ba1b3e548597f14bf",
-      "title": "Stablecoin Adoption at the Periphery: Why Local Appeal Has Yet to Reshape Global Finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FRXpHbjRwWHI0XzRQWnI0eHBnZGN1R0hyVVpKRGh5V05iX0o5dmkwOWRrRkFabkRSZWN0ajBCcDVGc04xN1pnRFAyWXRiRWI5T0hBTDIxakpRQQ?oc=5",
-      "source": "https://economy.ac/",
-      "published": "2026-11-08T00:27:30Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
