@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-08T14:17:28.368402Z",
+  "last_updated": "2026-11-08T14:57:04.658592Z",
   "articles": [
+    {
+      "id": "d04570c52c8f8b01828517",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T14:32:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "id": "d882fcba81a7dae62f367e",
+      "title": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTNSTHlWXy1vdEQ5dDV2a0gtTFZQZmJfNzIxM1ZSUTFvWmhDVWhnMUtjTy1WMTFIVnVIcEhhekRNN3hpMk5kQks2X2QxVVNnMW9qVE5hNVh2cmFya0xSYWd6LTJBWWI2aGplMlpIdnY5ZWJ3OUpuQnhVc1N4aXI4V3hzTkRzTUt1RmFfNl90UVNDSS1FZnMyTk1aeTJKc2xsOUtvVmtXQzA1ZzNSNjRoQw?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-08T14:32:22Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e89f8fd2d85d6c56832f7a",
+      "title": "Avaco Posts Third Straight Quarterly Loss, Sees Return to Profit in Fourth Quarter",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNDd6NmF4dHhSMXk3aVNQVkhmdEdxUDRheUp2cngzY2xyekFBMk5hSnFiVUN3Mk9mekpKaHU4bXFaVTJuR2FCZjhoRktmVk02VzB3eGRLdFNQblJ1UTk4SFdSTG9Bd0E?oc=5",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "published": "2026-11-08T14:28:39Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "629953e25a30e0f195d904",
       "title": "China import expo spotlights deeper Asia-Pacific industrial cooperation",
@@ -140,7 +176,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
       "source": "The Guardian",
       "published": "2026-11-08T12:05:58Z",
-      "category": "Brands",
+      "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=263827498bd4c64475d5e2a50c48fe5d"
@@ -228,18 +264,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
-    },
-    {
-      "id": "d04570c52c8f8b01828517",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T11:22:17Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
     },
     {
       "id": "1649fd65c3aad216440823",
@@ -476,7 +500,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
       "source": "The Guardian",
       "published": "2026-11-08T08:00:36Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24093d84f3247813e3ad06a6fc554b98"
@@ -536,7 +560,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
       "source": "The Guardian",
       "published": "2026-11-08T07:00:34Z",
-      "category": "Brands",
+      "category": "World",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/9998f654354c4d901763da7a8e3a1176665da648/11_5_1775_1421/master/1775.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=382d4f908fec7f5f79e1434000b8fd9b"
@@ -572,7 +596,7 @@
       "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
       "source": "The Guardian",
       "published": "2026-11-08T06:00:33Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0b47f8cdb45df26b32c9c29fda88e1f"
@@ -710,6 +734,18 @@
       "image": ""
     },
     {
+      "id": "d6bccc8b5217285838bc93",
+      "title": "Astellas employee to be released from China prison in December",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWhJc21hRTlDb25aNUZiNFlaY1VudzVTVkVBM0FmY2tBbC04b19mV0tPd1dEdWI5dHBOTmV0eHdtM1czdVpjOGp2M0hORkNDYVdZaXB2bjl5cmZ3N044S2JLUHpHbjYtSXl4dlZJa0NndXVjd1hzU2NXM196aXAwU0dHc1BmMEtHLUduTzBsdw?oc=5",
+      "source": "The Japan Times",
+      "published": "2026-11-08T03:01:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "cf10596154e10e14b5b667",
       "title": "What is GDP and how fast is the UK economy growing?",
       "summary": "",
@@ -819,7 +855,7 @@
     },
     {
       "id": "eef14a3beae1692081a2b5",
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
       "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
       "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -1404,42 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "64aea633afaca9aebc44f5",
-      "title": "Good riddance, Cybertruck!",
-      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed [&#8230;]",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "source": "The Verge",
-      "published": "2026-11-07T14:40:06Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6ad90a199c34c3046c2b77",
-      "title": "Ablakwa Pushes AU-CARICOM Partnership to Boost Africa-Caribbean Trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWNNcTh6ZFg4WnhONzcyZjJJclJiZ0hlMExlN2VnLTcwdER5MjhweXpmeERBMjZUOVVUSi1JNFA0ZEtFWUJ4dFA2aXZMa3ljNzhpZ3plQnUxLXpYaUd4TEdwMjVDeXdzZlgtRGZrWGdrMmNuUHNJM0V5X2ZKdmptMGpKUl9TQ3VlZVNLcEhpTVBMV3JicGVN0gGWAUFVX3lxTFBuVW15WFVnRmsycVR6M0JCMHRmMnBjVUNrRms3ajYzNk5kN1F3SWQ4Z0ZpVS1xUmMzNVRFQjIzcDJhQlVjNlVMUmdHV1huVzZmY1JpNk1VYlMzVjRpdHpPd2FJVkpvbHNJTkMyRnhmSVNHM3Rvc2k5MTVsRlBHZWNXUll0X0UxT1VEdkIzRUNVVTZScU4xZw?oc=5",
-      "source": "Modern Ghana",
-      "published": "2026-11-07T14:05:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c1517fa306f4dd3f4a6653",
-      "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-      "summary": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’ “One of you needs to be on the lookout for cops, while I block the robot, OK?” It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-      "source": "The Guardian",
-      "published": "2026-11-07T14:00:12Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19c1a80021e2814f0bbcd0178aea2c0c"
     }
   ],
   "countries": [
