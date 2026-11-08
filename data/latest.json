@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-08T20:13:46.095625Z",
+  "last_updated": "2026-11-08T20:55:44.275535Z",
   "articles": [
+    {
+      "id": "d1d29453d583846bd777c2",
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinu",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "source": "The Verge",
+      "published": "2026-11-08T20:52:05Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "2e228b151efba23e62d018",
+      "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkF4ZEJCYVZFalpVOHJMdEdWdkw2UWtqVEdmdFNwR1FPSlZGR3JtSDlRZjkyczF4SWstdHdUb2VTTXZIb1FPSWFqVG0yYmtlTkFKWkVXYU9GMko5YU4xWUhKTzlsdjJxRUxkSkZOTU9aV1B0TFBIdFV0bWdLLTBYNGNUX1JXZ1NqU2tsMncxNmXSAZYBQVVfeXFMT2I3cGlsSnlvR0dob2JGTEdwMGc5OG1rZkxkeWdOTDRMcDY0U3VWRW91RGtYVVh0NUhQdUR4TFhKZGVsWDNLeGw3d2VOUlVQS093bDEyZHRidjlCemEyeHluQ3ozR202RU9JekJTVjduT1M5MVYyNXFQdFZBbGo4UnFJSXB3dzFhNC1qQWczMUQ1VWJxVGFB?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T20:32:42Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "abc33a0fbba42e3ee1dd6d",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T20:30:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800"
+    },
+    {
+      "id": "b4dc4be7539d9c786c7a5e",
+      "title": "Mexican entrepreneur builds China-Latin America trade bridge amid APEC 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUVjVXNwdEhER0k1b0ZoSG9YM3NXUjFxZzBtNHBLVE53eUtVbUpaVUZBWHEyOExJaU94UTk3ZGYzTjVXandFU1Q4aHdHcnJyenEzZHFrQkpNZ1lFOUlJV0hVZkU3NWlaQ3dYN29GbnZ0Q0I5WGlqRmY5VmVxMHllbzhQUUgtMVNfY1ZSWTBRcEQtX0Rsb25fWG9EX2NDTkQ5S1l0WVBDdFptZGNmWUVZZnRZckptODE1NExTNlMwa2lZZ2kxeVE?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-08T20:27:14Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "79dbc511ea9d27e149fa30",
+      "title": "White House vows not to slow down immigration enforcement in wake of midterms defeat",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52M1FGVUZVd0NsT2dyZVdxOXZDZkFYdGNXYmxsUDV3T3dNSGkxR3M1SGNtbERUUVduZHM5QXEwSExlMU01VUVvQnRnYzJocy1UNzlkNDQwS21mVTg?oc=5",
+      "source": "BBC",
+      "published": "2026-11-08T20:23:58Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "54c06e97d6e0a2b71c0f98",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge",
+      "published": "2026-11-08T20:22:39Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "ab64ab2f789c4bc1d34eaa",
       "title": "Synopsys joins European initiative to support semiconductor startups and SMEs",
@@ -1366,78 +1438,6 @@
       "published": "2026-11-07T22:24:53Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "79a8ecf18d1460196950ee",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T22:19:59Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "af722e765d69173a661ef7",
-      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
-      "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-      "source": "NPR",
-      "published": "2026-11-07T22:12:09Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "f6291242d992d0d53911fc",
-      "title": "A correspondent finds Cuba's people struggling",
-      "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
-      "source": "NPR",
-      "published": "2026-11-07T22:12:06Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "2f5bbb1655d247ff93da85",
-      "title": "Senior Minister Lee urges Australia to deepen ties with ASEAN — Channel NewsAsia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTI2Z25EQlh2SFVFUHl4V3RWNnpJaHBLM1RXUmNPand1ZmxiNmFUU0gta3hrQnRyNmRQMXk2WTFSYUV6Z3owdDgtUzIzT2ZTcWtiM0pDQ1BIMlNINzRWU2p0MGk2b1hDM0tsMERxdDcyWVh1TkVYV2dTNTRoV2lZRzNZb082enBuQ3lsNEZHeEM1dnpwMkFweU9hcm5RSlF5ajlMOFJXRzBtVnhtU3c?oc=5",
-      "source": "UA.NEWS",
-      "published": "2026-11-07T22:09:19Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "757379c07d1179f77b312b",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T22:07:22Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765"
-    },
-    {
-      "id": "908b1309ea4f291eac7209",
-      "title": "Mexico's week in review: INE crisis deepens, economy gains momentum and Latino voters reshape US midterms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZFJPbnAxS09zMnFTRW5yTExVMGVSLUlVajRvVk12YXprRXhRUDlnY3JJSHBhcERPUnJxaC1rMVRBNUVhaWI0RlJaUFEtN3VOdFZPZDZ2WUNoWEotVVphN0wzSnlUSWxIRWloSFpDTGVULWotMU0xZGs4VVhSaFliOUpQNUJjYjFzMldNdVpvcVdncFZNdkdBeHU2eEFZeEZWSlRv?oc=5",
-      "source": "Mexico News Daily",
-      "published": "2026-11-07T21:50:08Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
