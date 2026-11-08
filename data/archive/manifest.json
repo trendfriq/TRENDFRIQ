@@ -1,6 +1,11 @@
 {
-  "years": [],
-  "total": 0,
+  "years": [
+    {
+      "year": "2026",
+      "count": 137
+    }
+  ],
+  "total": 137,
   "collections": [
     {
       "name": "Library of Congress Newspapers",
