@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T06:11:57.465342Z",
+  "last_updated": "2026-11-08T06:21:40.166237Z",
   "articles": [
     {
       "id": "84f5b599c0c85eb83124af",
@@ -206,6 +206,30 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
     },
     {
+      "id": "af722e765d69173a661ef7",
+      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+      "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+      "source": "NPR",
+      "published": "2026-11-07T22:12:09Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "f6291242d992d0d53911fc",
+      "title": "A correspondent finds Cuba's people struggling",
+      "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+      "source": "NPR",
+      "published": "2026-11-07T22:12:06Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
       "id": "2f5bbb1655d247ff93da85",
       "title": "Senior Minister Lee urges Australia to deepen ties with ASEAN — Channel NewsAsia",
       "summary": "",
@@ -264,6 +288,18 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "193d985bb4f15456178708",
+      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+      "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+      "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+      "source": "NPR",
+      "published": "2026-11-07T20:18:18Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F77%2F67a1bd07484b844a6a8d15b90a17%2Fap26301008182475.jpg"
     },
     {
       "id": "342f714f0067661f2c5480",
@@ -386,6 +422,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900"
     },
     {
+      "id": "d885a696d889ce6383aa8c",
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+      "source": "NPR",
+      "published": "2026-11-07T17:14:36Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg"
+    },
+    {
       "id": "c8a113443d4ce205f5e5fd",
       "title": "Gita Gopinath says the $1 trillion AI bet will correct — and a US recession likely follows",
       "summary": "",
@@ -407,7 +455,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "c6ae51f0f919c58bd70060",
@@ -443,7 +491,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "45b944c4290360a1e3279b",
@@ -455,7 +503,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "a3a63a91f6daf1ab8843d0",
@@ -479,7 +527,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "b521172828d62613029c51",
@@ -491,7 +539,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "9928291d6e8b7e44562c55",
@@ -527,7 +575,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "64aea633afaca9aebc44f5",
@@ -539,7 +587,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "6ad90a199c34c3046c2b77",
@@ -552,6 +600,18 @@
       "topic": "Africa",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "c1517fa306f4dd3f4a6653",
+      "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+      "summary": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’ “One of you needs to be on the lookout for cops, while I block the robot, OK?” It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+      "source": "The Guardian",
+      "published": "2026-11-07T14:00:12Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19c1a80021e2814f0bbcd0178aea2c0c"
     },
     {
       "id": "6732d9da13dc97c3759482",
@@ -575,7 +635,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "448c0bad413dc3a18a5538",
@@ -647,7 +707,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "97cf4b4f2e210fae3ff211",
@@ -692,7 +752,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
       "source": "The Guardian",
       "published": "2026-11-07T11:00:08Z",
-      "category": "Economy",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/452570685e3bee42441282dc9ff80c72d8c5dfca/453_0_4594_3676/master/4594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=655ac607657953598bfc0422010d80cc"
@@ -734,6 +794,30 @@
       "image": ""
     },
     {
+      "id": "0dcf5e690b0eae8fd2ec32",
+      "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+      "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy A datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted that the scheme will be entirely served by the National Grid. DataVita, a key plank of the UK’s AI strategy, had promised that the Lanarkshi",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+      "source": "The Guardian",
+      "published": "2026-11-07T10:00:08Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/c1b8eb2d05fbcf3925b8a30a9e3d4612d3eaa8c7/1365_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c31b418c813c51421e0737b454b6ad5a"
+    },
+    {
+      "id": "bef028bbd7f40d5d158e0e",
+      "title": "The datacentre arms race hits pause in south-east Asia",
+      "summary": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago In early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a UAE-based Skyline datacentre and Singapore’s Bridge datacentres, totalling a plan",
+      "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+      "source": "The Guardian",
+      "published": "2026-11-07T10:00:07Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79165e86d1954daf6e66e67eb9becec8"
+    },
+    {
       "id": "461b44efa42f05fb04df74",
       "title": "Is Earnings Beat Altering The Investment Case For ACI Worldwide Stock (ACIW)?",
       "summary": "",
@@ -744,6 +828,18 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "f4d8438053ed674ec29173",
+      "title": "TikTok accused of helping to promote sex industry to girls",
+      "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyle TikTok is helping to promote and normalise the sex industry, allowing “sexfluencers” to post videos aimed at marketing pornographic content they have uploaded elsewhere on sites such as OnlyFans, a report indicates. After studying non-explicit conte",
+      "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
+      "source": "The Guardian",
+      "published": "2026-11-07T09:00:07Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/4c15ad088ea9124f8235261941f6a598cbe96eb1/0_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c46636ff4cebca3888aa997196b9d7b"
     },
     {
       "id": "ae524b3709296bf858ad15",
@@ -792,6 +888,30 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "7ddc1659b9313d0b8b05a5",
+      "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
+      "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised him Can smart thermostats and AI reduce your heating bills? Every manufacturer claims the answer is yes , quoting average savings in the 25%, or £180 a year range. But all of these promises are heavily caveated and, with energy costs changing regular",
+      "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+      "source": "The Guardian",
+      "published": "2026-11-07T07:00:07Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a602f8453b41164785519bbae64ff4051677f8c0/857_0_4341_3471/master/4341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb8c764f4d9a3015bc3f65adaff02b4e"
+    },
+    {
+      "id": "b117f698b1dd7a0d31faea",
+      "title": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
+      "summary": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budget A woman who promoted a notorious cryptocurrency scam has been elected as a Reform UK councillor and now sits on the audit and risk committee of a major city council. Susan Lawrence was one of the main UK promoters of the HyperV",
+      "url": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
+      "source": "The Guardian",
+      "published": "2026-11-07T07:00:04Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/c4ab352229a9553522afe3e33aaa405141978fb4/781_95_1724_1380/master/1724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a85a1cc1bb96108bfa32826c5af173c"
     },
     {
       "id": "42531dc9299c2c06d47d84",
@@ -852,6 +972,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1283080307.jpg?resize=1200,800"
+    },
+    {
+      "id": "1707a586080dffd1f36a0e",
+      "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
+      "summary": "Acts of greyzone aggression aim to spread panic. Europe has to show the saboteurs that we are resilient It was as though a ghostly hand had switched the settings on supermarket freezers across Europe from “freeze” to “defrost”. From Finland to Ireland, they suddenly began heating up , many reaching 50C and food worth millions of euros had to be thrown away. ",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
+      "source": "The Guardian",
+      "published": "2026-11-07T05:00:02Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/fcd2f563900100a09e32551733206c8276b969a9/896_0_5047_4037/master/5047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4c842b64136cc70ed47978dfc1217da5"
     },
     {
       "id": "476c53f18deffb61a2a837",
@@ -959,7 +1091,7 @@
       "category": "Technology",
       "topic": "The Verge",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "6918e8874575f88f916b75",
@@ -1058,6 +1190,30 @@
       "image": ""
     },
     {
+      "id": "20e5ea8a8d5139236251f1",
+      "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+      "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on F",
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "source": "The Guardian",
+      "published": "2026-11-06T21:23:54Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf"
+    },
+    {
+      "id": "358c61084baa4890242bdf",
+      "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+      "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was newly unsealed by the US Department of Justice. According to a press release from",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+      "source": "The Guardian",
+      "published": "2026-11-06T21:20:49Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fca24c099200a4119230c96f17695f31"
+    },
+    {
       "id": "1cdf673daa10039db33adc",
       "title": "AI stocks bounce back after trillions wiped from market values",
       "summary": "",
@@ -1092,6 +1248,18 @@
       "topic": "Europe",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "612883a640e88a9ac93034",
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "source": "NPR",
+      "published": "2026-11-06T20:42:51Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8069x5380+0+0/resize/8069x5380!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F6c%2F50cd0c0a4ea1b5b817c6d594d7b6%2Fap26300479457875.jpg"
     },
     {
       "id": "dbc92f36f9265b96585fde",
@@ -1140,6 +1308,42 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f6a6cae8f175168cacea46f4a86c8976eba48874/0_1_3771_3014/master/3771.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf17f0b84abb311e2b9dd28a34f717d1"
+    },
+    {
+      "id": "9f1aba68d4a47499981e15",
+      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+      "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+      "source": "NPR",
+      "published": "2026-11-06T19:13:06Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6816x4544+0+0/resize/6816x4544!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F70%2F4c7f5387455fac4992cf3fc5c68e%2Fap26310822769131.jpg"
+    },
+    {
+      "id": "f535280c987a445b73c6a1",
+      "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+      "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+      "source": "NPR",
+      "published": "2026-11-06T19:00:21Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2Fb8%2Fb629bb2042d1afc6a8774ba0e682%2Fgettyimages-2286697424-1.jpg"
+    },
+    {
+      "id": "4124fc328a5ee49a687c2d",
+      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police w",
+      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "source": "The Guardian",
+      "published": "2026-11-06T18:51:37Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/master/1702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1dd4952c059ad2294542e8030420610b"
     },
     {
       "id": "01856f52ceb43a68949e72",
@@ -1236,210 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/0e4c788de335f06b675ebb989bef6fdeb25ba7e8/566_34_4958_3966/master/4958.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d09da962b0b91548b0935a5b6dd11891"
-    },
-    {
-      "id": "6700a98b6b621ba3fa1a5e",
-      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-      "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-06T17:19:38Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg"
-    },
-    {
-      "id": "523d76047aac70b3cfcac3",
-      "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-      "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics corres",
-      "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-      "source": "The Guardian",
-      "published": "2026-11-06T17:04:41Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b17a059303674bee4fb3dec0de66bf842d9d60d6/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=738d03bd6086c1c703065b952e0f2443"
-    },
-    {
-      "id": "8582bec3213b47cc905288",
-      "title": "The Biggest Takeaway From Palantir Technologies’ Latest Quarterly Report Is a Potential Warning Sign Investors Shouldn’t Miss",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWZwUVRYMnVuYnJlOVBZNnVRSndGY2pSdjRoVUtfSnJHNXZ5cUdxbWR3b1VCSVo4bldRRF9kTEpCbVhsNlc5Mm1WZVRpaXhkVmE2UHdpSEZJU2dNcjY0enFlcDdIQ0djdDdVQkUySEJZenlQWDU0d3RFSUE5T1JlMWcyVnN2eU5yWE1WbHRxVGc0SHplbmtWU0RlZk5kZU5KYU9MUHI5UFR2cEhRMEFfdjdkd294MDdPOGtxMUozRFFkb25fN19tTDlNMHgxMG1JcjZSM0JrclFsTGF3WGdWTnBWVllCR1hibmU1Y0RWelg0Q0xycjNwVFMyZw?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-06T16:52:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6ca9bd4dfd5687bcd1eb3e",
-      "title": "Get Ready: Global Entrepreneurship Week Charlotte is Nov. 16-22",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1BRZGFaTC1kX0xTY0dsRkdldDRaOUpBc1dLZTBqYWRKYkVYNmQ5UUZINjRZQXI3dGU4S2VIUWNFaGZHUEQtR0EyLUJmQWFaa3A0eDAydlFibVVUdGkxSEwwZ1dGTmFmMWloRk9XNWtuZDB1dDJreU0tRWpjMHpjb1FNZUtLNnI1dndFRjJSV0VZOXZ1dldVMS1aYUwyekdvSkE?oc=5",
-      "source": "City of Charlotte (.gov)",
-      "published": "2026-11-06T16:50:20Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "11251df480013d793d82c7",
-      "title": "Could the AI bubble burst after Democrats’ midterms sweep? – The Latest",
-      "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics corres",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-      "source": "The Guardian",
-      "published": "2026-11-06T16:49:19Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/211005dafd2ce194864d2a148a82ee0098dd8f95/0_0_3063_2450/master/3063.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6a3e2b7fb41111c401e2f4593469c90"
-    },
-    {
-      "id": "b58cff822c90bfea26c453",
-      "title": "Week ahead: US inflation, UK GDP and political shifts put markets to the test",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUZoaWU2bmNXOUpFT0NVMDJRdTVXZC1BRlplYnJ3Tk1lQXY0UHNmMHVUUWViZld2ZmxiUTFXb1JVMVFpR2VwNlFZVEJ0aDBKRnYtemUzVzlTTjdIV3NUZDNfX3NMci1yVE9VaWg3NzlWYy10U2Jya09kb0UzbEFQQ0lYZFZXTGhpTWhXaV95dnZRRzdVbU5RcmFn?oc=5",
-      "source": "Equiti Global",
-      "published": "2026-11-06T15:53:58Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "258e15a0d17b8fdbdcd3ad",
-      "title": "Trader angst pivots from inflation to growth as tech rout deepens",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm13UzNKRG9XaWdpdHV5SGo2UHJKSFlrRW5NUXVNR21LcnpYM01JaHZvY2dTVnN4aTZIbnYxMjI1RUdDWmN6UjBaZTNOdFVNWnpPOTNtWlQ0c2RCMlFDY0VKX0lUZ0JUZHRtSVlHb2k1VENabjhMWkdncTBBUTQyaHMtWGVpaUlZcEFqVzZaVnJId2pJXzdpcm9QaU93QkRhYlZ5eFZQUFZlYmpnREhMUXU1cnE0Zw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-06T15:33:52Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5d7427350e81f87516f454",
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-06T15:25:43Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d2/live/40c46130-d9f6-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "56a45ef8e9cb9313479572",
-      "title": "Week Ahead: US CPI, UK GDP and Market Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Zqd2ZXcWhrc2lDM09FNWlGSGV0dFhtWUNia29oaW1PQWNBdWpVLVl4cU9XcE9KOGRnVG1XWlhQSUx1bmdnU3lKVVdJMkxSa01zRlRPY0VtVS1wMDZ6SmtoaV8zZldqVWhJLTkzbjJJS0xhUVR3VXdvTEZoVk83bDlnS2YyMmNCWjVjdl9MMnlaV2lWUEtybnJB?oc=5",
-      "source": "Equiti Global",
-      "published": "2026-11-06T15:14:39Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d32891547ec5720dae0efe",
-      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-      "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history. The sentence, comprising 100 years for mu",
-      "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-      "source": "The Guardian",
-      "published": "2026-11-06T15:08:43Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92465ad453598502216a71633357fe22"
-    },
-    {
-      "id": "8dba32568d3fc836bd92ea",
-      "title": "ASU students to gain global career training in Taiwan through unique study abroad partnership",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjBjcW1FWVhPVkswdElTMzFhbjRFRVhjS1d5NTlvRkNXOWVmZS1OUk5jcGxTTUNIWUxQNUJkb29iQW0yYkl6RnlESFJlR3M2MmpuMVd3S2ZKbWNKTWtyaFN1QmpLU1FYMGlzQWlIRV9fNHdoS3pLMGZ5UWNyNWFHTFNibkczSEdpcEk0RzNvejMyNXRMTWZmN1ZSN2xoYWxuVThwWE1lSmJBM3p1VWI5U2E4b0tsN3VPbXpCTnBPblQ4QQ?oc=5",
-      "source": "ASU News",
-      "published": "2026-11-06T15:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "99b67cee770133207829fa",
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
-      "source": "The Hacker News",
-      "published": "2026-11-06T14:58:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "42978425865c73687d5dc9",
-      "title": "EU and India conclude negotiations on association to Horizon Europe to push innovation ties",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNTczNFZXeVFCZXNYbndQRVRMNW9QQmRxNWxSM1VRR21RS3BuM0hqUTMtWGdRQ1dRLUVUV3FFSmRwdDlHSzBwMEgtUk5KbUowRHMtd2x4NTJBdWt3YVU4Q3dUU0JTRTdlLUlIbk5OdXBCcnR2ZmY5MTdFamtSczBBNkp3XzBmOTRqY2FOVVlnTXhkUzJNVXItLXZqMTNtR29PbFd6Mk9GeVQxUFk2ZV9TREVVWm1ISnQzVVpYZjBPMVlSN1RuUlloYUliSG5EcldxOU9rYm9jTFJGSTJBc1RCWVF2eGc2S3lnd1V2S3hab3VIM09iclNlZFdVS1pmcERGYXJ0ZUttRVc3YUNveEE?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-06T14:49:28Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a3c9abd5f5b63fced4a1be",
-      "title": "Irish economy 'less efficient' but remains most productive in Europe, CSO data finds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1d2x1OXhseFl2dTVISW5hM1V1WkE3R2FPVlRoZ1QyOF9HRDRsY1VCYS1XZlVYdEwyaTBDLWpTQzQ0WnFvT3A4eDJ4Nk93RGNhbGtMOG51b2RGU1QtVElnbmo5a2c4YUdXVUpIR2Q2TktadFE?oc=5",
-      "source": "Irish Examiner",
-      "published": "2026-11-06T14:39:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "63472a2d6427019faf13ac",
-      "title": "The Founders Behind MUSTips and Game Empress Launch The AI Future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWU5BUm5Zbl8yWkRyUGRfSGZTWklwRVg5VFZCMjkyT3VTWUZTOE10Z3dOMlhzUlRMX0stcW9sMFlHd0RZM3poNERWdFNub0xGTGlFY3hiMzgtZGtISDRQYldlcFAzS2o5dUt5eWRqVWFjTDJMdzVKZzU0QnVSeWpVR2dJaEdPVjNxdjlVZzNPWHRzQlkyNHhiUjNPS2ZMWWNGcHFKeFJpTHF2a3NOeUZDREpNemZzZw?oc=5",
-      "source": "Detroit Free Press",
-      "published": "2026-11-06T14:33:08Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cf4e1ded503f2d56fc9c6f",
-      "title": "Press Release: TaylorMade-adidas Golf Company Completes Acquisition of Adams Golf",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGY3aXIwRjcxOWZuWS1fa0xnMGxWOUR4RlBaTlhTNENIb0NVdFhkRkRBOVZTR0JWdnloVkwzclF4Vm8tSDM0UEtQNVl0WWNmY3VaMjNPa1lIV1FmZmliV2hOTlFhQzJNblpQN1VoekZ3RUFmTTVPcGpaVi1fSWNtSFFpVWtGNVA2TG9SckswTlNUZzZuMUh5RFc4bGtRUTJtckIzN1lKdTRwMEk?oc=5",
-      "source": "GolfWRX",
-      "published": "2026-11-06T14:20:37Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "14e99076687fe2efd91eed",
-      "title": "Who pays for Europe’s economic independence?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFVKYVU3OUtRV0VpUW9jTnZPSFZOYkRDOHRGTFVkU3ktR1diU1NQQ1R2cURwVl81S0ZVYWQ2YVZhakEyZ190bEdZaGFxaVBuRkppbDlyc0RhLTdhTHhJQmJXRVQ5ZGFJV2dNaXl2SHNEVlQ0QjVPUWFUWmpVbW1lcTRtM0ZtUQ?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-06T13:58:30Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
@@ -6471,5 +6471,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 19
+  "source_count": 22
 }
