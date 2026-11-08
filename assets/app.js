@@ -12,7 +12,12 @@
   const yearOf = a => (a.published||'').slice(0,4);
   const artWord = {Finance:'MARKETS',Technology:'FUTURE',Brands:'BRANDS',Economy:'ECONOMY',World:'WORLD'};
   const slug = c => String(c||'World').toLowerCase().replace(/[^a-z]/g,'');
-  const art = (a,cls='')=>`<div class="art art-${slug(a.category)} ${cls}" aria-hidden="true"><span>${safe(artWord[a.category]||'WORLD')}</span></div>`;
+  const aiLabel = () => ''; // No generated images: publisher photographs only.
+  const art = (a,cls='')=>{
+    const image = validUrl(a.image||'');
+    if(image!=='#') return `<div class="art art-photo ${cls}"><img src="${safe(image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.hidden=true;this.parentElement.classList.add('image-error')"><span class="image-fallback">${safe(artWord[a.category]||'WORLD')}</span>${aiLabel(a)}</div>`;
+    return `<div class="art art-${slug(a.category)} ${cls}" aria-hidden="true"><span>${safe(artWord[a.category]||'WORLD')}</span></div>`;
+  };
   const meta = a=>`<div class="meta">${safe(a.category||'World')} <span class="dot">·</span> ${safe(a.source||'Original source')} <span class="dot">·</span> ${shortDate(a.published)}</div>`;
   const storyUrl = a=>validUrl(a.url);
   const story = a=>`<article class="story-card"><a href="${safe(storyUrl(a))}" target="_blank" rel="noopener noreferrer" aria-label="Open original story: ${safe(a.title)}">${art(a,'art-cover')}</a><div style="margin-top:13px">${meta(a)}</div><h3><a href="${safe(storyUrl(a))}" target="_blank" rel="noopener noreferrer">${safe(a.title)}</a></h3>${a.summary?`<p>${safe(a.summary)}</p>`:''}<a class="text-link" target="_blank" rel="noopener noreferrer" href="${safe(storyUrl(a))}">Original report ↗</a></article>`;
@@ -21,8 +26,8 @@
   const renderList=(arr,max)=>arr.length?`<div class="story-grid">${arr.slice(0,max).map(story).join('')}</div>`:noStories;
   const headline = a=>`<a href="${safe(storyUrl(a))}" target="_blank" rel="noopener noreferrer">${safe(a.title)}</a>`;
   function home(){
-    const feed=state.feed,lead=feed[0];
-    const hero = lead ? `<a class="hero-card" target="_blank" rel="noopener noreferrer" href="${safe(storyUrl(lead))}"><div class="hero-text">${meta(lead)}<h1>${safe(lead.title)}</h1><p>${safe(lead.summary||'Explore the original reporting from the publisher.')}</p><span class="text-link">Read original report ↗</span></div></a>` : `<div class="hero-card"><div class="hero-text"><div class="meta">FINANCE · TECHNOLOGY · BRANDS · WORLD</div><h1>The world in perspective.</h1><p>Independent, source-linked intelligence across global markets, business, technology and history.</p><a href="#archive" class="text-link">Explore our archive →</a></div></div>`;
+    const feed=[...state.feed].sort((a,b)=>Number(Boolean(b.image))-Number(Boolean(a.image))),lead=feed[0];
+    const hero = lead ? `<a class="hero-card ${validUrl(lead.image||'')!=='#'?'hero-photo':''}" target="_blank" rel="noopener noreferrer" href="${safe(storyUrl(lead))}">${validUrl(lead.image||'')!=='#'?`<img class="hero-image" src="${safe(validUrl(lead.image))}" alt="" fetchpriority="high" referrerpolicy="no-referrer" onerror="this.remove();this.parentElement.classList.remove('hero-photo')">`: ''}<div class="hero-text">${meta(lead)}${aiLabel(lead)}<h1>${safe(lead.title)}</h1><p>${safe(lead.summary||'Explore the original reporting from the publisher.')}</p><span class="text-link">Read original report ↗</span></div></a>` : `<div class="hero-card"><div class="hero-text"><div class="meta">FINANCE · TECHNOLOGY · BRANDS · WORLD</div><h1>The world in perspective.</h1><p>Independent, source-linked intelligence across global markets, business, technology and history.</p><a href="#archive" class="text-link">Explore our archive →</a></div></div>`;
     const small = feed.slice(1,4).map(a=>`<article class="lead-small"><a href="${safe(storyUrl(a))}" target="_blank" rel="noopener noreferrer">${art(a)}</a><div>${meta(a)}<h3>${headline(a)}</h3></div></article>`).join('');
     const side=small||`<div class="empty-card"><h3>Every story starts with a source.</h3><p>More global headlines will appear when the scheduled collector has run.</p></div>`;
     let out=`<div class="section-eyebrow">THE GLOBAL EDITION · INDEPENDENT INTELLIGENCE</div><div class="hero-grid">${hero}<div class="side-leads">${side}</div></div>`;
