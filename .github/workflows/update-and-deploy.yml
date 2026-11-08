@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths-ignore:
       - 'data/**'
+      - 'assets/generated/**'
   schedule:
     - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
@@ -26,13 +27,18 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Fetch and append public data
+      - name: Fetch and append public data, optionally generate AI visuals
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ENABLE_AI_IMAGES: ${{ vars.ENABLE_AI_IMAGES }}
+          AI_IMAGES_PER_RUN: ${{ vars.AI_IMAGES_PER_RUN }}
+          AI_IMAGES_PER_DAY: ${{ vars.AI_IMAGES_PER_DAY }}
         run: python scripts/update_data.py
       - name: Preserve archive in repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ assets/generated/
           if ! git diff --cached --quiet; then
             git commit -m "data: append newly collected intelligence [skip ci]"
             git push
