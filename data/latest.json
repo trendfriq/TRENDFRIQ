@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T06:23:56.866297Z",
+  "last_updated": "2026-11-08T06:24:57.542747Z",
   "articles": [
     {
       "id": "84f5b599c0c85eb83124af",
@@ -190,6 +190,18 @@
       "published": "2026-11-07T23:01:04Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ab5bcfb93bc2ddcab7af33",
+      "title": "China confirms discussions underway on historic Xi-Trump-Putin meeting",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR242bzhvT0hfTlFlWW90eF80aktvdE8xUHhtMnY0VTJsaTROTDRGQUVwVGdsS20tcTA2ZG9yc0VfbzdPaUZObm5wcG95dlhvOHJGX1J5R1hqNk1JbVcyelVFbVZrZTFMcElBQnNiVmhGeDhVMVRqM3NhMzRUa21LM1I3UmFtYnotMV9mX0Z1SWtOazBGbVA4N1BBSTY5VUU2S2lfNg?oc=5",
+      "source": "Colorado Springs Gazette",
+      "published": "2026-11-07T22:24:53Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -1070,6 +1082,18 @@
       "image": ""
     },
     {
+      "id": "1e18f0fb794076ed231ac2",
+      "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-11-06T23:59:49Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "10061ee4ded7dd5de9b37b",
       "title": "IMF's Georgieva says any slowdown in AI-driven growth would be fa",
       "summary": "",
@@ -1416,30 +1440,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "939820c711727b76ac1dee",
-      "title": "African Development Bank to present ‘Diaspora Initiative’ in Paris to accelerate Africa’s development",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkxvN0J4UVlHRE5MQTk0SkxxQW9NeUpXNGJPcWJtX3ZxX2djMlNfOFluUk1kcWF3ZlloRVdYcTVUaUZUd0xnc2VDUk5DNW5tQkp3SUZLNmVqTW5SSkRwdmZaQ0h3VGg2eUk2bFBYY3FobC13aTVYOVRQYnFYaGRUMUUyT0tIWTk2dDc3M1RSVkJvZEd0VDlxT0NR?oc=5",
-      "source": "African Development Bank Group",
-      "published": "2026-11-06T17:38:01Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "48a26be0d0669fa5f2a7c6",
-      "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
-      "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since ",
-      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-06T17:28:11Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/0e4c788de335f06b675ebb989bef6fdeb25ba7e8/566_34_4958_3966/master/4958.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d09da962b0b91548b0935a5b6dd11891"
     }
   ],
   "countries": [
