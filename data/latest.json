@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-08T22:21:17.876595Z",
+  "last_updated": "2026-11-08T22:57:23.967822Z",
   "articles": [
+    {
+      "id": "d08dc641958eb32375163f",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "source": "The Verge",
+      "published": "2026-11-08T22:37:22Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "cb577a851583fb4ba8a0c5",
+      "title": "Cryptocurrencies Drop to 2-Month Lows After US Midterm Elections",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUFwbW5lYmgtR04xRWF1amh6VVRBZVdtUEE1ZGduZkJ6Tjh3alE1LVc0RmdZMFp3T2pIYUgzQmxVamtVTkE4aFVXdHBkZmJTVm5CM1BJX3hGQjluOHJCTTVqeENzUFVNTXNHbnBfTkNJQXJQV3hpZzdyaGhaRGNROXZwSndiQ25WR3dzY041aG41d3R2?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-08T22:23:50Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6f7bde6e57bd9d6e026cc8",
+      "title": "Trump Heads to Shenzhen as North Korea, China Deepen Ties",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnBiS3N5OFNvNWZIQk40enFUZVNSWlhYMVk2YklmMFJaTk03NlkwSkp1d2FXSlkzOTNYaU5lVkNMZE5tRUpvSnpVcmI1b1RIdkhiRGhHQlg1QWVWck9YZ01Ta3g4bUE3eHktdndPQW9GTXRQelZxUFBndE9wWjQwZFFpSHpObXQyRkVxQlRWV016ejluSUJERjRCR2lmOU03?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-08T22:11:05Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "f74b4c79307a6db2cf924a",
       "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
@@ -58,6 +94,18 @@
       "published": "2026-11-08T21:41:18Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0076ffe7f58604cea35bb2",
+      "title": "GTA6 Release Sparks Global Economic Fears, Unique Events",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUhDeEFyZkZ2a0FCckd2bnNLRWJ3NllvRkJPRmhXbDBCNEc5b0lISTcyY1JkcnBEc21Hb2M1ZzdQeEJhVWVkVG1aMklpTzU5RnZ3N1ZPaWI5Ql9RbHJFWl9OV2RKSWUySWk3bld2NDk5RjJCVFRmSm9EVWFmb1RkX0xVejI2OERu?oc=5",
+      "source": "조선일보",
+      "published": "2026-11-08T21:03:37Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -384,6 +432,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034a0f8d3305abc1d2f7454ff0a5026f"
+    },
+    {
+      "id": "159e7802ec1b8da265f8d4",
+      "title": "An AI system running an Anthropic model settled an almost 20-year-old conjecture with implications for “Quantum Speedup”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXF1VGVQVjJDRHZHX0xxdU1HcTdDY005TGktN2szcVFsMExUWXRTWjA2SlpGY1dqVzJiWVJWN3VDSUdTaUlyVlFEdDFlZ24yWkd3WV9aMzFEWXpxTDMzSUNPQTZkVS1TaUt5LTZBdVhWNzlOazJqQjh4YXdQWnZUVVdicVZBajBYSm5PbFRCZnBKNXBIM0l0NU00WlVMVUN3WjB0LVR1Y0dUTk8xMU9OZVF6R2RiWm5kNDBuWm5oZ1BXbE9TWmUzbmF0cTVfejZSSzlIZENQOVlmVmVrNkF4NlV3?oc=5",
+      "source": "Quantum Zeitgeist",
+      "published": "2026-11-08T17:44:57Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2f1c02ddf8130da3cb52ae",
@@ -1120,7 +1180,7 @@
     {
       "id": "1bf3de5d437f5ff562d893",
       "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to “It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intell",
+      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to ‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intell",
       "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
       "source": "The Guardian",
       "published": "2026-11-08T08:00:36Z",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-08T03:01:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cf10596154e10e14b5b667",
-      "title": "What is GDP and how fast is the UK economy growing?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uSUdhZ1BRZmdTaVJWTm9ocWFjSDBRdlFGbGhYS2FBVERfNkZiUnAyTXgtS1ltNU0xdFFTcHNZRXpiMHU5anp0cjYtSnFxdlVVTmVXalBoenhwM3h5?oc=5",
-      "source": "BBC",
-      "published": "2026-11-08T02:26:29Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6f5649c24cfe0567d03579",
-      "title": "Hackers Push Supermarket Freezers to 50 Degrees Across Europe",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdmVMSFo0UUlkcGlEWjRtSmN4X0hvQVllR2VxczVRX3g2aWxGMS1SZFVHNVRxWTVJT0ludERWNlRrVjhROWE1THpFd2NuRUVUR1plampkME1qdWRCSVI3WlVyZDFINXRHMzNYODJaWHpJcWMtbFZqemU5ai1WSG1QVEtVUmF0d3ZTWXc1aDNLWTl3OENWS051RVJheTdjZ3VEUnRQRw?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-08T02:11:30Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "476c53f18deffb61a2a837",
-      "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-08T01:47:07Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bf92553d0bff4ca3de2911",
-      "title": "AI slump revives Asia’s forgotten trades from China to India",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQSlNtQ0FXcmQ3YS1RZkVEWDkyaVQ1bkZMOTlTZ0R5THVrZDljRWl3MXNQdlBzZW45ZFZTX3VJVm1md1Y0cG1vV25UQWpXRjNNbS03eW03cXQ5SFMtWmQxa3R4MWdfbDZ1UFNHOVVfdEhGOFhhaWpCM0hXU3hkWnB4WEJ2N1Z1cGZSUVUwTWlPVHZ2OWRUNlpQRlhwSWVnSUphRGh3aHJkT1pqZnA0dDl0QUs5YV9iNUNsN0FQV1ppRmdPeWtFTWJidHAtNGhRQWNOMEtoM0djV0lBQlJtaU5ic1hBamNRd1BUdGtZM21LbXJnajA5Um1rdE1QZjBJOU0wMFhYRHZVSzJuX205UFZkd2ZZNndNbWN5V1JMNENVZElwVVhsekxFYjF3VEhzbllxVDJhWjRn0gG7AkFVX3lxTE9rcmpiZWgyMFNMb0o4bFN5b1BpWkJTVWxWaGs0eklVZGZGSi1pQzcwR2hTOVpsX0kzZzRDOXg5eDRCdkw1cUtxbHZRLXoyM1RnTHRjYTJUM3FvRGhLeHd3OXlOcnU4aHlYaUY5U3lGZDJJWlVhWi1tWTNyeURBS09YYVBpejZON01MVWpzeGdlWE12Z2t4VDFMbl9YcEFDOE9BcC1QU2c2bU94TERpLTlQd2lXQjQ0MDR3QVJwaGtaMWxqTXFrS1VnYTdGV2V6YnRuZnZJR0xXWVlHNUdDT2dFSVJ4WEdFTlpkR09IUDZlVW50bDJSR0tYYkRZMEFfb2M2b25sNW5oWi11bjdXRjdPSS0zWk1JWndOanVYR3ZtVFdZSVFYb082LXVGQUpYdXZKdzdCT3d2dVRuZw?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-08T01:44:28Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4c995660511b5ebf4e4dc0",
-      "title": "LBS's Nigel Nicholson on why the future of leadership is individual",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYzkwWFNSbnplaXpLSk5rbmY4eUhzN2JOblpFSXVjYUdNWFR4YWpHd05ERWVabk9oeGlVU1NCS2NkTlpoblg4dUlVa3FldmdsN1psMl9mSmJIYXdfLVQ3aUFPT3BmaXgyd1BIdGVlbEtOZEJGMmt3bVgyZkdYQm95MkZDdVdNRFhwc3ZhQkJ5ejJCdGdkeERGMmR1LTFVaVI2Z21IYmRfVllLZUhhM21Hd2FJOA?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-08T01:31:52Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
