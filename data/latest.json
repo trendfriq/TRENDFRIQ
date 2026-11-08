@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-08T11:03:05.007634Z",
+  "last_updated": "2026-11-08T11:41:02.853385Z",
   "articles": [
+    {
+      "id": "1fd2c4b355c27cd812da74",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-08T11:25:32Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
+    },
+    {
+      "id": "d04570c52c8f8b01828517",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T11:22:17Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "id": "1649fd65c3aad216440823",
+      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+      "source": "NPR",
+      "published": "2026-11-08T11:00:00Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2998+0+0/resize/4000x2998!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F27%2F4d4fe4984450a672595971ed542a%2Fdesert-bloom-t-merino-87.jpg"
+    },
     {
       "id": "7fe22283385c87ca569e14",
       "title": "BVNK enables direct minting and redemption of O...",
@@ -26,16 +62,16 @@
       "image": ""
     },
     {
-      "id": "1fd2c4b355c27cd812da74",
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-08T10:44:42Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "id": "25e1b4dd632d3a8587bb80",
+      "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm1fbzlGVGlZVWdFV3h4NUYyT3prSEZjY2kyZW5sdXB3c0ktVGkyNWN2ZDd3UkxXWFJRTV9ScHVFLUNzMFBZVWNiTldyZ0cwcERNVHhNcDFWSENtWkVTSEF5M3Vwb1N1U1dvZEVDZ2NVQ01IX0FOQ1dNejlWbmtuZm5LUFhRUkM4SnROaUdsdENtQjNtTWRmcU5GT0JuTDMwNk9rVXRQQXV3b1dpd1owbdIBtgFBVV95cUxQaVVWa2JhcWM2NUpRSDBkSlRJMFB0OWxEZVpTSVZVNlFGNUpnUnZYbUdjSmNnWC1FdzNpb2x5NGltdl9VazZrcTNFdmRsdVJNaGtGeHlfUXhBSEFQXzFkYnNtUmJOcklUMFdVdEFxdTNDdG5JY2Jkd0JTdm85N2RlZXBhTEgyX0N5eDNYd2hRV19OUmNqZVotT2tzTEtCVWNEM0thWGlpdG0wSkllbkpBN2hlNC16QQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-11-08T10:38:58Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
+      "image": ""
     },
     {
       "id": "37adca9f286226271db9d8",
@@ -206,18 +242,6 @@
       "image": ""
     },
     {
-      "id": "d04570c52c8f8b01828517",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T07:52:33Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
       "id": "06db4879953ff21411da5c",
       "title": "Eskimoz Expands International GEO Strategy to Help Brands Strengthen AI Search Visibility Across Markets",
       "summary": "",
@@ -280,7 +304,7 @@
     {
       "id": "404ba329b755c4be11911a",
       "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd. The defrost light on refrigeration unit 2 was on, a",
+      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd. The defrost light on refrigeration unit 2 was on, ",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
       "source": "The Guardian",
       "published": "2026-11-08T06:00:33Z",
@@ -938,6 +962,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "id": "eebc42c37fde0e9f72a1cb",
+      "title": "Why the US Dollar Will Remain the Dominant Currency for 20 Years | Gita Gopinath | FO585 Raj Shamani",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUE1NUjhrdmxVZjlXVGNmakE4WHRHbDVmQVdPYk12MUx6YUFvZjMxYlFWbEhlNTc1R0JGNzc2Q3V1YnRzRlJYUFg5RXRIZ0VyaUd2TDM3SElVUlBtSmxj?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-07T16:33:54Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "96037e2b594aa0cfe6974a",
       "title": "Global Economic Governance in a Changing World Order",
       "summary": "",
@@ -1404,42 +1440,6 @@
       "topic": "Global economy",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "da6236b6300f01be79de85",
-      "title": "Gulf’s $3 trillion US investment drive faces post-midterm Trump reckoning",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkZuaWVHbER3bzVHcnlTZWdnMFlLVDJnZkt6Z2VDT0RQWF9Rcy04Y0hxNWNPVXI1REhpblFieGhaUFQtMDlxSzZWanJfQmloaEdBdTZtcE1iM3BXTFhmNkNRNjEwT3BuMGdMSWFud3ZTdTBvRzJ6RS1VNlBCQU5hVnRJRUMwQlpZMGNaUjNTSTZ6b25FT0xHbVZfVGJMZjdicFFLR2NCY2ItY0JXNTFRZExuSEFNanc?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-11-07T07:09:14Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7ddc1659b9313d0b8b05a5",
-      "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
-      "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised him Can smart thermostats and AI reduce your heating bills? Every manufacturer claims the answer is yes , quoting average savings in the 25%, or £180 a year range. But all of these promises are heavily caveated and, with energy costs changing regular",
-      "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
-      "source": "The Guardian",
-      "published": "2026-11-07T07:00:07Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a602f8453b41164785519bbae64ff4051677f8c0/857_0_4341_3471/master/4341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb8c764f4d9a3015bc3f65adaff02b4e"
-    },
-    {
-      "id": "b117f698b1dd7a0d31faea",
-      "title": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
-      "summary": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budget A woman who promoted a notorious cryptocurrency scam has been elected as a Reform UK councillor and now sits on the audit and risk committee of a major city council. Susan Lawrence was one of the main UK promoters of the HyperV",
-      "url": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
-      "source": "The Guardian",
-      "published": "2026-11-07T07:00:04Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/c4ab352229a9553522afe3e33aaa405141978fb4/781_95_1724_1380/master/1724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a85a1cc1bb96108bfa32826c5af173c"
     }
   ],
   "countries": [
