@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-08T20:55:44.275535Z",
+  "last_updated": "2026-11-08T21:37:11.457446Z",
   "articles": [
+    {
+      "id": "ab3c0090fa33621fad6524",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T21:00:11Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "id": "173bdbed7479e7643659f1",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T21:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675"
+    },
     {
       "id": "d1d29453d583846bd777c2",
       "title": "Epic Games Launcher is coming to SteamOS",
@@ -12,6 +36,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "12dd31512a4281c9642e9e",
+      "title": "Nvidia opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2dSbkNSc1RiSEd4c2xPWGpQSU1zVktFN2NYR2xuS1hNU0lKdzF4RGJXNTlDNm9PWmE2OHZYRGhxc2MyaGR2UFBrOVpfV2otLVlBV1JiN2ljNURSUlJDRC02UVR1dk1JT3dNTV9OSmlYcVlqdFMxVWQyQmdwOEkxc1JSRmdza2k1alE?oc=5",
+      "source": "AOL.com",
+      "published": "2026-11-08T20:33:31Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2e228b151efba23e62d018",
@@ -1298,6 +1334,18 @@
       "image": ""
     },
     {
+      "id": "476c53f18deffb61a2a837",
+      "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-08T01:47:07Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "bf92553d0bff4ca3de2911",
       "title": "AI slump revives Asia’s forgotten trades from China to India",
       "summary": "",
@@ -1390,54 +1438,6 @@
       "published": "2026-11-08T00:27:30Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6b65844ab701816623be99",
-      "title": "What Virtu Financial (VIRT) Said on Its Q3 Earnings Call",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFRlRUxONHI4UUhqdmJBdkJaazUyeWxaN3gyOFRNZ21PcTNkUHpKLTlWUWswZ21qNWQ3NVdSa2pQWTc4X1RGWkgxOFNfWWFZX1ZhM3ZQeFVYbE5jaVViVkUwbVpEM25WVG91SjduTmpaMGJHUXI1Q3c1MFpFRC1WeGlGNzdhdUQ4Wm9iejBnUUNlakRpRmF4N2dJYXRpX3pyU1VzbUkyMjUzY3ZzLVdickR2WVgxQQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-08T00:14:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eef14a3beae1692081a2b5",
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-07T23:02:35Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "36aa2e9fea7cd473c1e2ee",
-      "title": "Qatar Offers African Startups Up to $5.5M [2026]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUVxYUpsZXdnRENuaE1pYUtIUjFIT3JMVjZsdUFQUEZvOFRTT185OHJQWmJwOXZ6R0N1WnhYc3pDZGlvZkxCdHA5Q0FoZTZVNXZkNkx3d1A3dkJ0d1J4NGhxWkdSUUZrbl9JejU3YV9NRllqMGw5VWo0cElob0gwM2cxWEZBVDFINDBHQzN1b0ZFMDA?oc=5",
-      "source": "shattered.io",
-      "published": "2026-11-07T23:01:04Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ab5bcfb93bc2ddcab7af33",
-      "title": "China confirms discussions underway on historic Xi-Trump-Putin meeting",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR242bzhvT0hfTlFlWW90eF80aktvdE8xUHhtMnY0VTJsaTROTDRGQUVwVGdsS20tcTA2ZG9yc0VfbzdPaUZObm5wcG95dlhvOHJGX1J5R1hqNk1JbVcyelVFbVZrZTFMcElBQnNiVmhGeDhVMVRqM3NhMzRUa21LM1I3UmFtYnotMV9mX0Z1SWtOazBGbVA4N1BBSTY5VUU2S2lfNg?oc=5",
-      "source": "Colorado Springs Gazette",
-      "published": "2026-11-07T22:24:53Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
