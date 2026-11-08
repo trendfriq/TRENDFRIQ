@@ -38,9 +38,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ assets/generated/
+          git add data/
+          if [ -d "assets/generated" ]; then
+            git add assets/generated/
+          fi
           if ! git diff --cached --quiet; then
-            git commit -m "data: append newly collected intelligence [skip ci]"
+            git commit -m "data: append newly collected intelligence"
             git push
           fi
       - name: Prepare public site
