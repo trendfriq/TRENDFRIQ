@@ -1,23 +1,30 @@
 {
-  "items_per_topic": 8,
-  "max_items": 120,
+  "site_name": "trendfriq.",
+  "items_per_topic": 12,
+  "front_page_items": 120,
   "topics": [
-    {"label": "Corporate earnings", "category": "Finance", "query": "public company quarterly earnings revenue results when:7d"},
-    {"label": "Global markets", "category": "Finance", "query": "global stock markets economic outlook when:7d"},
-    {"label": "Brand moves", "category": "Brands", "query": "major brand launch acquisition marketing partnership when:7d"},
-    {"label": "Bangladesh business", "category": "Brands", "query": "Bangladesh companies business investment industry when:7d"},
-    {"label": "Artificial intelligence", "category": "Technology", "query": "artificial intelligence new model launch research when:7d"},
-    {"label": "Emerging technology", "category": "Technology", "query": "technology breakthrough new product semiconductor robotics when:7d"},
-    {"label": "Global economy", "category": "Economy", "query": "global economy inflation monetary policy GDP when:7d"},
-    {"label": "Bangladesh economy", "category": "Economy", "query": "Bangladesh economy inflation exchange rate exports when:7d"}
-  ],
-  "countries": [
-    {"name": "Bangladesh", "code": "BGD"},
-    {"name": "United States", "code": "USA"},
-    {"name": "India", "code": "IND"}
+    {"label":"World affairs","category":"World","query":"international world affairs economy business when:3d"},
+    {"label":"Global finance","category":"Finance","query":"global financial markets companies earnings investment when:3d"},
+    {"label":"Corporate results","category":"Finance","query":"earnings revenue quarterly results major companies when:3d"},
+    {"label":"Technology","category":"Technology","query":"technology innovation startups software products when:3d"},
+    {"label":"Artificial intelligence","category":"Technology","query":"AI artificial intelligence research launch models when:3d"},
+    {"label":"Brands & business","category":"Brands","query":"global brands marketing company acquisition launch when:3d"},
+    {"label":"Global economy","category":"Economy","query":"GDP inflation central banks trade global economy when:3d"},
+    {"label":"Asia Pacific","category":"World","query":"Asia Pacific economy business news when:3d"},
+    {"label":"Europe","category":"World","query":"Europe economy business news when:3d"},
+    {"label":"Africa","category":"World","query":"Africa investment economy business news when:3d"},
+    {"label":"Americas","category":"World","query":"Latin America North America business economy news when:3d"},
+    {"label":"Middle East","category":"World","query":"Middle East economy investment technology business when:3d"}
   ],
   "indicators": [
-    {"label": "GDP growth", "code": "NY.GDP.MKTP.KD.ZG", "format": "percent"},
-    {"label": "Inflation", "code": "FP.CPI.TOTL.ZG", "format": "percent"}
+    {"label":"GDP growth","code":"NY.GDP.MKTP.KD.ZG","format":"percent"},
+    {"label":"Inflation","code":"FP.CPI.TOTL.ZG","format":"percent"}
+  ],
+  "history_collections": [
+    {"name":"Library of Congress Newspapers","region":"United States","period":"Historical collections","description":"Digitized newspapers and collection records; availability depends on publication and date.","url":"https://www.loc.gov/newspapers/"},
+    {"name":"Europeana Newspapers","region":"Europe","period":"Historical collections","description":"Digitized historic newspaper records across European collections.","url":"https://www.europeana.eu/en/collections/topic/18-newspapers"},
+    {"name":"British Newspaper Archive","region":"United Kingdom","period":"1700s onwards","description":"Historic British and Irish newspapers; some records require a subscription.","url":"https://www.britishnewspaperarchive.co.uk/"},
+    {"name":"Trove Newspapers","region":"Australia","period":"1800s onwards","description":"Digitized Australian newspapers and historical publications.","url":"https://trove.nla.gov.au/newspaper/"},
+    {"name":"Google News Archive","region":"Worldwide","period":"Historical collections","description":"Explore digitized archived publications, with variable coverage.","url":"https://news.google.com/newspapers"}
   ]
 }

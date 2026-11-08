@@ -1,0 +1,41 @@
+{
+  "years": [],
+  "total": 0,
+  "collections": [
+    {
+      "name": "Library of Congress Newspapers",
+      "region": "United States",
+      "period": "Historical collections",
+      "description": "Digitized newspapers and collection records; availability depends on publication and date.",
+      "url": "https://www.loc.gov/newspapers/"
+    },
+    {
+      "name": "Europeana Newspapers",
+      "region": "Europe",
+      "period": "Historical collections",
+      "description": "Digitized historic newspaper records across European collections.",
+      "url": "https://www.europeana.eu/en/collections/topic/18-newspapers"
+    },
+    {
+      "name": "British Newspaper Archive",
+      "region": "United Kingdom",
+      "period": "1700s onwards",
+      "description": "Historic British and Irish newspapers; some records require a subscription.",
+      "url": "https://www.britishnewspaperarchive.co.uk/"
+    },
+    {
+      "name": "Trove Newspapers",
+      "region": "Australia",
+      "period": "1800s onwards",
+      "description": "Digitized Australian newspapers and historical publications.",
+      "url": "https://trove.nla.gov.au/newspaper/"
+    },
+    {
+      "name": "Google News Archive",
+      "region": "Worldwide",
+      "period": "Historical collections",
+      "description": "Explore digitized archived publications, with variable coverage.",
+      "url": "https://news.google.com/newspapers"
+    }
+  ]
+}

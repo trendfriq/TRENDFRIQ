@@ -1,62 +1,60 @@
-# trendfriq. — Automated intelligence dashboard
+# TRENDFRIQ v2 — Editorial Global Intelligence
 
-A read-only public dashboard for finance, brands, technology and country/economic developments. Deploys to **GitHub Pages** and collects public data using **GitHub Actions**.
+A GitHub Pages, **read-only** public news index with an editorial homepage, light and dark mode, source-linked coverage, worldwide World Bank country indicators, and a growing chronological archive.
 
-## What it actually does
+**Important scope:** New collected records can be permanently retained in the repository from the time this workflow starts. Historical stories from the 1700s are **not already in the stored archive**. External historical newspaper collection links are provided, with availability and licensing decided by those institutions. This version cannot guarantee full global news coverage or market tick-by-tick realtime data.
 
-- Fetches source-linked news headlines from Google News RSS searches across 8 configurable topics.
-- Fetches GDP growth and inflation observations for Bangladesh, India and the United States from the World Bank Indicators API.
-- Refreshes **on GitHub Actions every 15 minutes (best effort)** and redeploys the site. GitHub may delay or skip scheduled runs.
-- Browsers check the newly published JSON every 5 minutes while the page is open. The reader can also tap Refresh.
-- Displays the last collection timestamp and shows a delayed-data warning after an hour.
-- Search, filter, mobile navigation, dark/light mode, and device-local bookmarks. Visitors cannot edit published content.
+## Installing into your existing repository
 
-**Important:** This is *near-current headline aggregation*, not a second-by-second live market-data terminal. World Bank indicator releases are periodic and can represent prior calendar years. Company revenue figures, real-time share prices and instantaneous alerts are not included. They need separately licensed financial APIs and sometimes a backend.
+Your repository: `https://github.com/trendfriq/TRENDFRIQ`
 
-## Publish with GitHub
+1. **Back up your repository** using Code → Download ZIP.
+2. Open this download and upload the **contents** of the `TRENDFRIQ_V2` folder to the repository root. Replace the existing `index.html`, `config.json`, `assets` and `scripts` files with the new versions. Ensure hidden `.github` folder is included.
+3. **Delete your previous workflow file** `.github/workflows/refresh.yml` if present. Also delete the old `.github/workflows/update-and-deploy.yml` before uploading the replacement if GitHub's browser uploader cannot overwrite it reliably. The final repo should have **one** TRENDFRIQ workflow: `.github/workflows/update-and-deploy.yml`.
+4. Open **Settings → Actions → General → Workflow permissions** and choose **Read and write permissions** if available. GitHub Pages access must also be enabled, and `main` must be your default branch. In a public repository this allows the workflow's `GITHUB_TOKEN` to commit the newly collected archive data.
+5. Open **Settings → Pages → Build and deployment → Source = GitHub Actions**.
+6. Go to **Actions → Refresh intelligence and deploy website → Run workflow**. Review both the `Fetch and append public data` and `Preserve archive in repository` steps, as well as deployment.
+7. Confirm `data/archive/manifest.json` and `data/archive/YYYY.json` are updated with records in the repository. The archive is not persistent if the workflow's commit fails.
+8. Open `https://trendfriq.github.io/TRENDFRIQ/` and hard refresh.
 
-1. Extract the ZIP and upload **all** its contents, including the hidden `.github` directory, to the **root** of a new **public** GitHub repository. Name it `trendfriq` (or another repository name). Use the `main` branch.
-2. Go to **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-3. Open **Actions → Refresh intelligence and deploy website → Run workflow** once. Confirm that both the `build` and `deploy` jobs succeed.
-4. Open **Settings → Pages** to find the public website URL, normally `https://YOUR-USERNAME.github.io/trendfriq/`.
-5. Allow the scheduled workflow to run automatically. GitHub may throttle or delay frequent jobs; if so, change the cron schedule to hourly.
+## File layout
 
-## Customize monitored subjects (owner only)
+- `index.html`: semantic document, header, navigation, footer.
+- `assets/style.css`: editorial layout and themes.
+- `assets/app.js`: client-side magazine, archive and country views.
+- `scripts/update_data.py`: Python standard-library collector; Google News RSS search and World Bank API.
+- `config.json`: topic search queries, economic indicator definitions and historical library links.
+- `data/latest.json`: newest source-linked headlines and worldwide economic indicator snapshot.
+- `data/archive/YYYY.json`: archived collected articles, grouped by the **publication year** of the original story, not the collection date.
+- `data/archive/manifest.json`: year counts and historical library links.
+- `.github/workflows/update-and-deploy.yml`: scheduled collection, commit of archive, and Pages deployment.
 
-Edit `config.json` **in the GitHub repository** and commit the change. In `topics`, update `label`, `category` (`Finance`, `Brands`, `Technology`, `Economy`) and Google News RSS `query`. Modify `countries` and `indicators` to control World Bank cards. No visitor-facing editing interface is present.
+## Automation and permanence
 
-Edit the appearance via `assets/style.css`, or page structure in `index.html`. The scripts and configuration are not uploaded as part of the published site; only `index.html`, `assets/` and generated `data/latest.json` are deployed.
+- Runs at minutes 7, 22, 37 and 52 of each hour, **best effort**, plus manual runs and source-code commits.
+- Website checks for the next snapshot silently every five minutes while open. No public sync times, refresh buttons or backend controls.
+- Each run deduplicates on a hash of the source URL and **appends to annual archive files**. Files are committed to the main repository branch; re-running doesn't erase older records.
+- News source feed limits, access failures and regional language biases limit actual coverage. Google News RSS is an aggregator, not a guaranteed authoritative or comprehensive news archive. No full copyrighted article texts are stored.
+- For a large global archive, Git repository size, performance and GitHub Actions resource constraints will eventually require a managed database and archival storage. Consider a paid, backed-up PostgreSQL service for long-term operation.
+- GitHub Pages site, data and public repository files are publicly accessible. Credentials and private data must never be stored in these files.
 
-## Updating locally / testing
+## Historical records
 
-Requires Python 3.10+ and standard library only:
+The archive distinguishes **collected news** (stored locally) from **historical libraries** (external links). Digitized 18th-century papers are not automatically imported. Search access and scan color at those external sites are determined by the provider. The local Archive view is grayscale; outgoing original pages are not modified.
+
+## Adjustments
+
+- Edit `config.json` topics to broaden or focus collection. Leave cross-region topics to maintain global scope.
+- Change typography or colors in `assets/style.css`. Uses Cormorant Garamond + DM Sans from Google Fonts with local fallback.
+- Dark mode is selected by the viewer and persisted using local browser storage.
+- No public editing UI exists. Readers can navigate and search, but cannot modify the published site.
+
+## Testing
 
 ```bash
+python -m py_compile scripts/update_data.py
+node --check assets/app.js
 python scripts/update_data.py
-python -m http.server 8000
 ```
 
-Then open `http://localhost:8000`. Running the updater needs internet access. Before the first successful run the website truthfully shows no stories instead of fabricated data.
-
-## Data and safety
-
-- Headlines are fetched from Google News RSS; original source links are shown. Google News links may redirect.
-- Macro observations come from the World Bank; their release years are explicitly shown.
-- Source availability and RSS terms may change. The updater retains the last known snapshot if a feed fails. A green system indicator is **not** evidence of real-time price data.
-- The repository **must contain no API keys**, private credentials or confidential content. GitHub Pages is public. Visitors can read the front-end code and public JSON, but cannot modify the repository without GitHub write permission.
-- This is an information discovery tool, not financial advice. Validate financial facts against company filings and official exchanges.
-
-## Project structure
-
-```
-index.html                    Website shell
-assets/style.css              Theme and responsive layout
-assets/app.js                 Public reader and search/filters
-assets/favicon.svg            Icon
-config.json                   Owner-managed topics/countries
-scripts/update_data.py        Scheduled data collector
-.github/workflows/update-and-deploy.yml    Fetch + deploy workflow
-data/latest.json              Initial JSON, refreshed during build
-```
-
-Website brand name is provisional; legal trademark/domain availability not guaranteed.
+The last command needs outbound network access. It should generate real `data` content and is not required on a local machine when GitHub Actions is configured. **Data collectors and automated Git commits must be monitored; a green Pages deployment alone is not proof a particular data source succeeded.**
