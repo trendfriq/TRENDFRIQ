@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-08T14:57:04.658592Z",
+  "last_updated": "2026-11-08T15:37:21.561637Z",
   "articles": [
+    {
+      "id": "d882fcba81a7dae62f367e",
+      "title": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTNSTHlWXy1vdEQ5dDV2a0gtTFZQZmJfNzIxM1ZSUTFvWmhDVWhnMUtjTy1WMTFIVnVIcEhhekRNN3hpMk5kQks2X2QxVVNnMW9qVE5hNVh2cmFya0xSYWd6LTJBWWI2aGplMlpIdnY5ZWJ3OUpuQnhVc1N4aXI4V3hzTkRzTUt1RmFfNl90UVNDSS1FZnMyTk1aeTJKc2xsOUtvVmtXQzA1ZzNSNjRoQw?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-08T15:34:52Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "777089278013f2e93b429b",
+      "title": "Marketing Home Group for Trading Company SCJSC up 5.15% on Sunday",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTBoaHR3cWxITXpYLUpvVXZTVWFsT1Z0R0tJMWhkQzNseGlxaUtISnRldE1EcC16emVwaVMtb0dBUUtLS0FDY2lmTl9TTjNzU1JsdzMweTlMOVY2MVFVcE1iVFRRbkhJTVlSS1A2TjA1ZlkyRUE0OERsRFgwWGpoTG13LXV2TExYeUxCaEF1RmlDZTVnSGVtQndFd0N2LUNhZ1dWMUVmZVUxd0ZXQjczVWV3?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-08T15:31:22Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0d5fde50150fd8a0b7bee3",
+      "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+      "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+      "source": "NPR",
+      "published": "2026-11-08T15:07:15Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg"
+    },
+    {
+      "id": "7ff53c833c04080042abcb",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "published": "2026-11-08T15:00:30Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "a653dab5f63627d9b5d45e",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T15:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722"
+    },
     {
       "id": "d04570c52c8f8b01828517",
       "title": "What we know so far after Krakow gun attack",
@@ -12,18 +72,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
-      "id": "d882fcba81a7dae62f367e",
-      "title": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTNSTHlWXy1vdEQ5dDV2a0gtTFZQZmJfNzIxM1ZSUTFvWmhDVWhnMUtjTy1WMTFIVnVIcEhhekRNN3hpMk5kQks2X2QxVVNnMW9qVE5hNVh2cmFya0xSYWd6LTJBWWI2aGplMlpIdnY5ZWJ3OUpuQnhVc1N4aXI4V3hzTkRzTUt1RmFfNl90UVNDSS1FZnMyTk1aeTJKc2xsOUtvVmtXQzA1ZzNSNjRoQw?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-08T14:32:22Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     },
     {
       "id": "e89f8fd2d85d6c56832f7a",
@@ -1058,6 +1106,18 @@
       "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6c3fdac10621dfb56665aeee782e139"
     },
     {
+      "id": "deaedec53771c91d48b9cd",
+      "title": "The 37th APEC Ministerial Meeting is held",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0FNSFcyUFZxZmZkUmlZSEE2aTAwalV2TWxvTGd5ODFYMXdzZWpIYzM2dmdIV0dEMHo5SGlid0xUMjRzY01HeWt3dVRldVFuaFpmM0ZRSkExU1VNUGM2cmRYODlnRjVxSVlPYjZ5YVR4QzQ2dFM2MlJvdTNScFlHN2JpMFJhU0tSZkFr?oc=5",
+      "source": "EIN News",
+      "published": "2026-11-07T19:46:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "342f714f0067661f2c5480",
       "title": "EU clears JD.com's $2.5 billion Ceconomy deal, MediaWorld turns Chinese",
       "summary": "",
@@ -1380,66 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b521172828d62613029c51",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge",
-      "published": "2026-11-07T15:43:45Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9928291d6e8b7e44562c55",
-      "title": "Special Envoy of Minister of Foreign Affairs for Business and Philanthropy receives 2026 Spear’s Impact Award",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbUtYQkJseHI4TWtWRzd1NEtUaV9CWjVYNENKdzBMMi1xRHBkMHF2ZXduS1lVUFJGX2Rkci0wd0lPMGR5TEZvMWlyd3R5UmxrN09pSXgta1FhU21RMHB3SWFaNlhxYktlX1RHQzltM2tkWWhnaG8tNDNXVDRjVVVoNUFsSFlwdWNhUWd5NjNEVWFyZnd1djFZb1NrSklidDM4cl96dTgyXzZEVjVHcVVXVDZ2ZnpmLThrOGdGNmNlakJ1ckY0Xzg5eS1yNWJHcWUxVVJkSHl5SjJvcEY2V0tF?oc=5",
-      "source": "برق الإمارات",
-      "published": "2026-11-07T15:35:32Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "651cae9839621e782c98bd",
-      "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-      "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides Five European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit. The leaders of Germany, Belgium, the Netherlands, Luxembourg and Denmark, said deeper cooperation on clean energy would benefit both sides in a",
-      "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-      "source": "The Guardian",
-      "published": "2026-11-07T15:30:35Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a82621f2173bcdb47b29018958e54222130414c4/291_0_2520_2016/master/2520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df7924fc922e386cb144fbe92d35553a"
-    },
-    {
-      "id": "062a70b67af36c2c56d773",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T15:19:35Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "4b429bd7582936e31a06bd",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "source": "The Verge",
-      "published": "2026-11-07T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [

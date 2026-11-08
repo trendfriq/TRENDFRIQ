@@ -1,5 +1,53 @@
 [
   {
+    "id": "777089278013f2e93b429b",
+    "title": "Marketing Home Group for Trading Company SCJSC up 5.15% on Sunday",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTBoaHR3cWxITXpYLUpvVXZTVWFsT1Z0R0tJMWhkQzNseGlxaUtISnRldE1EcC16emVwaVMtb0dBUUtLS0FDY2lmTl9TTjNzU1JsdzMweTlMOVY2MVFVcE1iVFRRbkhJTVlSS1A2TjA1ZlkyRUE0OERsRFgwWGpoTG13LXV2TExYeUxCaEF1RmlDZTVnSGVtQndFd0N2LUNhZ1dWMUVmZVUxd0ZXQjczVWV3?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-08T15:31:22Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "0d5fde50150fd8a0b7bee3",
+    "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+    "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+    "source": "NPR",
+    "published": "2026-11-08T15:07:15Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg"
+  },
+  {
+    "id": "7ff53c833c04080042abcb",
+    "title": "Chatbots might be coming to Apple’s HomeView",
+    "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+    "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+    "source": "The Verge",
+    "published": "2026-11-08T15:00:30Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a653dab5f63627d9b5d45e",
+    "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+    "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+    "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+    "source": "TechCrunch",
+    "published": "2026-11-08T15:00:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722"
+  },
+  {
     "id": "d882fcba81a7dae62f367e",
     "title": "Mysterious billionaire shows off ‘America’s oil’ — and Trump’s Venezuela",
     "summary": "",
@@ -1042,6 +1090,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6c3fdac10621dfb56665aeee782e139"
+  },
+  {
+    "id": "deaedec53771c91d48b9cd",
+    "title": "The 37th APEC Ministerial Meeting is held",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0FNSFcyUFZxZmZkUmlZSEE2aTAwalV2TWxvTGd5ODFYMXdzZWpIYzM2dmdIV0dEMHo5SGlid0xUMjRzY01HeWt3dVRldVFuaFpmM0ZRSkExU1VNUGM2cmRYODlnRjVxSVlPYjZ5YVR4QzQ2dFM2MlJvdTNScFlHN2JpMFJhU0tSZkFr?oc=5",
+    "source": "EIN News",
+    "published": "2026-11-07T19:46:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "342f714f0067661f2c5480",
@@ -2292,6 +2352,18 @@
     "image": ""
   },
   {
+    "id": "5f3d8ae92975cb073a6b01",
+    "title": "Stagwell Media Names Kate Richling as Chief Brand and Communications Officer",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1pzYlRqUkllU2ZTWElGNmNFbGRPX0dTTzBvVVp2UEFMR1pIVGNSeUxndXpXaDFMWnNXNDVkN3lMWVV4UzB6b2lkYTRncDFUM2dnTFVSbDVYbDBmR3FGaEhQbFhNYURaaFFHbVEtdXZ2Um9tQUxPYkQwNGEzSnh1UVpJNlpzLWVHV3V6NUdCa0laQW54NnU2dmNDc2Q5aDd0bDBZNG5MS0M?oc=5",
+    "source": "Digital Journal",
+    "published": "2026-11-06T19:53:15Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "2bae9a50ceb208687a3388",
     "title": "Why Gulf-US Investment Ties Are Expected To Remain Strong After US Midterms",
     "summary": "",
@@ -2432,6 +2504,18 @@
     "published": "2026-11-06T17:53:00Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3c456d0a0b463e060ca0d7",
+    "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW1FMG9xY01MTmpnRWdxNWlIU0VvMmdKTm9fS2ZzUGtIQnZnV29aM3NqSWVYYzIwMjR5YjlTcHZWOHIxZ0pwMzZrOTRaZUNtRTlSOVZHYnk2eHR6NGZyZXZ3Q3NMSHVZV29MVFBHX1hhX1NuMGpGNUpjQ0NpVlFBMkRoT19FWXRrTzg4bUxUcmhweFY1bDBuMHdnbEktZGRwd3k4dGpaZF9Kb3I1MFJZZHpYSXQ?oc=5",
+    "source": "The White House (.gov)",
+    "published": "2026-11-06T17:51:30Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -3344,6 +3428,18 @@
     "published": "2026-11-06T08:00:00Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4845aa9cd945b889a730a5",
+    "title": "REPowerEU",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tZkVmTXRzMVFiMVIyemJTNzdqT3BEcTFuYWVpY28zSTAtbnpjbEdiOHFCQ3hIN3JoVmNrUl9jeHg3emxkRGdabExzMlhjTkM0XzBUc3daSDJxZVV0dURtUzB4RGhyZw?oc=5",
+    "source": "European Commission",
+    "published": "2026-11-06T08:00:00Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
