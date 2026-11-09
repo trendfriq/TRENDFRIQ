@@ -1,17 +1,137 @@
 {
-  "last_updated": "2026-11-09T10:42:23.372767Z",
+  "last_updated": "2026-11-09T11:39:47.966098Z",
   "articles": [
+    {
+      "id": "771b715509f05cfda22b5b",
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "summary": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T11:30:24Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801"
+    },
+    {
+      "id": "7888ae6c5676eb7d2b729b",
+      "title": "Solera Expands Global Circularity Consortium into Latin America to Unlock New Economic Opportunities Across the Automotive Ecosystem",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPYXNhczJWLUdka3IzYldSUjE3eWJpVnQ0WDJEYnVuUC03VGhkVmZhUGpwbHhsMjhuQU1JeUstRi1oWG9sM21ZREd3cFJDWkgxMlBGdEYxOVNqRjI3SG90NXI1TllMcFgzTGFrN1A2cUNoX20tbF8xTlhWSVd5RU9nLWtuYXBLaWhfYkdUaVlUd0hTVjZ1WUI5TWdDRHNoOWFIWmdGQ0JuTUFyazlPbnhNVUkzclBtcDFYUFN6OWNZRnlRX1lZLS1iOFU3SjVCMVZXNzZZRC1DT1AyVWEzVFBIemNiYTA0cHdsbUxEQVpvaThYOWItSGRocF96bC0yNmhCLWFXNjcyTzR1cDJoT3Z4UFBkMEZESDMzUDFwTTRuaTFFRUNSdnZtMVBlVXpmSjTSAbQCQVVfeXFMTnQ0cFQ1eDJUdmQtbkVaQ1RDRnJxUm9wcXpqSVg5S0ZScVpsSHRXLVY5ckN2Q296bjduOTJSYV9faGc3b3M5U3ExeWoxVnhzMnJEa2VuOGtlTXRlWUtZMllfYThLbm5RWmVXVkZSa3JVUEdQNU56cVdXNHV5Nkdlam8yWTVoX2lWLW1Fck5oYzViZmxxVVFhaVV3b2owbW5FamJlOFJaMmwtUkNaRkx6VEkwb1RNQ2dGZ2w2Y09YSDg3U29lc0oxU2huOXlnMmcyektJV3Bha3hiTEZ6TXdaWUtETm5MZk93QVcwaHJaYzhGc01lZzNoZUY1UTFqd083VFl0LWo1elY2UlVfTEZlWlFIRlRnNDhjYnJDTWU2RzF4VFU3Z1VzZlNyQkRiYkhIUDhxSHo?oc=5",
+      "source": "The Manila Times",
+      "published": "2026-11-09T11:30:17Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "0daa9a6eefd5a965188810",
       "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
       "summary": "Boss of world’s most valuable company admits affair as it investigates reports he was the target of ‘a foreign intelligence effort’ Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk. Musk commented “I agree” on a post by ​Sequoia partner",
       "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-09T10:35:12Z",
+      "published": "2026-11-09T11:26:19Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/08b95212f11f3d89e76bc0696f48e07fec9913c3/2_0_1971_1577/master/1971.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c8b7d30ced6869b05df509e1f738d1af"
+    },
+    {
+      "id": "738fb8efec577226749b53",
+      "title": "Torrent underground",
+      "summary": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become [&#8230;]",
+      "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+      "source": "The Verge",
+      "published": "2026-11-09T11:00:05Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268792_private_torrent_trackers_LMATTEUCI_SPOT1_71db28.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "e573ed3951e8163c36487c",
+      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-09T10:59:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
+    },
+    {
+      "id": "d3abc207a940269ba0633b",
+      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+      "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall Deadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in neighbouring Iran. The city of Erbil, in Iraq, was particularly badly hit, with extensive damage to homes and businesses. S",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+      "source": "The Guardian",
+      "published": "2026-11-09T10:59:06Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/00aead2f7eac7d091928a3293777413e5367d450/0_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c5a92d5c178b0f472a7ce4bdacb2370"
+    },
+    {
+      "id": "0ed53dfee6137a2201384a",
+      "title": "OPINION: Building open source gives startups a head start, not a moat",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzFIRTV5ZERvSFJwRFdnU0hJVVhoeWlZZkJPRWtzXzVieTAyNzctMEZ1eFVRVzBZRVJnT19jUWpQeDRhVk1jaWthUkZQeEloeWdubjF0MklmTkthVzRkZ2dobWpucVl4SW5RT0RWYVo5bzVuOE41WHB3NkQzZS1OT0V4V3FpWlFkQW1KXzgyU1VhdHpFMXY4LUJzYjkxR3JtNzJheGk3VQ?oc=5",
+      "source": "EU-Startups",
+      "published": "2026-11-09T10:51:10Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "323a05ab7de5a706987038",
+      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+      "summary": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
+      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+      "source": "NPR",
+      "published": "2026-11-09T10:47:00Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5064x3376+0+0/resize/5064x3376!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F1e%2F815c3ced4743a1d265ce01b4d05a%2F5979129-kuhn-1.JPG"
+    },
+    {
+      "id": "630cc2fe7d2bf91559fe05",
+      "title": "CEE Defence Tech Investment Surges, Czechia Lags Behind",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbTJnenVMalpkeHhOTURXZEdmaXA1S2RJb1k5YS1vbWhHYVJhY3FqY2dUMUI4QTFIa09ubTJwWVZjRjA2SXBIYWNVUTZwdm51ZzA3bmdnMkt5SkxtcWtQTFBkZWZuNHhnZUdlRGN4Y3BndHMwY2xsOE9FOW5YdlRVUTZtWnlyTTE1RWl2RGgtckpXUmNsdVZfbHBLelEwMDlyam9xTUlxUnpOa3k2bDduYWMzWUcza0FnangyalhzZ2ZCc25WTjVv?oc=5",
+      "source": "The Recursive",
+      "published": "2026-11-09T10:41:06Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d5a9c40463ec2e8ba9ee48",
+      "title": "Earnings call transcript: Hannover Rück Q3 2026 results show strong profit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXFXVi1wM0o5WnVQOWFZLXdxbmc4YmY1alh4QnNabzY3c0xOeV9TVFctSTFHYS0tUDdfYUo0Tk9IaDV6OGcyaTNEQU9SUmdfQUc5ZFpVWTJJcE9SQ0RZYkRKQmJaSzJ0X0FlQVFEVnJZU1BjUC0xMjlRTGtqU05RM2JwNk56dnhSS2gyb2ZZekF1TUVhYkY5OXlLSEctUk5oLXozLWgxTXN3bmxKRzdmSUdHNkY5WEpOeUhzNW9kZFIwdnN3dnMyVQ?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-09T10:39:03Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ea1b6fcc1435764a524e7c",
+      "title": "AI Cycle and Electronics Surge Lift Thailand’s GDP Outlook, but Bubble Risks and SME Vulnerabilities Loom",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5Tlg3dlFZVkMza3Z6dmJYRldGYUJWTXAzT1pXcmpJaTRtT0VINVgtRmp3MWN4OU9tNDN4TlBqUmNXNG9ZNzh0SUxHdkxZZWd5bWZkUVkwWkZ2azNUXzkxenhvMkZfMmlfaEp4cmdkWEltUQ?oc=5",
+      "source": "Nation Thailand",
+      "published": "2026-11-09T10:27:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "df5fd54c2a7ba4093e25a3",
@@ -34,6 +154,18 @@
       "published": "2026-11-09T10:20:44Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6613a6d06312af3dba4854",
+      "title": "Philadelphia's Higher Education and Civic Leaders to Shape New Regional Global Innovation Agenda",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFUzNU5vcEU4YnhNcE8ydmtLR043dlJQRmpRN0x3R0lDUmtkZjJxbzluSEdWWVdLM180UGNaNzdaTmppb3hqWEVqdzlTM0YwMWdKUTdJYjhUeFh4cnYyYzB0YUY0aUNzRnplT3hCZG00N1JuOFhBYTRoMHJaSTdCT04wYmtLeHI2cnV3T0dyLUE?oc=5",
+      "source": "PHILADELPHIA.Today",
+      "published": "2026-11-09T10:17:18Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -128,6 +260,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTZCb21aRFhZWk95UDZaaUV4TDNBT0xwSkROYnlrV3J1dmRjT09vNmFWdXA0cmU0dDB1NVlpaE5aT3ZoV0ViTzNjRnBCYjAwSVJydUpMaG1qWURBUWc2VVFnNFUtVVR2cHN2WWpYMDBBMVowdUtGM3N3aEFRX1ZGNk05RldFc1o0Rnh3S3BYUmlnWjBKQlBsTEZnRV9QTDN1NHhsdUNoZw?oc=5",
       "source": "Euronews.com",
       "published": "2026-11-09T09:23:12Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a93c963b574e1f8df0f141",
+      "title": "European power prices shoot above €600 as wind generation slumps",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15YkIyY1ZJWFVqTG9jNnNhWjNPMHo0NF9fRE8xc0Q3cWNCLWJ1OWp3bFdneTRiTW1VVmYtUmpCWHFDQ3dtS0Yza3lmQ3V4eUQtOGd3azRjTzFmMVU1NjVoTkQwQnZ2WHp1ZGtUUkM1RVJON2c?oc=5",
+      "source": "Irish Examiner",
+      "published": "2026-11-09T09:20:00Z",
       "category": "World",
       "topic": "Europe",
       "country": "",
@@ -266,16 +410,16 @@
       "image": ""
     },
     {
-      "id": "e573ed3951e8163c36487c",
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-09T08:16:57Z",
-      "category": "World",
-      "topic": "BBC News",
+      "id": "8f4be11642745f78f54a16",
+      "title": "Nvidia Shares Fall as CEO Investigated Over Spy Allegations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTERJUXNQTktTamxLY0pFZHB2cXpJVm5tNW5HVmgzN2Z6eHpxYm10TFlQUWliSE1qQmVEaHJwOFZGQUpfVGdFdmplZWNoQzFYY1liVktCOXBBU0JSOWo1UUVWNWdBc1N3NzNaYU5Dd2ZWQkpWN2N4VlJpclRYdXdMS0NpbUVweDctcHRpZ05BbWtnX1k3QVUxTTdGQzByVGxNY2U4?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-09T08:18:46Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
+      "image": ""
     },
     {
       "id": "5475682dae47190cb7b6fc",
@@ -322,6 +466,18 @@
       "published": "2026-11-09T07:53:40Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9b73f51b067f9742091b2e",
+      "title": "Noura Al Kaabi Receives Suriname’s Minister of Foreign Affairs, International Business and Cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0UwZjdJMVNyUHZxTklyVGxyaXVfWXhCWGFscXFZZE5xcy05b2toQ2tUcVFuckFPSFg2dlBVY0syamF4b003V25HeTdaUXIteFhpb1E5T29LYUdRczNJSUc5M3FQaDBSUzhqQl9OcEE4TXFiTUpjeWQycnpxS3pzcFU2c3htdFR5Tk1JU19WS2V0amZGZWV2aFlkX2s3Rlk?oc=5",
+      "source": "وزارة الخارجية الإماراتية",
+      "published": "2026-11-09T07:45:40Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -386,6 +542,18 @@
       "image": ""
     },
     {
+      "id": "e4c88fb89f2cf691e041b5",
+      "title": "Malaysia's CAAM Targets Initial Low-Altitude Economy Framework by Year-End, Limited Commercial Operations in Q1 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mNGtzN0p5aThMem93b1FROHNmVG9oM1JkRUlkRDBvMWVzV0RrN1M3MFpWcjZkc2d0bDRFc0NDblhveVhuQ1VSYzllRDZhaHlmN0V5eFdYcGctNHczRHFRNFJzTklZYTFnUjljcXlrTjFQWFk?oc=5",
+      "source": "Avi-Go",
+      "published": "2026-11-09T07:05:06Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7cbe644baf984a57eba7b9",
       "title": "European Union sues IBM and two European companies over troubled border system: Report",
       "summary": "",
@@ -446,6 +614,18 @@
       "image": ""
     },
     {
+      "id": "3daef1f86474f44bbf6d38",
+      "title": "Nevis Official Defends Vance W. Amory International Airport Redevelopment as Economic Investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFekpiLWhHbVhad0FobjhGZ0Jvam5INjJwV1pJUzVDWjZ0eUd6TWxWeXdrNk16azRmTXdoQk9MZWZRYnJVWHVNMC1JOE9ZcFdFVUJ3bW81THBVVHBJRk1VNm1pMnJyMGd2XzNEanVRczlZN3c?oc=5",
+      "source": "Avi-Go",
+      "published": "2026-11-09T06:59:33Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a1435aadeb75863d1e0486",
       "title": "Explainer-What we know about Nvidia's probe into CEO Jensen Huang",
       "summary": "",
@@ -454,6 +634,18 @@
       "published": "2026-11-09T06:58:52Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "28419c7737aa39ebf64b7c",
+      "title": "Africa’s Creative Economy Needs US$2 Billion In Financing And Stronger IP Protection To Unlock Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdzFWTWhvckR3QXVjY1dibnhNRThOYW9Nd2k3bXFKWDY5RTB5amRjV1JxUFowSXoyNDJHaThmMFNCYS1PZUhRaS1NbjZnMmlYNmh1LW13dndhRWpkNFYyOFkwQVhtLUxzcVExQ3VkRFNpYmNpVUF2NURoMUw0QnI4YzZnZW1HSXpBZEZ3b01GQURHZUVjaGY0U0kxN2VZQWZyX1ZLaTE1bmhLM2NqWWVoRFktd256RU9PRWdjdzRlRUdDY05WbVZCY1JBV3FoaE5jMGdJWDFLckFwd0I1UTRoYkhnOA?oc=5",
+      "source": "Broadcast Media Africa",
+      "published": "2026-11-09T06:54:33Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -626,18 +818,6 @@
       "image": ""
     },
     {
-      "id": "9b73f51b067f9742091b2e",
-      "title": "Noura Al Kaabi Receives Suriname’s Minister of Foreign Affairs, International Business and Cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0UwZjdJMVNyUHZxTklyVGxyaXVfWXhCWGFscXFZZE5xcy05b2toQ2tUcVFuckFPSFg2dlBVY0syamF4b003V25HeTdaUXIteFhpb1E5T29LYUdRczNJSUc5M3FQaDBSUzhqQl9OcEE4TXFiTUpjeWQycnpxS3pzcFU2c3htdFR5Tk1JU19WS2V0amZGZWV2aFlkX2s3Rlk?oc=5",
-      "source": "وزارة الخارجية الإماراتية",
-      "published": "2026-11-09T06:09:08Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "8af32a39788f2240abb94a",
       "title": "AIREV joins Fast Company Middle East’s Taste of Innovation as Intelligence Partner",
       "summary": "",
@@ -691,7 +871,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjRENGtlVVF6VXRjUlhsdndobVEyMUFBNEhHNjdaUmhXaHZSWktVUE5pZmxGUGwzVkV2WHFjVU9ubDNVOEEyb3U0OUVyWmZJaGh1VWZNeldJSm14NU9fZ0I3b0xrdkRzVmlhSWxmbFpfOXNLc0RGczBmTzBNRlNMQ1I4RkRaZUIw?oc=5",
       "source": "Global Banking & Finance Review",
-      "published": "2026-11-09T05:48:45Z",
+      "published": "2026-11-09T05:54:12Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -706,6 +886,18 @@
       "published": "2026-11-09T05:41:54Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cf9d37c26a7819a6a4580a",
+      "title": "IIT Madras Alumni Launch $1 Million Challenge for Materials Science",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYldCR3pHbzlJSWNWRmI0VmtYSWJIS1QzYTJGVzdDRF9sSFB5R2JRZE1fb2xrcTdieGtuWlVyalp6OWN3ODRuellLTTdPZkpFakxxSFpUSmlKY28yLTR2YjlManhkSFlEMFNGRElrYU1ueGFzY2FaZUZYRU1WSjlycW40Tzd4Wkg3WWViWGZVTkl5TXpRUVpFS0ZpbWtzWThoU092djZzNUFCUE0?oc=5",
+      "source": "India News Network",
+      "published": "2026-11-09T05:32:04Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -782,6 +974,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
     },
     {
+      "id": "3d0ddfacc9fe1e25bc22db",
+      "title": "Taiwan Institute of Economic Research Sharply Raises Taiwan's 2026 GDP Forecast to 12.34%, Sees 6.45% Growth in 2027 Despite High Base",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83TW1BMUFLaHpnQWxJOGtHVUktSlZ1Z2VDZXp6WEJxQ0tNUzFHLVZoTG5Td05FVnVfODdJbHlKb1NuMjNHZzE0VWdEekNIS2IxdHZ3ZFMxYk5mOTRCNnVfRl82NGVTVXg5RlAtdmZkY2JTa2tLRHc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-09T05:25:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c91dcbd1115563f1b91eca",
       "title": "Philippine economy slows more than expected in Q3, annual growth target in doubt",
       "summary": "",
@@ -790,18 +994,6 @@
       "published": "2026-11-09T05:24:00Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cf9d37c26a7819a6a4580a",
-      "title": "IIT Madras Alumni Launch $1 Million Challenge for Materials Science",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYldCR3pHbzlJSWNWRmI0VmtYSWJIS1QzYTJGVzdDRF9sSFB5R2JRZE1fb2xrcTdieGtuWlVyalp6OWN3ODRuellLTTdPZkpFakxxSFpUSmlKY28yLTR2YjlManhkSFlEMFNGRElrYU1ueGFzY2FaZUZYRU1WSjlycW40Tzd4Wkg3WWViWGZVTkl5TXpRUVpFS0ZpbWtzWThoU092djZzNUFCUE0?oc=5",
-      "source": "India News Network",
-      "published": "2026-11-09T05:16:24Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -1248,198 +1440,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "51c37ff3b46ebd5674e4b2",
-      "title": "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbHpXYXRqR0lzZlZqRXF3d1FiY3hzTkJackdCTHltRThDMHRnRTRVbHN2SFVjX0pNU3cwY21jSG5BRmE4Y0ZsaGhiZWF6a0dsQ3BCNDdKZ29hQXo5WU9YdGxQMnVvU2VLTkJWcjFIY2Q4eERwcnZsT3RYOXg4QnNQZmZYbEVJdmxBdFFTWjEzcW1oVUZ6emp4ZWJCMTdYejlyemd6OVFpbkRQNzhaT19tV3VvSUR0X2l5RzRnc3BseDhnclNBYzZ4dGg3YnNmQmk1THlqdEFLM1VNLUZuRnFGUG9VZDVlZFpobWRpcldKUGlJNmp5RTBNY2c0V1ZHNXFudHFSOTVWT1ZEN1RNTUN6eklJaXV1dnlXV1lab3RJTXg5VFF2OUlReW4wdGh0dXRnY0ZsSjFPWlhudzk4SGfSAeYBQVVfeXFMTjZFWWJLVm1UN3ZNalk5LVlWT1o3LXJGMWdaWFg2RWVqQ0kwNlBLcEUzbk55NWx4UTRLTzYtYkd4NTVvOXJZWGhHc2otRHRrLVhMd1g2S1FvSlhFbE5UellCMk9jaWF1cFpENUxxb1RmV3BQWTlXaUZjdDdUZXVBZ2d0dF9iRWNxNHM3SUhndzF1RG5hc0R2UXVBT3o0ZkxqQkUwaVdxYTl1UXh5Nk1FSzNZR2NuS3JCV0ZCVmRxRW1aNnlaZVpLa0NKQkFNUHVncGVmaG4xbngxYm1FSnVNbGNhWGIzeVE?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-09T00:56:21Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6224e9979c8a5da952b497",
-      "title": "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUGVrRHVzN1F6WHExSnFWcU9GNmJnY2RfWEZDSkpRVHhzWGNjTEJzYzV0eGwtTG5TalJGZTlZa1NKLTlDYmdlZGEzNnBHXzhmNkJvRXlGSnRJR1A2NDlmV2U3eXczV3FPU1lzblJqVFEwYmdWa1JkSFFMMGFjZGRQVGNVVjJtSDhjVktkTVY0blNlOEVYSG9FcUgwUmtGajl3UndIS3ZWekhQUUk3SEpnNWRZWXB2NF9EdkdqQldVZXRtSmRQVHdyandwYU9taXJUSEV5LS1oMlFNVmxLbEZDN9IB5gFBVV95cUxONkVZYktWbVQ3dk1qWTktWVZPWjctckYxZ1pYWDZFZWpDSTA2UEtwRTNuTnk1bHhRNEtPNi1iR3g1NW85cllYaEdzai1EdGstWEx3WDZLUW9KWEVsTlR6WUIyT2NpYXVwWkQ1THFvVGZXcFBZOVdpRmN0N1RldUFnZ3R0X2JFY3E0czdJSGd3MXVEbmFzRHZRdUFPejRmTGpCRTBpV3FhOXVReHk2TUVLM1lHY25LckJXRkJWZHFFbVo2eVplWktrQ0pCQU1QdWdwZWZobjFueDFibUVKdU1sY2FYYjN5UQ?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-09T00:56:21Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "67f6e64d726252660beaee",
-      "title": "Late Hyosung honorary chairman receives Korea-U.S. Friendship Award",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSUlKUmNBbnFfQ3hod3pLcElWam1vRGU2bVdpQlZsMVo5Wm5vV3dWSGJCTVN5WWIzY19Ydm45YnNVaGkwSHZfaVFjUTZjZnY1bXBHUzI3MkxCQQ?oc=5",
-      "source": "Yonhap News Agency",
-      "published": "2026-11-09T00:53:42Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "deb0a10756ecc4913ed980",
-      "title": "Equinix opens SG6 data centre in Singapore for AI demand",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXIyT1Zoajh6UmxORTJ3Um5YY0dBbFFyY0JXWURrbDZLb0VFTmpjSUR6cnRmbzBPb3d1ZUkyZW9TV19uQ2RkeWh6VDhDRVhGa21GcWJ6V3YxXzNiYTRDRmRYVmNfOEczcXB2dW5kUzNzR1oyRFQ4cjI2SVZFTXFCTkx4SzB4aWxhQmYxeWJ3NVVQYWk0?oc=5",
-      "source": "DataCenterNews Asia Pacific",
-      "published": "2026-11-09T00:40:30Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "148087602e0a37027c73d4",
-      "title": "Nvidia opens probe into CEO Jensen Huang over affair with woman suspected of spying for China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcE84UnpDamE0anNUNlhvWl9jdGp4Z2ZtYkNCNDhkRHRqbjFoRDd1MXpjYm43Q1NNNTl2LUtoMlRoQkZETkQ2SEppZW9nVldjV21kNmVOSnhGNE5FUW9aZWdNTVRlN0l1NUl1N0ZucHRWOElHSTR1cGtUODdVcnRiSW5jR0J6MVJlSUNqNTVtSk1oODduMkZEMzRLSkk5Y1BfS0JCRktLYnlfeXdiUHdFVVFfa3FQWXNqQ1NKTFdYbEV5dVFKTG9LWjBUVEExNW1JYjVSY3Y1Mk5na3Z2dm5PTDZ6LXlwZnNhUWlDZG5udEhTSjJITGdKOGJPSGJkZ1BIRDYtdFJGQ1ZIc3ZrR25zNUFDQdIBmAJBVV95cUxOeElySmtVc3dRU3U4clVITUtPMVBFZDk2TElEMkNJUG1lUXdVOXBBUVJaRjlxOFc3ZWlmYk8taG9SSmJhQjNtazlIMHJtZWUzelJfVWYzMmN0SmYzd2p4eFJ0RjBkUDViQy1IZ3l1Vm54RWlhSHJrVTYzODdkcXhIdkxla0hWaUhnTmJiNmtmVTVwYlBOWTdDRWtiMlFPcjY2eC1vaFZyVFdQWFdoc3MzTkMtSlhqUjBEa3hsdXFkMzg5bVRmSmo2Z2tZV2JiQ1lGTUlNUmZ5U2lvOVNhVWR2Wm1rT1RwMm40SVZ6d3A1Tm5wb1NCc0xwRzk0Nk9HUWJHY1g3Q3ZoemlMd2EwWTRJY2o0QjN3eG5Z?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-09T00:39:43Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "71356a93a2fafbd2278e91",
-      "title": "Nvidia opens probe into CEO Jensen Huang over alleged affair with woman suspected of spying for China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOeElySmtVc3dRU3U4clVITUtPMVBFZDk2TElEMkNJUG1lUXdVOXBBUVJaRjlxOFc3ZWlmYk8taG9SSmJhQjNtazlIMHJtZWUzelJfVWYzMmN0SmYzd2p4eFJ0RjBkUDViQy1IZ3l1Vm54RWlhSHJrVTYzODdkcXhIdkxla0hWaUhnTmJiNmtmVTVwYlBOWTdDRWtiMlFPcjY2eC1vaFZyVFdQWFdoc3MzTkMtSlhqUjBEa3hsdXFkMzg5bVRmSmo2Z2tZV2JiQ1lGTUlNUmZ5U2lvOVNhVWR2Wm1rT1RwMm40SVZ6d3A1Tm5wb1NCc0xwRzk0Nk9HUWJHY1g3Q3ZoemlMd2EwWTRJY2o0QjN3eG5Z0gGYAkFVX3lxTE54SXJKa1Vzd1FTdThyVUhNS08xUEVkOTZMSUQyQ0lQbWVRd1U5cEFRUlpGOXE4VzdlaWZiTy1ob1JKYmFCM21rOUgwcm1lZTN6Ul9VZjMyY3RKZjN3anh4UnRGMGRQNWJDLUhneXVWbnhFaWFIcmtVNjM4N2RxeEh2TGVrSFZpSGdOYmI2a2ZVNXBiUE5ZN0NFa2IyUU9yNjZ4LW9oVnJUV1BYV2hzczNOQy1KWGpSMERreGx1cWQzODltVGZKajZna1lXYmJDWUZNSU1SZnlTaW85U2FVZHZabWtPVHAybjRJVnp3cDVObnBvU0JzTHBHOTQ2T0dRYkdjWDdDdmh6aUx3YTBZNEljajRCM3d4blk?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-09T00:39:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d4c305d1e6272382c7c649",
-      "title": "Earnings call transcript: Dyno Nobel shares fall 7.3% after strong H2 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNFFsWTk3X1pBdmtnQ2IzMDJVcmhhckhUbzRKc3F4cG5sZm1LUldYNWcwYzJpcVBFa1lVaThzb3hqNzVjWWM3OGU2UlJwaHBQNF9qXzBmM2QteldjX1k2dE1WcWRFZW9kYmF6ZkREZFVUM0c1NFk0R24xWVJDb3JxaGpLWVBkR2pFWHVtM3BJdUlxTDl5ZzJZODBzU2g2LV9EQ2o5TWlqbHZwSnp2bHZpMm43T3ZIUXEwdXZWRlpNZGlQQ0htSUVJMjF1YUc?oc=5",
-      "source": "Investing.com Nigeria",
-      "published": "2026-11-09T00:32:47Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "edd8d6e1e29fdd4d20b1c4",
-      "title": "Jeil Pharmaceutical Seeks Global Partners at BIO-Europe 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0xyc3prWjJTOGc1WVA5eUctRlFYV2syUTVWR0lZajVPSFNvSlZlVlh3YzB6aXdlZlY3b0I3d0xjaGotTklBOHNKVnRleFJGQzJUTl9vTkhkdDlaclVWcTkzR0dXbzQ2WF9md2xXa0tEUnhWWEFuenFtdU9ockwzVmtpUVhqR1RPQ29VNkZSTDFkblpBX3FENnZ2Y2ZYeU1EUkpVT1RmRFc?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-09T00:32:22Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9482e38a6cd579f6e5e4e0",
-      "title": "AI crackdown may slow growth, complicate inflation fight for central banks, IMF warns",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjJDZEJyT0tiV3JjNDZWc25hZHlkUGxSQzdyTWZWRkNOcmF5TGNJeHp4YXIzdWdXazB3SXczNkcyTDdxeWtMYmxwVWdPdHdOWFZ3TnQ2bnljLWhCampwQnJOSldyRDEyMHdHVTR0bm1GaW1sb1RJRHJ3enVYVE9hZmJnUjVNZHVBTV9UU2xsNm9xamtTSkhxQVN3RnB1bnQ5OGVKUA?oc=5",
-      "source": "The Sun Nigeria",
-      "published": "2026-11-09T00:31:18Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "75eee0dcbc87b091d46a18",
-      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-      "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The New York Times reported in ​October that Donald Trump had been b",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-      "source": "The Guardian",
-      "published": "2026-11-09T00:25:28Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65dfa83cef411b7e5330a65162e62273"
-    },
-    {
-      "id": "f52f15b6f38d95d942e110",
-      "title": "Tata Steel Q2 FY27 Net Profit Rises 16%; Revenue Crosses ₹65,436 Crore as India Operations Drive Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTVDTkd3MlZNbzJ5VHVObE9DamEzTFdvbWFObU1YLTl4cWh3MlVPaDMtQS0tQkU5bVRfTy13b2p4OEh3bEh6NTNLSEw5Z3dMQjFaUHBsNXQ4cGpXalR3Wl9LMGpNR3hHMjJRVGdCWWQzTnpMRmw2djR4eHF3MXZnY294ZXRKX3VoTjBLM05LWlh2bkVBTG5XUzJ1YklMVWQ3Q1RvR21tcw?oc=5",
-      "source": "www.nationpathindia.com",
-      "published": "2026-11-09T00:17:05Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1740c4c87052f9aa11a64f",
-      "title": "ECB says inflation likely to stay high in near future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzJJdlVORjlBM1dWdUlDNkJxaXNlS0dQNWUzZEdoZ0dQcExTYXFLUGp6ZHVnaFJDNXZIbWRLM0h0aW9udzBRQ2NMd2xTbzA5RGh6TlZZZXZoaFZMQzdnbkNwUWxqSU5OUzlfVXU5WDNVR3RlYXUtYk9teTVNaXZkQ3R2RnRMdjVUbEdacU1hdC1WOEw1aEtGdEtHM2Fka3cwdlczZjd5X0JZWVIwTkp4LXE3b2o?oc=5",
-      "source": "The Star",
-      "published": "2026-11-09T00:16:29Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cc0a7a228952539d7302ed",
-      "title": "Doing these things now will help you save money at Christmas",
-      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-09T00:09:14Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg"
-    },
-    {
-      "id": "eec825494d851e5fb3d2d2",
-      "title": "Defence investment and AI forecast to lift UK economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmZXZjBHcHVxcmk2X25aRHhEeWJkODAxbFR3UkRqWC1OYnFQVkpPQ01tRFZ5ekM0ZVRwLVFtQ0MxYTlvbThKV0pwZG53U0JHejY4UjhEZ19wRllyMlNNUVJTQzMxN0xZWXQ2UU1DMmtTcHVZc00tVjZ0NENkTVh6VXI5RVRzamN1SU1RZnNFMlJMY3JRd2xZZDV2bXh0UQ?oc=5",
-      "source": "The Times",
-      "published": "2026-11-09T00:01:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3032a22f43bf195fdfbcce",
-      "title": "Japan Tobacco says all JT Group entities in Russia under temporar",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGpiMzczUlhmUXJEbW5UQXB1VUhEUzFwTlJ5TFFIdlhmUkV2RWF5Z2dNOE1qaE9Dd05Td3BmWi02Z1EtaVBuTDFaUDc2eFBnM1BuWkRQbVFucFd4M1BEa2JtcVE2bEZfU3JwVGxTWnJDdXBmaW5VLVBOc3o1SldKSFhqQmduY3J0YUc2aDZXQWsyU00?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-08T23:59:06Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "379d0639d8e7925b482019",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T23:34:18Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
     }
   ],
   "countries": [
