@@ -1,17 +1,113 @@
 {
-  "last_updated": "2026-11-09T09:39:41.155200Z",
+  "last_updated": "2026-11-09T10:42:23.372767Z",
   "articles": [
     {
       "id": "0daa9a6eefd5a965188810",
-      "title": "Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live",
-      "summary": "Rolling coverage of the latest economic and financial news Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk. Musk commented “I agree” on a post by ​Sequoia partner Shaun Maguire that said Huang “did something incredibly dumb” that was “",
+      "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+      "summary": "Boss of world’s most valuable company admits affair as it investigates reports he was the target of ‘a foreign intelligence effort’ Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk. Musk commented “I agree” on a post by ​Sequoia partner",
       "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-09T09:30:10Z",
+      "published": "2026-11-09T10:35:12Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/08b95212f11f3d89e76bc0696f48e07fec9913c3/2_0_1971_1577/master/1971.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c8b7d30ced6869b05df509e1f738d1af"
+    },
+    {
+      "id": "df5fd54c2a7ba4093e25a3",
+      "title": "Nvidia shares sink as board launches probe into Jensen Huang's affair",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HTzNkS204c2d2VnVBWUhUM3U4MUd3SDNKVHpZY21jWEVqSXU0Z2c1TXVpQ3BCUVRwNHNDck5Talp2cl9tZnpSSjFqSWRESUtnSE9NMGxjTnRTX2JuZUN3R2pueU16eVJuUXRJRXBOVkJyNzA?oc=5",
+      "source": "Axios",
+      "published": "2026-11-09T10:25:35Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6517623a153e33a27a27f7",
+      "title": "South Korea’s economy gains from semiconductor and AI investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBva3Nrekp4QXp0Z1FtTGw1OTZnT2dBeWlWSE9TYmxSa3JxTzRCRkwyZ0J2N2tLMzdDNGFmcXpGWXlrcGRKUWg3d3pkNWFPTV9kR0w0?oc=5",
+      "source": "سانا",
+      "published": "2026-11-09T10:20:44Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0262e05dd901f0fa11e7b3",
+      "title": "Philadelphia's Higher Education and Civic Leaders to Shape New Regional Global Innovation Agenda",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVldPSDBqbGVnd2loSzNVQnZsT1lRakVCdVVzWVctNFh6Y1o0RXZtMXl3aUVCQzAzWGhIZE5IRjhOcFdfZVpDVzMyZWd3SC1IcmxadlZabGh0TVF6ODVMTV9mamp6XzZQR3pSMTA0WWdiWEJNQVRPZXJPTkNqaGplbnQ5OTczTHprN2c?oc=5",
+      "source": "BUCKSCO.Today",
+      "published": "2026-11-09T10:17:17Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bc31b4e0e0f68476d7e706",
+      "title": "Asian stock markets climb after earlier tech rout",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T10:16:56Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9d8c0e24d644dff347a5b1",
+      "title": "Former Canadian Trade Minister Mary Ng Makes the Case for Trust in HKU Speech",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzZjZWduNUJnZm5TMjl2ZlMwQXJ5LXV3aGlaX2pna2ZuR2x2UGJaU19Qb2M0eFc3LUVUSVVjaldlcENfd0ViNnEtWW8teDdZa2p2VGRmVkpkTlZOTkNHMXFvMHFBWlllblJwWXBmZmdPWW9QTlB2cE1XdUVoUU8xVw?oc=5",
+      "source": "The University of Hong Kong (HKU)",
+      "published": "2026-11-09T10:04:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "42683bbea0c38985aa8e04",
+      "title": "RB Global earnings in focus as auction firm faces seasonal test",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTHhVS1ZXbmJfUU12ME9rU1FSb2c1YVAzV0p0Y3l3WHpMMzVrRzh1NE80NG9jdlpydGJVS21aTzdad3JJZk16R2I1X3h2TUZVMmJqZS1NRnMxM1psTXV6S1RzdVo5VEdlX01YZjNaa1lkWEtxQ2Z4NVBhRzJ3N29KQ0JYOW1LVlBkeVllaVBzZ1I5NzROQUFWVDNGdnl5U04xVThVeV8weW40UlVhUnNydENHUXh3VGM?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-09T09:59:49Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f6d60f96bb44607816a74f",
+      "title": "K-EXAONE 2.5 API Free: 70% Gain Claim, Nvidia Ties [2026]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWxCSUpxQlV3ZmE0aG1JTXpLYVVJbVFOWGVmZnpMZmtjczRMZXBPd3ctMnRrX0lvRGdiRTBQZFJWX2habllQZm9VMFBzejJZX0IzOFczcjY0b3kxYkFZMTloMlVOQUpjLWpPSmNxOHpsdTYzWVpQMzRiWUNqNUpxeTJPbzN1dWltaHJMX3JB?oc=5",
+      "source": "https://tech-insider.org/",
+      "published": "2026-11-09T09:48:59Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8e9bc6dc7c27f9ea3ec614",
+      "title": "Global Ship Lease earnings ahead as vessel orders top $1.3B",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlNjTUVvbHIwV3E3UnBPNmZzZGhqQ3RCLWRVbkJkM2lkUW5kNmRFeHM3bTFBUGhoZ3ZfYmR1U0Q0VkVhbkdySWVZSmgzRGtQbzBYTzFSZW96LXNUZ0trSU9uWEdyTWZmVnhrZmY2UjJYN2pEeDhBZVNnb1JsX3ZRTWZyUFNuQ0ZvQzZ1N3pyRVliZWRVS09jcFplcjBPa283d0JjblRHSFVjMjVtV2lr?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-09T09:44:49Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "82a1fdfc33e530be68e9da",
@@ -34,6 +130,18 @@
       "published": "2026-11-09T09:23:12Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "21c57cc90e3bdff5f7bfed",
+      "title": "BAKAI becomes first Central Asian financial institution with banking presence in Hong Kong",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGNTl6MnFBVUtzcW0yOWZuZzhWb1o2eGJ3ZXFSRDRWak9UUHoteXNkQUhmWEl0akVqM0JaUTRLUFVJU1pYaDYtcHhmeHBhWmlkQ1EycmM3Q3otSDNCSDJ0dW5SbDYtZnpNTEQzTkNqaFZHMVk1MHZn?oc=5",
+      "source": "Economist.kg",
+      "published": "2026-11-09T09:16:59Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -206,6 +314,18 @@
       "image": ""
     },
     {
+      "id": "663ac3208e1bcbcefa9f34",
+      "title": "EU's Economy Commissioner Dombrovskis: Economy facing uncertianty, downside risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaU5SSWJSUTZmZGVHNW16WURGbWhXUkFtQWktc2tMNW51OGg3SnVHUXVvLXFoaTZuUE81MjNjRjBwTGVIR254TDJrNlh0QUZ5eVByY0plSXNvck5JbHA4cUhaRm5IWldrZmQ3UWljWHpZQWNhVlZGV3N4c3E3RmI3SlNEa1JKLUdBYlBDYzlPd2pOcWVqT2JDa1J3YVZObG1KR1huR3dSMFE1emc1Y1R0OGtDbWXSAboBQVVfeXFMTlQ0Rnlrb1dGY2lwVlQwTGZ4bFZFSHhnZXJBMDlTV05NcjFhUjk5R29DQlBITF9wT09uM1RfMklsVm5ybUQwNXRMbGJSSlB4cDIwYzVlbEJjYnR5TUlyNGN4OWNfekFlQkwzejNyUU9hazNmSTdsb0hCNWU5RVhlNldRM0N4VTFJVjN3Nzl0amF5bmxyOGlOWHpkM3NWSXhvLXNFcnFNNEFZN3lvaHpXNXZXV0VMdHBIWW13?oc=5",
+      "source": "Forex Factory",
+      "published": "2026-11-09T07:53:40Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5fae63df22c572dd1c1f06",
       "title": "UniCredit Reports Record Earnings as Commerzbank Takeover Nears",
       "summary": "",
@@ -239,7 +359,7 @@
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/157fc790-dc0c-11f1-b441-2b33b063138f.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png"
     },
     {
       "id": "e0e1b56efa6b93fe790dc0",
@@ -551,7 +671,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "3804fd1b3e319831dbb0f5",
@@ -564,18 +684,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/cd2ae82f92f835963dbd32bd2ff67aa7268b2b97/1073_0_6243_4994/master/6243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1a40d8fe0684cb2cf6f6ee6f04e54d18"
-    },
-    {
-      "id": "bc31b4e0e0f68476d7e706",
-      "title": "Asian stock markets climb after earlier tech rout",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T05:49:36Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
     },
     {
       "id": "0b8b9d7f066e02c33e399e",
@@ -672,6 +780,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+    },
+    {
+      "id": "c91dcbd1115563f1b91eca",
+      "title": "Philippine economy slows more than expected in Q3, annual growth target in doubt",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSHRIdmZhQlN2VnQzWm9ibTFwTDI0cWE2QjdCcFJ4MGRsaEhPV2JqQ1c2SktxYzJBblFNS2l4VE9rVWNZcEpuZW1HRUJzbWhPSkw0dWp5bW95MXdGUXFKcEtWbGJiT1BjdUljaGgzdVNOdTFsdl9JNndfY0hlb1gwU2ozdnFuc2Yya2J0QUhkOC1YMVBFVXdMckN0dEJuMy1laGRnU3JOVVJEX0R5aDV6QXVTb0NsUkNoLTRSV2lzbVdwb09iMy1QSXhWMkdGblZyRTEzWkMwQQ?oc=5",
+      "source": "The Star",
+      "published": "2026-11-09T05:24:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "cf9d37c26a7819a6a4580a",
@@ -866,6 +986,30 @@
       "image": ""
     },
     {
+      "id": "77d844464fa46cdcf2c138",
+      "title": "Asia Pacific Irish Business Forum 2026 Secures Significant Sponsorship and Support from Leading International Organisations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY0VDcFVES3FUWEVJNnJwYmhfVkZkTE83Z1I1bGRyeFJtaV9Gc2tiWXNNMGs3dXVxYWdoVWtYZkxJczVRaG5ib1RaVkpSZ2ZCUkZ0Rkw4MkJhcWdPV2VkQU1yWkJ2ZTNjd3hWbm4zZ09uNFBSUWQyOHRIYllWR2p5WjJOQlBBMktZanlBeXotSWxQekFSZUtHMzhpVDd0RjJEMW9UTTh0NFFTazlrTWVZdmVHQ2pmbkk4OEJjZ09QS21BbEF2R2ttQ2h2bUpGcmllaVc5cWZieFRaaXB4ak1LUWF5VlB0cFlYRTdRWm1KWFRBMEVH?oc=5",
+      "source": "pan african visions",
+      "published": "2026-11-09T04:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a8b8a94d674d1509d4d0d6",
+      "title": "Asia Pacific to drive one-third of global apparel, footwear growth by 2031",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY05yS0o3R05FT1kzclZabl9UZkYtOXpmNmRhUkRad2h0Nkd3M3hsZ0JBUkxGY2trdXpBbjdjSDNpb0RseUZjVEt6Q2dpTmI1VVhzUm4tR0ZjbVpvY09QdlNjam45SlNsUjdva08tMUlHZlVRMGhfTHM5QjNpYzFrNjdDY2tlNnc4NV8yRDQzeFlIQmJUeE9VbkNnbnZKQVY4dTE0?oc=5",
+      "source": "Asian Business Review",
+      "published": "2026-11-09T03:15:41Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "3d94905862196dc8e34aa1",
       "title": "Nvidia Shares Drop 3% in After-Hours and Perpetual Futures Trading",
       "summary": "",
@@ -894,7 +1038,7 @@
       "title": "‘More reasonable’: France’s Ardian sees upside in China’s lower valuations",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEJyOE5tMW13S1luNzE1NkhVVHczSHR2YjBrUlJ6TG1Zd2N0LWFwX3hpVzhYTi1VcHVxaEpSczB6RF8tUFZxSjNvNjRmdDlVRm1TZHpVTTFKbXNHNEZWN0pqUWotbWM3SW0tV0dUb1RPLXZBejJjYzlZaDZ6TWdSNWtMWDFDWTZ5ekxsOE5OanJtQjVBY1JtamVNSmpqNTA5dHBBZ0RoUnJEbTExUzdyN21jb0Q0cE1xVlZ4UDZULUV0ZXhDM09SblBGUTlUME83LWc?oc=5",
-      "source": "South China Morning Post",
+      "source": "SCMP",
       "published": "2026-11-09T03:00:38Z",
       "category": "World",
       "topic": "Middle East",
@@ -1296,150 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
-    },
-    {
-      "id": "668726c18e4418ae995579",
-      "title": "Northern 500 initiative aims to ‘unlock’ potential",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWhETDhSVU82QkpmNDdweGlZZEM4V1BTc2E4T3RRR0dIVy1Xay1vSnNtbkJsbDBKSGxIUGdPNGhNWXlGN1pfOFh2cWdpdHpsX3cyQXlycVN6blhtYXRSSklOalRrZnRJQ3Rrc2NxcFZTVjlxaVZwbzZ2aW5wRG1jYzlsejBJSjJBUjlYbU1Ya21Pdlk?oc=5",
-      "source": "Bdaily",
-      "published": "2026-11-08T23:29:15Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e1ddd8786433bbad519e6c",
-      "title": "The Pentagon is ramping up economic espionage. Jensen Huang's affair with a Chinese spy shows why",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWw1alpaanV1RWdyaENWcXpfVHozaDh6d3dHRFkwbG5yR0M0WWhreW91a1BkOHMwVllac3I4ZWVxMkJKb25Td1FiZ3UySEZpUFotYzNWaTRMc0tvYjhaVF84SjZWLTVVRElBNzRJWEo3NlJqZkV6Z2djVGZ4TXNNVW1VTDRHVFNic29Ma1VPa3ZSUXBWSy1iNnV2YmRHRk9WRE9YSmpWM0Q3SnU1d2xlSEhJOEJhdw?oc=5",
-      "source": "Fortune",
-      "published": "2026-11-08T23:20:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bb1593329e98d39013522c",
-      "title": "China Power International Development (SEHK:2380) Stock Looks Rich Despite Steady Earnings",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTdnWGY2SlB5VlR5bC1rZ01vZnNYZ3hUYmZDbnIwLWs3SGs4ZGtvTExRMTAwRFk0Z3pnci01QWloV2pWTnJBcnFqM0x0ZTJXUVF0YnJVTDVRa1c4clNmSTBQdHdOZUNMLWV4VjdlTGdJUUVfM3FXalo3dUhONElwT1NXd1pNRE16VGxqNzdiV2J6RWlod1Iwb3JZRWlzZ2tlRHZvY1praXZrZmM?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-08T23:18:34Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "625dc4b0aa9acafe425a88",
-      "title": "Editorial | European pressure won’t make the yuan appreciate faster",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGladm90anpNVEl4NkFYNURVbTk4X20yVmlYcGRhZ1JDcXZHbW9mTFdxX2tCUlA5SXRjTU1pTHJ2bFZMRGVTVmEwV0E4WnA5aUZmV1NOdjN2ZXRKQ2FEb2ozZ0QtaE5PVno4Si16OGFmOXVNTkQwalhXZ1FiUlRKcEx3cm1peUVZVWc0aVhpcjZfTlU1eXpCU20yMEpSVGg4c3F6ZVpn0gGmAUFVX3lxTFA5bXZnUEk4WnpyX1B4Z2pDQUJKczhmSmRoNkI4a055b2E4VUYya002bG41N0NXdG9yelVTV3ZpR2M5TmNVRjhWTnY4TGZITDdhN3lzczgweVRhaW0zX0pGcG5VZXVhVTJtemNpMnFyZHRVUjhGYlRqOVMxMTlwOFVqUGFkNGJjY2lSLThHSWVTOEJkOGx0Y2NkT2VYVXIxQnZuZFdNV0E?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-08T23:15:15Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f0be6325bfc4dec9fdd909",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge",
-      "published": "2026-11-08T22:54:50Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d08dc641958eb32375163f",
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "source": "The Verge",
-      "published": "2026-11-08T22:37:22Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9cb41b0ab5c8bc9d08cd53",
-      "title": "Q&A: Intrepid Travel global chief marketing officer Hazel McGuire",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmlJWHAwUWY1TTV5bDRjdHhKVUxlMzVZOTJjNkFRaGVqZlhfM0ctTTBKYmM5eUwyeDc4M01XZFl2cGJIMnBmdktwRFBWeGUzU1FWZTBTWDkza1NDRmhJZFdGWEJMR1NQLTgtZ21yNFNQZmFjUGZVbmtXeVFPcW0zMW5RQzNjRmtLNTZ1bjhkM2FOLWRrNXNB?oc=5",
-      "source": "travelweekly.com.au",
-      "published": "2026-11-08T22:37:08Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cb577a851583fb4ba8a0c5",
-      "title": "Cryptocurrencies Drop to 2-Month Lows After US Midterm Elections",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUFwbW5lYmgtR04xRWF1amh6VVRBZVdtUEE1ZGduZkJ6Tjh3alE1LVc0RmdZMFp3T2pIYUgzQmxVamtVTkE4aFVXdHBkZmJTVm5CM1BJX3hGQjluOHJCTTVqeENzUFVNTXNHbnBfTkNJQXJQV3hpZzdyaGhaRGNROXZwSndiQ25WR3dzY041aG41d3R2?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-08T22:23:50Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6f7bde6e57bd9d6e026cc8",
-      "title": "Trump Heads to Shenzhen as North Korea, China Deepen Ties",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnBiS3N5OFNvNWZIQk40enFUZVNSWlhYMVk2YklmMFJaTk03NlkwSkp1d2FXSlkzOTNYaU5lVkNMZE5tRUpvSnpVcmI1b1RIdkhiRGhHQlg1QWVWck9YZ01Ta3g4bUE3eHktdndPQW9GTXRQelZxUFBndE9wWjQwZFFpSHpObXQyRkVxQlRWV016ejluSUJERjRCR2lmOU03?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-08T22:11:05Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f74b4c79307a6db2cf924a",
-      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-      "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-      "source": "NPR",
-      "published": "2026-11-08T22:04:13Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "ba952abffb3d4856effb70",
-      "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
-      "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true owners or their descendants.",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
-      "source": "NPR",
-      "published": "2026-11-08T22:04:09Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "e9caf7fbc524fe5e65ec7f",
-      "title": "Shafaq News..Iraqi deputy PM discusses energy investment with US",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkV2a0x4OUpRREgxOWNfczZuZFFPaEVqX3M3N19kV09DVkRiLW02ZDNTbmctQXp3NzNlejBUZTVQbkRSUVNfekV5cy1SRkh2RkhRTDE3Nkh4NVhMQ2hlWDRycFlEa2NnM3Y0M0NlOVR0b0NzYWhWR0Q5S2ZyY09lZ1BBYlc?oc=5",
-      "source": "شفق نيوز",
-      "published": "2026-11-08T22:01:30Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
