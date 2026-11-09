@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T08:28:18.528908Z",
+  "last_updated": "2026-11-09T09:39:41.155200Z",
   "articles": [
     {
       "id": "0daa9a6eefd5a965188810",
@@ -7,11 +7,143 @@
       "summary": "Rolling coverage of the latest economic and financial news Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk. Musk commented “I agree” on a post by ​Sequoia partner Shaun Maguire that said Huang “did something incredibly dumb” that was “",
       "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-09T08:27:34Z",
+      "published": "2026-11-09T09:30:10Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/08b95212f11f3d89e76bc0696f48e07fec9913c3/2_0_1971_1577/master/1971.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c8b7d30ced6869b05df509e1f738d1af"
+    },
+    {
+      "id": "82a1fdfc33e530be68e9da",
+      "title": "Government's EV targets expected to be reduced this week",
+      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-09T09:24:03Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"
+    },
+    {
+      "id": "90f8c78dd0d004e1208b21",
+      "title": "Why airlines are upgrading premium offerings in bid to boost profits",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTZCb21aRFhZWk95UDZaaUV4TDNBT0xwSkROYnlrV3J1dmRjT09vNmFWdXA0cmU0dDB1NVlpaE5aT3ZoV0ViTzNjRnBCYjAwSVJydUpMaG1qWURBUWc2VVFnNFUtVVR2cHN2WWpYMDBBMVowdUtGM3N3aEFRX1ZGNk05RldFc1o0Rnh3S3BYUmlnWjBKQlBsTEZnRV9QTDN1NHhsdUNoZw?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-09T09:23:12Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3f718bbd36f0b2504eb496",
+      "title": "Daily headlines: Latin America under a Democratic Congress",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQno1QkY3QjVGOFoxeXFQRFg4anZqLVdDaGVMdzFJcnBFMHZ0UU8tZGxia1lEaEpxSzB2ZXZHX3U5N3lCMWlNSEJVM3FzQmFFRV9UZXl1OFRHZHcxdUZCdWRSZnA3Y1dpV2ozc1E4VlRGNDZiQTRnSlVvSHBTRkttM3o0NVlnU2FRSjQtOVFJSGd2N2ltazdF?oc=5",
+      "source": "BNamericas",
+      "published": "2026-11-09T09:15:56Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f4f1bed4ca235dc7fdb0c1",
+      "title": "Now Backed by Tomorrow Group, The Liberty Guild Merges with Culture3 and Evolves Into Freedom Works — LBB",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0JlMG9ENVhWeFhWVU8wcW9MZjFuMnY5Z05RQ2VNX0RDZnNsak9ialF1ZTRPN3JDZXg5Z0s2bDJZVkJIY2JzbXlaUlRxYldMRWh6eHZyVi04R2dJQldQdV9faF95a0otbmJuc3RGa3VhVVQtWTVmWVVjdUdjTEdaU2I3NkJWUnBNMURrcWtyZl9TQld6TmwtUFpwQnZaZlpadzRaa1JoNGRESVJ5bmJNMFV5TDU4bXFLR2NjOWRMeG5FeG8?oc=5",
+      "source": "LBB - Little Black Book",
+      "published": "2026-11-09T09:08:10Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bb5b985f56dd925117c68b",
+      "title": "China confirms talks on potential Xi, Trump and Putin meeting",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdnRsRi1JODI5azFqUUhabG0yRHJzQW82aHZwTDRYOEJfUi1ZT19tS3laOHdSb0hLUmRXUnpGT0o3cGtwMGJEXzdTNnllVFhHazI1Vjl5TDV2MnBxZWNBQklZcmVXUXhSNW5FTw?oc=5",
+      "source": "Economist.kg",
+      "published": "2026-11-09T09:04:37Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1f8bfbdc577229f990d627",
+      "title": "ADDED and Bavaria partner to strengthen economic partnership in future industries",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ0M3QnR2UFpNMEpHQWcxNkNMelZoUDVDVkZjT1FZTnFuR01KU2RZNURDN2FzcldOU09EaUZJVDNwYzh2NlM2MDlsZXpCTWFtM3N3VGJJZ3g4WXdXS283dXFpRXNSeUlzZ25vZENJQ191ZTdXOWNLLVdQYTczeEh1QmUzOFpvU2F5WS1hSU1nNzdsWm9OejlKNUVueVJNX0N6bjM3VjJ2UEQ5VW5UY0JlQkJRU3haY3ZVSzk0c0lXUW1xTURyY29HYWt3Y0w1dzFkZmFfVzdhMEgxd2pqbGQxNmFDcjBDTFZyVldtWEpHR1ZxQzJQZTctWQ?oc=5",
+      "source": "مكتب أبوظبي الإعلامي",
+      "published": "2026-11-09T08:58:47Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cfe7dffa2ab06d309ac168",
+      "title": "Nvidia CEO Admits Affair as Board Opens Leak Probe",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnZ4dUd0WkRNWGt4UEpUaFZpWldoYlVYZW4zT0ticFdqam1vYXdNM3EwNEpuX29JNlpjQWR3NXRGUjZTeDJRUndmN0o5bmRFcW1FT05xSk5iNnZQTWx4OUVzZTVFT0FxVHdXSHBGUTE5TUhIMWtTRGdHQVVxVWJHRTJhRDdpVHd4X3hrVFhhYl9zaWtrRW4zMjloMnBhQTg?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-09T08:58:39Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7c67e426ffe21dd12b52d2",
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-09T08:49:17Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg"
+    },
+    {
+      "id": "15501801ba67b1e67e7865",
+      "title": "Advanced Micro-Fabrication Equipment Inc China down 2.41% on Monday",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV8tcGFXaFFWLWpiaTEzSDlHOGZkTXU4azBWVHA4c2lrR0x0YWZFZXc1a05HSWoxMnlvbmlrZllkRThweEhGYjN2NnhJWFdRbHRIdXFOVWQwcHJGOHVtS3Rwd0JCQXFuSXFWakhKMnBWaDA0Qlg3T2F2U2RGNGVNV3lZd3Q5WlI2eFdfMlBVbmk3WkpuTUVWT1dIMjJRbndiX3c5d3R2ZFVaU2FfdGg1RWxVZS0?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-09T08:40:57Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "464a82d48192d5427c14fd",
+      "title": "Incheon Metropolitan City ramps up bid to host 2028 G20 Summit... launches public-private cooperation system",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PLTRGRmJ2SG1leXgwWEkySmdCby1uWmNuVlNPNGlpc1pKdEFsZWYyWnpQV0JDdE5WY1lDZC1Vc3pVaUtzbGVNYWt0VWpvTmlSVTNjenlZYU8?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-11-09T08:38:28Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5ad4ef6d6badadc8f217be",
+      "title": "Cyprus urged to turn international alliances into business opportunities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2RvbXVjb0hPdVdnMl9QVEVZUlZhNUtWSnA2emhWaHhEN0RkSGxMdkIxdDBKbUVoejhIYnVZZUFBTnRtMHFhdzJfWUhOM2R2M0w4dTh2bUdvZ0JPNjhzdkQ4WmNlemhsLWI3MFdiNjJpeVphbTBfa09LUURGRmNxSUlTQzkxa3FpeVZ6aWM5V1FvcDlyVGRhS1BhYk45Ym1pMlZZLTNPOGdrVWs?oc=5",
+      "source": "Cyprus Mail",
+      "published": "2026-11-09T08:21:15Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "680b4932ed8cdbe45a5f7f",
@@ -26,16 +158,16 @@
       "image": ""
     },
     {
-      "id": "82a1fdfc33e530be68e9da",
-      "title": "Government's EV targets expected to be reduced this week",
-      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-09T08:17:30Z",
-      "category": "Finance",
-      "topic": "BBC Business",
+      "id": "e573ed3951e8163c36487c",
+      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-09T08:16:57Z",
+      "category": "World",
+      "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
     },
     {
       "id": "5475682dae47190cb7b6fc",
@@ -110,6 +242,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/157fc790-dc0c-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "id": "e0e1b56efa6b93fe790dc0",
+      "title": "CoreWeave Q3 Earnings Preview: Revenue Expected to Grow 159%, Debt and Financing Costs in Focus, Wall Street's Top Price Target at $278",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOHBsTm8tN2JMaHFoRURMUDB6M05vdUZzckxjZjY2Qjl1QkViaVFpdW5LelgxZzJnREIyOG5FZkFyR0ZsNVNUekNiZS1ZS1N4aUtLTkVyWmlxTTlYVmN5XzZyY1AxUllNVHM2Q3hXU0ZsLUpNUEIwbngySjM1czdxNnkwSk81SFM1dkIwZGcyNzV4WGtHSlI0U1cyYjZiMUVGWDVaUWhnTkRwN0ZZTml1a2tPYTRNYkJIZUpvMEcyREMxSm1qaEtlNU1MendabzRZRUgzX2VFMy1HeHdTaDdiTE1tbUVXOVM4c1I5M1NWLWNCNmc?oc=5",
+      "source": "TradingKey",
+      "published": "2026-11-09T07:08:32Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c6a60f400fbf16e95d0198",
       "title": "Doosan Posts Q3 Operating Profit of 459.4 Billion Won, Up 98.4% Year-on-Year",
       "summary": "",
@@ -158,6 +302,18 @@
       "image": ""
     },
     {
+      "id": "9d0cff273e4da51d157549",
+      "title": "H.E. Noura Al Kaabi Meets President of Palau to Strengthen Bilateral Ties",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yS3ZObEk0OE1kN0FmZHk2eEMwYjd3eUVBbVpnaTVlblFucXZvX2NuWjVMVURicUpZMWd3V1l5eGRCdG1aVTdtOGY5dHNhT3BiUmt1OGdsUGFtbUVPVnBYaU1TWTlZczZXaHIwSmFIUTJUTlk?oc=5",
+      "source": "وزارة الخارجية الإماراتية",
+      "published": "2026-11-09T07:00:17Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7c3f58eafb06dd2867e27b",
       "title": "Ardian Leans on Mideast Money for €1 Billion Semiconductor Fund",
       "summary": "",
@@ -182,6 +338,18 @@
       "image": ""
     },
     {
+      "id": "85a9f892837d89ba2102a3",
+      "title": "Company earnings calendar",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2SUdyRkhZRGJQaEFVRl94eUFjNUFHSkhXRGNIOGd1bHBuTS1SWXJVOFJOR2Vnb3hDZmNoMjdkOGNmUnNIbm9PM2RHN3N5S3hQUzM0RndsOEpFeXM?oc=5",
+      "source": "Yahoo Finance Australia",
+      "published": "2026-11-09T06:48:51Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "418d074ad0e9823e74afa2",
       "title": "Korea’s AI-driven export boom fuels growth, but household gains still lag",
       "summary": "",
@@ -190,6 +358,18 @@
       "published": "2026-11-09T06:41:10Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3717cdd34103b0ac14d3b3",
+      "title": "Gemini API Pricing Doubles Dec 1: 4 Models Compared [2026]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzNwWWg5NXJQSmdCSi1WM3hWT21lWGE5aVh2SkdSdGNmeHEtMTBnZnBRQlNISjdYXzdvV18xU0JXakxMR0JiekZBV0dQbkplS0JwQTRSUGt3QkVIekpwR3Njc3MtMmRyMlpydFBrSUxKVXV6bkRmbFkwRWg2aEtDcEM0eE9KUEdmdkJyY1FqSEtPY0JJRFZjOWxQWnREdw?oc=5",
+      "source": "tech-insider.org",
+      "published": "2026-11-09T06:41:09Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -338,6 +518,18 @@
       "image": ""
     },
     {
+      "id": "8af32a39788f2240abb94a",
+      "title": "AIREV joins Fast Company Middle East’s Taste of Innovation as Intelligence Partner",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BKR0VhRld0RTFFNUhqWUd1Y3ozbzdYUG1TLWRXc2hiVFdZMVNfYVVDY01mYmRzWEtWRG9NblpRSGs3T29ib1ZWTjhYdDlYdnhoaXpKWmFmSXJWSWwxenJZZzVOOUtpMG1reGt1WFBVb3B5VHBJLVZzZUp6WmxhTlB3NzNiaHNYS2JhSlo3MTNlWDZoSU9IdFJsd2tkanVSQlZuYkMtZXZsNFYzcjhLUFVKRQ?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-09T06:02:31Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e869dd4c2eff543382104b",
       "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
       "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
@@ -360,6 +552,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "3804fd1b3e319831dbb0f5",
+      "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it | Ben Coleman",
+      "summary": "We can’t allow our health data to be locked into the control of a US tech firm. It won’t be easy, but next spring the job of clawing it back must begin Ben Coleman is Labour MP for Chelsea and Fulham and a member of the health and social care committee Next March, Palantir’s £330m contract to run NHS England’s federated data platform (FDP) ends. Ministers mu",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
+      "source": "The Guardian",
+      "published": "2026-11-09T06:00:02Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/cd2ae82f92f835963dbd32bd2ff67aa7268b2b97/1073_0_6243_4994/master/6243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1a40d8fe0684cb2cf6f6ee6f04e54d18"
     },
     {
       "id": "bc31b4e0e0f68476d7e706",
@@ -518,6 +722,18 @@
       "image": ""
     },
     {
+      "id": "79738d2dd673d3e33bbb15",
+      "title": "Students, faculty remain conflicted on Penn AI portal months after launch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZERGYXkzeUN3ekpyMFdlWVBFWENhTW9VNW5nQWNuMlUzRms1Z05ibkhVLUs2NE1WTmp6V2R4aGFVb2dPNmRDSU5vVHZZWV9EMEFHQWFwTzQ4Tkgwa3JRRlQzVE9NZy1kUmFOd29vY2lvV09IVHNKekpzZlBhS3RmbjB0MlRfT2xsOXRUOTZXME5yRDN6cmp3?oc=5",
+      "source": "The Daily Pennsylvanian",
+      "published": "2026-11-09T04:49:15Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0f002bcf8985c5ed284e7f",
       "title": "Dangote to join Mahama at Invest Ghana Summit 2026",
       "summary": "",
@@ -630,6 +846,18 @@
       "title": "Australia and Asia must make common cause in an uncertain world",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlhIZV96aVBnUFRsVGppWDItYWNEa2U3RGs2bFN1WVlZWGNQN3ZJVkpQbWFuT3VVb2tWenpfQWM3U3RjTDBDRV90MDNlRVpnWnZHUTQwMFJYczhZLXZOVEUtZ3RCQ2dYR21QT2NsemlSYlQxTVc1RlNGZ0RKc0FHTF9aajBBNmdvUTZYOVlnR0pYam14VExhQ1owb0RtazFJWHc?oc=5",
+      "source": "The Straits Times",
+      "published": "2026-11-09T04:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6998d39c3e32c4518a8001",
+      "title": "Australia and Asia must make common cause in an uncertain world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZy16Rmpicnp1QlhYZVRZME5oZmpmZlFaaldMT2c2TjctTDJXQ1lDWkhEOXVpYVMtU2g5UGRGY0VTeFZkMzE3SER0WTczTkZDWXdQZzNNX0RpZHpGNDA3YUU2WUtZanpDSkgzXy1KS1dvWXVRaUc5SE90M1JZM055VEtzVHp4VVBNUXNxUkV4b0NQZGxERTJVQkZDbGtsZWdLLXhGa1M5TmIwckQ1YkRzYlM0c3kxWDY4R2pnX0dn?oc=5",
       "source": "The Straits Times",
       "published": "2026-11-09T04:00:00Z",
       "category": "World",
@@ -986,6 +1214,18 @@
       "image": ""
     },
     {
+      "id": "75eee0dcbc87b091d46a18",
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The New York Times reported in ​October that Donald Trump had been b",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "source": "The Guardian",
+      "published": "2026-11-09T00:25:28Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65dfa83cef411b7e5330a65162e62273"
+    },
+    {
       "id": "f52f15b6f38d95d942e110",
       "title": "Tata Steel Q2 FY27 Net Profit Rises 16%; Revenue Crosses ₹65,436 Crore as India Operations Drive Growth",
       "summary": "",
@@ -1200,246 +1440,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "7978cc85b6b0372d326c66",
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T22:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2149461717.jpg?resize=1200,900"
-    },
-    {
-      "id": "5a16ed41c9ce2c8ad0a99e",
-      "title": "APA NTA 06-11-2026 $3.60404",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVhBcEpWZzdJMXJSNXU5SUtUWFlYekN6T2Zid2lZWG9OSG93cTBGSzlIRHVVUDVJTzBvcUN6T1pfZmtPY1Q2YUhxdWJuQmtPNzdCYzU5UGNLazJwS3hmSUJjU25DODZxdHhWb2pIdENST2l4NFA5Mm03ZDNlZ1lqd1VYMHVKYlBR?oc=5",
-      "source": "BusinessDesk",
-      "published": "2026-11-08T21:41:18Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f6a555d4b54618fb905cfa",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T21:37:36Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "id": "0076ffe7f58604cea35bb2",
-      "title": "GTA6 Release Triggers $1B Economic Loss, Global Frenzy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUhDeEFyZkZ2a0FCckd2bnNLRWJ3NllvRkJPRmhXbDBCNEc5b0lISTcyY1JkcnBEc21Hb2M1ZzdQeEJhVWVkVG1aMklpTzU5RnZ3N1ZPaWI5Ql9RbHJFWl9OV2RKSWUySWk3bld2NDk5RjJCVFRmSm9EVWFmb1RkX0xVejI2OERu?oc=5",
-      "source": "조선일보",
-      "published": "2026-11-08T21:03:37Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ab3c0090fa33621fad6524",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T21:00:11Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
-    },
-    {
-      "id": "173bdbed7479e7643659f1",
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T21:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675"
-    },
-    {
-      "id": "d1d29453d583846bd777c2",
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinu",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "source": "The Verge",
-      "published": "2026-11-08T20:52:05Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "2be1c2c3fd1bcdb8e5ac2c",
-      "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDZKWXR6NWRkSU1kLUV0M3FSOHpOYUtQWlV1OWVhUGN5Z3BraUg2d3BIdEJDZjBMMV9Ca3JBaEw5bWl4a0FPVFdGMWgwTEt3SUZtMnBkcU1MempFcGRwZVlXdmVfeGgtQm1sZW5zQVJMU29DczY5MjJ2WHF2cVo0M05pbw?oc=5",
-      "source": "CNN",
-      "published": "2026-11-08T20:36:42Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "12dd31512a4281c9642e9e",
-      "title": "Nvidia opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2dSbkNSc1RiSEd4c2xPWGpQSU1zVktFN2NYR2xuS1hNU0lKdzF4RGJXNTlDNm9PWmE2OHZYRGhxc2MyaGR2UFBrOVpfV2otLVlBV1JiN2ljNURSUlJDRC02UVR1dk1JT3dNTV9OSmlYcVlqdFMxVWQyQmdwOEkxc1JSRmdza2k1alE?oc=5",
-      "source": "AOL.com",
-      "published": "2026-11-08T20:33:31Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2e228b151efba23e62d018",
-      "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkF4ZEJCYVZFalpVOHJMdEdWdkw2UWtqVEdmdFNwR1FPSlZGR3JtSDlRZjkyczF4SWstdHdUb2VTTXZIb1FPSWFqVG0yYmtlTkFKWkVXYU9GMko5YU4xWUhKTzlsdjJxRUxkSkZOTU9aV1B0TFBIdFV0bWdLLTBYNGNUX1JXZ1NqU2tsMncxNmXSAZYBQVVfeXFMT2I3cGlsSnlvR0dob2JGTEdwMGc5OG1rZkxkeWdOTDRMcDY0U3VWRW91RGtYVVh0NUhQdUR4TFhKZGVsWDNLeGw3d2VOUlVQS093bDEyZHRidjlCemEyeHluQ3ozR202RU9JekJTVjduT1M5MVYyNXFQdFZBbGo4UnFJSXB3dzFhNC1qQWczMUQ1VWJxVGFB?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T20:32:42Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "abc33a0fbba42e3ee1dd6d",
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T20:30:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800"
-    },
-    {
-      "id": "b4dc4be7539d9c786c7a5e",
-      "title": "Mexican entrepreneur builds China-Latin America trade bridge amid APEC 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUVjVXNwdEhER0k1b0ZoSG9YM3NXUjFxZzBtNHBLVE53eUtVbUpaVUZBWHEyOExJaU94UTk3ZGYzTjVXandFU1Q4aHdHcnJyenEzZHFrQkpNZ1lFOUlJV0hVZkU3NWlaQ3dYN29GbnZ0Q0I5WGlqRmY5VmVxMHllbzhQUUgtMVNfY1ZSWTBRcEQtX0Rsb25fWG9EX2NDTkQ5S1l0WVBDdFptZGNmWUVZZnRZckptODE1NExTNlMwa2lZZ2kxeVE?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-08T20:27:14Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "54c06e97d6e0a2b71c0f98",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "source": "The Verge",
-      "published": "2026-11-08T20:22:39Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ab64ab2f789c4bc1d34eaa",
-      "title": "Synopsys joins European initiative to support semiconductor startups and SMEs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFJGSDZXbGFhQUItNWhKVHVJQlN2RXRTS3lYZGRLc1p1ZDVSR0hIWlNpRl96TlU5SnVnaUpZLW1WVjR5ZHRuc18yTm1hcjg5M2dyRVdvV2dKc3BESDFEUlpiTU5xQTNHUkVwd09xSkdNQ3AxT0pOYVMtTlFCMUVHbE1UY04xSDc1WERhZW5NRk5oYXdCdzJRQzhXcld4OUJPSThPTHdyV01MRkl0VzJWWlJ4SVdZcFk3WFh3djhLd3A?oc=5",
-      "source": "New Electronics",
-      "published": "2026-11-08T19:58:26Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "07141ad7abea75515a89fb",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T19:58:02Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "340b23d5b30066362d5d8f",
-      "title": "Europe’s Two-Speed AI Economy: Why Small Firms Are Falling Behind, and How to Catch Up",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0RGalNnbFFUNWhQcTNOdlQwMG5EeVhoaVpJZ2Z2ZmJ1SjBJbDgwd3hRa1F0QXpXSG0xSHpXdS1Pb1NtbnFxNS1DRGZxUG5BeGJnTDlhV2lmYWljRkVCT3k1bFphbEdSelJZWExxYmVXSV9sMHNsV0ZtZTVzNThxcnI5TQ?oc=5",
-      "source": "European Business Magazine",
-      "published": "2026-11-08T19:57:23Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "53e0b854f325021a3fd719",
-      "title": "In March 2000, Cisco Briefly Became The World's Most Valuable Company As Its Stock Closed At $80.06. Buyers That Day Waited More Than 25 Years For It To Close Higher. Here's What AI Investors Need To Know",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOanNEcUpkYWpsWjgtSnN3SmpEel9yYlFZNkY1WklNQWNicnNQdjMtWnZfNVF4T0Iya3hmTHlSZm5VT29zOWRuOWRQMFRmQzRiVHRGbzNScDRZODZ2QjEzMXR0SU9aTVcwaFZYakdkUDlQR25xM01NNmZabEJ0bWNqS3NuRGF6M0QxWUhMaUVCZGxINkNwbTNaN3FITWI4NS1iVTM1THNfUmx0T25MbzdUYzVnRVJwUi1nMVc0bkE0U1FPREhRYlRmMXB5aUpQQVlxQUp6bThJUVo4TE9HTTF6cWUwM1BBbHRaRmJFSEI2OE8wOFpoMng4cklZUmVtaTdhbmtONkpXeHJRSkxSLTB0NTgwUlNzdWl1M0VnbThfOWJGTXFpVnBQYURwNTVUSWlKeE1IYjVBd2NDczNSbVVnZnh4dzdTYUl2czBiUUhNcmZ3UGNfU3lz?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-08T19:54:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e14606d865d4d621bb5c7c",
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T19:51:30Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800"
-    },
-    {
-      "id": "2f8fc736a22d98670aa67c",
-      "title": "Global companies see China as innovation hub for Asia-Pacific, world",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPelY2MlZOU0R0dEFGZUZHYS01ajE2amVhdEl1RGQ5X0R0UU1STHI2a2VDTDRiYktfZHFXODByOVhGNGpWUUVTMk8wUUprcFFuMUdNcGVhQUp5THJWeG9aS0U3enk0ZVNleWlvd0s1S0M2d3RoblFEbXp2TjJiRjIxSUVubGMzU1FHeUpUN01KbnJlM0kxVFFTZmJJMkdzVUdJWHI0T3F2SjhQcXNURmJHNXd1TC1sUm1XZWQw?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-08T19:27:16Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "115856182950e41c3ecdb9",
-      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-      "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-      "source": "NPR",
-      "published": "2026-11-08T19:25:30Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8144x5424+0+0/resize/8144x5424!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fa1%2F91147a0b4187a331f76a4c33d532%2Fap26311445819542.jpg"
     }
   ],
   "countries": [
