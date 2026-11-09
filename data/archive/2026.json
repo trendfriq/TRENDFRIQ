@@ -1,5 +1,101 @@
 [
   {
+    "id": "4a9293f6fb1874436e243f",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+    "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-09T23:20:29Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg"
+  },
+  {
+    "id": "38ea5b66d259522356b1fd",
+    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "source": "The Verge",
+    "published": "2026-11-09T23:07:59Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0e7ef2f6fd781bac1abfa3",
+    "title": "Customer-service provider TTEC had 5.2% less revenue, but income from operations rose to $23.3 million.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1hsVV9nS0xkcmhwVGRkc2VYRXpKZW5oSWxGTklkalotUUI1OTREb1JoWkgweTBpOTNPcEVqM2VhRi1uVGgtUmo5QmNibUJxRDFfZUpWQnJ6Q3BWRHE2akNfanl5S3ZTdTdNSVpRWk9hRWRUYUE1QUJpVTB2cDJGVS10eTNqTlEwS3NpLWJLWnhlQ1N0NkhyLTNEZ1dheWUwazlvME1lZFJYLWxsRkNrakttTEZMY0tUdTNDZg?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-09T23:07:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f701b8b81b94f95be487d7",
+    "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+    "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+    "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+    "source": "TechCrunch",
+    "published": "2026-11-09T23:03:46Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843"
+  },
+  {
+    "id": "11d8b712303ef06d641daa",
+    "title": "‘We were always here’: UBS CEO ups Hong Kong commitment despite US expansion",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcllJR191TnBWNEdNR1pwbDR0ZU1vRVVjUFFaQkdSMVFWS0pKYXZlV1FrWnNuT0lYUHQzVU92Y2RoZTFRX25GS3FzM1BHcDFNS3pMR3BDcTZaQ2hRU0RZQzBPQTMwQi1lUk1Sc3R3cjQzM1d5djF4ZkdMR1NlRHNIaHZyNFZCT0pzZnhRTS1qMmR6OFp0VUZ0TUpWWDZuTWd4RFR6N3lhaDBHSG4tTTdnby1rUHhMeEp2NDB5LUJyV3prdFVfMVpFTUMzN3Q3QkRN?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-09T23:00:22Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "12dad0866668a0dc3da15d",
+    "title": "KOTRA Opens Europe Semiconductor Summit in Munich",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWR4MGV1RWxuVFlxYVFVLXk0WkxIYXU3YUx0ajlRRVEwUllELUdnckVHQU5oRWFvdHlSTWdZWmZyYU1xX2theGlnd2w5UDNIZ0I0TmxtMmV5VzJweGNUSXg0NkJMX0N6aWx3cElyLUJuMzhVekV4YXlsMXRmdGZUX2JXd0pBc2pOUndKZE0ya3JRRHlOMXc?oc=5",
+    "source": "Seoul Economic Daily",
+    "published": "2026-11-09T23:00:05Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7bc6c6f1d73ef04083bd71",
+    "title": "Is Singapore still South-east Asia’s headquarters haven?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDgyRUVZVUtLbzV0MkJyS2RVTzR5dVVHc0luSmFhNUYtcjhHSENvV2JMbUthbG1iakl3bWdZVHZkTUZGaERxdk9NMUdSaGhRdEI3dHJsOVBxb2FiZDhVRWtQQmVyNlFBM29HeF8xc1FrUGo5YzNvQnJ5LU8zNGhhOXdfRlJQTjdTdjNnVXpBU3pheHVtN0xQSUZ2OTItbWhoZExUSm51Rkd6ME1oQUE?oc=5",
+    "source": "The Business Times",
+    "published": "2026-11-09T23:00:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1e4de6ee00e6af1c2cad0d",
+    "title": "MM Group Sells 70% Stake in Packaging Business for $2.7 Billion",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXExZUxHdVpmbmtHQ1djU0ZYMjkwRS1BaEI2amFNTDZObFRpMVE0QVNMUWJyWjNoT1NqWmR2RE0wVmRrXzhnM3ZYbEFTNlZ3LWVZaU8ybnlNdlYzRTR6UzRMV2Zoa0x0TVZKR2NPRVRYTWtRdjBzalZQUHUxZGM2amNaNDFndnVGQXJEakFIQVNGNWRaV3kxWHdNWlpmajFoencw?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-09T22:58:31Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "ee9aab4d1d8b4a89ef6ad2",
     "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
     "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive",
@@ -10,6 +106,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+  },
+  {
+    "id": "1a0ed203f39400709b5bd4",
+    "title": "Mexico’s Aerospace Industry Advances Through Digital Innovation",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDNaOENMTEo5b1VVaWdnZ3hnYXlJQ2FuMUhjQ1hqZFpJRlhUVW8zX2Y5elV5MmdiS3BjZ2RMb2VHd09ZcVBQTk1xcjVFdTJWT29XaXpKMWxQOVdFOGdWTGtmcUh4dXc2X3ZhV2VkUTE3NFFjWHEwMUNwVF9SeGZ3a0cxcUpCY0FBVW5QRlZRMmZYSVZpaFBkOWZ6UF9MVmxaU2FLS29DT1o?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-09T22:45:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "7419cb8a65e628ef4af9d9",
@@ -108,6 +216,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/25c9f050-dc7d-11f1-ba95-5f07efd49f42.jpg"
   },
   {
+    "id": "b4bf9d2b4d60a6476cebb3",
+    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNHMxUE1fbWdNXzh5bXhvY3JNNlpxZmdZS1J0QTQ5Smw0SlhVMGtlLXhrZ1VTYjdIYWFhaExvSlh1bDF6dHk4QkRyNVNtSFpVNVNUV291V1U0bGs?oc=5",
+    "source": "BBC",
+    "published": "2026-11-09T21:52:28Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "b28d57017b056f364e2095",
     "title": "Skydance details plans to cut $6B in costs, sets streaming bundle for early next year",
     "summary": "",
@@ -118,6 +238,18 @@
     "topic": "Brands & business",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "e3cf27814ff8f8e67c6607",
+    "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+    "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+    "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-09T21:48:38Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg"
   },
   {
     "id": "7ae181483f4bc95d4ca2c3",
@@ -152,6 +284,42 @@
     "published": "2026-11-09T21:37:46Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c1c9ef88cc218dfeadd4a1",
+    "title": "Qualys (QLYS) Q3 Earnings and Revenues Top Estimates",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUJNRHVDTkRMV2NnVmJ4OUpEemhiQnFUZUJHSk5NR0x0X2FJOFBSdUcybm1zLXJpTkw2dlFRXzhFX2Y2eXBkT0RvYnJ3eUI0Qm5YMVdpZG5UaUlmU2J4MzRQbTBsaVdDY3pjRzZFNlRseFo2LXV5dHdtN2hxVF9PNk9vUDJGYnAwNWFxWjBNVUVvWHZEWTNTTHdROTNzQQ?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T21:35:03Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "eff8bd1861d888c2048a46",
+    "title": "American Public Education (APEI) Q3 Earnings and Revenues Top Estimates",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZC1MckVSdmhweUg4RTY1SGhkVkowTm54azRKMEhEZWhic19KSTVXcHhnNjNhaWdTVUN0cEFEVFN0amhMb1RobDVnOGtNRG5ZWnRkOWh6ZnAyMkVnRFNNcmpyWjRtVG1YbFBwZHNSYzNEZ1FEUDcxdlJKSWlyb2hxZmMzMUVLQmZGX0E?oc=5",
+    "source": "Yahoo Finance UK",
+    "published": "2026-11-09T21:35:02Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "0af1a2a4653ef6e97b4d00",
+    "title": "Innovation Week 2026: Showcasing the entrepreneurial spirit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRW9LRmdxbFFZQlNQXzNmSFl0U0ZzZTVlVjlIU3Vxd2UtTnMybU1XOXNVLXlSUDN0ZWVqaUJ2TjRkZW01VDRjQVVkNXl3aU9EMEdXSnNGUWQ0TWtTc1lEdlNNVVNtRWtQUUdPRng0UDJxQXpsM1RHTTNBZnB2WlNrVGFpSGVYZw?oc=5",
+    "source": "University of Calgary",
+    "published": "2026-11-09T21:32:08Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -418,6 +586,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=408fe94240296dc6dd54a2bb804a50fd"
+  },
+  {
+    "id": "53010d73337b9025f04760",
+    "title": "Corporate Leaders Discuss Latin America's Economic and Technological Future",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSU9lUjY5c3JLSFhBQlEtYm1aekpzdXBJLXd2SmJuSUtQTGRXYjJLdjhFSWRhbDd5S05qa1BlWW5CT3hzVUdaWEV1NkRpZkUwX3FCMkgxT0J5aTdsZnVaSkU0b3NZd0tBN3UzNW1nQjR5VWp0SmxNWEhjdWdTQlVsTE5WeW1iSTktSHdETU43LUx6eWkzV3ZETGJJM1RnaHlUVy1ZWjdqd1dyZw?oc=5",
+    "source": "Time Magazine",
+    "published": "2026-11-09T19:53:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "e7f0cb6b435ee52c23268c",
@@ -1212,6 +1392,18 @@
     "image": ""
   },
   {
+    "id": "8138ffd6d59350787704b1",
+    "title": "Tony Elumelu calls for greater representation of women in African corporate leadership",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX1QxcGNFTmtrT0VVZno2RFNvcDlvdTIwZTVyVnp1UF83QWFvS01HYUN4bzB1MVl0OUJVeTRDM3NHWjlMOEkzWG55RHV5c2VYMk9lcW1PTzNIWDNvdElVS3NNbFp6OE9YUEEtdWFrMV9Vb2h4c042NU9nbDJRbnJBZGpjRlFONUNEMnJMd0xIMmQzcXhKUDdPT0tUVVZIV19FQk8xalFBZW9KUndJQ3JwWVVJckpWc2FKOWNBTnVVSlpDYnJsYWdLaFM1UG9ldHA5RzlYUw?oc=5",
+    "source": "Premium Times Nigeria",
+    "published": "2026-11-09T16:16:04Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "dc3502114d4c39c0b4d843",
     "title": "Telos raises its 2026 revenue outlook to $198-201 million after its biggest quarterly profit since its IPO",
     "summary": "",
@@ -1246,6 +1438,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675"
+  },
+  {
+    "id": "e11a6d74761daf12ba642a",
+    "title": "Opinion | I Am a Silicon Valley Veteran. We Are Sabotaging Ourselves.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdy1yem9EQnJKRnV2eXI1azF0VmxfRkMxM1hYZmlMZHZPV2ZxV0tfNFdDNF9aWURuVjZDNmlVYUtzeFBrQzdkd1lhZnJocHBBaHFEY2xoR0JlNHpOSGUxR0NGRUJReGg1TTc4dkg0dGNCMktDVzZKOVJPS3piU05HeA?oc=5",
+    "source": "The New York Times",
+    "published": "2026-11-09T16:00:06Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "85fa497bfa42ab6e0fa3b7",
@@ -2180,6 +2384,18 @@
     "published": "2026-11-09T12:33:54Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d8e43a5e250ecc7b5d1ee3",
+    "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kV0hmUlQ5ZmVNeHlqenhEUXVEaUlOV19hbkRfSGVQd1FfYjVNMDJ1X19RdzdoMTBfandLbnI1SklMTFU0MWlzOTZCZ0RvaFdXX2dCb0JxLS1XNXpEUXJoeWdPOXQ3U1lmZVBYVHUyVVRmM3U2RnFxNjY1c202VVk?oc=5",
+    "source": "The New York Times",
+    "published": "2026-11-09T12:33:37Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },

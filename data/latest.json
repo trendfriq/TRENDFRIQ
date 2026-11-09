@@ -1,17 +1,125 @@
 {
-  "last_updated": "2026-11-09T22:48:40.705956Z",
+  "last_updated": "2026-11-09T23:26:19.555086Z",
   "articles": [
+    {
+      "id": "4a9293f6fb1874436e243f",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-09T23:20:29Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg"
+    },
+    {
+      "id": "38ea5b66d259522356b1fd",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "published": "2026-11-09T23:07:59Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0e7ef2f6fd781bac1abfa3",
+      "title": "Customer-service provider TTEC had 5.2% less revenue, but income from operations rose to $23.3 million.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1hsVV9nS0xkcmhwVGRkc2VYRXpKZW5oSWxGTklkalotUUI1OTREb1JoWkgweTBpOTNPcEVqM2VhRi1uVGgtUmo5QmNibUJxRDFfZUpWQnJ6Q3BWRHE2akNfanl5S3ZTdTdNSVpRWk9hRWRUYUE1QUJpVTB2cDJGVS10eTNqTlEwS3NpLWJLWnhlQ1N0NkhyLTNEZ1dheWUwazlvME1lZFJYLWxsRkNrakttTEZMY0tUdTNDZg?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-09T23:07:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f701b8b81b94f95be487d7",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T23:03:46Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843"
+    },
+    {
+      "id": "11d8b712303ef06d641daa",
+      "title": "‘We were always here’: UBS CEO ups Hong Kong commitment despite US expansion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcllJR191TnBWNEdNR1pwbDR0ZU1vRVVjUFFaQkdSMVFWS0pKYXZlV1FrWnNuT0lYUHQzVU92Y2RoZTFRX25GS3FzM1BHcDFNS3pMR3BDcTZaQ2hRU0RZQzBPQTMwQi1lUk1Sc3R3cjQzM1d5djF4ZkdMR1NlRHNIaHZyNFZCT0pzZnhRTS1qMmR6OFp0VUZ0TUpWWDZuTWd4RFR6N3lhaDBHSG4tTTdnby1rUHhMeEp2NDB5LUJyV3prdFVfMVpFTUMzN3Q3QkRN?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-09T23:00:22Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "12dad0866668a0dc3da15d",
+      "title": "KOTRA Opens Europe Semiconductor Summit in Munich",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWR4MGV1RWxuVFlxYVFVLXk0WkxIYXU3YUx0ajlRRVEwUllELUdnckVHQU5oRWFvdHlSTWdZWmZyYU1xX2theGlnd2w5UDNIZ0I0TmxtMmV5VzJweGNUSXg0NkJMX0N6aWx3cElyLUJuMzhVekV4YXlsMXRmdGZUX2JXd0pBc2pOUndKZE0ya3JRRHlOMXc?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-09T23:00:05Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7bc6c6f1d73ef04083bd71",
+      "title": "Is Singapore still South-east Asia’s headquarters haven?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDgyRUVZVUtLbzV0MkJyS2RVTzR5dVVHc0luSmFhNUYtcjhHSENvV2JMbUthbG1iakl3bWdZVHZkTUZGaERxdk9NMUdSaGhRdEI3dHJsOVBxb2FiZDhVRWtQQmVyNlFBM29HeF8xc1FrUGo5YzNvQnJ5LU8zNGhhOXdfRlJQTjdTdjNnVXpBU3pheHVtN0xQSUZ2OTItbWhoZExUSm51Rkd6ME1oQUE?oc=5",
+      "source": "The Business Times",
+      "published": "2026-11-09T23:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1e4de6ee00e6af1c2cad0d",
+      "title": "MM Group Sells 70% Stake in Packaging Business for $2.7 Billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXExZUxHdVpmbmtHQ1djU0ZYMjkwRS1BaEI2amFNTDZObFRpMVE0QVNMUWJyWjNoT1NqWmR2RE0wVmRrXzhnM3ZYbEFTNlZ3LWVZaU8ybnlNdlYzRTR6UzRMV2Zoa0x0TVZKR2NPRVRYTWtRdjBzalZQUHUxZGM2amNaNDFndnVGQXJEakFIQVNGNWRaV3kxWHdNWlpmajFoencw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-09T22:58:31Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "ee9aab4d1d8b4a89ef6ad2",
       "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
       "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "source": "TechCrunch",
       "published": "2026-11-09T22:46:09Z",
       "category": "Technology",
       "topic": "TechCrunch",
       "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+    },
+    {
+      "id": "1a0ed203f39400709b5bd4",
+      "title": "Mexico’s Aerospace Industry Advances Through Digital Innovation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDNaOENMTEo5b1VVaWdnZ3hnYXlJQ2FuMUhjQ1hqZFpJRlhUVW8zX2Y5elV5MmdiS3BjZ2RMb2VHd09ZcVBQTk1xcjVFdTJWT29XaXpKMWxQOVdFOGdWTGtmcUh4dXc2X3ZhV2VkUTE3NFFjWHEwMUNwVF9SeGZ3a0cxcUpCY0FBVW5QRlZRMmZYSVZpaFBkOWZ6UF9MVmxaU2FLS29DT1o?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-09T22:45:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7419cb8a65e628ef4af9d9",
@@ -71,7 +179,7 @@
       "category": "Technology",
       "topic": "TechCrunch",
       "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
     },
     {
       "id": "d5f87f0e8f4bc72e7cc3ab",
@@ -119,7 +227,19 @@
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/25c9f050-dc7d-11f1-ba95-5f07efd49f42.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4310/live/95e56210-dc92-11f1-b244-e54544344237.jpg"
+    },
+    {
+      "id": "b4bf9d2b4d60a6476cebb3",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNHMxUE1fbWdNXzh5bXhvY3JNNlpxZmdZS1J0QTQ5Smw0SlhVMGtlLXhrZ1VTYjdIYWFhaExvSlh1bDF6dHk4QkRyNVNtSFpVNVNUV291V1U0bGs?oc=5",
+      "source": "BBC",
+      "published": "2026-11-09T21:52:28Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "b28d57017b056f364e2095",
@@ -132,6 +252,18 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "e3cf27814ff8f8e67c6607",
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-09T21:48:38Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "id": "7ae181483f4bc95d4ca2c3",
@@ -182,6 +314,42 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
     },
     {
+      "id": "c1c9ef88cc218dfeadd4a1",
+      "title": "Qualys (QLYS) Q3 Earnings and Revenues Top Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUJNRHVDTkRMV2NnVmJ4OUpEemhiQnFUZUJHSk5NR0x0X2FJOFBSdUcybm1zLXJpTkw2dlFRXzhFX2Y2eXBkT0RvYnJ3eUI0Qm5YMVdpZG5UaUlmU2J4MzRQbTBsaVdDY3pjRzZFNlRseFo2LXV5dHdtN2hxVF9PNk9vUDJGYnAwNWFxWjBNVUVvWHZEWTNTTHdROTNzQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-09T21:35:03Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "eff8bd1861d888c2048a46",
+      "title": "American Public Education (APEI) Q3 Earnings and Revenues Top Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZC1MckVSdmhweUg4RTY1SGhkVkowTm54azRKMEhEZWhic19KSTVXcHhnNjNhaWdTVUN0cEFEVFN0amhMb1RobDVnOGtNRG5ZWnRkOWh6ZnAyMkVnRFNNcmpyWjRtVG1YbFBwZHNSYzNEZ1FEUDcxdlJKSWlyb2hxZmMzMUVLQmZGX0E?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-11-09T21:35:02Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0af1a2a4653ef6e97b4d00",
+      "title": "Innovation Week 2026: Showcasing the entrepreneurial spirit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRW9LRmdxbFFZQlNQXzNmSFl0U0ZzZTVlVjlIU3Vxd2UtTnMybU1XOXNVLXlSUDN0ZWVqaUJ2TjRkZW01VDRjQVVkNXl3aU9EMEdXSnNGUWQ0TWtTc1lEdlNNVVNtRWtQUUdPRng0UDJxQXpsM1RHTTNBZnB2WlNrVGFpSGVYZw?oc=5",
+      "source": "University of Calgary",
+      "published": "2026-11-09T21:32:08Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "58a5df5e60ce26b5a55f53",
       "title": "CNH Industrial (CNH) Q3 2026 Earnings Call Transcript",
       "summary": "",
@@ -195,7 +363,7 @@
     },
     {
       "id": "5ef9da07996850c83d51e1",
-      "title": "Canada and China sign deal to deepen financial sector ties",
+      "title": "China and Canada sign deal to deepen financial sector ties",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbW95RlVKOXdMaDNrOXY1Q190TGxKLU1SakF6ajJOUEtHMkFUOFNXQnZheGhXUXdFYUl5THNyQ2k2SktndnJVbTVGeFpQajBEdHVqV2k4U0Z6RG10bzlEeXpCQjlDUjlpeUVjVlk1bFZSN0hvMm51SnllVjJiZHFhbHZiQk4teERoWE9Qd3JGcDJwSm8wZXlLdFh6M2FsaVBUVW53Qk91cFREZw?oc=5",
       "source": "BNN Bloomberg",
@@ -482,6 +650,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "id": "53010d73337b9025f04760",
+      "title": "Corporate Leaders Discuss Latin America's Economic and Technological Future",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSU9lUjY5c3JLSFhBQlEtYm1aekpzdXBJLXd2SmJuSUtQTGRXYjJLdjhFSWRhbDd5S05qa1BlWW5CT3hzVUdaWEV1NkRpZkUwX3FCMkgxT0J5aTdsZnVaSkU0b3NZd0tBN3UzNW1nQjR5VWp0SmxNWEhjdWdTQlVsTE5WeW1iSTktSHdETU43LUx6eWkzV3ZETGJJM1RnaHlUVy1ZWjdqd1dyZw?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-11-09T19:53:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e7f0cb6b435ee52c23268c",
       "title": "Anthropic launches powerful Fable 5.2 and Mythos 5.2 AI models ahead of Wall Street debut",
       "summary": "",
@@ -756,6 +936,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "15b1da7c93421fd1b8aa56",
+      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-09T18:37:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d88d34159a7dda47e9fd15",
@@ -1248,198 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
-    },
-    {
-      "id": "94c213a79a9cb4ad2b438d",
-      "title": "Panama brings together the global meetings industry at the ICCA World Congress",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMk5YbkRxZzJfZ09DQjRoTWhLeElSM1F3MlRFbWVfUDVJb3czZmNvTkVXc0FlR2FoU0pLUUtoWXd2UUp6UUs5cF9qV3p6MlNWQ1kyODN5WjlybzJkeGROZFR4TUI4T0FZX3l0YWFLX2dZQlg1WGIwTDNuSUZsbzB0SmVaSGpuLXd4aGpjZng2TGR6RXVQSXZmQ1BLaXU2UGpCMlVkOHUwNWNmYjM2Z3JlVENqOVVsRk42c0lUTWMzaGU?oc=5",
-      "source": "Travel2Latam",
-      "published": "2026-11-09T16:30:14Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "165abc6f6032f2a694dac8",
-      "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmtwV3NLLUdvZzZBUmpBLWYwZmR5dHQxNkYtdy1JVmdWVWxLMWxOVWZZU1RVclFObzEzUHo1WEJEbkd0alhBd19STkdxcUVsNTRUbnhlYUd0cjlsZzVmeGUza0ZwQ2M0REtyQWZVR194dlBVQ1FwV1FlTHZ4eGZMR2E4cktUVFdPNWFpdXBUT2NPeVNBVlhUb3NUNWxaOWJJZWI5ZHVnNNIBrAFBVV95cUxQNWVqemlsUVAwMDctMjNIaFpmYkU3WTVJcFM4YWw4LUp1MzFJWmc3MFdVQVpqOG5Sdk9IVi04RjQ5R1h2NmdmY3JfWS1FNDQ1QXp5b0haNWJja190Y2l6Y0RPaExzVjhrcEt1U3JqY2hVZTZHd2J4UzJIVmFsMDAxQlkzb3cxeFFTU0xMQW1Xbkx2RmhPVHhTRFMya2doejdZclJXTnZaMmdRdHE3?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T16:28:40Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "04c35e90322109c1090a0d",
-      "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
-      "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the additional internal storage that's the surprise change to this particular model, which will be locke",
-      "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
-      "source": "The Verge",
-      "published": "2026-11-09T16:23:31Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "bc98fb7e4d77e7b72a5d99",
-      "title": "Midterm Economic Promises: What Can New Policymakers Do?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUdlZXA5YUo1RTc1a1BIbU9zSV81eVhVOFBCeDdsNEJoalF1Yzlxb0VXaFhZUGk1eVVNVjhHa1hKWnJvWHJGV0J4SzJwQWZIQVg5UWpvWVA1aFNPd1ZrelRiVkl1QjVvMmt4WXp6OHJOWVQxTks4UGpwbXZrRHN5Z1F6cWZobnVYWlI4QlFTWXBnMzliT2lyc2hxV3VHclppNjBPUlBNY2lBNjhBVkJWcGV3?oc=5",
-      "source": "Darden Report",
-      "published": "2026-11-09T16:23:04Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8ffb843dd6267e09c1c5a8",
-      "title": "Beyond APEC: HK can build an economy of global cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90dHJJTVNPQklqT3FsbFhFLVlfVG52d0E5czFiMEFrMVphQWV0d2twUGFwVi13djczcGN4WWhPUHQ5dEd4bmNuTFEycm1IYzVoZGVndkJLbEw?oc=5",
-      "source": "chinadailyhk",
-      "published": "2026-11-09T16:20:45Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "65e180aeabfa0114491df5",
-      "title": "Google Launches New AI Chip Variants Amid Rising Cloud Demand",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzd3SnVVcFBmOXZwOTRvV1d6Ny1paXRzMGxORGMwSmpodjM0dVNtZTJxN0Z3WS1zdlRlNDNuVXZRMzVFeWtJWWlGdXVIQ1FSZE5aaTljQk45blZ3YmJ2c0oxYWlEU2JBci1xSHZsektfUTEwZDdtdEl1MlQ4R0E1d0xQdXR2ZENXcDdFSXE3Y1FWeEl4QWhHWE9PeXd3S3lMTGc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-09T16:18:56Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dc3502114d4c39c0b4d843",
-      "title": "Telos raises its 2026 revenue outlook to $198-201 million after its biggest quarterly profit since its IPO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdzNKWUlURVd5STlSeC1iZ0xmbEVNb2ZvMmJscG10YmdGNG9JU1hCUnN6UVZzY1BhRzBTN2VVbHpfcXl5MkFmUGV3Qk5aNkpBWk5FVjhiVEZNUkFaTHFlT0ZyMnFzZHU0MDlWWWhQaXQ1amh6LUVlTUIzWnduN0JJQUxNR2tLTHFXSWdZRVBiSTR1TER5ekhBMExhT244MFllRnNTMFNlaEVfS3lTVURINGNCSVdfek8yU3Q0M09KQ3JzaUhU?oc=5",
-      "source": "MLQ.ai",
-      "published": "2026-11-09T16:14:34Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4d2c1dac08712af8587b01",
-      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T16:12:28Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675"
-    },
-    {
-      "id": "85fa497bfa42ab6e0fa3b7",
-      "title": "TIER forecasts GDP to grow 12.34% this year",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSlB3cW5LZjNxNGRfX1pmSWNIb01LVFVacWxlcGFOMEw4X3dGMElYLVlMcU5ORm9RQ3hwbW9GdzVwNmx2UkhiV21XaDZlZUxCWGdLSGZBWW9TanpDa0RBOFRoRUVCR3ZQc0p2OHpTcnNORUowaGFkbQ?oc=5",
-      "source": "Taipei Times",
-      "published": "2026-11-09T16:00:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5843fba5c575551a6c9b8f",
-      "title": "Between the chip and the slip: Honeytrap suspicions further sours ties between US and China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON25JWUpvQ0pPRVo3aHVkWUFYNE4xamdxOFUxaFhTRTNKREotYmJDVkZhN0lUNlVZczMzNk5ZaEpWZFFmcVp5eUJIN0d4bmcxLVdEd3RXVmFmQUtkU0RIRzJRdW5WNXRqSW0xQjlKa1kzYW5XVlpXOGdEZV9oaVY5eXZTM29zekl6Z2tzc1p3aVFnZHNVMHB6VUk1dm1aamNRdGh3a1c1Q0FWb0lCNVBnRlEyZHdtSFhTZDAwM21nTkxJRkx4Zkg4TENqOVVDT3pSUEgzSm45STNzNndESGVLQk00M3Vtc0dfRThQOVZqaHg3NmPSAfgBQVVfeXFMTWZRNmRUcUJPQlROYkdMUVdMRzJXeUNNcFd5ZnVqQnRvX1lFZ1dwdzlib3VETjBLQ1pRRTZSa0VrMzFUczF0MU9YNllkZWdtZ2NWbTUyOGdPeVdidnE5UWZPZVlEdzM0S2RIcklMa2NKNldUa2lsNC14UFZERGR6R2ZpT1VGNUJCOV8wSUMxaWI0TmhDUVJjQVNSVUlGMWFqN2ZoMldXTUNQWC02YXlCZ0h0bFowOUI4Yy1QVVM2NXQxZHRjenJkeVMwTWYyOHE2U0gzQmJvdTV5RE5kVjBEQVhSWW5oaHBPTEZlbEQzNzJfdm9xZzVVOW4?oc=5",
-      "source": "The Times of India",
-      "published": "2026-11-09T15:53:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ef96bda92f480d3b9a655",
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "source": "The Verge",
-      "published": "2026-11-09T15:50:38Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "e869dd4c2eff543382104b",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-09T15:46:20Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "444d01e4a7698420294eb1",
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-09T15:42:30Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a9/live/7a3a3f70-dc53-11f1-a869-656dc96bd12d.jpg"
-    },
-    {
-      "id": "498ee773ddcda7be2c77c7",
-      "title": "Best Up-and-Coming Companies to Invest in for 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VZUg1N0drcHExOGxTdVdsTW1na0ZzVkgtY2FKbkVjMW9hM01yeG12NTBCcDZFQ2ZmblNLM2xiRVJBNlpUUGVzWTVXeEktRG9GYU5ocXlUck5RT19NSG1ZNTZ4TmlVOGVON3pzR1VudVNkZjd2NmF4aHh2c3NGQQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-09T15:39:32Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a1d6a1e656f4ce844a1d9c",
-      "title": "Disney and Adobe are building generative AI tools together",
-      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line",
-      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "source": "The Verge",
-      "published": "2026-11-09T15:38:56Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "7af6ef0cec174fe8d9fdfd",
-      "title": "Minister Anand announces additional sanctions to reduce Russia’s missile capabilities and raise economic costs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc2paMG5zQzNkZlhrTTNGSWxsMk5hMklxck02a2hsa0U5N3l4YkdmcHlPZ0dBR0VjWUcyV1RYSmJmV0tPSDNJNjVGa29KTEFoLTZ4Sm0zNkRHZzNMYjNCc2NHNkNORzFMMkpwc09iNXd2RThIRjVTWlc4R29kbW5jazNXYVF4SlF2M0t5Nm1Va1pLajI4Y0tPWXB5ajd5ak5rcDNhVjhnazgtVXZISm56eWlhNVJjX252V2NqOWxLZFFFMlBzODZNUEpWRUN1NWtpQXlIMWZFWU15VHhmeElTbGllZ3B3YmtBM0RId2ZGZ1ZBVngzU3FfSGtNTQ?oc=5",
-      "source": "Canada.ca",
-      "published": "2026-11-09T15:38:49Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
