@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-09T22:04:15.001501Z",
+  "last_updated": "2026-11-09T22:48:40.705956Z",
   "articles": [
+    {
+      "id": "ee9aab4d1d8b4a89ef6ad2",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T22:46:09Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+    },
+    {
+      "id": "7419cb8a65e628ef4af9d9",
+      "title": "Turning capital into infrastructure through partnership",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUVTaGo3NjBzNS0ycDF0ZFRZMWxpalpJaGlOWDluQjlFN21YUVdJelFUQ1BLRDNUbkxjMF9OMFNoRTFUNVlRby1KbTJRN21fZXdjdzNRdndBcHZibHJRcUhtS1dReURsTXhjOWF3ZG1NRzkzY0R4OTF5WUUtal9XclZzTlRWS3c1eFJPMTYzekxHc2lORzBlV1dRdHNFN0FaOExR?oc=5",
+      "source": "Macquarie",
+      "published": "2026-11-09T22:34:25Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d874e98ba1892e4066adce",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-09T22:34:14Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+      "id": "f07dca7c625bb864bac617",
+      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+      "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+      "source": "NPR",
+      "published": "2026-11-09T22:30:49Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F5a%2F249abfba43bea5b714f1d6e355d2%2Fgettyimages-2299339600.jpg"
+    },
+    {
+      "id": "3baee4176b6d2795b4266c",
+      "title": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
+      "summary": "Ethiopia's health care system was once considered a model in the region. But in the northern Tigray region, ongoing conflict has left health facilities and medical workers vulnerable to attacks.",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-5987949/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
+      "source": "NPR",
+      "published": "2026-11-09T22:25:13Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "38b3fce4c5431b80a163b7",
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T22:23:42Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+    },
+    {
+      "id": "d5f87f0e8f4bc72e7cc3ab",
+      "title": "Space Machines Company and SunDrive partner on spacecraft solar arrays",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYmQxYVpfTy1iSjlTWWN3UHpKSkZTckFQemNyVmpEa3JaQ0xncGU0NmgxdlVuRFdwci1FMGdFdjBYQ1pUcG8tU2RNTnNvTkt5M2tZejlaMWdyNkxxZE9FT0hveXpFcDg5a3pSal9pNl9HVl9ROWNDZGxrV1NxWE9LTDhOb2doTnFNd0Z0ZGU5QlVnNDVGNUVHOGJLRGJsTzFxOU9vVlhWNjNWWlpsbWhmTG9uTUhyQQ?oc=5",
+      "source": "Asia Pacific Defence Reporter",
+      "published": "2026-11-09T22:17:15Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "016d68c9d982c0bf3ee4bc",
+      "title": "Tech-Driven Wall Street Rebound Lifts Markets as Nvidia Falls",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGNRdzZfYTZlOHhTM1p5SlNUSDVRR2pDeHlzOHhJV0RuclliZEF3NGRnXzhzcEN1dG43REpQTGs2RnVSa0tHRTAzc1ZlX3ZXWlJmWmo4ZE0xZU9QbVFjWDdZUUowQnY1Vlg3amNMZ19JclVSaHB1LUo2SWRnblVPOExEMUhKbkx5MXo2c01XZTVzYlNqX3c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-09T22:14:15Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "372f5f6a0364ff60035165",
       "title": "Revenue from sealing oil wells rose 11% from Q2. Nine Energy reported a $5.1 million loss.",
@@ -38,6 +134,42 @@
       "image": ""
     },
     {
+      "id": "7ae181483f4bc95d4ca2c3",
+      "title": "Skydance details cost cuts, sets streaming bundle for early next year",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmMyY3U4ZHpzVFlybTRoZmg1SDk3M2hsMllXb1JsNkJfVUJleHVqYUFrZlY5YUZJd1FKMXhkMGtQOXRFU3dJYTZEMldzTHdWRFJ1YUtURmxYUVZIWmtwaDg3OEpzTEw2TzB3d0Rha21lUGE4dFFwRWN3cWt5X1FQbzBRMDlNWVNtNHQzLVlZMmIwZm9nMkRJdFowb3ZqdzNENFZEV19JeG95eUNDZXMwRGliS05UTVkwOTF5RQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-09T21:45:45Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f633d703e51c3f56efa9c3",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-inch screen is well-featured [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-09T21:43:41Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "e8f7b8689a123d3437bffb",
+      "title": "Canada and China sign deal to deepen financial sector ties",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZkNmNEY2NDlBTGVhTTBtT1pzeGU0Z2lQTl9yQXNFSGtSTHNUcGotaHZQRkd0aDNjUVQwdm1Lb0hyVC1mRjRQRUpMVGV0YlJWWmlCVk5DVkNjcXpaUDhaR0RHZFp0Q2pRelRZbzNrS3AyN0U5MTRCWHJUanF2VEh5c25YenlsVUJfRlJ5ZnJEWm5DRXg5QUJlSVRHMA?oc=5",
+      "source": "CHAT News Today",
+      "published": "2026-11-09T21:37:46Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "64de75add4ac8f42312beb",
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
@@ -48,18 +180,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "id": "d874e98ba1892e4066adce",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-09T21:31:49Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
     },
     {
       "id": "58a5df5e60ce26b5a55f53",
@@ -104,7 +224,7 @@
       "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
       "source": "The Guardian",
       "published": "2026-11-09T21:14:02Z",
-      "category": "Brands",
+      "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/d2115aa27f78db0f811e669cd3c361e5f6eb765e/25_0_750_600/master/750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=34fd4eec95d1509a0e99cccaf8bb2f84"
@@ -288,6 +408,18 @@
       "topic": "Artificial intelligence",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "a03f51e0c78eaaddc62ae2",
+      "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
+      "summary": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and be",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+      "source": "The Guardian",
+      "published": "2026-11-09T20:27:07Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1df8b63f005de9f52c86d9c54c20471"
     },
     {
       "id": "afdc6ec15c3be9fd1f75ee",
@@ -602,6 +734,18 @@
       "image": ""
     },
     {
+      "id": "260ef32d6e746579aa6502",
+      "title": "Aeromexico to Launch Nonstop Mexico City Flights",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3pZZjJJckZZc04xNlV1SGpkc3Y5VEFBSmRWU3RWdGhCcDEyVUtnWHEwNXFEOW9jaDkzdzhGdU9EbkRNekE1MHh2WGx1akF5Zl8xSVlWUWh3SHJ0aDJndnpjbnktQ0d1RUNNY2JkZUpjemRoRlZGYnNEdURUTWF0dg?oc=5",
+      "source": "Biz New Orleans",
+      "published": "2026-11-09T18:42:01Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f2ecc93aa029345ebf67b1",
       "title": "How a civil servant got away with juggling five jobs for so long",
       "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
@@ -612,18 +756,6 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "15b1da7c93421fd1b8aa56",
-      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-09T18:37:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     },
     {
       "id": "d88d34159a7dda47e9fd15",
@@ -812,6 +944,18 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1BwaTNhMEFlekdkdkV5WWI5NVlxYlp1bVdSSlEwNk84Y1JHbTVacWRpMkM5WEItR2Y4UU5BY0xIOW9LcDFhZXp0R1FDaGs5TlpBd0tGcXNDWThrVVdYSkcwT3ljMlBIRGxsTUZ0ZGppVEJma2VGeWM4aW44WjhEV3h2NVIwdlNIOEtWUUFtQ0ZWVDBRZXI0MDNMLXcyWGRlTC05U2hRaXhDLUVw?oc=5",
       "source": "Mexico Business News",
       "published": "2026-11-09T17:42:11Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "be7e6ed75d5b754a7bdf35",
+      "title": "Volkswagen to cut 100,000 jobs by end of decade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhfNlpDanlJVVFiX2FlOWotdUFRNUdVQmk3eWlGbWRzeDNLNlBKSUdtNkphMHEtUk1nTkN2RWxRbVVtWjJaMWJfV0ZFS2dNVVRCVjlTUGkycUNvdWtTUTlYS3BqV3JtQk5DYTE2TU1sdF95WEEzd0FmUVNvT2ZDeFpfcC1Ldw?oc=5",
+      "source": "Deutsche Welle",
+      "published": "2026-11-09T17:40:41Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
@@ -1142,6 +1286,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "bc98fb7e4d77e7b72a5d99",
+      "title": "Midterm Economic Promises: What Can New Policymakers Do?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUdlZXA5YUo1RTc1a1BIbU9zSV81eVhVOFBCeDdsNEJoalF1Yzlxb0VXaFhZUGk1eVVNVjhHa1hKWnJvWHJGV0J4SzJwQWZIQVg5UWpvWVA1aFNPd1ZrelRiVkl1QjVvMmt4WXp6OHJOWVQxTks4UGpwbXZrRHN5Z1F6cWZobnVYWlI4QlFTWXBnMzliT2lyc2hxV3VHclppNjBPUlBNY2lBNjhBVkJWcGV3?oc=5",
+      "source": "Darden Report",
+      "published": "2026-11-09T16:23:04Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8ffb843dd6267e09c1c5a8",
       "title": "Beyond APEC: HK can build an economy of global cooperation",
       "summary": "",
@@ -1178,18 +1334,6 @@
       "image": ""
     },
     {
-      "id": "bc98fb7e4d77e7b72a5d99",
-      "title": "Midterm Economic Promises: What Can New Policymakers Do?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUdlZXA5YUo1RTc1a1BIbU9zSV81eVhVOFBCeDdsNEJoalF1Yzlxb0VXaFhZUGk1eVVNVjhHa1hKWnJvWHJGV0J4SzJwQWZIQVg5UWpvWVA1aFNPd1ZrelRiVkl1QjVvMmt4WXp6OHJOWVQxTks4UGpwbXZrRHN5Z1F6cWZobnVYWlI4QlFTWXBnMzliT2lyc2hxV3VHclppNjBPUlBNY2lBNjhBVkJWcGV3?oc=5",
-      "source": "Darden Report",
-      "published": "2026-11-09T16:12:54Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "4d2c1dac08712af8587b01",
       "title": "Medium’s new TK app brings AI assistance directly into the writing process",
       "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
@@ -1222,18 +1366,6 @@
       "published": "2026-11-09T15:53:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "35b44a6c9eea4a7cfaa9b8",
-      "title": "Access economic data directly from the primary source",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNV9ybWpnSHBSbnVjSnRZLXdkMlNCMWQ1NFZQSUhuQ3JLTFp3SnFyRnpPQWlzNzRKcGRabnItT2taa09qSnl0VmFrdlZGcHNORVhabGVyb0hRdFI2M3p3dmRkMS1Ub1NycHpmQV9CVmxyRTFHaHJKem5icnBZb1lyakt0RQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-09T15:50:49Z",
-      "category": "Economy",
-      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1306,138 +1438,6 @@
       "published": "2026-11-09T15:38:49Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "415a41d062451e33abc1be",
-      "title": "Meta expands Instagram’s AI age-guessing tech globally",
-      "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
-      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T15:32:27Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800"
-    },
-    {
-      "id": "296a51a2015936486a8a88",
-      "title": "Minister Promotes Bermuda At AfroTech Event",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpRk5tdU0xTWE0UXhGSnFUd0JsaVVwZzVCRElxQ0lRSF9vd09ONGFMcnNUa3NDS2dTSlZWTjJwTDNIMXZrWERyN2twckc2WkFodktEMmJZek1wa1lTcVhvZ0RkbW4tVFZnRWVWby04REh6MlBoSzJNLUl3?oc=5",
-      "source": "Bernews",
-      "published": "2026-11-09T15:30:46Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "717aea7cb5bba68cb04d1d",
-      "title": "Hold up — I had a great time talking to the RIAA guy",
-      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set [&#8230;]",
-      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-      "source": "The Verge",
-      "published": "2026-11-09T15:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "545d2c28fae5fe3411b41c",
-      "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-      "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
-      "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T15:24:59Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800"
-    },
-    {
-      "id": "c19c02f0455e64f56f1d51",
-      "title": "Venture Global investors brace for earnings amid new AI strategy By Investing.com",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2lqOFg3emhhNDQ3TnU1bnFZTzZKQ2V6VnN4MnR6ckhqQlcxOGJfbS1fbkpzbklkR2hpRFpRWU1hcWpMdUh1STYwWnE2Ti00QnVzcE9QWWpSZ2ZnRjVFM2ZqeTI3cmt4djhSUlJqWnQxQVF0MVh3cGtMV2hXNThSaDRmYnZVci0wTUdtR3FLblV0OGRGNmZLLTFhMzVmNEk5bGx5UkE1MDNuZUh5ZDlxbEJqNUxIQm5o?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-09T15:22:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "94f1381f5637886b642e0b",
-      "title": "India, EU agree to boost trade, investment and technology ties ahead of landmark trade deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVFRGZzBRSVk0WTIyZlRURGdBaVZWWS1VZ21hQVBwdVRnaU9tUnJNaUJNbDJFN1JTQjZmdGF3S0lvVkJidTJWN2xYV3d6bk16cVJpVGNZRFMtWnpiek85cktjZ3JpSzJCMi12ZkN2Y2htNjU5TnM0NWYxdWx4YXQtZGJMeFJ1a1VYNGhCM21BdzU5bjBVakI0TlpnY3EzSzBaaThIekpweHR6WGZ5cjJhRENDQWdjcGJmYTI2eVZSYlJuUlZrU2dtNl9DS0pJZ2ZvSUhhVXNPWWdiNTR1NVZhWUhLNGNMLTZGQmdWalJnM1bSAfYBQVVfeXFMTXh2XzZhTnRPanYwc09lQzRHVW5NaERmdnJhU3Zub2JITGQ1MDhVLUc5Mjl5QWFiZlpJbklFV2l0cTlzcHFsVzhxZEdPN0lXZHpnSU1WeVJ2MUJJY2diT0FLWl9CSDlOZ3MzQW9tYnJ5bW41TU9nZGFDdVdYbmFEU2tYYm9TQUR0M0hsN1gzTFZaSFNZdWN1dWRSREpYbnB4bFRSV3I3Mi1mWTd3OWx3N19odU1OeGtQSzROdHc2Z3MtUS1TUUZSUlZMcHZFQldnbGNqUGViajBmTU9IQjFsWFVBcVVtTzdfTnhDN0NuUDJ2WEw5TkR3?oc=5",
-      "source": "ET Government",
-      "published": "2026-11-09T15:22:30Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4663fa252852c6043016f4",
-      "title": "Dozens of prominent figures oppose higher Amsterdam tourist tax: ‘Crowds are not the same as a nuisance’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQckRvNkJPRkJHcVc1NXNYc3lKS2RqdWRlanhsclg0UDdxamRiSlZkOFNMT1RFUzlnNnB1ZURhcXpqc3g0T2lwRmFoYWRobkIxWER4cEZUNllhbmY0VUp3aXlnS1hhaHJkSExBWkpYLXlFVDVQZktFY1RtZkxlTnJ5TUxGcy05WThCc21QTjdRRlBma3RZX3BIZnhLOHRDQkI1Z3pyNkYzRHdkQl82YUZnVnFDbUpGSGNRN2tDWHNpWjlZcGdsVUMwVTRrNE9WY05SMThuVFBBR3c3dk1wNmstQQ?oc=5",
-      "source": "Het Parool",
-      "published": "2026-11-09T15:19:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f424d08f113c9fcf47019b",
-      "title": "US and China extend 'trade truce' in tandem...tariff and sanctions suspensions extended through January next year",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNnhwMlJkWXBfem4wZVNfOGR0SnpxMVJXRlViVlVteUJKbHdsNWtDdDZ0b01KRUN4dlRZVFFzZnVJX0tNajZEX3FpT0hqMXBBQkM4amU1WWk?oc=5",
-      "source": "파이낸셜뉴스",
-      "published": "2026-11-09T15:16:22Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "67087043b1370731b1da25",
-      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-      "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
-      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
-      "source": "NPR",
-      "published": "2026-11-09T15:09:53Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8246x5497+0+0/resize/8246x5497!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fa0%2F9498db764f74bf5081bd7fb99824%2Fap26313155738342.jpg"
-    },
-    {
-      "id": "3f7721d96a83eb108a7981",
-      "title": "Veloce Brand, Agency, Esports Partnerships and Quadrant Drive SEGG Media Q2 1,584% Revenue Increase",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEJUYVpReFhzY2Fld3A4MkxvOVJ6VFZTRXZfV3lkUTAySElhbFg5TTdEWGd0Wl9OSVR0YXhfUndUR19hSmVKdlpDZ0lOTlJVVFl3LXZqR0lHVjMtWlF3TXMwYWxPQmtNUzlQSDlBTmd2VWhQSHJBclJrTGQ2RnBBSzZUWWRXMnU2OEcwd2J2VjBFN0UwNGk4SzQtZm5EemFZTXc0Sml1bXcwYkFFMGN2SU5iMA?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-09T15:07:46Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b1315a99a15b05621a3728",
-      "title": "Veloce Brand, Agency, Esports Partnerships and Quadrant Drive SEGG Media Q2 1,584% Revenue Increase",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnpBVU1JZGNDZXlnVG94N2t6djEyNENmd05HNlpUQXRLeHo4bTF3YUtIdGx2bzdvZnM2c21JemlhQW9mVlp4Rm9oYVRHRWZsY04xYnhIQm1TOVNCLVZTeDFsZ0U3Q2R5WVZUOHk0bmhWdjJQbzBPYVhKZ3QtZ0I1b1lzMDMtVEdDTi16MV9MVHpWMEVvZTJzUVJVWEEySXo3aFNiV1lzWmpSOTJZT2c?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-09T15:07:46Z",
-      "category": "Brands",
-      "topic": "Brands & business",
       "country": "",
       "image": ""
     }
