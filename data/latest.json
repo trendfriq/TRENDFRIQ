@@ -1,17 +1,125 @@
 {
-  "last_updated": "2026-11-10T10:40:38.071175Z",
+  "last_updated": "2026-11-10T11:37:18.122026Z",
   "articles": [
+    {
+      "id": "4f1f50a28baa05ee2b6639",
+      "title": "SoftBank Posts $7.1B Q2 Loss Amid Rising AI Costs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVNwMU5RMU1fZTZEbTJvbmtlYlFnVjFlckhzVWFwc0pVSWZVWjR0Qi1nZWVuMWVDczNmbTJsclZrSlEwem1ZWVZxZWRTNnZmOGJXbmpqS25nVmx2WnZzdlVTVUZVWDdRX194dkdNZlVvdzJ2LWdETHcxa2RKeUFMcWtLQzJUSWZfUExsdFMtUmNZMEN6RHpfd3hnNS1nd2RYX19ibQ?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-10T11:33:32Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "7f52167f7e4be03d13a667",
       "title": "Police officer dies and another injured after backpack explosion in Oviedo",
       "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
       "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-10T10:24:20Z",
+      "published": "2026-11-10T11:25:46Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ad/live/f127bff0-dced-11f1-a701-fddedf244c16.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612d/live/a358da40-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
+    },
+    {
+      "id": "a7c23ef9b2f39151437d28",
+      "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
+      "summary": "Rolling coverage of the latest economic and financial news Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? A senior US central banker is calling for a hike in in",
+      "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-10T11:24:38Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e7e96df8f5f01404a954de7c961255c32a52ab7e/174_0_4043_3234/master/4043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a8af5fac3e1cfa812aeedef1ec12a77a"
+    },
+    {
+      "id": "f36092d20228ba76bd5a98",
+      "title": "Tesla Cybertruck Discontinued: Impact on Electric Pickup Truck Market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkw0VWRCWW9wYjNnY1F1TkdBZGNZYm0wLWdPQVoybEJOVGQ1aURyYnlPTGJfMmhlcjN4b3c2MzhSQzJVYzFUc1lYSnF4MjB1dGY5Um9qZHFzbTkwY3lEUURVYXZUc3FxcHVXM0gyQUNzQW1HVGZQWl9QTVJaQzFtMzNrSmFreGVoMkhfZTFodjRrTDIyQ2c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-10T11:09:07Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "dd934de5d7bfd37977f83b",
+      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+      "summary": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're [&#8230;]",
+      "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+      "source": "The Verge",
+      "published": "2026-11-10T11:01:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0c9f0ef2170dbb00cc3d14",
+      "title": "ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
+      "summary": "What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own minds In August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after a lawsuit alleged that ChatGPT had contributed to the suicide of a 16-year-old named Adam Raine. For years, the tech ind",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
+      "source": "The Guardian",
+      "published": "2026-11-10T11:00:50Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/7c4e62acbc9ca4257774b10197f801201e6aa2a9/292_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6160a41f6c6b6bdfc6b096b59c9b7892"
+    },
+    {
+      "id": "1762b88198381d6870391e",
+      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+      "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+      "source": "The Verge",
+      "published": "2026-11-10T11:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3d442e80247bc0344540c1",
+      "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "summary": "The two-day session in the UAE's capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions.",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+      "source": "NPR",
+      "published": "2026-11-10T10:58:18Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8442x5628+0+0/resize/8442x5628!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F1d%2F0ae01b0e48da8c5012df7b1388ab%2Fap26311681290035.jpg"
+    },
+    {
+      "id": "8661eee6a6e893bab665d6",
+      "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+      "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese spying scandal engulfing the $4.3tn (£3.2t",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "source": "The Guardian",
+      "published": "2026-11-10T10:50:22Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/master/6941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=092a3596eb9deb7c4425fb2b057672d4"
+    },
+    {
+      "id": "c25d7ab8de6aeba2a63699",
+      "title": "Some Investors May Be Willing To Look Past Global Water Resources' (NASDAQ:GWRS) Soft Earnings",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPem5ta3lHS0lobWJQbXNaMDg1UDBIc3ZIa2tkc0FlSTMwUElSNXpVUEluZ1RuVm1NTlkzSXRQOFVlVVNyc1NIYzV5bjl4Q0hWUENMSGZsRXFjQjA1b2tRa21oYnd3eWFsWlVlY242NThiYjBTSkxibmtiUlNHZWZLbW9ZbXNYbmFYNkJWeDBsOTFNWDFrRDJOdVdoT3Z6c1VwdGM3aTRNZkFEeW9ITDduX2d0NnlreUlwYlA2Y3A3UFJKTGFheWxSS2xQYTFRd3ZaNEZaeGlUWVExZ9IB3wFBVV95cUxOZTRKbU5pR1M1N1FBVXJjUGNzb0xDaVI1QU5VQ3FwaGxzTVBvUzdadnVwSk8xeksySlkxeHFfaDd0ZFV0X1ZHNm55RlFNUkVTakhtRWYxVmJXOTFRNHp5enU2eG9xMlhUekViTGIwRVJyWEZFYzc0NVVJT050SzNIVFpRa0RaX0J6OEVpbGgzYWJIT1dtYTJfa0gwZEg5clhrTnpmNWR6UzBtbzhJLWhod1Jjc0JGcmlDU2dXTjZIQU1UN1ZZSHctSm40VzJyek5KREZrZmlQYVF3X21UR2tz?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-10T10:45:55Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5780152184a30ea0fde78b",
@@ -98,18 +206,6 @@
       "image": ""
     },
     {
-      "id": "a7c23ef9b2f39151437d28",
-      "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
-      "summary": "Rolling coverage of the latest economic and financial news Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? A senior US central banker is calling for a hike in in",
-      "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-10T09:49:02Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/e7e96df8f5f01404a954de7c961255c32a52ab7e/174_0_4043_3234/master/4043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a8af5fac3e1cfa812aeedef1ec12a77a"
-    },
-    {
       "id": "e6503f728b1aa8cb1e3bdb",
       "title": "Berkshire Hathaway: Q3 Revenue Rises 11% To $105.6 Billion As Net Earnings Reach $22.1 Billion",
       "summary": "",
@@ -194,6 +290,18 @@
       "image": ""
     },
     {
+      "id": "7cfb2ce5042d4caa350751",
+      "title": "Investing in Europe’s energy and defence drive",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOTlraG55ak5JZnlxTWxiWUxUVkV2bE4wcXJzVGt0aG9ZVzhGNDhRaFZSekJ5MS1fZlZSbW5YSEh4ckJBWHh2Z1hpOXZOV0hLZmpRZ3B5LUlLTWF0RENuX2I0b0s4WTJKc1ZMdVg2YklULTNZZ3c?oc=5",
+      "source": "Professional Wealth Management",
+      "published": "2026-11-10T09:15:04Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1c832e45e7989786b9db59",
       "title": "Africa’s Next Banking Growth: Revenue Pool on Track for Record $1.1 Trillion",
       "summary": "",
@@ -266,12 +374,24 @@
       "image": ""
     },
     {
+      "id": "48797187bf35ca35bab7d8",
+      "title": "5 risks for the global economy in 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUlhQSm9qNmNFdGpJbnRVbTl3cU5YU3FOOHp1SDVLR2Nta1A0azlyOThLdEFHQ0JxRGw3R0g5VFdJOWdINV9XbFB5WTlLSTc5dGhnaHkyZTZuZTQ1cXBzdlBDazIzMHBGQTB2SWk2SzctT2ZJWmtSYVFB?oc=5",
+      "source": "ING Think",
+      "published": "2026-11-10T08:58:34Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "181ec47a2b9a6fe0972b4f",
       "title": "Nigerian Government urges Africa to turn resource wealth into economic prosperity",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM2RtOW9JNldOYm1sVmlONzVDYldVbllueFFPN3J1UWZ6RUF5RE8zWXJOSWJRbWRHOXpjQUVoaDNGamU3QW9OZTQyU3VIMHFQNlRZa2djS3h3YURfRHBqczRoN0Q1MDZqMXB0UjE0cjFYS1dzdXQ5OWJET21fb1dCMWFkUjFBX1dYTC1vQzJSR3lGSG5kcTRvRm5iT2Q1bzBhOHpYbWxmdzJNcnZMRVktUXdiUGlsemROdl9xaVdQU1NVYUhSVzM1ejd5QlloQnJ2V1ZGQTVMR3lkOXhkNl85Qw?oc=5",
       "source": "Premium Times Nigeria",
-      "published": "2026-11-10T08:48:45Z",
+      "published": "2026-11-10T08:50:16Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -298,6 +418,18 @@
       "published": "2026-11-10T08:37:54Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d66212594aa8d6d2ba22fd",
+      "title": "Deloitte launches Finance Day 2026 to drive the conversation across the GCC on the future of finance",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNG1iOHZBOF81TDRfZVBHb21TRUJSd20tc0VNbDI2ZGRXQjYwalZWYWo1QlFybVhSWDFrY0VJZ0hIdWNzV0Q3RzBnV0QxMTFSUWtsakxtU3M4elV5eFJYeEhRR2o3T0ZXQ3pDN1dNcElzSlo4N09hdm53X2MzSG5IcXM0VWRxVTVXOFR4WjJjdElmMTRTcXFLcG1uNkJmb3JqMnNCMWQ5cFF1Y2dIWGQ2OUJVN2NxNFdQaEV0Y1llUU9uZlVBdmJ2RXRaR1J2Smszb1g1QTl2YXV6eGpMMWcwV1g2eTR0aUZSUnJR?oc=5",
+      "source": "Deloitte",
+      "published": "2026-11-10T08:35:08Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -434,6 +566,18 @@
       "image": ""
     },
     {
+      "id": "7c1668f5cb7f39a8b83b05",
+      "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2YzUTV6Z3R2aFFVQWF6dDFXbmlUeEw1ZllKRGIxRnBDeHFDVUxMWF9zWW0tb3ZZNlNTWWRuU2F2RlRXU2o1LXliNXhzZ0lpelFPbWZkbXpiLVFRT3ZPX1Njd25rMm41dTVNQjRKbkJzRTdDZ0V1NzF4aVJ2b0FxSUpRZGlmSVY5d1lQNmFHZjZHdDVGblp2MnA1eGdoeXlSekxFVS1yMnF5dWpqdlkzTXhqRQ?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-10T07:48:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c6f304a1b1393f673885db",
       "title": "China's trade surplus soars past $1 trillion on AI boom",
       "summary": "",
@@ -468,18 +612,6 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "8661eee6a6e893bab665d6",
-      "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
-      "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen Huang, have been accused of defrauding shareholders in a lawsuit over the Chinese spying scandal engulfing the $4.3tn (£3.2t",
-      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-      "source": "The Guardian",
-      "published": "2026-11-10T07:30:15Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/master/6941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=092a3596eb9deb7c4425fb2b057672d4"
     },
     {
       "id": "a33f9df97e9981efd6eb8b",
@@ -526,6 +658,18 @@
       "published": "2026-11-10T07:17:58Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1084ceb18365e46246a870",
+      "title": "China’s trade surplus soars past $1 trillion as AI boom powers exports",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2dnM2FTQzdWZWEtMDRxaWdDbno4c2VmQnlCdDBfWUhQU3FUdlprb3Rid0VJdjFaLWJEWkpndi1zX1oxUjFPbkhfYl9IOWdQaHJiZzAtS29CTGF5SC1NUElIQktFTE1uTGhpMzJWcTlzLU1icUxsOTJXZGVsdHlVVm1SVGZ4a0dveEtGSFZNbTBIZw?oc=5",
+      "source": "The Japan Times",
+      "published": "2026-11-10T07:16:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -657,7 +801,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-10T06:39:27Z",
       "category": "World",
-      "topic": "Asia Pacific",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1005,7 +1149,7 @@
       "source": "Yahoo Finance",
       "published": "2026-11-10T05:00:00Z",
       "category": "World",
-      "topic": "Africa",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1027,7 +1171,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHRNMGk4cWJkOE9pa3MtdTk4aDdHT1hMVXh2Um9jLXNRVGhqaGJZMXA2M0liTVNiMnd0TGt2RmhOZ19aTDdFczUwbVhsd0hycFUyMS05emJ3bWx5eUFZNnlnSnMybzQ4UTZocXNKeXRsMEd3d3luMVFxRTZFWkQ2MTZFWUJxTzB4ZHQ2XzhlZjdMRHNBWE9mWjFETXh5dVpLdngxQURQUjlmbFVxM01QdDFMV2FHZ3I1WFpQVmg4MExMZw?oc=5",
       "source": "U.S. Chamber of Commerce",
-      "published": "2026-11-10T04:41:15Z",
+      "published": "2026-11-10T04:41:27Z",
       "category": "World",
       "topic": "World affairs",
       "country": "",
@@ -1294,150 +1438,6 @@
       "published": "2026-11-10T03:00:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d9a79d55d05763f96ac372",
-      "title": "Africa’s resources need better leadership",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3RNZDVaVEJPclh6SU51VURSVmI4anAtT0gzM25FLWQ2MVA2MkVVZTQwWHRnZkR1RG9GNW1XQzFjRzFnaERCRjZSV1ptUlNYaUs4OTBmV1E2YzdYZmRveTVQdEVhZFlSZm94YVY3dkJPSmtoamdKOFd6RUJvdHJ6UW96V3FJclUx?oc=5",
-      "source": "Moneyweb",
-      "published": "2026-11-10T02:06:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "195a47e5ceb015f5c54089",
-      "title": "Creality Launches mBox for Children With AI Design and Print Monitoring",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1BsSnhkZUs4Ym5rQUFzTGFaYXBndVUzTmJ3VGZQZDBmMGhaU1RjWTVFdlZ1QjV0bmw2bGFRTXcyMFQtRUMxREpIblpwb3FZNm9lZXA4R3ZMRXpMM0tKQXc5enhMT0hJRFBHOWZHWHIwWFR6bVpzZGZZcjFaMjlGSWtRZmhRVTBTZklQUmhNSUQwb29SSHA2Vw?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-10T02:01:03Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7c3ffaefc0e1565581740f",
-      "title": "Arthur Cyr - The Arctic provides challenge – and opportunity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV21Na3hSSDN1Qm5YRXZad1V6QmNiZmRGSjVTOFNmNjRLSnFoaUhnVnVhMEdUWnVFYWNCUUJqWGtmQlJzSjBicHBPaFNPeEUwdXE1SnlOaHBwTC1OZGxWUF9GWExPZGpreDlIejh6UjREYlJ4X0Q4d0VWc3FkQjRWTUlINHVUdHYwUkZfZkZHOVkySzlQeDg3QVVBZm9rejdnTm04U01SYnViWkNLaWlxVVNZUU1DdWVFQlQ3SktCa2lreU9FWVpSOGhwV1N3RFhCeFZjY0hMYmJRY0hwVUx0NnpUalA3anlMQnhNYXVNclVOaXAzTmxB?oc=5",
-      "source": "The Crescent-News",
-      "published": "2026-11-10T02:00:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7cac2a0794bc52e65e0c2f",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-10T01:55:22Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
-    },
-    {
-      "id": "cf6e8a467b708ab136ab4a",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T01:49:06Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg"
-    },
-    {
-      "id": "f3957bc9f46278e8e5d9a7",
-      "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
-      "summary": "Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'. The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an affair with an alleged Chinese spy, and that the FBI was now looking into the is",
-      "url": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
-      "source": "The Guardian",
-      "published": "2026-11-10T01:40:32Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccb28f9290e11ea30cb0ad477bddcbab"
-    },
-    {
-      "id": "64de75add4ac8f42312beb",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T01:38:49Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "id": "d633f53f3b2344e9414d21",
-      "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-      "summary": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The chang",
-      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
-      "source": "The Guardian",
-      "published": "2026-11-10T01:34:47Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/495089a2ea3363d20bc4baf998d27df79ec59b7c/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3df961fbc162b688c55e7a7bf266e380"
-    },
-    {
-      "id": "da1471c8814c2f74a520f2",
-      "title": "Nvidia CEO Jensen Huang's affair with Chinese agent being looked into by FBI, says Trump",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1B3TDR4RXlaVGpySW5kbk1iZnpacm5EQjZ0R0NXQ3diZUVxMHoxWVRPM3ZucXE5XzN4QnNLYS1Ldll6WXdTSnJONl96Y09JemlmNXpCOFdsbnNoTmd2OUtjQ21XMmtDNm5WNDVwS0dxQnNCa2hqeUh6SGdYUWZ2V0FSLUE2M2ZKZHRtYjhRUmlMZm1WSENzcXpFQm5yTWI0RDVLWHpaT2VuYkx3RkxEb0dqV0FEbUtQY01YdDNaS01DLU1HVEktZ3RKVHpZN0FRY1Jhb0l4dnVub3F3VlpjYmFlTHJJRkVTZFJBWTBlWUlGVXdKNjdEY0VJRE9hUFHSAYQCQVVfeXFMTkZ3d0R1YVI2Wkl0UXpYV2tOX1JiNGlZcTFuRFEtczdNNWltSHV6Vm9lNUpsVk1HNFN5WFFUaU1kbVU4M0ZoT3NlSGtHanJVaEs3OXh2LUFhM1B6ZHRkX3QxTE12SEFOSzN2RV9kREhVdDJvb3NOQmJzaWtRX0REN3hEcUI2UTl4SFhjeWdkMGFPc3BENndldkZ5UnYyUzBUTTFOVDVYTW1lc3U4a29lX3M5bllieUZOXzZrVGVvSWJCTzY0bFBWX0hsUnlvV19iai1WVy1JMDhfRFdDZDRLSUFseVI2ejlRUDlqdWJWSm5FS1h0TzMyQ3EtdXF4OVRSXzZKcXo?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-10T01:34:39Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8a35af252b32001f777c64",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T01:27:12Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024"
-    },
-    {
-      "id": "3d539cb0a16a9afcf3f9fb",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "source": "NBC News",
-      "published": "2026-11-10T01:27:09Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d6cca99787ac5b9893571",
-      "title": "WIMAFRICA seeks greater economic power for African women",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1gtN1psd2x6cWZRR0Y0M0tfUDdvYm84QWkyOGdUdEIwME14ODZhR0hVQmxtbG1ERzliMVpiQl9wMUdzTUhaeWhZak9VTzFNZGN0ejhBeEQ1SHprWkxBcGFnN0NqSzFnZTRDVFFPY19HQXFnaU85THhULVFuZFVsWlVRSQ?oc=5",
-      "source": "Punch Newspapers",
-      "published": "2026-11-10T01:26:58Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }

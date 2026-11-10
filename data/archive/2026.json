@@ -1,5 +1,89 @@
 [
   {
+    "id": "4f1f50a28baa05ee2b6639",
+    "title": "SoftBank Posts $7.1B Q2 Loss Amid Rising AI Costs",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVNwMU5RMU1fZTZEbTJvbmtlYlFnVjFlckhzVWFwc0pVSWZVWjR0Qi1nZWVuMWVDczNmbTJsclZrSlEwem1ZWVZxZWRTNnZmOGJXbmpqS25nVmx2WnZzdlVTVUZVWDdRX194dkdNZlVvdzJ2LWdETHcxa2RKeUFMcWtLQzJUSWZfUExsdFMtUmNZMEN6RHpfd3hnNS1nd2RYX19ibQ?oc=5",
+    "source": "Forbes Middle East",
+    "published": "2026-11-10T11:33:32Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f36092d20228ba76bd5a98",
+    "title": "Tesla Cybertruck Discontinued: Impact on Electric Pickup Truck Market",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkw0VWRCWW9wYjNnY1F1TkdBZGNZYm0wLWdPQVoybEJOVGQ1aURyYnlPTGJfMmhlcjN4b3c2MzhSQzJVYzFUc1lYSnF4MjB1dGY5Um9qZHFzbTkwY3lEUURVYXZUc3FxcHVXM0gyQUNzQW1HVGZQWl9QTVJaQzFtMzNrSmFreGVoMkhfZTFodjRrTDIyQ2c?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-10T11:09:07Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "dd934de5d7bfd37977f83b",
+    "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+    "summary": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're [&#8230;]",
+    "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+    "source": "The Verge",
+    "published": "2026-11-10T11:01:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0c9f0ef2170dbb00cc3d14",
+    "title": "ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
+    "summary": "What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own minds In August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after a lawsuit alleged that ChatGPT had contributed to the suicide of a 16-year-old named Adam Raine. For years, the tech ind",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
+    "source": "The Guardian",
+    "published": "2026-11-10T11:00:50Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/7c4e62acbc9ca4257774b10197f801201e6aa2a9/292_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6160a41f6c6b6bdfc6b096b59c9b7892"
+  },
+  {
+    "id": "1762b88198381d6870391e",
+    "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+    "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of [&#8230;]",
+    "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+    "source": "The Verge",
+    "published": "2026-11-10T11:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3d442e80247bc0344540c1",
+    "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+    "summary": "The two-day session in the UAE's capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions.",
+    "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+    "source": "NPR",
+    "published": "2026-11-10T10:58:18Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8442x5628+0+0/resize/8442x5628!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F1d%2F0ae01b0e48da8c5012df7b1388ab%2Fap26311681290035.jpg"
+  },
+  {
+    "id": "c25d7ab8de6aeba2a63699",
+    "title": "Some Investors May Be Willing To Look Past Global Water Resources' (NASDAQ:GWRS) Soft Earnings",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPem5ta3lHS0lobWJQbXNaMDg1UDBIc3ZIa2tkc0FlSTMwUElSNXpVUEluZ1RuVm1NTlkzSXRQOFVlVVNyc1NIYzV5bjl4Q0hWUENMSGZsRXFjQjA1b2tRa21oYnd3eWFsWlVlY242NThiYjBTSkxibmtiUlNHZWZLbW9ZbXNYbmFYNkJWeDBsOTFNWDFrRDJOdVdoT3Z6c1VwdGM3aTRNZkFEeW9ITDduX2d0NnlreUlwYlA2Y3A3UFJKTGFheWxSS2xQYTFRd3ZaNEZaeGlUWVExZ9IB3wFBVV95cUxOZTRKbU5pR1M1N1FBVXJjUGNzb0xDaVI1QU5VQ3FwaGxzTVBvUzdadnVwSk8xeksySlkxeHFfaDd0ZFV0X1ZHNm55RlFNUkVTakhtRWYxVmJXOTFRNHp5enU2eG9xMlhUekViTGIwRVJyWEZFYzc0NVVJT050SzNIVFpRa0RaX0J6OEVpbGgzYWJIT1dtYTJfa0gwZEg5clhrTnpmNWR6UzBtbzhJLWhod1Jjc0JGcmlDU2dXTjZIQU1UN1ZZSHctSm40VzJyek5KREZrZmlQYVF3X21UR2tz?oc=5",
+    "source": "Simply Wall St",
+    "published": "2026-11-10T10:45:55Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5780152184a30ea0fde78b",
     "title": "【Fujifilm FY2026 Q2 Earnings Call】Japan's Fujifilm Posts 10.9% Operating Profit Decline for April-September, but July-September Sets Record; Full-Year Revenue Guidance Raised by ¥30 Billion, Bio CDMO Recovery Viewed Caut",
     "summary": "",
@@ -144,6 +228,18 @@
     "image": ""
   },
   {
+    "id": "7cfb2ce5042d4caa350751",
+    "title": "Investing in Europe’s energy and defence drive",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOTlraG55ak5JZnlxTWxiWUxUVkV2bE4wcXJzVGt0aG9ZVzhGNDhRaFZSekJ5MS1fZlZSbW5YSEh4ckJBWHh2Z1hpOXZOV0hLZmpRZ3B5LUlLTWF0RENuX2I0b0s4WTJKc1ZMdVg2YklULTNZZ3c?oc=5",
+    "source": "Professional Wealth Management",
+    "published": "2026-11-10T09:15:04Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "1c832e45e7989786b9db59",
     "title": "Africa’s Next Banking Growth: Revenue Pool on Track for Record $1.1 Trillion",
     "summary": "",
@@ -192,6 +288,18 @@
     "image": ""
   },
   {
+    "id": "48797187bf35ca35bab7d8",
+    "title": "5 risks for the global economy in 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUlhQSm9qNmNFdGpJbnRVbTl3cU5YU3FOOHp1SDVLR2Nta1A0azlyOThLdEFHQ0JxRGw3R0g5VFdJOWdINV9XbFB5WTlLSTc5dGhnaHkyZTZuZTQ1cXBzdlBDazIzMHBGQTB2SWk2SzctT2ZJWmtSYVFB?oc=5",
+    "source": "ING Think",
+    "published": "2026-11-10T08:58:34Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "181ec47a2b9a6fe0972b4f",
     "title": "Nigerian Government urges Africa to turn resource wealth into economic prosperity",
     "summary": "",
@@ -224,6 +332,18 @@
     "published": "2026-11-10T08:37:54Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d66212594aa8d6d2ba22fd",
+    "title": "Deloitte launches Finance Day 2026 to drive the conversation across the GCC on the future of finance",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNG1iOHZBOF81TDRfZVBHb21TRUJSd20tc0VNbDI2ZGRXQjYwalZWYWo1QlFybVhSWDFrY0VJZ0hIdWNzV0Q3RzBnV0QxMTFSUWtsakxtU3M4elV5eFJYeEhRR2o3T0ZXQ3pDN1dNcElzSlo4N09hdm53X2MzSG5IcXM0VWRxVTVXOFR4WjJjdElmMTRTcXFLcG1uNkJmb3JqMnNCMWQ5cFF1Y2dIWGQ2OUJVN2NxNFdQaEV0Y1llUU9uZlVBdmJ2RXRaR1J2Smszb1g1QTl2YXV6eGpMMWcwV1g2eTR0aUZSUnJR?oc=5",
+    "source": "Deloitte",
+    "published": "2026-11-10T08:35:08Z",
+    "category": "World",
+    "topic": "Middle East",
     "country": "",
     "image": ""
   },
@@ -348,6 +468,18 @@
     "image": ""
   },
   {
+    "id": "7c1668f5cb7f39a8b83b05",
+    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2YzUTV6Z3R2aFFVQWF6dDFXbmlUeEw1ZllKRGIxRnBDeHFDVUxMWF9zWW0tb3ZZNlNTWWRuU2F2RlRXU2o1LXliNXhzZ0lpelFPbWZkbXpiLVFRT3ZPX1Njd25rMm41dTVNQjRKbkJzRTdDZ0V1NzF4aVJ2b0FxSUpRZGlmSVY5d1lQNmFHZjZHdDVGblp2MnA1eGdoeXlSekxFVS1yMnF5dWpqdlkzTXhqRQ?oc=5",
+    "source": "NBC News",
+    "published": "2026-11-10T07:48:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a7c23ef9b2f39151437d28",
     "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
     "summary": "Rolling coverage of the latest economic and financial news The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? Away from the crisis at Nvidia, a deputy governor of the Bank of England has warned that young people in Britain are bearing the brunt o",
@@ -440,6 +572,18 @@
     "published": "2026-11-10T07:17:58Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1084ceb18365e46246a870",
+    "title": "China’s trade surplus soars past $1 trillion as AI boom powers exports",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2dnM2FTQzdWZWEtMDRxaWdDbno4c2VmQnlCdDBfWUhQU3FUdlprb3Rid0VJdjFaLWJEWkpndi1zX1oxUjFPbkhfYl9IOWdQaHJiZzAtS29CTGF5SC1NUElIQktFTE1uTGhpMzJWcTlzLU1icUxsOTJXZGVsdHlVVm1SVGZ4a0dveEtGSFZNbTBIZw?oc=5",
+    "source": "The Japan Times",
+    "published": "2026-11-10T07:16:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -1464,6 +1608,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "43437b658518690764797f",
+    "title": "A Scandal at the Center of the Economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczN6WVY4a3lqMkFDOURkYV9rN3d2WGNBbFg2THVMNlVmZ1prMW9CY1Qxd3d6VjlDNVVPbUt5R1lqNmtmX1BRVXE4REdPWnIxSXJPZ2dpQzYwbklXVUNpSDRLSl9Qa3ZBc2Zyb1FfNk1CSmlDQ1JYYWNFa3B0RmRBbU1ocFlHQQ?oc=5",
+    "source": "The Atlantic",
+    "published": "2026-11-10T00:28:00Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5f95a95890e411bc8aa028",
     "title": "I took Vinted to court to get my money back",
     "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
@@ -1894,6 +2050,18 @@
     "topic": "Middle East",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "69eea20c52b5c8fd4889cd",
+    "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
+    "summary": "President Trump says he's halting aid to Israel. Israelis are worried. But experts say the U.S. is just shifting aid from the State Department to the Pentagon, with less congressional oversight.",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
+    "source": "NPR",
+    "published": "2026-11-09T21:58:14Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2400+0+0/resize/3600x2400!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F5d%2Fb0f07c2b47dd90d9cc5fb4591e47%2Fgettyimages-2266670812.jpg"
   },
   {
     "id": "372f5f6a0364ff60035165",
