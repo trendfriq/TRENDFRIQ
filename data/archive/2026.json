@@ -1,5 +1,125 @@
 [
   {
+    "id": "d4036d1f11fee211fd2e26",
+    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+    "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-10T05:22:39Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg"
+  },
+  {
+    "id": "161d7e10cf58471f462b0c",
+    "title": "California’s proposed ‘billionaire tax’ fails to pass",
+    "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+    "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T05:18:43Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826"
+  },
+  {
+    "id": "a419e424285e6462426c64",
+    "title": "A statistical code caused the holding companies’ bills to soar",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRnVKY3VrLW5TbWdDRmphT0RHc2U4OWhhbzNEcGlIT0cxUERKVlRWNGpkVEhVY2JvOHRhMVhlcTkteWxvbGRiUFJzQ05LTm5Jb1BmT1diR2ZtMGZQWm5Da3dBUHh4bFJKdjZVMFJsQnVLZmxSVE5DUnVmOTdjYUlFcDRfUUlIbUo2d2JPTGh2VGk?oc=5",
+    "source": "Paperjam",
+    "published": "2026-11-10T05:08:31Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d272468a918b294fd5335c",
+    "title": "Milken Institute Unveils Details for Its Middle East and Africa Summit During Abu Dhabi Finance Week",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTlIdEhZU1FPeWtpdFZVSXQ2ZWIyUmVPQjlpdzRFSHhVN2djYWFSd3hnSmlTUVFMM1JZSjhGSDZxMl9Ub0IyWGp5aDJ1cXVSNnlORTBQYTFfd2hiTTRhLXBHMzFwWmdJR0pEZUJ4ckJmZld4WnlnOFlOcG4xMmdNN0p6aUJxYVUyTHctQUZoWHZEaTFIelB5RmNLT3dldw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-10T05:00:00Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f8c111876c8e2a365f3aa4",
+    "title": "CANEX WKND 26: Africa’s Creative Economy eyes US$2 Billion In Financing To Unlock Growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUE5eFNwTUZ6bHJlMkpPS0s3YV8zUk5mdDJwRmFma1Z4U3ZLMi1NVzFUY2lvVnhnXzhQVU9CRVl5QUdYZWl2c2pVekM0UHM5QmNwNmRpSjZDN25pNWRWYXJaMDVXc21FcDRYYUdRXzlleVpEeE9qRHZJdjBuQUhPN2RWa2VYM3NNRFBIX0ZSdmVWdENmZ0I3UVVlRWhiSWpJRDNnY3RtOHdIT0NFUS1jcFQ1QWwwaURxdnp5ZWpLeV9oUQ?oc=5",
+    "source": "Financial Fortune Media",
+    "published": "2026-11-10T04:41:10Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "94a12bda1c64072e93f583",
+    "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 ahead of planned IPO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVQ5QmpCV3VxdU1ZRWpNZW93TFM3cW5mVTd5UzJMRHpTdGxiazdHazIxNUJLMG5FY2pVM0NqX0lXTi1uSVNHUC1ESEptMF9xVUJXWGpHSzU3V3dUemNBa19XV2l5Q2k4SlgyTzBwTUJRcVBNMUJSLXo4X2V0bkx0RHNEc1R1M0FSVWtMb3JaMWNMcG94ZlJIX1RQTGN6OVRhcXdHVVZCQzc3ZmJacHhtSNIBsAFBVV95cUxPcVQ5QmpCV3VxdU1ZRWpNZW93TFM3cW5mVTd5UzJMRHpTdGxiazdHazIxNUJLMG5FY2pVM0NqX0lXTi1uSVNHUC1ESEptMF9xVUJXWGpHSzU3V3dUemNBa19XV2l5Q2k4SlgyTzBwTUJRcVBNMUJSLXo4X2V0bkx0RHNEc1R1M0FSVWtMb3JaMWNMcG94ZlJIX1RQTGN6OVRhcXdHVVZCQzc3ZmJacHhtSA?oc=5",
+    "source": "Storyboard18",
+    "published": "2026-11-10T04:41:04Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "79a39e760bcd77c8b6d132",
+    "title": "China’s trade surplus surpasses US$1 tn in October",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1hXZDlqbGlZWWNFdVNtQUFaMEhEdk9ZRURYZnl2OVVta0Roelk5MVlFT1dCQl82OUhTaTRHNFJvMnBjbzRoZGtBbE5rcmRIVW14TlVSbzN4UGV2Sm1EZXo5SEM5enpzS3VBUllrX2lRZmQ0dHFFWWJoZU8zaHBacw?oc=5",
+    "source": "Macau Business",
+    "published": "2026-11-10T04:39:33Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "88d758f19d49f85da11bee",
+    "title": "China's trade surplus surpasses USD 1 trillion for 2nd straight year, as exports surge 35 per cent",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNM2JMU2tveXVXVlVaYWJRUzBZTGhNREFqckEzLVdWdS1tSVdLNi15RmRvTHJBR3VoREdWaHJlNTh5RDFOQThSLWlRXzZnY2h3X0JtdGw3THN4SGZESG55c0lmdjY5RktpOU1YbTkxMlRtUlpqejE2OFlha3E2RE5OMkVFZ0QtMGJKUEdjeUVmY3VIX2JWVmQ0M3hSZzFfRExrYURZNnRwU3U0TzJxUkhlYTRZdWZaWDI3Uk05aElWZ0U0T0YtdTY0eTVwYXJYYWF4OGxxc192RHo4cmNjVXdwcXJpNEdRdmVvQVhBZkQyY0JMZHllY0NKQVdwWDFfNlN5cVI5Q05GcHZkVGdoVWVSNnQ3dlNNUdIBjwJBVV95cUxQcXhwRS1xMXg1TV9OY0xDTHo5TlZJd1E4NlFtVEpWZG03SUlyU2NYUkwtUHdZNzRzaW9uZ0EwQVRqb0dOSlJWZjlucjNLOWpqX1VyWHk2NExFQmxTd1FzV1A2Tkk0RWVMVUd4ejBQY00wUno5Q21Qb0lBZmJNXzZvczZySTFqdGJoVS16aWRBTjhNY3FjX1BYaGRQSzY0bnBvVW85S2FPMVJlVkV4MHBDejZ5b2J4VDFwTGNjRHBBSDN0X0ZEYzZSVFBrOVdyWHo1czBackd1cV9jWktRcTNvMkpOSkVOY2s0WWwxaEszejc1Q3oyaUx3T0tqS2dnRDJXc1pzZk5wRHUtUEY0VnZR?oc=5",
+    "source": "The Economic Times",
+    "published": "2026-11-10T04:36:17Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "60cb8c411575b8656cc710",
+    "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+    "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T04:34:15Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/bortonia-getty.jpg?resize=1200,1200"
+  },
+  {
+    "id": "4e400991eaf3df2658cc6f",
+    "title": "Anthropic launches new Claude Fable 5.2, Mythos 5.2 before IPO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnBpMkdBYkR1dWpVWWJIR0FNRThVb3BoZXdzUUlzYlluSDBuS3BOamkzYTI3SGN6LUhYbHFnTWVuM1RmcmczZXJUalIwRjBwcEJYU3pRYXo4U0hwNkhUNkVnMnlCODA1RUtTckNOMnVIelZoX2h1OUNGaENmMEYtM3BnUGVJdUY0RWJibm93RGZNNnkzeVEyMFNqalVxX052TkpF0gGzAUFVX3lxTE9qN2NRZGVqV28ybHhWazJkN3h0SkdBQzlRc0p5MmgzUW4wcHF3R1BNc3pvdGJ0RVFBS09lUVdpR3NnZWVGcjRYaFZiVnNXR0djRUNETFkxSVFWbXhSM2UzZi1aeTRSVi1WejNBbm9mS0JKci1zclVvMTRsWWp0YThxSG1pVVE5RWhvVUppdFRDQXZSMU5EX2I4T1M5YXJFUWoxWmtSa01ma2FKVFFwdG14YVZB?oc=5",
+    "source": "Gulf News",
+    "published": "2026-11-10T04:26:07Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "b00b2c02495f1338f2b65c",
     "title": "Kleiner Perkins Engineering Fellow 2027: Paid Summer Fellowship for Future Software Engineers - Apply By 1 February 2027",
     "summary": "",
@@ -8,6 +128,42 @@
     "published": "2026-11-10T04:23:10Z",
     "category": "Technology",
     "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9d67800408d1ca8a3b4a16",
+    "title": "ADNOC Gas delivers Q3 rebound with $1.34bln net income",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3loYkRlOTBKRDFKOG1uNzFrYm5Id0NGU2ZUQVdGVG0zcU82Rnh2SUtMZTZKblBNUHVqT1BIR0RQN3VINnhsR05aZ2JDYm1MdnVyb2FMQTFrWElVd3oxTUJMOUduMTUtWWFObzc2QS1PTWdxZHZtUGRqUXVuODMtZU14bzAwMTlfVVhpeUFhNE5GY0YwRlJ4U2N3bFg2QU5JX2JaMDBycS1oZk5vX2xNZDB6RnZDQQ?oc=5",
+    "source": "Zawya",
+    "published": "2026-11-10T04:20:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d06bf10dbd492e6d630670",
+    "title": "Oil Prices Drop as Trump Downplays Iran Escalation Concerns",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1ktUmxNRGhZX1J3WjZUek01VTg3VWlHWDE0YkhLRFhMam5KUE85aTJHdmRVa0ctblJDanRkamVsWDVMMDRZVHp1TlkwT2NsY1M3ZjdXeTZLRFFGY3gwV01VamVfWUpBQXdZeW9CSFh4YmhQbHRrakgtOUYyZ3c5a3VNeVZxQkQ3eDFGcWY5T3NqSmVaRHc?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-10T04:19:21Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "aeb93ebd5d273acf122ba0",
+    "title": "Exclusive-Anthropic’s nearly $70 billion IPO plan briefly circula",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWxKYXI0ZUduTnBsQjFQRE1HX1hUSGVBbU9FTTRPVDBCSFdBUVZON3ZFWkhaYWpxekdoeG95NThsVG5XT2Q3SGQ1ZjRKQXV1dEFHSktLT0NVREtGU2RPRFhfR1RQSnVRVXh2cG9xNkg4Uk5zWVdiVG9oU1hLaWhvN1M2Sy01QWVkMEVaVGJsS1lpZHR5NTAyMncwYlBXcXJL?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-10T04:19:14Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -60,6 +216,18 @@
     "image": ""
   },
   {
+    "id": "1689012113e3916eb484e1",
+    "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEp5NUEyYnBlSlhFS2VLY1ZfWTVmRWlmbEZuMTU4V0xNWklVSk5tVC16OXVtalJBWG03blg3cUlkWkx6dnRGZmZoMjdmY0s0WlJPR20wQlR4R3VIT2Q0Qm9YemY0cmtWSFZ3UjN0a0FWcm4tVGZ2V2F6M0hMTjhyemRGYTFFVWZOYkw2U2RsRTBrRFJOZUZRMGI0SVRNZlpLSTNwVlVmVGtCTFRsLXgxOGU4VmZkYnpaVDRhWTIteXJFNFJOMGQwQXhtOTY?oc=5",
+    "source": "The Washington Post",
+    "published": "2026-11-10T03:44:06Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e6dbda73708987acd4fd3e",
     "title": "Spotting winners: MSCI (NYSE:MSCI) and financial exchanges & data stocks in Q3",
     "summary": "",
@@ -68,6 +236,18 @@
     "published": "2026-11-10T03:41:00Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "acd8c6cc230cdf3f2b1a84",
+    "title": "APEC 2026-2027: Opportunity for Vietnam and China to advance continuous agenda",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUl9jTlJjSEhiTnhvQXRZdE1Ebjh2eUw4b0ZXanY0SXFBejJVS2Jjcy1FTjFwd2pHNkJTaVlIdDF6ZEFrdFNkdEFHTkcxc3ctYmc1YnRiWng3d3pMWm1JMkc0TXJQMFdtS202SVBNOVJNU1dHUDBrX25jaFA0Y09Xc1lOMjRIQlY3c2JTU2JMWGM5dkNMbmVsNWFvWmVkdzlldXlwcE1wS0h4X2FxWFpPWUxhTjg5bnpUSEE?oc=5",
+    "source": "Vietnam+ (VietnamPlus)",
+    "published": "2026-11-10T03:25:37Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -1080,6 +1260,18 @@
     "image": ""
   },
   {
+    "id": "2bfec4e90a6d2681ab51ce",
+    "title": "Korean Team Joins EU Project to De-Ice Wind Turbines",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmdOTFV0UThGSXU0TzJ6WGpKamFtVzNJSHRQNHNjeUxad3J2SXRvMGFIZ2dsU3FHWDRRR3ZXUWktdDV2R29tQ0ltSTl2M0tRTFluRGlVVW1ncFUzb1V2V2Nmd0dpMzZEQ0dKQTR6VTJtbjVHdjBldjM0R21Ra09kbVJOWTZmczE0VHdBTlhzQ3NGcS1yLUtZT1RPTQ?oc=5",
+    "source": "Seoul Economic Daily",
+    "published": "2026-11-09T20:40:05Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "cb02e99ec226a9c5c1ee26",
     "title": "Accelerating Market Entry in Northern vs. Southern Mexico",
     "summary": "",
@@ -1796,6 +1988,18 @@
     "published": "2026-11-09T17:15:06Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6a39b93203452594f652af",
+    "title": "Former Hello Sunshine and AGC Studios Execs Wifreddy Chiang and Anant Tamirisa Launch Baseline Media",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnJxN3FuRFI3SmR3dnJtZjFUWWdxRFlNWTlhdzhYbk9PZnQ5Z0lmcUttQzhtT2tWcU1LX1IxdGdMMU1NRU9UZTVwNFFXV1BPMVlMM3Nxb0JWdHo4TFpjbnJPQUg3akFUeXVJN3htTGVNZDRHb3hvN2N2eHQ1UEUyYkJMLWFkbW40d2VQMm54alBJVVNqNGV5emlB?oc=5",
+    "source": "Variety",
+    "published": "2026-11-09T17:15:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -3284,6 +3488,18 @@
     "published": "2026-11-09T11:46:54Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e991e20871cac2e4636b27",
+    "title": "Why Nvidia CEO Jensen Huang's affair with alleged Chinese spy matters in AI race",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmxyWWlidXZ1cW5XTjY4OUhVd19IMElmM3hVVzFkM054VmI4c21kMFpxRE9fTGRqNV80aXEteEZhM2NjR05HYXhfZGhmaXpwSEM3alI5U1E2Q21BTDdfRVNyQWpRRGROa2dBdkQtb3NXQ203aTNyQTUxQnBoNHdRbGR6V2tZdlFtRWE2QmotZkowZ9IBkgFBVV95cUxQLW5TYVVrbnBFYTl0VzA4R3VVOHk4Rlp1V1FMNjVNcGxRRVBfaHN2QnJOQ1ZSUGVHUjE2WFI1SVVLQ0ZwZEdxZC1jNXVJWjFHQVctYlF1SnRaandJY3A0ZXJHSXdJSi1jQkx3OFFxaDRjQ2xjNmJ6azdkTFc5YlkzdlFJRklPR2k4R2JtcEFEVEN3dw?oc=5",
+    "source": "DW.com",
+    "published": "2026-11-09T11:41:54Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
