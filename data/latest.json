@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-10T22:25:28.145572Z",
+  "last_updated": "2026-11-10T23:14:23.013418Z",
   "articles": [
+    {
+      "id": "9435eb24521189adedd5f0",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-10T22:52:15Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "405b34dc0bf539edcc3a4a",
+      "title": "Canada’s Barrick Mining files for IPO of North America business in New York By Reuters",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFhNeHJXVEJmcERILTRKbDBidHcxcGlxcjB1ZnlCZGxDbjVNbXlrVU9zVk1lYXJGbzFxX3VyWENJVkt1MW11SUN0bDRWUDRDNW4xaHRSOHFick5feTlLWDYydG5LSXhiQm9fWlFWY1Zaazl2X0lhOFNzYzVzWFR3QTQ3MkM5RzhkWFZMUHBQa2ctSXU5eTNBeWcxM2drZ2Q0eGo3Vk9KYk81UGFVcHJkcHg5Z3dRSnNRUDdwZjFuYVR3T0ZTZGk0Q1FJbw?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-10T22:36:13Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2417e8f0cb0566475ac7cc",
+      "title": "Canada's Barrick Mining Files for IPO of North America Business in New York",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUZZVllHR0VoQkppYnlibDhsYUY1VDAyYkFuMHpBbmpGWjJEcGQ1Nnl5cUNJc2NGcWxBZVd4N1FNQmM2R0dCc1F0MWVoaHJlVlRVNnRrRmZIS3NLNHhTVW45Uk94ZC02S0JrTzdQck9Udm12WW1qbUpjM3MwMC1fVzRpelloRjFIX3FuTFp3dnhuRklpa3ozaWJ2QTd5Ynk3RU1oU2NXQl82ZW9BbGo4bnVJTHktYU9DZVNpUW5YQmdWZDBkWTF2MGVsM2dUbHc?oc=5",
+      "source": "U.S. News - Money",
+      "published": "2026-11-10T22:22:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "9347f3e564c510f8caf320",
       "title": "What the U.S. midterms mean for Ukrainians heading into their 5th winter at war",
@@ -86,16 +122,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "9435eb24521189adedd5f0",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-10T21:59:54Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "id": "47e3f086b7bb198499b8a6",
+      "title": "Europe’s Emissions Cuts Slow as Climate Targets Collide with Economic Realities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnUzLV84eWF3RlJCSE5YdzNRc2t5OU5TUWxJTlktNk9NX3p5SDkxazAyNC1Lc2NjX2JtaktIZktWSy1uaUdsSGNrNFZiU25DSWwyVllNVlppcDZjdkIycm1GaEl3bnlsa3ZKenFNdFh2cmwyMXlheWxFelUxVkc2Z2pnODRxNERySVlpT05Ydw?oc=5",
+      "source": "EU Today",
+      "published": "2026-11-10T21:40:43Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg"
+      "image": ""
     },
     {
       "id": "daf7e9e96e7de529337a23",
@@ -182,6 +218,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801"
     },
     {
+      "id": "92ed0553e9b44cab6d12be",
+      "title": "Lean Focus Launches Asia Pacific: Local Expertise. Global Impact",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHdNUUZuSkxreUM4bVV2aWxEbTZMRUxJM1luaThUT1lDUGdxdm1ZOHVGeHl3OVJDLTBpbU96MkZoZG1qamJRSU0wNmx4V3NvaUp4OFRnQlRMOEpzWXZVOHRZOUVwUVlRR21SaHBWZC1fSWRzMnRhTkhHVkFpd2U4a2k3TEF2ekt5UnFlRXp3Ylh6TXFTRHZ5QW5KODNtM2ZVOFRjSTJPS3FiR05tQ0JiOUxMOEhvcG44UkE?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-11-10T21:08:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "24d30a68df26da8bfcf72b",
       "title": "Sony cancels live-service shooter Fairgames",
       "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down [&#8230;]",
@@ -204,6 +252,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
+    },
+    {
+      "id": "a52df62047573efc35940b",
+      "title": "Ten African media outlets unite to launch BiFinances, a platform dedicated to economics and finance",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcG1LLXFsbW1ZZ2d5VnB0RnlwUjI0dDlmcGEyVFBZbFkzeldzYmpjbFdYaVBxTjg4bjlpVkNZQW5nYS14ZEFjVGM2S3F1aTBidmpYWGFWbnpRSkZOdzlOZnZJRGZGMkExTkJHaDVuc1JZZ2paM1h0aGgtVlcwUjJjcDY1cUJicExna1RRNGxBQ1A1OGtfNFpTS0pYYlpIRnBUUkNPRHVCN1M3Y1ZKdWlCWUE3QlN5UllickhYZzk4TUtTQQ?oc=5",
+      "source": "Bénin Web TV",
+      "published": "2026-11-10T20:48:54Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "fb396cc9ce5546d1b3f4cc",
@@ -266,18 +326,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200"
     },
     {
-      "id": "5b4d20a441ba23100863c3",
-      "title": "AI cloud firm Nscale considers delaying $35 billion listing, The Telegraph reports",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUxpUWpwTFVxSmg5RmczRTJ5LXRDVHREZzRWRGE1MFdvQ1lVUFNOSGFjWnVYaF8xa09xX09tWnM1N3hMVkRFNTh1SW9kLXVhbm9oV0Mxb0JrZmhEbFZ6TXVBWHN2V2hsUGZYaldsczRnNkszR1FMNW1kRkM0Rk1tNE1LbmhQWHpXLURFYTBSMlNpd2JEZjRCeEplWE9MckZj?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-10T19:48:39Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "9439dc998edbe201d6c0c3",
       "title": "Beyond talent: DICE 5.0 urges investment, infrastructure to unlock Africa’s creative economy",
       "summary": "",
@@ -308,8 +356,20 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
       "source": "Federal Reserve Bank of Dallas",
       "published": "2026-11-10T19:37:51Z",
-      "category": "Economy",
-      "topic": "Global economy",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5b4d20a441ba23100863c3",
+      "title": "AI cloud firm Nscale considers delaying $35 billion listing, The Telegraph reports",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUxpUWpwTFVxSmg5RmczRTJ5LXRDVHREZzRWRGE1MFdvQ1lVUFNOSGFjWnVYaF8xa09xX09tWnM1N3hMVkRFNTh1SW9kLXVhbm9oV0Mxb0JrZmhEbFZ6TXVBWHN2V2hsUGZYaldsczRnNkszR1FMNW1kRkM0Rk1tNE1LbmhQWHpXLURFYTBSMlNpd2JEZjRCeEplWE9MckZj?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-10T19:34:24Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -430,6 +490,18 @@
       "published": "2026-11-10T18:58:23Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "aaf8efac44f2eefe30d442",
+      "title": "Does Middle East have Nvidia problem?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHhWYUpIa25lYXluaVhJajNESFV2c2dZMkRRdUkxOEJxWnU0M1hldGcyWkxvckhHOElOUXlndEN3cmYyM2loMG1JVFR1bmRfNm92clg5OUEtS1AtNHJ3MXhmd1k0eU5KRE12UGhWQUlrYjJ5WlRtckRZM1cxRkd1cDkyUzVHVnVUbUJaQnNB?oc=5",
+      "source": "Al-Monitor",
+      "published": "2026-11-10T18:55:40Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -624,6 +696,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ec9d25b4425c51aeda0a05",
+      "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOHZhYmNhZWVrNnlsNWpENXJtejAzaWpFY1U3UlRhNmp4cnllMXFYZ2dHcUhWOTJCcllWWDh3ejBreF96eElzTU52N2otWGpRRGJEV3hMVEtob2JuVWZvam1OR1cyYXlpeTMyOVNTaHBHLWJTN0Y1TlExUjVsNHdaT0V5WVNVeVY3YXdpT2dPS2JXZ2dZaDlReGVIeFdWUU51VDVQX05FZk1FTjdCdVBBX3RvSkdsd9IBuwFBVV95cUxPOFgxdTRMYy1YWWtuWkMwdnRMNl9LRW0wNGhsSXZEUzdWbTNJU0lScHhkXzVJSVpSTFpSdllYWk1SMENQUlc4ek1VOTBlLVFDcW1JaUdXaC1yWlZ4UkZkZmdzWGdrR19wMy1rRFE2U0JMdFpOWTJ1ZVdsdkpJUldqM0JYcTdGSXB5OE5GY2J2SmFRWXdCY0F2aXFOOXFSNWJVUW5la0VfcG1YQUpsQUkyTU9yT3hDUTY2cjRZ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T17:38:44Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c619bb88505937dcdf397d",
@@ -1034,6 +1118,18 @@
       "image": ""
     },
     {
+      "id": "475a5c33b3b27a86f436b3",
+      "title": "Claritas brings live optimization to acquisition email",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXBHQmFhQlc2R0xyc0ZMdnFtN0d0V2EwaElFUmZZdzhUZmZwS0lwNmY3Um9Id3dQUHM2OWVnMnNsVzFqQjYzcWlGZDhCX2hfb2xaYk51dk1VUEdKV3FISkdQZnk4eDdVZGhMWTFuMFl3ZGFfVVdVLUtZa2VDVW9odQ?oc=5",
+      "source": "MarTech",
+      "published": "2026-11-10T15:59:28Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a5fa076216882d979e7837",
       "title": "Belize reveals its cultural soul through experiences that combine Mayan heritage, Garifuna tradition, and Caribbean authenticity / Travel2latam",
       "summary": "",
@@ -1344,102 +1440,6 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "6ad2fa90be5e3593592668",
-      "title": "Business events contribute US$1.8 trillion to global GDP, WTTC reports",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0luVENSVFN2cVBSd0FrcS1HVzJoNnVwb3p0Sk1YMTJkTElyR2pQVFVDZ2ctTzYwVGlFdVRMcXlRem45WjM1Qll6WEdqZDVkUjlaSktyakZMcmFscEUyVVNUUFYzUjZ6RFRNand4RHpDd1RUdmNsT25wTTcxRDNFaTA0cFYtUE50Z0JtSk1McmkwUjdBdDBRWVZHQWNnVWhueDBvVGJVX0YyRDlWQTFlSmZB?oc=5",
-      "source": "Travel2Latam",
-      "published": "2026-11-10T15:08:38Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f407fadf37dff8762b0bc2",
-      "title": "Reddit is turning user conversations into AI-powered product reviews",
-      "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
-      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675"
-    },
-    {
-      "id": "c1a6acfce87b1582eebbcb",
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-      "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
-      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800"
-    },
-    {
-      "id": "1d09c07958f96a31d51ee7",
-      "title": "Reddit wants to guide your next purchase",
-      "summary": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundups. The company is launching Reddit Reviews, a built-in product reviews hub for consumer goods that [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-      "source": "The Verge",
-      "published": "2026-11-10T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c3b0efb961a2169931f995",
-      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEFkZldsTU1xajRBVjJIN2xHZ3hNQUZCWFg2T09NVEUwYWdEdUl3MW1rV21PcEc4UVo1X1k5Vkp5ZVR1Y1RIeHgwWFl6MTV4SF9UMUhjNkVHUWp1bm9kS0xIV2dSWTlxUTBjQTUxQlRlQmc0eGFvSEN1Z1BhNERVdTUyQkItZ2l0aS0tQU03NNIBjwFBVV95cUxQUEFkZldsTU1xajRBVjJIN2xHZ3hNQUZCWFg2T09NVEUwYWdEdUl3MW1rV21PcEc4UVo1X1k5Vkp5ZVR1Y1RIeHgwWFl6MTV4SF9UMUhjNkVHUWp1bm9kS0xIV2dSWTlxUTBjQTUxQlRlQmc0eGFvSEN1Z1BhNERVdTUyQkItZ2l0aS0tQU03NA?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-11-10T14:59:09Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "305a96f67088772d04655d",
-      "title": "UK, Saudi Arabia, China and South Africa among countries owing billions to US investors as global debt securities hit $4 trillion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHQ3V25ya19QdWwwYTE4Q2xNa0ZER3ZaZjFRZjFqcWRlek4yWHhDU25zTHJJaVNHeVF3RW9wY3plOUs1UXJFQS1RV3h2RFlVbWY2SVNfX213S2JCSlB1YWd4ekNNRU1Wd1RHMFBDM2sxVC1USzk2d1pER0V4V19CakdUTkJIRTJjdVN3eGVnanF4ZFl5RnVwOXZkLXBJY2kxR0NQbnJjSXZJOE5UY09WSDR3ZE1tQmlkVWFjZk9fT1laYkF4LVhXb3ZJYXpwSl8xdUE?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-11-10T14:59:07Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b9cff2f8314c6e9401107c",
-      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXN2R3Y1cFhjUkdtRXdOTmxzTUhPTC1lazhyMVZEN1M5N0ctMnVFOFdhYXpQUzM3YWZsMlF3eWp5RnRTdmRoRi1fcU9XejJ6WDA0NFZ1cmZ6ZVZjWFFUcnB1ZUFzSU9LTHVJc1pvUVIteEM2NE9VZjdYN09IbFV0ZHBTWERXanU2WTlFeS1WZTJLelNoNEJaYmpUaGpJREt5R3p4N3A4aGlWMUc5dTlnZ0xVT0NFMkVqTXBtY29vT2NjbWNRWENKaDBkcEpYTVJiUFlMTFFSdTVxa29yVWxNUkt3?oc=5",
-      "source": "markets.businessinsider.com",
-      "published": "2026-11-10T14:52:32Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "96faa508b0e30813b50f2c",
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-10T14:45:46Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"
     }
   ],
   "countries": [
