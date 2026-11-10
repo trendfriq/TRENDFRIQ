@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-10T01:27:17.286644Z",
+  "last_updated": "2026-11-10T02:28:54.510097Z",
   "articles": [
+    {
+      "id": "195a47e5ceb015f5c54089",
+      "title": "Creality Launches mBox for Children With AI Design and Print Monitoring",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1BsSnhkZUs4Ym5rQUFzTGFaYXBndVUzTmJ3VGZQZDBmMGhaU1RjWTVFdlZ1QjV0bmw2bGFRTXcyMFQtRUMxREpIblpwb3FZNm9lZXA4R3ZMRXpMM0tKQXc5enhMT0hJRFBHOWZHWHIwWFR6bVpzZGZZcjFaMjlGSWtRZmhRVTBTZklQUmhNSUQwb29SSHA2Vw?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-10T02:01:03Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7c3ffaefc0e1565581740f",
+      "title": "Arthur Cyr - The Arctic provides challenge – and opportunity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV21Na3hSSDN1Qm5YRXZad1V6QmNiZmRGSjVTOFNmNjRLSnFoaUhnVnVhMEdUWnVFYWNCUUJqWGtmQlJzSjBicHBPaFNPeEUwdXE1SnlOaHBwTC1OZGxWUF9GWExPZGpreDlIejh6UjREYlJ4X0Q4d0VWc3FkQjRWTUlINHVUdHYwUkZfZkZHOVkySzlQeDg3QVVBZm9rejdnTm04U01SYnViWkNLaWlxVVNZUU1DdWVFQlQ3SktCa2lreU9FWVpSOGhwV1N3RFhCeFZjY0hMYmJRY0hwVUx0NnpUalA3anlMQnhNYXVNclVOaXAzTmxB?oc=5",
+      "source": "The Crescent-News",
+      "published": "2026-11-10T02:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7cac2a0794bc52e65e0c2f",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-10T01:55:22Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
+    },
+    {
+      "id": "4a9293f6fb1874436e243f",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-10T01:44:53Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "f3957bc9f46278e8e5d9a7",
+      "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
+      "summary": "Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'. The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an affair with an alleged Chinese spy, and that the FBI was now looking into the is",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
+      "source": "The Guardian",
+      "published": "2026-11-10T01:40:32Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccb28f9290e11ea30cb0ad477bddcbab"
+    },
+    {
+      "id": "64de75add4ac8f42312beb",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T01:38:49Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "id": "d633f53f3b2344e9414d21",
+      "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+      "summary": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The chang",
+      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+      "source": "The Guardian",
+      "published": "2026-11-10T01:34:47Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/495089a2ea3363d20bc4baf998d27df79ec59b7c/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3df961fbc162b688c55e7a7bf266e380"
+    },
+    {
+      "id": "da1471c8814c2f74a520f2",
+      "title": "Nvidia CEO Jensen Huang's affair with Chinese agent being looked into by FBI, says Trump",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1B3TDR4RXlaVGpySW5kbk1iZnpacm5EQjZ0R0NXQ3diZUVxMHoxWVRPM3ZucXE5XzN4QnNLYS1Ldll6WXdTSnJONl96Y09JemlmNXpCOFdsbnNoTmd2OUtjQ21XMmtDNm5WNDVwS0dxQnNCa2hqeUh6SGdYUWZ2V0FSLUE2M2ZKZHRtYjhRUmlMZm1WSENzcXpFQm5yTWI0RDVLWHpaT2VuYkx3RkxEb0dqV0FEbUtQY01YdDNaS01DLU1HVEktZ3RKVHpZN0FRY1Jhb0l4dnVub3F3VlpjYmFlTHJJRkVTZFJBWTBlWUlGVXdKNjdEY0VJRE9hUFHSAYQCQVVfeXFMTkZ3d0R1YVI2Wkl0UXpYV2tOX1JiNGlZcTFuRFEtczdNNWltSHV6Vm9lNUpsVk1HNFN5WFFUaU1kbVU4M0ZoT3NlSGtHanJVaEs3OXh2LUFhM1B6ZHRkX3QxTE12SEFOSzN2RV9kREhVdDJvb3NOQmJzaWtRX0REN3hEcUI2UTl4SFhjeWdkMGFPc3BENndldkZ5UnYyUzBUTTFOVDVYTW1lc3U4a29lX3M5bllieUZOXzZrVGVvSWJCTzY0bFBWX0hsUnlvV19iai1WVy1JMDhfRFdDZDRLSUFseVI2ejlRUDlqdWJWSm5FS1h0TzMyQ3EtdXF4OVRSXzZKcXo?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-10T01:34:39Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "8a35af252b32001f777c64",
       "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -14,16 +110,16 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024"
     },
     {
-      "id": "4a9293f6fb1874436e243f",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-10T01:22:10Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "id": "37370447a6385832be2aa7",
+      "title": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdtWGFXYzA5TGJzSTFHS29vS0IzZXptRDExQ3dNX2Z0TGttU1hESE1KN0RVX2hvTC0tRXJiUGpBM1RLTlJWTmJfdTU4bFBadU1zdDQycjZzaTdjc01lMjJ0VVE4MWpuWnV2ZGFnVEZ2MXdsY3FHczRQNGMxLW5FWG9ibHJQZ3p3YWpyN3doNFpFM0pCSFVHNG5tNWVHNUFRdkRDMHhHbDFSeVBHLUJfQmJ2aTk1cWU0VmtEUHpHX1Y?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-10T01:24:19Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+      "image": ""
     },
     {
       "id": "7dae432e3b54d4c45f0f0b",
@@ -48,6 +144,30 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/560f38c53c59131a19338207e679804b1d3aa8c0/956_0_4778_3823/master/4778.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5501f777152d4e497f7c2bb3c9bfdab"
+    },
+    {
+      "id": "5bea62b7f69d7323d5320a",
+      "title": "AlTi Global, Inc. (ALTI) Reports Q3 Loss, Lags Revenue Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVVVRUJBeEpFS1Z0cU9oemxvZTdfQ0pUWkxpUndabmVzYVlxYzlQQjlQSHdnQTJNZ0ZJZHN4ZXNYYjBzb0pCT3BHUUlmdjkxbVN2RzIwQ3luWkJGNVh0VVRSQUxGVkNYX0lBbS1FMWloY2szSmtDTlNJSV9WTFN4bFVPREpROC1QY3BwcktYYWRNLTNHMXBVTw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-10T01:05:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bc451772cac8f79e83e249",
+      "title": "WIMAFRICA seeks greater economic power for African women",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWN3eTBZaHlnQjFoLW5mTVcxR0Iydkp2N3Nfekk2RmFEcHYtRmc3WXJVUEkxanFRbGtLd3ZidWROc3FMVjh5Q0NaLWNXN3VObTdQTURJTVhTT3hUQmthNm5qQ2FobGpZbjBTSGRpaHRHYzdGWEh3Q2U4dDZQMnd1Yzk0dUdzdVVrQUxsQWtJNWVUXzdOTE5WRVFZUEpudThKT3pEUjBCRTFiZnZ2aTZvdDllZGJwNGNBcDBmeXpPZGM?oc=5",
+      "source": "Punch Newspapers",
+      "published": "2026-11-10T00:51:10Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "05e31abb81030e94daf9e1",
@@ -98,6 +218,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
     },
     {
+      "id": "8e277aeed6e90ee6b73d96",
+      "title": "EU is nearing a deal to link UK carbon market after Brexit split",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON08xSC1RQlZaUExmNm1pZEpVUDEyVVdkQmpoMllNVUJJeDhuT0dpSkRSQ3A3M2ZRcDU3UFhKZWpxRVhSbzB5UjBLZDJvcDlleEk1djdBTExDa3lVZ0psSlhGTWN3dWVpZWVRVGZtNlpRMjl1NjRZbmJKQmQ4bFphaDVxWFJiMG1sejVPZDN2NkEwMExjczBadjgyNU9sRFhtTkgtamNaa1FJdVA3WDJoelRpZnd2M2l6NjhmRUdBLVd5R1E?oc=5",
+      "source": "The Star",
+      "published": "2026-11-10T00:09:36Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1e3134246689c8371fea56",
       "title": "Leveraging the Vietnam-Israel Free Trade Agreement: Businesses have the opportunity to master technology.",
       "summary": "",
@@ -130,18 +262,6 @@
       "published": "2026-11-09T23:56:16Z",
       "category": "Brands",
       "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "37370447a6385832be2aa7",
-      "title": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdtWGFXYzA5TGJzSTFHS29vS0IzZXptRDExQ3dNX2Z0TGttU1hESE1KN0RVX2hvTC0tRXJiUGpBM1RLTlJWTmJfdTU4bFBadU1zdDQycjZzaTdjc01lMjJ0VVE4MWpuWnV2ZGFnVEZ2MXdsY3FHczRQNGMxLW5FWG9ibHJQZ3p3YWpyN3doNFpFM0pCSFVHNG5tNWVHNUFRdkRDMHhHbDFSeVBHLUJfQmJ2aTk1cWU0VmtEUHpHX1Y?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-09T23:54:18Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -204,18 +324,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "64de75add4ac8f42312beb",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-09T23:45:14Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
     },
     {
       "id": "5793a6a48fe3d4e48b7af0",
@@ -312,6 +420,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843"
+    },
+    {
+      "id": "7cf306d7064eeba1263059",
+      "title": "Alti Global earnings missed by $0.16, revenue fell short of estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzJkWWVnM2ZFRWlwMEZrRFdaTlh2Q09YTkZvRERXOUt4a0lwSzJkcXZvb2o1TGQ4N1ZNZUVob2JZUi1DQkIzLTlzc3ljZWhTNkx3bkxsdVVMSjd6SVVucTRJU0M2bUFFa05Td2pjUWdwT1ZRUHgtd1pGS1R5bHhUNjdxVDYxcWYwX0JNSVJSelYyQkQ2MkNwU3MxNEd1RU9kUjFsWVJJblNIVGItUGJZSE9XVlo?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-09T23:00:43Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "11d8b712303ef06d641daa",
@@ -558,6 +678,18 @@
       "title": "Qualys (QLYS) Q3 Earnings and Revenues Top Estimates",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUJNRHVDTkRMV2NnVmJ4OUpEemhiQnFUZUJHSk5NR0x0X2FJOFBSdUcybm1zLXJpTkw2dlFRXzhFX2Y2eXBkT0RvYnJ3eUI0Qm5YMVdpZG5UaUlmU2J4MzRQbTBsaVdDY3pjRzZFNlRseFo2LXV5dHdtN2hxVF9PNk9vUDJGYnAwNWFxWjBNVUVvWHZEWTNTTHdROTNzQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-09T21:35:03Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b8a33dd62479b2d9111cbb",
+      "title": "Occidental Petroleum (OXY) Q3 Earnings and Revenues Top Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHRYamxvbWpMWnd3dzJpNWNBYWRqb3FIaU1aR2VaT05CTHBpai1lTDJlc1hLQ3F0VmFYbDc1bDEya3hKLTY4aWF0QnJTUlZoYmhBRE96YnBvVmtnLUxkM1ZtTmlVQy1INFg4dXFpYldLVVBuM2t2WU4xRUxtVms0TF9Na21IWmVsUGQ3RnozeTB0czNQalYwbG9wN1UtbGtYMVB3?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-11-09T21:35:03Z",
       "category": "Finance",
@@ -1308,138 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "cf0a707f2879c63d830127",
-      "title": "RapidFort Recognized as a CRN® 2026 Stellar Startup for Delivery of Software Supply Chain Security to the Channel",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOejU0N2FiV3JCR0NST3VLUHB5ekFFUjlJU2lhZVp2cWUtMWdGaDNLZE9xdlo2em40MWJ3Wl9ZZ2lJTUtaampNbWk2WElZUXF0Ym1sZTVGV3NfSEZFLWYxOTdXMVpiUWlqOFNoeWdyS1JXRzd5WnRrOThWdUtmQm95Y3RNYmdkcnN4bjhsRGN5NS16TTNJXzFqSVNEUW9KaGd2VGY1Uk9sNDlKR05HRjFMUDU1Y0Z5Q2Q0Vkxxb01ZS0tnWnhZb2xWQzZwZGZVU3M?oc=5",
-      "source": "01net",
-      "published": "2026-11-09T18:00:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "730323ba6c06bee9681a10",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T18:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675"
-    },
-    {
-      "id": "6e711ee81d8445b2aa43e7",
-      "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-      "summary": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-      "source": "The Guardian",
-      "published": "2026-11-09T17:58:05Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c50e979afe9d631a3703b2f2066bb718"
-    },
-    {
-      "id": "7ed9861eac74cb8aa942cb",
-      "title": "Enel, Leonardo sign cooperation deal on energy, satellite services",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0paY1NBclVneVpRLTduYU13b0YwM0dPU0dTUXpkbXlXclhRanF1THV3aXF2NDY2QjdkZXpiSUk0eFZZOFR6MlB0U1RTc3FNN0ZwTGhmdDJPaUlTVnRybmNzZU9SakQ5QXpIaVJmY0NmM09SampjUUpzSHlrZktpM242UFJyTWFBZ2JRSk5kNnR2Qzk1dlh4bA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-09T17:53:26Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e83fc6b92eeb32b3d1f76d",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JYzJpMU5XNkxqWkxuOWliQ0RSQ1lScFBfUGFaTGZWUXZQUkNEcFJNWi1henAyYXVhVG43N3NFVE9JZF80XzZnWXRRT21lazZRa2c?oc=5",
-      "source": "Meta AI",
-      "published": "2026-11-09T17:51:27Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "563627d5634d0b2195786c",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-09T17:47:29Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg"
-    },
-    {
-      "id": "fc3b6778ad8dc7ac595d8a",
-      "title": "KKR profit hits record as asset sales, fees surge",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGJERDZQdGJXcFdkR2RlbTFiVFZMMWRZUV9rQlFSNVRUaU03dnphT0ZmZkxOSTdDU19BZm9GNVdEOUpodGhPelVYel80b3E2WUFNdmJkOGZNZ0hJeXo2Q3hDbi1EbEZGWUlxcUc5Q0cwcTFxSmc2b1diZWU3eGpDUFo0MGF0UGpKS19FZWFpSnhPUmFpLWtBOTU2Tlp1ZjEzcWNF?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-09T17:46:05Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d58ac38d6374fdb4a0af8e",
-      "title": "Vivid Seats Outlines $200 Million Debt Cut as Third-Quarter Revenue Falls",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tVUQ0ZWtVdzBaMDlwOWc1TzF0cFVHQy0wckwwV253RUwwTjAzbUtxdlBzQUVqOExoRG5pWUxsZ3RRbUFUM2pUSGZyS0x6S09SRjVaVlVqaV9lMkItV2RDRmFkN09ySm9KQWdWRXB0amNHTW52OFEtNVh0TG1PWDQ?oc=5",
-      "source": "TicketNews",
-      "published": "2026-11-09T17:43:54Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bf7a980e6e9ecbcd670c40",
-      "title": "Compliance for US-Mexico Cross-Border B2B Payment Gateways",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1BwaTNhMEFlekdkdkV5WWI5NVlxYlp1bVdSSlEwNk84Y1JHbTVacWRpMkM5WEItR2Y4UU5BY0xIOW9LcDFhZXp0R1FDaGs5TlpBd0tGcXNDWThrVVdYSkcwT3ljMlBIRGxsTUZ0ZGppVEJma2VGeWM4aW44WjhEV3h2NVIwdlNIOEtWUUFtQ0ZWVDBRZXI0MDNMLXcyWGRlTC05U2hRaXhDLUVw?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-09T17:42:11Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "be7e6ed75d5b754a7bdf35",
-      "title": "Volkswagen to cut 100,000 jobs by end of decade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhfNlpDanlJVVFiX2FlOWotdUFRNUdVQmk3eWlGbWRzeDNLNlBKSUdtNkphMHEtUk1nTkN2RWxRbVVtWjJaMWJfV0ZFS2dNVVRCVjlTUGkycUNvdWtTUTlYS3BqV3JtQk5DYTE2TU1sdF95WEEzd0FmUVNvT2ZDeFpfcC1Ldw?oc=5",
-      "source": "Deutsche Welle",
-      "published": "2026-11-09T17:40:41Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fe4df8a5c5891042b9a9b4",
-      "title": "James Gunn is out as DC movie leader",
-      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to produce on various DC projects\" [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "source": "The Verge",
-      "published": "2026-11-09T17:39:57Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
