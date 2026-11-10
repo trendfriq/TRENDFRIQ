@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-10T00:09:24.546991Z",
+  "last_updated": "2026-11-10T01:27:17.286644Z",
   "articles": [
+    {
+      "id": "8a35af252b32001f777c64",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T01:27:12Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024"
+    },
+    {
+      "id": "4a9293f6fb1874436e243f",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-10T01:22:10Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "7dae432e3b54d4c45f0f0b",
+      "title": "Vietnam’s Path To Innovative, Equitable Growth Requires Youth Enterprise Creation - Analysis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUFRvZ0E2bWpDQ0JzX3EzREZzcE5WNUNLc2htcmF0ajRpaklCbzIxTTJXcHVnNGxFbFRRS3d6eXYyaTkyVlJCZnFFZ1dJb0lHRWdzaTZYanRmaFVvamVCcHFqU1VWWFh2Ml9ZeElGY3VVb3diN1hjOWtBZkpYd0RXc3F3RzFFSHRncWpuVGFrdHJKNVZZR1BGX0ZacFBYRy1nUTJocDE2T3E3VDNHUklwT1BXNF9aVkV2ekZBdnJwYU00ZjVTM3RV?oc=5",
+      "source": "Eurasia Review",
+      "published": "2026-11-10T01:10:46Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "39bb68c8a0b5a7b15bb06d",
+      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+      "summary": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans Get our breaking news email , free app or daily news podcast A teenager who admitted to planning a terrorist attack in Sydney in 2024 has told the court he was radicalised online after first seeing e",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-10T01:09:19Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/560f38c53c59131a19338207e679804b1d3aa8c0/956_0_4778_3823/master/4778.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5501f777152d4e497f7c2bb3c9bfdab"
+    },
+    {
+      "id": "05e31abb81030e94daf9e1",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "published": "2026-11-10T00:28:49Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0f26924635fdd4502dd4b6",
+      "title": "Machine Learning and Dynamic Econometrics Uncover Asia-Pacific Food System Vulnerabilities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdm1mdnlqVHRLMlpJdDAtX2FoRnF4S29QWEI4R1U1Z3JNNWNCbS1keVN6M2xUd3JGZVVmRDhQV0hMZG15cC0zWFVIbVlndUhhRW1BUEpqLW5KNDR4RWM3bGF3d0hxTXRNR2NtdTc3SzNoUkNfcHFRNm5SUlZjVVlVUmVsclUxdThiNGRCYVVLblhPZE80QTR2bXBmNWxJRThqNUl4b2xwS2pMT2dfaWpBSmNoTjRrQQ?oc=5",
+      "source": "Bioengineer.org",
+      "published": "2026-11-10T00:14:22Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6ee79d0416da88e1898e87",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T00:14:03Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "d3212160414aac1d2d3bc5",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T00:09:49Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
+    },
     {
       "id": "1e3134246689c8371fea56",
       "title": "Leveraging the Vietnam-Israel Free Trade Agreement: Businesses have the opportunity to master technology.",
@@ -14,18 +110,6 @@
       "image": ""
     },
     {
-      "id": "4a9293f6fb1874436e243f",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-09T23:59:50Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "id": "91c63a5a025e6d3e753de6",
       "title": "Burnham heads to Europe as his EU plan reignites Brexit divisions",
       "summary": "",
@@ -34,6 +118,30 @@
       "published": "2026-11-09T23:59:36Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7ae181483f4bc95d4ca2c3",
+      "title": "Skydance details cost cuts, sets streaming bundle for early next year",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmMyY3U4ZHpzVFlybTRoZmg1SDk3M2hsMllXb1JsNkJfVUJleHVqYUFrZlY5YUZJd1FKMXhkMGtQOXRFU3dJYTZEMldzTHdWRFJ1YUtURmxYUVZIWmtwaDg3OEpzTEw2TzB3d0Rha21lUGE4dFFwRWN3cWt5X1FQbzBRMDlNWVNtNHQzLVlZMmIwZm9nMkRJdFowb3ZqdzNENFZEV19JeG95eUNDZXMwRGliS05UTVkwOTF5RQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-09T23:56:16Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "37370447a6385832be2aa7",
+      "title": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdtWGFXYzA5TGJzSTFHS29vS0IzZXptRDExQ3dNX2Z0TGttU1hESE1KN0RVX2hvTC0tRXJiUGpBM1RLTlJWTmJfdTU4bFBadU1zdDQycjZzaTdjc01lMjJ0VVE4MWpuWnV2ZGFnVEZ2MXdsY3FHczRQNGMxLW5FWG9ibHJQZ3p3YWpyN3doNFpFM0pCSFVHNG5tNWVHNUFRdkRDMHhHbDFSeVBHLUJfQmJ2aTk1cWU0VmtEUHpHX1Y?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-09T23:54:18Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -148,7 +256,7 @@
     {
       "id": "cbe54f11b05c0e59be5a05",
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "summary": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch",
       "published": "2026-11-09T23:28:37Z",
@@ -156,6 +264,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+    },
+    {
+      "id": "065c1bf4838f6705406b86",
+      "title": "AlTi Global Q3 Earnings Call Highlights",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHJ1RWxCSWxEWnNQVTVsNFYtSDlmVmY5OUpmZ2JReFVwazJvQ0VvWWlVMk1Jd0owY2F0Q0RPOVJMZ2ptVnNZWDhXMm9zV2dMV012aU9zanpVMG81NFhHMkVIV1N5aFFfRldMUHFUUVNUSnFSYXdUWXhhdFhBYWxNUnFCMGd0R0o4d1FaeEUybFJpcXhvN3R4ZQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-09T23:14:25Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "38ea5b66d259522356b1fd",
@@ -290,6 +410,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F5a%2F249abfba43bea5b714f1d6e355d2%2Fgettyimages-2299339600.jpg"
     },
     {
+      "id": "99bbd4c65dc35d02506b58",
+      "title": "Did Mixed Earnings And Dividend Affirmation Just Shift Somnigroup International (SGI) Investment Narrative?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOelJTOUZhNWFIMjE3dTZWdUdGYnBEd3l2ODU5bU5PYmZZRUN6enBxQnJrUGFNVUxIMjlzdzhxN0lfSUM5QjRRaHhxSHhGU3B0Zm1FeEJUQURKM08wbDFHUHVWdXZvRTd0WF9VUUpQSHIyalo2dFZSbnF5OVVhTW44XzJNNTliREFndDVPM09Dd3BHMTYxU2FoTkg3ODZxZVJiZUwxeG5TcVQ5bm5yem5BMkdsSTJ1cjk4WjlqbjIweVlWbEkwS3RVMGNZWXZnNFBMRk94LXNFU0RfckNSNUVJVWUtY9IB6AFBVV95cUxOZ1RfVTc1NjUtV1htRFhfQl9FMXBWVXpVRzBDaEViM0ZRSXgwdTZSM0VoSHB5SlcyNEEwQ1lJRUgySVM4bDVpUk1SVVVmQTg0TnZRelppZENzNHMwNWxlNThzQm0wOTB5TzJuWUJiR2ZEUFBYa1BoNkwyekNGT1hhNXBVOGtCMUlXV25FSnY4cUY5cGFFQVlXdER2RGZXQUYtRHotejR1djZhbko4VlhNRS03TjE1Z0VIMGxPVWRmMjRfQUQyOEs5cGF3NEljZ1V3MGtCVVpYNlp4bFpFcjBUTVoyS2dVU2NC?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-09T22:29:07Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "3baee4176b6d2795b4266c",
       "title": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
       "summary": "Ethiopia's health care system was once considered a model in the region. But in the northern Tigray region, ongoing conflict has left health facilities and medical workers vulnerable to attacks.",
@@ -300,18 +432,6 @@
       "topic": "NPR",
       "country": "",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "37370447a6385832be2aa7",
-      "title": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdtWGFXYzA5TGJzSTFHS29vS0IzZXptRDExQ3dNX2Z0TGttU1hESE1KN0RVX2hvTC0tRXJiUGpBM1RLTlJWTmJfdTU4bFBadU1zdDQycjZzaTdjc01lMjJ0VVE4MWpuWnV2ZGFnVEZ2MXdsY3FHczRQNGMxLW5FWG9ibHJQZ3p3YWpyN3doNFpFM0pCSFVHNG5tNWVHNUFRdkRDMHhHbDFSeVBHLUJfQmJ2aTk1cWU0VmtEUHpHX1Y?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-09T22:24:18Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
     },
     {
       "id": "38b3fce4c5431b80a163b7",
@@ -408,18 +528,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "id": "7ae181483f4bc95d4ca2c3",
-      "title": "Skydance details cost cuts, sets streaming bundle for early next year",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmMyY3U4ZHpzVFlybTRoZmg1SDk3M2hsMllXb1JsNkJfVUJleHVqYUFrZlY5YUZJd1FKMXhkMGtQOXRFU3dJYTZEMldzTHdWRFJ1YUtURmxYUVZIWmtwaDg3OEpzTEw2TzB3d0Rha21lUGE4dFFwRWN3cWt5X1FQbzBRMDlNWVNtNHQzLVlZMmIwZm9nMkRJdFowb3ZqdzNENFZEV19JeG95eUNDZXMwRGliS05UTVkwOTF5RQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-09T21:45:45Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
     },
     {
       "id": "f633d703e51c3f56efa9c3",
@@ -758,6 +866,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
     },
     {
+      "id": "d8e43a5e250ecc7b5d1ee3",
+      "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kV0hmUlQ5ZmVNeHlqenhEUXVEaUlOV19hbkRfSGVQd1FfYjVNMDJ1X19RdzdoMTBfandLbnI1SklMTFU0MWlzOTZCZ0RvaFdXX2dCb0JxLS1XNXpEUXJoeWdPOXQ3U1lmZVBYVHUyVVRmM3U2RnFxNjY1c202VVk?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-09T20:18:47Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fc6d536179e6162c05e00b",
       "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
       "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
@@ -886,6 +1006,18 @@
       "published": "2026-11-09T19:36:00Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7c0957186612d23cd1999b",
+      "title": "US Companies At DMCC Reach 740 As UAE Trade Hits $39.1B",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVJMYVlpd3JmejFCcXkzdXRlTThsLXF5X25WYlVoZnRiMlVfdVFOdW9RN1VBSlFXQ1JGM2k0dVluUTJ5NUVUWWFYUU9ZR2tBcFZTR2xwa1J2X1hrMmlDRnR2dlItLTJ3QkRhTFhhNGlCaEZjamNVQzM4cVBFVlVzWkJSdVN0QTN3eUZQYWFJcXY2LUtKbWNRTWFvNXNadWYzWkNvQ01PMlo2S0k1TGJpem12TndKRUpZ?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-09T19:35:20Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1308,138 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "37d08c62e4d2056c16b5dd",
-      "title": "Investors are losing confidence in the European economy — Sentix",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2pKT295QXRGaDQ2bi1VVkVfN1E5S09mcnhPdEgyWExnTTRZU2xFODg0dFVYOWQtNFkxMnVRVFRvVS1RSkE5VFpNaGRYQjFTaHkxTXVzNUltb29KSC1PUnl3MTQtU3pJRnUyN0hkMGVLMDdzeFJtM00tWm9qbmNoWDZENjZWQQ?oc=5",
-      "source": "UkrMedia News",
-      "published": "2026-11-09T17:37:03Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3a3ea27b30526f5b6846e8",
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "source": "The Verge",
-      "published": "2026-11-09T17:36:08Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "f106218bead1e9dc628bcd",
-      "title": "Lazard Appoints Jessel Sheth As Managing Director Of Technology Advisory To Expand European Software M&A Practice",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRXlHajFXU3RNdG5pZV9zQ1FOTHFPZkMzS3d4NzQtaGg1cUxSUFFjaVp1ZXduSTA2b1Q0eW9iSFRYMzJMMmdtTVVKV2RueS1VWWNuMV9PMVZHeUhrOXlOR3g3MTFLbjc2c284OW9fVzZpd0tGblhncFliN2ZDeTJLb003NzBXNW9KelV2bDczbVNQSHZSU3JoTzRfdDdYVDc1eWpuZEZJS3gwWGhRNFV6cExBNWg5V1h5R2JDSnlnTXdLVXBEMDBOclpZOG4?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-11-09T17:32:32Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ef0c65769163bfe57622c9",
-      "title": "Progress Achieved, Promise Unfulfilled: Eradicating Poverty And Empowering People In Asia And The Pacific - OpEd",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY1hycHFDUHE3Z0lZdXpnVzFDOTdHYmdwaGJMbEFMUUxFX0RmMEhSQk9sN0ZIbnhNQmF1RVVaNWNiX19zUEc1WE9JUjVvaE95djlOS1h6RzhMa3kxckZkRl9Gbjgyb09QQS1Ka1hORHhrd2dzbW1tOWd5OC11aldXbHVsbHZSRDhnZ3VjT0U4bzEtVUlzakZoenJIZ2VpNlkxTi1JRjdiUGE2dG5sdlhUVkt3YUZDclpXUDBzLXNBNmRBeWd0S3dzWm85T1NYa0c1U1RTSGxOc0RmakFodDc0OVZn?oc=5",
-      "source": "Eurasia Review",
-      "published": "2026-11-09T17:22:35Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4b0acf352237b903c586f1",
-      "title": "Global Experience Specialists Announces Acquisition of CSG Creative from National Trade Productions, Inc.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFVCOHhJc2RYRlN2SG1JS0FjSzdFVy0wSHVsanpzR2JsZzV4V3ZkSlgxb2ZvTnotenc1RG1HTndJMWtyZkgwNXRpSEo5WWNUdlc3Mm1qc0xwTnVad0lpNHhsaXVjRDJFdEZKcUJ2T3kzU0ltUDZFMzVIal9BTGJGckhnN0gxUk8yTGhDLTQ5SWRvUy1Rc0J0anhHSld2a0tLbTVUYWdiby1EajVjbHdsMFpDLVk2WDY1QkxKVVU0dG5qVTFubFBCRnA5NVYxYmYzM1B2RDEzdll1T3I1WjZHbw?oc=5",
-      "source": "Prestige Events Magazine",
-      "published": "2026-11-09T17:21:34Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "58833b53bae1d04abee644",
-      "title": "Earnings call transcript: Kodiak Gas Services tops revenue estimates in Q3 2026 By Investing.com",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGhPd2JST0ttT1Y0TTN3bV9sRDFfZDVLN2ZQR2ZIVGZBR2dvejlub0FISG1zWkczQm1EQ1RLZTBYaVhJUGVod0NqOVo1T2J3V0lOV2R5OU5RdHlRQ3NDWENIMFNBS1dTSWlhdlAxU0l5bThwRzlaV3dRdUhKSlFXZ1d6eEV0aWpRaUk1SkQ0akExSG1jXzVDM1ktOXlyUGZlZ3JQaVNRNW1GVm1VMnB2UjJlajFTY2N4bkM0VUNjVnRqSmJOdm43RGFGeUtJb0RlYXIwNW93?oc=5",
-      "source": "Investing.com India",
-      "published": "2026-11-09T17:19:28Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f8bfc7b336efb5c03adb1b",
-      "title": "Earnings call transcript: Kodiak Gas Services tops revenue estimates in Q3 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc2k0TVZFLVA0M19hMnhDM2FNcWJ1cmVqQTltbXg2YWw3VERJalQ4Y092MGlzSnRvVEZkOW1qaGhDOFpiam9QQUVtSlFGQzdEOHBrY19INFlGeUZYMFBERDlReHJfYk1aVWpaNWdQTkFwLXZCRldZZmV0NkZTUWw2NmNzUF9VNW93ZHdkMEExNGlxWkJYQ0pKeW9rMHhnVFpBNVNhMVhCc1ZwOUNrMENLS0NJNTZERGJUejlJdURWZVhHSHQxcGM0TDVMamEwX0k?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-09T17:18:09Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "31cf92d75ae2e5de941b48",
-      "title": "Civil servant who secretly held five jobs found guilty of fraud",
-      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-09T17:17:16Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg"
-    },
-    {
-      "id": "69790517d59f25934c7c50",
-      "title": "Banxico Maintains Cautious Stance Amid Persistent Inflation Risks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0VwQ09BWDloaEpQOFl2UjYyc24zT1RqUHFUdnFFdmNuNU5XLURTX1pDcENyUVRxSklaUGxsZ2RRZEg1ZTZaSk9vWHBCQmtNTHFveXV6ZkplemZNdkNlUlJ2MW1FV3NNdWphX3JadzkwQ3drREM1QUpNSnNKRUNEaExiTUtXUW90RGpBekozcjZqNVRnMFJtNU5DaVdHUVN6VkJWc3hWUExSZw?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-09T17:15:06Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6b2d19d25ac8825ff9b4df",
-      "title": "Week Ahead: U.S. inflation, UK GDP and AI trade take centre stage",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXZhX3FKMXB1RUkxZmNjcGZ3X3dTaC1qV3lXT284NVFKWHhSQTJVd2E1NGpRZkt3UHkwMUR0eHYzNi00bE1BUHNCZ0M4WkdILUVpeElSMG9iZ09paVQzNGdYNF9uSEJQVjAtRzF0U0NLci15TTBWXy12QTZEOE52Q25FM0lUREhPbmFnalJMdjU5Y2Nl?oc=5",
-      "source": "www.tmgm.com",
-      "published": "2026-11-09T17:07:34Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4a6aece1109d26349b68c7",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-09T17:06:18Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
     }
   ],
   "countries": [
