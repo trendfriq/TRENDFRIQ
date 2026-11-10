@@ -1,5 +1,53 @@
 [
   {
+    "id": "d0e1cc1440dbbaefd8b632",
+    "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-10T20:53:33Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+  },
+  {
+    "id": "636bec9b1738d1053c35ef",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T20:52:13Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
+  },
+  {
+    "id": "fb396cc9ce5546d1b3f4cc",
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T20:47:05Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675"
+  },
+  {
+    "id": "a74ea9bf7a9e749bfa1c77",
+    "title": "X-energy gets green light to build its first small modular nuclear reactors",
+    "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T20:43:55Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
+  },
+  {
     "id": "9435eb24521189adedd5f0",
     "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
     "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
@@ -58,6 +106,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "43b41d6003dac1cbf84242",
+    "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+    "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+    "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-10T19:26:42Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png"
   },
   {
     "id": "1f23ddb43e5f7ed1bc5ad3",
@@ -240,6 +300,18 @@
     "image": ""
   },
   {
+    "id": "6dd43c8324543e897ebe07",
+    "title": "Arrests made after visit from former US President Biden",
+    "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+    "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-10T18:07:56Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce84/live/f1e32540-dd30-11f1-ab46-9fae224bbf6f.jpg"
+  },
+  {
     "id": "207a4fa17cf57c0712f3b6",
     "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
     "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
@@ -274,6 +346,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0579/live/42e0a7e0-dd1f-11f1-8806-aded7f09be16.jpg"
+  },
+  {
+    "id": "6c8b57704a0d8bcdb831ad",
+    "title": "Ruger profits nearly quadruple as gun sales surge in third q...",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDk0V2Y0aEJkSWotN0xMSmZ1YS0td1ZvWFlaaHU4UXBvNEJ3UVFfQ202U2JsaWszMldhNXUwZmdQeEZGUFVRLUxQRS13LTZWSWlSQk83NDJEeEdqVXJYMXBvckctTWhibmdhaGhMYzIzNXNsTklsRkhZSjhDUXctcGdZdzM5S2xWNU9fNF8wVEhMM2JJdk9BWUQ5Q2t2T0NYYVNyLWxQY0JMaEp6dEJqZV9JMm5MTVVIbk1vMV9IWQ?oc=5",
+    "source": "New Hampshire Union Leader",
+    "published": "2026-11-10T17:52:08Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "c072534746f8c33f936eba",
@@ -1092,6 +1176,18 @@
     "image": ""
   },
   {
+    "id": "f7432f0fa4119b8016f36d",
+    "title": "Top 4% of Shanghai-listed companies generate 75% of net profit; tech sector's market-cap weight rises to 25% in a year",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45REJLTFkzQnBsVkJzVXMtclFtTVVWeENHWXhHNjZYTTE0cHVMSHNpc2FNUlRvVUZpUjBYNHRzSWtWR0xJTlVEdFJVZVRuWWF3OHZpQVZJMUlESlNIWXQ2UFZtUmRBaC1Ic2FCSEhCQXZMZG1acmc?oc=5",
+    "source": "BigGo Finance",
+    "published": "2026-11-10T14:25:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "64ebcedda39e273a7e04c2",
     "title": "Are you shaping the future of Africa’s blue economy? Apply to pitch at BlueInvest Africa 2027!",
     "summary": "",
@@ -1148,6 +1244,18 @@
     "published": "2026-11-10T14:08:39Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6dbec69943c42b3bcaf8a8",
+    "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFZjWWw0VnVYbkxxbmc1QV9GT0dwc18xTkpsazFqMFpZcmNqQU1CRnE1QXFQQ3FfZ3FxM0hQcVFCN0JCVEQ0RGlMOTRMZ2hEbWxlVVBvbUVDdEkwdmhSVzRZZ0lpcTJiVldoM3l5OERFand5dlkzdHFtbzNDc3FsUnpxX3NRNjJxcGRXMnRnTWotcmdGcEp4azU4UlRGNld1M21EUTlXRVc3cDRaTUI4NlI1NmJrYkE?oc=5",
+    "source": "Carroll County Mirror-Democrat",
+    "published": "2026-11-10T14:07:15Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -1604,6 +1712,18 @@
     "published": "2026-11-10T13:07:00Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "dc428c59d08cffe39845c7",
+    "title": "Uzbekistan's Artificial Intelligence strategy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUGlEWjBrU3JWbjBlMUJGSjFTZlhBalhSbHVyaHA1X0xKZVZtT0x3TUhqNmhjZGZFSU9MeWNfd1ZmN211VDFSOURrWWMwM2dLMUZaU0FlUmI4bHRUSE5wNFo2M3d1N1VwOVpYWXh0TnJkYUNFTDd2NXpUWFowQTdaVw?oc=5",
+    "source": "Meer | English edition",
+    "published": "2026-11-10T13:05:21Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -3802,6 +3922,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccb28f9290e11ea30cb0ad477bddcbab"
+  },
+  {
+    "id": "47a3d47a68c32f5ecd828d",
+    "title": "One step closer to full participation in the European economic and monetary union",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3ZfV3R2VnJlYmFOYnhFb1ZWMEpaSndlTHBXYjYyVm5UUW4xQkhjM1NnU2wtNDU3LXBQcktQNjFHelg1am9BcEI3cnZFdTBBdEJRa2IwRjY2bVo2U2FUQUhHX0JKR1ljWHBLTm1sVGN1bkpCV2hXelVZM1N1cTRVY1RiWWM3STVQRjNlNDlZbWtva0xYdjFSNVBuM21qY0FNMGE3QlNVWkpIUVk?oc=5",
+    "source": "Mina News",
+    "published": "2026-11-10T01:38:46Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "d633f53f3b2344e9414d21",

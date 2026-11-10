@@ -1,13 +1,61 @@
 {
-  "last_updated": "2026-11-10T20:12:16.686800Z",
+  "last_updated": "2026-11-10T21:04:35.863203Z",
   "articles": [
+    {
+      "id": "d0e1cc1440dbbaefd8b632",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T20:53:33Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+    },
+    {
+      "id": "636bec9b1738d1053c35ef",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:52:13Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
+    },
+    {
+      "id": "fb396cc9ce5546d1b3f4cc",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:47:05Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675"
+    },
+    {
+      "id": "a74ea9bf7a9e749bfa1c77",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:43:55Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
+    },
     {
       "id": "9435eb24521189adedd5f0",
       "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
       "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "published": "2026-11-10T20:03:41Z",
+      "published": "2026-11-10T20:40:13Z",
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
@@ -52,7 +100,7 @@
     {
       "id": "18bbaebc5689f4c97e5c02",
       "title": "The PlayStation Plus PC app is shutting down next month",
-      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, there aren't many people using that perk: \"With a very small number of eligible PlayStation Plus [&#8230;]",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus [&#8230;]",
       "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
       "source": "The Verge",
       "published": "2026-11-10T19:40:52Z",
@@ -68,10 +116,22 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
       "source": "Federal Reserve Bank of Dallas",
       "published": "2026-11-10T19:30:00Z",
-      "category": "World",
-      "topic": "Middle East",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "43b41d6003dac1cbf84242",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T19:26:42Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png"
     },
     {
       "id": "1f23ddb43e5f7ed1bc5ad3",
@@ -266,6 +326,18 @@
       "image": ""
     },
     {
+      "id": "6dd43c8324543e897ebe07",
+      "title": "Arrests made after visit from former US President Biden",
+      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T18:07:56Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce84/live/f1e32540-dd30-11f1-ab46-9fae224bbf6f.jpg"
+    },
+    {
       "id": "207a4fa17cf57c0712f3b6",
       "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
       "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
@@ -312,6 +384,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "6c8b57704a0d8bcdb831ad",
+      "title": "Ruger profits nearly quadruple as gun sales surge in third q...",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDk0V2Y0aEJkSWotN0xMSmZ1YS0td1ZvWFlaaHU4UXBvNEJ3UVFfQ202U2JsaWszMldhNXUwZmdQeEZGUFVRLUxQRS13LTZWSWlSQk83NDJEeEdqVXJYMXBvckctTWhibmdhaGhMYzIzNXNsTklsRkhZSjhDUXctcGdZdzM5S2xWNU9fNF8wVEhMM2JJdk9BWUQ5Q2t2T0NYYVNyLWxQY0JMaEp6dEJqZV9JMm5MTVVIbk1vMV9IWQ?oc=5",
+      "source": "New Hampshire Union Leader",
+      "published": "2026-11-10T17:52:08Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c072534746f8c33f936eba",
@@ -1226,6 +1310,18 @@
       "image": ""
     },
     {
+      "id": "f7432f0fa4119b8016f36d",
+      "title": "Top 4% of Shanghai-listed companies generate 75% of net profit; tech sector's market-cap weight rises to 25% in a year",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45REJLTFkzQnBsVkJzVXMtclFtTVVWeENHWXhHNjZYTTE0cHVMSHNpc2FNUlRvVUZpUjBYNHRzSWtWR0xJTlVEdFJVZVRuWWF3OHZpQVZJMUlESlNIWXQ2UFZtUmRBaC1Ic2FCSEhCQXZMZG1acmc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-10T14:25:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "64ebcedda39e273a7e04c2",
       "title": "Are you shaping the future of Africa’s blue economy? Apply to pitch at BlueInvest Africa 2027!",
       "summary": "",
@@ -1270,6 +1366,18 @@
       "published": "2026-11-10T14:10:25Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6dbec69943c42b3bcaf8a8",
+      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFZjWWw0VnVYbkxxbmc1QV9GT0dwc18xTkpsazFqMFpZcmNqQU1CRnE1QXFQQ3FfZ3FxM0hQcVFCN0JCVEQ0RGlMOTRMZ2hEbWxlVVBvbUVDdEkwdmhSVzRZZ0lpcTJiVldoM3l5OERFand5dlkzdHFtbzNDc3FsUnpxX3NRNjJxcGRXMnRnTWotcmdGcEp4azU4UlRGNld1M21EUTlXRVc3cDRaTUI4NlI1NmJrYkE?oc=5",
+      "source": "Carroll County Mirror-Democrat",
+      "published": "2026-11-10T14:07:15Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -1332,114 +1440,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "1a56c99530ddc4c22fe174",
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:01:39Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
-    },
-    {
-      "id": "701a9c14f2b820a10b0efd",
-      "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-      "summary": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
-      "url": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-      "source": "NPR",
-      "published": "2026-11-10T14:01:14Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5f986ad1b60374152bf121",
-      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
-      "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
-      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aura_Ink_10_3.jpg?resize=1200,800"
-    },
-    {
-      "id": "3739b5b6833681c55fbe66",
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/kora-os.jpg?resize=1200,800"
-    },
-    {
-      "id": "90450c1293322385f7d9df",
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Spotify-AI-DJ-Header.jpg?w=978"
-    },
-    {
-      "id": "ad57baf75d8141bb5d523f",
-      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-      "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated from the original 13-inch model with a black frame [&#8230;]",
-      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aura1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b511cf60af40bbc491199c",
-      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-      "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for as little as $425. Today, you're looking at $599.95 for the same [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Peak-Design-Roller-Lite-003.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "499cff9552f92642d8da10",
-      "title": "Adobe is going all in on agentic AI",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "e313ab2892aad27b24def4",
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongsi",
-      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
