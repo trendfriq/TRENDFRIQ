@@ -1,17 +1,65 @@
 {
-  "last_updated": "2026-11-10T09:39:47.761941Z",
+  "last_updated": "2026-11-10T10:40:38.071175Z",
   "articles": [
     {
-      "id": "a7c23ef9b2f39151437d28",
-      "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
-      "summary": "Rolling coverage of the latest economic and financial news Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? A senior US central banker is calling for a hike in in",
-      "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-10T09:38:14Z",
-      "category": "Economy",
-      "topic": "The Guardian",
+      "id": "7f52167f7e4be03d13a667",
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T10:24:20Z",
+      "category": "World",
+      "topic": "BBC News",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/e7e96df8f5f01404a954de7c961255c32a52ab7e/174_0_4043_3234/master/4043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a8af5fac3e1cfa812aeedef1ec12a77a"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ad/live/f127bff0-dced-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "5780152184a30ea0fde78b",
+      "title": "【Fujifilm FY2026 Q2 Earnings Call】Japan's Fujifilm Posts 10.9% Operating Profit Decline for April-September, but July-September Sets Record; Full-Year Revenue Guidance Raised by ¥30 Billion, Bio CDMO Recovery Viewed Caut",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZVDM1dDlTckVsRFIyWUVaQnlLRkJBcDNFOEVqOHgxdHZBUkdwc3I0Z2gzLVZuRTEyd0hpNklWTWh2WDVfeXpYY0pBVy13akkyUENNOTRsbGdqTS13c1JadQ?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-11-10T10:24:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0432bcc9c0ce61c646c858",
+      "title": "Opening 'bridges' to bring Vietnam into the global semiconductor chain - Part 2: Building endogenous capacity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzlNeXFjTDNOQkZlYjZ1ay04TkVWdVlxRFlmYWxlTS1fOHgwaklPWUFHNGZFSTNlczVZbFZXdkwySmJ4V3ZvTWtud3ZOMElSeFR4c1NEdEVrMUlQaTFxdll5MlNkczc5TXBDNDEzUTZUUVpVYlRRZW9rbGZqWjI5U3hsVllJVVczUTU3SlptcllsWUtRLW40b0VhOVRTa0NMOFJXWGtLeWotUDBzLUgxbVljV3ZNeHc?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-10T10:01:48Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9c52ee2c8a4611a2a930c6",
+      "title": "Chinese Exports Soar in October, as Trade Surplus Tops $1 Trillion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbkFycnI0dkRKR3dXa290YUVWX0cwMktBcjFCUWtmdU1GblRnSjNqSFQ1UGR1ekpOVEN0NWJYcmZQSkM0U2h4OFVzaHdoc1hSVlZsbXl5X0hyLWEwc1VNVmliQUx2enRnbzdfNWhaTWl6cnE5Vms5bXhOb0wxeHI1YlA4TzRKU3g2cjRDaUExZkpITHozQ21JTmdB?oc=5",
+      "source": "Asia Financial",
+      "published": "2026-11-10T10:01:31Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fccd1a446313a6748b9332",
+      "title": "Anthropic launches Claude 5.2 models amid $1.3 trillion IPO push",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnZ3NmpxdlNUcmpRdVNBMDBOSW5SdENNODBOOWRoc0Y5VE45TElpc2Z3LUE5RVdkWHI1X1FoWmhaRUFVMkh2d0FIS1lpQkJ5VlBJbUJ1Z1pSVlBreW1CT1ZqU1ZpNEowMDhIUjJ3RGZCakhNVHZiQ21tVXhWaEdlMDVJMkhvUQ?oc=5",
+      "source": "The Avenue Mail",
+      "published": "2026-11-10T09:58:03Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ac4a43aa846ccf44f1d0ca",
@@ -19,23 +67,95 @@
       "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
       "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published": "2026-11-10T09:26:59Z",
+      "published": "2026-11-10T09:57:49Z",
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26a/live/d5c09440-dce7-11f1-a8e1-e3454837ffc6.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png"
     },
     {
-      "id": "7f52167f7e4be03d13a667",
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "id": "7817d8548d859c6068b57b",
+      "title": "The top Canadian cities in 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HenNaTU95YzRnVmlIOFJCYm83Z3BjZGs1NFRsT3MxMWs4bjJDcnJsOUQ0WW95S1BHa3NsU0RLSGphTEpaVG1SclpaeUxiT3ZMdFdVZUtib05NRHlvclAySnR0aW51Y0thUWZpN1llajY4WVhiSFhWSW1SXzNJdw?oc=5",
+      "source": "Oxford Economics",
+      "published": "2026-11-10T09:57:10Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "019ce3cc7eff5dcfdff9d0",
+      "title": "Africa’s economic independence depends on strong laws, say experts",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2trRUFOdU56bFBNUkpBRXRUTUFrcVFQTHRIU1g4cHQ4bkhUWTllZVdlYkdmNXYwNzFsdXRLQ0VDblgta2NkbnhZdFdIMlp5RzhyQjhTU0hJelptZ0MxMDZwMm81dnRpNU9mYnpzS3A5cy1BTEZFVUVDM2hsNVV2cGJKTVhrUm5fbUJ0UW9EbDN0Vmd4Q2JlSmluNUhydlZf0gGgAUFVX3lxTE5La2tFQU51TnpsUE1SSkFFdFRNQWtxUVBMdEhTWDhwdDhuSFRZOWVlV2ViR2Y1djA3MWx1dEtDRUNuWC1rY2RueFl0V0gyWnlHOHJCOFNTSEl6Wm1nQzEwNnAybzV2dGk1T2ZienNLcDlzLUFMRkVVRUMzaGw1VXZwYkpNWGtSbl9tQnRRb0RsM3RWZ3hDYmVKaW41SHJ2Vl8?oc=5",
+      "source": "The Nation Newspaper",
+      "published": "2026-11-10T09:55:07Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a7c23ef9b2f39151437d28",
+      "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
+      "summary": "Rolling coverage of the latest economic and financial news Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? A senior US central banker is calling for a hike in in",
+      "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-10T09:49:02Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e7e96df8f5f01404a954de7c961255c32a52ab7e/174_0_4043_3234/master/4043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a8af5fac3e1cfa812aeedef1ec12a77a"
+    },
+    {
+      "id": "e6503f728b1aa8cb1e3bdb",
+      "title": "Berkshire Hathaway: Q3 Revenue Rises 11% To $105.6 Billion As Net Earnings Reach $22.1 Billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFpTbzZQajNNWUlpNUNwYkZQMEpFYzZyUXZobVdSM295Q01aaFhTdWxkVE13Y0JJdjNJTUQ5aWxqRktZN1RxaVZNYVJ6NWFFb3ozckg3XzdMVHJQRzFrVFVQMk1lVEtpeFREaTBCd09ZeFZDZEh6bzljalA3ZE91Nk9LX29iZjluc01wMWN4Wk85XzFzQ3pYRGE5WURGdF9rYTdCR3hoV0xFOVhrUVo0?oc=5",
+      "source": "Pulse 2.0",
+      "published": "2026-11-10T09:43:26Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2f68b82d21faa9dd529e40",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-10T09:26:20Z",
+      "published": "2026-11-10T09:40:31Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5a/live/18eee9b0-dce8-11f1-a701-fddedf244c16.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "d9748374ccd4b033e15541",
+      "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+      "summary": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks.",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+      "source": "NPR",
+      "published": "2026-11-10T09:38:34Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "0e0a6aae5f719505a5b41f",
+      "title": "Optio and Taurus buy into Europe in specialty expansion push",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXpHWmVWUXdWUEwyUGJLU2hURzZjSXAxX3NXcFAyc0w4bHo5MUNDeXk2eXB2Z0lFdVpuRnN5bkZfU08tZmZ1cmxaVmlNMlpjdjlNZGhHTGtTdS1Ea1h0ZDVhcmE2dUVGT1ZiZGNxdHhzUmxJZTEzWVBrUm5wajd1YlZUV3ZER2EzTDJ2MFk2NU56QTBnSHVxU01LTjJoZzEyMjA5QWlOdE1VSmdoNXNUWl9Ca0NNclBZaVdNcWZzUE5qUGpDX3FEWUk5SXdyeHNTLWZNUw?oc=5",
+      "source": "Insurance Business",
+      "published": "2026-11-10T09:34:23Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "9d5d87a4a4770378b68b3b",
@@ -118,6 +238,18 @@
       "published": "2026-11-10T09:04:00Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1f5b122183e4dfd470e5c9",
+      "title": "Market Movers blog: Nvidia shares sink after investigation into CEO over affair with suspected spy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+      "source": "Investment Week",
+      "published": "2026-11-10T09:00:58Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -398,18 +530,6 @@
       "image": ""
     },
     {
-      "id": "498ee773ddcda7be2c77c7",
-      "title": "Best Up-and-Coming Companies to Invest in for 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VZUg1N0drcHExOGxTdVdsTW1na0ZzVkgtY2FKbkVjMW9hM01yeG12NTBCcDZFQ2ZmblNLM2xiRVJBNlpUUGVzWTVXeEktRG9GYU5ocXlUck5RT19NSG1ZNTZ4TmlVOGVON3pzR1VudVNkZjd2NmF4aHh2c3NGQQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-10T07:14:03Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "07b93d2676fe16d8debb79",
       "title": "Where should investors put their money in the Middle East? Top executives to reveal major opportunities at The Briefing",
       "summary": "",
@@ -418,6 +538,18 @@
       "published": "2026-11-10T07:12:09Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cae61e95deafff64d78bdd",
+      "title": "HowPeopleUse.com: Simplifying the Discovery of Software, AI Tools and Digital Services",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUy1UbHpsQlJCNkdXLTZHWTNXYVVuVVMwclBnWUUyTzNmUFlYTHBTdmNqN0Zkc2NCMkRWdEVTU0k1RkpGT0NhQ1NkZkp5alFUbEtiYy1acWNib2NESVZDWUNjZEpLcGdJQTRwY3FqOGlaT0t0TkNsS0ZQY0Q1QWVaU0FEVEttWGJmeEFVQkpJU2ZfYmdMbEIyck02ZXg3bE12REdwS0pQVkNHTmFNM3c?oc=5",
+      "source": "TechBullion",
+      "published": "2026-11-10T07:10:48Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -525,7 +657,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-10T06:39:27Z",
       "category": "World",
-      "topic": "Europe",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -782,18 +914,6 @@
       "image": ""
     },
     {
-      "id": "2f68b82d21faa9dd529e40",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T05:33:25Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
       "id": "473fb0e4e4709da7302741",
       "title": "Cyprus Business Now: banks, tech, trade corridors, cars, trade deficit, AI",
       "summary": "",
@@ -986,6 +1106,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/bortonia-getty.jpg?resize=1200,1200"
     },
     {
+      "id": "b00b2c02495f1338f2b65c",
+      "title": "Kleiner Perkins Engineering Fellow 2027: Paid Summer Fellowship for Future Software Engineers - Apply By 1 February 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tcjhodTVUOVBvS01DVmsyWk42Z3NwVl8yUWpadVpmQ1NTemFUVnl6WFl4TWcyMm9DREx1WExpelMydTNKRTNzd0FmY3JOZlVCSENJcHNYQWVKM2NtVHlzb3Q1ZUd2OXdtV2VVVg?oc=5",
+      "source": "Global South Opportunities",
+      "published": "2026-11-10T04:26:10Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "4e400991eaf3df2658cc6f",
       "title": "Anthropic launches new Claude Fable 5.2, Mythos models before IPO",
       "summary": "",
@@ -994,18 +1126,6 @@
       "published": "2026-11-10T04:26:07Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b00b2c02495f1338f2b65c",
-      "title": "Kleiner Perkins Engineering Fellow 2027: Paid Summer Fellowship for Future Software Engineers - Apply By 1 February 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tcjhodTVUOVBvS01DVmsyWk42Z3NwVl8yUWpadVpmQ1NTemFUVnl6WFl4TWcyMm9DREx1WExpelMydTNKRTNzd0FmY3JOZlVCSENJcHNYQWVKM2NtVHlzb3Q1ZUd2OXdtV2VVVg?oc=5",
-      "source": "Global South Opportunities",
-      "published": "2026-11-10T04:25:37Z",
-      "category": "Technology",
-      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -1058,18 +1178,6 @@
       "image": ""
     },
     {
-      "id": "0e0a6aae5f719505a5b41f",
-      "title": "Optio and Taurus buy into Europe in specialty expansion push",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXpHWmVWUXdWUEwyUGJLU2hURzZjSXAxX3NXcFAyc0w4bHo5MUNDeXk2eXB2Z0lFdVpuRnN5bkZfU08tZmZ1cmxaVmlNMlpjdjlNZGhHTGtTdS1Ea1h0ZDVhcmE2dUVGT1ZiZGNxdHhzUmxJZTEzWVBrUm5wajd1YlZUV3ZER2EzTDJ2MFk2NU56QTBnSHVxU01LTjJoZzEyMjA5QWlOdE1VSmdoNXNUWl9Ca0NNclBZaVdNcWZzUE5qUGpDX3FEWUk5SXdyeHNTLWZNUw?oc=5",
-      "source": "Insurance Business",
-      "published": "2026-11-10T03:50:41Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "2c10bb4ffde5bc78f35200",
       "title": "China trade surplus soars past $1 trillion as AI boom powers exports",
       "summary": "",
@@ -1102,6 +1210,18 @@
       "published": "2026-11-10T03:41:00Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b16cb32213ee97db09735a",
+      "title": "Top yen forecaster predicts ¥147 per dollar as rate gap narrows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQldMUlBZTXVLRVd4TlZjNjhFeHA2anF3anhIUXNPd29jZTZ0SnIwRDZRRVo1Snpjbkt0ZmFlM0hyTDJSa05xMllja3ZKczlvUjdlRzRoOVBzTGR2ZDhnWXY2RnN0QXJkRGNyZW5WYW1xWGpEd21xTVJjNzdMS2dpWVAtQmcyNDhF?oc=5",
+      "source": "The Japan Times",
+      "published": "2026-11-10T03:41:00Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1320,126 +1440,6 @@
       "topic": "Africa",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "55044fbaa660ef90a0e85c",
-      "title": "Kouchouk Meets Africa Finance Corporation at IMF–World Bank Meetings in Bangkok: Our Priorities Focus on Private Sector Growth and Greater Investment in Egypt’s Economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91SGZFaFhKbU9SaDNvdjNVNms0dVhLOHgzbHJCYmFmN0RhdGlCOHNnQ3g3NHB0UEVaRjNDZF8tTlAtRGc4MFJuWDZEbVhfQ0QtaE1hYlRxc0Foa3dGUFE?oc=5",
-      "source": "mof.gov.eg",
-      "published": "2026-11-10T01:25:06Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "37370447a6385832be2aa7",
-      "title": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdtWGFXYzA5TGJzSTFHS29vS0IzZXptRDExQ3dNX2Z0TGttU1hESE1KN0RVX2hvTC0tRXJiUGpBM1RLTlJWTmJfdTU4bFBadU1zdDQycjZzaTdjc01lMjJ0VVE4MWpuWnV2ZGFnVEZ2MXdsY3FHczRQNGMxLW5FWG9ibHJQZ3p3YWpyN3doNFpFM0pCSFVHNG5tNWVHNUFRdkRDMHhHbDFSeVBHLUJfQmJ2aTk1cWU0VmtEUHpHX1Y?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-10T01:24:19Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fe77e0918e2dc2a7dbdeb4",
-      "title": "PepsiCo to cut some jobs in North America",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnX1BkeGNVVVNTWHM0TElWOFRuemdVc3dESzlZQ0JVUVAwTEdMb2dJWGRBMmlfR25UNmlSSEpYelpXdVBTamRLU3llUThBOHhZ?oc=5",
-      "source": "The Edge Malaysia",
-      "published": "2026-11-10T01:13:13Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7dae432e3b54d4c45f0f0b",
-      "title": "Vietnam’s Path To Innovative, Equitable Growth Requires Youth Enterprise Creation - Analysis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUFRvZ0E2bWpDQ0JzX3EzREZzcE5WNUNLc2htcmF0ajRpaklCbzIxTTJXcHVnNGxFbFRRS3d6eXYyaTkyVlJCZnFFZ1dJb0lHRWdzaTZYanRmaFVvamVCcHFqU1VWWFh2Ml9ZeElGY3VVb3diN1hjOWtBZkpYd0RXc3F3RzFFSHRncWpuVGFrdHJKNVZZR1BGX0ZacFBYRy1nUTJocDE2T3E3VDNHUklwT1BXNF9aVkV2ekZBdnJwYU00ZjVTM3RV?oc=5",
-      "source": "Eurasia Review",
-      "published": "2026-11-10T01:10:46Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "39bb68c8a0b5a7b15bb06d",
-      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
-      "summary": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans Get our breaking news email , free app or daily news podcast A teenager who admitted to planning a terrorist attack in Sydney in 2024 has told the court he was radicalised online after first seeing e",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-10T01:09:19Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/560f38c53c59131a19338207e679804b1d3aa8c0/956_0_4778_3823/master/4778.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5501f777152d4e497f7c2bb3c9bfdab"
-    },
-    {
-      "id": "5bea62b7f69d7323d5320a",
-      "title": "AlTi Global, Inc. (ALTI) Reports Q3 Loss, Lags Revenue Estimates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVVVRUJBeEpFS1Z0cU9oemxvZTdfQ0pUWkxpUndabmVzYVlxYzlQQjlQSHdnQTJNZ0ZJZHN4ZXNYYjBzb0pCT3BHUUlmdjkxbVN2RzIwQ3luWkJGNVh0VVRSQUxGVkNYX0lBbS1FMWloY2szSmtDTlNJSV9WTFN4bFVPREpROC1QY3BwcktYYWRNLTNHMXBVTw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-10T01:05:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bc451772cac8f79e83e249",
-      "title": "WIMAFRICA seeks greater economic power for African women",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWN3eTBZaHlnQjFoLW5mTVcxR0Iydkp2N3Nfekk2RmFEcHYtRmc3WXJVUEkxanFRbGtLd3ZidWROc3FMVjh5Q0NaLWNXN3VObTdQTURJTVhTT3hUQmthNm5qQ2FobGpZbjBTSGRpaHRHYzdGWEh3Q2U4dDZQMnd1Yzk0dUdzdVVrQUxsQWtJNWVUXzdOTE5WRVFZUEpudThKT3pEUjBCRTFiZnZ2aTZvdDllZGJwNGNBcDBmeXpPZGM?oc=5",
-      "source": "Punch Newspapers",
-      "published": "2026-11-10T00:51:10Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "824c2d5d18e236b503a258",
-      "title": "WIMAFRICA seeks greater economic power for African women",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1l3RjB5WnVpWkRncjVhVHlBeFBIMDc4Vk5nMmRBWXlqeU9iZ09NRlFYSmdQTTRpU2RKVmxfMkRiM3JNbG5hTXBhQTJ4dkN2UmpCWE0xTENMWHQtSExHdF9ROTdCRUwwOGxBcVpmdk0wYnBMUU9LZDRKX3V2ZWlvMGFsVFJxV3BX?oc=5",
-      "source": "Punch Newspapers",
-      "published": "2026-11-10T00:51:08Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c26bb81ec0ba6ed0c98888",
-      "title": "DHT Holdings (NYSE:DHT) Posts Wide Q3 Earnings Beat as Revenue and EPS Surpass Consensus",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkg5bUxNZUNROURtWHY0eWJMc2J1eXF3NlZHc2ozdWREZ0RJVUliRVcxOHpBNTZia09WWmlkY1B1SzBTZjRhR2M4aTJOSGpkOXA4aUIwQ051LThDeTc4VFB3bHJULXZ3ZkE3UmxXSkktS3RuOVdjdWRYUU8weXlwSXQ2SkstakpJckctckxYMkZYZnRjSkpmOWJmY1BNcG1ybWdDaF9pSlRDUW5DcXlGNFpvTGtoalktWHpxaUFhRDVnYjQ1Zm9SNGNXSXZpNlI3dXc?oc=5",
-      "source": "ChartMill",
-      "published": "2026-11-10T00:40:14Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "05e31abb81030e94daf9e1",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "source": "The Verge",
-      "published": "2026-11-10T00:28:49Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
