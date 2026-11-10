@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T23:14:23.013418Z",
+  "last_updated": "2026-11-10T23:53:09.378784Z",
   "articles": [
     {
       "id": "9435eb24521189adedd5f0",
@@ -20,6 +20,18 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFhNeHJXVEJmcERILTRKbDBidHcxcGlxcjB1ZnlCZGxDbjVNbXlrVU9zVk1lYXJGbzFxX3VyWENJVkt1MW11SUN0bDRWUDRDNW4xaHRSOHFick5feTlLWDYydG5LSXhiQm9fWlFWY1Zaazl2X0lhOFNzYzVzWFR3QTQ3MkM5RzhkWFZMUHBQa2ctSXU5eTNBeWcxM2drZ2Q0eGo3Vk9KYk81UGFVcHJkcHg5Z3dRSnNRUDdwZjFuYVR3T0ZTZGk0Q1FJbw?oc=5",
       "source": "Investing.com",
       "published": "2026-11-10T22:36:13Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "55f777907fe52362e94d8e",
+      "title": "CCL Industries Announces 2026 Third Quarter Results",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnZVQjhPSUNVb2RwXzFaU0pnVzlsRWxzbmo1Q0Z3STd4dXJNbVNmV2k1dmlSaGJVZm1meVl3OUpOSVQwdVBiX21aM3AwekhsenVxYUxySWdDX2tCVFZsOU9GX3pJOUdzNjhwNmxsOEo4TlR5Ti05cHcwbkhMWHpsMERvVkREX1F4QnNjaTNuS0dmcThuemUtSHFWSkJjNkZGQUpTcDFJWDVEdkNwR2hDcw?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-10T22:30:00Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
@@ -62,8 +74,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
     },
     {
+      "id": "3332b96b90bc40b6f0215d",
+      "title": "CoreWeave Meets Wall Street Expectations, Shares Rise",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXZHb0p5N004NFVNNVA1OU9JSDVseExtMURtc3plQk9pU3o3ZGd1enh3UEtLSHhQMndCQTR5aE4wREd3WUV2am81c1FuMDh1bnl6S0pCYmVPRlVMYWxWRk8zM2x5T2ZWWWktT1ZuV1FzUTZLeHJKaU9adlBVakliRUt4TWRwajJIc2cyV0hfR0F5TG9ucmc?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-10T22:14:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f524603d0673b6a34000a0",
-      "title": "US Rate Outlook Dominates Markets Amid Inflation & AI IPO News",
+      "title": "Trading Day: US rate outlook trumps everything",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0x1NHkyOEliSzQtR3JXM0twS3FFemU0MkVDNGIwUW9tVFlweVpteG5TcXJCbWRzS0FNejFXcFYwdlUzZld6elpMeFBDanRQcWRGUmZmRGplb1U1VUx5MG5QOHltdmZSZm84WlQtY2JGQ2xUZ055U1JHWFlRdkVTeGpMZmxHUlFaNGZUTDZRMA?oc=5",
       "source": "Global Banking & Finance Review",
@@ -146,6 +170,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "ed43813733be08bae74dcc",
+      "title": "CBA first-quarter profit up 8pc on solid business lending growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclZDbjVDSDFJODZ3Yi1Mb09uc05ObjBHZ09VY0pLMkhmZUdUVHFERTE2ZHVFR25iVlh3S1E2d1ZTcllSMkIxWGNMdW1Cckg4Nmo3X2hOTTEyc1BPMjZTbHdHVUMzOXdwV2dsT3Y4ckpiUUpPZlpZNnNEdVhVM1E1eGROM1g5WGwxeC1WU0k1XzRXRE1QNE5UR3Z6OVZUTnVJRTRET1FnMUlzX0VWRWFtYWZaaTNkUXgwVlMxTlBvcXllSWIyQUVlNg?oc=5",
+      "source": "AFR",
+      "published": "2026-11-10T21:38:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "edd41457aad1d190b25c69",
       "title": "Nine-month profit reached $1.1 million at Stran, versus about a $1 million loss a year earlier.",
       "summary": "",
@@ -202,6 +238,18 @@
       "published": "2026-11-10T21:09:42Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "23450358f7bf3821b85124",
+      "title": "Carney to raise foreign interference concerns with Xi in meeting",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DTURKVzg0RVJIRm5oeVRUU015aEZkM2dFcFZTaVVYbk9kMmlneVRiU1A3MkZBa2VVVV83dDZmV3VWX1AwRklZZ3lzRVNyWTZrQ1hHRE5JWlFzemFaR2hpa3JlNEtyZWx3UkVoekl4ZGpuTG1HWWJ2YTdXYVdFUQ?oc=5",
+      "source": "Global News",
+      "published": "2026-11-10T21:08:56Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -1392,54 +1440,6 @@
       "topic": "Africa",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "cc2cd6dd3a9118a218c1c9",
-      "title": "Quarterly profit reached $1.2 million at Fast Finance Pay, up from $425,000 a year earlier.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajhUSnF0N242bVVmd2NLNldmMG9PeWJ3SHk4VmZ0cnBMTHJ6NG5LVU53MzhqVDh2RTZqU1FTVmJuOFRtbDgtMDJfNHd1djNiTUxuTGFtMW9HRUlTU2t5MVVPQngwOV9TQ1BoVHVRSXFFVGI1MFZuUDNPeG1yTFVVd3c4SjVMdVlIMm1Wc1hnRUxaalVET3JiZWl1REFNSEo5MzU3eUZkbnpjWjBWWXhuSGtGcFktc0dzakluaE5n?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-10T15:15:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d9b38e0a02c7a7944112f6",
-      "title": "Investing in soil health can become an economic opportunity for European agriculture",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd05BektwUmZhcC1IRjZqbjBKMklTRkdqdnBJVEp6QzhsYmIySU02WlF2Qmx5Y2tIOUNCR1dIYVpSbzc3alY1X1NlWnExS2RJVnluWFlqNEI5cy1sTTJjbW5YZVlFRk5EM0FTUXFQOG1lTnpNZ0o3a2hrZzZjV3YxQ1RvY04xWWV1RF84cUhuMUZKa0V4ZnFHcUs1WHF5bzdLVkxtRnRHWkEyUUE5MzZQNnIxYWg1a21rMVJaRWE5SkpydlZG?oc=5",
-      "source": "EIN News",
-      "published": "2026-11-10T15:15:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5677e1c115388d62814a14",
-      "title": "Abdullah bin Zayed attends launch of third round of trilateral talks between Russia, Ukraine, and United States in Abu Dhabi today",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlJ0X3FINGFMUTRQODQwTGE4OEtOWE5IVGh4LUl3YmtrMkQ4NXBrSUhmeVhmLWRhZ1hDOHY4NEJDTUZlRzBpakVyMVBLVmFUeUFYWmVMdEVyVGhNdG5IM25mQnFVYmdKS2doTnhVek9XaXBEY2JxV0wzYjl2ay1XTVFoaWg2alZmWEdlUHFn?oc=5",
-      "source": "وزارة الخارجية الإماراتية",
-      "published": "2026-11-10T15:12:32Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d1b26a44517374ef6901d0",
-      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-10T15:10:20Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "countries": [
