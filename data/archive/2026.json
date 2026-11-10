@@ -1,5 +1,161 @@
 [
   {
+    "id": "76b2fd9006b361a5586472",
+    "title": "APEC Economic Leaders’ Meeting: Charting a course for shared prosperity",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YeWRfSlZzSV9GZEp3R1NfWlpyOFFGSTNWcjhvMkx1ZlhpRXZXNWRwRWZTQWtHNzRKLVdIcUFrcFpMTElKYktUYmJ6RmppLTFIbnNsVUpBanc?oc=5",
+    "source": "chinadailyhk",
+    "published": "2026-11-10T16:33:13Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7617903ae0d3e779c60299",
+    "title": "Trump Media Made a $410 Million Profit Last Quarter on Just $3 Million of Revenue",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelJqVzRSUTc4VWN2VkZIX1JMODZfV2plaUMtNXFfVW52NElNaF82TTFKSktaMmdwa0IzRk1Rdnp5ZXhxZllxTXE1ZnVVUk43Rlk5NFdhVm50eUNLaUVjOTZQVFAyMGxVSjZtYWFhSWtRdzQySFlUX010RlhBNldUMjNvZkR2TGNuUVJEcHAtMFJqazg1UjRkZ01rckhlVnVKNHo4eVVJQjVsZUJONFRNcDg3VUFtcVhNdHVVNTdQMEQ?oc=5",
+    "source": "24/7 Wall St.",
+    "published": "2026-11-10T16:21:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "de59f40c4070218b9f64d9",
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a [&#8230;]",
+    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+    "source": "The Verge",
+    "published": "2026-11-10T16:20:30Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d3a0388562c166c7c812bf",
+    "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+    "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.05tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot w",
+    "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+    "source": "The Guardian",
+    "published": "2026-11-10T16:13:13Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd58bf3429433eaaccc66c8362e24453"
+  },
+  {
+    "id": "c1c466af3bbecc88caf79e",
+    "title": "VYLR Earnings: Corteva’s Seed Spin-Off Faces First Earnings Test",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmZzVXF2ZnUxX0o3cFhna1JBZFhWTk8zazhORlhPeElIclRyR3NNY0VZU1prZG1UMlNJM0VJTU5ael91OFFfZzJ2d21pUDFQMW8yMFVmNk9aYWRPYjk4eGZVakotZDlhZE9rVEQzelkzaWFNTGlGOWt4QlNHYzBfWnJoUFU3LUh2MC1RZDRsbHlfWUpzVVpXNWkzWVpJX0N2cXc?oc=5",
+    "source": "CMC Markets",
+    "published": "2026-11-10T16:03:46Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7a08c446df88bb16291489",
+    "title": "Odisha strengthens startup ties with Japan, MoU signed between local startup and Tottori-based company",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUjJKeVVWU3M5T19HbGZjRkNVVXNZQmxwa3lhUEZwdEdWV0FCa042MHdmY3FsT3lLVXRSOUx3NkJOM2tpcUdXdnlzeW1wc1c1TGNOckZPdWV5d1had3YwUUhZajV0cTRMbVNqNWlrV0ZMUENTbDNoTWtXT1gyc3JWTnBKVl83SXNqVlkzWk5uRTBZLWpmOXBkLXhDdWxrNXNFVjFHQnVHZlppNHZiazJ4dDAyOE13ZldvV2JBVkxHdzM0aWh4OWpEOXNGY0E4bXh2a2J6UlVTYlRhUXpyRzltbVNIZUQ2ejZ3a21na3g1M3pjdE5NWGxyWg?oc=5",
+    "source": "ANI News",
+    "published": "2026-11-10T16:00:00Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "56771b101993740fbc0f07",
+    "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+    "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+    "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T16:00:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-TV-ASL-Sign-Language-interpretation.jpg?resize=1200,800"
+  },
+  {
+    "id": "0b13fcdeacb74b876a02d3",
+    "title": "The Verge’s 2026 holiday gift guide for moms",
+    "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+    "source": "The Verge",
+    "published": "2026-11-10T16:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "8658a0744e2cda3c83edc7",
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "source": "The Verge",
+    "published": "2026-11-10T16:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b4127364e7e2a6380b1ecc",
+    "title": "US inflation figures lift chance of interest rate rise",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXM1cDRmT2dkaTZkZEY1Z0pwQ0QtQy16aVFEdjRPSFJaM3dyUHdGcHhCZnN2Z2xrYnVMNkNkNy1tNWQ0b19ZRlJBUGVYdG9QT09pU0FqQVRnZ18xU1ZwQTRUVDRqMG4zVWlUemZwUU5oYlJLWHNBd1B6Z213RTM0V3l3dWtOOTRuWmRkZ3B3VHVfOUJOS2d5dQ?oc=5",
+    "source": "The Times",
+    "published": "2026-11-10T15:55:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4ea7969a421c523902f6b1",
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T15:54:08Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
+  },
+  {
+    "id": "5b54c73351d7bf3789d748",
+    "title": "Stellar Startup Security Technology Vendors To Know In 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFRQRnN1NW42OENPRkY0eEFfbTh6N1hnSkt1RkZGWjB4YWtTSkdvblMzdkJtUm5jVnU0OVduMkY1bmdRYXItSFYtSHFKVjNRdVRkNHhOQjVfenAxa0ZIZDJUaTB5SUxfMmMtWFdFdFJUVmc5Y1lxQm1QUTctYmZ6blNjQ2tHbFUtOUVzSDlRdF9ZQWJaS3JuSDNwZS1xaE0?oc=5",
+    "source": "CRN",
+    "published": "2026-11-10T15:51:50Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1ddd5672fdcb38640b92d9",
+    "title": "Economic and monetary policy outlook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
+    "source": "Federal Reserve Bank of Dallas",
+    "published": "2026-11-10T15:51:46Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "34acddedba1324c5039298",
     "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
     "summary": "If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to $99.99 — still not cheap, but cheaper, and notably just [&#8230;]",
@@ -24,6 +180,18 @@
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675"
   },
   {
+    "id": "0280cae25a2e97a30109f1",
+    "title": "Zacua Ventures Builds on Construction Roots With $135 Million Fund II, Closed 35% Oversubscribed",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaDB1SWhyMUUzRExNQXRCa0Z0OS1GMnFZVW9IektIQ0dha2N5MkhhN2xxYmxuN0lzMUllZ2lXMU55QkRZcFBSTGVkMGFvM0owam1vYTJ1aDN2WFYzcS1YTEVJdkZTaEUwNmRPTlNGd2NQLUwxdDZFSUFyak44TzBXbWRuV3lfQklTd05ta3cyMkIzQXVDZGhUUndycnBXclk2MmUzOW05QU5OREJ3bUljUzNzd2F4bzU4SEdJbkZPdWhWTGhzSDlmSE51UmkzYVlMNThZWTZLRi1SUHoyTWY0TGc2VWZMTDAxOWk0?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-10T15:43:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "60980c2cce4189709d0ef5",
     "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
     "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula 1 world champion has spoken out about conflict and humanitarian crises in the region, and",
@@ -34,6 +202,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/27bf2d45265593f1960114929744b613770ef7b3/140_0_5118_4095/master/5118.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f8fce781b5e181fdfcdd8e2367fd34d"
+  },
+  {
+    "id": "14936cd5a9c43ce1ecb1b8",
+    "title": "Fear of compliance, not compliance, is holding European AI back: Opsiocloud opens AI for business efficiency with compliance, training and follow-up as standard",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanVmbEZGZDdwR2xNdG0wczl3WWNkSUNaZWg5QzBnaFlDYUVQSUswTHd5d2V5VHF6Rm9ZN0VzakRWX3Y5NkFxckZUWkhhb0s2OFBPXzlYUDN4RUt5WDA3VzQycE04UlhwQTVDX3VCWk5KZFA1eVg4MmNOdWs0d1VCa2xPUHhoTllKQWlDd0h3dGVNXzRjWE9HaWhOeGNFRFJhMGpjaQ?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-10T15:34:00Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "679acb5039d281a572b7d5",
@@ -80,6 +260,18 @@
     "published": "2026-11-10T15:26:01Z",
     "category": "Technology",
     "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "78cb4ae432769c4aca9796",
+    "title": "Earnings call transcript: Quinsam Capital posts small Q3 profit as IPO pipeline builds",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkZDeG15QmIwWjRDZXFzOVpTZ1BJY1FkVUk1SHJKLUZzM2NEQzBkQmxaZlRLd0V2alp2RzI1WlBvck40OHpyUVZlSUxieXFEdjAtQmVVNTJuNmNxbDJFV3VDb3R3LWZKMWJfN3F4OHdJTWFDdlpYWDM1SlFzOUJIQllqYVdfYkFxcFFoU0R2dDdIMXZMYWhndDdSOU0wSFFucTdPRFdqYVItU19CS1plWHc1WEdSYmd1dlV1SG9ESE5Gd3Y1UjJsY19TLVVMc1VsQ21fbFpMMHM?oc=5",
+    "source": "Investing.com",
+    "published": "2026-11-10T15:24:38Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -312,6 +504,18 @@
     "image": ""
   },
   {
+    "id": "ce3eceb27fc465b18684a9",
+    "title": "Hedra Launches Model Factory to Train, Deploy, and Improve Real-World AI",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDFocGtpQXVIeGVLQ3NVMXhtcWgxNzR2OE1HOWJNc2xOb1lkbmdoTGJtSFpsVGZVNHg0dnlQVnFVR3JFM1FSS0ItaVR0UjRWM0pLeXVoMllnOC00bjdsVTl3dWJfRU9iSGdOTHgwbHVEZTMxdmtJajBnbnkzQ3VDaU9MWQ?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-10T14:30:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "119606f9f2d23278fac832",
     "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
     "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
@@ -372,6 +576,18 @@
     "image": ""
   },
   {
+    "id": "5677e1c115388d62814a14",
+    "title": "Abdullah bin Zayed attends launch of third round of trilateral talks between Russia, Ukraine, and United States in Abu Dhabi today",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlJ0X3FINGFMUTRQODQwTGE4OEtOWE5IVGh4LUl3YmtrMkQ4NXBrSUhmeVhmLWRhZ1hDOHY4NEJDTUZlRzBpakVyMVBLVmFUeUFYWmVMdEVyVGhNdG5IM25mQnFVYmdKS2doTnhVek9XaXBEY2JxV0wzYjl2ay1XTVFoaWg2alZmWEdlUHFn?oc=5",
+    "source": "وزارة الخارجية الإماراتية",
+    "published": "2026-11-10T14:09:45Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "c039564e4f55eeeec8043c",
     "title": "Anthropic targets $1.4 trillion IPO",
     "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Street Journal reports [&#8230;]",
@@ -392,6 +608,18 @@
     "published": "2026-11-10T14:06:38Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "00c25bd2c9ef8c92b1e664",
+    "title": "Webull Expands European Presence with Launch in Italy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTFhBdE1Ib2ZGUkV2YS1ZWk8yUmxqRnpLNDYybkViN1RWMm5BX1BSQlpDRmZ5VnpXc1FuMUJic2JDMGJ2dFNsSXd6cmkyMzByUXBDRUxLQXlNTzZOazk3dzZpeXRCN1ZiazByOFkxTzFOSzZVQmdwR0lIUGdQQUEyYmp5bG9YTDc4MGx0Z1M0Y1Zyb3R6dnpkc0RtcXY?oc=5",
+    "source": "Quantisnow",
+    "published": "2026-11-10T14:06:14Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -562,6 +790,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "id": "fc4c9d37a6c37b33883917",
+    "title": "New regulation for heating oil market, but no price controls",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR0lmNTB1WDJ3dFhGelZFUWVJT3J6aTBLd3RuWXQ4dW9lcXJKZHhIWW1qTlo5aUFHXzRFQU9ZQkUteS1CNEZGZThHQzhDWFBUaDRsQ2pzMjBfWEE?oc=5",
+    "source": "BBC",
+    "published": "2026-11-10T13:42:29Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "630a1f7fe6555cc5a98713",
@@ -1196,6 +1436,18 @@
     "published": "2026-11-10T10:21:00Z",
     "category": "Technology",
     "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "eae5f8120ce250d004bad6",
+    "title": "South Korea's Shift Up Q3 Operating Profit approximately $15.4 Million, Down 58% Year-over-Year; Swings to Net Loss",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uOFhreWxYbDU0SG1SY3h0ekszZzJ0R1Qzd2dEcFdKSjdWMV96ejZKdm9wS3V3dzYtNGl1X20zTEZ6NnZhWUdVT21yV3IwT1A0ajJ0RTVjaW1hZWUzcy02VkpyRkZSdUJ2TXVJOFlhR2l3bHE5UVE?oc=5",
+    "source": "BigGo Finance",
+    "published": "2026-11-10T10:05:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -1964,6 +2216,18 @@
     "published": "2026-11-10T06:45:00Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "525267dbd2419ad8a0f735",
+    "title": "ADNOC Gas Delivers Q3 Rebound with $1.34 Billion Net Income",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkROeXF1YmVPQ016VlBNUFdROTVCcHFzLXpXYS1DTWNxZDBaVFJOU2dYREVLZGg0cHAtVnZQY2VOVGlwTlMxek83dGQ3Z21kd3JNVHVaa0N5TGJBamFQOXdkRzhNblFaZHFPaHpZZmdzeHcxc0RrRjFWQ01UbzBrYjNaZjRCc2Y5MXpGWXAtaTJ5anNDMEI4dVpxWkxWM1hGN1lKNjhxbXBaU0YwTWhuYU1QekZTN1dqTkE?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-10T06:43:41Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -2784,6 +3048,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
   },
   {
+    "id": "a98eff9fdd17574d111c2d",
+    "title": "China seeks high-tech upper hand in industry carrying 80% of global trade",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-10T01:50:00Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "cf6e8a467b708ab136ab4a",
     "title": "'Cruise for life' ship seized in Singapore",
     "summary": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
@@ -2876,6 +3152,18 @@
     "published": "2026-11-10T01:25:06Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b9739cf605e0b45250e34a",
+    "title": "Why Nvidia CEO Jensen Huang's affair with alleged Chinese spy matters in AI race",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVlHOHlrS013d3RDWXQ2OUVSaWZJcTJNY1ZKbGFQN0h0QmdxTklNYjNGUFBxamxtVnd3SGFJWkI2TmpwTy14LWJScktFc1NCV1hrdEJkdFg3X2RCR3hib1ZUX3BjY3NhVk9DV2x0U202VUd3eUJWN3lWd0FCNDl5azY4X1BDYWNvdnhwbW5RdjlvWXJTT1VYQXJKcndWV1BxemfSAaIBQVVfeXFMT19keU1oNnZUbThXYXRDaVduSkt2Z2RHendCU2dBMm1ndk01U0pmQ0NBcnh0TVlhTlh4REI4T0ktanRvdHkxa05WRmNCdWhVSkZDUmdNRjBORW1rd3VqWW5UaXIwRE5Bd3Q5RE5NRFZucDctNUpzRmU2NlIySHVLOVdyb1dUOWhiTUVYaEpmUXk0aksxU3U4NVJ2NGhIeFNQb0RR?oc=5",
+    "source": "Deutsche Welle",
+    "published": "2026-11-10T01:22:26Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -8348,6 +8636,18 @@
     "published": "2026-11-08T23:59:06Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "da4ed5a6d25c8bd2490b8b",
+    "title": "Aig-Imoukhuede urges African banks to finance economic growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTNjZXA4SXVFMG1KWjZBeGZpRGJXdWxUV0I4RVRBWFVORE9SaGdpNlFzTllLZGx5cVhwUjlaUzRaSDc4eFR4Zkd3QXN4MnN0OHAtYkEwYUoyX1B0eWRFbXQ0UXJKQXVYU1NMSUNqS1N3TEYzN1I4NGl6bDF6MVVNMEo2ZGJYZGp6NGc?oc=5",
+    "source": "Punch Newspapers",
+    "published": "2026-11-08T23:41:31Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
