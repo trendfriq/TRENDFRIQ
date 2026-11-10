@@ -1,5 +1,137 @@
 [
   {
+    "id": "38f7683430bac08520af09",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "source": "The Verge",
+    "published": "2026-11-10T19:04:05Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "39a6d410c88cee38a21aab",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T19:03:52Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683"
+  },
+  {
+    "id": "d12124814ce5ad1e67393b",
+    "title": "Google’s Pixel Tag tracker is now available",
+    "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag [&#8230;]",
+    "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+    "source": "The Verge",
+    "published": "2026-11-10T19:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2246c342d21277f67af74a",
+    "title": "Google is making Pixel HiLight slightly more useful",
+    "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight [&#8230;]",
+    "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+    "source": "The Verge",
+    "published": "2026-11-10T19:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c85168273b56d0a59d2f12",
+    "title": "U.S. boycotts U.N. human rights review for second year running",
+    "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+    "source": "NPR",
+    "published": "2026-11-10T18:53:34Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F22%2F6354cb404769a55ba009fd435001%2Fwhatsapp-image-2026-11-10-at-12-35-09-pm.jpeg"
+  },
+  {
+    "id": "583dee252be92f18cc5712",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T18:49:52Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677"
+  },
+  {
+    "id": "5ad2c7415bc60bf1f145ad",
+    "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+    "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+    "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T18:49:19Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200"
+  },
+  {
+    "id": "a75beb164fcefead7897cd",
+    "title": "One of our favorite multi-filament 3D printers is $100 off",
+    "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 off the list price [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+    "source": "The Verge",
+    "published": "2026-11-10T18:42:03Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0dca832011e7a6452882d6",
+    "title": "What’s happening this week in economics?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakZIT0JxM3JJV25jVHR1SjVUTkdCQThCNkRXOWN6T1ctQWN1RUp4MEctbWVEYVRsX3Y2UmZfS2Zhcmg0LUFUaVVadUNsYXJLWHEtRFR2Zm5aYmc2US1jcVd1YnRqTjdURksyZGdiVVRRNTFGRVFrX2l2WkxvX1JHWlFXYXVKcjNYQnNiWkJGSkRBVVlqYmRUcjc1QU55dEVUaWVR?oc=5",
+    "source": "Deloitte",
+    "published": "2026-11-10T18:36:31Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b812a27808c73cb4c28ac1",
+    "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+    "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+    "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-10T18:33:51Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg"
+  },
+  {
+    "id": "7d19458058bd3ded55dc7b",
+    "title": "Hochul Launches Statewide AI Safety Testing Network in New York",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDNaU3FRU01YOUJRRDNZYVlFMk5pRFl6ZGduTTVzNlRaRzJGYklyNTNMRFIxQXZTeUFod21ua3RSS3o0SnprVngxTy1VSDZESkNEanRNY3dhd0cxLXNPdXZDcEtBSEFUc2ZVdUpjaEpKbm15UXEzLUI4dFI0c0F2WldhUnl5QVFWbWQxU1VB?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-10T18:15:04Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "95bb6b166c0e3ab98aab9c",
     "title": "Anthropic Launches Claude Meetings Days Before IPO",
     "summary": "",
@@ -168,6 +300,18 @@
     "image": ""
   },
   {
+    "id": "cebe099cf258b4c0582d51",
+    "title": "MoEngage Strengthens Agentic Marketing Capabilities: Launches Merlin Agent, Fully Integrated AI Decisioning, and More at NEXT Autumn'26",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOS2VKdUZERm9zV09zbWhJa3hTczBlZ084VW41aVNSaGhLN0pDb1J3dDMtbzBKM1dvOXpRcWRKRW15Zmg2V0tSMkFibFAybXhRcDRodnlXbF9MbTdKZFloUXhwcWxUREkxODB6SDNvNDlCV2dGYWtfOUxCbWIyaGVGQUstbFFNdlVSUFFMNWhadGV2bThhTDlmRDFxWHlld0ZaWEV2RFNWR3VtRXpYSUs1aFFvWU5uQUZLUHRXaUVtWnRNV2xfZlowcFBtSGlsVmRYVG52TGI0SE9JTmFrTEtQNWtrUU1LQWJkUGFpakxvdm03a0NnU1FIdzMtaFJKdUhQWHRZd0VVV05nVnRNYVhrVWVYa1ZHS0NWZTI4a3V1ZGxxbWtsVWlhMzRNVdIBsAJBVV95cUxOaFIwZFlnWFBXVWoxVXdQc0RMVnNZZFhSMmRaN2tGZ29BOUtUYXlRZmpFNmYtR3lobDhqU0R1TXJWME55YUV4TXNxdWs3bnpEbERrOEFBbDFjc1J1N3VHQzVjUWFhaWcxMlBfNnBtcjlQNk1vVlduMTFnNC1xN0RpY2dCc1ZOdzZwaVkxeDROam9ibGQ3NS1BaVdCbjhKUURjWjEwMkozVG41em8zMGhSbWlGN0FxNDllOWhzQWlfNDYzNXMzVEZfSGt5c3hlSWxnZVd3TEx0YWVhZ2dYNmU3QUdZZlVzU0g5R3NERUI2V1RValZPaFV0UVJSVG1LSjgzTTlKUHVnVDZieF9mRlpyMmIxV1luYlFTUzFSLWw1cTBCZzcwcHpJVVVzQm05WXV5?oc=5",
+    "source": "The Manila Times",
+    "published": "2026-11-10T16:58:30Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "067decf05f6eeb966d7e98",
     "title": "Trump Media Jumps 9% as Crypto Gains Drive $410 Million Q3 Profit; Rumble Falls 3%, Meta Holds Steady",
     "summary": "",
@@ -274,6 +418,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/b5143f50-dcf4-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+    "id": "d9d692fda571fb8b5343bd",
+    "title": "Gemini 4 Carbon is now available",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5",
+    "source": "blog.google",
+    "published": "2026-11-10T16:05:31Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "c1c466af3bbecc88caf79e",
@@ -1284,6 +1440,18 @@
     "image": ""
   },
   {
+    "id": "4cd0598cbad093cd4262ad",
+    "title": "Claude Fable 5.2 just launched: is it the best AI model on the planet?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUtuUVlaNTR2M2ZPSElHNGFMMEl3ZUlhUjRpUzRIQXN4a2g3bll2YUlUeXdfcEFUZDZ5ZUZMZjNVUy1rTnZ6V1lrS2lFSF9EN20wV0tCa2hIdUZrNlpoWG5uOXhEN2FUbEgyVVZvTmdqa1g1Q09mVG44bTRra2kzTUhkQ2UwaTJMeTNnRXQ0S2pRRW5SdzdLdGszY0N0a1dFRWtyYnFhM2lhOXRDSHlPalNyekR4QmlM?oc=5",
+    "source": "Medium",
+    "published": "2026-11-10T13:14:32Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "43f9a9683f35dd92d9c32e",
     "title": "China-Japan summit unlikely at APEC amid continued tensions",
     "summary": "",
@@ -1508,6 +1676,18 @@
     "published": "2026-11-10T12:00:57Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "28dae04d4ea08234845cb0",
+    "title": "AfDB-backed Pan-African guarantee platform moves to unlock billions in African Investment",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdHk4dnZGcWw1Z1BBWnRDNzZ5ZFh6RGFpamhYUmtYN290S2dxWlo3WUhZR1lPekRZNExRajUxd3RTQWlaemJ4LWl0SVFIb2JPTl9VX0xXaXpqaW9sUHktbDBWa3RUT1NiTkJfVXFVakF0cHVwZkZvN0JaczNlVW5xeWJlNHZHN3Z1TFF0S3lkd2FiSERTTFBCRU45b1NRUGJjUUJfbkJVVDBkZTFhYnp5NndoNGV5bmUyN2dHQkRkc1NSaHl4RFJZ?oc=5",
+    "source": "The Guardian Nigeria News",
+    "published": "2026-11-10T12:00:55Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
@@ -2108,6 +2288,18 @@
     "published": "2026-11-10T08:49:47Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d32e88d3962a771628b500",
+    "title": "East Africa’s largest economy to close embassy in Switzerland as it reshuffles diplomatic priorities and opens new missions in strategic market",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkxLd0lyV0IybUR2NUNXY3g2WDFFQ25YN3JaS1N2RkJOZEV5a3V4N0Y0RUVLOTBRSEZ1cnBkN3hiZlAxNFR1TGV1QU9qZ2NVejFLWXZZWlVkcFhEdkhha1dpZlFqZzM3ZTJsdHZpUGdmWGlsaXp2c2hCVnN4azkyWlJPQmJWcFJ4cS1Fd1J3MU1ORlRmUjVINlZPQ1ZOOEFmSWxwU1ZYZGxfMWxZYTY2WDhBVG9paWIxaE1JYnJ2RExsRldCdXJGNW1uU1hFdFk?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-11-10T08:49:05Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -5076,6 +5268,18 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
   },
   {
+    "id": "820838f12af08f0361549d",
+    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TdjNVVXVsZVliNlB4enZJZXQ0TXF5ZWxpb3huZDZIbTFSanlWaHVGYmlLb0VLeFUxbzBsX0Z0TUZjeDk5c2lwQWVwbFZ4NEtkM2xEWXFYMlVvbmdaNUE?oc=5",
+    "source": "BBC",
+    "published": "2026-11-09T18:08:36Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e5d0742cfbaa9454ba149a",
     "title": "Russia's leading independent newspaper closes after eviction",
     "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
@@ -7272,6 +7476,18 @@
     "image": ""
   },
   {
+    "id": "54e0a20150a07125c2e8f3",
+    "title": "Philadelphia's Higher Education and Civic Leaders to Shape New Regional Global Innovation Agenda",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWo1RFNVaWZqTTZfWFpnWkdNdU1obEk0ZmUwUTU0Y09RREJsRS1QSW1SMkdISDh6NEs3OWI4cV9FdzRRNGhrQlplTlNkaHFFTGdJUkR2M1hfWkE1VkdvNVNfNmdhbXdDNExYek1LdkY5VEplY0Nsd1dyQ3VLdEc5a2ctR0w0aGM?oc=5",
+    "source": "VISTA.Today",
+    "published": "2026-11-09T10:17:00Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "59ecb26331fa841a059902",
     "title": "Alice in Nvidia CEO's secret world: Jensen Huang's personal affair matters far beyond than what meets the",
     "summary": "",
@@ -7604,6 +7820,18 @@
     "published": "2026-11-09T08:03:35Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "739143146317ebde2a44c4",
+    "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+    "source": "Britannica",
+    "published": "2026-11-09T08:00:00Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },

@@ -1,13 +1,157 @@
 {
-  "last_updated": "2026-11-10T18:17:45.897065Z",
+  "last_updated": "2026-11-10T19:21:22.544786Z",
   "articles": [
+    {
+      "id": "38f7683430bac08520af09",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge",
+      "published": "2026-11-10T19:04:05Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "39a6d410c88cee38a21aab",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:03:52Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683"
+    },
+    {
+      "id": "c650b02fc655d4a0b19c4e",
+      "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+      "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general for England and Wales has told an international tribunal. Ellie Reeves, representing the British gove",
+      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+      "source": "The Guardian",
+      "published": "2026-11-10T19:01:33Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6961005e80797627b18bb63557b07eba"
+    },
+    {
+      "id": "d12124814ce5ad1e67393b",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag [&#8230;]",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge",
+      "published": "2026-11-10T19:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "2246c342d21277f67af74a",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge",
+      "published": "2026-11-10T19:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "c85168273b56d0a59d2f12",
+      "title": "U.S. boycotts U.N. human rights review for second year running",
+      "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+      "source": "NPR",
+      "published": "2026-11-10T18:53:34Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F22%2F6354cb404769a55ba009fd435001%2Fwhatsapp-image-2026-11-10-at-12-35-09-pm.jpeg"
+    },
+    {
+      "id": "583dee252be92f18cc5712",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T18:49:52Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677"
+    },
+    {
+      "id": "5ad2c7415bc60bf1f145ad",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T18:49:19Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200"
+    },
+    {
+      "id": "a75beb164fcefead7897cd",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 off the list price [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-10T18:42:03Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0dca832011e7a6452882d6",
+      "title": "What’s happening this week in economics?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakZIT0JxM3JJV25jVHR1SjVUTkdCQThCNkRXOWN6T1ctQWN1RUp4MEctbWVEYVRsX3Y2UmZfS2Zhcmg0LUFUaVVadUNsYXJLWHEtRFR2Zm5aYmc2US1jcVd1YnRqTjdURksyZGdiVVRRNTFGRVFrX2l2WkxvX1JHWlFXYXVKcjNYQnNiWkJGSkRBVVlqYmRUcjc1QU55dEVUaWVR?oc=5",
+      "source": "Deloitte",
+      "published": "2026-11-10T18:36:31Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b812a27808c73cb4c28ac1",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T18:33:51Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg"
+    },
+    {
+      "id": "7d19458058bd3ded55dc7b",
+      "title": "Hochul Launches Statewide AI Safety Testing Network in New York",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDNaU3FRU01YOUJRRDNZYVlFMk5pRFl6ZGduTTVzNlRaRzJGYklyNTNMRFIxQXZTeUFod21ua3RSS3o0SnprVngxTy1VSDZESkNEanRNY3dhd0cxLXNPdXZDcEtBSEFUc2ZVdUpjaEpKbm15UXEzLUI4dFI0c0F2WldhUnl5QVFWbWQxU1VB?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-10T18:15:04Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "95bb6b166c0e3ab98aab9c",
       "title": "Anthropic Launches Claude Meetings Days Before IPO",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWtsemM3M2dreTVpaUp2Q05WUS1ZZURQQzJHYkx1a0x1WjBoRUhMdWNWbTdYd0FGU0d0R2NTT1ZQLXVULWljUjItZjdwWmdaeVlHWnh0MFhmVU9fUEZXT1J1Z2E3UVpRNzZHaXh5X0NBOVVabEVGSllFODZnRTYyUXdoNE54T1Z2WG5N?oc=5",
       "source": "The Tech Buzz",
-      "published": "2026-11-10T18:08:34Z",
+      "published": "2026-11-10T18:10:47Z",
       "category": "Technology",
       "topic": "Technology",
       "country": "",
@@ -51,7 +195,7 @@
     },
     {
       "id": "c67f8109386fc65fb9706b",
-      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
       "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -100,7 +244,7 @@
     {
       "id": "e4f6ecf548c7cf59f41dc3",
       "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
-      "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say A substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the government’s proposals have said. The ban could also see games ",
+      "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say A substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the government’s proposals have said. One source close to the talks",
       "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
       "source": "The Guardian",
       "published": "2026-11-10T17:30:15Z",
@@ -230,6 +374,18 @@
       "image": ""
     },
     {
+      "id": "cebe099cf258b4c0582d51",
+      "title": "MoEngage Strengthens Agentic Marketing Capabilities: Launches Merlin Agent, Fully Integrated AI Decisioning, and More at NEXT Autumn'26",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOS2VKdUZERm9zV09zbWhJa3hTczBlZ084VW41aVNSaGhLN0pDb1J3dDMtbzBKM1dvOXpRcWRKRW15Zmg2V0tSMkFibFAybXhRcDRodnlXbF9MbTdKZFloUXhwcWxUREkxODB6SDNvNDlCV2dGYWtfOUxCbWIyaGVGQUstbFFNdlVSUFFMNWhadGV2bThhTDlmRDFxWHlld0ZaWEV2RFNWR3VtRXpYSUs1aFFvWU5uQUZLUHRXaUVtWnRNV2xfZlowcFBtSGlsVmRYVG52TGI0SE9JTmFrTEtQNWtrUU1LQWJkUGFpakxvdm03a0NnU1FIdzMtaFJKdUhQWHRZd0VVV05nVnRNYVhrVWVYa1ZHS0NWZTI4a3V1ZGxxbWtsVWlhMzRNVdIBsAJBVV95cUxOaFIwZFlnWFBXVWoxVXdQc0RMVnNZZFhSMmRaN2tGZ29BOUtUYXlRZmpFNmYtR3lobDhqU0R1TXJWME55YUV4TXNxdWs3bnpEbERrOEFBbDFjc1J1N3VHQzVjUWFhaWcxMlBfNnBtcjlQNk1vVlduMTFnNC1xN0RpY2dCc1ZOdzZwaVkxeDROam9ibGQ3NS1BaVdCbjhKUURjWjEwMkozVG41em8zMGhSbWlGN0FxNDllOWhzQWlfNDYzNXMzVEZfSGt5c3hlSWxnZVd3TEx0YWVhZ2dYNmU3QUdZZlVzU0g5R3NERUI2V1RValZPaFV0UVJSVG1LSjgzTTlKUHVnVDZieF9mRlpyMmIxV1luYlFTUzFSLWw1cTBCZzcwcHpJVVVzQm05WXV5?oc=5",
+      "source": "The Manila Times",
+      "published": "2026-11-10T16:58:30Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "067decf05f6eeb966d7e98",
       "title": "Trump Media Jumps 9% as Crypto Gains Drive $410 Million Q3 Profit; Rumble Falls 3%, Meta Holds Steady",
       "summary": "",
@@ -243,7 +399,7 @@
     },
     {
       "id": "d9c120dc2ec515edca93ca",
-      "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
       "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
       "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
       "source": "TechCrunch",
@@ -252,6 +408,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/sundrop-promo.jpg?resize=1200,675"
+    },
+    {
+      "id": "1ddd5672fdcb38640b92d9",
+      "title": "Economic and monetary policy outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
+      "source": "Federal Reserve Bank of Dallas",
+      "published": "2026-11-10T16:39:26Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "76b2fd9006b361a5586472",
@@ -328,7 +496,7 @@
     {
       "id": "d3a0388562c166c7c812bf",
       "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-      "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.05tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot w",
+      "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot wa",
       "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
       "source": "The Guardian",
       "published": "2026-11-10T16:13:13Z",
@@ -348,6 +516,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/b5143f50-dcf4-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "d9d692fda571fb8b5343bd",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5",
+      "source": "blog.google",
+      "published": "2026-11-10T16:05:31Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c1c466af3bbecc88caf79e",
@@ -478,18 +658,6 @@
       "published": "2026-11-10T15:51:50Z",
       "category": "Technology",
       "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1ddd5672fdcb38640b92d9",
-      "title": "Economic and monetary policy outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
-      "source": "Federal Reserve Bank of Dallas",
-      "published": "2026-11-10T15:51:46Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -794,18 +962,6 @@
       "image": ""
     },
     {
-      "id": "c650b02fc655d4a0b19c4e",
-      "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
-      "summary": "Sea Lion project in the North Falkland basin threatens to deepen sovereignty dispute Argentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At the start of an historic legal clash at the Hamburg-based International Tribunal",
-      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-      "source": "The Guardian",
-      "published": "2026-11-10T14:49:32Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6961005e80797627b18bb63557b07eba"
-    },
-    {
       "id": "96faa508b0e30813b50f2c",
       "title": "US inflation higher than expected in October - here's what is happening with prices",
       "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
@@ -816,6 +972,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"
+    },
+    {
+      "id": "048e2903f965389a8c0f6e",
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cm1GbWVRWGF6Si04Sjk1aS0wRjBZYWZLbHZKbFNQTjBGRXN0S2pmZExNN2wzdEhQdmRUWlZTT19JQkdLbER4aFA2TEhBTFJqRGNLWkdYbEdIdTg?oc=5",
+      "source": "BBC",
+      "published": "2026-11-10T14:45:46Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "8d26bc1cb569adf3f19dc4",
@@ -1020,18 +1188,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/FF-AIA-PlanMode-No-Logo-4.jpg?resize=1200,675"
-    },
-    {
-      "id": "048e2903f965389a8c0f6e",
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cm1GbWVRWGF6Si04Sjk1aS0wRjBZYWZLbHZKbFNQTjBGRXN0S2pmZExNN2wzdEhQdmRUWlZTT19JQkdLbER4aFA2TEhBTFJqRGNLWkdYbEdIdTg?oc=5",
-      "source": "BBC",
-      "published": "2026-11-10T14:03:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     },
     {
       "id": "f3bb4f1d7793115edcf800",
@@ -1284,162 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Ring-drone.jpg?resize=1200,1200"
-    },
-    {
-      "id": "c068d4b5ec3f4dbc6b4266",
-      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
-      "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that Amazon [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
-      "source": "The Verge",
-      "published": "2026-11-10T13:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ringrover1_31dee3.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "1d8889c9661cfe547bb2e0",
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "source": "The Verge",
-      "published": "2026-11-10T13:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "8886b9e77eea6275888a7d",
-      "title": "Jones Soda Reports Q3 2026 Revenue Up 204% to $13.7 Million, With Positive Net Income",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZG9XUzdPWS01WnFWTVgwa1pYVmRWSGgtRnZRTk91ZURaOFZHTU5RUk8yampZSFQ5Ri1LVnFydno4M0VzeEFHcWdsOU9wMnFDZW55T0RjZlh2Q3FUQVRvMXd0VnhmS2d6a2FENG02NzZCb0Vmc1hXaXh6dkZxbk9CWFJmTDMzejdJQkZPOFkwM3B1a1h4NFc3aDhycFVfZndGSk9rT2kzUlpMVUFrLUptNEI3Q0o5azVUaWhyaFllMkZRd3UteXpuSmJfblVlOTlpaUg4VGlrdVF4a00?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-10T13:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6de07b0e7a1490a3b4a842",
-      "title": "WIMAFRICA Brings Global Women Leaders to Lagos, Seeks Greater Economic Power For African Women",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUtDdzl3MGgzMktjemZKN1U2UFNrMmtIV2VmYXcxQlVvQXpTQnM0UmRMNzhUc241ek9NY1Zma2pZMnZ5UWZERzdqWTdnaWlURUxpdE1yMllkS2RMc0Z2SXUtNFRIdzhUcEdNS0RxZV9TNEloYnhNNl92ZFNucGNCY1Nmcm1xcVc5emRsZGVtX3FadFN2WUdMaGhrOWdLYjNjbk9CNjFpSHJicVJPQlBZQWgzZHJ5SjhR?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "published": "2026-11-10T13:26:49Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fb294595803529a700e070",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T13:23:54Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46b/live/32b5bef0-dd06-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "76510ee2fdbd37d12b97ad",
-      "title": "California police investigate after 27 fall ill at half-marathon running event",
-      "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T13:22:12Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3d/live/b01d8530-dcfc-11f1-933b-ff2499ee76f6.jpg"
-    },
-    {
-      "id": "d12dec74d9962a25142497",
-      "title": "Global Citizen and Circle announced a multi-year partnership to expand economic opportunity across Africa",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON0tYdFFwTFdyS0IzM0hxODdTc1RRcFNMVFY4aTFQVUFVYWcyMHBRdWlQellXUExKaFQ1TzNCc0FqQmtvZGs1aVltdGlBT2RncVVKeS11eWVmSGdTSWhXMndKQkNjWVFwM0xCcGpPN1g1cWx2aklYbmZrMXFFY0dIMlhnUXVubWhnZzVtbEVSRW5jcnBRdnhoemRSNlJQMVlSOHo1Sk9pejhyV3FYa0NhYUtrVm5ybXcxQzFJTWlTbW50QUdUcm0tQk9xRG9LQzBJeGlvMk1LWTFZNlllaXFzWVdn?oc=5",
-      "source": "Circle",
-      "published": "2026-11-10T13:21:02Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1b10195ab9e3c65fd2014a",
-      "title": "DES HAGUE LAUNCHES \"ONWARDS!\" PODCAST FEATURING GLOBAL BUSINESS LEADERS, INDUSTRY TITANS AND INSPIRING PERSONALITIES",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVmtXSDllMkoyS0Y4SXFMUzVka3BnVGNlOVZCeVQxeGNkbE9xclh1M1RIVmlTNFdjcmFCSldGcU1pQnB3bWZONDlVQ3FwVU96UUlpV0hpeVpuWFFTWm9uUFI2M2JXQVFBNV9LNm9XVDlqTGxqZjZZU1BtdnRNSndNRzM0bU51MnhxUC1UaGtVTktkd1otTGVQOGhYR3BiWmlOTk9PMW9BeTItY20wMWJPSjNwV1NmNFpoNjdEakQ4NDFrZXh1ZE81bUxsb3dqWllLS295WjZfNzlRNnNqSVAzS3pjR2tTejVNSDc2amZ2WHZDT3ViQzhleG9wZ2Y?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-10T13:15:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "43f9a9683f35dd92d9c32e",
-      "title": "China-Japan summit unlikely at APEC amid continued tensions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1heHJjRkJRM1VjcGRtYTFwT0tSSzlWRUowVTJzRjF2ZURpMFBTSjctZWQ2Vl9WQmJUYlZuZG5FMDBBS3JmVi1YaHBVcXBoZWxtcVNNLWRyOWlfQQ?oc=5",
-      "source": "Japan Wire by Kyodo News",
-      "published": "2026-11-10T13:11:04Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b1dcf19370f16f16d11bb9",
-      "title": "Shenzhen 2026: China Offers a New Framework for Asia-Pacific Cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazVsTDRwNmc3cFJnc0xYUUwwT1pnRU92Q1RlX1VSX2xpcGxtOHAxWHh2UFk2MmlrUWpQUlZVWWl3bW9INVJMcjIwdVE0UUpVMEZxQ3N6TGV6bjUya0ZPUzFFeDBTRkZndFRYVnFWdHJucWhiSmZHY0FOVVdkNzMxcHFvR3NoaE9seV8zUXFBTDdvbmpqclRnYjU5ZGFYeUFP?oc=5",
-      "source": "DKNews.kz",
-      "published": "2026-11-10T13:07:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a4fbaa92ec5580fc552dad",
-      "title": "Canada Signs New Deals With China After Trump Drops Trade Demand",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
-      "source": "Newsweek",
-      "published": "2026-11-10T13:03:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "697debda975c187536f851",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T13:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/55593309591_7cc2d3aba6_k.jpg?resize=1200,800"
-    },
-    {
-      "id": "05e4882168741eb59b2c33",
-      "title": "Newgen Software and the Asian Institute of Digital Finance Forge Strategic Partnership to Shape the Future of Enterprise AI",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZlZTcGZjcFk4UkhocGs4NVBTVXhIeTBJbzh5cEUtWV84R2xTcHhqY2Q0QUZwTHFNeVlFR2FJVy01MW9aa05yYWJzanJDenU2WFJubmx1MjdKVFhHWWplMFFoazNtV2ZwVDQ3MlBvYUtwUGwwcmI5dXUtaXlTZzVTdEppZURmelRqcHlUa1ZiNU42TkVEY0U3ZjJLYV9QQnJFVldIcnUxZW4zdXlwUzlpdkNnRTVDWWFtWms2R1drbjhkUXVRODBpaXZMX1RlVnhDOWJ5cE5PNk5KNUtpWGFPSVhoTWFNTTZZZ0Zyb0wzbnRsdGFVR2xxOEVINEFHeVZDNHVJb1Zn?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-10T12:55:04Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
