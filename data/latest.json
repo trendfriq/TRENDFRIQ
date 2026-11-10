@@ -1,17 +1,173 @@
 {
-  "last_updated": "2026-11-10T07:48:17.779546Z",
+  "last_updated": "2026-11-10T08:42:37.625891Z",
   "articles": [
+    {
+      "id": "27831ce6633310b0a7eea4",
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T08:39:05Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1460/live/8ec95eb0-dce1-11f1-a8e1-e3454837ffc6.jpg"
+    },
+    {
+      "id": "1e8ef286ab809bf8f96800",
+      "title": "Princes Sees Surge in Canned Goods Demand Amid UK Stockpiling Push",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORDJseTVKeFdBeE1QNXRVSFlKUW90VlJXS3FGQmFQVDRJeE50REFvOWk1ZURfZ1Bzay11Q3BHMmp6OG5LeEdINUFHQXN2TnBFTE1aNHFvYWZPcWN0QmhSRElCRlZqMjUtR2VpMjYzbTRBekR5ZGZ6a0FRek94ckJhdlMwSW04MFQtUDZjUDdsaV9EdzFOa2lXNnd4UGEteDA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-10T08:37:54Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "a7c23ef9b2f39151437d28",
       "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
-      "summary": "Rolling coverage of the latest economic and financial news The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? Away from the crisis at Nvidia, a deputy governor of the Bank of England has warned that young people in Britain are bearing the brunt o",
+      "summary": "Rolling coverage of the latest economic and financial news The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? Elsewhere in the AI world, Japan’s SoftBank has fallen into the red. SoftBank posted a loss of $7bn for the second quarter of this year,",
       "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T07:43:17Z",
+      "published": "2026-11-10T08:33:39Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/e7e96df8f5f01404a954de7c961255c32a52ab7e/174_0_4043_3234/master/4043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a8af5fac3e1cfa812aeedef1ec12a77a"
+    },
+    {
+      "id": "8b79cabc37184bd7c7cf05",
+      "title": "Opinion | Chinese investment in African manufacturing could change the world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1l0aGFvN1EzeVNubWJTZWN5UE52QVRUWTVWWVJpNE84aFZTaTFuLWN1LWFmRUs3Wnc1WjlkZ2hNa1VlUXlCU1dKRXJ3SkNQRGhhSDVLZXFpY3pSQmZXSW5SMUx5N09qdVRaNUxZY01ZWUk1b3YtTUFTQXpCc3NCbTBVaUUyRTcxRnA1UlFYeE5WWDNfd1FHRE50RmRCd2xHc1liYndqRU1lV28xdXg0Rm5ia2p4QVFSekHSAboBQVVfeXFMTzRsNlVHUE1hajVJMU40UnUwd0s4ME1oSDNtT01ENnBjaDFZUkRHanNPUnlTZDlTZWZUbllHS0p4c3prWnpCYnZqMmJoOW5aMzllUWpBRVZGVnVlN0UzUk44VjctaklaOVNZX0pjMkVtcE9KTGtzQkNzTnNHaDNyc1JnampZTGs0cjhLRWRudjc0QTFycV85UVlaczFpZUlsczh3aHVJd3N3V29rN05kVDRTLV9Ha0h6X3Nn?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-10T08:30:09Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4a9293f6fb1874436e243f",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-10T08:23:21Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "id": "b4e47e20ef0912fa3de7ff",
+      "title": "The Goldman Sachs Group, Inc. $GS Stock Holdings Lifted by Allspring Global Investments Holdings LLC",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTjFvVTBMUGJadmFwODZITVJDU0ZOWS1lVlZKSmN2ZWZHVGlNVHNDWnYyVG8xNVZwM2FDUi10Q2llUmstR0V3U1BnbjA1WHkxaVlTU2Q2aDU2Qkx6UE4zWmZQSU8tOVpRV0lxM3BWTUo5NkhWZ3pvVTFLTFVHNzExQ2tWblpLMGluTjJzT3E2QU9ERGw1blJwRndGZmFMa01Rck1ZR09pZVFJNGFfanRLLW5iblJqUnZGMlc0VTc1YV9jc3hDNkNjcmZZeERONEdBOUxJVFFZamRhVVc1aVJLanVub0MwZ2hZUTZMSXpSaw?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-11-10T08:17:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d736493f83e58ef4f5d56b",
+      "title": "Proparco makes first Sudan investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3cteFRLbGVLQmhEUkplWERlRXZQRlV3S3B1SUhlYnFrVm0tR0d5czVtdGhjYTB6S1lwWWVVRWNXYUZ4Wkk3b29pV1ZSZ0Z3TW4tWkV1YmNYZkRDTU5XaWJ6Ul9VZzNod3dEMGJwZDNlYl9PaGt0dXV1NndRZnBsWU1CQ0tUQQ?oc=5",
+      "source": "Africa Private Equity News",
+      "published": "2026-11-10T08:16:48Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d01bcc2edd355661c82349",
+      "title": "The Jensen and Alice story: What happened in the 2024-26 secret affair of the NVIDIA CEO and a 'Chinese sp",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOa3pubWN5c0hka3dTSG1rc202YTNhYTVtdFNxTW5qS0llU1QwSWNkQ0FUNUw2RlVPNWJGbmdBaUhKQlp1ekZxbHZnOTRMYnVicHJEd2prTmx1alNKb2hZNXdZZXlIX2xmMUlFdHdsQzYwVGhiWWJGRmwtd1V0empVLVhORDNmNnBwWmNrWUdxQ0xDT1RwTFN0enFQbUlZd0hJMkJTVXNrN0pHWTRjT0NZNHI4QWhWTFBRdW1IR21zNFhweDR1OXNublJSSWVQZWNpWXNBMHFBMTl6UE14RU44S1gzY3dGdTE2Mmt4TGpRVVlob1Z4b3RFMFNIOENZN1RkZHFQdjBUVzl3dzY3YmdZdl9CVkJBaUNk0gGeAkFVX3lxTFBfekg4UTF4emVzSmZPTWc4Q1FrTXhhZ2FXenV4Vy1rNExLRVFUTUhrVVdqdnBxSFpEanNRRHAtZWVzcmVqX2lBTjdSckxPbU1TR2xXaFo0S1FkOEhWLWxiSk4tVkY3aHFqOENUU29pNHE5aExRdnFYSlVQUFgwdmRjbEVXR0M0dzlFMXd4c24xVU1jd2JvSkhnRUIxcXVDSXVfcGtXY0pSdUR5WnlXVGV2MW5ZSlZHUGxiMm1sSUNobHJ0aV9HbGZDRHNRUlVNSjhvMEtJQkJ2YmVoTkNINHlLd3RMclYxODlXTUJPbXJuUmRBNUR4anBEUnZlM3RKc2s3RF9jVmJfNTQxMHlBMGZPYmxHQnBkTTNqQzBiYmc?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-10T08:12:56Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "11b73b6b2e32add0df4992",
+      "title": "Deals tracker: XRHealth purchases PursueCare",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
+      "source": "Modern Healthcare",
+      "published": "2026-11-10T08:11:45Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9d5d87a4a4770378b68b3b",
+      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-10T08:07:16Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg"
+    },
+    {
+      "id": "7f80b54acdc0783c52cae1",
+      "title": "Anthropic unveils two new Claude 5.2 models for advanced coding, cybersecurity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlZlWFZTc0pnSHhxektNVVZMeEV6eEtMRHZObHcwRWRZTVZxaGRVSTk0U2hGTVpLb3ZIdDJOblBIWVRoWVBHbVAtV3dkcXh5SXBnY0MyZHJuMmczTFBmTlhRZDlpaXlibnhVSnFibE51UG5ZcEw1RWhEZVJuMndrZ282WFFjeHF0eU02cEFxcG42Tk1tdVFscXRqUmNBYnUwUU9ZcFM2QQ?oc=5",
+      "source": "Telangana Today",
+      "published": "2026-11-10T08:05:08Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d3212160414aac1d2d3bc5",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T07:58:07Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
+    },
+    {
+      "id": "7061967c495f69ac5ce3c2",
+      "title": "China Trade Surplus Races Past $1 T in 10 Months",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGxOaUNjLWI4Q1dISF9PY0dSUEUyczZObFo5Q0t0UXBpVU80SkVCTGhTOGFZVFd4MjZXOE5UbGlJQURuNmwyZXJ4R1hLdUtNWV92dVNDc2lLTVJPRi1ZMDY1d090Z1NqSHE3T0hsTWltYWZNTlE1c3VzTzAwMGliMk5mMUFBUUE?oc=5",
+      "source": "Jakarta Globe",
+      "published": "2026-11-10T07:57:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9809bd92bfe8dff1edd21b",
+      "title": "M&S Targets Profit Growth Ahead of Sales Over Medium Term",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2FWTzhTV25acjhNVm5jSElvNHk0RndDazF3LVNyUnFEVlp5STZKR0hXSXFwMnRySWdPel92U09INklBaXo2NEhSZFBrT294cENxb1ZkNFRZZnBUNnd6VWlrOG94bUNNQzBJV1hGT3pxb3JBNG1nSHBmSDVjUVBuTUktRjY2LTh5dHNZNWJzNlpndHVzYjNYZw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-10T07:54:06Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c6f304a1b1393f673885db",
@@ -22,6 +178,18 @@
       "published": "2026-11-10T07:41:05Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b86f6b76a1869944f32c32",
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "2026-11-10T07:37:05Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -98,8 +266,20 @@
       "image": ""
     },
     {
+      "id": "a694752fd91810e86d40ec",
+      "title": "Asia Pacific Irish Business Forum 2026 Secures Significant Sponsorship and Support from Leading International Organisations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVC14RGZkaFdYcTlxOXdqMm8xMldQeWdxbWdwcER3ckZXT1BoNkpUMG5BdG44LUU3NFlkd3RtMi0yU3Z2elZSQVc2aUdPSnhPeTlMMlBoNmZCWktHM0F3ZG02ellXQ2hOQXFndGtKeGFGZUFncS12dGdoVnN5VDVXNVZUelpldm5LWjh2eC1iV2xtNkNTWEVQUXdWMlVTdEZ1Nk1VNi10WmJyaEFER1puYkt6bldZeklTTnQzT3lWUHh6TzJCUUFMdXd1VnF2SU41VTh5OXJXZnFuczdqeEVmeEZJZw?oc=5",
+      "source": "Asia News Network",
+      "published": "2026-11-10T07:01:49Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6ea95e97058878d0a3471e",
-      "title": "Asia not riding but building the AI boom",
+      "title": "Asia is not riding the AI boom, it is building it",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZl9jMW9iS3JNTTJjT1VUUkx0dlJ3dXF6RnBwYjlmZUdGRHdkSXJIekRhR2lGZmpJSFk3UWpoaXJac1Q5TGtrVFNrZ2FzZ1NyRjNGUktDT05DdEJvN1VXQTRIZ2VpMVVm?oc=5",
       "source": "GIS Reports",
@@ -120,6 +300,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-521333620.jpg?resize=1200,800"
+    },
+    {
+      "id": "daf918526b82a613c0baa8",
+      "title": "Minerals Council launches updated climate change position",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2J0Z2YzSjJ2TnQwTHh1Y3NKOWpJRkp1QXpyaS1Va0pfLXh2VExfWTA5akJDQ1pVc0V4X3lhTnV2SW0wZkhrb3NSQktnaGR0MEJSWFRqLWlNYUk1Znk0MHdUMW42UjN6QkJTbmtpdjl1MHRianFWQ3FDNWZaSm0tWjliWlkzd0xTYTNFTk52eWtKRDBrSUoycFZMLTQ4LW0xTVRN?oc=5",
+      "source": "African Mining Online",
+      "published": "2026-11-10T06:52:08Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0daa9a6eefd5a965188810",
@@ -170,12 +362,36 @@
       "image": ""
     },
     {
+      "id": "651b54f5874feadc74eff8",
+      "title": "RBC Yarra Acquisition: A Bold, Smart A$18bn Bet on Super",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fMjk4bGRTWTdfU3VDLXo2SlAyZFJJVG5Ha2p4V3FzNzdONUNlMWltTDIxbzFESV81REpOZ1A0U0x0bDBuYjJyeTI0S19vTmRUVUxiNDFsUXlZZ1VlR3lTd01iLVI0RU04VGVz?oc=5",
+      "source": "Global Brands Magazine",
+      "published": "2026-11-10T06:21:25Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "16a671d521cdc9e2b55a8d",
       "title": "Earnings call transcript: CJ CheilJedang posts mixed Q3 2026 results as profit slips By Investing.com",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNWRYeHo3N0M3RWtyT2pPX0tqTkZHcHJWNXJqR3hTYVJja0FnQWFfenNHMzhOMTc4T2JpdWZEX09hU2UyOHp5MTlIRzVEQzloSlR0WHlGSnpSNTBFMThvSHpReks3SVpJTFdyMnpIWHQ1TTZjblJ4cnYwZXRFN25UREQyaGdGa2lhWUF5QzJYRXJGLTZoRmJvTHo4dXlMdnpWVUhuNUxPNnZDTS1XVHMwTE9iZGg3VjN6UnBVTFQ5UDVRRm1ybVROX08wU2EtZ1YzNVVxOU9hWEE5NHhP?oc=5",
       "source": "Investing.com India",
       "published": "2026-11-10T06:19:59Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cfd70c7a69898d9b43f340",
+      "title": "Earnings call transcript: CJ CheilJedang posts mixed Q3 2026 results as profit slips",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObU9XWHcySkJzX05LbFJxWVZSa1dzRGg2T2dqVHZKa2V3S1EtTWRiZUllUjN1cE03Nzl0UHdiU0ZJa21Cenh5NWdlRFFvSkpQMGZ1OHZuTGUtVHZOSzFTNTFYTTNfbFRlZ0hJUnJFTnA2SGRGSnVnZjYzSUdBMkdsOWc5SnA5S3JkazI4QTRBQzgwZG9yaGFacGZTeUE0cEFVc2p0c1l3YktHcjRCb2g4XzVzSjVZVll1NXVtTGhSeGNqS1JBTm9vYnNlaXJEalEtNFNhVVRtV18wc1cz?oc=5",
+      "source": "Investing.com Canada",
+      "published": "2026-11-10T06:11:15Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -216,18 +432,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "9d5d87a4a4770378b68b3b",
-      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-10T06:01:44Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg"
     },
     {
       "id": "bf679c28a6a5a75d27f0de",
@@ -650,18 +854,6 @@
       "image": ""
     },
     {
-      "id": "4a9293f6fb1874436e243f",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-10T03:58:13Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png"
-    },
-    {
       "id": "0e0a6aae5f719505a5b41f",
       "title": "Optio and Taurus buy into Europe in specialty expansion push",
       "summary": "",
@@ -770,6 +962,18 @@
       "image": ""
     },
     {
+      "id": "8a5c2413abdfcf14123664",
+      "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGJtZVJWMWJWZmJmSkE3QmxrczRkUnBDR3FKTmQxSTUwam1FUEZ5ZENJUlZKZ1FmS0R6YW02eHRwUWJuTXR5OWJWUXBJY2dWSkR2TXk4akhuTXpURFV3dVdTZ0ttRGtqYlhYbnU0VUNWZldKYmZtU1FiOVotOFJfLVJZT2l6V1BaNThXVl96Uk1MRDVkc0RQdERlTFY4SkdCM2tzT0Z6Ym9vM0HSAasBQVVfeXFMTURibWVSVjFiVmZiZkpBN0Jsa3M0ZFJwQ0dxSk5kMUk1MGptRVBGeWRDSVJWSmdRZktEemFtNnh0cFFibk10eTliVlFwSWNnVkpEdk15OGpIbk16VERVd3VXU2dLbURramJYWG51NFVDVmZXSmJmbVNRYjlaLThSXy1SWU9peldQWjU4V1ZfelJNTEQ1ZHNEUHREZUxWOEpHQjNrc09GemJvbzNB?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-11-10T03:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d9a79d55d05763f96ac372",
       "title": "Africa’s resources need better leadership",
       "summary": "",
@@ -874,18 +1078,6 @@
       "published": "2026-11-10T01:34:39Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b86f6b76a1869944f32c32",
-      "title": "Weekly market commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published": "2026-11-10T01:33:06Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1070,18 +1262,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "d3212160414aac1d2d3bc5",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T00:09:49Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
-    },
-    {
       "id": "8e277aeed6e90ee6b73d96",
       "title": "EU is nearing a deal to link UK carbon market after Brexit split",
       "summary": "",
@@ -1260,186 +1440,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "38ea5b66d259522356b1fd",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "published": "2026-11-09T23:07:59Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "0e7ef2f6fd781bac1abfa3",
-      "title": "Customer-service provider TTEC had 5.2% less revenue, but income from operations rose to $23.3 million.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1hsVV9nS0xkcmhwVGRkc2VYRXpKZW5oSWxGTklkalotUUI1OTREb1JoWkgweTBpOTNPcEVqM2VhRi1uVGgtUmo5QmNibUJxRDFfZUpWQnJ6Q3BWRHE2akNfanl5S3ZTdTdNSVpRWk9hRWRUYUE1QUJpVTB2cDJGVS10eTNqTlEwS3NpLWJLWnhlQ1N0NkhyLTNEZ1dheWUwazlvME1lZFJYLWxsRkNrakttTEZMY0tUdTNDZg?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-09T23:07:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f701b8b81b94f95be487d7",
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
-      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T23:03:46Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843"
-    },
-    {
-      "id": "7cf306d7064eeba1263059",
-      "title": "Alti Global earnings missed by $0.16, revenue fell short of estimates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzJkWWVnM2ZFRWlwMEZrRFdaTlh2Q09YTkZvRERXOUt4a0lwSzJkcXZvb2o1TGQ4N1ZNZUVob2JZUi1DQkIzLTlzc3ljZWhTNkx3bkxsdVVMSjd6SVVucTRJU0M2bUFFa05Td2pjUWdwT1ZRUHgtd1pGS1R5bHhUNjdxVDYxcWYwX0JNSVJSelYyQkQ2MkNwU3MxNEd1RU9kUjFsWVJJblNIVGItUGJZSE9XVlo?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-09T23:00:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "11d8b712303ef06d641daa",
-      "title": "‘We were always here’: UBS CEO ups Hong Kong commitment despite US expansion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcllJR191TnBWNEdNR1pwbDR0ZU1vRVVjUFFaQkdSMVFWS0pKYXZlV1FrWnNuT0lYUHQzVU92Y2RoZTFRX25GS3FzM1BHcDFNS3pMR3BDcTZaQ2hRU0RZQzBPQTMwQi1lUk1Sc3R3cjQzM1d5djF4ZkdMR1NlRHNIaHZyNFZCT0pzZnhRTS1qMmR6OFp0VUZ0TUpWWDZuTWd4RFR6N3lhaDBHSG4tTTdnby1rUHhMeEp2NDB5LUJyV3prdFVfMVpFTUMzN3Q3QkRN?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-09T23:00:22Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "12dad0866668a0dc3da15d",
-      "title": "KOTRA Opens Europe Semiconductor Summit in Munich",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWR4MGV1RWxuVFlxYVFVLXk0WkxIYXU3YUx0ajlRRVEwUllELUdnckVHQU5oRWFvdHlSTWdZWmZyYU1xX2theGlnd2w5UDNIZ0I0TmxtMmV5VzJweGNUSXg0NkJMX0N6aWx3cElyLUJuMzhVekV4YXlsMXRmdGZUX2JXd0pBc2pOUndKZE0ya3JRRHlOMXc?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-09T23:00:05Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7bc6c6f1d73ef04083bd71",
-      "title": "Is Singapore still South-east Asia’s headquarters haven?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDgyRUVZVUtLbzV0MkJyS2RVTzR5dVVHc0luSmFhNUYtcjhHSENvV2JMbUthbG1iakl3bWdZVHZkTUZGaERxdk9NMUdSaGhRdEI3dHJsOVBxb2FiZDhVRWtQQmVyNlFBM29HeF8xc1FrUGo5YzNvQnJ5LU8zNGhhOXdfRlJQTjdTdjNnVXpBU3pheHVtN0xQSUZ2OTItbWhoZExUSm51Rkd6ME1oQUE?oc=5",
-      "source": "The Business Times",
-      "published": "2026-11-09T23:00:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1e4de6ee00e6af1c2cad0d",
-      "title": "MM Group Sells 70% Stake in Packaging Business for $2.7 Billion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXExZUxHdVpmbmtHQ1djU0ZYMjkwRS1BaEI2amFNTDZObFRpMVE0QVNMUWJyWjNoT1NqWmR2RE0wVmRrXzhnM3ZYbEFTNlZ3LWVZaU8ybnlNdlYzRTR6UzRMV2Zoa0x0TVZKR2NPRVRYTWtRdjBzalZQUHUxZGM2amNaNDFndnVGQXJEakFIQVNGNWRaV3kxWHdNWlpmajFoencw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-09T22:58:31Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ee9aab4d1d8b4a89ef6ad2",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T22:46:09Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
-    },
-    {
-      "id": "1a0ed203f39400709b5bd4",
-      "title": "Mexico’s Aerospace Industry Advances Through Digital Innovation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDNaOENMTEo5b1VVaWdnZ3hnYXlJQ2FuMUhjQ1hqZFpJRlhUVW8zX2Y5elV5MmdiS3BjZ2RMb2VHd09ZcVBQTk1xcjVFdTJWT29XaXpKMWxQOVdFOGdWTGtmcUh4dXc2X3ZhV2VkUTE3NFFjWHEwMUNwVF9SeGZ3a0cxcUpCY0FBVW5QRlZRMmZYSVZpaFBkOWZ6UF9MVmxaU2FLS29DT1o?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-09T22:45:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7419cb8a65e628ef4af9d9",
-      "title": "Turning capital into infrastructure through partnership",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUVTaGo3NjBzNS0ycDF0ZFRZMWxpalpJaGlOWDluQjlFN21YUVdJelFUQ1BLRDNUbkxjMF9OMFNoRTFUNVlRby1KbTJRN21fZXdjdzNRdndBcHZibHJRcUhtS1dReURsTXhjOWF3ZG1NRzkzY0R4OTF5WUUtal9XclZzTlRWS3c1eFJPMTYzekxHc2lORzBlV1dRdHNFN0FaOExR?oc=5",
-      "source": "Macquarie",
-      "published": "2026-11-09T22:34:25Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f07dca7c625bb864bac617",
-      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-      "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
-      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-      "source": "NPR",
-      "published": "2026-11-09T22:30:49Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F5a%2F249abfba43bea5b714f1d6e355d2%2Fgettyimages-2299339600.jpg"
-    },
-    {
-      "id": "d5f87f0e8f4bc72e7cc3ab",
-      "title": "Space Machines Company and SunDrive partner on spacecraft solar arrays",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYmQxYVpfTy1iSjlTWWN3UHpKSkZTckFQemNyVmpEa3JaQ0xncGU0NmgxdlVuRFdwci1FMGdFdjBYQ1pUcG8tU2RNTnNvTkt5M2tZejlaMWdyNkxxZE9FT0hveXpFcDg5a3pSal9pNl9HVl9ROWNDZGxrV1NxWE9LTDhOb2doTnFNd0Z0ZGU5QlVnNDVGNUVHOGJLRGJsTzFxOU9vVlhWNjNWWlpsbWhmTG9uTUhyQQ?oc=5",
-      "source": "Asia Pacific Defence Reporter",
-      "published": "2026-11-09T22:30:09Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "99bbd4c65dc35d02506b58",
-      "title": "Did Mixed Earnings And Dividend Affirmation Just Shift Somnigroup International (SGI) Investment Narrative?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOelJTOUZhNWFIMjE3dTZWdUdGYnBEd3l2ODU5bU5PYmZZRUN6enBxQnJrUGFNVUxIMjlzdzhxN0lfSUM5QjRRaHhxSHhGU3B0Zm1FeEJUQURKM08wbDFHUHVWdXZvRTd0WF9VUUpQSHIyalo2dFZSbnF5OVVhTW44XzJNNTliREFndDVPM09Dd3BHMTYxU2FoTkg3ODZxZVJiZUwxeG5TcVQ5bm5yem5BMkdsSTJ1cjk4WjlqbjIweVlWbEkwS3RVMGNZWXZnNFBMRk94LXNFU0RfckNSNUVJVWUtY9IB6AFBVV95cUxOZ1RfVTc1NjUtV1htRFhfQl9FMXBWVXpVRzBDaEViM0ZRSXgwdTZSM0VoSHB5SlcyNEEwQ1lJRUgySVM4bDVpUk1SVVVmQTg0TnZRelppZENzNHMwNWxlNThzQm0wOTB5TzJuWUJiR2ZEUFBYa1BoNkwyekNGT1hhNXBVOGtCMUlXV25FSnY4cUY5cGFFQVlXdER2RGZXQUYtRHotejR1djZhbko4VlhNRS03TjE1Z0VIMGxPVWRmMjRfQUQyOEs5cGF3NEljZ1V3MGtCVVpYNlp4bFpFcjBUTVoyS2dVU2NC?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-09T22:29:07Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3baee4176b6d2795b4266c",
-      "title": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
-      "summary": "Ethiopia's health care system was once considered a model in the region. But in the northern Tigray region, ongoing conflict has left health facilities and medical workers vulnerable to attacks.",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-5987949/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
-      "source": "NPR",
-      "published": "2026-11-09T22:25:13Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
     }
   ],
   "countries": [
