@@ -1,5 +1,17 @@
 [
   {
+    "id": "bf679c28a6a5a75d27f0de",
+    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+    "summary": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ OpenAI won’t face criminal penalties over the Medicare hack but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies. Anthony Albanese on Tuesday",
+    "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+    "source": "The Guardian",
+    "published": "2026-11-10T02:31:08Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
+  },
+  {
     "id": "195a47e5ceb015f5c54089",
     "title": "Creality Launches mBox for Children With AI Design and Print Monitoring",
     "summary": "",
@@ -126,6 +138,18 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWN3eTBZaHlnQjFoLW5mTVcxR0Iydkp2N3Nfekk2RmFEcHYtRmc3WXJVUEkxanFRbGtLd3ZidWROc3FMVjh5Q0NaLWNXN3VObTdQTURJTVhTT3hUQmthNm5qQ2FobGpZbjBTSGRpaHRHYzdGWEh3Q2U4dDZQMnd1Yzk0dUdzdVVrQUxsQWtJNWVUXzdOTE5WRVFZUEpudThKT3pEUjBCRTFiZnZ2aTZvdDllZGJwNGNBcDBmeXpPZGM?oc=5",
     "source": "Punch Newspapers",
     "published": "2026-11-10T00:51:10Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "824c2d5d18e236b503a258",
+    "title": "WIMAFRICA seeks greater economic power for African women",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1l3RjB5WnVpWkRncjVhVHlBeFBIMDc4Vk5nMmRBWXlqeU9iZ09NRlFYSmdQTTRpU2RKVmxfMkRiM3JNbG5hTXBhQTJ4dkN2UmpCWE0xTENMWHQtSExHdF9ROTdCRUwwOGxBcVpmdk0wYnBMUU9LZDRKX3V2ZWlvMGFsVFJxV3BX?oc=5",
+    "source": "Punch Newspapers",
+    "published": "2026-11-10T00:51:08Z",
     "category": "World",
     "topic": "Africa",
     "country": "",
@@ -504,6 +528,18 @@
     "image": ""
   },
   {
+    "id": "4bbc265a0e91d1e8d617f4",
+    "title": "CSIR-NEERI Wins First Prize for AI-Based Tree Assessment Model at National Hackathon 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERwX19RRDlBc2FTNFBYeE1sYjZiZEYxb2xlLXhRQWRqM3VWRVhwYVRIUU1VRzdHZGg3ZWxrMTR4RFAwaFYwSF90amw0MFBMcDlfVklBcVNaVWp6VEk1TFVlM1Q0SF9XMklXMjVrZzNjSWFSNnIyLTJxbXBzZkd1LXl1eWxWX0RBNklOZ2tMYndJZm1BaDdVUGh3?oc=5",
+    "source": "www.nationpathindia.com",
+    "published": "2026-11-09T22:17:09Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "016d68c9d982c0bf3ee4bc",
     "title": "Tech-Driven Wall Street Rebound Lifts Markets as Nvidia Falls",
     "summary": "",
@@ -828,6 +864,18 @@
     "image": ""
   },
   {
+    "id": "110a995f3cdcd2cbc04504",
+    "title": "6 Best Space Stocks for 2026 and How to Invest",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaExpQmdOT0MxNDR6MVBSb2dKLURRTXdaQ3UwRFVpY3J2WTVHT2c2a2lVeWxEbmFhMVBVN2FyNlJOVk9rLVNTa3p6V1NhSnRWUGxHeU9kVWMzRmRnNHJUXzRxeVNVZUtTQXNocU5jc2VrenMtdTFRQkF4YUVxUXpOM0ltLWVFRE1NR2tMOA?oc=5",
+    "source": "The Motley Fool",
+    "published": "2026-11-09T20:57:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5ab5a0e1038272e2e59eed",
     "title": "Fervo now has $12B in orders for its geothermal power tech",
     "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
@@ -848,6 +896,18 @@
     "published": "2026-11-09T20:51:06Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a80ea7f6daf3b1a41a2e7d",
+    "title": "Media group Global to acquire Alight Media and its 5,500-plus UK ad sites",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXQ2amVrVVpYMDZRZHY0ejRzTlFhMkttMTE5STYwN1lDVFQ2b3Y0ZFZFWlJoTTBDS3FjT3JxNUQ0RU9tU05tWW1BU1lFUGhJaUtKcGZZRlVXSFJDdkNROGdRUVdpMF9iVlJBNldGakJlTVlXZk1CaTk5clczcE1wTDliTTBNU0EzMzl1RHY0d3FpeHpWTnc?oc=5",
+    "source": "PPC Land",
+    "published": "2026-11-09T20:43:33Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -953,6 +1013,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSU9lUjY5c3JLSFhBQlEtYm1aekpzdXBJLXd2SmJuSUtQTGRXYjJLdjhFSWRhbDd5S05qa1BlWW5CT3hzVUdaWEV1NkRpZkUwX3FCMkgxT0J5aTdsZnVaSkU0b3NZd0tBN3UzNW1nQjR5VWp0SmxNWEhjdWdTQlVsTE5WeW1iSTktSHdETU43LUx6eWkzV3ZETGJJM1RnaHlUVy1ZWjdqd1dyZw?oc=5",
     "source": "Time Magazine",
+    "published": "2026-11-09T19:53:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f05dd4a92fa8e7c5846d7f",
+    "title": "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2FBdEhPNzJRUVBrTkRSUko2RElmdTY1dWdKX2dCNDJ2WkhDOGNRWkZLY1BBSzFqYVVUT1c1cURoeEprV051aWQyM0RKcHoyQ29VSVRvRE5CZ2lWc3ppblRrNDZKbmVoV2tObEhNSUpFNFAyN0JaWGxUZ0VFVmtQaU1mc3NPbFU4dDNSLTFLOS12aEZWZ0cw?oc=5",
+    "source": "AOL.com",
     "published": "2026-11-09T19:53:00Z",
     "category": "World",
     "topic": "Americas",
@@ -1234,6 +1306,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "63225c2f4b5f77f252cbfe",
+    "title": "Venezuela captures 30% of Latin American upstream deals in first half",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHFuY1VESnE4RmttY0JvWDRPZWFPY3JYVjd5amdOLTNBV09tZm16NVpDcnAzaExwcXJCeE8yaERWUXFjYllsN1UyRUowZWt1VW5vTUg1dXotOWU1cl9IaE1KS3c4bUtMelNhaTdGVGVKQ2V0RXFkWUdTY204Z000R2lTYVVrdmM1RzNsRkpPaXMxUlZhd2x0M0o4NmFHUDhCRm5WYmV3?oc=5",
+    "source": "BNamericas",
+    "published": "2026-11-09T18:34:12Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "51b63cd3b4b9887d130996",
@@ -6968,6 +7052,18 @@
     "published": "2026-11-08T04:00:00Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "662c3a4a30607a66625b6e",
+    "title": "The sea’s grip on the global economy: The chokepoints that can bring world trade to its knees",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa25DWFdia3hYalNfSkRYek5pZ09uYzV3dmIzSnViMDZqQ2RqSVMtOWNycmYxSmNzTFIwZHJMYWUwTllsUmQ2MlhJLTBCWGRpcGdBcWRsZ2hNbkxoaG9CTVhkVkZtNmJZUV9PQU1HZkVobUlpUFhkeTJHZlNRSWkwTHNNS2FxYVV0ODN2bzFXMFp0OG4yTlpXNW4zRERXZHRYazFscFFNZm0yWm0zLWQ0OVlVRWxlMS05ZjJudmx1Tjk5SmRQRHVid1V4WGQ2TTlYb0hWLWZMVXV5cHNBM1R5cGlSY2xzeGpGNHgw0gH_AUFVX3lxTE5qNzlqa1lEOGVkWkd1TDVQb0x2TlpJdy1oNVlTUDNYLXhESW9JSTJLVkV3TG1fdHhLLVZZLVhlWGdMUXdaMWFuV0ZjVUNfWmhPRHNsR2dlS29IMDREc1RTOXRBdC1JRHZmeV9jZkt5akk5S2huSGs1ZDBscUNIckF4elZuTC1yOWtUSFQtcXZRdlpzbWIzR1JRWkVFY2hFSU8yUXZjai1QYm5GOWFvV3pnWGFPRVRDZHViU1lpTTQyQ2ZGNUVTNmZQbnJqczExTVZpOVJJeUU1YlBtME42ekdGeWR0Rm12Z0UtZTU3dl9ROXN2d2VLSWxlTnNndFhBVQ?oc=5",
+    "source": "EL PAÍS English",
+    "published": "2026-11-08T04:00:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },

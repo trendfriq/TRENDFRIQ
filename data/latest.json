@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-10T02:28:54.510097Z",
+  "last_updated": "2026-11-10T03:22:26.365066Z",
   "articles": [
+    {
+      "id": "bf679c28a6a5a75d27f0de",
+      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "summary": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ OpenAI won’t face criminal penalties over the Medicare hack but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies. Anthony Albanese on Tuesday",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+      "source": "The Guardian",
+      "published": "2026-11-10T02:31:08Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
+    },
     {
       "id": "195a47e5ceb015f5c54089",
       "title": "Creality Launches mBox for Children With AI Design and Print Monitoring",
@@ -98,6 +110,18 @@
       "image": ""
     },
     {
+      "id": "b86f6b76a1869944f32c32",
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "2026-11-10T01:33:06Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8a35af252b32001f777c64",
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
@@ -108,18 +132,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024"
-    },
-    {
-      "id": "37370447a6385832be2aa7",
-      "title": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdtWGFXYzA5TGJzSTFHS29vS0IzZXptRDExQ3dNX2Z0TGttU1hESE1KN0RVX2hvTC0tRXJiUGpBM1RLTlJWTmJfdTU4bFBadU1zdDQycjZzaTdjc01lMjJ0VVE4MWpuWnV2ZGFnVEZ2MXdsY3FHczRQNGMxLW5FWG9ibHJQZ3p3YWpyN3doNFpFM0pCSFVHNG5tNWVHNUFRdkRDMHhHbDFSeVBHLUJfQmJ2aTk1cWU0VmtEUHpHX1Y?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-10T01:24:19Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
     },
     {
       "id": "7dae432e3b54d4c45f0f0b",
@@ -164,6 +176,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWN3eTBZaHlnQjFoLW5mTVcxR0Iydkp2N3Nfekk2RmFEcHYtRmc3WXJVUEkxanFRbGtLd3ZidWROc3FMVjh5Q0NaLWNXN3VObTdQTURJTVhTT3hUQmthNm5qQ2FobGpZbjBTSGRpaHRHYzdGWEh3Q2U4dDZQMnd1Yzk0dUdzdVVrQUxsQWtJNWVUXzdOTE5WRVFZUEpudThKT3pEUjBCRTFiZnZ2aTZvdDllZGJwNGNBcDBmeXpPZGM?oc=5",
       "source": "Punch Newspapers",
       "published": "2026-11-10T00:51:10Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "824c2d5d18e236b503a258",
+      "title": "WIMAFRICA seeks greater economic power for African women",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1l3RjB5WnVpWkRncjVhVHlBeFBIMDc4Vk5nMmRBWXlqeU9iZ09NRlFYSmdQTTRpU2RKVmxfMkRiM3JNbG5hTXBhQTJ4dkN2UmpCWE0xTENMWHQtSExHdF9ROTdCRUwwOGxBcVpmdk0wYnBMUU9LZDRKX3V2ZWlvMGFsVFJxV3BX?oc=5",
+      "source": "Punch Newspapers",
+      "published": "2026-11-10T00:51:08Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -262,6 +286,18 @@
       "published": "2026-11-09T23:56:16Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "37370447a6385832be2aa7",
+      "title": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdtWGFXYzA5TGJzSTFHS29vS0IzZXptRDExQ3dNX2Z0TGttU1hESE1KN0RVX2hvTC0tRXJiUGpBM1RLTlJWTmJfdTU4bFBadU1zdDQycjZzaTdjc01lMjJ0VVE4MWpuWnV2ZGFnVEZ2MXdsY3FHczRQNGMxLW5FWG9ibHJQZ3p3YWpyN3doNFpFM0pCSFVHNG5tNWVHNUFRdkRDMHhHbDFSeVBHLUJfQmJ2aTk1cWU0VmtEUHpHX1Y?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-09T23:54:18Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -578,6 +614,18 @@
       "image": ""
     },
     {
+      "id": "4bbc265a0e91d1e8d617f4",
+      "title": "CSIR-NEERI Wins First Prize for AI-Based Tree Assessment Model at National Hackathon 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERwX19RRDlBc2FTNFBYeE1sYjZiZEYxb2xlLXhRQWRqM3VWRVhwYVRIUU1VRzdHZGg3ZWxrMTR4RFAwaFYwSF90amw0MFBMcDlfVklBcVNaVWp6VEk1TFVlM1Q0SF9XMklXMjVrZzNjSWFSNnIyLTJxbXBzZkd1LXl1eWxWX0RBNklOZ2tMYndJZm1BaDdVUGh3?oc=5",
+      "source": "www.nationpathindia.com",
+      "published": "2026-11-09T22:17:09Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "016d68c9d982c0bf3ee4bc",
       "title": "Tech-Driven Wall Street Rebound Lifts Markets as Nvidia Falls",
       "summary": "",
@@ -890,6 +938,18 @@
       "image": ""
     },
     {
+      "id": "110a995f3cdcd2cbc04504",
+      "title": "6 Best Space Stocks for 2026 and How to Invest",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaExpQmdOT0MxNDR6MVBSb2dKLURRTXdaQ3UwRFVpY3J2WTVHT2c2a2lVeWxEbmFhMVBVN2FyNlJOVk9rLVNTa3p6V1NhSnRWUGxHeU9kVWMzRmRnNHJUXzRxeVNVZUtTQXNocU5jc2VrenMtdTFRQkF4YUVxUXpOM0ltLWVFRE1NR2tMOA?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-09T20:57:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5ab5a0e1038272e2e59eed",
       "title": "Fervo now has $12B in orders for its geothermal power tech",
       "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
@@ -910,6 +970,18 @@
       "published": "2026-11-09T20:51:06Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a80ea7f6daf3b1a41a2e7d",
+      "title": "Media group Global to acquire Alight Media and its 5,500-plus UK ad sites",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXQ2amVrVVpYMDZRZHY0ejRzTlFhMkttMTE5STYwN1lDVFQ2b3Y0ZFZFWlJoTTBDS3FjT3JxNUQ0RU9tU05tWW1BU1lFUGhJaUtKcGZZRlVXSFJDdkNROGdRUVdpMF9iVlJBNldGakJlTVlXZk1CaTk5clczcE1wTDliTTBNU0EzMzl1RHY0d3FpeHpWTnc?oc=5",
+      "source": "PPC Land",
+      "published": "2026-11-09T20:43:33Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1070,6 +1142,18 @@
       "image": ""
     },
     {
+      "id": "f05dd4a92fa8e7c5846d7f",
+      "title": "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2FBdEhPNzJRUVBrTkRSUko2RElmdTY1dWdKX2dCNDJ2WkhDOGNRWkZLY1BBSzFqYVVUT1c1cURoeEprV051aWQyM0RKcHoyQ29VSVRvRE5CZ2lWc3ppblRrNDZKbmVoV2tObEhNSUpFNFAyN0JaWGxUZ0VFVmtQaU1mc3NPbFU4dDNSLTFLOS12aEZWZ0cw?oc=5",
+      "source": "AOL.com",
+      "published": "2026-11-09T19:53:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e7f0cb6b435ee52c23268c",
       "title": "Anthropic launches powerful Fable 5.2 and Mythos 5.2 AI models ahead of Wall Street debut",
       "summary": "",
@@ -1150,18 +1234,6 @@
       "published": "2026-11-09T19:35:20Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b86f6b76a1869944f32c32",
-      "title": "Weekly market commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published": "2026-11-09T19:29:30Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1368,78 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "51b63cd3b4b9887d130996",
-      "title": "Start with the problem, not the technology",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRk5mNjZVQV9lNVUxb1JqQ1ZKcVZvMll1RmZWeEdpczZZMVRYZDNFZDE1N1hRQXZ4TDEwSVhJSk9GNF9NdkZ1SkRfaFZSOW1kMXNhV01aSTZOVlV1YVZfWG5USFlFbS1tVTFUU1JvU1ppWVJ1VnNKSTNmZTZ3em5HMERZc1k?oc=5",
-      "source": "Raconteur",
-      "published": "2026-11-09T18:33:45Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0386a5a624cfeb25b3a826",
-      "title": "How European Energy Giants Are Pivoting in Mexico",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHdBUnlfZ2s4SUZvNnAtZU5odnBrMGd6ajEyb0ltSG1SUjVZLU96Z2dObFBPcHpKNmotY09KZlpjckpuN0t5OWVJdlhzR0JMb1FKd2lQUXVCSFFBYXJwU1pSOVROanE5WG5YejdSNlZ0UDF3Vkc3Tmx2WnpZUGZoRGdPSld3bk9aSkQtNHV4Y3l3V2EtV3ZFd25WVWhpVGFXN1E?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-09T18:25:36Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ecf076461bee45a10d359",
-      "title": "Europe’s age of economic certainties is at an end",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2ktQUdacHFzM3FvYTc2bEFwTm81OUJtT1VwZ3Y3c2tneERJaGJ3Q1Z6X29yRlZia0tnXzZ6T1ZtRDZUYlF2VmlOeGw2ZWQ3bGlCRzZrN0J3bVE2REtlaEpUbkpNYUEydzFzUHVERFhSSlFnY3lpajYyXzVObnp4dDhiYURqenk4NVBxR3VrWkNaTGhNcnRTbUpyUlFSUmhuS1llX2xUckpNa2UzSmtpMEtjUGg?oc=5",
-      "source": "The Times",
-      "published": "2026-11-09T18:11:05Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e5d7409756abf44b4d0aa8",
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T18:09:52Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
-    },
-    {
-      "id": "e5d0742cfbaa9454ba149a",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-09T18:08:07Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b69a/live/f62b4ff0-dc64-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "cf2829ad74c8e9e2273e5f",
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "source": "The Verge",
-      "published": "2026-11-09T18:07:23Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
