@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-11-10T19:21:22.544786Z",
+  "last_updated": "2026-11-10T20:12:16.686800Z",
   "articles": [
+    {
+      "id": "9435eb24521189adedd5f0",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-10T20:03:41Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg"
+    },
+    {
+      "id": "fc8637108efa1d81823403",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:57:52Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200"
+    },
+    {
+      "id": "5b4d20a441ba23100863c3",
+      "title": "AI cloud firm Nscale considers delaying $35 billion listing, The Telegraph reports",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUxpUWpwTFVxSmg5RmczRTJ5LXRDVHREZzRWRGE1MFdvQ1lVUFNOSGFjWnVYaF8xa09xX09tWnM1N3hMVkRFNTh1SW9kLXVhbm9oV0Mxb0JrZmhEbFZ6TXVBWHN2V2hsUGZYaldsczRnNkszR1FMNW1kRkM0Rk1tNE1LbmhQWHpXLURFYTBSMlNpd2JEZjRCeEplWE9MckZj?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-10T19:48:39Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9439dc998edbe201d6c0c3",
+      "title": "Beyond talent: DICE 5.0 urges investment, infrastructure to unlock Africa’s creative economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnpxMUJZMVFRQ1c5U19lSFEtV3JCNGxicGxnS3dyNjFuRXF1SHNYMHRLV0k1V19kV3lpcmxJdDJSb2luaXluYWhjTzcteUdhODlWMG5QSTRTRlZNTlkxS3ZWT0hnMUNLVmpVU0Z0dndocGl5eEcxMmZneWFLWkY5UU1NbE9SQ3BTamI1ZGtWMVJTOE9pWGNPOXNEZVQwUkZWSTJlckh1UHZ5Q0J6amkxVldiU1JHZw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "published": "2026-11-10T19:43:40Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "18bbaebc5689f4c97e5c02",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, there aren't many people using that perk: \"With a very small number of eligible PlayStation Plus [&#8230;]",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "source": "The Verge",
+      "published": "2026-11-10T19:40:52Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "1ddd5672fdcb38640b92d9",
+      "title": "Economic and monetary policy outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
+      "source": "Federal Reserve Bank of Dallas",
+      "published": "2026-11-10T19:30:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1f23ddb43e5f7ed1bc5ad3",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:23:34Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799"
+    },
+    {
+      "id": "4aece83a558e150f3b5def",
+      "title": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
+      "summary": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency’s actions toward ABC and Jimmy Kimmel During a contentious Tuesday hearing on her nomination by Donald Trump to serve as a Federal Communications Commission (FCC) commissioner, Senate Democrats hammered Danielle Thumann about recent actions taken by the Brend",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
+      "source": "The Guardian",
+      "published": "2026-11-10T19:19:46Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a2cb32ecf19a365e2b32c21c195ec235f179c9bf/229_225_3798_3039/master/3798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cd653065da168d3f19b2bfbaa4984b4"
+    },
+    {
+      "id": "b1f37d94439e8570e9c9b0",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "source": "The Verge",
+      "published": "2026-11-10T19:19:12Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "38f7683430bac08520af09",
       "title": "The US is winning the AI race. Jensen Huang could have blown it",
@@ -410,18 +518,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/sundrop-promo.jpg?resize=1200,675"
     },
     {
-      "id": "1ddd5672fdcb38640b92d9",
-      "title": "Economic and monetary policy outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
-      "source": "Federal Reserve Bank of Dallas",
-      "published": "2026-11-10T16:39:26Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "76b2fd9006b361a5586472",
       "title": "APEC Economic Leaders’ Meeting: Charting a course for shared prosperity",
       "summary": "",
@@ -516,6 +612,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/b5143f50-dcf4-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "43502da62559e1af25e84d",
+      "title": "Digital Economy: International Forum in Algiers tomorrow, Wednesday, to Explore Partnership and Investment Opportunities in Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4ZExya2pJOWJiSFlBX29NdDJ4RXhQUHJXSDNtVFUxQmhaWkVwcUs3RU1QV1JvaC1FU2N1Z0g3dHQ3dGFsdG82NFFvNGl1M0MwMkE4?oc=5",
+      "source": "الإذاعة الجزائرية |",
+      "published": "2026-11-10T16:06:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d9d692fda571fb8b5343bd",
@@ -734,6 +842,18 @@
       "image": ""
     },
     {
+      "id": "8b5ca5cd0c489eda80af48",
+      "title": "American investors hold billions in debt from China, Saudi Arabia and South Africa as global holdings surpass $4 trillion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckM1Ry0zWVVYa2xfa3ZZYmVvUmFkaVFCZkRyaGg5V2lKR3VWdTdOSzRtRE9tbkEzNEpXRFJrU012U08tLWRSQjAtWktETjVRM1R0OEJSWkh4aTFiWEd5TGVBOEdlOFl1UkFlRFNKVGdHQk00dm54WlFiUTFsNmZKeTlKd0MxZWtWeTJQb2F3RTVDVndCZzBYWVlZUnhPMDhnQnM0ZUtPZFVwaEJJT0pzRzl6azNjWDR5X256NEJRYUFFSmJ1WUJnZTFqUHFkMWFWeEJhSWFTa3A?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-10T15:30:07Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "679acb5039d281a572b7d5",
       "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
       "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
@@ -850,6 +970,18 @@
       "published": "2026-11-10T15:15:00Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5677e1c115388d62814a14",
+      "title": "Abdullah bin Zayed attends launch of third round of trilateral talks between Russia, Ukraine, and United States in Abu Dhabi today",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlJ0X3FINGFMUTRQODQwTGE4OEtOWE5IVGh4LUl3YmtrMkQ4NXBrSUhmeVhmLWRhZ1hDOHY4NEJDTUZlRzBpakVyMVBLVmFUeUFYWmVMdEVyVGhNdG5IM25mQnFVYmdKS2doTnhVek9XaXBEY2JxV0wzYjl2ay1XTVFoaWg2alZmWEdlUHFn?oc=5",
+      "source": "وزارة الخارجية الإماراتية",
+      "published": "2026-11-10T15:12:32Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -986,6 +1118,18 @@
       "image": ""
     },
     {
+      "id": "9bb83c97eeb55966570710",
+      "title": "The World Has Changed: Insights From The New AI100 Report",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFRUQTZaUnp6azVPVjVIc3AzT3RaWW1JTUM5NDdCc2x4czEyYU5lTU5vWjhBWlpvUUt6TDhfTEhhWnYwcndqelhLd2VEWmdEdUZDemZjekt1X0RXZmQ1bEVLOGZxVE1IUHdTOFhHNElVeDZ6THk0RENxUE15YXIzVTczZkN1U2FPeEc4RmlRZw?oc=5",
+      "source": "Stanford HAI",
+      "published": "2026-11-10T14:41:11Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8d26bc1cb569adf3f19dc4",
       "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
       "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on phones, PCs, the web, Xbox consoles, and even TVs, it appears to be restricted to just Xbox Series X / [&#8230;]",
@@ -1118,24 +1262,12 @@
       "image": ""
     },
     {
-      "id": "5677e1c115388d62814a14",
-      "title": "Abdullah bin Zayed attends launch of third round of trilateral talks between Russia, Ukraine, and United States in Abu Dhabi today",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlJ0X3FINGFMUTRQODQwTGE4OEtOWE5IVGh4LUl3YmtrMkQ4NXBrSUhmeVhmLWRhZ1hDOHY4NEJDTUZlRzBpakVyMVBLVmFUeUFYWmVMdEVyVGhNdG5IM25mQnFVYmdKS2doTnhVek9XaXBEY2JxV0wzYjl2ay1XTVFoaWg2alZmWEdlUHFn?oc=5",
-      "source": "وزارة الخارجية الإماراتية",
-      "published": "2026-11-10T14:09:45Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "c48219c8c0aa14beadf5b4",
       "title": "EAC Ministers use the 49th SCTIFI meeting to advance regional trade, investment, economic ties",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzhMVkN0eHhBVnJUV3JxZVpjY21lMlBRYXI2WnpQSV9MUjU2UTIzVEdrWEdYcjFzLU8wenNRc0NHUlJucnczWWZZWUlleXhlYkNzSG5XYmRDUWktTUZWdHZxWkJxa2JkRVZRZ213SU9PZUtudHdjd3EzUjl6TER5c1R2b0ZYV0s0b3Q3ZFE1MjJDVlRXM3NISjVMVW9BQV9fME4wZU9SbUE0cEZKSVptUEV5RHhOYXVG?oc=5",
       "source": "Daily News",
-      "published": "2026-11-10T14:09:23Z",
+      "published": "2026-11-10T14:10:25Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -1308,138 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "386e0d0932886ca3523d89",
-      "title": "Opinion: US explorers have a home advantage",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVG1veF82eThjTkRHR1dMMHl2YWhMWk8xcWhPQXZ0ZVVadHFQOFhDcGpGMndQdU00YkRDMTVqUGNTSGhDNFlFUUhXUDNXZ2RKU3dZUzBGNDNEZUlPRFhiZ3JMU1ZTRXgyb1ptVUc2X2stdjJ2d3Qwc3pTZXhzOVA5ZWczdTZhcUlKdG0weGpGazhacEk?oc=5",
-      "source": "The Northern Miner",
-      "published": "2026-11-10T13:56:56Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9bb83c97eeb55966570710",
-      "title": "The World Has Changed: Insights From The New AI100 Report",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFRUQTZaUnp6azVPVjVIc3AzT3RaWW1JTUM5NDdCc2x4czEyYU5lTU5vWjhBWlpvUUt6TDhfTEhhWnYwcndqelhLd2VEWmdEdUZDemZjekt1X0RXZmQ1bEVLOGZxVE1IUHdTOFhHNElVeDZ6THk0RENxUE15YXIzVTczZkN1U2FPeEc4RmlRZw?oc=5",
-      "source": "Stanford HAI",
-      "published": "2026-11-10T13:52:30Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c32e8fb3132733eaa1468b",
-      "title": "Vizgen Launches New Business Unit for AI Model Spatial Data Production",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFNkel9MNTd6eElrTzhLNloxY0tqU0FBV213T0M0ZE9GMjBxX29SaVpabm9XQW5HMXRxVE1NMzctMVRNdldndjVBNHJlMVJVWmZMSWVaOTlCVXY2X1o5UWgtLVlraldnRUJRNWZPNUFSSEhsc01kLXB5YTd1aHM5bGk2dDNjTXIxelE1RzZScE5ab2dvaFVXdnZma285cGs?oc=5",
-      "source": "GenomeWeb",
-      "published": "2026-11-10T13:52:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "04cd65872a96fc81ad0aea",
-      "title": "Why Africa’s Economic Growth Has Not Become African Prosperity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGNQSGNuZEhNdEgzVVEyekUxQllCWmpiMmxFQXZVUktZS29MZm52azI2VlM0OGhKdGpHTmQxZk82eXZuNFRNS1NQeWdyU0pobDNoYUxFeE1KUlFtY0J4THJqMWRSUU5TMTl4VnZKeGEteS0xcW56TVAzNUNpVEg3R3hmaFhENFN1V3J6cEJpeF9ackNPZXB4NGtR?oc=5",
-      "source": "CNBC Africa",
-      "published": "2026-11-10T13:49:22Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "afdc6ec15c3be9fd1f75ee",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T13:45:13Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff4/live/cdef63c0-dd0c-11f1-97df-bd0937690c4d.jpg"
-    },
-    {
-      "id": "fc4c9d37a6c37b33883917",
-      "title": "New regulation for heating oil market, but no price controls",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR0lmNTB1WDJ3dFhGelZFUWVJT3J6aTBLd3RuWXQ4dW9lcXJKZHhIWW1qTlo5aUFHXzRFQU9ZQkUteS1CNEZGZThHQzhDWFBUaDRsQ2pzMjBfWEE?oc=5",
-      "source": "BBC",
-      "published": "2026-11-10T13:42:29Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "630a1f7fe6555cc5a98713",
-      "title": "Global Stocks Rally as Oil Falls Below $90",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PWW03WTc1VU1EOVZMSlBhdmlGY0RYZXJMOU5mVXB4eThqUlpieDk3U3doSEswVkgwQXFobkRNejBpUDNTeVBGOVdFUkljMXU4NllVZzJqZWNrY2xISXBLaktpOVpyYVBBWGpBcjNPUWk?oc=5",
-      "source": "STL.News",
-      "published": "2026-11-10T13:41:31Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1af9ca502ef8acb3190fc5",
-      "title": "1,500 Ecuadorian families grow bananitos for the European and Asian markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFM5aDBad0hZZlpYc041SEkwUnd4dnBEa0hLXzZNVjRJTW1OR2drUkRNTmt1OGloSnZIWnI2OTZkN1NiU1hZc04tWFkxRzkyWlUzeHhabVFCNHpLeklHektySnM4bjk1d1VzbkY2U1JZTjZmN05WbFpUT201d3ktbVBCbHVSdUpRVlcxbXdDczZxZV9EWWYxeURzUHVmcko0N3U4ZnpaeWtiOFhCQ2VFal8yQl8xV2dJcTA5V2xrdTBxWEpMc1dHMm9NZi1CUQ?oc=5",
-      "source": "FreshPlaza",
-      "published": "2026-11-10T13:40:20Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "132166145d07107f59bc7e",
-      "title": "Banks Take Action to Control Soaring AI Agent Costs, Says McKinsey",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRk1TNmg0RU54THhaRHNrNU5ZY1ROTWRENGZFUUpHOFJES05lR19JVUd4bUlYMlZ3blp1SXlabllfbUlQdGJaT0tad2VSLWlFRWJNdUhieWtzRno3Q2hCQjB0N2dPNm5YY3lYbzNxSWVjUXVtazhIeUJvblF1dzM1OEZaNmh5VlVjTkVXMVpUcjRFZw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-10T13:37:49Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "265b1ce8ffd46376520b18",
-      "title": "Before Xi and Trump’s Apec meeting, what’s on hold – and what’s on the table?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMThHY2d6azhzRlJNUDZWZGVYUmJpbFpma1BzaHdnUDY3d0pZVWZLZEVaUm5NdVlLRUNuQ3N1UmlNaDZoR0huT2oxN0szOGotZE1MUGc2OGt0SjhhZDdnQXpwM2tST0ZiUjE5QWdmOUxoZlA2aGhkcC0tU1dJdDE4Sm9HWHY1YVBZWFVUR2RSVGNRMTB1Y0VLOVdGVmo4TGg0ZWFlNTVXM2xUbzA0aHZQb1N30gGyAUFVX3lxTE04ZFVFY1Z5S0xBWlpnaEVqVXEwbWxnSnphRmRfemNfZ1NpR2xlTDJBZWZPSjdPVmI5ZDNPSjZuV1VtT0txOFFkZnRJaHNyMUQ0XzZLMHR1Vk5LODYxUFM5UTRsOXo1YTRoZkxpcTN6NThkemZIaW1VOG9RQnVCSWZzTnNYTURqT3gyZkRLUFJkb0JvcFFtMFVmTktwY2swRm1GdzdUS0dCTnRFQTRjbmlpTGc?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-10T13:30:08Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c7148a5c2c31f47ef041ed",
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T13:30:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Ring-drone.jpg?resize=1200,1200"
     }
   ],
   "countries": [
