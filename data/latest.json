@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-11T16:12:57.890474Z",
+  "last_updated": "2026-11-11T17:19:46.281095Z",
   "articles": [
+    {
+      "id": "6dfc46f5a8876bfd0f22e6",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are e",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "source": "The Verge",
+      "published": "2026-11-11T17:09:58Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "bf0354919e892807020aa3",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T16:59:34Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
+    },
+    {
+      "id": "e195474e00495d06eac1a6",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T16:45:11Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg"
+    },
+    {
+      "id": "3daadb44302fb76c238d8b",
+      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
+      "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. ",
+      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-11T16:37:45Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
+    },
+    {
+      "id": "a1681fd2accc3033f6d025",
+      "title": "From making music to detecting drones, Israeli startups bet on sound",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tUk5GWmdibXhJamVMZUVPY1VRamVJN0gzSUxYbmdQcDQ2SmhaaW1YZXhUZXYtZmZ2NGVoZHhCeXNxMzlWTHp6bmp3aDg0T0RTc0hfTHlsSGNnUXdZN25GbHp3?oc=5",
+      "source": "Ynetnews",
+      "published": "2026-11-11T16:26:36Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "639dd1bd8a90352c10e44e",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:16:07Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024"
+    },
+    {
+      "id": "f31248890af40385bfab1b",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:14:44Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
+    },
+    {
+      "id": "cf2fc89481231d9afe3919",
+      "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+      "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing in H",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+      "source": "The Guardian",
+      "published": "2026-11-11T16:05:45Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da3204f3ad80f79abea8e3a1ce4d8157"
+    },
     {
       "id": "e8f142d1235e5f90c29bd8",
       "title": "Avio Posts 13% Core Earnings Growth Amid US Expansion & Advent Deal",
@@ -36,18 +132,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3daadb44302fb76c238d8b",
-      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – business live",
-      "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. ",
-      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-11T15:51:27Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
     },
     {
       "id": "91c1994ddaa4620fc9f19a",
@@ -86,6 +170,30 @@
       "image": ""
     },
     {
+      "id": "3b0468e270d21a3c32717b",
+      "title": "Record Revenue Can't Mask Earnings Miss As Analysts Slash Price Targets On Rocket Lab (NASDAQ: RKLB)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0tIOWdiTFlKQ2QxdkwwTG5ic28zU2VQaUZMMkQ3VUJ3c1hpdTF1MlF1MkhVYll3Y2pWeGxlM1hSZ01NNzBJNTJkNzJ3dWRwdmJjTnp3VVJEVTl1bHVXQ1BWMTJBYkVVWEVnZEwzRHRrcFpmcFJsdWxadXZrTHQxMG9ldjhUdWJhZVBjQVZVTXZBUm5Sc1NDNFBhdE1jNFd2UUpnN0twZUxUcUJSZUVhVkl2WkwzaWtCMjNLY3RzSW1GSVlHSjlaOXVsRVBOWkEzMElnRC1XekxEelZ5TkE?oc=5",
+      "source": "Foreign Policy Journal",
+      "published": "2026-11-11T15:25:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2e3cce707450618b22408a",
+      "title": "The Midterms’ Foreign Policy Story is Local",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbV9LcEJwMzBGS2xZa1hFcU8zbTNrdHF5YTFzTDNzN005N1J6dGo2SS1CUzNvR3hVT3JEQ2o4cHNWQzlWbE0td0tRcE9Yd1F3T19KQXI5NVhRNFR5QUxPY2hNSWpRdkdvaWsxcnRkSWJ4N1dhb3QyeGRQa19COXNoQ1FTUWNrR3V5dlZ5SDBWZWFDU19iTENFa2hoNA?oc=5",
+      "source": "Penn Global",
+      "published": "2026-11-11T15:09:15Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7dfc53730f00e86aeeb4dc",
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
       "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
@@ -95,7 +203,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "a309afe5ad2e346de77005",
@@ -194,16 +302,16 @@
       "image": ""
     },
     {
-      "id": "bf0354919e892807020aa3",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T14:51:26Z",
+      "id": "f0436f3cc0219cb94eba8c",
+      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnZUcjVXMkhSOTVUZXkySjZOZWI3OU9FdWhjSkEzX3VaRTJGOWVBQzQwLUN3Z2NxeU01SXdFcGU0WDlzTGM1bDNUWDJkTDgyanJ5U25fVTVDbXdjVVdBbnN5ajBDblg2TXJ2WVRDTkh3NFVDeTN0TmFNZjVjSllIMjFTUVdRUmZx?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-11T14:46:43Z",
       "category": "World",
-      "topic": "BBC News",
+      "topic": "World affairs",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
+      "image": ""
     },
     {
       "id": "bc95ce8c424339bd6d15d7",
@@ -355,7 +463,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSm16bEptWDZNOXpvS256b0hRblJyeEJ0LThYWFNjRnpzV1RMQnVFbnhrVnFoYV93d1VTcENTWFFvc2NPMjhNUTZReTBKMmItYkF3VmQ1TmZBRzh4Vndfcjc0Znc2ak5fR2NzcWs3eW00aFVqUjlsMzdqWVVCT2pnc3JYSFpUUnYzNDFUS1Zua0l2V0U?oc=5",
       "source": "Gulf Business",
-      "published": "2026-11-11T13:48:38Z",
+      "published": "2026-11-11T13:47:23Z",
       "category": "World",
       "topic": "Middle East",
       "country": "",
@@ -470,6 +578,18 @@
       "image": ""
     },
     {
+      "id": "57ea874114065b873c9ee2",
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T13:25:47Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg"
+    },
+    {
       "id": "2487502ed7655fd16cdfc3",
       "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
       "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
@@ -490,6 +610,18 @@
       "published": "2026-11-11T13:19:44Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "13b9ebf99efff659ae375f",
+      "title": "China’s ambassador sings praises of APEC",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGJudHhNaGRzdWMxclpWVG4zNWpkWTQtNEVveEJ3emloMVhoOU1McXNlZUVfbTV5N04yaVNEcERGWUkyN1RGR18yOEEwZGhTalNfc2czRUN1SlNOc3lYLW5XeFJJLXRhUkJBclM5QkNJc0ZvM0h2QUJ6N1BHUjBLQUpXdkN4b1pPSVJ2NEExZ084c0ozM0RlaVpvNWJUdkpfWVhKZ3U3bThSY2Zlb0xIMFVZaGdNQTBtdk5XUGdiT3J2cHIzcVdQalY4X1V4QQ?oc=5",
+      "source": "The Australian",
+      "published": "2026-11-11T13:03:21Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -543,8 +675,8 @@
     },
     {
       "id": "ac468bbb6b4cc89d3b26ba",
-      "title": "Six thousand Italian schools hit by threats in suspected bomb hoax",
-      "summary": "More than 700 schools in Scotland and Northern Ireland also received hoax bomb threats. It is unclear whether the incidents are connected.",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
       "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-11T12:30:29Z",
@@ -770,6 +902,18 @@
       "image": ""
     },
     {
+      "id": "765cfb9422185c98f6efd2",
+      "title": "MWC26 Doha: Qatar positions itself as a global technology hub",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDB1T3VnOVBfY0pTVEJoY1NaNEhNNmhfOUpDbTFSYU16dFlwcDZjNVVmZmRocUp2WGdLeDdyUmcteGdySFczeXRhUWdUYzJyMU4yU3FUWFZMWV94M0dwcUpWTm1sa2FsRkloVkVWSEk3bW14Zjl2OFpoMlo5VVgtOENNQ2NzQjNZaVM4ZnNNZlJ6S1RWTDd5Y0d0R0gwUUpNeVdxNVpQdl9EZw?oc=5",
+      "source": "Computer Weekly",
+      "published": "2026-11-11T11:21:42Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a65666bb6e1249296f5ef8",
       "title": "Munich Re stock faces final test after profit guidance hike",
       "summary": "",
@@ -790,18 +934,6 @@
       "published": "2026-11-11T11:17:23Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "765cfb9422185c98f6efd2",
-      "title": "MWC26 Doha: Qatar positions itself as a global technology hub",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDB1T3VnOVBfY0pTVEJoY1NaNEhNNmhfOUpDbTFSYU16dFlwcDZjNVVmZmRocUp2WGdLeDdyUmcteGdySFczeXRhUWdUYzJyMU4yU3FUWFZMWV94M0dwcUpWTm1sa2FsRkloVkVWSEk3bW14Zjl2OFpoMlo5VVgtOENNQ2NzQjNZaVM4ZnNNZlJ6S1RWTDd5Y0d0R0gwUUpNeVdxNVpQdl9EZw?oc=5",
-      "source": "Computer Weekly",
-      "published": "2026-11-11T11:16:43Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -975,7 +1107,7 @@
     },
     {
       "id": "72e18398fe696b791d82a3",
-      "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+      "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
       "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
       "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
       "source": "NPR",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-11T08:12:11Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c9332b0ad237836ed1c82b",
-      "title": "Lamborghini Resumes Middle East Deliveries Amid Uncertain Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcXNfY1VERVlHcUkya2p4bEtLdU1hWmZKRWw1WEJ6TTdEd0lqc3VLQWJ0UVhGQ2o2THlvajFiTm9wWDJWTVJFdWpmSDBDYk9uVU5pRzRnYnRSdTRGVThMYTZkRE5ZYXF1WEd6YU5VOERnQ3UtQkRzRHVhTXJ2V0s3TTJwSG5ycDNaUGY1UTltaEE0SlEtWXc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T08:09:34Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ff6b93b55d4e1c6ad75625",
-      "title": "Earnings call transcript: Envipco Q3 2026 revenue rises as U.K. orders build",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHhCRlBuaGNDUmxuTTFtMG9WbzRrS3JnMnRXS2x0b0Q4VjZxWHhMRWN4Q0hORnMtRlJ3eWFQX1lxYTFmOG96QWlNZ0U0bmZya1ByYWhnNzJaVFhsVGJVS3hkT1JaSkptZWI4MTlpeW1KQnJVdFJ0eDg1cF81QUlkVkRGWWJhSEk4RjFwRFpwYnVBbjVNRDFFTlVoZHZQNUtLU2sydzBhS3loUjhnQ0xIZWJDaDJPVVZGNlRUZmM2ancySjd1Unl0VA?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-11T08:01:37Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "37a39c650631eb9e026de9",
-      "title": "Lee Hyungil Holds First Meeting with Economic Affairs Officials Since Taking Office: \"Proactive Response to U.S. Midterms, France's Crisis, and Middle East War\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PZVFSNnVINkhXQ1JwX29mRXMtdUpQdTJkNkptTkNEMFp1Z3c3Si01MFVqcEpMRnFlTk5USDRBNWQ0WW5kQ19JN0Yxa3pjZGdBYmxWMUZldXhyNHVWVnpSNkJHU1d5SkZYSVJKSDJHbXFUSlNiaWszLVVwRQ?oc=5",
-      "source": "아시아경제",
-      "published": "2026-11-11T08:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5cf6869232a42bdc08418a",
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-11T07:57:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0cf4d1343c993c44ccbeb0",
-      "title": "Asia Pacific must turn sustainability disclosure into resilience: ACCA",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmJJWEg1MVdBdDdDOEtiRXJMU2RmQlZtWFdwTWNXeXh5MkNZcEx1MXJiczNydTducEUwel9KbndRUWZPNDF1NEFaSGVSR3diZDJMaGlpaGlJUVZKcFIzVkN2OXV4ZFpJS2ZIYlpIUDVvbW5aMmtEN3gySlE4YVRTaDFQM0h5TFYzMktyalZaaG1jSTdsNy10Q3l3QWItY3hTbnpOaWJsbEkxYTB2VE41SGhMTjc?oc=5",
-      "source": "Eco-Business",
-      "published": "2026-11-11T07:55:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c273b9fd9591e959b12745",
-      "title": "Christmas toy rush being driven by squishies and building sets",
-      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-11T07:52:05Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "e1d79038bb22a8cee67e47",
-      "title": "ITV Warns of Up to 10% Drop in Q4 Advertising Revenue",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNelM4R3NYdU5RTElHZExVbHY1dGNFNlJ6dWRyYlVLYk9iSGI1QkJBTVUyMUZqdHl1UkVod2hRdjNXaVEwVk1temtDaVVqWDd6Vy1ubjNsejgzRjhLWk43WkJZUElTQ1NDNFV3YzBsSGU2NVB1ekJfMWNvN1hsc1BNVFhNVzZYZ29qTkp5NEZWMWNCYlNiMDQyekl0S0U?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T07:46:30Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e869dd4c2eff543382104b",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-11T07:44:24Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "d1951b7785beef233efab5",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T07:30:51Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800"
-    },
-    {
-      "id": "e26166c9944b85e33f0dec",
-      "title": "US warns Madagascar over growing military ties with Russia",
-      "summary": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
-      "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T07:30:15Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3696/live/b0bad660-dd9b-11f1-b1d6-c7ac657a5d26.jpg"
-    },
-    {
-      "id": "f20eafd03580b195072f26",
-      "title": "Stocks rally as CoreWeave soothes, bonds reel on rate hike fears",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeG1HQ3NnaGNYYlptdm1lcXRfOTFOb3hxcUZNWmVwaHd3Z0tVMVFYNEkyc2ZfUEpDR2Zrbl9ELUVQd3g0ZUY2TDA0TnZiQVZzTU8tc2ViQWp3Rm5DeEYwSC1PcXQxcGpNSHRiQWpGTUVBRUZraDJtUkZQWHdFU1dCM1RVa3VVam03TWJDdl82UkhYUHllNmFR?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T07:26:20Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }

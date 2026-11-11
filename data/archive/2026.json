@@ -1,5 +1,77 @@
 [
   {
+    "id": "6dfc46f5a8876bfd0f22e6",
+    "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+    "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are e",
+    "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+    "source": "The Verge",
+    "published": "2026-11-11T17:09:58Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e195474e00495d06eac1a6",
+    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+    "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-11T16:45:11Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg"
+  },
+  {
+    "id": "a1681fd2accc3033f6d025",
+    "title": "From making music to detecting drones, Israeli startups bet on sound",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tUk5GWmdibXhJamVMZUVPY1VRamVJN0gzSUxYbmdQcDQ2SmhaaW1YZXhUZXYtZmZ2NGVoZHhCeXNxMzlWTHp6bmp3aDg0T0RTc0hfTHlsSGNnUXdZN25GbHp3?oc=5",
+    "source": "Ynetnews",
+    "published": "2026-11-11T16:26:36Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "639dd1bd8a90352c10e44e",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "source": "TechCrunch",
+    "published": "2026-11-11T16:16:07Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024"
+  },
+  {
+    "id": "f31248890af40385bfab1b",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "source": "TechCrunch",
+    "published": "2026-11-11T16:14:44Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
+  },
+  {
+    "id": "cf2fc89481231d9afe3919",
+    "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+    "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing in H",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+    "source": "The Guardian",
+    "published": "2026-11-11T16:05:45Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da3204f3ad80f79abea8e3a1ce4d8157"
+  },
+  {
     "id": "e8f142d1235e5f90c29bd8",
     "title": "Avio Posts 13% Core Earnings Growth Amid US Expansion & Advent Deal",
     "summary": "",
@@ -56,6 +128,30 @@
     "published": "2026-11-11T15:25:00Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3b0468e270d21a3c32717b",
+    "title": "Record Revenue Can't Mask Earnings Miss As Analysts Slash Price Targets On Rocket Lab (NASDAQ: RKLB)",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0tIOWdiTFlKQ2QxdkwwTG5ic28zU2VQaUZMMkQ3VUJ3c1hpdTF1MlF1MkhVYll3Y2pWeGxlM1hSZ01NNzBJNTJkNzJ3dWRwdmJjTnp3VVJEVTl1bHVXQ1BWMTJBYkVVWEVnZEwzRHRrcFpmcFJsdWxadXZrTHQxMG9ldjhUdWJhZVBjQVZVTXZBUm5Sc1NDNFBhdE1jNFd2UUpnN0twZUxUcUJSZUVhVkl2WkwzaWtCMjNLY3RzSW1GSVlHSjlaOXVsRVBOWkEzMElnRC1XekxEelZ5TkE?oc=5",
+    "source": "Foreign Policy Journal",
+    "published": "2026-11-11T15:25:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2e3cce707450618b22408a",
+    "title": "The Midterms’ Foreign Policy Story is Local",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbV9LcEJwMzBGS2xZa1hFcU8zbTNrdHF5YTFzTDNzN005N1J6dGo2SS1CUzNvR3hVT3JEQ2o4cHNWQzlWbE0td0tRcE9Yd1F3T19KQXI5NVhRNFR5QUxPY2hNSWpRdkdvaWsxcnRkSWJ4N1dhb3QyeGRQa19COXNoQ1FTUWNrR3V5dlZ5SDBWZWFDU19iTENFa2hoNA?oc=5",
+    "source": "Penn Global",
+    "published": "2026-11-11T15:09:15Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -150,6 +246,18 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObC05b1BsMlZaMGtORFhhMFV2WlZIZW0tdFZFTUdhQXBmM1N5aVFaa2NDWTFuMldxSWdrRUlsZmNJMEx1SU1HQUdFU1h3TXVYLW45eUZPaWFvYkhnS3Y2ZUtWNzBmbGFHVmlJak5JSmVLUmkxYVIzMFBjYjY0eFhnYzJxc3NNUVpSZzgxSWFUX3JDV0pzWUNQTEItR3pha1JjWkV4MG5oZGhvY2YxZGJ1X0ZZc1VKMWFEWkxjWWlNNWpCa09N?oc=5",
     "source": "U.S. Chamber of Commerce",
     "published": "2026-11-11T14:52:43Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f0436f3cc0219cb94eba8c",
+    "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnZUcjVXMkhSOTVUZXkySjZOZWI3OU9FdWhjSkEzX3VaRTJGOWVBQzQwLUN3Z2NxeU01SXdFcGU0WDlzTGM1bDNUWDJkTDgyanJ5U25fVTVDbXdjVVdBbnN5ajBDblg2TXJ2WVRDTkh3NFVDeTN0TmFNZjVjSllIMjFTUVdRUmZx?oc=5",
+    "source": "The New York Times",
+    "published": "2026-11-11T14:46:43Z",
     "category": "World",
     "topic": "World affairs",
     "country": "",
@@ -408,6 +516,18 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7854x5236+0+0/resize/7854x5236!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fe5%2Fc440fa07484eafad83691a255e57%2Fap26314378728116.jpg"
   },
   {
+    "id": "57ea874114065b873c9ee2",
+    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+    "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+    "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-11T13:25:47Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg"
+  },
+  {
     "id": "2487502ed7655fd16cdfc3",
     "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
     "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
@@ -428,6 +548,18 @@
     "published": "2026-11-11T13:19:44Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "13b9ebf99efff659ae375f",
+    "title": "China’s ambassador sings praises of APEC",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGJudHhNaGRzdWMxclpWVG4zNWpkWTQtNEVveEJ3emloMVhoOU1McXNlZUVfbTV5N04yaVNEcERGWUkyN1RGR18yOEEwZGhTalNfc2czRUN1SlNOc3lYLW5XeFJJLXRhUkJBclM5QkNJc0ZvM0h2QUJ6N1BHUjBLQUpXdkN4b1pPSVJ2NEExZ084c0ozM0RlaVpvNWJUdkpfWVhKZ3U3bThSY2Zlb0xIMFVZaGdNQTBtdk5XUGdiT3J2cHIzcVdQalY4X1V4QQ?oc=5",
+    "source": "The Australian",
+    "published": "2026-11-11T13:03:21Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -1860,6 +1992,18 @@
     "image": ""
   },
   {
+    "id": "92436cd3742266a5f7df29",
+    "title": "Turning Asia Pacific’s sustainability reporting lead into resilience",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFdrTDREdzhFdjJxdEItTmNETER5VFJ0TDFhcEZKQkNCMnRLZjlYV3JJcnFRSldGRjUzZjU3cUp3MFdrZjJpNVVPVlRTX2ZBOUx6NUVjczh5eFY5dmVNYW10U2luaWxwYVZMMVpTUjQxQU4wT0g5X2RpelRGM2ZZNVQta2NKVm5SMENycTU4ZGVNVW9zd3ZwRkV3YTN0ay1KN3pGQnV5MV9ldw?oc=5",
+    "source": "Eco-Business",
+    "published": "2026-11-11T00:54:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "97393ac36d14fe33c7b680",
     "title": "Doosan Targets Europe With High-End CCL for AI Accelerators",
     "summary": "",
@@ -2998,6 +3142,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b7299e435842520d1393e1",
+    "title": "Google Unleashes Gemini 4 Carbon, Its Most Powerful AI Model",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPanR6WXRKN1RURHZJT1pVYjVwMjB0ejNhSWJERDV1UGpTYmNiem53T0NHVFh2OTcwUEpETjZ5ZDBCU0JCRF9FaTlTRTVzams4QndBaGRrd3M3eFdCYS1kVHVKQVB5bm5H?oc=5",
+    "source": "SQ Magazine",
+    "published": "2026-11-10T17:29:37Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "25acaa2082f93ffc326096",
@@ -5852,6 +6008,18 @@
     "published": "2026-11-10T06:33:45Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3683c6f7bde4e9f57b42d5",
+    "title": "Adobe (ADBE) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rbHZBSWZEOWRPbVY3bHpoSWV6RkdpMGxCX1N1VWtna0VZUFJIUHM2Ml94c2podUh6T0hhbVp2eVY1c0FqdWRiVmRScWJ1TlhBRy1PM0lqSjRQYmg5UldtSUFIRVgwSFc3U0Vj?oc=5",
+    "source": "Fortune",
+    "published": "2026-11-10T06:28:49Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
