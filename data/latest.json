@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-11T19:23:50.918769Z",
+  "last_updated": "2026-11-11T21:00:37.627311Z",
   "articles": [
+    {
+      "id": "3a0b6122a2ac65d016b632",
+      "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T20:52:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "351392b31b9f8e22359202",
+      "title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:15:15Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
+    },
+    {
+      "id": "364092bc196c049bd02441",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:12:01Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
+    },
+    {
+      "id": "cb8d9adb56662fab9ea51f",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:04:28Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-10.05.34-AM.png?resize=1200,842"
+    },
+    {
+      "id": "36cfd98abb15237ca42352",
+      "title": "PubMatic swings to $5.5m profit as revenue gains 17% in Q3",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jdE5WVE9zUWpKTUtqcWpXbFAtSWFEd1JhR0JYeHJSVXpMTzFBT2F5Vnhyb1I5YjRWUHhCcGxiY2txSDJ4LTZJbXJ3Y0JOUUM3elpMWHNNVGZlMmE3QXoxcXp1VThhWVB2TjhKRUQ4b2NWeERUUFFKTnZGM0RxQ0E?oc=5",
+      "source": "PPC Land",
+      "published": "2026-11-11T20:01:12Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b5832023985142399047f9",
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T20:00:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg"
+    },
+    {
+      "id": "e4e9565de9f6f79762855b",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:54:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024"
+    },
+    {
+      "id": "22d6799f13a3486d4568cc",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:34:55Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800"
+    },
     {
       "id": "86409c70a4f047e99a4894",
       "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
@@ -14,9 +110,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
     },
     {
+      "id": "edb2433d5d0c764cc36df3",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-11T19:15:45Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg"
+    },
+    {
       "id": "7ba0cb86cd02fda00475d0",
       "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "summary": "74-year-old Leonardo Bertulazzi, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday. Authorities placed Leonardo Bertulazzi under house arrest in Buenos Aires in",
+      "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor inside a tube of pork and lowered himself ",
       "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
       "source": "The Guardian",
       "published": "2026-11-11T19:00:33Z",
@@ -98,16 +206,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "3a0b6122a2ac65d016b632",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T17:44:32Z",
+      "id": "3be3f8f01028ef501000bf",
+      "title": "Russia loses ground as Europe's 4th-largest economy doubles exports to Africa's largest oil reserve holder, with Italy–Libya trade hitting €6.8 billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGY2YjlVZXYzLUN5QmJHOWhFWE12Sks4V1d3S2RZNVk5UmtSTFBzQlNPOU9vQ3pTaFBPOW1LdnFkajNqUHFvdi1sSnM1U0pLRXFnd0ZJamRsOUktdzdycE5BVmdkaU1vS09BMlJVOTd0OWhwUWE0UGFhX1U5SkEwYmhOeUMtaUZmM1VWOE0zY0poRzdzWXFSc3JvcXhyelROVkhjRWE4UFpoN21WbzVsREx4OU5PSmhneEZITUl0YUVoalRzWnh1a2RSVDR4WXNGSHJuQ29NRkJKQQ?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-11T17:54:37Z",
       "category": "World",
-      "topic": "BBC News",
+      "topic": "Europe",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
+      "image": ""
     },
     {
       "id": "0d054b9f4d4ae5c2753c03",
@@ -224,7 +332,7 @@
       "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
       "source": "The Guardian",
       "published": "2026-11-11T16:37:45Z",
-      "category": "Brands",
+      "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
@@ -538,6 +646,18 @@
       "published": "2026-11-11T14:14:10Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "57f3b4ace0dd493832f057",
+      "title": "Green economy summit: Stern opens new $2bn investment push",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZUWJETzlPZnNMQm8yTlREWUMxMTRBbFIxclVPS2lGWENrZVhjS1BMZ0lCcEhyWUNvMWRuaEFucmkxTGNwRVFRZHF3YWFXN1M0aWswdzNrSDdIZ3RTQjhXM1RzeHdxR2ZDS0oxek1OQmstV2xpQWc?oc=5",
+      "source": "DNE Africa",
+      "published": "2026-11-11T14:07:24Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -974,6 +1094,18 @@
       "image": ""
     },
     {
+      "id": "59ca7f6d6630d5d0375cbe",
+      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1tn (£3tn) chipmaker has hired New York-based Wachtell, Lipton",
+      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+      "source": "The Guardian",
+      "published": "2026-11-11T11:49:12Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=119090ccf3c6e5888b1985a06d833ef7"
+    },
+    {
       "id": "2f7fb549418377106458e0",
       "title": "Cisco Q1 Earnings Preview: Revenue Expected to Grow 22%, Wall Street's Highest Price Target at $170",
       "summary": "",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-11T10:01:26Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6f00048fc2081b2d023dc9",
-      "title": "Global Equities: Reassessing US Market Leadership",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2VYVDVtS25Tc1ZRbzZOMEk0MHA0TTFIcGtiRF80VGd3TlhDd1NySnREOGdMUHBSZHM5Y2VPNXNpaS1CVENjaVdkMDUxc3Q1dEVsQ2poZUVwQUJKeUE5UmxiQXIxWlZNU01PVnZQWEE2MVprNFVNWlQtb24tM1psemsycFNoNG1lZ3YtejczdEZWNUFoYjZoVTNjUkdnck1STEQxa1htMlQycnVCUW5nclZOVUZ3UVRucHVmbQ?oc=5",
-      "source": "Funds Society",
-      "published": "2026-11-11T10:00:52Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9d72969364c28f941233d5",
-      "title": "Latvian central bank governor Mārtiņš Kazāks: 'Our financial markets are not fit for purpose' / Article",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWnU4OTFfTEdWUTI2Sk5wSXI5OHloeEtYc2hzbGdaWUFseUV2Q3NVUlpVZVEyQUxUODFQX3FSLTFoc0dzeDlINGo3aHhCWE96SGtmVDY1SUFWLUlkd2owMTRRWkYtQUVzTU1XVzNad1kyWTZBUlBEVzVBcDV0NE80ZlFmTGtycWk1Qkx3Tkd5MDQ0WEdRa3kyQWVVRXV3V1lxLWF0SUs0TVJaSXJHcG5BajQtRjd4Q1hNWVBRaURzOEU5UWgweEc0OGhOcUpmVndOcEZLWG5fQjV5Nmh0U1ZGOWlycEpwQQ?oc=5",
-      "source": "LSM",
-      "published": "2026-11-11T09:59:24Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6c35cd6ea02fd66cf15f31",
-      "title": "CoreWeave Boosts Annual Forecast, Easing Concerns About Slowdown",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnZDemJ1a0xMRzdaZGhpV3pnaGNQRUhiWWQ4b2RTRFlnTlNTRGV3dnZ6ZkRuZE9YWDhVU241YVJlcnRETW5IMlk2c3NsYTJzM2tCVktKWTVpRHhjdjVCRWt5bUZZQmw5TkMtU0tDdF9BMERGR0czck5EYW9HOUNSa1MzUFJXOUh5dGh2ZThIdzdMY01XcGRfOUJ0M0lTZmpiY2VGS0FmamZMVWZFR1VxTHBQVW4?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-11T09:56:27Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d1c3a27f3c8e603faf0d20",
-      "title": "Spain's workers hold a general strike over housing costs before national election",
-      "summary": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Madrid, along with gatherings in other cities.",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-      "source": "NPR",
-      "published": "2026-11-11T09:54:54Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2793x1862+0+0/resize/2793x1862!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F13%2Fcebecca941d7b17979708aba2b8f%2Fap26315488966166.jpg"
-    },
-    {
-      "id": "c8f4f39dd174a12ef9699f",
-      "title": "China Auto Market Decline Worse Than Expected, Says Mercedes CEO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3ZRSk9haVlzOHBJVGtOcmR4bjYyUjNjOGZ5ang2cEdTNmg1dUFPOF9VUVJPS09jQUFBZFpJdktaYThCaXJINkFhZnRXYW9QaFdKckc2V19oMUFFNFhLMG1KaUw0NFJZUlNXelhwTEVkS1QyWG9aNVhGY0F6RUp6N0NsQjZpWTFMbVItbWV0d0NRODdBWWVrVg?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T09:54:21Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d0d49046a789dfa5224aab",
-      "title": "Beyond the Big Funds: The UAE’s Expanding Network of Startup Investors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazhGYkxrcWtjaWtTQ1lkYkJudkZxNGNOejM5d2hES0hObDdtU0x3eldTU0ZzekVzbzM1ajlVT0pzcFh4UnZJWUpWOFY2Nk9Qc19MMzJCSndzZ1loZEtOSUFsWkoxeVVLSnR5VTBRMVZpVHA1OGRnXzd5UTVCWFc0bmRKdEhtZDRkVTF3bXgwWjlycGQ0SEU0TXJOaDBFT2lfUUptSEdZMjFPWnA0RzNBVlZB?oc=5",
-      "source": "African Business",
-      "published": "2026-11-11T09:54:19Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0742c7af74ac26fcf79447",
-      "title": "Hapag-Lloyd Lifts Earnings Outlook Again on Robust Freight Rates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSFN4Vno5WElhSVh2RE5ZdUdtWUhJQ2Q4VnRsWUhQT2FTYXBLa0RCV1A3ck5XYm9sZkE2a1plYzJkT1RwWEhxaDd3NzNvNHpFQkpvVkl0dGZhVmJubGY5UUtWeG9lMEdLQ1l5RFJFYmE3alkxRG53U1ZjSWYxb3lWajU5aHJObE5KdHFybzdDTHBVRWNnc2hxekdOYTY4d3F0?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T09:52:37Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a40492619c144ca602f8ee",
-      "title": "Kenya Courts Investors to Build Sports Economy Beyond AFCON 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnZvRWZ6NFo5c0tnR0FMSkswVmhoSk4yTkFkQlI2b0ZnV1lXNHZ6UXl6U3RsanhrWEt2a0xwdFZXMlNkVTVWbW01X2docU43cWcyV0lKMmZKbDJvbE9xekdLT2tZZVowcnQ3MG9iY05zelZtU3Z0ejNMZEVmc3VFcS1vMTU2dWJfXzJZTWlGM2RMNENBMExpcw?oc=5",
-      "source": "The Kenyan Wallstreet",
-      "published": "2026-11-11T09:50:37Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "23e9c42a56c2d139d5d6d8",
-      "title": "Tearful Smith switches allegiance to Netherlands",
-      "summary": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T09:45:14Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377b/live/67ea3a00-dda2-11f1-9300-17f869f4b225.jpg"
-    },
-    {
-      "id": "00c99208babb97aa08754f",
-      "title": "GITEX Global 2026: Dubai prepares for major AI, robotics and technology showcase",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0ZSenZhRGFmSE1GODBuNGNyYjdDQThGclhKNnFpMnRoREw1bzNoN3owY2MtTnd4UE1Cc0dkc00ybjZ4R3RsUHBhU250RUNYaE1PMDVwOHoycEtnaUhrbzNRelFwLWRnSjlkUzJ0SnhNQ1dSazVuLU85b3NRRng2LUNxdDMtTUMtNFBSekw1TVZpOFBMX001ZVIyYzBUeDB1RmdYVTA1dmNHUkJrVXA2TXB2dkM3bGs5TDln?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-11T09:42:50Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "848723819648c6d2da9b84",
-      "title": "D-Wave (QBTS) Stock Drops 8.6% After Q3 Earnings Miss, Bookings Fall 19%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFUyLWZUODd0MmpsVGdEQ0ZQVHlSdmhiNU91MmxwbW5lam1zdnVieUgzU3JoS1JNejZIckN4Y1hraXIxM18wMERNR25NYk16VVB5SlFpWHNPRVAzYjlCelVDTkVVMWE2SXhMVGR2OHJ2V0xEVzV0UE1DdU9QUFF4RGdlN0hRVXVZM3YwamU1V082eXpSQllxSFVsWUdIdw?oc=5",
-      "source": "TipRanks",
-      "published": "2026-11-11T09:42:01Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
