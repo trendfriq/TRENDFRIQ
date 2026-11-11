@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-11T04:41:48.126542Z",
+  "last_updated": "2026-11-11T05:42:49.622915Z",
   "articles": [
+    {
+      "id": "9cf8524a1e8d5fa81ef6ed",
+      "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVkF1bXdvcy1DbUJKbDlEajZtbGFER19JbEJEVkozVGg4ZU9QU1lGQkhfdzZUY3FUMV9VTWxYZUQwa1JyZGlhLWM0emJRUnc2aFhwSkhZeXBpTXJ0NFZVaHhKZ0dEeGhma1FxNXNyUmxDTVJFY3JTOVZxUlpwdjN6NzlpUjNQck1oeU5fQ2ZPeXl3OHI5YVYyem84LVhyc3Uza2hBT1V0bmNwQnBCMFVzRHQ1ZHJWb1lYZGVwRUFreWFMd0JsUDJvRnhHeU14WER3VFNLWVZQVGkwQktX?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-11T05:39:45Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "214442e693027ec32ec928",
+      "title": "Europe’s Resilience After the Middle East Shock: More Than Meets the Eye",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcF9BY2w1cTNGV3Rnb0V1Ui04RDBhVVVER2dlSExEUjJ3RkdFV3ZBaTBtTG1zYWF1MjUyUmdpRDJXYkR4WlFVejVyRWdZbnpPYVJSVG5SWlJTc29wUFVnNUpOOVdMWk5KdWRsY2NhMTcxNmtuVHEwQzA4eDIxM3dHNFFTYUk2eVBlVHJqZW83azF0dVRsV2d2cjNBbnd1S3JtMEhxVVVYYjdvN1ZwYy1pZQ?oc=5",
+      "source": "International Banker",
+      "published": "2026-11-11T05:30:04Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c0c45f009e730c76bbe7cd",
+      "title": "China-Japan summit unlikely at Apec amid continued tensions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWRZdkJOOEJaVjhFcXc5Z250Z2YweTZ4RXdlTkxTZ2N0MHpaYVRwYi1UNDdxM1Q4b1J6VzlXQkIxS0ZCN25WWFRpNk9rZ2RlUDBwZUVhY2FGOFg0RHI2Y0E2cDF2XzR2aHdwSmdIVkViNmdONG40V3BDTUNYWlBEZ1hPZ0l6VjZETkJLTjRxSmQtVlRVUVhFT2V5bVg1YTJjRlHSAacBQVVfeXFMUE44R2h4LTdYSzFnYktObnVfZW85Zzh2ak9Vb1VCRUd2dldyTUtaaDZwUGtwMUh2ZTh1aTltTm5jbURyRDFFU3pzYnhDcXRPSzdaRW93ek8tVlE4X1NRTjgtRE4waGljSWNhb0E1QXRZQjJCSHIycTMyMDkzR05XNjNvSXNGSThienZzOVNzZkdVV2pwR3k4LXYxYlh0N1dyVW00aGFSV1U?oc=5",
+      "source": "Inquirer.net",
+      "published": "2026-11-11T04:44:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "963b1db17905c82d965950",
       "title": "Emirates expands premium economy across Europe as winter travel demand rises",
@@ -48,6 +84,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "e46477a90f5df0d80063aa",
+      "title": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFVDNXJxU3FIanFKdF9EZ2NqNEo2WThvcHRTRFg4ZFktQjI3QWhseXdub2tMRlZqZlZRRGI2Tk13SjVGc0h0WXBDb2xwMTNsQkZhSGNHMDN6eEc3NTZKTXVpTzFTNEk3OV9aMGZiV2ZKQlJKVGV4eGhVbnNSOGIxR09vMW9EZmxyb3N2MUhtcXVBdmNsMjZyZGJ2Vmd6NUdib0V4T29EeldsMmZ2MHc?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-11T02:55:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ddbccf94961adfce371141",
@@ -191,7 +239,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
     },
     {
       "id": "87b7dfafef60e27a4fdf4e",
@@ -312,18 +360,6 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg"
-    },
-    {
-      "id": "e46477a90f5df0d80063aa",
-      "title": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFVDNXJxU3FIanFKdF9EZ2NqNEo2WThvcHRTRFg4ZFktQjI3QWhseXdub2tMRlZqZlZRRGI2Tk13SjVGc0h0WXBDb2xwMTNsQkZhSGNHMDN6eEc3NTZKTXVpTzFTNEk3OV9aMGZiV2ZKQlJKVGV4eGhVbnNSOGIxR09vMW9EZmxyb3N2MUhtcXVBdmNsMjZyZGJ2Vmd6NUdib0V4T29EeldsMmZ2MHc?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-11T00:06:23Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     },
     {
       "id": "763502d052f076c55adbc3",
@@ -824,8 +860,8 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
       "source": "Federal Reserve Bank of Dallas",
       "published": "2026-11-10T19:37:51Z",
-      "category": "World",
-      "topic": "Middle East",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1404,42 +1440,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "7617903ae0d3e779c60299",
-      "title": "Trump Media Made a $410 Million Profit Last Quarter on Just $3 Million of Revenue",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelJqVzRSUTc4VWN2VkZIX1JMODZfV2plaUMtNXFfVW52NElNaF82TTFKSktaMmdwa0IzRk1Rdnp5ZXhxZllxTXE1ZnVVUk43Rlk5NFdhVm50eUNLaUVjOTZQVFAyMGxVSjZtYWFhSWtRdzQySFlUX010RlhBNldUMjNvZkR2TGNuUVJEcHAtMFJqazg1UjRkZ01rckhlVnVKNHo4eVVJQjVsZUJONFRNcDg3VUFtcVhNdHVVNTdQMEQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-10T16:21:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "de59f40c4070218b9f64d9",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "source": "The Verge",
-      "published": "2026-11-10T16:20:30Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "119606f9f2d23278fac832",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T16:19:48Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "countries": [
