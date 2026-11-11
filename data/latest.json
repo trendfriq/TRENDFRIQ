@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-11T17:19:46.281095Z",
+  "last_updated": "2026-11-11T18:10:46.469849Z",
   "articles": [
+    {
+      "id": "7dfc53730f00e86aeeb4dc",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T18:04:58Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "3a0b6122a2ac65d016b632",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T17:44:32Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
+    },
+    {
+      "id": "b07c9949930ec95e54408d",
+      "title": "US, China must stay clear-eyed on AI cooperation, rivalry: Bessent",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbTQtWW1yWExlMUZEb3pOQkNVTEVRUUs0T1lLVXRxdkJCVnhrMUZTT3AyY2o2cHIxWjJucll2cVFrdkZJVHFWaGtjcnJRek1lUjQxY2JSVklEMGpSYktMaWI5bzhZa1F4LTVGeWRMM0pnZUZ3bzJtdWNyOFBLeUo3MWM4NEE5TVRCaEptdUJoQ01hZ0hjcVFWTFplaXo2cGFIVDFjeFVHU201ZWZXajJTY3hxTDBhV1JsWE8zLVhQcVRVWFBUSTJr0gHMAUFVX3lxTE1oYTNGUGlMeThjZ0poTlFCM1hwdi1nVTItdkZqem1KN2d3Sk43QWxWRlJXdGhVTGNEUTVFQ1ZOSXotRFg2WDBwcUx5N29NOHh5MTVhQ0tDd01SZHZXRXo1Z253RDhneXI4WlZtU2pOYmlwVFc5OE1IQmpFUGl5SFNLOWZfd2ZpN3dVQ1lzamlGVVZoQ3NsTHAwUkxWZXcwMFY0VTJDZnE4QjhTQ3M4NVpncVBwdUNqM25sX25UMWh1dXdpWXN2N28tZmFxWA?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-11T17:29:50Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bc2c22441dea50e034ed09",
+      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+      "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
+      "url": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+      "source": "NPR",
+      "published": "2026-11-11T17:23:10Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fdc%2F0abbbb464785bfcf43a99355caab%2Ffarflungpostcard-s.jpg"
+    },
+    {
+      "id": "35693b3d2ad4c6aa4b3662",
+      "title": "Could Nvidia CEO and Board Be Liable Over Affair Scandal?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEJSMkRkcnNjaHRmLWNmMUFlM2lWcnVwNi1CNndYcE1BSnBlaFRKSk1QNmhNaTlhMDhWZUlyWGd2b3ZkY3NQTl94SDkxOUVVUjN6Y2Z4ZFZNNHlkek1lQTdYU05FV0JSUTBtY3VMM3V5YVlUbUtGS1ZWRGxTQ0Y4bW5rS215aHA4NkJjUmhBT2dtQkU2MWJvVHdtdnRvSng1Q3pN?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-11T17:10:04Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "6dfc46f5a8876bfd0f22e6",
       "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
@@ -194,18 +254,6 @@
       "image": ""
     },
     {
-      "id": "7dfc53730f00e86aeeb4dc",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T15:05:11Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
-    },
-    {
       "id": "a309afe5ad2e346de77005",
       "title": "Itaúsa reports record recurring net income of R$5.1 billion in 3Q26, up 25%",
       "summary": "",
@@ -374,24 +422,12 @@
       "image": ""
     },
     {
-      "id": "3a0b6122a2ac65d016b632",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T14:06:27Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
-    },
-    {
       "id": "835c85cdd5105ad55fbfeb",
       "title": "VSP’s Marchon, Marcolin Plan 2027 Smartglasses Launch – Finance News",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0YyQ0VmblVtYjFRc1NENGdaZzg0WmlWM21vMjlNQnNmLUVGN01kRExrR1lHSks1YU5lTmt4cnlJdW91NzZrMDZvWWstbU04Rzdjd0dGb0RpS1FrM29BN1MwSGdURDd3M1phN2diRmsyTVRlQzZmNWhhUlN2Ukp4dC0tb2xkcXF4NUIyNnQwMzJ3cGN2OWc?oc=5",
       "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T14:03:45Z",
+      "published": "2026-11-11T14:04:29Z",
       "category": "Brands",
       "topic": "Brands & business",
       "country": "",
@@ -555,7 +591,7 @@
     },
     {
       "id": "c50afb97023828d196875b",
-      "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
+      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
       "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
       "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
       "source": "NPR",
@@ -854,6 +890,18 @@
       "image": ""
     },
     {
+      "id": "c9f58614669f054fe8b06d",
+      "title": "Are Wall Street Analysts Predicting KKR Stock Will Climb or Sink?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3NiLVFhOHZablNtYmgwbjZmOGhMaUlGZUdmQ0xFaE5iY3E4dG9uVkRkQ19sbmVnUUVmTlBfQmRCWnpCWlBxQkVYbjl2S1ZNSjFFZUxvVWxjUTJrYlNzUlJqMEs2cXlFU3NUSlhncmlqc2lGQThHOU5kYl8wWk52UkQyNm9mQzBndkM3cFJxdjEweXZTZU1iOERsQlQ3bXJXTHc?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T11:35:10Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "104148c752c7a38623852c",
       "title": "Transport workers in Chile block highways in protest over surging fuel prices",
       "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
@@ -878,6 +926,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png"
     },
     {
+      "id": "036c17455de48ef739836c",
+      "title": "EU threatens significant fines for unfair online trade practices",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVlfZmFFY1pHOEI3TEl1V2VqRmJMRnJPaFEwQVZ5V2s1MDFvSDNNNXRWQ1RaX1M3SE41ei1Uc0FBQ0NzYjJfVEZ1ekRwQ01TakRlNm1GZk1ZWEE0S1NBbFNmTzFEUG1lSU9tZWNfMzNrU2VvNDdnY0RTZWVsaUl2a0R5SUdMeGZfQnE2RGF3Y0VDWVlOUGstSFZmeTlTZzZBaTlUOHRUeWZTMmd4M1RzYjhnanlwQ0F0TVRPYi1GZkQ0cXM2SC1PbENTdFRkUzhrRnc3WjRsT2hkcURqUHlZ0gHkAUFVX3lxTE0xTkN3cFJSWnU1UFVubzhFWm9ybUJlN0pDbUU5MV95ZmgwZEtDZEdCdmRrdDhqMmVxSEVLdWVldWJ2UExmYWNINVpFd1ZEbURpelJYbWhIa05wV2ZiWlZFXzdRMHNsYkxmWnQyWVJCd0doek1zNXRNaVZKcUxuVjZnb1EtbWE3d0FjbFFUUGhETDdxYXFnVWJQVDRyZG5FSHdwODN6MlZmRWdGc085TVZ6RzBTd1RadnJxQlFuekhRbTd5cGNHMnprY1VHZlVYQ0stbUJJbmZWcEdmdGlFNkVBYlFKdA?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-11T11:27:01Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9bc892148b773afecd4884",
       "title": "In India, economic momentum has outpaced geopolitical gravity. There’s more to be done",
       "summary": "",
@@ -886,6 +946,18 @@
       "published": "2026-11-11T11:24:37Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c9baf6d0672919d48abd29",
+      "title": "MEPs call for a more strategic competitiveness fund",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdTlZVWIzX2t0MGtncUZwRks2TGpjZ2JQcFF6V243ZE03MExkb0dTYTZheEQ4aDN2ZUdyczJWM2ZoSHZLVENjMmhYUTlrQlJPNjVqbk1sbkJ0bU85aGR2Zk9Yamc3S2x6LWJPNVREZjVNQnk4Y081eE94LU4tM2tySkJxb0VJVl9QU3BRTWxQMWh5OHdCZEVKMmhBb05CRHBLVmZpWF93b09ldUsySGxBa2JXT29vVXNDNzJZc0hXTE1ZZmZPdUExV21n?oc=5",
+      "source": "Eunews",
+      "published": "2026-11-11T11:23:41Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1366,78 +1438,6 @@
       "published": "2026-11-11T08:46:56Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "90ff1c01eeb2c85e6fc7ed",
-      "title": "Acer co-founder to represent Taiwan at Apec in China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGMxUTFJRHJVdW51WHh4OG9BX01od3dkOERiSVZKRTNrYnBxa3VSQnc0UW1TdXZST29ZaFA1YUEzT2wyZ2RZd2tyNUtEc3RndEVqNWdxOG04aUN5WDNsNUk0anRMUzdPV3IwSmN0UVp4VWpEdXNZbGFKVlZpOTZOelpqOV9fQ0RLOFhUV3RaYUt4WnZLLVMzeA?oc=5",
-      "source": "Bangkok Post",
-      "published": "2026-11-11T08:45:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "347f11f660988c5ea07e98",
-      "title": "Silver economy brings new markets and ageing pressures to Asia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYllGSzR3djJUSmhPeEFlcFhCb211NVB3bERmVjVITmNfekhxNU9jcU0wenF6M1hjVXFhdmNSSEQwRm5hM3hfSl9yZmdSdHRnbmsyZVNDdDFQRHVOQ1hMNW11NUJ6Zw?oc=5",
-      "source": "Nation Thailand",
-      "published": "2026-11-11T08:34:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "952eb08fac10c80be3917a",
-      "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzR6NkEwMWVFeUtHWVphWkU5c1Q3SWwxeXFoTldwXzZSal9HMTF4VEoyYmlwYllaNnBWTkFweVRYWV8tZ1hEM0pJMFZqTUJwZnJrN1ZKeUtwTkNGbVRsYjc3eGRFOC00OVo0VnJVdko5eUdxODJhUC1LTUNyRk1BazRMUmJIZFhtbnp5bVFkSVZvMGc2Q0lodjR3QmwwNTdYVUk3Tjh0S1NJdjN3aVBUVVBaX1RrTHM?oc=5",
-      "source": "The Straits Times",
-      "published": "2026-11-11T08:34:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7d726319c0dfbb108ab210",
-      "title": "CIIE opens doors for APEC businesses to China, beyond",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXc3ekwzcDItRTlZbEE0YjhMcTZ5emtnRnluSkhVUmJoWnhZZWJPaXZRenVtLXo2bFRkUGZwMWU4Skp6cWlJOTR0VE5LSF9Xc29GWGhKbHRNQlZBUXE5a1dwVElmX3NzYXVZZ1l4Tm9nemJpT2V5TUJmN1cwUHZyR095WTBmNHVwSjg3UmpENlhLV0VjY1B1Q0FyenpZaGFJM0s0c0Ruaw?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-11T08:31:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dc0d95aa960333883eb3ff",
-      "title": "STOXX 600 Near Record High as Siemens Energy, CoreWeave Lift Market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk1jMl9QSzRaZ00yQU1ya0UwMzdzWXQ0cDdiNzZ0M2pfamJWXzNBSUxFRDU5VVBmVmhrbmNNWlBLN0FLc0ZmOXpESmVLYjR4R3QzYlVMbEE1akxXZllQZGVZcWp5TEU4VUxfVjdnSG1zblU3SFllNXlxNkoteG1qMU5qRHdRWUJqSmVqV08wcE9wMEgxTU93Um5SQWFlME9ZS3c?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T08:19:11Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eb5d6ffad86dfa9dd0e117",
-      "title": "Taiwan sends Acer's Stan Shih to represent it at APEC summit in China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOejY3Yy1YeDkySDFpcjJ3RVpiTHFTOG1Wc2N0U0VIQnl0Ylp5ak10T3Bxa0hKX2N2eldlWUVhN2VjS2R3dTBVaTE3c1RBbjlwNHY0eW9PQnFNQXRmSjhVZ2JkYmVCeUVMVE8zYTV5dEI2QnZOOFBlVm9ISnNkcmxqa281cUV2ZFNBZzg3WWIzeXpXek5TRkstUlhBdjRGQndoandQaEFTdkpRTGQtaF9FUTNqQVhfdUQxNVdR?oc=5",
-      "source": "RFI",
-      "published": "2026-11-11T08:12:11Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
