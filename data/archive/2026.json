@@ -1,11 +1,95 @@
 [
   {
+    "id": "11ae2fd9c5f20374c227de",
+    "title": "Siri co-founder backs Helix for its voice ID tech",
+    "summary": "Helix said that its voice ID tech can run on an iPhone 13",
+    "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+    "source": "TechCrunch",
+    "published": "2026-11-11T15:02:47Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Helix-Co-Founders-Credit_-Coy-Gutierrez.jpg?resize=1200,800"
+  },
+  {
+    "id": "d5ce8d4f2e7d567c6d43a1",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "source": "TechCrunch",
+    "published": "2026-11-11T15:00:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200"
+  },
+  {
+    "id": "f6f2c356227b45bce379bf",
+    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+    "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+    "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-11T14:56:11Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a91e/live/b13e3560-ddd6-11f1-b865-d17d8611efca.jpg"
+  },
+  {
+    "id": "345c453d91129aaee570f4",
+    "title": "B20 USA Summit Concludes With Call to Action for Global Growth and Business Leadership",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObC05b1BsMlZaMGtORFhhMFV2WlZIZW0tdFZFTUdhQXBmM1N5aVFaa2NDWTFuMldxSWdrRUlsZmNJMEx1SU1HQUdFU1h3TXVYLW45eUZPaWFvYkhnS3Y2ZUtWNzBmbGFHVmlJak5JSmVLUmkxYVIzMFBjYjY0eFhnYzJxc3NNUVpSZzgxSWFUX3JDV0pzWUNQTEItR3pha1JjWkV4MG5oZGhvY2YxZGJ1X0ZZc1VKMWFEWkxjWWlNNWpCa09N?oc=5",
+    "source": "U.S. Chamber of Commerce",
+    "published": "2026-11-11T14:52:43Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "bc95ce8c424339bd6d15d7",
+    "title": "German Adviser: US Tariff Risks High After Midterms, Exports at Risk",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVm13ZFJtbm15QWE4eHhTQ2Q0RjhrQkpiX3VDcmZROVZ4dDZNWnE3bnBISmFjU01SNW5Ob3hxM0xaOHE5STB5REIzQjRNRVl0bUd1OVgxaXJWaGxlaHpzVjRVci1yVDl1R0RCdUt3dzc4akVFSjFlWkJSU290XzZhdFJDdHBvSDUzRGtQQ1RBYzlrRXVHUmNVQ2U3NVFOamQ0ekpj?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-11T14:32:59Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "33d3aa1717ff65bc7dd603",
+    "title": "COP31 leaders try out new sales pitch for climate action: Do it for the economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZEtRQW5iS2pXWnZSVEZ4R2NhTzNkWlNJME1zV2JzakdMTkxJNjRxRnN0MHp1d3JFVEQ2OWs5X0RSWDY5ZENIeU9Oc2xXY0xnSjZ1TXZrZlhQa0ZWbmNBcGNmdkNjbHFUd0oxQUdidnlkN0pyZ2JlZHp4TjB2ZmFxeHZVazdtWHZTNGNWMlRveUlkMGFaaUdqajRrRU51SjlCYXU3ZQ?oc=5",
+    "source": "Rappler",
+    "published": "2026-11-11T14:28:41Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "05561c20586e8a41ff3b18",
     "title": "NODES to Join TechCrunch Disrupt 2027 Targeting Global Startup and Investor Partnerships",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ2oxRkJkdU5iSzd4REFGb0psOU1aSzNCaGd1NVZLNjN0eXZYRWJvRFhRTEpiOUFZU0tGTEs1bUxQWTZ3b1YwQmhkZmM2cnBMLTB2aWZONzdkdFhUazM0cXQ4dGd5LWZvZU1MOWRjR3BPLXE4MFBXODBEbVdKRi11dXVMMVpDSElsbTRKamVwREtacFNER2g3a2lJb1U0UEd6S0g2ekxwWUZlc1ZkZXRsWmRVYXViUDdvNTNmbHphQS1IUjNMYzhzOHBWY2EwQlJZbkd4bHpucEY?oc=5",
     "source": "StreetInsider",
     "published": "2026-11-11T14:17:30Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b86e0f56cdbb4175dd58b5",
+    "title": "NODES to Join TechCrunch Disrupt 2027 Targeting Global Startup and Investor Partnerships",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdnQwTW05TV94QmI3cFhkOWs5RndWWVpzdTM0OXhBUEV4RktJa3B5ekxYZk5adnFNQzNHVjRNYXlJYTNfN1FRcWx0dnpxeWx6Y2hNNGV6MWRmU29DMFNCd1JQSHlrQlVUT2lxQlMtZHR1b3pmNUg2S3pOdDVWeVM5VkJvcGd0cVExa3dRMlE4RTlteDZoZXloMEJQUE0yUDFUVDNBNm5fYWpnTGtmc3hBMFhxUHJ2bkZuYVRscXg5OHhQb0REZlFXNGV2eG0?oc=5",
+    "source": "TMX Newsfile",
+    "published": "2026-11-11T14:16:00Z",
     "category": "Technology",
     "topic": "Technology",
     "country": "",
@@ -22,6 +106,18 @@
     "topic": "Global finance",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "3a0b6122a2ac65d016b632",
+    "title": "Spain sees widespread disruption in first general strike for 14 years",
+    "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-11T14:06:27Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
   },
   {
     "id": "835c85cdd5105ad55fbfeb",
@@ -132,6 +228,18 @@
     "image": ""
   },
   {
+    "id": "f725522f3b3f27027b8bcc",
+    "title": "[6027.T FY2027 Q2 Earnings Call] Japan's Bengo4.com Posts 30.5% Rise in Interim Operating Profit, Beating Plan; Legal AI Tops ¥1 Billion ARR in 17.3 Months, Fastest Record for a Japanese SaaS",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bWxkSXFJbTlFZGlEZUhnRmVmTzQ0NS1BVkIwelk1UUwteWpqWVk0V3JUdTJ3WkprU01TSXcxWmFmb3ZPeHNKTExJQ2hEMDRiNmcyUk5tc1FxZ1l4UWpFSQ?oc=5",
+    "source": "finance.biggo.com",
+    "published": "2026-11-11T13:34:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5ea95f9dd622f553554e89",
     "title": "Google in, but Nvidia out as US lines up Apec CEO Summit delegation: source",
     "summary": "",
@@ -178,6 +286,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "id": "f8982d83e823691d20f299",
+    "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXVYMVN4eno4WG9IQnlHbzdpY3k2RXlBeW1BTjd3MlNFNTNublFmLU9maFBTVzd0WjkzUE9WZXdJdks3Z3p4b3ZkZ2lNVHY5el8teTNubEwtZm9BUU9NZDlMVDgtUnR2UjVQTlF4QmtkX21nYS1GcmRtS3luTFAxTnRuaFlmY0NIck1XNnRhY0c2SUZmZGt4NHlyaUlQbnZ2WDNRc2RvNGN3TUprak5EYktWZW1ocjlLNFJjWGNWaGlUTGFMWjdLQW5UYXdKNjM5?oc=5",
+    "source": "The Washington Post",
+    "published": "2026-11-11T13:19:44Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "53cf43c23ca1eb5e1c4b84",
@@ -838,6 +958,18 @@
     "topic": "NPR",
     "country": "",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fa1%2Fcf45518d4850a897eda36ba25615%2Fap26306677630425.jpg"
+  },
+  {
+    "id": "a2c5783a858a687ff69fe0",
+    "title": "Carney takes off Wednesday for summits in Ireland, Philippines, Cambodia and China",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEpRbF84MmdRMUJOYUdDRGJRQ2RqeVUwbENEZ0pORmhGa2hlUDFWcjFjZFNFc1pQblNQNmNvTEVOeEp4c1BYTkM0RHl1RmhZblQyTkdLY0c3VTZTZm1nR09sZmx5U1dlOTNDTlA3anBOc3l6TWJDSFBvd2JSb3Vxa01lWFJuanhiTDd2RF8wNjFmZDVqMGpCSDJ6bGRTMHBx?oc=5",
+    "source": "Penticton Herald",
+    "published": "2026-11-11T09:00:10Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "fde0302ce6d112b4c1cce6",
@@ -1512,6 +1644,18 @@
     "image": ""
   },
   {
+    "id": "f1b3506ce3d4d107abc66d",
+    "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+    "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together o",
+    "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+    "source": "The Guardian",
+    "published": "2026-11-11T01:18:56Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/456a998e975976898ff984ee0e99403b099a5195/238_0_2524_2020/master/2524.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6bf7488945756e0098de0ce94cb6525c"
+  },
+  {
     "id": "50ed8361c7b935ec42c28e",
     "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
     "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
@@ -1892,6 +2036,18 @@
     "published": "2026-11-10T22:04:41Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a1de27dc975047833e4528",
+    "title": "How Paraguay’s banking crisis toppled a staunch Trump ally in Latin America",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5paXFZcnFXZlhpOEhFMmJiNWM1ajg1LUxkdDQ0bUp3NXlDM3hWZ2JBWUxjb283NW1nLTVWbjdMS2NzNDUzZ0xJVTQwQW1XMnFreFBLT2R5dUNtQl9uWTA2cGZGZ3VpNW1ROExRSWpzZFRjMjFxVWo3NGJtYUpPQQ?oc=5",
+    "source": "CNN",
+    "published": "2026-11-10T22:04:13Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -2492,6 +2648,18 @@
     "published": "2026-11-10T18:31:54Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "05fb516afc7eca531ce3b3",
+    "title": "Anthropic’s New AI Models, IPO Ambitions and OpenAI’s Push for AI Safety",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1NMX1FHWmUwUzQ2eF95TjluYkY1bEhkdkpfbkswckdlYW5mZHh0WmQzZHdrN0Z4S1RQRV9PeHJnWEJKa0VQSFBQNTBhRzIwVVQtM3VHX1lkTFM2OExfeE42d1NUUWUxWTROQzU1Yk5vcGxidVBING1ua2NBekNGeUVDTFZ1VktFbml4OHRPa0lGUjBFU1VIYkpn?oc=5",
+    "source": "Tekedia",
+    "published": "2026-11-10T18:15:26Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -5148,6 +5316,18 @@
     "image": ""
   },
   {
+    "id": "2f5817c7b46673a5eaacb4",
+    "title": "Investors from Africa, Europe and US converge on Sandton to unlock DRC opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWlHZFFqdE5qTFNLRzFnQWwwVGw0cWZxd1YyV0FPRFFFdGxMdFp0dHl0dWdvaFMwdVc1aHRsSVJmNjhBM1VVOW5WN3Y4amt2ZWo1VVJlTTgwVllKeHktd3lNcnNpNWJYcXlpSHdoRlotZjJHajB0RDNmNFJvRE5rcDM4VGlmMmZ4VmowQTN4SnVvVTEzVXpNTnltdjhqUmhwa2x3eTk0N1N6NnkyOTZQN3MtWGNhMFFuTjRxamNxamQyQXl4dXBJTnhaeGI?oc=5",
+    "source": "IOL",
+    "published": "2026-11-10T08:00:00Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "94b3016ab2abfdc880fcc5",
     "title": "What Stocks Have Done Under a Republican President and a Democratic Congress",
     "summary": "",
@@ -7205,6 +7385,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZC1MckVSdmhweUg4RTY1SGhkVkowTm54azRKMEhEZWhic19KSTVXcHhnNjNhaWdTVUN0cEFEVFN0amhMb1RobDVnOGtNRG5ZWnRkOWh6ZnAyMkVnRFNNcmpyWjRtVG1YbFBwZHNSYzNEZ1FEUDcxdlJKSWlyb2hxZmMzMUVLQmZGX0E?oc=5",
     "source": "Yahoo Finance UK",
+    "published": "2026-11-09T21:35:02Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "19c6c7fb77d765985ced92",
+    "title": "American Public Education (APEI) Q3 Earnings and Revenues Top Estimates",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGtwOVVRRkpZSWZ3eGEteUZlek5uNXd0ZHQtN0JJQkxhd1JtaUVoLXlHQ2pnMFlzR0paWFBOdHFhNmFMbk9kR0dSdXo5SVRTYjd2dGVKOENoNkFkVmhUM05FUmk2bHJUdk5hSm9raC1GLWRoYjN5VFZpOE1vM09LY25LYlczRTdqZTNZYlJsRkI2YVNBVTNFbnZoU1JRWk0?oc=5",
+    "source": "Yahoo Finance",
     "published": "2026-11-09T21:35:02Z",
     "category": "Finance",
     "topic": "Corporate results",

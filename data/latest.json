@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-11T14:21:40.491089Z",
+  "last_updated": "2026-11-11T15:17:41.665354Z",
   "articles": [
+    {
+      "id": "11ae2fd9c5f20374c227de",
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "summary": "Helix said that its voice ID tech can run on an iPhone 13",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:02:47Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Helix-Co-Founders-Credit_-Coy-Gutierrez.jpg?resize=1200,800"
+    },
+    {
+      "id": "d5ce8d4f2e7d567c6d43a1",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200"
+    },
+    {
+      "id": "3daadb44302fb76c238d8b",
+      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – business live",
+      "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. ",
+      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-11T14:56:22Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
+    },
+    {
+      "id": "f6f2c356227b45bce379bf",
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T14:56:11Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a91e/live/b13e3560-ddd6-11f1-b865-d17d8611efca.jpg"
+    },
+    {
+      "id": "345c453d91129aaee570f4",
+      "title": "B20 USA Summit Concludes With Call to Action for Global Growth and Business Leadership",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObC05b1BsMlZaMGtORFhhMFV2WlZIZW0tdFZFTUdhQXBmM1N5aVFaa2NDWTFuMldxSWdrRUlsZmNJMEx1SU1HQUdFU1h3TXVYLW45eUZPaWFvYkhnS3Y2ZUtWNzBmbGFHVmlJak5JSmVLUmkxYVIzMFBjYjY0eFhnYzJxc3NNUVpSZzgxSWFUX3JDV0pzWUNQTEItR3pha1JjWkV4MG5oZGhvY2YxZGJ1X0ZZc1VKMWFEWkxjWWlNNWpCa09N?oc=5",
+      "source": "U.S. Chamber of Commerce",
+      "published": "2026-11-11T14:52:43Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bf0354919e892807020aa3",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T14:51:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
+    },
+    {
+      "id": "bc95ce8c424339bd6d15d7",
+      "title": "German Adviser: US Tariff Risks High After Midterms, Exports at Risk",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVm13ZFJtbm15QWE4eHhTQ2Q0RjhrQkpiX3VDcmZROVZ4dDZNWnE3bnBISmFjU01SNW5Ob3hxM0xaOHE5STB5REIzQjRNRVl0bUd1OVgxaXJWaGxlaHpzVjRVci1yVDl1R0RCdUt3dzc4akVFSjFlWkJSU290XzZhdFJDdHBvSDUzRGtQQ1RBYzlrRXVHUmNVQ2U3NVFOamQ0ekpj?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-11T14:32:59Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "33d3aa1717ff65bc7dd603",
+      "title": "COP31 leaders try out new sales pitch for climate action: Do it for the economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZEtRQW5iS2pXWnZSVEZ4R2NhTzNkWlNJME1zV2JzakdMTkxJNjRxRnN0MHp1d3JFVEQ2OWs5X0RSWDY5ZENIeU9Oc2xXY0xnSjZ1TXZrZlhQa0ZWbmNBcGNmdkNjbHFUd0oxQUdidnlkN0pyZ2JlZHp4TjB2ZmFxeHZVazdtWHZTNGNWMlRveUlkMGFaaUdqajRrRU51SjlCYXU3ZQ?oc=5",
+      "source": "Rappler",
+      "published": "2026-11-11T14:28:41Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "05561c20586e8a41ff3b18",
       "title": "NODES to Join TechCrunch Disrupt 2027 Targeting Global Startup and Investor Partnerships",
@@ -10,6 +106,18 @@
       "published": "2026-11-11T14:17:30Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b86e0f56cdbb4175dd58b5",
+      "title": "NODES to Join TechCrunch Disrupt 2027 Targeting Global Startup and Investor Partnerships",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdnQwTW05TV94QmI3cFhkOWs5RndWWVpzdTM0OXhBUEV4RktJa3B5ekxYZk5adnFNQzNHVjRNYXlJYTNfN1FRcWx0dnpxeWx6Y2hNNGV6MWRmU29DMFNCd1JQSHlrQlVUT2lxQlMtZHR1b3pmNUg2S3pOdDVWeVM5VkJvcGd0cVExa3dRMlE4RTlteDZoZXloMEJQUE0yUDFUVDNBNm5fYWpnTGtmc3hBMFhxUHJ2bkZuYVRscXg5OHhQb0REZlFXNGV2eG0?oc=5",
+      "source": "TMX Newsfile",
+      "published": "2026-11-11T14:16:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -24,6 +132,30 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "91c1994ddaa4620fc9f19a",
+      "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUltZl90MDVBWmEwY09sTVgtR1oxbE1pNzhjY2JKWWVQeHNQOU92bGwtRThwalpuWDJzM09Jb0hYYWVBY3BmTlhKcFFPS04yd2IxR1RzLUU1UFBiZ1Q4di1wWWFzRE1zT1pleHFIU1VPNkVyYVZacEpKNk9kcnZmVmo1R2EtWE00NDRvOHE2NHBfT0ctUkxBZWMwM3VkTUg4S2tzQVRXV000SWVGVzVHTFNCV3dkMWNabGExOTQ1enZKcVVoWEFR?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-11T14:10:30Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3a0b6122a2ac65d016b632",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T14:06:27Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
     },
     {
       "id": "835c85cdd5105ad55fbfeb",
@@ -134,6 +266,18 @@
       "image": ""
     },
     {
+      "id": "f725522f3b3f27027b8bcc",
+      "title": "[6027.T FY2027 Q2 Earnings Call] Japan's Bengo4.com Posts 30.5% Rise in Interim Operating Profit, Beating Plan; Legal AI Tops ¥1 Billion ARR in 17.3 Months, Fastest Record for a Japanese SaaS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bWxkSXFJbTlFZGlEZUhnRmVmTzQ0NS1BVkIwelk1UUwteWpqWVk0V3JUdTJ3WkprU01TSXcxWmFmb3ZPeHNKTExJQ2hEMDRiNmcyUk5tc1FxZ1l4UWpFSQ?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-11-11T13:34:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5ea95f9dd622f553554e89",
       "title": "Google in, but Nvidia out as US lines up Apec CEO Summit delegation: source",
       "summary": "",
@@ -194,16 +338,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "3daadb44302fb76c238d8b",
-      "title": "Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live",
-      "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. ",
-      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-11T13:19:52Z",
-      "category": "Brands",
-      "topic": "The Guardian",
+      "id": "f8982d83e823691d20f299",
+      "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXVYMVN4eno4WG9IQnlHbzdpY3k2RXlBeW1BTjd3MlNFNTNublFmLU9maFBTVzd0WjkzUE9WZXdJdks3Z3p4b3ZkZ2lNVHY5el8teTNubEwtZm9BUU9NZDlMVDgtUnR2UjVQTlF4QmtkX21nYS1GcmRtS3luTFAxTnRuaFlmY0NIck1XNnRhY0c2SUZmZGt4NHlyaUlQbnZ2WDNRc2RvNGN3TUprak5EYktWZW1ocjlLNFJjWGNWaGlUTGFMWjdLQW5UYXdKNjM5?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-11T13:19:44Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
+      "image": ""
     },
     {
       "id": "53cf43c23ca1eb5e1c4b84",
@@ -254,18 +398,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1675/live/f68a02b0-ddcd-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "91c1994ddaa4620fc9f19a",
-      "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUltZl90MDVBWmEwY09sTVgtR1oxbE1pNzhjY2JKWWVQeHNQOU92bGwtRThwalpuWDJzM09Jb0hYYWVBY3BmTlhKcFFPS04yd2IxR1RzLUU1UFBiZ1Q4di1wWWFzRE1zT1pleHFIU1VPNkVyYVZacEpKNk9kcnZmVmo1R2EtWE00NDRvOHE2NHBfT0ctUkxBZWMwM3VkTUg4S2tzQVRXV000SWVGVzVHTFNCV3dkMWNabGExOTQ1enZKcVVoWEFR?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-11T12:40:30Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "ac468bbb6b4cc89d3b26ba",
       "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
       "summary": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
@@ -307,7 +439,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVVHV0VQWTJiOTlpRTMtanBIcUZkS1Boc0FyUWFRYXllQy1WRUc1TU96SmY5N1ZUMW1mNDJZcHpGTTBsUnV2UDdZdG14bDJJamFrVUtNRWQyanlqUGlfZ1V5OTh6V2ZEUTRFcjk1anB2cWxsSmY5OHFqZXo0ZGVhLVZHbEpnc2VobVhJWXBCOHhLdkhlc0xrNHhuNUwxb2VRN0ljUVdEVms1UkFm?oc=5",
       "source": "The Guardian Nigeria News",
-      "published": "2026-11-11T12:25:36Z",
+      "published": "2026-11-11T12:26:33Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -372,6 +504,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png"
+    },
+    {
+      "id": "bf266f73668e30d7c099bd",
+      "title": "From capital to jobs: Why financing Africa’s SMEs requires more than money",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUxTSGNZM0kxb2pORzdkRmlQMVFLaTk5NjlNdzl0UzMwLWRlcEgzcWZWc0kydmVIMWE2SmtZdUk4N05SSnA3dWU3bXZ6Tjl4UzMyaW4zZVZ4TlJDZ0d2MWtKRlVacENSVFBXS0lkWEktaEpLaU1kcDdRLXcxNlZpS2lNRDRscThNM1pHMXJaRFpUQ0pOWmFObW0zWXZVcXU5VkZiYzNoV2ViSi1vSF85bUN3?oc=5",
+      "source": "Business News Nigeria",
+      "published": "2026-11-11T12:07:42Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e754224b043f5de8867de2",
@@ -514,18 +658,6 @@
       "published": "2026-11-11T11:16:43Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bf266f73668e30d7c099bd",
-      "title": "From capital to jobs: Why financing Africa’s SMEs requires more than money",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUxTSGNZM0kxb2pORzdkRmlQMVFLaTk5NjlNdzl0UzMwLWRlcEgzcWZWc0kydmVIMWE2SmtZdUk4N05SSnA3dWU3bXZ6Tjl4UzMyaW4zZVZ4TlJDZ0d2MWtKRlVacENSVFBXS0lkWEktaEpLaU1kcDdRLXcxNlZpS2lNRDRscThNM1pHMXJaRFpUQ0pOWmFObW0zWXZVcXU5VkZiYzNoV2ViSi1vSF85bUN3?oc=5",
-      "source": "Business News Nigeria",
-      "published": "2026-11-11T11:16:26Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -914,6 +1046,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fa1%2Fcf45518d4850a897eda36ba25615%2Fap26306677630425.jpg"
     },
     {
+      "id": "a2c5783a858a687ff69fe0",
+      "title": "Carney takes off Wednesday for summits in Ireland, Philippines, Cambodia and China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEpRbF84MmdRMUJOYUdDRGJRQ2RqeVUwbENEZ0pORmhGa2hlUDFWcjFjZFNFc1pQblNQNmNvTEVOeEp4c1BYTkM0RHl1RmhZblQyTkdLY0c3VTZTZm1nR09sZmx5U1dlOTNDTlA3anBOc3l6TWJDSFBvd2JSb3Vxa01lWFJuanhiTDd2RF8wNjFmZDVqMGpCSDJ6bGRTMHBx?oc=5",
+      "source": "Penticton Herald",
+      "published": "2026-11-11T09:00:10Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fde0302ce6d112b4c1cce6",
       "title": "Carney embarks on a worldwide summit tour to build bridges with Europe and Asia",
       "summary": "",
@@ -922,6 +1066,18 @@
       "published": "2026-11-11T09:00:00Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4d4a059128f748f3500dd5",
+      "title": "Thailand’s AI investment boom offers chance to revive long-term growth, says AMRO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVhuemtrOTdySm9GYTlpUkppZ0RKY1hMelZRTGZHbkJRNXpDX0dhYnp5M2VvNkZJVFpEN0dfTHZGLUh4SFl1T2FSckNuZ25HNnlyVW1oel93OUdXUEVGeEc3UERBai1CRE9PZUxZaUo2dGUzWUV3NjZXOVQ5VkZJVlNnZ0k4a1lld2tQbUdqb0dIYlIzd18xM191OGhMUGwwMWhfVXBDekdtQnFxR0w3RGZLVVZoQQ?oc=5",
+      "source": "TNGlobal",
+      "published": "2026-11-11T08:53:37Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -946,18 +1102,6 @@
       "published": "2026-11-11T08:45:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4d4a059128f748f3500dd5",
-      "title": "Thailand’s AI investment boom offers chance to revive long-term growth, says AMRO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVhuemtrOTdySm9GYTlpUkppZ0RKY1hMelZRTGZHbkJRNXpDX0dhYnp5M2VvNkZJVFpEN0dfTHZGLUh4SFl1T2FSckNuZ25HNnlyVW1oel93OUdXUEVGeEc3UERBai1CRE9PZUxZaUo2dGUzWUV3NjZXOVQ5VkZJVlNnZ0k4a1lld2tQbUdqb0dIYlIzd18xM191OGhMUGwwMWhfVXBDekdtQnFxR0w3RGZLVVZoQQ?oc=5",
-      "source": "TNGlobal",
-      "published": "2026-11-11T08:43:15Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1054,6 +1198,18 @@
       "published": "2026-11-11T08:00:00Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5cf6869232a42bdc08418a",
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-11T07:57:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1282,162 +1438,6 @@
       "published": "2026-11-11T06:09:58Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e356dc4351d4aa0b277b29",
-      "title": "RWE Beats 9-Month Core Earnings Expectations on Favourable Conditions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQai1oTUhRZXEwby01S3hUREFYZmFtVjdoWnJUMnJGTjZhWTc4dnA5YWZkcUJBTGJqQjEtN2d6SFZKUHFXMVVGS2tDVmdlZ1NBSmdrNWpiclBvdjgxMkxmRnZSTTBGbjFhb3RobWFNa2tMX3lQWmtWTHpmX3I0Qi1LTElXVUNmS01ZQzhTWFZsTlc2QndmTkQtOXVVRzY?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T06:09:57Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0e44ef168aa21e790fcaec",
-      "title": "Macron in the Middle East: Gas, Security, and a Restless Home Front",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2l3bnNId1BIOU1PVUhtSVhPZXVBbFE2dWJETjJ2a2xLOFNOeHRHdDRRTEsxcTA0TFQ2OV9aT2JjOXBzT2RJUnhhUkZOcC1KWGp2QVVEb1RKYWRFRUlKczNHZmlmTjFtdk5tV1lMcVF6X0s1bWY0Sl9fb2dQYU90S0JkNnBLTEpTR0swN056TFdicVppazBz?oc=5",
-      "source": "Bloomsbury Intelligence and Security Institute (BISI)",
-      "published": "2026-11-11T06:05:32Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "55a015ad0bcf3eb28fde14",
-      "title": "Malaysia-Japan Trade Networking Seminar 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2RXZEpjVEVJekVwMWhzTkRrak1tamlGUHh3TExYZWxkRnA4c1owZ3BIYkd0d3lzOXhkaTB1aUpubFE5SXExakRuZ3ZCRmZWVHMxN05McGR3TUd2UUItUWI1OWRjc0VhUWhHcDFnd01zRlU3aXlKU01BQkVjSEZUUnJtWnZ6YmRyenJzd3k5RQ?oc=5",
-      "source": "Ministry of Foreign Affairs Malaysia",
-      "published": "2026-11-11T06:04:46Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c042f7c46e86cddd52175a",
-      "title": "“When the Rich Leave, So Do Their Taxes”: California Voters Reject Billionaire Tax as Europe Faces Wealthy Exodus and Shrinking Tax Revenues",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DNkExQS1LRW1LemRvcXFNRjFFWERTdkFISS1NZVVxOHlVOEhGX1pMV01JUnUzVmxBb1JjWTk2Nlo2akd3WnFMOFNNVzVuUzV6U2YxM01ZQQ?oc=5",
-      "source": "economy.ac",
-      "published": "2026-11-11T06:03:43Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "408ba33428ae7b82f3950c",
-      "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXQtdnQ3S2wyczZMYXZHdVp2MXZsMEpGWDdjM3l3Yjk1YjRxRndZN2NPWWotOHQxS1ZYRkV2Ynlnd2VyMVZldnl2bXMtcFFYUDZCUzJXNFhTSEdEQjRmbnlFSlNBc3RZb3NxQW9KZ0MtTi1fNHI3MVlzVkdnY09vSGxvM3pWb21vNF95WUN1eXZybDdsTG1jT0o3OHlwclFjbDU5a2dUalNUUjNhMGdSSXRVQQ?oc=5",
-      "source": "WTOP News",
-      "published": "2026-11-11T06:02:03Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "118841e2f8f88ccd5a64e4",
-      "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2R6a3RQamhOcnZKN2RSOVBiWUM4YTV1Q2o5eWdvaDF0T2RFcXNlSWN1dlRaelRvbWFRekZYT01vWi1LZmhiWVVnVkY5dWhYTlVMdTNBbXZVTlcxa1FJNXU0RF9HUE93Y3VWNm9TTzFaLVR0Ui1NMGNfZmExMTVlNWxlN25wN0piQ1VjaEI3YkFvMmtmMDlGUUdzemJPU29NOWptUkRTYkd0dmZ6ZDNpMmlvVHNCY3hfMU1V?oc=5",
-      "source": "Audacy",
-      "published": "2026-11-11T06:02:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8b63f75acdf33b92724ac2",
-      "title": "From Glencore to the central bank, who are the women driving DRC’s economy?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWh2NXFEN253VmdjOERZRURqZHpQV1RxRVlJWkpuYmFGU0dXR1hsbFNaS210N29mQnRFRHFDaUFWRFA5NjdyY1ZQX2xGN1VPS2Z0dVVET19lSE1pYnRlYnQwVndsWHVEcTZYSUpZNnl1NzF4aXJFTnFHSjM4d2F6Vnpaemt6MjM2cXNUbHNhU3NXQ1c3WHFXb0xMc3ltUEJxZnlCRHp1VzR1dTdrNll3cXpn?oc=5",
-      "source": "The Africa Report",
-      "published": "2026-11-11T06:01:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f9bb0b806c9a2d07fa10ce",
-      "title": "RUM Stock Rises Overnight Ahead Of Earnings: Retail Expects AI, Data Center Catalysts To Boost Revenue",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOWYzRVBxM3RGX3YtMEZvRTZ5Ymp5N09jSjJkRk5fbEZGR0dLT1Q3ZUZRSzIyTFgzdWlEdnhYYzZkYTI0MENxRVJqRE1DdGZZYktkUTVEaHMtWXlVX2hsMG05bFUzbzltYWRXTEhtVE5JRWhtQS1lSWE5WE5tS3dTdlotRk5FUHR0RjgxVk5kblNva2c2b3RjZWN5RFdyM3FRSTBZLXNTMjBEeG8tWDhWMnF2OTBfb1htb1k0OHJ4YTNYQUl2MDRnZG1hbEZGREZWa1JDRy1WLW5kVnhxRkhPZmdpdUhZczVDTlNULWtOTGdiQmc?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-11T05:41:10Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "214442e693027ec32ec928",
-      "title": "Europe’s Resilience After the Middle East Shock: More Than Meets the Eye",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcF9BY2w1cTNGV3Rnb0V1Ui04RDBhVVVER2dlSExEUjJ3RkdFV3ZBaTBtTG1zYWF1MjUyUmdpRDJXYkR4WlFVejVyRWdZbnpPYVJSVG5SWlJTc29wUFVnNUpOOVdMWk5KdWRsY2NhMTcxNmtuVHEwQzA4eDIxM3dHNFFTYUk2eVBlVHJqZW83azF0dVRsV2d2cjNBbnd1S3JtMEhxVVVYYjdvN1ZwYy1pZQ?oc=5",
-      "source": "International Banker",
-      "published": "2026-11-11T05:30:04Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c0c45f009e730c76bbe7cd",
-      "title": "China-Japan summit unlikely at Apec amid continued tensions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWRZdkJOOEJaVjhFcXc5Z250Z2YweTZ4RXdlTkxTZ2N0MHpaYVRwYi1UNDdxM1Q4b1J6VzlXQkIxS0ZCN25WWFRpNk9rZ2RlUDBwZUVhY2FGOFg0RHI2Y0E2cDF2XzR2aHdwSmdIVkViNmdONG40V3BDTUNYWlBEZ1hPZ0l6VjZETkJLTjRxSmQtVlRVUVhFT2V5bVg1YTJjRlHSAacBQVVfeXFMUE44R2h4LTdYSzFnYktObnVfZW85Zzh2ak9Vb1VCRUd2dldyTUtaaDZwUGtwMUh2ZTh1aTltTm5jbURyRDFFU3pzYnhDcXRPSzdaRW93ek8tVlE4X1NRTjgtRE4waGljSWNhb0E1QXRZQjJCSHIycTMyMDkzR05XNjNvSXNGSThienZzOVNzZkdVV2pwR3k4LXYxYlh0N1dyVW00aGFSV1U?oc=5",
-      "source": "Inquirer.net",
-      "published": "2026-11-11T04:44:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c2e09303223d69fb3fe648",
-      "title": "Canada’s Immigration Cuts Spark Backlash",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVdWelc0OGJsLTQ0TVp5cTJQSEdXS3Ztd1JURmJreVB4T2xzdFhJLTFMRmtwbVJUbUh2Sk50Snc1ME1IbnRlazl5WTA1UjVnYUxMUHl5TkhmZENzUFZ2OUdqZE5uT0JwUHk0VHhobFY4OHAtX21xcWQ1NFFKYWEyR2lpd3hXdVlzcVNqV3BfNmhoQ29ZUEN3aUpqc28?oc=5",
-      "source": "Asian Pacific Post",
-      "published": "2026-11-11T04:39:10Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "963b1db17905c82d965950",
-      "title": "Emirates expands premium economy across Europe as winter travel demand rises",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHRrbnhnXzNWaDFHUWw5QlhlV0FMT0JPcENJWjlPeF9tQzBVV3hVbjVBX2Zkcjh0NHlWeVpmc0xYdE10SGR5Z0t3X0lQQWdvX3hpY3pOZHd4LW91dkIwVXlfbjFVVFJrRXQxdHZWU2VlanY1X2c4cENLWjlFN2g5WHYzNVA3RE9JallXcTV4Zk9HSm5OTE44SjdnM1J2b0tpS3ZEOFBXSnJqb01vYU1UYg?oc=5",
-      "source": "Cyprus Mail",
-      "published": "2026-11-11T04:30:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b6f6930a37256208e6f4a3",
-      "title": "10 questions for China in 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VYzBVVXB5UlpNeS1ZbjdfcEZvYjVIZ0dVOUI3SVRfZ2FsVFhqbFBpTkVLZnBHUVd0eXBGc2x5OVZMMEJjMVBMRkdtVURtZm1uLWVXbjRfbkJKSHJaWXluYUpCbXdjWlNuMUEycDJOcw?oc=5",
-      "source": "ing think",
-      "published": "2026-11-11T04:19:08Z",
-      "category": "Economy",
-      "topic": "Global economy",
       "country": "",
       "image": ""
     }
