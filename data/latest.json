@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T11:56:24.968732Z",
+  "last_updated": "2026-11-11T13:06:09.672700Z",
   "articles": [
     {
       "id": "3daadb44302fb76c238d8b",
@@ -7,11 +7,155 @@
       "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. ",
       "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-11T11:54:46Z",
+      "published": "2026-11-11T13:01:32Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
+    },
+    {
+      "id": "53cf43c23ca1eb5e1c4b84",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be [&#8230;]",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "source": "The Verge",
+      "published": "2026-11-11T13:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b12bf270b7caed37350aa5",
+      "title": "Not everyone is loving their new iPhone Duo",
+      "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make [&#8230;]",
+      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "source": "The Verge",
+      "published": "2026-11-11T13:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3116dfbf95ac28d80134b1",
+      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T12:53:11Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1675/live/f68a02b0-ddcd-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "ac468bbb6b4cc89d3b26ba",
+      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+      "summary": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T12:30:29Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
+    },
+    {
+      "id": "670b6892754b3f31df9cbc",
+      "title": "WWE’s weekly show Main Event is set to find a new home on Rumble.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlotVEVQZW5qMklQdURqRmxIWHpNdVFUM3JNYU5fcWFIWWlUVGdER2NfbXlfdV9WTW5PZWNoSTBxTFJneDYxX3ZqXzItc2NEQk5hRVJkclFUeEpBWHZrU1FZMWV6MExaekRtYTVneEY5X1REX1JzX0s0ZUViY1J3QjhBSl9LcUFWbXVfUlItU3B5Q01fZk9yeldnLUZLbDVzdnRZ?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-11T12:30:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "09b2f13e17bd69498e6e8f",
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "source": "The Verge",
+      "published": "2026-11-11T12:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "4115ef1363e9352068d440",
+      "title": "Interactive Brokers Group vs. Mastercard: Which Financial Stock Is a Better Buy for 2027?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVExRVV9SbFVqZXdwVnc2QV9KdnVXY1hlNlpZZy1saUdFNWZlY2lqb2dBam1lNHdMSlREZ2FrVkV5RjU2dkpzbkRkMl9XUGI3Qk16T3VtSm01bUJSMElSZXlfUkMyRkxTTXBMR1hPVE9VdUxwUVFJSGxGenZPdzk5Nl93U29hbEotdkF3aEFMaGp1enFBU2RGTlFoWjVVd2VVaUcySE9vZXJ1SF95RE5CblZfSkJPU19BVC1SbGpLZHdpU3VfemxObVdyR3E5dnZkb0h5Y3lR?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-11T12:25:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "be72be911abc1fd5241e3b",
+      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+      "summary": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+      "source": "NPR",
+      "published": "2026-11-11T12:21:59Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4540x2554+0+237/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F9c%2Fbdb05510423c89d73daa68e6f0e4%2Fgettyimages-2304464392.jpg"
+    },
+    {
+      "id": "aca7e140819e8d80d9bdfd",
+      "title": "Apple is killing its Support Community forum next week",
+      "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "source": "The Verge",
+      "published": "2026-11-11T12:19:10Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ddbccf94961adfce371141",
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T12:14:12Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png"
+    },
+    {
+      "id": "91c1994ddaa4620fc9f19a",
+      "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUltZl90MDVBWmEwY09sTVgtR1oxbE1pNzhjY2JKWWVQeHNQOU92bGwtRThwalpuWDJzM09Jb0hYYWVBY3BmTlhKcFFPS04yd2IxR1RzLUU1UFBiZ1Q4di1wWWFzRE1zT1pleHFIU1VPNkVyYVZacEpKNk9kcnZmVmo1R2EtWE00NDRvOHE2NHBfT0ctUkxBZWMwM3VkTUg4S2tzQVRXV000SWVGVzVHTFNCV3dkMWNabGExOTQ1enZKcVVoWEFR?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-11T12:04:26Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e754224b043f5de8867de2",
+      "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+      "summary": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. Datacentres planned across the US, the UK and mainland Europe have proposals to ",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+      "source": "The Guardian",
+      "published": "2026-11-11T12:00:48Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e02c6467688c68dcf20c030c14f064ae"
     },
     {
       "id": "fd9d173c00e3b5f828921f",
@@ -31,7 +175,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDJOTDd6aWlBVlVYSzJEUHloc25FQUN5R0pBQUhsUG9MZFMxajJQbmxsTFRudWxabjhKcUx0UmNKbzkzQkx4QmNkeHpaY054emJKWllVNEY2dlNmY3Q5dFhYV1lvXzhkd2FMcXZ5bFN6eFZzX3JlRF9jWTZYNmFQUWFRakl3Q25CSEhpZ2NGMWYxcnlTTktOMGRHalVPem9UWlNFYzNQSk8tZEhZYWI4VVNlMnRTNmRUdUI2TG1Db1hvdGxsMHc?oc=5",
       "source": "TradingKey",
-      "published": "2026-11-11T11:47:45Z",
+      "published": "2026-11-11T11:48:45Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -60,6 +204,18 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "104148c752c7a38623852c",
+      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T11:34:50Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d32/live/746c37d0-ddbe-11f1-a50f-85eebf9e50e5.jpg"
     },
     {
       "id": "f2638f7d630ee77c1a693e",
@@ -98,6 +254,18 @@
       "image": ""
     },
     {
+      "id": "a65666bb6e1249296f5ef8",
+      "title": "Munich Re stock faces final test after profit guidance hike",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTlYYWl6MjQ1b3c4VEh1QUN6aGo3MXU5RFNNckl5WXl4S2pXb2dja1V2YlREeVdRWHROemlQY1pLOVItQ3B1NW5BT2t5YS1aY1hZWnVHMnYyeHN0cWhEWFBpa2pXSlFEUFJ1MU45ckVSaHowbHpXSzZsMUZlRzU1dGk0MlExQnpfQ1hEZ1JPMkIxWk0wdlA4R2w1MFhHallHMXBTaVNmZF9aQUdROGtCb2xFbHFWNlFwblpHaVN5Zw?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-11-11T11:17:40Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2143c0f854aef253ea819c",
       "title": "South China’s offshore wind industry powers Asia-Pacific's green future",
       "summary": "",
@@ -122,6 +290,18 @@
       "image": ""
     },
     {
+      "id": "bf266f73668e30d7c099bd",
+      "title": "From capital to jobs: Why financing Africa’s SMEs requires more than money",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUxTSGNZM0kxb2pORzdkRmlQMVFLaTk5NjlNdzl0UzMwLWRlcEgzcWZWc0kydmVIMWE2SmtZdUk4N05SSnA3dWU3bXZ6Tjl4UzMyaW4zZVZ4TlJDZ0d2MWtKRlVacENSVFBXS0lkWEktaEpLaU1kcDdRLXcxNlZpS2lNRDRscThNM1pHMXJaRFpUQ0pOWmFObW0zWXZVcXU5VkZiYzNoV2ViSi1vSF85bUN3?oc=5",
+      "source": "Business News Nigeria",
+      "published": "2026-11-11T11:16:26Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "3b1f94ee400143396ea5fe",
       "title": "Eswatini gives illegal foreign businesses 12 months to leave",
       "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
@@ -132,18 +312,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/9b20f540-ddba-11f1-9582-1b529d725aaf.jpg"
-    },
-    {
-      "id": "91c1994ddaa4620fc9f19a",
-      "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUltZl90MDVBWmEwY09sTVgtR1oxbE1pNzhjY2JKWWVQeHNQOU92bGwtRThwalpuWDJzM09Jb0hYYWVBY3BmTlhKcFFPS04yd2IxR1RzLUU1UFBiZ1Q4di1wWWFzRE1zT1pleHFIU1VPNkVyYVZacEpKNk9kcnZmVmo1R2EtWE00NDRvOHE2NHBfT0ctUkxBZWMwM3VkTUg4S2tzQVRXV000SWVGVzVHTFNCV3dkMWNabGExOTQ1enZKcVVoWEFR?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-11T11:10:30Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     },
     {
       "id": "946a228e81797471c3fb07",
@@ -170,6 +338,18 @@
       "image": ""
     },
     {
+      "id": "67dc212a19634926aab996",
+      "title": "Which Gives You More Of Financial Market Activity, Coinbase Or S&P Global?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRTFSTXctRFJBT1FlbkNTLTNEdkt1d3FYeEZRbzdIYnowQnp4Z2ZSUnY4UWhmdmhvaWNZVUtYMW5kRnlBVnhVOWZWc3FEaUxERXluYWRHVGVFTEhpdFhnZzBmUDRoRW9zMWNBM1pkVXNEeURjOEpEVTFjY3pzWmVxcUljLXo2UlhEWkVEcWo4MTNLeEwzNnBKMmRDUWxNcE5rbnlXNFBRZ3N3OUlpclF0SHRJV1NrMzRxc3ZpQ3NaRUwyakFBTVRtckNuZDM?oc=5",
+      "source": "Trefis",
+      "published": "2026-11-11T11:01:57Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1e0a7ae7209d696d1d3498",
       "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
       "summary": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a new social contract anchored on",
@@ -180,6 +360,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/07a0f439eb97562ba66c202a2de731facf252107/569_0_5465_4372/master/5465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e19987e3266dd7dec2c449b0ca0a6766"
+    },
+    {
+      "id": "fe239460efd00f477b5b8c",
+      "title": "Africa Gas & LNG Summit 2026 to bring investment and local value into focus in Maputo",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0ZidHZZRUNHSEpBbHg4NzNhUzg4dlRqU09pUHFaMU5SNmhTUXZLVHdJUUFwZVVWNktFbGxnNUFRZzllQVdkVlI5bzl4bWZacE1QWndOd1AxZ0NBYXVlZmg3MWJRZmJiQ05VX245TTB5aThfVzh2TlVVMmVJdWprZmVMX3Z4emlRNzRmcnZ4TnVwcUd4TDJnR3RjTFhiekVlNkZDYkRNWnh4WHpOeG5VaEZZYjJZUzF6T2c?oc=5",
+      "source": "Club of Mozambique",
+      "published": "2026-11-11T11:00:08Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0d600e1cad57eab54140ec",
@@ -194,6 +386,30 @@
       "image": ""
     },
     {
+      "id": "28312f4040a52dca6f6781",
+      "title": "Ulta Beauty's Retail Strategy: AI, Emerging Brands, and Global Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSDB3ZnNPckt5bjRyU0UxR0Q1OWdnZU8xY0RRYUl5Q2IxbVMwbmNuWnRYYUhlMlREVWgxMFAtNVhqVC1Bakh2MURHWmtJMnBiNEswaWRhS1h6Y0EzTE1aQmFmZUFMRTlTeVBiYjh0X1ZqdDV5X0V2SG9rbU4xY1hQdjBCWFZGZlo2SmFV?oc=5",
+      "source": "BeautyMatter",
+      "published": "2026-11-11T10:44:06Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "71816d57ec189191fbfb76",
+      "title": "Oura Counsel Health Deal: A Bold $625M Bet on Smart Care",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15YTh6Szhlb042TlRzT1h0b25iUmZaNDNEeHdBSVBwV3ExRmtSdzdfV2NyVV81VllxZW54cWJHSUtGNnBoc2ExU1FZTmxmaWh5aEw5Ynp0YlJ4MjdESTRYY0ZEWFB4bWZJVXVDNkhwcw?oc=5",
+      "source": "Global Brands Magazine",
+      "published": "2026-11-11T10:41:03Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b6f6930a37256208e6f4a3",
       "title": "10 questions for China in 2027",
       "summary": "",
@@ -202,6 +418,30 @@
       "published": "2026-11-11T10:33:27Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "63d3117192b1cc40053421",
+      "title": "Betting on local talent and AI to strengthen energy resilience",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd2VBdzJ1Qm9nWGw0UklMeDRTMHV2eEl1NFlXaHowU2pseVpkMjM0VnYxczNzSEJIRlBWSU1SXzlhNHo5TEpobEx1X3ZNLWNTeEFKQ3JkWG43V1VNMk1KelctMDhaMXJ3S2YweTNXLXJTeTZJQ2hITG0tSHg0UUdzNXJxNEFEQzZmRmw1NU9tU24yQW5QalotYjVhdDZuUHhHamMxSVpR?oc=5",
+      "source": "Oil Review Middle East",
+      "published": "2026-11-11T10:31:27Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c978a89d7cf365225cfdfb",
+      "title": "Army chief warns ‘the next battlefield is our economy’ as Russia is targeting Europe’s industrial strength",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSU5PYmVlZGM0RUxGQXFtOU5CZkVmWElVSzA3NFZJWDNncG42LXpFLVFnM0Z1eS00MXczUDFWVm5nQ3c4eVRVN2JQeWFKbHdxNVV6eFZTS3czQy1NQ0tQYUk2Y3VNcHlyYWJWeHlrTy10R1dyS0xra0VrNE8tZ3hTaDVPSDRYcEltYk1CcFpmanV6bGJqX25VbThVMTR4UjFoLVhDWjE1MVBaOF9tSm5ocFVRM0lRYVgycDJOUlNkUWVaNmFwQjk2NEx3b3piMzlPQlE?oc=5",
+      "source": "London Business News",
+      "published": "2026-11-11T10:15:07Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -230,6 +470,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3717x2478+0+0/resize/3717x2478!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2Ff9%2F5b4174344a1aaca7afe8cba83ae8%2Fap26272329512134.jpg"
     },
     {
+      "id": "820f93e4c2909ff96f1409",
+      "title": "Carney takes off Wednesday for summits in Ireland, Philippines, Cambodia and China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQnhJWm41TUFfc2lXNTcxcTIwUXhBRncyd0wtUVFoVnRBQzhHQnVpOWttdEt4ZGxXR0hkSXBFeGNESXpjS3pNdjJaVlNRUjNVNE04TjRKSmtkZVM2WjhOMVM2alpicjF0dFpxV0s5WVhabjFURXV4czQ1cGdTMWhXVVp1VFhQelJEbmdKNDFzLTl2bjh2TjVEd0RXNWJ0aUFjUVV3SlNRa2c2SVpoUDVteEhsakctNXY3dDBleGhxWS1uM1h1Vktmc2hfX2pCR081YjByckE2M0pRNU5ZU1hCaU9vNk1EZmdqVnd2NEpRMFE5S0Rfd0NyTk1LUmNUbHFXeGIxZUhB?oc=5",
+      "source": "thecanadianpressnews.ca",
+      "published": "2026-11-11T10:01:26Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6f00048fc2081b2d023dc9",
       "title": "Global Equities: Reassessing US Market Leadership",
       "summary": "",
@@ -250,6 +502,18 @@
       "published": "2026-11-11T09:59:24Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6c35cd6ea02fd66cf15f31",
+      "title": "CoreWeave Boosts Annual Forecast, Easing Concerns About Slowdown",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnZDemJ1a0xMRzdaZGhpV3pnaGNQRUhiWWQ4b2RTRFlnTlNTRGV3dnZ6ZkRuZE9YWDhVU241YVJlcnRETW5IMlk2c3NsYTJzM2tCVktKWTVpRHhjdjVCRWt5bUZZQmw5TkMtU0tDdF9BMERGR0czck5EYW9HOUNSa1MzUFJXOUh5dGh2ZThIdzdMY01XcGRfOUJ0M0lTZmpiY2VGS0FmamZMVWZFR1VxTHBQVW4?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-11T09:56:27Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -420,6 +684,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fa1%2Fcf45518d4850a897eda36ba25615%2Fap26306677630425.jpg"
+    },
+    {
+      "id": "fde0302ce6d112b4c1cce6",
+      "title": "Carney embarks on a worldwide summit tour to build bridges with Europe and Asia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnRSVWFHa05WNkpNY0xpRUE3cHlGZzAwZkJBejJ3WnFQcHhyZ0dSb0gtR1VXTlVCWW5VRnhzVVN4YXk5YVRrWUVPNkZsRkx1bWN0ZkFJbzJMcHNiNGx2YmNsSFdYaU8zNk13bHFWZXJNMFdsaDRWWjFrOTNZdGxtcy1ZS0U?oc=5",
+      "source": "CBC",
+      "published": "2026-11-11T09:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "71d0a2f5750c4970fa618b",
@@ -794,18 +1070,6 @@
       "image": ""
     },
     {
-      "id": "408ba33428ae7b82f3950c",
-      "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXQtdnQ3S2wyczZMYXZHdVp2MXZsMEpGWDdjM3l3Yjk1YjRxRndZN2NPWWotOHQxS1ZYRkV2Ynlnd2VyMVZldnl2bXMtcFFYUDZCUzJXNFhTSEdEQjRmbnlFSlNBc3RZb3NxQW9KZ0MtTi1fNHI3MVlzVkdnY09vSGxvM3pWb21vNF95WUN1eXZybDdsTG1jT0o3OHlwclFjbDU5a2dUalNUUjNhMGdSSXRVQQ?oc=5",
-      "source": "WTOP News",
-      "published": "2026-11-11T06:06:46Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "0e44ef168aa21e790fcaec",
       "title": "Macron in the Middle East: Gas, Security, and a Restless Home Front",
       "summary": "",
@@ -838,6 +1102,18 @@
       "published": "2026-11-11T06:03:43Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "408ba33428ae7b82f3950c",
+      "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXQtdnQ3S2wyczZMYXZHdVp2MXZsMEpGWDdjM3l3Yjk1YjRxRndZN2NPWWotOHQxS1ZYRkV2Ynlnd2VyMVZldnl2bXMtcFFYUDZCUzJXNFhTSEdEQjRmbnlFSlNBc3RZb3NxQW9KZ0MtTi1fNHI3MVlzVkdnY09vSGxvM3pWb21vNF95WUN1eXZybDdsTG1jT0o3OHlwclFjbDU5a2dUalNUUjNhMGdSSXRVQQ?oc=5",
+      "source": "WTOP News",
+      "published": "2026-11-11T06:02:03Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -984,18 +1260,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "ddbccf94961adfce371141",
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T02:47:59Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png"
     },
     {
       "id": "d0e1cc1440dbbaefd8b632",
@@ -1176,270 +1440,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "97393ac36d14fe33c7b680",
-      "title": "Doosan Targets Europe With High-End CCL for AI Accelerators",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1J3Z1A1VVRQUkFiVmE0WnFOMzRBUlYyRUE1cTRVRXU4LTZTMkpFc3Q1bEdPUVBBMkdKUGFvLVFBUHgtTXZib2pWanFkaGgxalJEY09ObVRDdWsyd1QwMmVOZUVBenlaeGZkLXFZUVBtMFg4X3pBOS1fdWI1dy1xeDhhdFN0QVlwcHNnMFZOTmF6UTBwZjEyY0Q5X0ViYWllUVBCNg?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-11T00:50:52Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d4bfa830cfc02c7753b22c",
-      "title": "Indonesia, China to Agree on CEPA Negotiation Process at APEC Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFJJWVhpM2hLNzNVZG5vbHc4SkEwRGNuSm84bWVpQi1rckVRTTlZOWQ5azdTZWNwVzI2aU5NNnVuM2J4SURESzVpMzlqY1JzaTJVb0szcFo5NHNKYlJZcm9oNU9manMxV1ctOWJGQm4zMlo3TlY3d2U4NUY1ZFJFaDJpRzFLa2R5eUlIaHl0Vk9NVkxrcEFOb25sTG9TZ1BHWXc?oc=5",
-      "source": "Tempo.co English",
-      "published": "2026-11-11T00:46:28Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ad03d6d88297a6a8e7c6a2",
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [&#8230;]",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "source": "The Verge",
-      "published": "2026-11-11T00:34:24Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6c35cd6ea02fd66cf15f31",
-      "title": "CoreWeave Boosts Annual Forecast, Easing Concerns About Slowdown",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnZDemJ1a0xMRzdaZGhpV3pnaGNQRUhiWWQ4b2RTRFlnTlNTRGV3dnZ6ZkRuZE9YWDhVU241YVJlcnRETW5IMlk2c3NsYTJzM2tCVktKWTVpRHhjdjVCRWt5bUZZQmw5TkMtU0tDdF9BMERGR0czck5EYW9HOUNSa1MzUFJXOUh5dGh2ZThIdzdMY01XcGRfOUJ0M0lTZmpiY2VGS0FmamZMVWZFR1VxTHBQVW4?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-11T00:33:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ceb07f2186547388e11e74",
-      "title": "European heavyweights double down on Selangor as gateway to ASEAN",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUzRLWHdlUXRRZ3pHOE5DMVBYeVBBTTV1c2RJOEt6bFNqUF9XUlNrZWZ3TjFTSW96SXFWRm1aLVVLZGFCS1YwZkVyS3dITXBiVkJMcnJSY1h5NF9jbkl4MGV3dVRpZzllYzdIdG5fVUFoU00yQzg2dzB5NTZYdU1pOWR6XzVnNXFJMnZFTGY1WHFWNFlzbEZMekc1d2NKajY1djUxaW5GcEt0d2hzbEE?oc=5",
-      "source": "The Malaysian Reserve",
-      "published": "2026-11-11T00:29:48Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "16f0d1b9732438e29deb1d",
-      "title": "Trust beyond face-to-face contact: AI and the future of finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXZEdEpsNFZlU1IzR0tYZ0VvNE5VVF81ZWIyV1ExbTJSWHYteUtDd1ZrempMSXp5RXhWNG95U1NqWWVvdld3R1VJZHNhaEcxLU9PY2p6VHlHVW0yekpBZ2M5MVh2MmVMUXc2WXBFaURKN25pWHZzcU8tTVFYckhBQk0tblZ4WW9Zemtxcg?oc=5",
-      "source": "CEPR",
-      "published": "2026-11-11T00:22:05Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c683fbd76f90446d2093cb",
-      "title": "AbClon Wins European Patent for CAR-T Therapy Nespecel",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT01wZFppdnR6RUROVEJHWmlNbFdJLW5TLThWUU9PNFdzWGltdjQzN3J1bTNfWFNFaTB2YTZ1VUlKZFczMW5JM0NkaGFnSXBqZHVrdVZYbzlXVGFXaUpjV0FrWUNyYm9NUnJoQTllRHloSTZSbF84THpVS1otVHBTVnJmYlRkTE1tVTNuQV82a0pVSVhjQmxPSFU0U1dMdw?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-11T00:20:20Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "78fa4d08006b669dc413ff",
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T00:19:42Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eec/live/34923590-d870-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "b2f23fe60f3a3e036ba4c8",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-11T00:19:13Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "edffa78622022dce63811c",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T00:18:07Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "f4bb39dbbeb5dffa5c6b88",
-      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-      "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T00:17:42Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "e88bd441bce49bebe94db6",
-      "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-      "summary": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy The Bank of England is risking higher interest rates for longer after a hesitant response to rising inflation , according to leading thinktank. In a searing critique of the central bank’s tactics, the National Institute of Economic and Social Researc",
-      "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-      "source": "The Guardian",
-      "published": "2026-11-11T00:01:23Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d95248c61fe05660dc1c266c9aace74161f87b00/900_676_4076_3263/master/4076.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21c000af5cd44936a41a882000036a2c"
-    },
-    {
-      "id": "e1fb6f7a45467b7e85d070",
-      "title": "India drawing up list of export snags in South Asia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekd1NFBiNkgwazRvSFN0RDd2Y3l6cDZkT2diQ2hHTzBSQ0NIdzJWSDZka0JHNkFvLWJQbkxmS1NWWGltYlZSWUFxYk4zWk51VnIxZFU1ci1UcVZxSVBWYmJweVlRbGRSV1A0RWl0OHZOcVlMaXVybXFtZ0tqR25veURFaHBPRmJfT3lrbDAzMEhRazlPOEE0Q3RBQnktYTNucVUyVEpBZWFPSWo5NE1GaUNDZ212S3VyTE9FMkZUS3NqUmtNbTlyLUVDc1FiamVrZXVyOFNyWHLSAdIBQVVfeXFMT1ZQTXhTSlo4bnNtZ2pKQ3pGTXJXeFNSZG02MVVHcWw5ZU1SdV9YOVlwRzhqdEc5aklHMmdMVlpIZkVHZ1llYU41NWxGa3BHQ2RvaEhlZUdnU25BMVRaQVlEMFJDbUQwTzVZN0UwdDJLSm91ZjJualRGU2Fla2trVHdPcENFSmppQkV4SWpuQjBsdmt6UXdnd2xYZEFpS29YcDRENTVBS3VjbFNaVEVFT1lJR2pHdzVYNHFieTJJZEJET1NkZ21Oa2M5RktiQWpINEFn?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-11T00:00:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "37209f3f45fd0fa917c250",
-      "title": "CoreWeave Earnings, Revenue Top Views. Cash Burn Less Than Expected.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTkpFcERuY0NkcHVoLUItVmN0djVDV3VtNktTQnpYbjhNaDhoWEpBSF9hbXVWN2Y2QzdRR1BRWEUzalZiVmJES2d4VnJNMkpySWxRaWZyc2Jfa2hqSlFERUpjT3FHXzRmZGRKM0NjV0pJU1JNbEdzcHhKY0NUdXp4SlBjNA?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-11-10T23:29:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9435eb24521189adedd5f0",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-10T22:52:15Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "405b34dc0bf539edcc3a4a",
-      "title": "Canada’s Barrick Mining files for IPO of North America business in New York By Reuters",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFhNeHJXVEJmcERILTRKbDBidHcxcGlxcjB1ZnlCZGxDbjVNbXlrVU9zVk1lYXJGbzFxX3VyWENJVkt1MW11SUN0bDRWUDRDNW4xaHRSOHFick5feTlLWDYydG5LSXhiQm9fWlFWY1Zaazl2X0lhOFNzYzVzWFR3QTQ3MkM5RzhkWFZMUHBQa2ctSXU5eTNBeWcxM2drZ2Q0eGo3Vk9KYk81UGFVcHJkcHg5Z3dRSnNRUDdwZjFuYVR3T0ZTZGk0Q1FJbw?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-10T22:36:13Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "55f777907fe52362e94d8e",
-      "title": "CCL Industries Announces 2026 Third Quarter Results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnZVQjhPSUNVb2RwXzFaU0pnVzlsRWxzbmo1Q0Z3STd4dXJNbVNmV2k1dmlSaGJVZm1meVl3OUpOSVQwdVBiX21aM3AwekhsenVxYUxySWdDX2tCVFZsOU9GX3pJOUdzNjhwNmxsOEo4TlR5Ti05cHcwbkhMWHpsMERvVkREX1F4QnNjaTNuS0dmcThuemUtSHFWSkJjNkZGQUpTcDFJWDVEdkNwR2hDcw?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-10T22:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "01f1eb37e664cf642dce34",
-      "title": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-10T22:28:02Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "af401c5d0f1ca61336399e",
-      "title": "Global Business Leaders Tackle the Priorities That Will Accelerate Economic Growth at B20 Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcl9ob0pHOERwam10OXltNkpoQnJDSG5vZ1lRZ19Ec1ZqZzdLeWpLelgzRGg3TlE0ZmtCUHp0enkwcUJmandreVhGZ0xPZVlQZXo3MXdOX3RUbFA5Z0FjbkYwMlBkM0xmdUJhRS1NZ0YtZ1duRUV4NXdFbEs1LXVkWjNRbTdvX1BYRTRKYVBFNV9RcWlLVVZLOFJhRXNjeFh2ekpHNHRrWTlYekhuNDR5YlFRUFhTYVhPeWFrcDFXdVYwWFc2UGlPMFJ3UlAzYzZDSmc?oc=5",
-      "source": "U.S. Chamber of Commerce",
-      "published": "2026-11-10T22:26:05Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a46bad7f09753cb72593f7",
-      "title": "Canada's Barrick Mining files for IPO of North American business in New York",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWENsNEszX2EtS1NZYjZXcGl4LUxBWWlDOWllSjREUXUxbnJ5V3NHOTRlSDFkdGhKX0E3SzRkMGk4T1U2NFVLRFdPMHRYRFNQUGRaZHB4TVhxazJpNVhEQlFacnUyZmdNajZHOERWTERMZFc3a1ViWkFoQkVsLUppLS1DOWE5RURzNExXRHM0M1NPYUFUMTBHcU1iaG5RdHN6M1dqN2cyLVhrSVZVWnpUcjZUQ0RvUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-10T22:22:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2417e8f0cb0566475ac7cc",
-      "title": "Canada's Barrick Mining Files for IPO of North America Business in New York",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUZZVllHR0VoQkppYnlibDhsYUY1VDAyYkFuMHpBbmpGWjJEcGQ1Nnl5cUNJc2NGcWxBZVd4N1FNQmM2R0dCc1F0MWVoaHJlVlRVNnRrRmZIS3NLNHhTVW45Uk94ZC02S0JrTzdQck9Udm12WW1qbUpjM3MwMC1fVzRpelloRjFIX3FuTFp3dnhuRklpa3ozaWJ2QTd5Ynk3RU1oU2NXQl82ZW9BbGo4bnVJTHktYU9DZVNpUW5YQmdWZDBkWTF2MGVsM2dUbHc?oc=5",
-      "source": "U.S. News - Money",
-      "published": "2026-11-10T22:22:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9347f3e564c510f8caf320",
-      "title": "What the U.S. midterms mean for Ukrainians heading into their 5th winter at war",
-      "summary": "Ukrainians are heading into their fifth winter at war. Russia has stepped up its bombing campaign of Ukraine's critical infrastructure. But Ukrainians see one bright spot — the U.S. midterm elections.",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6035022/what-the-u-s-midterms-mean-for-ukrainians-heading-into-their-5th-winter-at-war",
-      "source": "NPR",
-      "published": "2026-11-10T22:18:32Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
     }
   ],
   "countries": [
