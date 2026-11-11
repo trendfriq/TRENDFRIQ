@@ -1,5 +1,89 @@
 [
   {
+    "id": "669f42def98c4eaf0ae0fd",
+    "title": "Embracing the Asia-Pacific, Connecting the World: The CIIE's Role in Global Growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW5LclozRGd3NmZfcXFiOG1OaHI0WG9lYURTUkt2djFELWhqWlptNzhYRGZaQ0s1SXRwMS1NN0ZYR25YZFZPZEo3RC1EaWMzMU9wczNUWm8xZkhCZGo4QllhMURXZ2FXZ2VydWpSRzBCSmI2WU5jUVFmNGhJMk1QS01Qa1hUY1ctaXpfcXhTTThWZ1dxOEwxc0RSR2tfS1ZqRGEzT0M0ajNSYi1q?oc=5",
+    "source": "Alwihda Info",
+    "published": "2026-11-11T22:05:49Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3ddc5cc5a5b08ed60436e8",
+    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the [&#8230;]",
+    "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+    "source": "The Verge",
+    "published": "2026-11-11T22:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3c4a130ff1dbafc38dee6b",
+    "title": "United won’t let your AI agent book your flight",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "source": "The Verge",
+    "published": "2026-11-11T21:54:21Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a196bffd8addae73c62b8c",
+    "title": "A cafe in Ukraine relocates from its besieged hometown and reopens",
+    "summary": "After Russian airstrikes destroyed a popular cafe in a frontline Ukrainian city, the cafe reopened in a safer region, an example of how Ukrainian businesses are trying to survive amid repeated bombing.",
+    "url": "https://www.npr.org/2026/11/11/nx-s1-6034533/a-cafe-in-ukraine-relocates-from-its-besieged-hometown-and-reopens",
+    "source": "NPR",
+    "published": "2026-11-11T21:24:01Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "85ef600e4412c7f76c2ec1",
+    "title": "Brazil Launches Platform to Help Businesses Identify EU Trade Opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmdRZ2QtQktrSDFfdzl6eXowT0xBZ3pxc05fcUFySXRDSmVyUTVpZzdkS1NyajE2Y0dDUzVWZGRzaDg4ZFRBdUJxVU1SYm1JRzBTeGRid01ZOHFjenctUjFCWlB5NURFY296WDBMLXVCS1ZUbktYV1pGLUt5YUFya1ZIQQ?oc=5",
+    "source": "DatamarNews",
+    "published": "2026-11-11T21:22:38Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "526991f2f99e8bd8814c33",
+    "title": "St. Louis formalizes sister-city agreement with Kigali, its first new partnership since 2017",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGJoeENDOGd2eW5uS29vS09fVTdLX0ZIck9kZEVzX2RLbnJIT3BVXzNQaHFuRXJEWV9XSGtYVTBReFNsOE1HamU0T1BtTnY1dWhvQUh6ZFJWdEhUbDc0YnVvNGt4d21USWczQXFCU3NJR0g3aUwtYjdkOVNZSFpjcG9iUGczTEdWeVNmeEF4YjVabDQ2UmFSRTlUcEp4ckdXS0tZ?oc=5",
+    "source": "The Business Journals",
+    "published": "2026-11-11T21:15:00Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e0501c5050996c26df93f3",
+    "title": "Revenue fell 17% at OptimizeRx, which reported $1.2 million in profit.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDB3bVdJTksyc1hLUy1oN2htM0JxUXdtX3E0NklySUp6UWJKY0NPMlZYRTE0WXdlNFVoZ21zY0d6WDRJV0RyWFlmZV9nOW9ZUkEtTEdjMHVnZ05pOUV3a3J6ZFNxYTRkM3A0WmVkRkIzb2drSUdGUnpJX2xZV1VMZXdJdTRxenJDSGpRcUNHNFlib3dpUmFsbENOaTF1UVFMV3ZrMnhNV3Q2ZmpxbVR1akN0LVBfZTlXTlZqeG0yUEE?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-11T21:01:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "351392b31b9f8e22359202",
     "title": "Why the data center you dread might never even be built",
     "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI",
@@ -118,6 +202,30 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/cd25034beb904557d3f8a78d430e0aa9575904a1/138_0_1375_1100/master/1375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=385d33f37faddfc898eadd7f81ee70ff"
+  },
+  {
+    "id": "b47b4a4bf82901ef86aa2d",
+    "title": "Allianz Raises 2026 Profit Outlook After Record Earnings",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEt2SVpyTEhLMDBvS0xXNUpPLW12dC1XT2l2SUVZcnRGa2g2UExvMmZtSDFjelNpdEsxR2ZlV2hvdWVjZG85aDRIaGdHa2NneFd4eDZkdnBzalRVNTlxQ3FpSzZMVUZZSUJ0ek9rR1pXb2d2dzRQZ2p2cGltS3RtRDYySGtyNXNlNDFmT04xTQ?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-11T19:00:04Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6d51832b6949642544ca10",
+    "title": "Beyond Trade Deals: Reflections on Canada’s Trade Mission to India",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXUzM3I5eFlaN0lNRkJQTUEzS2VReXRva3lLOTJ1MWZQMlJpTlFhSW4yVWVZc2hZaHFCVmFEZlA5NnRPOEV4MkQ3T3BMcHNmbmEyTHpvWnQ5Nkl6OGx3VFBMSldRa05tYXRXZVo3WUluUDE4dzducFpXemRrcEtGSGhKMm0wcHoxZWM3cmgyekNrUnZDUllpb0NjdnRzUQ?oc=5",
+    "source": "Asia Pacific Foundation of Canada",
+    "published": "2026-11-11T18:51:57Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "0fb1a1381d8bc6fa9a0805",
@@ -660,6 +768,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "10b2b5de760655106e91de",
+    "title": "BT4Europe ‘Warmly Welcomes’ European Commission Sustainable Tourism Strategy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVZFQjBXLTlHdVJ2d1NEM3cycUlLR09jem9YQnlUdFpEa0syZXpaaDNQQ1loZTMyV2VzUFVDVDZMeGhQc1FXZUhLUTRpeHJEdlZnRlNyckNpRUhTWmZJbGdFU09ubktfN2l3QXJJUzhqSEVGRnJxblVJQnNlSHlzMlQ3M0laM3VhS3FCTW5nY2l2SVNfQXI2b1RxX1pVZjFqT1FvV2NVUlBiWFVnY1JIanZRbHp6YTV2UVJaQQ?oc=5",
+    "source": "Business Travel Executive",
+    "published": "2026-11-11T13:49:49Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "0f5b15b1f5b6141f6f6e34",
     "title": "Gulf Business readies for landmark UAE–India summit",
     "summary": "",
@@ -702,6 +822,18 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0o2d3lhMnk2LV9DNUVEWDJ4R3NseG5oaHNrT0hKSmpIbTNib2xBMWp5dllCcC1xNEhWUXZ0RXgxRnBDTGk4OENSTkdtUC1YMWlEelVSeU5sQUZSQXVqcWtyTlBFeWFmLVVuTjRONHB1VmJJSkZxUTFsalpaVU90dm5DNlU5ZmltbFJFS3REbFNtRHFaQVY1OWxLZFhQdklXeEFHdC12MA?oc=5",
     "source": "وكالة الانباء العراقية (واع)",
     "published": "2026-11-11T13:42:17Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "46b126d3e719a66ea58105",
+    "title": "Economic Security and Strategic Resilience in Finland and in Europe",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaGkzM21vSERqbEsxVGQyUThCZUYzU2lRMUdZUXkxU0p6YWpZdUI2ZVVWUkR3c0xFRm5lUm1PUTZBNGdyOEpxQUlHR2N5RHpSaWlCRHM4RThMTTJBa1BJLThjTHBKbHFsQlgyME5mN1UxcXNHWUhSUVBCckJDb0Q3V0pIZ196ckNoV0FrRGdPNml4djY1SFhwa2lld2NxdG10LU5WUGZ2UnU0YXY5QS04NlVBRUJrNDBra0hPb2RaUDNOT01MbXhrc2RFR2J3NS1NakhMREM3eU1HVjZwQW9Z?oc=5",
+    "source": "Suomen Pankki",
+    "published": "2026-11-11T13:37:38Z",
     "category": "World",
     "topic": "Europe",
     "country": "",
@@ -862,6 +994,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1675/live/f68a02b0-ddcd-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+    "id": "58030e66c10ac1e806fe0d",
+    "title": "Business Leaders Highlight Investment Opportunities in Jordan–EU Conference",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMldfdzlRdWR5OFFhQkd0ZmtEWDYxQXNKX2RkbTAzX2VjWGpmQlUxRDlUWHpFWTNnbHFHWERnb0xTaEJwNmExakpYSUZmSkVMbkltVHVZUXMxZWU2d1o1ODFLRkZKd0ZraWVCck04bVlnM19KZ051UXF3elhEWFZvT1BOQjdrbWgxY1BHc0tqbnJEVnZZNE9ELVVtNUhpV0w0TnFnZzFn?oc=5",
+    "source": "وكالة الانباء الاردنية",
+    "published": "2026-11-11T12:40:22Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "ac468bbb6b4cc89d3b26ba",
@@ -2768,6 +2912,18 @@
     "published": "2026-11-10T21:38:00Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ca8fb275be2bb80a6fd322",
+    "title": "The Nvidia Scandal Is Not a Spy Thriller — It’s Corruption",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHpzSXJTc1lHVTRRb2FUVFREak5SRlJYNTdibmVndFRRdzB0Z2lEZVBlZWdZWTNBbVUybVowR3ZRQlZfTlB2Y1R6QXJDT1RwZEsyU2RvYVFydTRRaVRvMkl3ZlFqZlNCb0FEVUY2UThHR2hRaUZ4a3pFTzExTXYwcWxrMjdPMzJNLU5YYmVtR2lRb2ZYSWU5SWFaTFplZHl6UnVn?oc=5",
+    "source": "Center for International Policy",
+    "published": "2026-11-10T21:33:39Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -11660,6 +11816,18 @@
     "published": "2026-11-09T08:00:00Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "616904d6854b8d48d4cfb4",
+    "title": "What’s happening this week in economics?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+    "source": "Deloitte",
+    "published": "2026-11-09T08:00:00Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
