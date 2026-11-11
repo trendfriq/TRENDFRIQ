@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-11T02:51:36.734076Z",
+  "last_updated": "2026-11-11T03:39:33.697797Z",
   "articles": [
+    {
+      "id": "bb354b722b4500e49fb1f2",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T03:26:42Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "e46477a90f5df0d80063aa",
+      "title": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFVDNXJxU3FIanFKdF9EZ2NqNEo2WThvcHRTRFg4ZFktQjI3QWhseXdub2tMRlZqZlZRRGI2Tk13SjVGc0h0WXBDb2xwMTNsQkZhSGNHMDN6eEc3NTZKTXVpTzFTNEk3OV9aMGZiV2ZKQlJKVGV4eGhVbnNSOGIxR09vMW9EZmxyb3N2MUhtcXVBdmNsMjZyZGJ2Vmd6NUdib0V4T29EeldsMmZ2MHc?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-11T02:55:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ddbccf94961adfce371141",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T02:47:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png"
+    },
     {
       "id": "d0e1cc1440dbbaefd8b632",
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
@@ -12,6 +48,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "ed43813733be08bae74dcc",
+      "title": "CBA mortgage arrears highest in 14 years as rates bite households",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclZDbjVDSDFJODZ3Yi1Mb09uc05ObjBHZ09VY0pLMkhmZUdUVHFERTE2ZHVFR25iVlh3S1E2d1ZTcllSMkIxWGNMdW1Cckg4Nmo3X2hOTTEyc1BPMjZTbHdHVUMzOXdwV2dsT3Y4ckpiUUpPZlpZNnNEdVhVM1E1eGROM1g5WGwxeC1WU0k1XzRXRE1QNE5UR3Z6OVZUTnVJRTRET1FnMUlzX0VWRWFtYWZaaTNkUXgwVlMxTlBvcXllSWIyQUVlNg?oc=5",
+      "source": "AFR",
+      "published": "2026-11-11T02:36:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "f20eafd03580b195072f26",
@@ -62,6 +110,18 @@
       "image": ""
     },
     {
+      "id": "10b615a2dec2a0bc7a4568",
+      "title": "Baron First Principles ETF Q3 2026 Top Contributors And Detractors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0hjdkp1RjN1RWJIVWFIdWdwV1dsZ1MxQVl2eE5wNUxkVzRQVmI5ZEFDWTRzS1J3Q05uTldpOWdZTzJxZXF6WEFBX0FNVmRCd3V6eWlSTVl6Ulh1eG03YmtaVVRSa1Z5d2NQUm9sT3VoQW1UY3BhUW9rUEFESjJrNHFacjhFb2RLd0ExQkl2V0JqUTUtSTZ0ZFI2YU9LMmx6MjBOaFdyYlNOLUE?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-11T01:25:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6f436e9f0bc0b78107ecc5",
       "title": "SKLAR KIRSH BOLSTERS NEW YORK PRESENCE WITH ENTERTAINMENT AND INTELLECTUAL PROPERTY ATTORNEY RANDY FRIEDBERG",
       "summary": "",
@@ -72,18 +132,6 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "bb354b722b4500e49fb1f2",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T01:14:40Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "27f896233dc6248d0d0ea2",
@@ -170,6 +218,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "6c35cd6ea02fd66cf15f31",
+      "title": "CoreWeave Boosts Annual Forecast, Easing Concerns About Slowdown",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnZDemJ1a0xMRzdaZGhpV3pnaGNQRUhiWWQ4b2RTRFlnTlNTRGV3dnZ6ZkRuZE9YWDhVU241YVJlcnRETW5IMlk2c3NsYTJzM2tCVktKWTVpRHhjdjVCRWt5bUZZQmw5TkMtU0tDdF9BMERGR0czck5EYW9HOUNSa1MzUFJXOUh5dGh2ZThIdzdMY01XcGRfOUJ0M0lTZmpiY2VGS0FmamZMVWZFR1VxTHBQVW4?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-11T00:33:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "16f0d1b9732438e29deb1d",
       "title": "Trust beyond face-to-face contact: AI and the future of finance",
       "summary": "",
@@ -230,18 +290,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg"
     },
     {
-      "id": "e46477a90f5df0d80063aa",
-      "title": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFVDNXJxU3FIanFKdF9EZ2NqNEo2WThvcHRTRFg4ZFktQjI3QWhseXdub2tMRlZqZlZRRGI2Tk13SjVGc0h0WXBDb2xwMTNsQkZhSGNHMDN6eEc3NTZKTXVpTzFTNEk3OV9aMGZiV2ZKQlJKVGV4eGhVbnNSOGIxR09vMW9EZmxyb3N2MUhtcXVBdmNsMjZyZGJ2Vmd6NUdib0V4T29EeldsMmZ2MHc?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-11T00:06:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "763502d052f076c55adbc3",
       "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
       "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
@@ -278,6 +326,18 @@
       "image": ""
     },
     {
+      "id": "37209f3f45fd0fa917c250",
+      "title": "CoreWeave Earnings, Revenue Top Views. Cash Burn Less Than Expected.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTkpFcERuY0NkcHVoLUItVmN0djVDV3VtNktTQnpYbjhNaDhoWEpBSF9hbXVWN2Y2QzdRR1BRWEUzalZiVmJES2d4VnJNMkpySWxRaWZyc2Jfa2hqSlFERUpjT3FHXzRmZGRKM0NjV0pJU1JNbEdzcHhKY0NUdXp4SlBjNA?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-11-10T23:29:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9435eb24521189adedd5f0",
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
@@ -310,6 +370,18 @@
       "published": "2026-11-10T22:30:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "01f1eb37e664cf642dce34",
+      "title": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-10T22:28:02Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -456,18 +528,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ed43813733be08bae74dcc",
-      "title": "CBA mortgage arrears highest in 14 years as rates bite households",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclZDbjVDSDFJODZ3Yi1Mb09uc05ObjBHZ09VY0pLMkhmZUdUVHFERTE2ZHVFR25iVlh3S1E2d1ZTcllSMkIxWGNMdW1Cckg4Nmo3X2hOTTEyc1BPMjZTbHdHVUMzOXdwV2dsT3Y4ckpiUUpPZlpZNnNEdVhVM1E1eGROM1g5WGwxeC1WU0k1XzRXRE1QNE5UR3Z6OVZUTnVJRTRET1FnMUlzX0VWRWFtYWZaaTNkUXgwVlMxTlBvcXllSWIyQUVlNg?oc=5",
-      "source": "AFR",
-      "published": "2026-11-10T21:38:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     },
     {
       "id": "edd41457aad1d190b25c69",
@@ -1376,66 +1436,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0ZNaUZNWmdQQjR1NHo3U0dVY1pHZ0dwVHZCYnFWaW5NNXBxS3NndjFRRDRVZVdIa280RDZ1aGJ4R3NFRVBDM3BXNGUxTnJJYTFka0lRanBjVzBMa3YzSG9PcWpBbnJEOVB5eFd4VDBrMzJra3hHQkl2NHo3TWRyQlptOVNKUHlOX0Z1M0hIakRpZFlQOWRCVlFld2g?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-11-10T16:08:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ad975dd0d3cfcff91800d0",
-      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-      "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-10T16:07:51Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/b5143f50-dcf4-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "43502da62559e1af25e84d",
-      "title": "Digital Economy: International Forum in Algiers tomorrow, Wednesday, to Explore Partnership and Investment Opportunities in Africa",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4ZExya2pJOWJiSFlBX29NdDJ4RXhQUHJXSDNtVFUxQmhaWkVwcUs3RU1QV1JvaC1FU2N1Z0g3dHQ3dGFsdG82NFFvNGl1M0MwMkE4?oc=5",
-      "source": "الإذاعة الجزائرية |",
-      "published": "2026-11-10T16:06:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d9d692fda571fb8b5343bd",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5",
-      "source": "blog.google",
-      "published": "2026-11-10T16:05:31Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c1c466af3bbecc88caf79e",
-      "title": "VYLR Earnings: Corteva’s Seed Spin-Off Faces First Earnings Test",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmZzVXF2ZnUxX0o3cFhna1JBZFhWTk8zazhORlhPeElIclRyR3NNY0VZU1prZG1UMlNJM0VJTU5ael91OFFfZzJ2d21pUDFQMW8yMFVmNk9aYWRPYjk4eGZVakotZDlhZE9rVEQzelkzaWFNTGlGOWt4QlNHYzBfWnJoUFU3LUh2MC1RZDRsbHlfWUpzVVpXNWkzWVpJX0N2cXc?oc=5",
-      "source": "CMC Markets",
-      "published": "2026-11-10T16:03:46Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bb847982e63b6e0d04520c",
-      "title": "Nvidia Faces $470 Billion Loss as CEO Scandal Fuels Market Fears",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEFhN1ZXcFBIWWNhRFp1bDU3V0xMRWJsN0ZMWDRqVndPVURRd01PSG5FMktHbFZ1NkRsbzU4elppT0QtQ01Zd1Jlb1FHc1RhTzk3Z3BNdm1BVGlzQncwWG9MOEVUUVY1U2Z5V0hWa21FNzBKWkZNblBKZWZWQW9QcFFzczlTckUyV2VldFRId2lUMEIxdmZuWHNZdUpqamM?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-10T16:00:05Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
