@@ -1,5 +1,53 @@
 [
   {
+    "id": "c80b16c4f3bf86c6aa9f5e",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "source": "TechCrunch",
+    "published": "2026-11-11T23:28:45Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+  },
+  {
+    "id": "6b0875495d9978f4cce3b8",
+    "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+    "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+    "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-11T23:24:15Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg"
+  },
+  {
+    "id": "b908c072a557d814cedf93",
+    "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "source": "TechCrunch",
+    "published": "2026-11-11T23:17:05Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+  },
+  {
+    "id": "ffea957c41531bf29ac4c1",
+    "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+    "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday. The remai",
+    "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+    "source": "The Guardian",
+    "published": "2026-11-11T22:50:37Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/5f0e172be373c018a12f48404e6f254c91d549ca/422_0_4220_3376/master/4220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e685bf00cb9f71ae455033806fdc63dd"
+  },
+  {
     "id": "a6547f8cea67f8f6609b53",
     "title": "Nvidia is reportedly preparing to fire Jensen Huang",
     "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
@@ -20,6 +68,18 @@
     "published": "2026-11-11T22:11:12Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ae7f38a5919cf6656189e7",
+    "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wODlWU0xYRnRlMllqSzY1TGJkb1VtSzhORm1ncF9HXy1wWmFhTDFtMW9pR0VvNWhUQWVBTDRNZXEwRU1SemVjOXhtdjM2SW81d2txMGRn?oc=5",
+    "source": "朝日新聞",
+    "published": "2026-11-11T22:10:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -58,6 +118,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "03ecc900cbda6a2c7642e8",
+    "title": "Corteva Reports Third-Quarter 2026 Results; Updates FY 2026 Outlook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVprUHlQeG1wSEVabHBXYUxVdzEwX1FoOC13cmNFX0ppT1hsS2xFaXBNUzBCamZySGR0UXN6Q1JKTEVldXlXV09KYW5PVzFxS1pMeU9hLXRWYW1NYWpuNjliOHBseGM1eW5VSkNacFBnN0FZWFJ3R244OHpjSWstX3FydFIzeG51M0pXM09YVTFkWjJRWkpkTGlRNHRUbkY3TWFpRTNpYzhBby1hS0NvdUFKaFhkZmtvamc1MXJ4b0Z6WF9SRkE?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-11T21:30:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "a196bffd8addae73c62b8c",

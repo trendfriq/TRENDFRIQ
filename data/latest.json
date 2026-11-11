@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-11T22:56:15.836280Z",
+  "last_updated": "2026-11-11T23:49:45.917516Z",
   "articles": [
+    {
+      "id": "c80b16c4f3bf86c6aa9f5e",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:28:45Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+    },
+    {
+      "id": "6b0875495d9978f4cce3b8",
+      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T23:24:15Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg"
+    },
+    {
+      "id": "b908c072a557d814cedf93",
+      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:17:05Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "id": "ffea957c41531bf29ac4c1",
+      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+      "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday. The remai",
+      "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+      "source": "The Guardian",
+      "published": "2026-11-11T22:50:37Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/5f0e172be373c018a12f48404e6f254c91d549ca/422_0_4220_3376/master/4220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e685bf00cb9f71ae455033806fdc63dd"
+    },
     {
       "id": "a6547f8cea67f8f6609b53",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
@@ -22,6 +70,18 @@
       "published": "2026-11-11T22:11:12Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ae7f38a5919cf6656189e7",
+      "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wODlWU0xYRnRlMllqSzY1TGJkb1VtSzhORm1ncF9HXy1wWmFhTDFtMW9pR0VvNWhUQWVBTDRNZXEwRU1SemVjOXhtdjM2SW81d2txMGRn?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-11-11T22:10:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -64,7 +124,7 @@
     {
       "id": "3ddc5cc5a5b08ed60436e8",
       "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the [&#8230;]",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]",
       "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
       "source": "The Verge",
       "published": "2026-11-11T22:00:00Z",
@@ -108,6 +168,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg"
+    },
+    {
+      "id": "03ecc900cbda6a2c7642e8",
+      "title": "Corteva Reports Third-Quarter 2026 Results; Updates FY 2026 Outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVprUHlQeG1wSEVabHBXYUxVdzEwX1FoOC13cmNFX0ppT1hsS2xFaXBNUzBCamZySGR0UXN6Q1JKTEVldXlXV09KYW5PVzFxS1pMeU9hLXRWYW1NYWpuNjliOHBseGM1eW5VSkNacFBnN0FZWFJ3R244OHpjSWstX3FydFIzeG51M0pXM09YVTFkWjJRWkpkTGlRNHRUbkY3TWFpRTNpYzhBby1hS0NvdUFKaFhkZmtvamc1MXJ4b0Z6WF9SRkE?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-11T21:30:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "a196bffd8addae73c62b8c",
@@ -297,7 +369,7 @@
       "source": "Asia Pacific Foundation of Canada",
       "published": "2026-11-11T18:51:57Z",
       "category": "World",
-      "topic": "Asia Pacific",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -339,7 +411,7 @@
     },
     {
       "id": "b960a21f90555f507ec9e9",
-      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
       "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
       "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -380,6 +452,18 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUpBck5FbmlrcFp5MlZSWVpqSUQzVzJQcW9VN1lHS1B6ODVLSkdjbUx3QWdxUWdXVG5vNjBVaHVMN0FKYTkwN2ZOY0dMeXZtNmVBajBZdnFCTzJhVEpKNlZfSDduTUpnajI4NlMyUXlrM0NZeFZnSGpTLUpkcXB3dHVoTXBaT0pvN2RSTWlEMnNEdw?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-11T17:35:05Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a572e3418a67c9b786b53c",
+      "title": "State Street Corporation (STT) Stock Price, News, Quote & History",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNTVY1b0EzMUNRU3hLQl9YeklVSUlwYjJQeVBZQzNpUE9hT0FaNmYzTGNmMnU2YjI0eW9wbGFRa2JSNVFxM0QxN2pGSVM?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T17:30:33Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -1354,90 +1438,6 @@
       "published": "2026-11-11T11:35:10Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "104148c752c7a38623852c",
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T11:34:50Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d32/live/746c37d0-ddbe-11f1-a50f-85eebf9e50e5.jpg"
-    },
-    {
-      "id": "f2638f7d630ee77c1a693e",
-      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-11T11:33:24Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png"
-    },
-    {
-      "id": "036c17455de48ef739836c",
-      "title": "EU threatens significant fines for unfair online trade practices",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVlfZmFFY1pHOEI3TEl1V2VqRmJMRnJPaFEwQVZ5V2s1MDFvSDNNNXRWQ1RaX1M3SE41ei1Uc0FBQ0NzYjJfVEZ1ekRwQ01TakRlNm1GZk1ZWEE0S1NBbFNmTzFEUG1lSU9tZWNfMzNrU2VvNDdnY0RTZWVsaUl2a0R5SUdMeGZfQnE2RGF3Y0VDWVlOUGstSFZmeTlTZzZBaTlUOHRUeWZTMmd4M1RzYjhnanlwQ0F0TVRPYi1GZkQ0cXM2SC1PbENTdFRkUzhrRnc3WjRsT2hkcURqUHlZ0gHkAUFVX3lxTE0xTkN3cFJSWnU1UFVubzhFWm9ybUJlN0pDbUU5MV95ZmgwZEtDZEdCdmRrdDhqMmVxSEVLdWVldWJ2UExmYWNINVpFd1ZEbURpelJYbWhIa05wV2ZiWlZFXzdRMHNsYkxmWnQyWVJCd0doek1zNXRNaVZKcUxuVjZnb1EtbWE3d0FjbFFUUGhETDdxYXFnVWJQVDRyZG5FSHdwODN6MlZmRWdGc085TVZ6RzBTd1RadnJxQlFuekhRbTd5cGNHMnprY1VHZlVYQ0stbUJJbmZWcEdmdGlFNkVBYlFKdA?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-11T11:27:01Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9bc892148b773afecd4884",
-      "title": "In India, economic momentum has outpaced geopolitical gravity. There’s more to be done",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclRCTkVSdnV6bzQwcy1XRGhPVXRmZkdBWGZXRU1aVFAxMHROcDdrMHhuazdRV2ZWUHJ1OG5vUXVTS2o1SXZTdXNqSnpudldqRklrV2F1LVZ4TlBjOENBZy1DRUxCRS1xUmJjTDBOTUd1NWxuWHBGckFvcWszbnR5dTFDeTVuS0pBRWJndTdJcERFMzVSQkxzZlZaLXNNMHhxbmozY3djOUQyNmR1Y3Z6SUZtMnFmMDZncE9QRkhrYUpXbFE1Y3FR0gHOAUFVX3lxTE9WWWRuRWNQMUxKU19KNHVObkViN29HVXp5OFhEWFBlOXM4VnloWENBVzg5NlBQUVhSX3h1VThpWTVMNkNMNnZWNno4NDc0NjdEcDYzRURwWHdENEMydVZ3WUtHaE80SXBERlNBcVdFYVZrbW5vRzNJVnRjUk9ma2llOGJkaWVBSkpvRHd4aEFJVVcwSWZYTXgxczdNdkZvSU5VZE1saDQtLVR1Y0FlWnJTenlHT2R5c25kZnlyNnItNkZEeVRrMnM3NGwwdW9B?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-11-11T11:24:37Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c9baf6d0672919d48abd29",
-      "title": "MEPs call for a more strategic competitiveness fund",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdTlZVWIzX2t0MGtncUZwRks2TGpjZ2JQcFF6V243ZE03MExkb0dTYTZheEQ4aDN2ZUdyczJWM2ZoSHZLVENjMmhYUTlrQlJPNjVqbk1sbkJ0bU85aGR2Zk9Yamc3S2x6LWJPNVREZjVNQnk4Y081eE94LU4tM2tySkJxb0VJVl9QU3BRTWxQMWh5OHdCZEVKMmhBb05CRHBLVmZpWF93b09ldUsySGxBa2JXT29vVXNDNzJZc0hXTE1ZZmZPdUExV21n?oc=5",
-      "source": "Eunews",
-      "published": "2026-11-11T11:23:41Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5cb177d2c42c7decdda178",
-      "title": "Afreximbank targets $1b deals as CANEX seeks to boost Africa’s creative economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc25keTJCZE15ajlmaUp5eFU5TkFDY19reF84eDl0LU8tNHA2RGp1YkN2YV8tN1Q2bzVZb1h5MG9iTVZtSmlENllmTmlUR0xhd1pwUUJKZXpvSEJra241dHROaTg1LU1xaU1hLW5VV1l2OFJPd01jZWVBZXpwVy13eGlsbmUwV2xuVW4xSnFIdjZIdjF2RnJsT3UtM2laVDhZNXhUcU4wTDNmN0dGNTNrbEk5b295dzA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "published": "2026-11-11T11:23:40Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "765cfb9422185c98f6efd2",
-      "title": "MWC26 Doha: Qatar positions itself as a global technology hub",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDB1T3VnOVBfY0pTVEJoY1NaNEhNNmhfOUpDbTFSYU16dFlwcDZjNVVmZmRocUp2WGdLeDdyUmcteGdySFczeXRhUWdUYzJyMU4yU3FUWFZMWV94M0dwcUpWTm1sa2FsRkloVkVWSEk3bW14Zjl2OFpoMlo5VVgtOENNQ2NzQjNZaVM4ZnNNZlJ6S1RWTDd5Y0d0R0gwUUpNeVdxNVpQdl9EZw?oc=5",
-      "source": "Computer Weekly",
-      "published": "2026-11-11T11:21:42Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
