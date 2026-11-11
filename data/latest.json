@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-11T03:39:33.697797Z",
+  "last_updated": "2026-11-11T04:41:48.126542Z",
   "articles": [
+    {
+      "id": "963b1db17905c82d965950",
+      "title": "Emirates expands premium economy across Europe as winter travel demand rises",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHRrbnhnXzNWaDFHUWw5QlhlV0FMT0JPcENJWjlPeF9tQzBVV3hVbjVBX2Zkcjh0NHlWeVpmc0xYdE10SGR5Z0t3X0lQQWdvX3hpY3pOZHd4LW91dkIwVXlfbjFVVFJrRXQxdHZWU2VlanY1X2c4cENLWjlFN2g5WHYzNVA3RE9JallXcTV4Zk9HSm5OTE44SjdnM1J2b0tpS3ZEOFBXSnJqb01vYU1UYg?oc=5",
+      "source": "Cyprus Mail",
+      "published": "2026-11-11T04:30:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3216b548957dfa4fe36b12",
+      "title": "Thailand Business News — Morning Briefing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLU9rbkZTUkJ4NHB5THhDUFd0eUw4Y0dJa0VYMUtJWDlPOU13bmw5eHZCR2R0SzVlRllxVUFTV3JMMzN2cHJTU0toby1Dd3IwQV8zemFHeVJxVnhnVEJpbFVLXzAtQm95U2JtNmZoQmYwZTNhdEktWllWekRNWmNkdUZub1JtUWJFSDVncDBrRXNWdnlrakxR?oc=5",
+      "source": "Thailand Business News",
+      "published": "2026-11-11T04:01:52Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "54ac8b1293d2ae57664546",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T03:44:06Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"
+    },
     {
       "id": "bb354b722b4500e49fb1f2",
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
@@ -12,18 +48,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "e46477a90f5df0d80063aa",
-      "title": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFVDNXJxU3FIanFKdF9EZ2NqNEo2WThvcHRTRFg4ZFktQjI3QWhseXdub2tMRlZqZlZRRGI2Tk13SjVGc0h0WXBDb2xwMTNsQkZhSGNHMDN6eEc3NTZKTXVpTzFTNEk3OV9aMGZiV2ZKQlJKVGV4eGhVbnNSOGIxR09vMW9EZmxyb3N2MUhtcXVBdmNsMjZyZGJ2Vmd6NUdib0V4T29EeldsMmZ2MHc?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-11T02:55:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     },
     {
       "id": "ddbccf94961adfce371141",
@@ -290,6 +314,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg"
     },
     {
+      "id": "e46477a90f5df0d80063aa",
+      "title": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFVDNXJxU3FIanFKdF9EZ2NqNEo2WThvcHRTRFg4ZFktQjI3QWhseXdub2tMRlZqZlZRRGI2Tk13SjVGc0h0WXBDb2xwMTNsQkZhSGNHMDN6eEc3NTZKTXVpTzFTNEk3OV9aMGZiV2ZKQlJKVGV4eGhVbnNSOGIxR09vMW9EZmxyb3N2MUhtcXVBdmNsMjZyZGJ2Vmd6NUdib0V4T29EeldsMmZ2MHc?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-11T00:06:23Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "763502d052f076c55adbc3",
       "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
       "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
@@ -386,6 +422,18 @@
       "image": ""
     },
     {
+      "id": "af401c5d0f1ca61336399e",
+      "title": "Global Business Leaders Tackle the Priorities That Will Accelerate Economic Growth at B20 Summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcl9ob0pHOERwam10OXltNkpoQnJDSG5vZ1lRZ19Ec1ZqZzdLeWpLelgzRGg3TlE0ZmtCUHp0enkwcUJmandreVhGZ0xPZVlQZXo3MXdOX3RUbFA5Z0FjbkYwMlBkM0xmdUJhRS1NZ0YtZ1duRUV4NXdFbEs1LXVkWjNRbTdvX1BYRTRKYVBFNV9RcWlLVVZLOFJhRXNjeFh2ekpHNHRrWTlYekhuNDR5YlFRUFhTYVhPeWFrcDFXdVYwWFc2UGlPMFJ3UlAzYzZDSmc?oc=5",
+      "source": "U.S. Chamber of Commerce",
+      "published": "2026-11-10T22:26:05Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a46bad7f09753cb72593f7",
       "title": "Canada's Barrick Mining files for IPO of North American business in New York",
       "summary": "",
@@ -406,18 +454,6 @@
       "published": "2026-11-10T22:22:00Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "af401c5d0f1ca61336399e",
-      "title": "Global Business Leaders Tackle the Priorities That Will Accelerate Economic Growth at B20 Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcl9ob0pHOERwam10OXltNkpoQnJDSG5vZ1lRZ19Ec1ZqZzdLeWpLelgzRGg3TlE0ZmtCUHp0enkwcUJmandreVhGZ0xPZVlQZXo3MXdOX3RUbFA5Z0FjbkYwMlBkM0xmdUJhRS1NZ0YtZ1duRUV4NXdFbEs1LXVkWjNRbTdvX1BYRTRKYVBFNV9RcWlLVVZLOFJhRXNjeFh2ekpHNHRrWTlYekhuNDR5YlFRUFhTYVhPeWFrcDFXdVYwWFc2UGlPMFJ3UlAzYzZDSmc?oc=5",
-      "source": "U.S. Chamber of Commerce",
-      "published": "2026-11-10T22:18:45Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -463,7 +499,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2hzRHI4RGc5UXFhZHQzSjg0R21MMVRzSl9uVU1yU2JTdkZvYjhRS1l1UGZJWDRseFZ3LTI0SlFzaVhRaW5hZjlWMWxsYnZMNkpkWm03QjlnODdCZkNQMDBYRUtqb3NPSHlLNjFRdEhlNnZzTHlzNGVqQ2R6cElFRXQxTW9qdVVkR29vMDVhMzBzUXZRSFlsVDBBdjdua084NEhhSTI4ZURrTEVJc2R0b3R2aDQ1YURHdFlPX0ZWd0V6MWFCWHZFNlp3?oc=5",
       "source": "MLQ.ai",
-      "published": "2026-11-10T22:04:41Z",
+      "published": "2026-11-10T22:04:26Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -1404,42 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "a0a19dee53bf45e236c6b4",
-      "title": "‘Flying cars’ could launch in China next summer, maker of two-seat model says",
-      "summary": "XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areas People could start taking trips in so-called flying cars in China as soon as next summer, the manufacturer of a two-seater vehicle with autopilot model has said. Deli Zhao, the chief executive of the Chinese flying car company XPeng, said th",
-      "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
-      "source": "The Guardian",
-      "published": "2026-11-10T16:14:50Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23a0bce39a22c8002c2e02062d80136c"
-    },
-    {
-      "id": "d3a0388562c166c7c812bf",
-      "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-      "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot wa",
-      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-      "source": "The Guardian",
-      "published": "2026-11-10T16:13:13Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd58bf3429433eaaccc66c8362e24453"
-    },
-    {
-      "id": "b6eaa17f0a6b44724c834c",
-      "title": "S&P Global: The Strong Index Division Hides A Change (NYSE:SPGI)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0ZNaUZNWmdQQjR1NHo3U0dVY1pHZ0dwVHZCYnFWaW5NNXBxS3NndjFRRDRVZVdIa280RDZ1aGJ4R3NFRVBDM3BXNGUxTnJJYTFka0lRanBjVzBMa3YzSG9PcWpBbnJEOVB5eFd4VDBrMzJra3hHQkl2NHo3TWRyQlptOVNKUHlOX0Z1M0hIakRpZFlQOWRCVlFld2g?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-10T16:08:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
