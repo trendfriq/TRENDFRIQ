@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-11T22:11:37.912048Z",
+  "last_updated": "2026-11-11T22:56:15.836280Z",
   "articles": [
+    {
+      "id": "a6547f8cea67f8f6609b53",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge",
+      "published": "2026-11-11T22:44:36Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "03d7e0a205caf0b02fc651",
+      "title": "AI-Powered Stock Rally Outshines Fed Rate Hike Fears | Finance News",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2tDc2s2VlZoeGZMczBTeFk2VDB5OHpxbHdTZ1dNOG9jaTQ3MUxLU25McG1ZZU9NQzhEVzM0YTlDR3E2V3RxemtKQVpiTnJiZm9xYlZtemFVLVlCeFZKVmxUTkxBeThGVDd2UXQ5ZHdiQmI4LU5ZaGVLdzMwSi1RUndsMEh5WTQ5NGpqWW9B?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-11T22:11:12Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "763502d052f076c55adbc3",
       "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
@@ -52,7 +76,7 @@
     {
       "id": "59ca7f6d6630d5d0375cbe",
       "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1tn (£3tn) chipmaker has hired New York-based Wachtell, Lipton",
+      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1tn (£3tn) chipmaker’s board has hired New York-based Wachtell",
       "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
       "source": "The Guardian",
       "published": "2026-11-11T21:59:07Z",
@@ -130,6 +154,18 @@
       "published": "2026-11-11T21:01:00Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "68a6c4275035d5f4fbaa47",
+      "title": "US, China should stay clear-eyed on AI ties, Bessent says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-11T20:20:06Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -494,6 +530,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
     },
     {
+      "id": "5fd8419ada36e725d91c03",
+      "title": "The Asia-Pacific Economic Cooperation Economic Leaders’Meeting will take place in Shenzhen, China, on November 18-19; expect hightened security",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX2VvSDdwSGJUWHh6YUtYZmszbFN0SlJmSGNqVmExZzlnekRRYVRvV0JCZ2VzRGdQZ1dYZURKSDBuUWowR1ZyWm0yQUhERFFwakxIZGNValdoclNQOEdFdkk4Z0c1WHZvTEs1ZHZKZEQycThPbmpjaWx5T2RrajZNQjk1cVA2Sm5zMllXaE9jd1QzNE1MQnVoMXZ2bjNsOGVLdi1fcklqMWd6WlpOMFUzTUJzT1UtU29GcWlERnZEUXlJUXczdWZKbVZzWWZzUzRwTVVnS2FQcUJ4eFJ1RWJWdms5eVF1OWlFMHdMS0NZNFRGVGU3d1ZpeEJpNjdGRGsxM2ZINw?oc=5",
+      "source": "SafeAbroad",
+      "published": "2026-11-11T16:12:04Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "cf2fc89481231d9afe3919",
       "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
       "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing in H",
@@ -698,8 +746,20 @@
       "image": ""
     },
     {
+      "id": "0eed149dcf4b3ae253f10f",
+      "title": "Türkiye rolls out 2026-2030 green strategy with carbon pricing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2ZyZXZJTnJQQ0E0cFJ3RDhxNzMtSl80eE1QZUpiS21sTHR3WEJzSjlwRUVfUWFYbE5WQVJmUnhJT1ZqZUpscV91U01ObTZnVktfWkVheWdmY2JLNzN2TUZ1dlBSM2J3TmpvdU5GdW1SSGdCZU5XdnNyNE1icDZGS3dnMmNZUkx3Nm4tTWpwdndEV19WTFRnYnA0WlI0UkstaFY2eGZR?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-11T14:49:09Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f0436f3cc0219cb94eba8c",
-      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+      "title": "Jensen Huang’s Affair Puts His Wife in the Spotlight",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnZUcjVXMkhSOTVUZXkySjZOZWI3OU9FdWhjSkEzX3VaRTJGOWVBQzQwLUN3Z2NxeU01SXdFcGU0WDlzTGM1bDNUWDJkTDgyanJ5U25fVTVDbXdjVVdBbnN5ajBDblg2TXJ2WVRDTkh3NFVDeTN0TmFNZjVjSllIMjFTUVdRUmZx?oc=5",
       "source": "The New York Times",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-11T11:21:42Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a65666bb6e1249296f5ef8",
-      "title": "Munich Re stock faces final test after profit guidance hike",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTlYYWl6MjQ1b3c4VEh1QUN6aGo3MXU5RFNNckl5WXl4S2pXb2dja1V2YlREeVdRWHROemlQY1pLOVItQ3B1NW5BT2t5YS1aY1hZWnVHMnYyeHN0cWhEWFBpa2pXSlFEUFJ1MU45ckVSaHowbHpXSzZsMUZlRzU1dGk0MlExQnpfQ1hEZ1JPMkIxWk0wdlA4R2w1MFhHallHMXBTaVNmZF9aQUdROGtCb2xFbHFWNlFwblpHaVN5Zw?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-11-11T11:17:40Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2143c0f854aef253ea819c",
-      "title": "South China’s offshore wind industry powers Asia-Pacific's green future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUlXUEIwc0Z5TG5XMVJHMERRQ1JHeFZKVmxSbnZEeURlUFVPVlVfcWZGUTllLTZuN0lZSEVaTldRNTNJZUtWcTBIelQ2VEpQQWhBLUpFeEdfT3YwUTJ2WVVNWE03LWlXanNCbjZ0SlFzeUxWdkZmUkE3SE5hYmNyT1EwYkZRbWtQeDlFelpLMGpCalZ4dkNvNTg5STZkMEJUZUdRQ3I0eTJwSkYzWjZ4Tk1MOURpVU9NcXdsXzF3?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-11T11:17:23Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3b1f94ee400143396ea5fe",
-      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
-      "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T11:15:00Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/9b20f540-ddba-11f1-9582-1b529d725aaf.jpg"
-    },
-    {
-      "id": "946a228e81797471c3fb07",
-      "title": "Binance Hack Exposes Ongoing Crypto Security Weaknesses",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFZ2V1ktbVU2R0x5TVFmUHdsZnZ2S3lERzVjdmMyOFJzUTk5VlBaOW03R3Z4NFhpT29EeEpJT2FZU2JNV25XbTN6emZxZU01N2NoUG5wWDRWdXVfOWNsUGdsazduMzFqZGJZY3A0Q2Q5Wi03TVl5b0VCNFRhNWpLdFdqa2hJSnFsMG9QSHNaMU1DVWtEc2ZHdzRKeFVXUktQR0E?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T11:09:21Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "aef776a05e25270f1e709b",
-      "title": "DICM 2026 hosts signing of agreement to launch Istanbul Content Market 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEVpcTJ4cmcwRHVrTWFiQ1RVTnpicWVlc0JybUZUaDU5cXV0RUQxb0NYQkgwajZiVE1GSVNoenk2YnlDamFtUlQzX0pOZ0ZtQm5FMmxKWjJsVUNkaEZJLXRSRnNGZHg4UTNPZ1RackpsZkpaX01lcXJxT2JZRHVwN2wxZlpxMWladHNrdkRpOE0?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-11-11T11:07:30Z",
-      "category": "Brands",
-      "topic": "Brands & business",
       "country": "",
       "image": ""
     }
