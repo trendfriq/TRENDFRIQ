@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-11T01:00:42.193360Z",
+  "last_updated": "2026-11-11T02:01:46.156727Z",
   "articles": [
+    {
+      "id": "f41aa1977a78b514f15a2f",
+      "title": "Jensen Huang case: Nvidia CEO love affair scandal revives push for tougher US line on China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSUd2b0phRFNMVEwwbzF3bFB5VFFncmlDUERNZE96Uk1Rc0RHNVJvNC1CSzZ4WlY3ekNSNXo0OS10b203NHJQamJnZ2J3MlFYenE5Rkd3aENZVGZFQ05QYk1PNUx3UWFoZDRFNDFlNkN6SmlXdnBabzJ2aWNJM20zQ0diaWFkcmhlQkFlc2xXakg5d2lsMzhqU25DSnMtOFhqRGFnZmN1WEhzQVdndENvcjJtYVQxT1hGZFdTaTJ1NDZoSXJvWWxhcG5Hd283eXBmYmZ5aDc5ZWVKZU41eVNBT2pNdEpCVnM0dUIzaDVTbG9pcUNiTUNtRGVfUTFEbU9uS0ZKONIBigJBVV95cUxQejhndmFhWGpiSkRkS0JYM1MyYTdoR3I0QUdpbzdXS1VadFFwMWJLeTlGWlF3ejA0NTZqTVhJSG4yWEdGdTV1d3hBWjA1a19RMmRHZWhDYWNZdGdHbVRDYktPYTQzV0loeDB1dzN0UHlLVDdlcTdaczhoczJncm1Mek1LZ1o2d1R0SWd5Q0wwbXJnUGNfSEZhVFZFSnRxU1hkV0lzdXRaUFQzemZBSzRkZG1lejJmRHVGUUxZcmhHZDhQQ2JZZDNMaWFpNE1NbXZvVExXRDl4U18ydVBOTXZaaFJ6cEZ3dlFWLUpWM3N3X3NIMVg0cHlwVHVWMHZjUldaOFJQX0JTdVduQQ?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-11T01:50:41Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "03b27710a5fe567580b7ed",
+      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OMHVzOFcwUzBXODBoTG14M19QRmdjWU8wSjY1ckpEWXpGQi1KanR0TlpweWNZMWtkRE04Q0J3S0tYeEx3SkN3RFFmR3dHVkI2ZXo0ektmWW9sc19JS3kwNWw1cXFRVmJuMkE?oc=5",
+      "source": "Wichita Eagle",
+      "published": "2026-11-11T01:46:07Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6f436e9f0bc0b78107ecc5",
+      "title": "SKLAR KIRSH BOLSTERS NEW YORK PRESENCE WITH ENTERTAINMENT AND INTELLECTUAL PROPERTY ATTORNEY RANDY FRIEDBERG",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcm0tMlJIYXhnU2g2Z2J4VlNEeEt1TTJYVS01LXdyaU5VcG9DdER5SGhWN1piYTFPSlBBNnNwNXpWQVlMeklWVkJLbDA4bEktZHV2bUtYRjlyNnZHdklCWVZOVm5mOS05Y3JpRzE0OWJ4QzNFMWJ1VWNtaW5qXy1kTUpQcVRrbkNRWnd1YV9XVU40NnVUakQzS29uN3MyR29Idk51eVZtVnZIa0I1OUxWWEVkYkRVNVN6WG5qaDhBOVJ2dEpMX2doMThQUTNTVkdXalFRWnZ6TVk0Y0drbTF6MGZDdEFNWGFad1BTbXRCTlljNkNpbnk2U1hkbVB0Q1U?oc=5",
+      "source": "The Des Moines Register",
+      "published": "2026-11-11T01:24:33Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bb354b722b4500e49fb1f2",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T01:14:40Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "27f896233dc6248d0d0ea2",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T01:02:13Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675"
+    },
+    {
+      "id": "3acb16766f7a2aecca8056",
+      "title": "AkzoNobel to further tap nation's industrial upgrade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXMyWlBsNUR0TVBXR0YxMTA5bkFGdUVQNDJNcmdWOVhQbDI3OEVpT2VqWHdfU0d0OVBiYjRrWVE1RkpuVzlsMlNKa3NXbXlDbTdySDVhVmZxSmxOc3pKXzRLZHdQdG5LWDN4Z2NkLVAxYmdnWkhLcTFhYjVTYS1FZ2NB?oc=5",
+      "source": "China Daily Global Edition",
+      "published": "2026-11-11T01:01:24Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bf0354919e892807020aa3",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T01:01:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+    },
     {
       "id": "87b7dfafef60e27a4fdf4e",
       "title": "CIIE reaffirms role as key trade event",
@@ -14,16 +98,28 @@
       "image": ""
     },
     {
-      "id": "bb354b722b4500e49fb1f2",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T00:38:33Z",
+      "id": "97393ac36d14fe33c7b680",
+      "title": "Doosan Targets Europe With High-End CCL for AI Accelerators",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1J3Z1A1VVRQUkFiVmE0WnFOMzRBUlYyRUE1cTRVRXU4LTZTMkpFc3Q1bEdPUVBBMkdKUGFvLVFBUHgtTXZib2pWanFkaGgxalJEY09ObVRDdWsyd1QwMmVOZUVBenlaeGZkLXFZUVBtMFg4X3pBOS1fdWI1dy1xeDhhdFN0QVlwcHNnMFZOTmF6UTBwZjEyY0Q5X0ViYWllUVBCNg?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-11T00:50:52Z",
       "category": "World",
-      "topic": "BBC News",
+      "topic": "Europe",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+      "image": ""
+    },
+    {
+      "id": "d4bfa830cfc02c7753b22c",
+      "title": "Indonesia, China to Agree on CEPA Negotiation Process at APEC Summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFJJWVhpM2hLNzNVZG5vbHc4SkEwRGNuSm84bWVpQi1rckVRTTlZOWQ5azdTZWNwVzI2aU5NNnVuM2J4SURESzVpMzlqY1JzaTJVb0szcFo5NHNKYlJZcm9oNU9manMxV1ctOWJGQm4zMlo3TlY3d2U4NUY1ZFJFaDJpRzFLa2R5eUlIaHl0Vk9NVkxrcEFOb25sTG9TZ1BHWXc?oc=5",
+      "source": "Tempo.co English",
+      "published": "2026-11-11T00:46:28Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ad03d6d88297a6a8e7c6a2",
@@ -158,18 +254,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "a46bad7f09753cb72593f7",
-      "title": "Canada's Barrick Mining files for IPO of North America business in New York",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWENsNEszX2EtS1NZYjZXcGl4LUxBWWlDOWllSjREUXUxbnJ5V3NHOTRlSDFkdGhKX0E3SzRkMGk4T1U2NFVLRFdPMHRYRFNQUGRaZHB4TVhxazJpNVhEQlFacnUyZmdNajZHOERWTERMZFc3a1ViWkFoQkVsLUppLS1DOWE5RURzNExXRHM0M1NPYUFUMTBHcU1iaG5RdHN6M1dqN2cyLVhrSVZVWnpUcjZUQ0RvUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-10T22:37:05Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "405b34dc0bf539edcc3a4a",
       "title": "Canada’s Barrick Mining files for IPO of North America business in New York By Reuters",
       "summary": "",
@@ -194,6 +278,18 @@
       "image": ""
     },
     {
+      "id": "a46bad7f09753cb72593f7",
+      "title": "Canada's Barrick Mining files for IPO of North American business in New York",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWENsNEszX2EtS1NZYjZXcGl4LUxBWWlDOWllSjREUXUxbnJ5V3NHOTRlSDFkdGhKX0E3SzRkMGk4T1U2NFVLRFdPMHRYRFNQUGRaZHB4TVhxazJpNVhEQlFacnUyZmdNajZHOERWTERMZFc3a1ViWkFoQkVsLUppLS1DOWE5RURzNExXRHM0M1NPYUFUMTBHcU1iaG5RdHN6M1dqN2cyLVhrSVZVWnpUcjZUQ0RvUQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-10T22:22:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2417e8f0cb0566475ac7cc",
       "title": "Canada's Barrick Mining Files for IPO of North America Business in New York",
       "summary": "",
@@ -202,6 +298,18 @@
       "published": "2026-11-10T22:22:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "af401c5d0f1ca61336399e",
+      "title": "Global Business Leaders Tackle the Priorities That Will Accelerate Economic Growth at B20 Summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcl9ob0pHOERwam10OXltNkpoQnJDSG5vZ1lRZ19Ec1ZqZzdLeWpLelgzRGg3TlE0ZmtCUHp0enkwcUJmandreVhGZ0xPZVlQZXo3MXdOX3RUbFA5Z0FjbkYwMlBkM0xmdUJhRS1NZ0YtZ1duRUV4NXdFbEs1LXVkWjNRbTdvX1BYRTRKYVBFNV9RcWlLVVZLOFJhRXNjeFh2ekpHNHRrWTlYekhuNDR5YlFRUFhTYVhPeWFrcDFXdVYwWFc2UGlPMFJ3UlAzYzZDSmc?oc=5",
+      "source": "U.S. Chamber of Commerce",
+      "published": "2026-11-10T22:18:45Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -327,7 +435,7 @@
     },
     {
       "id": "ed43813733be08bae74dcc",
-      "title": "CBA first-quarter profit up 8pc on solid business lending growth",
+      "title": "CBA mortgage arrears highest in six years as rates bite households",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclZDbjVDSDFJODZ3Yi1Mb09uc05ObjBHZ09VY0pLMkhmZUdUVHFERTE2ZHVFR25iVlh3S1E2d1ZTcllSMkIxWGNMdW1Cckg4Nmo3X2hOTTEyc1BPMjZTbHdHVUMzOXdwV2dsT3Y4ckpiUUpPZlpZNnNEdVhVM1E1eGROM1g5WGwxeC1WU0k1XzRXRE1QNE5UR3Z6OVZUTnVJRTRET1FnMUlzX0VWRWFtYWZaaTNkUXgwVlMxTlBvcXllSWIyQUVlNg?oc=5",
       "source": "AFR",
@@ -518,6 +626,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
     },
     {
+      "id": "aebc2df4963848540cf99f",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-10T20:20:04Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
+    },
+    {
       "id": "fc8637108efa1d81823403",
       "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
       "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
@@ -554,14 +674,26 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "6c69a62b51baa0165e3a82",
+      "title": "1 Million Cups Brew Startup Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNby1qejdDc21na2hHcXdLRGhNZy1SZ3VaLWxqbjhPZ2FoSWhBYmhHbXotRWNhWDVXLTBCNERsRFpuUzJPWHpPZm9FY2VmM3RJakcxWjNJbUF6VFBXSWZjRzBRdWxNaHFnQWV3TFZ3ZDJPdm1QbERsekN3bHl0bF9qSU5yMGN6QzFwX1lBOFc2Y000UFI1dzRz?oc=5",
+      "source": "WilmingtonBiz",
+      "published": "2026-11-10T19:38:58Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1ddd5672fdcb38640b92d9",
       "title": "Economic and monetary policy outlook",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
       "source": "Federal Reserve Bank of Dallas",
       "published": "2026-11-10T19:37:51Z",
-      "category": "Economy",
-      "topic": "Global economy",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -600,6 +732,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799"
+    },
+    {
+      "id": "7e4a432cac2fb7391a7bde",
+      "title": "China’s October Crude Oil Imports Rise to Highest Level Since March Amid Middle East War",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGVfOVR3REZZRzR2RVpPTVlFb1UzdE9peFdyNENFZldfY0dneFpwWUlHUEJzaHRuTWdMb2JGTlJveldUY1BQTjQ1S0Y1bU56aUZqd2VkRDdMTE5WZEs0OU1lQV9iLTdLb3Q4Tmhfa05HWEtQZ0lidm50bUZwVlFUcGlyVEphZVJYNm8zWWZ3VzJ1ejlkYmFieUVKREtWeWozSXdCVGsxc2o4d1ZPQWJ6Mnl2MWVUdDFZM1lnR19aVmRNRzItbW1GTUNSQQ?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
+      "published": "2026-11-10T19:20:02Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "4aece83a558e150f3b5def",
@@ -780,6 +924,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg"
+    },
+    {
+      "id": "751bdaefdcc80bf33c516e",
+      "title": "Summary of Governing Council deliberations: Fixed announcement date of October 28, 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYl9sT1NJNHFxb19KMl85RkZEeWFSeGE3WW1pVEJUQTY4Ym04RlZsQTQxeS1Rd0V4QUJyVjVuZHZNYzZDRHVRUE4zMUxvdGpTX1JRN1FzRnpISWZCdEtva1lObjdQX0M4SE9NXzNmNERWS3dxd3dIUlp4djg0dlRQaURMYmN4dU1zR2JiVzZyOXVMVFByZWstT3UzMlZYR0pyZzdnb2dKYkVFU3FRVGVKU0lzSmk2SEFkMGk1OGYzVQ?oc=5",
+      "source": "Bank of Canada",
+      "published": "2026-11-10T18:31:54Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7d19458058bd3ded55dc7b",
@@ -1118,18 +1274,6 @@
       "image": ""
     },
     {
-      "id": "af401c5d0f1ca61336399e",
-      "title": "Global Business Leaders Tackle the Priorities That Will Accelerate Economic Growth at B20 Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcl9ob0pHOERwam10OXltNkpoQnJDSG5vZ1lRZ19Ec1ZqZzdLeWpLelgzRGg3TlE0ZmtCUHp0enkwcUJmandreVhGZ0xPZVlQZXo3MXdOX3RUbFA5Z0FjbkYwMlBkM0xmdUJhRS1NZ0YtZ1duRUV4NXdFbEs1LXVkWjNRbTdvX1BYRTRKYVBFNV9RcWlLVVZLOFJhRXNjeFh2ekpHNHRrWTlYekhuNDR5YlFRUFhTYVhPeWFrcDFXdVYwWFc2UGlPMFJ3UlAzYzZDSmc?oc=5",
-      "source": "U.S. Chamber of Commerce",
-      "published": "2026-11-10T16:27:36Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "7617903ae0d3e779c60299",
       "title": "Trump Media Made a $410 Million Profit Last Quarter on Just $3 Million of Revenue",
       "summary": "",
@@ -1296,150 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "8658a0744e2cda3c83edc7",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "01fab95f46e3fd839de7e2",
-      "title": "Fingerprint Launches Fraud Score, Reporting Nearly 50% More Fraud Detected in Customer Test",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRy1mYlk4WHNiMzRiQnFneEFld0sxeGgzZVoxNlFLU1c5cnExTHlPaGlZRTJSS3R0dE1BMklTSmc4VUFSX2t0NFJucHoxS19NWllJTWh2ZHJvb1c3VHhxQmRuVXFHV242am5ZcFF2OVliRVJqT01WZQ?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "475a5c33b3b27a86f436b3",
-      "title": "Claritas brings live optimization to acquisition email",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXBHQmFhQlc2R0xyc0ZMdnFtN0d0V2EwaElFUmZZdzhUZmZwS0lwNmY3Um9Id3dQUHM2OWVnMnNsVzFqQjYzcWlGZDhCX2hfb2xaYk51dk1VUEdKV3FISkdQZnk4eDdVZGhMWTFuMFl3ZGFfVVdVLUtZa2VDVW9odQ?oc=5",
-      "source": "MarTech",
-      "published": "2026-11-10T15:59:28Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a5fa076216882d979e7837",
-      "title": "Belize reveals its cultural soul through experiences that combine Mayan heritage, Garifuna tradition, and Caribbean authenticity / Travel2latam",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSTNwbGNUdEhmTHE4UTUxaGZJaDdUaGcxOXhpT3d2Rm92YjJzM0VVdjlIUDlSX1hoVTVYRFdKVll4Q2QyOEk2ZXJyVUtyNzZZRHFWc3pNUVdGVXRpZFdLWHp5LVRadmNOVGJmc2VBTXVnXzZENjExZGM4RUkwYnU0TmFldlNySGVnUzd0czVUdzFGbGhPQ2VzSk5YTEU3RFJmWVRub2hSYnZTU3MxelFjak4xc2pjLTA2ajBaZE8xNmhJd1ZfQ1JGdlBWdVY0WnpQNTJiQUNuMEJUYnRwaUcwWVl2UXdXR0JIM1U2ZEJEZW50Ujk5clBhODRjRXYtX1Na?oc=5",
-      "source": "Travel2Latam",
-      "published": "2026-11-10T15:58:26Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a709180517ec1a6a26b49f",
-      "title": "Ex-World Bank Economist Is Running For Polish Rate-Setting Panel",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWE5mUkkteUNUa2Y5ZFNHeFV1d3ZxODdTS2RFcmhQV1F2VjB6NmszNzlyTWhGSDJWZktaaUMzbDREVXRwN1VhRF9qRURiMTZUWkNUdmRFRVZ0WVlVemZHdlUwc2xKZDlHOFlyenJkR21mci1ZczVNTUN2MHM2N3lhWG95YjE2ZFhVNEZZTXA3cmo1Z0tfV0tEaGZkNXY4MEE1STdtVUE2UlpTblVVRmxpNlEweFliUQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-10T15:55:55Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b4127364e7e2a6380b1ecc",
-      "title": "US inflation figures increase chance of an interest rate rise",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXM1cDRmT2dkaTZkZEY1Z0pwQ0QtQy16aVFEdjRPSFJaM3dyUHdGcHhCZnN2Z2xrYnVMNkNkNy1tNWQ0b19ZRlJBUGVYdG9QT09pU0FqQVRnZ18xU1ZwQTRUVDRqMG4zVWlUemZwUU5oYlJLWHNBd1B6Z213RTM0V3l3dWtOOTRuWmRkZ3B3VHVfOUJOS2d5dQ?oc=5",
-      "source": "The Times",
-      "published": "2026-11-10T15:55:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4ea7969a421c523902f6b1",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:54:08Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
-    },
-    {
-      "id": "5b54c73351d7bf3789d748",
-      "title": "Stellar Startup Security Technology Vendors To Know In 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFRQRnN1NW42OENPRkY0eEFfbTh6N1hnSkt1RkZGWjB4YWtTSkdvblMzdkJtUm5jVnU0OVduMkY1bmdRYXItSFYtSHFKVjNRdVRkNHhOQjVfenAxa0ZIZDJUaTB5SUxfMmMtWFdFdFJUVmc5Y1lxQm1QUTctYmZ6blNjQ2tHbFUtOUVzSDlRdF9ZQWJaS3JuSDNwZS1xaE0?oc=5",
-      "source": "CRN",
-      "published": "2026-11-10T15:51:50Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "34acddedba1324c5039298",
-      "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
-      "summary": "If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to $99.99 — still not cheap, but cheaper, and notably just [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-10T15:47:18Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embermug3.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a3eeb77a80fa3a886344e2",
-      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-      "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
-      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:45:27Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675"
-    },
-    {
-      "id": "0280cae25a2e97a30109f1",
-      "title": "Zacua Ventures Builds on Construction Roots With $135 Million Fund II, Closed 35% Oversubscribed",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaDB1SWhyMUUzRExNQXRCa0Z0OS1GMnFZVW9IektIQ0dha2N5MkhhN2xxYmxuN0lzMUllZ2lXMU55QkRZcFBSTGVkMGFvM0owam1vYTJ1aDN2WFYzcS1YTEVJdkZTaEUwNmRPTlNGd2NQLUwxdDZFSUFyak44TzBXbWRuV3lfQklTd05ta3cyMkIzQXVDZGhUUndycnBXclk2MmUzOW05QU5OREJ3bUljUzNzd2F4bzU4SEdJbkZPdWhWTGhzSDlmSE51UmkzYVlMNThZWTZLRi1SUHoyTWY0TGc2VWZMTDAxOWk0?oc=5",
-      "source": "Morningstar",
-      "published": "2026-11-10T15:43:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8094eaeb76d528d6e0e08f",
-      "title": "Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iYTVMOEk5LXBaWGVBc2JnWFlkYmI4a3pLckhYQ2RLbkU5QkpJSE0yb3NHcUlBQjB5U09xT0M0WV9pYWFUUGVBNkpmX0RLQmJiMjFfem5Zd1F3TUJkUXNLNlVLOUpsTzF0bFpCWnRlRVlKNExmVzJZ?oc=5",
-      "source": "Bellingham Herald",
-      "published": "2026-11-10T15:42:09Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
