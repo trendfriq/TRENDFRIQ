@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-12T04:42:54.405603Z",
+  "last_updated": "2026-11-12T05:45:12.179215Z",
   "articles": [
+    {
+      "id": "dbdde08f743c899ba1101f",
+      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZXZmTkRJenMtUnpoYktXekRMaFNRUHc1LVM0eFBrQ2hpemQzQmgwX1BHcWVPTmdfNnhlUldDbjBfMGVVSnNGeXVEOGlVckxqcHMtcUY2c1NvcS1RVTM0YUdjLUlTZzBkT1FBX25JU3c3cnpVQmwzdHAwbFVDRWZPNlBqbXlXeFo3WjN5VEZiaGRHZWpfMzBIR19SUkpXeFFiQl9NRDZyRkRWSFpYb3N5QVp2ZjlfQzR4SkhYczdNbW9HUWRvZFNJRHhLMTZ6ZDJVR2dWcGJlM3ZVczg?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-12T05:41:57Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d591981f32d42e1768840f",
+      "title": "New York building collapse kills at least two, officials say",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T05:12:56Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
+    },
+    {
+      "id": "7c670ec87508ee71ac2865",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T05:06:27Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+    },
+    {
+      "id": "e5da371fa4782201ec26d6",
+      "title": "The Gulf is betting billions on becoming the world’s AI engine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-12T05:03:47Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3ebb060e60595622fa740a",
+      "title": "The Gulf in 2030: Space, AI, healthcare and finance leaders to discuss what comes next at The Briefing on November 25",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT2k0cy1sZ3ZrWEltaDY4ZmhXbjBZaDZKdHdmZEE0bFZPc2VYZ2VsdEtQWVBPQVN2Yk5GejNlZi1TV3luUVRGamlpOXBCd2FrY2M2ajJ6dS1mek1pajZfN3RhVzNJNXNCNUR4VXQ1RGU3cVlXU0gyVXgweGdlLU9haUhuR2NHYjBqODhkVWJXYWNpQm9YZnA2UnJTMkhQeE1OVE9QYjBVNVRBSU03ZGpZU1M4bTBJZHNqdmxNaW9rWkVCNkp6bnEzTjdjXzVzeG9EZThIX0w4QnRFZmZkR2ItTm1DTVdiemJEcmVMWVd0bm8?oc=5",
+      "source": "Arabian Business",
+      "published": "2026-11-12T05:00:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "86db67fadf4ad048dec58f",
+      "title": "Bayer urges early health checks as Asia Pacific ages rapidly",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByTWJzR2hvMGdKUnJFOEUtRkpINWlveXBzT051SmphVDk3UFZRSndreEoxUjBWTkdFSW1oMm42alN2dHplTDVmd2I3SEV5SHBsN1Y2SDVaMW9IRkUzTlhMem9vNGhIUQ?oc=5",
+      "source": "Nation Thailand",
+      "published": "2026-11-12T04:38:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "e869dd4c2eff543382104b",
       "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
@@ -38,6 +110,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
     },
     {
+      "id": "7228c455d9068b1163c83f",
+      "title": "Taiwan’s Apec participation on equal basis, says president",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOGN5SmJGVXBLanRNSXh0dXdTQmNWOHdWWGk4MWhjUkJaTG80Y0IwSzFjajM3aFpXSkxXNU80TDdOM3NVRjVwcUprZEJsTU4yRWp1a1hGVk10Q1dqRFkzTHV0MlRLa1g4ZzB5UkltczZLcEozTTNZanJBbmM2Q3R6RDBZa1hiMDEwN01HQWUweURVV2xtMVFoeThLZDRiRURkdGI0NTdvdWJsTE1xTHpfbFVfdXBzMFZwX0RndG1LZFc2eFh3a0JsRmNRTGZKR0hfLVRrcA?oc=5",
+      "source": "Free Malaysia Today",
+      "published": "2026-11-12T04:02:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "268be56ad26d5fc3cb8b5b",
       "title": "Global powers head to Asia with trade, AI, security in focus",
       "summary": "",
@@ -60,18 +144,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
-    },
-    {
-      "id": "7c670ec87508ee71ac2865",
-      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
-      "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T03:32:54Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     },
     {
       "id": "a552875406bb3160c61364",
@@ -104,6 +176,18 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc3pybXU1cEQwUDZObWtqb3JaX2xKSEI0S0Yxc25GRklGSjhQdDhtM1ZRSnVBNHdOZXFCUFJ4QllGY2t5NDdGZDl5MUJ3NmlzMURLWk0zQWMxdElPdnIyZEV5TndyeE96dkZTbGVudWF2aFUtR2lxNVdFajFXRjZKVHpCeDdkWDhyWFJHOHNJS0JQZ0Jjdnh3ZGRRb1I0OFVNNmZ5RXRNT2FCcjVlR2JUaHJWTGJZQzJsNnk5MGdyTHA2MW5BNWR4Z3dJNGR4ZmlrZ296ckFYeGZBNDhCMU9XbFR6VHVWZ3E1Qnc?oc=5",
       "source": "巴士的報",
       "published": "2026-11-12T02:47:07Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9e1692b594a35d9e498e40",
+      "title": "APA NTA 11-11-2026 $3.70663",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGEyRXJwVDBqYTlmT08wMTRZZDZIMzgxaldXRXhGcFMzWHpibk5LNTNDb05nenZSUU5qanBubEp1aWpjRF9RZ1ZsdTYyRzlQdWY1MHB3WDJOdG4xaGdTZ1hsRXJJY1RuZV9BWjBLWW5GLXlSU0FKekNka2FkQmVxNDNMbWdxUEdt?oc=5",
+      "source": "BusinessDesk",
+      "published": "2026-11-12T02:40:48Z",
       "category": "World",
       "topic": "Asia Pacific",
       "country": "",
@@ -264,6 +348,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "64cb458074bc19a852a2ea",
+      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+      "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Although the technology can help fight crime, the report found it is be",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "source": "The Guardian",
+      "published": "2026-11-12T00:01:03Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9800d51d82b7778b758c85ff6322cdc0"
     },
     {
       "id": "2c1c14009b34ac8bb9e2d4",
@@ -806,6 +902,18 @@
       "image": ""
     },
     {
+      "id": "cf901612544768df9c0824",
+      "title": "Monitoring Turkey: Central bank course unchanged",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUxWZ1Fab240QWJoZjB6RGRjcmJVZFlURThTVXZIcFhMUVZfbHczUEVDWl93akg5MUQ4dG9lVEM5cnIyQ0ZmREFDVjRQQy0ycllrNGhCUjU3cDNybjd6WktiM2xqM2ZNYlBSVUVZSVR1VDYydzlyeGhZdk1WbWkwSUg1MGFvZw?oc=5",
+      "source": "ing think",
+      "published": "2026-11-11T17:39:32Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0d054b9f4d4ae5c2753c03",
       "title": "Technoprobe Revenue Rises But Trims 2026 Outlook, AI Boosts Growth",
       "summary": "",
@@ -1330,114 +1438,6 @@
       "published": "2026-11-11T14:04:29Z",
       "category": "Brands",
       "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ee3e2230d4a86a240e9152",
-      "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
-      "summary": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent Tomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead. Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
-      "source": "The Guardian",
-      "published": "2026-11-11T14:00:52Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6f25de25053fd56e3197670b730755eb201a7b05/136_0_623_498/master/623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74c878806b29f8d7333316e5535e0ca2"
-    },
-    {
-      "id": "f4f24dfefcd0e269ceace6",
-      "title": "Europe’s DefenceTech sector has a dual-use problem",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNem5rcVVZZEtCWndNbGR3REVsS3lNcWlWVE1QQlFqUWxXd1lTcDMyZTBneUJva0R2M1cyU2Fta0Y3eThnQkpkbWtXOWpoR1ZfQ0ZzRFMwZE50a0ZEaXdJM0pZNG1rbG1pZHptbDMtMXAzTG90dEZ1dGtDUlQxRTNnSzRFMnlodk53R25tVg?oc=5",
-      "source": "EU-Startups",
-      "published": "2026-11-11T14:00:39Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "274edf310d65fc26118a3c",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800"
-    },
-    {
-      "id": "2b73307335ce5d8ba58a72",
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use [&#823",
-      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-11T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "1251f00274bede43be17fe",
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. [&#8230;]",
-      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "source": "The Verge",
-      "published": "2026-11-11T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "10b2b5de760655106e91de",
-      "title": "BT4Europe ‘Warmly Welcomes’ European Commission Sustainable Tourism Strategy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVZFQjBXLTlHdVJ2d1NEM3cycUlLR09jem9YQnlUdFpEa0syZXpaaDNQQ1loZTMyV2VzUFVDVDZMeGhQc1FXZUhLUTRpeHJEdlZnRlNyckNpRUhTWmZJbGdFU09ubktfN2l3QXJJUzhqSEVGRnJxblVJQnNlSHlzMlQ3M0laM3VhS3FCTW5nY2l2SVNfQXI2b1RxX1pVZjFqT1FvV2NVUlBiWFVnY1JIanZRbHp6YTV2UVJaQQ?oc=5",
-      "source": "Business Travel Executive",
-      "published": "2026-11-11T13:49:49Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0f5b15b1f5b6141f6f6e34",
-      "title": "Gulf Business readies for landmark UAE–India summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSm16bEptWDZNOXpvS256b0hRblJyeEJ0LThYWFNjRnpzV1RMQnVFbnhrVnFoYV93d1VTcENTWFFvc2NPMjhNUTZReTBKMmItYkF3VmQ1TmZBRzh4Vndfcjc0Znc2ak5fR2NzcWs3eW00aFVqUjlsMzdqWVVCT2pnc3JYSFpUUnYzNDFUS1Zua0l2V0U?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-11T13:47:23Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "719fe6dab65091bb9a8ee4",
-      "title": "Gulf Business readies for landmark UAE–India summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajV0M3hXUmZXZ21INFpaWmpoZmJpbUtvQ0RsTjhLT05PZ2NkOXF3RHdnZTdrallWVVhRbVNIU3Z4bVZzQ0RHMm9QTk9RUHNxTG5QaGV2VlotZGNRUVkwVHhUVXdOaFRmTl94a2pZR2t1S2xvQmszWm1jajFkd1dYNGc3dWFLNVVzU2RUaHF6Uk11QQ?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-11T13:47:23Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3c0334899e464ddf3eac13",
-      "title": "The WTTC was present at the first edition of ITB Americas in Guadalajara",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1JyN3Y3VEhCSUlXOFJTNVgtc181UkZRYjMzT1pRREpmaVdXRDBHMlZDSzg4VXZSaTFPS2xMY3UtQlgyZnJoUC1lZkdud2VickpmbHV6NjNPaTF1VmV6QnZjTXFsU0NHZVFray1jX19WZDVxckJ3V0JDc1AzYlg3aFoya0FNX2oxTnZiZFZ6MGZySWUyVHc4bFY0MldlY2dweEgzS3FtOWNpYnhtWlltMXBuRTNKb3lQ?oc=5",
-      "source": "Travel2Latam",
-      "published": "2026-11-11T13:43:36Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
