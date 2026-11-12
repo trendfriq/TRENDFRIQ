@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-12T03:39:04.050890Z",
+  "last_updated": "2026-11-12T04:42:54.405603Z",
   "articles": [
+    {
+      "id": "e869dd4c2eff543382104b",
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-12T04:18:33Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "c3db9611e803f8a3b7beae",
+      "title": "GCash posts $261-million net income in first 9 months of 2026, up 17.4%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXlLQks3RjVka282UDhER20waXE3M1Q2cVlFUC0zb2lQNkJObTFaR2NIanJfOUt4X1BtRGNOaldPNU1hM3VlMmkzeGdpZm5zNnlTUG5IZ2NYQndYQ21FWmpnckNFU2ppQnMtblhUcVVTd3draWJGaVRTWkRmTXpKQ1NiREJ1RTZPLXNrWW5xVERoZERCNDZVRzB4LU83T2pyMzB2UC1qbjQxUm9uMDZQMzJSSlE0RVVRb01fQdIBzwFBVV95cUxOTDN6ZDR1bXdPN1pfcjh6OGVUc3hqUk95ay1qQUxSeFRJb3ZTRjNwUGlyTFZWOExHcDIxcGdaZmdfMlFfdE56dmVjSTJKMUNSaXJFbWJ3V3A1a2p0NGY5eXdWQjB4X1BGa01PMTE0d0Rua3lPeTJUM2lyNUJuMnY1V3k1ZGdiZXFLcTdVV285Y2lkcURvcVg5Zy1IVDFQUjE4S2hBZXBBekg2TGtXRnkxeGwtSlYtbFN5RllsQUFhaHZ6a3BNWlFwNFdOTDZwdG8?oc=5",
+      "source": "Gulf News",
+      "published": "2026-11-12T04:03:47Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ccc2ffd18d2431da94cbcf",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T04:03:13Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
+    },
+    {
+      "id": "268be56ad26d5fc3cb8b5b",
+      "title": "Global powers head to Asia with trade, AI, security in focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45VlRVNlp1QUxnVjNtRXY3X3I4YkpjdE83cUdlbEg0akVJdllycWdIOUQxcFNsQ0dUaUtSZDBPVkxibUpaSlFxRWNNc3pJRUZnUl9DUEJza3pwZk9wTmRHQ25fVTJEZjBOblE3bTZ3bFBKUjk4ZHVYZ0dn?oc=5",
+      "source": "AFP.com",
+      "published": "2026-11-12T04:01:13Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6b0875495d9978f4cce3b8",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T04:00:30Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
+    },
+    {
+      "id": "7c670ec87508ee71ac2865",
+      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T03:32:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+    },
     {
       "id": "a552875406bb3160c61364",
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -63,8 +135,8 @@
     },
     {
       "id": "ba0f48ae267121daa50668",
-      "title": "New York building collapse kills one person and injures 12",
-      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "title": "Survivor pulled from rubble of deadly building collapse in New York",
+      "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
       "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-12T02:33:12Z",
@@ -72,18 +144,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
-    },
-    {
-      "id": "6b0875495d9978f4cce3b8",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T02:09:08Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     },
     {
       "id": "5b009b32b401e267a6ed59",
@@ -94,6 +154,18 @@
       "published": "2026-11-12T01:56:26Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "739143146317ebde2a44c4",
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-12T01:55:18Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -219,7 +291,7 @@
     },
     {
       "id": "83fbf9cbe6e3d33eee3296",
-      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -578,6 +650,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
     },
     {
+      "id": "e7a48bb417f1cfdd2d12f2",
+      "title": "New Videos: Canada-EU Policy Conference – “Prosperous, Secure and Sovereign Together: Making Canada-Europe Economic Cooperation Stronger!”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZXRvSDVhVS1qMTc4UEJRbnplaWtySUNBMm5kZlFCbXNCNEZKQlVBSS1uTGluczM0azBPd2ZVRDg2aTV4RlVTODVha0lPcmRMbWtfal84YjZfZ2FsTFRDRWpKRjRXekVDVmRNaGdVTVZiWGhwekxvNWNaQU5lb2M4VWhmQlRZU2FPNURkUUxOajNUaFdiNDE1dnBEZGdoUXc2LWJmd2VkaDdWNGVOcEhxSnpfQ3pkQUQtV0hscFZ3RGNleXRqWmp4bTU4VWJ2MlRZa29UeWtPYXdfR1hDWmthbnNLbEtCcklQY3dyWGRQczdHZw?oc=5",
+      "source": "Carleton University",
+      "published": "2026-11-11T19:12:09Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7ba0cb86cd02fda00475d0",
       "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
       "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor inside a tube of pork and lowered himself ",
@@ -636,18 +720,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "ccc2ffd18d2431da94cbcf",
-      "title": "Famed ship SS United States to be sunk off coast of Florida",
-      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T18:42:27Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
     },
     {
       "id": "ac468bbb6b4cc89d3b26ba",
@@ -1368,78 +1440,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "fd4fb863a5bcdfe8165245",
-      "title": "Faihan Inaugurates the Iraq-Europe Business and Economy Forum » Iraqi News Agency",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0o2d3lhMnk2LV9DNUVEWDJ4R3NseG5oaHNrT0hKSmpIbTNib2xBMWp5dllCcC1xNEhWUXZ0RXgxRnBDTGk4OENSTkdtUC1YMWlEelVSeU5sQUZSQXVqcWtyTlBFeWFmLVVuTjRONHB1VmJJSkZxUTFsalpaVU90dm5DNlU5ZmltbFJFS3REbFNtRHFaQVY1OWxLZFhQdklXeEFHdC12MA?oc=5",
-      "source": "وكالة الانباء العراقية (واع)",
-      "published": "2026-11-11T13:42:17Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "46b126d3e719a66ea58105",
-      "title": "Economic Security and Strategic Resilience in Finland and in Europe",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaGkzM21vSERqbEsxVGQyUThCZUYzU2lRMUdZUXkxU0p6YWpZdUI2ZVVWUkR3c0xFRm5lUm1PUTZBNGdyOEpxQUlHR2N5RHpSaWlCRHM4RThMTTJBa1BJLThjTHBKbHFsQlgyME5mN1UxcXNHWUhSUVBCckJDb0Q3V0pIZ196ckNoV0FrRGdPNml4djY1SFhwa2lld2NxdG10LU5WUGZ2UnU0YXY5QS04NlVBRUJrNDBra0hPb2RaUDNOT01MbXhrc2RFR2J3NS1NakhMREM3eU1HVjZwQW9Z?oc=5",
-      "source": "Suomen Pankki",
-      "published": "2026-11-11T13:37:38Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f725522f3b3f27027b8bcc",
-      "title": "[6027.T FY2027 Q2 Earnings Call] Japan's Bengo4.com Posts 30.5% Rise in Interim Operating Profit, Beating Plan; Legal AI Tops ¥1 Billion ARR in 17.3 Months, Fastest Record for a Japanese SaaS",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bWxkSXFJbTlFZGlEZUhnRmVmTzQ0NS1BVkIwelk1UUwteWpqWVk0V3JUdTJ3WkprU01TSXcxWmFmb3ZPeHNKTExJQ2hEMDRiNmcyUk5tc1FxZ1l4UWpFSQ?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-11T13:34:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fd57610d17aba8ea1b0fde",
-      "title": "Fall 2026 economic outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzNLb1RiTkVMNUZjUm50R2xxYThpcUlLcHJXR045ZVBCZUdaUVZVd2xFTmFLdlNkMmpWeHIwY1N2SnNWRGpvOGlOeFJnUElXdUMxc1FKQk5QU3BGM2F0bW9LdjFkLU5vVi02ZC11azZnMi1pUzhFTHpJcVU4QkJGOS1NaXY?oc=5",
-      "source": "KPMG International",
-      "published": "2026-11-11T13:30:46Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ea95f9dd622f553554e89",
-      "title": "Google in, but Nvidia out as US lines up Apec CEO Summit delegation: source",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUhlWmJRUEdOU05SZnB4dkE0N2JpeXdCbUJpR2N6Sy1oRy1YOHVXTHNaclVRMkhmLTE0Z3pQejZoQWpzdDR4SEx0MGptU0dBWDY1U01OUk1SV19kVEdoMnVvTVlDamhCWHozdWttcDA2T2NaS05CNWdHLUZ6RWtUWG5IM3VvbkNaRDRPZXFvcExheEh3a2pHOFp0XzAzVm9ZelVaZk5WSE9pQ2wzd2pQTFRZWENwVk93QUs5eNIBvAFBVV95cUxOMURUU3dPMW9VeUtFT1JjMXRjOXBoUDVxWEhDZzJVZXdvMUtfODM3MTFycUhteHpjOGtQZ09uNVptNTJWV1RhN0dDMnhTYzNHQU4ydVh2LTBabUZyS1h4RGxUenllQTZFTTFNQWR3WGcyR1VnTWRYdkNDeVVtb2w4eW1NcUwtMjRMeXNqeHM0LXZ3U08xRk5Ua1piWGp6UV9jbVdBN0hmaFk1TFlhZkpNQUpmNEtDMDIyMVBPMA?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-11T13:30:07Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "af06ecd48e5436f8d1830a",
-      "title": "Streaming is still trying to be TikTok",
-      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time [&#8230;]",
-      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
-      "source": "The Verge",
-      "published": "2026-11-11T13:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
