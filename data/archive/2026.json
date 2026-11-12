@@ -1,5 +1,89 @@
 [
   {
+    "id": "8938ed96ae83cd5792f8dd",
+    "title": "Applied Materials falls 2.11% in Thursday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjhXLTNpS2J3cDhZY3F0dW1EOWtZVUhpSmR6Tk0ycTRGN0RqNlFkZnBBZldSV2FMdFBJR011WGY2elZhRTRhdy1UUkJPYy1HNzNmWmdhNkJ0VjloME5YNldIUUk0TDFKQjl4cVBCenVuWk0zX2ZiaXJqU00xRDF2Z21xaEs0emM?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-12T22:06:27Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "55833bbf48ba6056d2fc14",
+    "title": "AI Policy, Cloud Shifts, Nearshoring: The Week in Tech",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONnVjRmdGa3YzblNJekcyM1poU0FKU01qS1ZlM2x0cFpVZW05dFktTlc2Y0w2cmVJRy01QVd4TWRVRDhKM0ZlcjZHQTZJaldnT1plTDNKYVQ2Q1JRVWczdzM1dF84SzV1ci00NkVWVnFZMi1JN0pDdWhDU0plNW10enkwaXc5VEl5Ymc?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-12T22:03:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d3d4b1ccf4d4cf17222028",
+    "title": "A cannabis company logged $38.4 million in sales but a $13.2 million net loss",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlgtaWJkcnBHdXkweF9wS0t4RmlsQlRPdDBZYUxQUkhMOGN0aHNKcE11cU9aRGhLQVVBMUR4dTQ1Nk1wMjZsSXhOcG5TcnRVQ2l0OWh5V1p3MlZ0WGNhYzdzY29WQzNyLWlZMWZ5SUFvZWcwWllKa1BXYm0weF9Ia3JQeFpfZzNORlBOTE54cVpOdU5zeWlGb1ZfRHRrNV9WOVVlVmg2ZzIyOWU2Ynh2MDgtXy1zMWN5ZlhYTQ?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-12T22:00:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a3e1afb4a33deb1bb63145",
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#82",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "source": "The Verge",
+    "published": "2026-11-12T21:55:32Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7c88fba49af3393002592f",
+    "title": "‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+    "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other [&#8230;]",
+    "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+    "source": "The Verge",
+    "published": "2026-11-12T21:45:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ecc59add54f7f7e9d8be14",
+    "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+    "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+    "source": "The Verge",
+    "published": "2026-11-12T21:28:53Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9f9ef1f7c9cc007bd12568",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T21:27:10Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024"
+  },
+  {
     "id": "e88f8bd4b4894346fc4cc5",
     "title": "CoreWeave surges to 60.77 USD on Wednesday as AI sector rallies",
     "summary": "",
@@ -8,6 +92,18 @@
     "published": "2026-11-12T21:16:21Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d194d3acb6018ffa287371",
+    "title": "Shares of AI cloud operator Nebius drop 16%+ despite strong quarterly results",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGNkRmtEQmhGMzE4Tl9NeDdiUnVMcU56aXlUT2dBbVdySWpLcHdSbUxnZlh1a2tsb3g1Y1FNY1dxUjZlakVyTGJqZUpNUE12Q2p5MmZrMjlSb2EzZWVGNS1MdzU4bmt5akVha3hWQWRRQ2NxdWNSZTJYUkxOS0k5UXczbnA5dEgzdnRrc2pVWVdRck1OblFxQnA4cjV3UDFqYldxd3RSdG1PbjNGdHVIV2xn?oc=5",
+    "source": "SiliconANGLE",
+    "published": "2026-11-12T21:16:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -108,6 +204,18 @@
     "image": ""
   },
   {
+    "id": "25b5c0a7a557464be10fbe",
+    "title": "Sheinbaum to address APEC business leaders in China: Thursday’s mañanera recapped",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTm1Ia0gzNHhNYzU0aGhRcDEyQXRLdm1ZWnU4bXVwekNxMGtHd2dLcVVfNGFTVWcwVXRCQkZQVFpyVkJlSHFjNWlJVTBUdm8yYVlUTndZOWhlX0IzNzVtNlFWNFdrNFpEdTZMS1BQcHNCNjBkSmZBNFY4RGpseWFOdGVncFQ1eUxTa2x1ZUVkV0JVOGNiOExXMk5CZlhVbG10YzRJMkdmZw?oc=5",
+    "source": "Mexico News Daily",
+    "published": "2026-11-12T19:44:49Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a20d1e6a0e529bc1715f1e",
     "title": "No, AI agents did not discover a previously unknown Maya site",
     "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a [&#8230;]",
@@ -178,6 +286,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676"
+  },
+  {
+    "id": "921a887887922f8b2404c9",
+    "title": "Anthropic Preps for a Trillion-Dollar Debut",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU1PLXRFWThaMlc5emtuWnhRYXI0cmlVTjVjZFBOYU5CUldTMTBsdDZkc2JPR3lWbXFRcEs5VkU3eXBKVEhXUDI5QjR2WkRKUW5aSndQX0VEV1ZDLVRLZnhTSXZ2YmJ2eUVLbGVFVVIteEZMdk9CVVJESXo3d01NMHQyVG5FSmlRY251anVMLUlhRkVQZ1RJ?oc=5",
+    "source": "Global Finance Magazine",
+    "published": "2026-11-12T18:59:48Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "bd79903a17a4b8df7ffd32",
@@ -684,6 +804,18 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4300x2867+0+0/resize/4300x2867!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F97%2F6f0afe7d4fec85c8bfe4b77d0164%2Fap26316483363429.jpg"
   },
   {
+    "id": "3c570913cac3b5d7fa7ea3",
+    "title": "What to Watch in Nvidia Earnings: Leadership, Data Center Concerns Take Center Stage",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-12T15:23:30Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "70632979c6f66ebc9c048d",
     "title": "Global startup ecosystems converge in Dubai to unlock international growth at Expand North Star 2026",
     "summary": "",
@@ -1008,6 +1140,18 @@
     "image": ""
   },
   {
+    "id": "3140769d71873e4fe89b63",
+    "title": "Rwanda Stock Exchange and UNICEF Rwanda join global campaign to put children’s rights on the capital markets agenda",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1lWT0JKcUx2QmxBM3ZJTXd3RWJWUFZqeUVSVFcwRUtBRTFXdV9DOFNpaXlLdW1ZSG5vS095X2NkbFd2UHlrcWpkcFhvbXZXeWVxWUJEWkllckIxR1dPRzJvVW5UM2FsLWJrS1BhR3p4NWhnUk04N3llclN4NmxwZHppMEVGNUllRWQxZEJ0OUVIZW1MdWU5VUNtSFNYaUlKY1hDa3dKM1h6OVQwUVFfX1lqcEZPUDhFUkpaLWJ6VGJ5dHJm?oc=5",
+    "source": "Unicef",
+    "published": "2026-11-12T14:06:01Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "88fe4d5c03655566937b4c",
     "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
     "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee Business live – latest updates Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee. He will be replaced on an interim basis by Nvidia’s chief financial office",
@@ -1272,6 +1416,18 @@
     "image": ""
   },
   {
+    "id": "e2e015a221099f28f6cb5f",
+    "title": "Institutional Financial Markets, Inc. (COHN) Q3 Earnings and Revenues Lag Estimates",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnBJbXczWUpKMU5TRHhMeVEtUV9VazgtRmpneUYtNEJjeEg4SFVHNUhscTlpeGdRb3ZBaHo4Q3A2TkhDVGtlQ3V4TVRxQmNteDl5aGZBbFdBMk9oYUVnQzQ1MGVsVjktVFJLRzk0RUJjOFpyUXJscThfaFNPcVlWeXg2SnVId09mR01QM0VBcWh5VDNmakFMRWxGNUREQ3A0VEZoMU9YU3A?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-12T13:15:02Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "758208eaa2780f8645d307",
     "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
     "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a m",
@@ -1384,6 +1540,18 @@
     "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZXJVYWtlckdZSFQtN1YzNmgtenEyNVl6RnNEYjVYNDFqcS1rS2hmTjF5MGFBM1pLTkpCa1k3SXZiQTVqc3kwbVlCLVE5YXBBOGg0aXE4Wmc0ZmpPNDZfYUZkVjBJRjNsSTJDTlB4Qm1URlhmLXc?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-12T12:30:14Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "61c172bdfaf8192af97405",
+    "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZXJVYWtlckdZSFQtN1YzNmgtenEyNVl6RnNEYjVYNDFqcS1rS2hmTjF5MGFBM1pLTkpCa1k3SXZiQTVqc3kwbVlCLVE5YXBBOGg0aXE4Wmc0ZmpPNDZfYUZkVjBJRjNsSTJDTlB4Qm1URlhmLXfSAXtBVV95cUxPUVUtT0JGRUhZVUEtNUNiZ3FxS3VTd1FJMThVMmxQWG96UWhQZlIwbTIzeHpqRk1zZ1d2SVMtZ0YyV1k4Z1g5d1Budk15NXl5Z0lQT3Y1YTFDWEV3b1VVd1d5WnRzOFhqcTViU0d4R0llaG1LUWcxcTlseEE?oc=5",
     "source": "CNBC",
     "published": "2026-11-12T12:30:14Z",
     "category": "Finance",
@@ -1520,6 +1688,18 @@
     "published": "2026-11-12T11:57:41Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5c0ee3b11f759095d1780a",
+    "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZG1xQmZVZW5vQmFtRDlhN0dfRlNBRDY4SjRjN2NMMW5CLW54bmJxSnlxcDFFYkY2SnFXenJHWFZqN0JFLUFLUG93clZ6X0tzdl9rRWxsdWJpTFJhazJBdWxoQlBNM1dHVUV2M2hSbjhDNGpJY21aT0VnTmFUVC1ZblJDN2lsZ1FoN1ZqZWdwZUcyNjc1czByWWNEcmQzQXdFUF9VUWk4dE9XRkht0gGyAUFVX3lxTE1LbnFtek9aZlhSUm0yOUFWUFIyU0JZWHEzLWt1MVJTRkxaaTVUdUpnY0FJeWp2RUQ1Z0ROSDE3bTlXMnkta1VvRjE5c1RVRlpzTmdONzVNbjZqUGJ1VUtMWnp6MlEydnpNMGEwd051RThNblVCRWpCZkdHOGNiUlFhRFpfeElybTc5WDR6cVZkRnNqZ1YxODJVMUNZa0NLdGVzenFtZTh3WWVCam1wWEZJeFE?oc=5",
+    "source": "Al Jazeera",
+    "published": "2026-11-12T11:53:48Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -5396,6 +5576,18 @@
     "published": "2026-11-11T08:00:00Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5791ad701752659386c211",
+    "title": "Comcast",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaFFnSDk3QjFrVUFBVnloLXVlMVAwQWV0YjVkbHhrYi1MQ2dqV0NaenhFR2RZMU8wTTlJdVVSbzZKOWFjV0JWVFdSeFZPdkVRRmc?oc=5",
+    "source": "Britannica",
+    "published": "2026-11-11T08:00:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
