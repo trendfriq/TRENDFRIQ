@@ -1,5 +1,77 @@
 [
   {
+    "id": "d5cc30ce1b8a71cb5403e8",
+    "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+    "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" [&#8",
+    "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+    "source": "The Verge",
+    "published": "2026-11-12T23:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "32df4f7d6cd40e27c8a741",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T22:42:51Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800"
+  },
+  {
+    "id": "4338a97cd025ab5571940f",
+    "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
+    "summary": "Israeli launches its first air strike on a Gaza hospital since the ceasefire began last year.",
+    "url": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
+    "source": "NPR",
+    "published": "2026-11-12T22:33:00Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "559889667696d8fffcddbb",
+    "title": "Mexco Energy's revenue rose 21% while oil production fell 7%.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQU1BVTN3RTVvX25EZjg3TFBKRmFMMlQ2VGNHc3VEUDRMd0JQcGVxc1NLX1dRT3dqaXF5dVNQUnlGdlRsTVdldnQzM0FUV0VKOXN0dUlFNnJ5WURhVGFKZVdQb2l0TW5aaWFvbHlQODhVZUlEWnZFZ1JmZW5QQlkxdy1MMjlyT3VyRVBUWHR0NE5YRm5xTWQxMnR1RVZSbFdGemNJOEJuMUZRbWdqVXdOeDF0QURMTjM1bGc?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-12T22:30:47Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "083bb22a383971dee9d05a",
+    "title": "Women in finance 2026: Accelerators of invention",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVhiOG01c1lsTDRiWDF5UE9vTmIyMGJobmdaRU1sNGY1TXBXNXEyYnBDaVZ0YTFtVVFlRU96d1BTWDBXVkJ4RXpNOXc2SG1XNDE2RmFYdXA0Q2hTRjBqNE8tUGdTTlUyd0o3cW9SQlIwb1JCU01PRTl1MHpremlOUnczZHJxMFF6?oc=5",
+    "source": "Atlantic Council",
+    "published": "2026-11-12T22:24:28Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ca2f28331a6de25aeb3085",
+    "title": "Muse can now place calls to U.S. businesses — if you pay",
+    "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T22:22:28Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104"
+  },
+  {
     "id": "8938ed96ae83cd5792f8dd",
     "title": "Applied Materials falls 2.11% in Thursday's session",
     "summary": "",
@@ -20,6 +92,18 @@
     "published": "2026-11-12T22:03:00Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "46daaa4bea2e97d80605c4",
+    "title": "QuoteMedia reported a $158,000 quarterly loss, down from $367,000 a year earlier.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTNyRW5ZOGozN2RRYlhXMFV2NXJZQkNIRVpfMEtmck1tQzNKMUZsVXFkNXl5NjhWbTZSZVROcmNxTlFQV3o3SWtuaG9hSDBZX2ZVbFVwQVFqc3MxWHQxdFFUQ0p3dkNPak5LQ204MzgxaXNnWlBDVHVmMW9mNWtTRG83TldjQWJUZEhQSms2Y3JhRkplN3N2TS03MXh5RFk?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-12T22:01:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -142,6 +226,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&strip=all&crop=0,0,100,93.955555555556"
+  },
+  {
+    "id": "94fb9147269c9d759b41c4",
+    "title": "Dangote Raises Africa Investment To $70bn, Plans 10,000MW Power Intervention",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUlDbFUtZjczcnZqb290RlQ1NVNXd2NXMFFVZ1RUWWpEOUU3MllOQlExZmZ0V3QtbW91Ml82dnVxMmpOZWVsSFZ2TjV5OXh2RW1JZlJHQVViRHExVGY4N25CT3ZDa05Wc3VTdWppV1Uta0ZlMi1IU2tKWmhEWHJXYnpBY2VlLWZtbGlBNDY2ZHVDaHBKUHRQcHBsbFQ?oc=5",
+    "source": "LEADERSHIP Newspapers",
+    "published": "2026-11-12T20:54:20Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
   },
   {
     "id": "ff447842ecb2519b467671",
@@ -1072,6 +1168,18 @@
     "title": "Canada Dollar Under Pressure as U.S. Dollar Strength Tests the Loonie",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGx4cFFwQnFRMUdXX05HNGo4MUZBRElWdHZ1MU14ZHlCYWFBTHdQbWJ6R20wbTNyRUdlSnRKU3o2VURoZlBIdFVnR2F6QjA4MzlPdGZTZUJBRjB6aWgtRTBaSVVDS29HSjZpTjZpdDhaT0I4eGl3V3E3TnNfWDNiVTNnSlI0U2YzQXBZNDl1Z1NLRURnZERBbUIxeXE2UWxrbHp4aThfVzc?oc=5",
+    "source": "kalkine.ca",
+    "published": "2026-11-12T14:14:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "072f89b05dfa1b87fdcebf",
+    "title": "Canada Bond Yields Face a New Test as Inflation and Rate Hike Expectations Rise",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWRGVjhBYXVpelpVMG9oaFZPSDZnak9WZUkza1RrX2c1blFhcEVfY2xMelpEbzlNVXVLZVFnU1RoTVVaeXFZT2t0UXE5aEM0OGlzRVhYcWNhbXU4NWNMSTZwSUdoM2szVWN3VmRFTWtLeE9MYTNCLWtxOW1TUWplekhCdWtSc2dvMnNUNEVRX2FqaEVDdVFPYnZDSkl2aEw5bkhVaG5nY0VmeGRteW95RHBvVU96NGZC?oc=5",
     "source": "kalkine.ca",
     "published": "2026-11-12T14:14:00Z",
     "category": "Economy",
