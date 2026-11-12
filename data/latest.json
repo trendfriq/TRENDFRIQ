@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T11:02:29.335774Z",
+  "last_updated": "2026-11-12T11:58:28.860582Z",
   "articles": [
     {
       "id": "83fbf9cbe6e3d33eee3296",
@@ -7,7 +7,7 @@
       "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published": "2026-11-12T10:49:27Z",
+      "published": "2026-11-12T11:53:01Z",
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
@@ -15,15 +15,111 @@
     },
     {
       "id": "d591981f32d42e1768840f",
-      "title": "New York building collapse kills at least two, officials say",
+      "title": "New York building collapse kills at least four people",
       "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
       "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-12T10:40:49Z",
+      "published": "2026-11-12T11:48:14Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
+    },
+    {
+      "id": "ed705dd8a3a1df2223a6c5",
+      "title": "Commentary: What the midterm elections could mean for Missouri's economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1QxT1RsSlJBSEpWX1JIbTRkZExobnRBcjJGRDliWjlRdG5qZWdxTm82bmJDYjBpR1pTeXpISWhhLWc4d3QwOGFqSlBxQ2hoWnkwOTQtaWZaSlBqX2c4aTZHREFha2MySV90bEwwaTZVc2VJWTJVLUtIZzdJV3k2ZTUwbHE1ZkM2VlRnVlFSUXZ1RGpVcHNaZW85WHcweUlVaEFHYjVB?oc=5",
+      "source": "Missouri Independent",
+      "published": "2026-11-12T11:46:22Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a2d87810df020d22a9635f",
+      "title": "Corteva Cuts 2026 Outlook as Brazil Crop Protection Slump Drags Sales Down 9%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSWN6V21ScFF3YlhrNTBLeHBnYW01Y2hBbzBwQjV1LXR4RmI1alZKdWVvdlhsTVhYRnlnOVRqRnVPZ3RRNzRSM1RmdnY5b2VqeXdYZVlKUVdOSWVpSTI5ZmF2SU1PX3NSSms2OXlhMXlZRDBNb0E?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-12T11:25:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a603fb20f5ffaf854aad0d",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-12T11:21:25Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "1b127e2f67ca793c7cd9a0",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T11:20:25Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "a73a18fdc817c1b6c509bf",
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS [&#8230;]",
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "source": "The Verge",
+      "published": "2026-11-12T11:12:32Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "512401664ae08ed292faaf",
+      "title": "Mastercard to add over 250 specialist job roles in Singapore by end-2029",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3BrVzV3UjZXcXdTX0Y5eUVYdnNLM0hCNmJDaXB5d3FMMDZnRDd5d05YY1huS21UcjljR0RaZm12R3JuckFLT3lBMGFHaVliWmxJakpHd0c0NENLOHVfNG56WVktbkpzUFRhSnBtbXozcnRtTWpmcnN6cV9JSTZES3JfeG4yeFFqVVZwZGhlNGZQWjZONUxuYmZFZzRUc1hOTXZjbnprSHpMX0lDNGxpM2JzbnY?oc=5",
+      "source": "The Business Times",
+      "published": "2026-11-12T11:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "32d3437663010ec663f978",
+      "title": "Robo.ai to Advance Its Middle East Public Safety Strategy at World Police Summit 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbTl0UWRGczkxa1dzVFZEeDYzMXJoSEx5c1hQcVZ6aEtvUlY5SzdtWXdBUUtTQWJtSTVtd3RlNy1iX3BSTmU1MFBkTWtjTTFGajgxVENGOFFocTB1a1RiNEp1Y3VFUm9XMF8zSE1wRE5MMnJOcEpGdFJqaC1SN3NFV09McF95MHc4djNyeFM1aEplVENHcWdlcHI4YWd1OFVqeENrX2ZsUy1ma2k5U3UyMkpqekNQdWY2cG5VbFNQZHJLN1hjVktYTVFVY0NWTFNSTDFpSU5ad1R5RXJITnc?oc=5",
+      "source": "Morningstar",
+      "published": "2026-11-12T11:00:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "696ae9f4e7085ac235864f",
+      "title": "UForce Raises $700M at $6B Valuation to Expand Drone Technology",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYzlGX0czbTFndXJBZmRHMDJRVl8tSS1xNG5abEdXamhGRm04alJ5NC1EU0xCZlJPZUxIelNZMEFEdnYzWXJQejRlT29qRGFPM2JBQmpoYTlVajNpMDhHNVpwVDh6SlpueHlWZXZhcEtUbHAyaktqSWpWYTdfeDIxWVg5NENQZFVpQ1BheUlVQWgwZDRvZU41MlNJU3V6QQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T10:51:16Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "95b967f0c6e9d94f667b32",
@@ -38,28 +134,28 @@
       "image": ""
     },
     {
-      "id": "a603fb20f5ffaf854aad0d",
-      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-12T10:37:00Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "id": "fb5233a5a98856df2af857",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SNTFXWkdLa3RHVGNUUDhBUzNoNzZDU3Zob1RtX1NGSHd3V3hvVWtkbEVZRGN0R2hSN2Nzb01JMmRpRkxKV1VBeUNSRE9kYk04S25FYWE5YkgyUHM?oc=5",
+      "source": "BBC",
+      "published": "2026-11-12T10:35:05Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg"
+      "image": ""
     },
     {
-      "id": "1b127e2f67ca793c7cd9a0",
-      "title": "UK economy grows at fastest rate for more than two years",
-      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-12T10:35:05Z",
+      "id": "ae4a19839258e1aaeed5cd",
+      "title": "U.S. and China Should Cooperate on Finance",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlNNTFpxTUFBdkFtd09ZRDAtZVkxR0REWXpOM3Bndlg3R2VmRlMydFhZTjZhbGNQY3dweC02WGhpQ3FsYzlVOGlGQm1seGMxekRkNVlkZzNJRy1DSEFlMlQyVXFDSWpBVTNFcklPaWR1dUhUbndiNDBDT3hfTG5WYjlUckxmR3BpOWFUamln?oc=5",
+      "source": "China-US Focus",
+      "published": "2026-11-12T10:19:13Z",
       "category": "Finance",
-      "topic": "BBC Business",
+      "topic": "Global finance",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg"
+      "image": ""
     },
     {
       "id": "c220000865681988a5f9fd",
@@ -98,6 +194,18 @@
       "image": ""
     },
     {
+      "id": "747778e3fc6a38aeb76686",
+      "title": "Africa: Investment projects rise amid lower FDI [Business Africa]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXhyUU96VmppTDhKNEVOdXp2WU5pYnQ1S0dsck90MWJkS0sxUkdLZzZaME5wVDBlempObXFIbkRrVWtER3NWRHQzaENtbldqdW9ZQ1lKVlhpMHRnNXFqVklYeVJJZ2xRME1UWnNaWENLX0I1dDZORHNNcEtYNml4dm5Gbk1FYUhQSmJHM2tVVDRhZ2RudmJ2OVpJRnBqR1ZjRk1B0gGoAUFVX3lxTE51UlpGYS02djYwOS1vNmRSaFV4VFlMWjFLNy1mblYzanN4YXZ6MEdMVzM3dU5UQVZfd3diTVVQNG9DUjlVMzVEczkzNlEzTjR2ejNkWUFsV21sOWhGTVI5b2ItdmUxT3pPZUFMamZldjNxTlNpR3JOWTNMWmpfU2VzMXZpT3VWZTlkNWhyelJJRGlKZl9wMVhUamZLTDVCRUFTSW5fS0ltYg?oc=5",
+      "source": "Africanews",
+      "published": "2026-11-12T10:08:56Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "eabeef9e80729989856fc0",
       "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
       "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
@@ -108,6 +216,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+    },
+    {
+      "id": "2d45cd0b0d5a12bb248285",
+      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1JDaG9NU1ZrUlpwdUh4SHNKTTQ5eGQ5enFldVdaYWtSa1YzSHhuNlNfQmNnVURJNm9ObEY3YzllQzJBeVM1cjdnYlpSeGdNc0djUjZYZFFKbXlrQk1INEthTm93REVtQmcwRjJEQmRlWFJtWjY4a0N6N1l5TzlXRVhvWFJSdDJUU2dDeDhpbHhBMkpiMnZwYktDY25FVVZkaXpfRlZJdUc0WEtF0gGyAUFVX3lxTE5HMWYtaVYtZmhoRlBYSGJzNkVQeUdNTGF1TWZXVWdwM0lwZnZaNXJlRkVYQXhEV0ROSzhGTTU2eWdRSktYYXpVdmhGLVhqRDd0aEhDOU9hdlhjc191dU85WURuMm1WQmx5ZnZadVk4cVcyM2FZRm1CcXlBLW1Ia0kzTGZVYnE5SjFKcDRqX2NZaDJfbVd1UzZhU3JRM1Q5QUU3bTRqVXEwNzc4RGhDSUVwNVE?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-11-12T10:07:30Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "aa5c7f25dcb3935845d60c",
@@ -123,7 +243,7 @@
     },
     {
       "id": "6b0875495d9978f4cce3b8",
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -142,6 +262,18 @@
       "published": "2026-11-12T10:00:00Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2d70a6025495c9aab9b85d",
+      "title": "The rise of smart home devices for nature: Lessons from building Birdfy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHFxaXFpQ1lzS2NkWHktM2dwa0xmSVhCR19QVnNhZHlwQ3RCaVQ2YlR6bkZoZlptNk1fWUlzNW9yYU5QanJ1dGFoWldBazB6TmY1bmwxWDBSVkFmYzk5dkJIR2dKWGVhT1lfVmRYaWVsQjZiTXhQSHFSNkc5a3dTU0VGUno5QQ?oc=5",
+      "source": "TechCabal",
+      "published": "2026-11-12T09:50:06Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -204,6 +336,30 @@
       "topic": "NPR",
       "country": "",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "09a1aa4de0a2ccd4970e0e",
+      "title": "RUSSIA-UKRAINE TALKS",
+      "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/russia-ukraine-talks",
+      "source": "NPR",
+      "published": "2026-11-12T09:38:46Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "2a154e52d0555ddf749f7b",
+      "title": "What Is a Lean Startup Canvas? Lean Startup Canvas In A Nutshell — Complete Guide 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGaVlrcVVPXzlYUjEzcjJfLW1iWXh4ay1Nazlmc0dMLXozcjlhazNSaF82WXRjOW1jR0J0bmR0Ri1GZXN0ck0zeWhmeFpaTDdPelhqbHd6Yw?oc=5",
+      "source": "FourWeekMBA",
+      "published": "2026-11-12T09:36:35Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2c1cbc0a92d83dfdf156f5",
@@ -314,6 +470,18 @@
       "image": ""
     },
     {
+      "id": "4613dc2f6b69965384ae23",
+      "title": "ACCA: Asia Pacific Leads Global Sustainability Reporting, But Businesses Must Turn Compliance Into Resilience",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcWIzUjlvY2V5TTRObnh3WERtWC1qZExmcjJJekljRnZ2T0l3N2FLb3B2WjZDTUdQZXFxWWJiLUh4ekY5dE1MWEJ3V0N0LWRsT01qSy16MGhDY3Q2d1poUG91eVd4WV9SZGk5ZTMtQnppaUUwR0NNSC10N05paW5jMXROU01iemY2VUVvTVFMWVNaV1NWNTgzcnQzOGZ6M1dMNVhuSF9QNmNnTG93WTlEcHpzd0JQNllObmdoN1UxS1ZhTUFOTXpmSXA0TzMxelg4YVNBX0tYWnJLRDRhT20tbUpRVGJPbzA?oc=5",
+      "source": "BusinessToday Malaysia",
+      "published": "2026-11-12T08:49:28Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2403905c448a90465d50f2",
       "title": "Financial literacy: Why businesses, trade unions and civil society organisations are essential for public action to succeed",
       "summary": "",
@@ -398,6 +566,18 @@
       "image": ""
     },
     {
+      "id": "abeadf2aff48a42c78362f",
+      "title": "Ageing population puts chronic disease prevention in focus across Asia-Pacific",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnJoT0Y2ekdscURMZFpEcGNNanRsUWxvbWNDQ1JPSWxvNG1PYTE1QWdmaGZaem1iZEJkZmtmQW1KdUdBZEl2ZmRfQVRjVDRNd2Y1eXFfSWVXRjFPOV9NdWZDT0x5Si1SX29DZTVwczdGMXpFcHczQ0hSUnhxbjFlMUVKQUJvQkhEN1Ytd1JzOUJtdHVoMXFLSEJ0WS1va28zNHN4QzdLWG1DQnl0TVE?oc=5",
+      "source": "Vietnam Investment Review - VIR",
+      "published": "2026-11-12T08:30:38Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "60ab426e95b9ebbaee37d8",
       "title": "TradingView Economic Calendar: How it works",
       "summary": "",
@@ -470,6 +650,18 @@
       "image": "https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=288632f9ebb94fbdcfbf81e2beeb395a"
     },
     {
+      "id": "752e2a96b3189ffa5b6749",
+      "title": "Bootmaker Dr Martens warns trading in season ahead crucial after 9% half-year revenue drop",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmpJdloySkNCTnZ5eFRjZHJJRGxSZzFYNHZoeWt1YlE0NUlsWUU5clEwRkdOVnBHNkdxQ0o1SG5FZFFHWEtLVFFMVFYtRWJYS0lUVGxVZ25LbDNFWlQ5UmVkUll3VEhEYjh1MTlJS2k2YXdvandHeHZBcklkV3liRHJOYlNUVGtobE9tcnRHSGRBR1NXQl9DdXpIYVlLREk?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T07:36:40Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "62c53ae1eca03c1bc20d11",
       "title": "[7860.T FY2027 Q2 Earnings Call] Japan's Avex Posts Interim Operating Profit of ¥3.48 Billion, Triple Year-Earlier Level; Full-Year Forecast Unchanged Despite \"Major Releases Lined Up for Second Half\"",
       "summary": "",
@@ -490,6 +682,30 @@
       "published": "2026-11-12T07:10:00Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7eb87c95b3502026d16d90",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IRmgxd1RxdGt4bUZCc2h4WDhoWFZ5M2k3My1VMHR1RkN1NFJFeG1qQndhNlAzVENUeFg4LXEyTW9rSGJXbndVQU15aTJJaEJaSi1PcGJqS09RZVZ4RUE?oc=5",
+      "source": "BBC",
+      "published": "2026-11-12T07:05:23Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0cf4a2cabba426a76ac3be",
+      "title": "Economic Calendar: UK GDP, Series of Fed Speeches, and Inflation Pressure in Japan",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWR1QTRhQ05IWmtPbXIzVG1iQnhWSWZ0azVfY3RiMHVwYVo1RFNDUzZpdmVhOEFPdEZVZTA5V3JBWW5GMVMwNC1YeU12MV9wa1pxbXVfbW1pNVhGMGpkZDBnbnFzeTMyaUt1WWd3VFZZRmlEYXRGV0tBQUNHZlJmUGVPNkt3aDJwcHJMU1pHYnVsQjBNSUhva25TSC1qT1Z5YV9qbk9oRHI3WlhNeFJrRDFDQi1sVzNQSkljN0FqWG5pSEtMQzFaQTFtTnRWd212X0E?oc=5",
+      "source": "XTB.com",
+      "published": "2026-11-12T07:00:16Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -650,6 +866,18 @@
       "image": ""
     },
     {
+      "id": "c7e00425e3f9be5121661f",
+      "title": "Nvidia board weighs firing Jensen Huang as reports of second affair surface",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0JLQkpNWGRYZkdhS25SMU1NblBRemNieXJxczJoSVF6WXJ3Tm5Xb3JGMEVQdElnX3B6S19zM1pwRU9zMzl3Z016V1NpTnZKWjN6bVg1S0REVVRQMEpOZUtXUjh1UzUtOW9nemd0TEVWV3hrZUIzVnp2YVlqd2NTcng0cXZOS3ZTc1E?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-12T05:55:22Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "06bdd652eb384c35eeffeb",
       "title": "Nvidia CEO Under Pressure as Shares Tumble Amid Scandals",
       "summary": "",
@@ -710,6 +938,18 @@
       "image": ""
     },
     {
+      "id": "e5da371fa4782201ec26d6",
+      "title": "The Gulf is betting billions on becoming the world’s AI engine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-12T05:07:58Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "15811c46935cb7f20e6a2f",
       "title": "Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit",
       "summary": "",
@@ -718,18 +958,6 @@
       "published": "2026-11-12T05:06:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e5da371fa4782201ec26d6",
-      "title": "The Gulf is betting billions on becoming the world’s AI engine",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-12T05:03:47Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -766,6 +994,18 @@
       "published": "2026-11-12T04:38:00Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "60a7291fbaf6877d6039ed",
+      "title": "Tourism: Gulf Investors Strengthen Their Presence in Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0wtOFhvNlBEVWx0VEhnSnFLMW8zUklnZVYzLW5qTHpYZGtvTUZFa1VwQ25SMm5GTUYzeWUyd2RmQnNHVFJ4RE84eEJvRGdBYmhRejVHOUE5RUdKUnpHNkQ1cmsyWU1PV3k2aFItbVdfT0tFYThUNW9kcnFlem1MNlYzOG5OUXNWRElFUGZTN2lFS053?oc=5",
+      "source": "Africa News Agency",
+      "published": "2026-11-12T04:19:05Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1200,246 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "76c32aad363e140cfbdc88",
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-11T22:26:18Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg"
-    },
-    {
-      "id": "03d7e0a205caf0b02fc651",
-      "title": "AI-Powered Stock Rally Outshines Fed Rate Hike Fears | Finance News",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2tDc2s2VlZoeGZMczBTeFk2VDB5OHpxbHdTZ1dNOG9jaTQ3MUxLU25McG1ZZU9NQzhEVzM0YTlDR3E2V3RxemtKQVpiTnJiZm9xYlZtemFVLVlCeFZKVmxUTkxBeThGVDd2UXQ5ZHdiQmI4LU5ZaGVLdzMwSi1RUndsMEh5WTQ5NGpqWW9B?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T22:11:12Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ae7f38a5919cf6656189e7",
-      "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wODlWU0xYRnRlMllqSzY1TGJkb1VtSzhORm1ncF9HXy1wWmFhTDFtMW9pR0VvNWhUQWVBTDRNZXEwRU1SemVjOXhtdjM2SW81d2txMGRn?oc=5",
-      "source": "朝日新聞",
-      "published": "2026-11-11T22:10:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3a0b6122a2ac65d016b632",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T22:07:37Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "669f42def98c4eaf0ae0fd",
-      "title": "Embracing the Asia-Pacific, Connecting the World: The CIIE's Role in Global Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW5LclozRGd3NmZfcXFiOG1OaHI0WG9lYURTUkt2djFELWhqWlptNzhYRGZaQ0s1SXRwMS1NN0ZYR25YZFZPZEo3RC1EaWMzMU9wczNUWm8xZkhCZGo4QllhMURXZ2FXZ2VydWpSRzBCSmI2WU5jUVFmNGhJMk1QS01Qa1hUY1ctaXpfcXhTTThWZ1dxOEwxc0RSR2tfS1ZqRGEzT0M0ajNSYi1q?oc=5",
-      "source": "Alwihda Info",
-      "published": "2026-11-11T22:05:49Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0da08ba8662031fa28b367",
-      "title": "[INTERVIEW] Deutsche Bank urges Korean financial markets to match its companies' global reach",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT0tpRE5nb0VrSHc1VmVjUUtuam13amlrdXJqcVR2NERrZ3Vfc1R1a0VKNzFyQWdWamZCMHdrNXNQOXU1RlNIYzdheU5iTWIxMVVKc0F4NGpnb1djczVid3JpSng4WlVxdllwOGctMjJmZG1UbU5OZFFTV2o0c1UwUDg3MWg1cEh4b1BsZHJxN1FlRXRlMkNGQ0RMWGJSNzNab2tjYWo1ZnlhVG4xX0VsSUxWQlNHWVJQdFRQbG02VnVuWkJHemlqWjl4bzluY3RqNnQ3c3hla2pLS0REMkdfR9IB4AFBVV95cUxQT0tpRE5nb0VrSHc1VmVjUUtuam13amlrdXJqcVR2NERrZ3Vfc1R1a0VKNzFyQWdWamZCMHdrNXNQOXU1RlNIYzdheU5iTWIxMVVKc0F4NGpnb1djczVid3JpSng4WlVxdllwOGctMjJmZG1UbU5OZFFTV2o0c1UwUDg3MWg1cEh4b1BsZHJxN1FlRXRlMkNGQ0RMWGJSNzNab2tjYWo1ZnlhVG4xX0VsSUxWQlNHWVJQdFRQbG02VnVuWkJHemlqWjl4bzluY3RqNnQ3c3hla2pLS0REMkdfRw?oc=5",
-      "source": "The Korea Times",
-      "published": "2026-11-11T22:00:04Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3ddc5cc5a5b08ed60436e8",
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-11T22:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "59ca7f6d6630d5d0375cbe",
-      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1tn (£3tn) chipmaker’s board has hired New York-based Wachtell",
-      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-      "source": "The Guardian",
-      "published": "2026-11-11T21:59:07Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=119090ccf3c6e5888b1985a06d833ef7"
-    },
-    {
-      "id": "654a1f432b6050734456a9",
-      "title": "Could Huang, Nvidia and company's board be held liable over affair scandal?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZKSmVVbEFma0huZUVIajB2eVUzdUdEd2owTjNLbTZTbFQ5Z2F5OEs4WVp0QVdhZEpDU2xXQnhnTlJpQjlkMnREdGZEbkRyVW1hLXBsWklELTUxMU52bzVXMXJkeVRrVkx5aXV0YTMwcE1BVmJfTXJ2aTg3WGNkSnZRRTFLUllxTkVVVnZCc2JicjJmWGo0T08zRThvTmNQUHVfZkp2WUJwdXhIZGxNY2xFQ1ZZbVZsajJ0YWdB?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-11T21:57:15Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3c4a130ff1dbafc38dee6b",
-      "title": "United won’t let your AI agent book your flight",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge",
-      "published": "2026-11-11T21:54:21Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "edb2433d5d0c764cc36df3",
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-11T21:42:20Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg"
-    },
-    {
-      "id": "03ecc900cbda6a2c7642e8",
-      "title": "Corteva Reports Third-Quarter 2026 Results; Updates FY 2026 Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVprUHlQeG1wSEVabHBXYUxVdzEwX1FoOC13cmNFX0ppT1hsS2xFaXBNUzBCamZySGR0UXN6Q1JKTEVldXlXV09KYW5PVzFxS1pMeU9hLXRWYW1NYWpuNjliOHBseGM1eW5VSkNacFBnN0FZWFJ3R244OHpjSWstX3FydFIzeG51M0pXM09YVTFkWjJRWkpkTGlRNHRUbkY3TWFpRTNpYzhBby1hS0NvdUFKaFhkZmtvamc1MXJ4b0Z6WF9SRkE?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-11T21:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a196bffd8addae73c62b8c",
-      "title": "A cafe in Ukraine relocates from its besieged hometown and reopens",
-      "summary": "After Russian airstrikes destroyed a popular cafe in a frontline Ukrainian city, the cafe reopened in a safer region, an example of how Ukrainian businesses are trying to survive amid repeated bombing.",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6034533/a-cafe-in-ukraine-relocates-from-its-besieged-hometown-and-reopens",
-      "source": "NPR",
-      "published": "2026-11-11T21:24:01Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "85ef600e4412c7f76c2ec1",
-      "title": "Brazil Launches Platform to Help Businesses Identify EU Trade Opportunities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmdRZ2QtQktrSDFfdzl6eXowT0xBZ3pxc05fcUFySXRDSmVyUTVpZzdkS1NyajE2Y0dDUzVWZGRzaDg4ZFRBdUJxVU1SYm1JRzBTeGRid01ZOHFjenctUjFCWlB5NURFY296WDBMLXVCS1ZUbktYV1pGLUt5YUFya1ZIQQ?oc=5",
-      "source": "DatamarNews",
-      "published": "2026-11-11T21:22:38Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "526991f2f99e8bd8814c33",
-      "title": "St. Louis formalizes sister-city agreement with Kigali, its first new partnership since 2017",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGJoeENDOGd2eW5uS29vS09fVTdLX0ZIck9kZEVzX2RLbnJIT3BVXzNQaHFuRXJEWV9XSGtYVTBReFNsOE1HamU0T1BtTnY1dWhvQUh6ZFJWdEhUbDc0YnVvNGt4d21USWczQXFCU3NJR0g3aUwtYjdkOVNZSFpjcG9iUGczTEdWeVNmeEF4YjVabDQ2UmFSRTlUcEp4ckdXS0tZ?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-11-11T21:15:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5253752d525c50f66570a7",
-      "title": "Europe's Economy: Recovery at Last or Just Temporary?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNF9QZnFYWTZUWDFJVkk1Sl9KR3pmRVVxRGw3TDh2eTc2WHhRN3FYaGNncjlwakcxZzh0R0VJYmsyalRmOFh5WDhwbjA4OGtXOHlTUEhBWUhhZW9HdmZWSVdXUGdJNnhLUkIyUVJ4T3RqUjJkbUFVamNvV2lXVXhCc3NucHBXclJ6YjcxSWhUT21HWmpkRzdtcjk4NWdaT2JRbHFMM21neGVYb2FyMFJRUjBpWQ?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-11T21:10:57Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e0501c5050996c26df93f3",
-      "title": "Revenue fell 17% at OptimizeRx, which reported $1.2 million in profit.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDB3bVdJTksyc1hLUy1oN2htM0JxUXdtX3E0NklySUp6UWJKY0NPMlZYRTE0WXdlNFVoZ21zY0d6WDRJV0RyWFlmZV9nOW9ZUkEtTEdjMHVnZ05pOUV3a3J6ZFNxYTRkM3A0WmVkRkIzb2drSUdGUnpJX2xZV1VMZXdJdTRxenJDSGpRcUNHNFlib3dpUmFsbENOaTF1UVFMV3ZrMnhNV3Q2ZmpxbVR1akN0LVBfZTlXTlZqeG0yUEE?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-11T21:01:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "88c1afe3ff8ebbdf915089",
-      "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlVVcHdvUEdKckw0NWdqS1pycllYVExQSlFaNFlwQm5BSmRnM2pLZjR5NTZBcVdFTG14Z0JVNVJia2F1RmN0Zjc5NWdid1pHTnczbno0Zm5PZFRyUmhocmx6ZUJvZXVyZThDRkRUallDUklrLXU5NGY0TmNRQVFEa0JZb1JobjllNkRtUzlRTUp3SDNrbXIwcFRwMm1FUmRKUjBvMWYtZHEwZXpYRzF3dUpOc3B2Vl9rWTBXdFpvdzhQbEl5b2fSAcsBQVVfeXFMTV8ycmUzd2V5a1dTUVF1OTdiX1ZzYko3c1FjUmJ4WFg0bFlYc0JqVFBhVEhwUVJCTWIzUlVoZVZEbHdPYlJsQ1oxbnJYNFNfZGRDMXpMOGxyNDVXaURwU2FrZ2l6RndGR3Y3NlhmMGo2ZFMyVm5SR2dZclFkMG1kNkZxa0hTSC1BeTFRc1ZHWlA2Z204Y1o5Y3RHeW1lQk1oQjhxVGwxOUU1UlFaUEN0c255eldTVUNTVzFDbWthb05UTWlWTjJrVDlQWHc?oc=5",
-      "source": "PBS",
-      "published": "2026-11-11T20:26:20Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "68a6c4275035d5f4fbaa47",
-      "title": "US, China should stay clear-eyed on AI ties, Bessent says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-11T20:20:06Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "351392b31b9f8e22359202",
-      "title": "Why the data center you dread might never even be built",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T20:15:15Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
     }
   ],
   "countries": [
