@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-11T23:49:45.917516Z",
+  "last_updated": "2026-11-12T00:41:41.815619Z",
   "articles": [
+    {
+      "id": "2c799e4422bb3f88c0d257",
+      "title": "Reading the economy from earnings calls with generative AI",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1NGWDBXUzhOYVpGLW5nNGEyMEhzenU5eURLMUNQYl9MS3NvTl9GOFViRlNIZDFTV1NoeVBZWVJwMEN0TFJUSlpPZUZEZlFtZ3hkb0xsTHlERkRtVUUwUUIzWXdUUFRqUm5zNjBsT1NHNnhiOWxUdFhXMVdjMGxfSjVR?oc=5",
+      "source": "CEPR",
+      "published": "2026-11-12T00:38:54Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "11447559c3ffa7628a2d4e",
+      "title": "ABAC China representative highlights digital economy growth in Asia Pacific",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlhTb3hVczZLM3Z5bVhneVA1VGEyN1hmTVVuQVNJdmVqNkhUU3JHR0E4dmJodWZacVhnM0dTQ0txR1ZlOFBtekd2TDhOWXoyMXBMaWxmTjRfN21QWHo5enQyTXEyenQ2aVl6QlZpMDdidUx3cHhFUW1QVy1hd3Z4cVJyaDNFcWNqeHhveVJ0dEFnUE9Xb25tQjk5bi1oVU9fX0dZRXZmSHZ4M1loN2RtSHJlbDhQN2czRVRaRDBWOE9YLTExc1E?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-12T00:27:08Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "91c1994ddaa4620fc9f19a",
+      "title": "Who is Alice Huang? The woman at the center of Nvidia’s scandal remains elusive",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUltZl90MDVBWmEwY09sTVgtR1oxbE1pNzhjY2JKWWVQeHNQOU92bGwtRThwalpuWDJzM09Jb0hYYWVBY3BmTlhKcFFPS04yd2IxR1RzLUU1UFBiZ1Q4di1wWWFzRE1zT1pleHFIU1VPNkVyYVZacEpKNk9kcnZmVmo1R2EtWE00NDRvOHE2NHBfT0ctUkxBZWMwM3VkTUg4S2tzQVRXV000SWVGVzVHTFNCV3dkMWNabGExOTQ1enZKcVVoWEFR?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-12T00:24:27Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bef7280a8cf3e953a05b69",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "summary": "Office buildings with low occupancy rates are being transformed into flats.",
+      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T00:05:40Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "6b0875495d9978f4cce3b8",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T23:52:30Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg"
+    },
+    {
+      "id": "2c1c14009b34ac8bb9e2d4",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:50:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+    },
     {
       "id": "c80b16c4f3bf86c6aa9f5e",
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -14,20 +86,20 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
     },
     {
-      "id": "6b0875495d9978f4cce3b8",
-      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
-      "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T23:24:15Z",
-      "category": "World",
-      "topic": "BBC News",
+      "id": "83fbf9cbe6e3d33eee3296",
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-11T23:22:04Z",
+      "category": "Finance",
+      "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "b908c072a557d814cedf93",
-      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
       "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
       "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
       "source": "TechCrunch",
@@ -36,6 +108,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "id": "ba0f48ae267121daa50668",
+      "title": "New York building collapse kills one person and injures 12",
+      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-11T22:55:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
     },
     {
       "id": "ffea957c41531bf29ac4c1",
@@ -369,7 +453,7 @@
       "source": "Asia Pacific Foundation of Canada",
       "published": "2026-11-11T18:51:57Z",
       "category": "World",
-      "topic": "World affairs",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -674,18 +758,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "91c1994ddaa4620fc9f19a",
-      "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUltZl90MDVBWmEwY09sTVgtR1oxbE1pNzhjY2JKWWVQeHNQOU92bGwtRThwalpuWDJzM09Jb0hYYWVBY3BmTlhKcFFPS04yd2IxR1RzLUU1UFBiZ1Q4di1wWWFzRE1zT1pleHFIU1VPNkVyYVZacEpKNk9kcnZmVmo1R2EtWE00NDRvOHE2NHBfT0ctUkxBZWMwM3VkTUg4S2tzQVRXV000SWVGVzVHTFNCV3dkMWNabGExOTQ1enZKcVVoWEFR?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-11T15:40:30Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "56d14563c1c9200220bb2b",
       "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
       "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the [&#8230;]",
@@ -843,7 +915,7 @@
     },
     {
       "id": "f0436f3cc0219cb94eba8c",
-      "title": "Jensen Huang’s Affair Puts His Wife in the Spotlight",
+      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnZUcjVXMkhSOTVUZXkySjZOZWI3OU9FdWhjSkEzX3VaRTJGOWVBQzQwLUN3Z2NxeU01SXdFcGU0WDlzTGM1bDNUWDJkTDgyanJ5U25fVTVDbXdjVVdBbnN5ajBDblg2TXJ2WVRDTkh3NFVDeTN0TmFNZjVjSllIMjFTUVdRUmZx?oc=5",
       "source": "The New York Times",
@@ -1366,78 +1438,6 @@
       "published": "2026-11-11T12:07:42Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e754224b043f5de8867de2",
-      "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
-      "summary": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. Datacentres planned across the US, the UK and mainland Europe have proposals to ",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
-      "source": "The Guardian",
-      "published": "2026-11-11T12:00:48Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e02c6467688c68dcf20c030c14f064ae"
-    },
-    {
-      "id": "fd9d173c00e3b5f828921f",
-      "title": "Vestas Q3 Profit Drops on Lower Volumes, Broken Turbine Blade Incident",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanJJYmZoeXd5bzBLczZYTjFFVS1yRnBXUjU3RVdud25LQVR3aGJBNm1TeXcwbXkxWnRKV2VFVkV5UmRWby1Yb2lLV0FCMjcxemFCV0MzdUtZLUNpajc5blY2MFlxVGVwUGl0b2stT01oVkFPQWlIZEtxNElqWVFfVHoxOERTazlBUVNJeEViZ3NpOE9MVnc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T11:53:18Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2f7fb549418377106458e0",
-      "title": "Cisco Q1 Earnings Preview: Revenue Expected to Grow 22%, Wall Street's Highest Price Target at $170",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDJOTDd6aWlBVlVYSzJEUHloc25FQUN5R0pBQUhsUG9MZFMxajJQbmxsTFRudWxabjhKcUx0UmNKbzkzQkx4QmNkeHpaY054emJKWllVNEY2dlNmY3Q5dFhYV1lvXzhkd2FMcXZ5bFN6eFZzX3JlRF9jWTZYNmFQUWFRakl3Q25CSEhpZ2NGMWYxcnlTTktOMGRHalVPem9UWlNFYzNQSk8tZEhZYWI4VVNlMnRTNmRUdUI2TG1Db1hvdGxsMHc?oc=5",
-      "source": "TradingKey",
-      "published": "2026-11-11T11:48:45Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bb354b722b4500e49fb1f2",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T11:47:22Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "3a4dc98c55160b4fb3ab73",
-      "title": "How Lionsgate Intelligence Network Aims to Bring Financial Fraud Intelligence to Accounting Firms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDBPbDRvVEZKRHZ5d0h5bFdmdnZQMUttYXdQS0NqQklvLVFCQjZpc3U4cVFyVVBHcVlBWTFWUHY4TmlBdFhINFZKOVUwTEo5d3JKM3B1QzlhRF9HZGlOY2lkZjlNUXRzMmNRRjZjRloyd184MWhneVRaV3N1a3lSSS1YUURYZXBsZ3BsaHZyS0lma2VUYXZZbjQ0RDY3MmVBSXZSNVVBQXhmZGh0ZGFiS1cydFUyZndlUURqeDRxUW1rTE93ZnE4cXFyUjM2NUdkcFRWUA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T11:43:11Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c9f58614669f054fe8b06d",
-      "title": "Are Wall Street Analysts Predicting KKR Stock Will Climb or Sink?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3NiLVFhOHZablNtYmgwbjZmOGhMaUlGZUdmQ0xFaE5iY3E4dG9uVkRkQ19sbmVnUUVmTlBfQmRCWnpCWlBxQkVYbjl2S1ZNSjFFZUxvVWxjUTJrYlNzUlJqMEs2cXlFU3NUSlhncmlqc2lGQThHOU5kYl8wWk52UkQyNm9mQzBndkM3cFJxdjEweXZTZU1iOERsQlQ3bXJXTHc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-11T11:35:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }

@@ -1,5 +1,53 @@
 [
   {
+    "id": "2c799e4422bb3f88c0d257",
+    "title": "Reading the economy from earnings calls with generative AI",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1NGWDBXUzhOYVpGLW5nNGEyMEhzenU5eURLMUNQYl9MS3NvTl9GOFViRlNIZDFTV1NoeVBZWVJwMEN0TFJUSlpPZUZEZlFtZ3hkb0xsTHlERkRtVUUwUUIzWXdUUFRqUm5zNjBsT1NHNnhiOWxUdFhXMVdjMGxfSjVR?oc=5",
+    "source": "CEPR",
+    "published": "2026-11-12T00:38:54Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "11447559c3ffa7628a2d4e",
+    "title": "ABAC China representative highlights digital economy growth in Asia Pacific",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlhTb3hVczZLM3Z5bVhneVA1VGEyN1hmTVVuQVNJdmVqNkhUU3JHR0E4dmJodWZacVhnM0dTQ0txR1ZlOFBtekd2TDhOWXoyMXBMaWxmTjRfN21QWHo5enQyTXEyenQ2aVl6QlZpMDdidUx3cHhFUW1QVy1hd3Z4cVJyaDNFcWNqeHhveVJ0dEFnUE9Xb25tQjk5bi1oVU9fX0dZRXZmSHZ4M1loN2RtSHJlbDhQN2czRVRaRDBWOE9YLTExc1E?oc=5",
+    "source": "巴士的報",
+    "published": "2026-11-12T00:27:08Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "bef7280a8cf3e953a05b69",
+    "title": "From Paris to DC - why offices are being turned into apartments",
+    "summary": "Office buildings with low occupancy rates are being transformed into flats.",
+    "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-12T00:05:40Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg"
+  },
+  {
+    "id": "2c1c14009b34ac8bb9e2d4",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch",
+    "published": "2026-11-11T23:50:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+  },
+  {
     "id": "c80b16c4f3bf86c6aa9f5e",
     "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
     "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
@@ -24,6 +72,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg"
   },
   {
+    "id": "83fbf9cbe6e3d33eee3296",
+    "title": "Some under-25s should get less benefits, Milburn review to say",
+    "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-11T23:22:04Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
+  },
+  {
     "id": "b908c072a557d814cedf93",
     "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
     "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
@@ -34,6 +94,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+  },
+  {
+    "id": "ba0f48ae267121daa50668",
+    "title": "New York building collapse kills one person and injures 12",
+    "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+    "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-11T22:55:26Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
   },
   {
     "id": "ffea957c41531bf29ac4c1",
