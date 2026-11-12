@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-12T02:51:43.745691Z",
+  "last_updated": "2026-11-12T03:39:04.050890Z",
   "articles": [
+    {
+      "id": "a552875406bb3160c61364",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T03:13:10Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Congratulations-Nvidias-New-CEO.png?resize=1200,675"
+    },
+    {
+      "id": "6841decacc30c1ada2d096",
+      "title": "Taiwan to send Acer founder Stan Shih to Shenzhen Apec, calls for ‘equal footing’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHk1ZElOajUyOTZnQjF1VHowblRJR1BWZG8yeF91eU1ONWtsYW9seFdCSm5IZXk2THlSc1VnclRfdzFmYUFrME1wUlhacjhSMHhLeG5mT01CSG5mbl9ZLXNocy1fZ3VfeUowOFA5eS1xb2xBVXdVdGJseFl5UE5kZ1FtTFpzb0pOR3JXTjNBYVp5YmdWeGRTQnlvZWhaYzZwNHVHSFRSN3ZLOFZpUjM0ZFBzQ2VyQXRsZmx6akJRWFlKUXM?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-12T02:53:34Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "18102afc45108ab51ef2cd",
+      "title": "China's high-level opening-up drives connectivity, cooperation across Asia-Pacific: experts, entrepreneurs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc3pybXU1cEQwUDZObWtqb3JaX2xKSEI0S0Yxc25GRklGSjhQdDhtM1ZRSnVBNHdOZXFCUFJ4QllGY2t5NDdGZDl5MUJ3NmlzMURLWk0zQWMxdElPdnIyZEV5TndyeE96dkZTbGVudWF2aFUtR2lxNVdFajFXRjZKVHpCeDdkWDhyWFJHOHNJS0JQZ0Jjdnh3ZGRRb1I0OFVNNmZ5RXRNT2FCcjVlR2JUaHJWTGJZQzJsNnk5MGdyTHA2MW5BNWR4Z3dJNGR4ZmlrZ296ckFYeGZBNDhCMU9XbFR6VHVWZ3E1Qnc?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-12T02:47:07Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "831fcebeb3f81a493d0397",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T02:40:18Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png"
+    },
     {
       "id": "f00d6e2e6acb11a692a180",
       "title": "The Importance Of Opening Up Chinese Cities To The World – Analysis",
@@ -46,18 +94,6 @@
       "published": "2026-11-12T01:56:26Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "739143146317ebde2a44c4",
-      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-12T01:55:18Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -410,6 +446,18 @@
       "image": ""
     },
     {
+      "id": "88c1afe3ff8ebbdf915089",
+      "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlVVcHdvUEdKckw0NWdqS1pycllYVExQSlFaNFlwQm5BSmRnM2pLZjR5NTZBcVdFTG14Z0JVNVJia2F1RmN0Zjc5NWdid1pHTnczbno0Zm5PZFRyUmhocmx6ZUJvZXVyZThDRkRUallDUklrLXU5NGY0TmNRQVFEa0JZb1JobjllNkRtUzlRTUp3SDNrbXIwcFRwMm1FUmRKUjBvMWYtZHEwZXpYRzF3dUpOc3B2Vl9rWTBXdFpvdzhQbEl5b2fSAcsBQVVfeXFMTV8ycmUzd2V5a1dTUVF1OTdiX1ZzYko3c1FjUmJ4WFg0bFlYc0JqVFBhVEhwUVJCTWIzUlVoZVZEbHdPYlJsQ1oxbnJYNFNfZGRDMXpMOGxyNDVXaURwU2FrZ2l6RndGR3Y3NlhmMGo2ZFMyVm5SR2dZclFkMG1kNkZxa0hTSC1BeTFRc1ZHWlA2Z204Y1o5Y3RHeW1lQk1oQjhxVGwxOUU1UlFaUEN0c255eldTVUNTVzFDbWthb05UTWlWTjJrVDlQWHc?oc=5",
+      "source": "PBS",
+      "published": "2026-11-11T20:26:20Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "68a6c4275035d5f4fbaa47",
       "title": "US, China should stay clear-eyed on AI ties, Bessent says",
       "summary": "",
@@ -468,6 +516,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-10.05.34-AM.png?resize=1200,842"
+    },
+    {
+      "id": "8e837f16f2285068b24b2c",
+      "title": "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXQ1dGNTQVlqczc4M0dfV2VGM1pPQ3BiSUlaWnF3eGZZNkhXWHBDc1k5NlNMT1JRMmpoYzktT1hFbU9HOHg4aUswdU5QNnJremlSc2dzSkthZjhtMjJ4MlZRblZkZktkNjR6V0FKM2I1amQ2Tks0TkFZREJFSVZSZUJjOUdkZjBiNjlia2VsRzJoRFZvQ2xuZEdTUQ?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-11-11T20:04:02Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "b5832023985142399047f9",
@@ -538,6 +598,18 @@
       "published": "2026-11-11T19:00:04Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8fd84840ea553bd62104d9",
+      "title": "The world’s economic rules are changing. What’s at stake for Miami? | Opinion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pN081Tm9DZksxeHBjLUlFZTJpTGNpOG9PdHFQN25GSXBtc3VsR1dMcU14cDNHR2hjMk5xalZGV3Roc0lxT1liNTI4angzUURxRjhuTWR3bEh2ZWNMNy1nZkFZWGNhMXloMlZIWmtUbGTSAXBBVV95cUxNVDZNdzBCNEh6OXdZUjhwdzdXaVhQNm5xdEFZbDRUV3huRkpxS1lHcmtRSlM4TmRUanFQQW5lSkN6YXVteXdwa09mYnBFMGtpT1IxWHFxSkJ1Z2xFQUZLSUlmeVhKcm5qeTlEelhsYkhJ?oc=5",
+      "source": "Miami Herald",
+      "published": "2026-11-11T18:53:30Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -962,6 +1034,18 @@
       "image": ""
     },
     {
+      "id": "0a1d94c674cb2666a0d7ba",
+      "title": "Stellar Startup Storage Technology Vendors To Know In 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFRKWFhZXzBKNjZRVzBZY0psaXdSUEt5dnVPd2ZNd3ZvazlVOTU5VF8zWFhuQ0ppaV96YmxKS2hDSXhjYzc0djBDY084LURmQjRmakxmUmlob3A5cmtLWXREMlN1MXNOUzQ5RjFfSTJmaHhkTmZRV2hxa1N5U1VQRTdza2QxbWpIWS1majRwUFdmOEk1NWFkZ0I5d0M?oc=5",
+      "source": "crn.com",
+      "published": "2026-11-11T15:09:23Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2e3cce707450618b22408a",
       "title": "The Midterms’ Foreign Policy Story is Local",
       "summary": "",
@@ -1356,90 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c50afb97023828d196875b",
-      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-      "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-      "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-      "source": "NPR",
-      "published": "2026-11-11T13:30:00Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7854x5236+0+0/resize/7854x5236!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fe5%2Fc440fa07484eafad83691a255e57%2Fap26314378728116.jpg"
-    },
-    {
-      "id": "9cf8524a1e8d5fa81ef6ed",
-      "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVkF1bXdvcy1DbUJKbDlEajZtbGFER19JbEJEVkozVGg4ZU9QU1lGQkhfdzZUY3FUMV9VTWxYZUQwa1JyZGlhLWM0emJRUnc2aFhwSkhZeXBpTXJ0NFZVaHhKZ0dEeGhma1FxNXNyUmxDTVJFY3JTOVZxUlpwdjN6NzlpUjNQck1oeU5fQ2ZPeXl3OHI5YVYyem84LVhyc3Uza2hBT1V0bmNwQnBCMFVzRHQ1ZHJWb1lYZGVwRUFreWFMd0JsUDJvRnhHeU14WER3VFNLWVZQVGkwQktX?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-11T13:27:29Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "57ea874114065b873c9ee2",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T13:25:47Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg"
-    },
-    {
-      "id": "2487502ed7655fd16cdfc3",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T13:24:29Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "f8982d83e823691d20f299",
-      "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXVYMVN4eno4WG9IQnlHbzdpY3k2RXlBeW1BTjd3MlNFNTNublFmLU9maFBTVzd0WjkzUE9WZXdJdks3Z3p4b3ZkZ2lNVHY5el8teTNubEwtZm9BUU9NZDlMVDgtUnR2UjVQTlF4QmtkX21nYS1GcmRtS3luTFAxTnRuaFlmY0NIck1XNnRhY0c2SUZmZGt4NHlyaUlQbnZ2WDNRc2RvNGN3TUprak5EYktWZW1ocjlLNFJjWGNWaGlUTGFMWjdLQW5UYXdKNjM5?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-11T13:19:44Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "77fddc8510680f32f5ed17",
-      "title": "Forbes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9NTXFhcFVxM0JtVFNQTUNIQzFVbEo5dnhjY2JHc1hoaWpfTkVsUTRieENyNzRjOGtwNnlr?oc=5",
-      "source": "Forbes",
-      "published": "2026-11-11T13:15:45Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "13b9ebf99efff659ae375f",
-      "title": "China’s ambassador sings praises of APEC",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGJudHhNaGRzdWMxclpWVG4zNWpkWTQtNEVveEJ3emloMVhoOU1McXNlZUVfbTV5N04yaVNEcERGWUkyN1RGR18yOEEwZGhTalNfc2czRUN1SlNOc3lYLW5XeFJJLXRhUkJBclM5QkNJc0ZvM0h2QUJ6N1BHUjBLQUpXdkN4b1pPSVJ2NEExZ084c0ozM0RlaVpvNWJUdkpfWVhKZ3U3bThSY2Zlb0xIMFVZaGdNQTBtdk5XUGdiT3J2cHIzcVdQalY4X1V4QQ?oc=5",
-      "source": "The Australian",
-      "published": "2026-11-11T13:03:21Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
