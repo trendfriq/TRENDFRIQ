@@ -1,5 +1,149 @@
 [
   {
+    "id": "0c7011b5ac2f323feefd2b",
+    "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+    "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, in",
+    "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+    "source": "The Guardian",
+    "published": "2026-11-12T13:08:12Z",
+    "category": "Economy",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/9f8f14e2a01ec8c9a4d21b8b65ed45042405e31d/820_0_5862_4690/master/5862.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bb7e9764b304a7bfe1777acfe980fe9"
+  },
+  {
+    "id": "c20da2f52115f64534ff75",
+    "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+    "summary": "Nvidia shares fall in pre-market trading after report of Huang’s second affair Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board doe",
+    "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "source": "The Guardian",
+    "published": "2026-11-12T13:05:23Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
+  },
+  {
+    "id": "42327152d90ec1f59a0665",
+    "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+    "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-12T13:02:37Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
+  },
+  {
+    "id": "cdd0038d389d24523de996",
+    "title": "A 25-cent dividend is due Dec. 14 as Cohen & Company revenue falls.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDhLWkpsZmlIN2IydDhEU1pkOWFvZEhWLTRsV25aRjBBZ1BsV19EVmhxY1JKQmRISFBwZDVORG5CckVwNGFzV1Z4QnFMRm1hVmtmX2dXZ3VpMGFrdWhHaTd4U2JhNVBpR0I3NmVkRkItQVNpcTZnZjBvSUg2cGtLYjVGd2hxLUllcEhCbU82eVFIbmZuLXA2WUdvaHU3RVRYaURHdm9WSEE?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-12T13:01:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1c6ae1d0ae99dfe1bd0b8a",
+    "title": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjJaT216MzZCelplQVFBMzZTRkl5cWZPYm9kaG9DU0xBUDZwUC13TWtaUmN1V2VBVTR5M0t2dWlXa3RKY0hPd2owZ01zQXdZOWFSU3kwcy1fdVd1YlF6S3hOcDZXalZCakpncUZrSkRKdkxya3IwTjd3V0ppem8?oc=5",
+    "source": "The Guardian",
+    "published": "2026-11-12T12:39:00Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ef102d4e7eb9ef7e9fcd13",
+    "title": "Central bank dilemma: no easy answers for a new set of economic challenges",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3N5Tmg5R2RmZUF0cnNremN4RW5aNEtac0NtWEZfaXRQa3JicklzVHZ5SXRwU0NGZEhwMWNVaVJ3MndaNUxCUHBKUFhlT2E4SVg3TjFnRzgxRVpVbXMzMGd1WlR3QVhjVGo1T0Fuc3ZfV3VHTVZuNldTTXhEZkdhazBOU1d6Q0Z4YUxDZ1FMaEp0TV8wVF8tSmxPRmlqSXRrQWhjcVdMd0tncDBCRnNuYw?oc=5",
+    "source": "Natixis Corporate & Investment Banking - Natixis CIB",
+    "published": "2026-11-12T12:33:15Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a8382a2c7fc7e8f6cf0458",
+    "title": "Nexxen's connected-TV revenue hit a record $34.1 million, up 39% year over year.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXpyS3E4Y2J6OWx1VTZMLVNKRFFwdnpud3ltMTRGZHNSeFpIZ2pmM00wdmJRRWpTT25sa19ZQXA5TWwzeDhmTF9WSTB6WkNERkNCZWpTeENPeDMtOFhMbi1LRXBjU0NscTk1c2tyMVVOT1h3QlMxd2VoODlxZUQwMlhlbDMyZ0RZNzl3RjlXdWxZeDRuR0JSek9rYUI3cDZmbVZMNWFUang?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-12T12:30:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f19118e6d3c8739bf6f581",
+    "title": "Why Did NFLX (NASDAQ:NFLX) Shares Slip Despite Higher Profit as Ad Targets Were Trimmed?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYldQR3VBWjdLVkZsODFqUk04cTBKREgxdnhfbDBFUFJ4cWo5SzJCMkh6Y1dMM0U0UWw5QzVuQ0ZlUlV2ZHF1R09ZVGFJSUJ2UVZBYTRmWUxDNDlEcE03UzhVZmpfZzVNTEpKX0hfYjFQWU5EZ3U2V2g3NlVaLUtBcHZ5V2VrRUFkc25JMHQyUjFzT3VwMXJTbTkwclp6V1NUUy1oUGxlcm9xMG1SNXBnUWtiMjIzYko0eF9YNFMyTzF5a1ZiR2xmYVRpNzJCUQ?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-11-12T12:26:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "deacd9d56d0aca247366ba",
+    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+    "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
+    "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+    "source": "NPR",
+    "published": "2026-11-12T12:15:48Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8221x4624+0+428/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2F71%2F2fa955a34abdb2dc30fb0e82dde0%2Fgettyimages-2304701717.jpg"
+  },
+  {
+    "id": "c32261cf7062241833b092",
+    "title": "Armenia joins EU Customs and Fiscalis programs",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vM2VaWlFVNVozdmhZWHVfR2d6MDJlVXNiODhsa3lXLTh6RWVnTThJd1B3UG1rbEt6SlRfNVkwdXFQZWNuaFlHZTNXbUpJZHdfbVHSAVdBVV95cUxQam1VODNPbThRclZkckRIdkdFRHFFdUw1aFhPWkxWanU2WlhKcG01dU1fNmNuekNLdjJxVnplUHcya3RudEJVcUVZSUJMaGFLZlJTMnk3dTQ?oc=5",
+    "source": "Armenpress",
+    "published": "2026-11-12T12:09:00Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ddee4991dba8e23165dd8a",
+    "title": "AI, ICE and China speed on display among Automotive News PACE Award finalists",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1dvcE5NVXl5bEZGWFN0RVV0UkxEM1phLW44SVlqUTFwOHdIYmtZMFcwZGwwb1ZrR1o4Z0xlZDZjWFQ5YUpSWnBQZ29NaDJtaDhSMG42dVNBMjFFX1JDMnhtWDFaWEUyZ2NILVVGSkQ5ZVZBOXg0UHRhb1NsQzhFWjNmMS1SN2RVVmwyQkRGX1RURWxlVV9LUWhXNGx0TnYyVmc?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-12T12:00:00Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "60bb4c52c45c270d41ee3c",
+    "title": "Economic Key Facts Germany",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVRIQXpYazFRal95NkxfdEtWUFpVZ0syajdGMjhZZmppUWU3emlna2M4NnZ5RXBaa2g5SUtGUWs0Ull1WnhLSXlMOS1zNG9zV1JCVXVRTVZiZnprWjA0elRvbXVQOTZpYlhZeG5ONWNjUnM4MDJFOUJMQjNUVk80cw?oc=5",
+    "source": "kpmg.com",
+    "published": "2026-11-12T11:57:41Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "ed705dd8a3a1df2223a6c5",
     "title": "Commentary: What the midterm elections could mean for Missouri's economy",
     "summary": "",
@@ -24,6 +168,18 @@
     "image": ""
   },
   {
+    "id": "01f897925aa1932d8bb107",
+    "title": "[Opinion] Embracing the Asia-Pacific, connecting the world",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81S1h5b0hwaERONW5CbjNYNG04ZkZsTmQxRkx2QUc4QkFZYjBNUm5ldlpBX3o3ZmpWWkk5U1kzQTdld05Td2hYZUNPellCSGZoSVg2OEFrWG5GZ3lQLWU2eHFsVnBqU1Ixc2c1bGl30gFuQVVfeXFMTzVLWHlvSHBoRE41bkJuM1g0bThmRmxOZDFGTHZBRzhCQVliME1SbmV2WkFfejdmalZaSTlTWTNBN2V3TlN3aFhlQ096WUJIZmhJWDY4QWtYbkZneVAtZTZ4cWxWcGpTUjFzZzVsaXc?oc=5",
+    "source": "The Korea Post",
+    "published": "2026-11-12T11:18:49Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a73a18fdc817c1b6c509bf",
     "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
     "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS [&#8230;]",
@@ -34,6 +190,42 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3aa89ba53715ee665b0924",
+    "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
+    "summary": "Rallies take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are holding rallies at over 40 college campuses across the US on Thursday to support the Starbucks Workers United boycott campaign as the union nears five years of deadlock with the company",
+    "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+    "source": "The Guardian",
+    "published": "2026-11-12T11:00:48Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/ffdfa7a208647db76be86a3c05984b8303af9ed1/376_0_5493_4394/master/5493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e22f98a8c255d5c3f5761feecc0ef07a"
+  },
+  {
+    "id": "e87aacabb74e4e98fb120a",
+    "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
+    "summary": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology. Health bosses had ",
+    "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+    "source": "The Guardian",
+    "published": "2026-11-12T11:00:47Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/95c422c3f4ddb97d445e586e9da99aba18c88ab1/373_0_4131_3305/master/4131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2af18268d9b282a2bc0e29d15d7e679"
+  },
+  {
+    "id": "3519de8795face3c22fca7",
+    "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
+    "summary": "It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind. Is this facility in Falun the best datacentre in the world? ‘It was pretty cool, when they were building it. It looked like a very large Ikea,” says John Wernvik, of EcoDataCenter. He is giving me a tour of their facility in Falun, ",
+    "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
+    "source": "The Guardian",
+    "published": "2026-11-12T11:00:46Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/6f4053626333cdd94adcb884ccef812b559854a9/247_0_2901_2321/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4a93a9ec27f7af79b36d82a0be483d7"
   },
   {
     "id": "512401664ae08ed292faaf",
@@ -180,12 +372,36 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
   },
   {
+    "id": "54357cd298258e02bb2450",
+    "title": "Ireland faces pressure to stop sending Russia ingredient vital to its war on Ukraine",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1JDaG9NU1ZrUlpwdUh4SHNKTTQ5eGQ5enFldVdaYWtSa1YzSHhuNlNfQmNnVURJNm9ObEY3YzllQzJBeVM1cjdnYlpSeGdNc0djUjZYZFFKbXlrQk1INEthTm93REVtQmcwRjJEQmRlWFJtWjY4a0N6N1l5TzlXRVhvWFJSdDJUU2dDeDhpbHhBMkpiMnZwYktDY25FVVZkaXpfRlZJdUc0WEtF?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "2026-11-12T10:08:24Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "2d45cd0b0d5a12bb248285",
     "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1JDaG9NU1ZrUlpwdUh4SHNKTTQ5eGQ5enFldVdaYWtSa1YzSHhuNlNfQmNnVURJNm9ObEY3YzllQzJBeVM1cjdnYlpSeGdNc0djUjZYZFFKbXlrQk1INEthTm93REVtQmcwRjJEQmRlWFJtWjY4a0N6N1l5TzlXRVhvWFJSdDJUU2dDeDhpbHhBMkpiMnZwYktDY25FVVZkaXpfRlZJdUc0WEtF0gGyAUFVX3lxTE5HMWYtaVYtZmhoRlBYSGJzNkVQeUdNTGF1TWZXVWdwM0lwZnZaNXJlRkVYQXhEV0ROSzhGTTU2eWdRSktYYXpVdmhGLVhqRDd0aEhDOU9hdlhjc191dU85WURuMm1WQmx5ZnZadVk4cVcyM2FZRm1CcXlBLW1Ia0kzTGZVYnE5SjFKcDRqX2NZaDJfbVd1UzZhU3JRM1Q5QUU3bTRqVXEwNzc4RGhDSUVwNVE?oc=5",
     "source": "ABC News - Breaking News, Latest News and Videos",
     "published": "2026-11-12T10:07:30Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "80fb3730180c5461843e73",
+    "title": "Intact to run European specialty business from London via new UK branch",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVBhLTVPWnV6VU9BVGVmdHY0MFRqX0x1MkVFSXpqN1VJbWdDdVR3S0dZbW04cW54c09nRndmVjgxaWZzVkczYTVpenA1elpyTG1zd2EwS2dYMVRZaDBmRXo1RzgyZDFFZ0I0RUpKa2tMQjJQUlR2MUxEbGxFSVZaZVAtVW5aV2gzRVp3a3g3SWpKanl2TnE0V0ZUY3ktV0dsNkxlOGdyNk5uT3BSMld1TnFVTEhGZGNNd3Zoa2VBVVgxQmJxdGI0LTJvejdpVVNMQllPUnI4X3owQQ?oc=5",
+    "source": "Insurance Business",
+    "published": "2026-11-12T10:05:51Z",
     "category": "World",
     "topic": "Europe",
     "country": "",
@@ -200,6 +416,18 @@
     "published": "2026-11-12T10:05:02Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "70847effe3bc5ab1dd370f",
+    "title": "Africa's third-largest oil producer is using an oil windfall to fuel a diversification push, targeting $2 billion in non-diamond mining and rare-earth investments",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbjhFWEJpSVFFbDVJQVcya1R3cnRhS3lnandQN2UtSS1HbWM5N25JSDYyUno3aUxiM0sxQkg3aWRaWG5fTjdESGRXZUJRQnZNX0VZRk80cE1JejFKOUNGck1zUDAzQzZhNUxJaFdrYW1rTHk0WTI5ZDZhdnlvYS1JRE1YbXZNT1VydXF6aU5nc0wxeVdUUzNYTEFuTW4zWUc3LXNYdHBDSmFPTnJrYmxrbkdhQTRHLVUtTnFpQmllcEtBejZ6UnFWcXJjOF96X2EzT2dwcDdtbjF0UQ?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-11-12T10:01:58Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
@@ -244,6 +472,18 @@
     "title": "Ukraine's ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war",
     "summary": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
     "url": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraines-ex-foreign-minister-kuleba-on-prospects-for-peace-in-russia-ukraine-war",
+    "source": "NPR",
+    "published": "2026-11-12T09:40:31Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "92ef67e6196746c57bff54",
+    "title": "UKRAINE EX-FOREIGN MINISTER",
+    "summary": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
+    "url": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
     "source": "NPR",
     "published": "2026-11-12T09:40:31Z",
     "category": "World",
@@ -312,6 +552,18 @@
     "image": ""
   },
   {
+    "id": "836f0a58e20f7474e637ed",
+    "title": "Top 50 English-language news sites in the world: New York Times bucks traffic decline among top ten in October",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmduWnZNVXc2TzZCMlgxS252a0pzdnBDR3c3MXRZMjI2U3lVMzBqNU96aVdabldJUUVYalpCSDNHYnFSRTlvYjRrb0lSVVJMdmdfUDk2bmo0X2Y3QWJnWHZ4MFZHR0dhVmE3aEVBdTZFemhDT2pqdXBibFBUTV94V1pISWxSbU9SUUl6Z2hGOVQ2SlZjc05SNDBiUFN5UV9DTXFBRG0wTkNGZHRObC1KbFV2aHdmRFA5?oc=5",
+    "source": "Press Gazette",
+    "published": "2026-11-12T09:32:16Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "29d4286ab55b868aaa8c90",
     "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
     "summary": "The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.",
@@ -322,6 +574,18 @@
     "topic": "NPR",
     "country": "",
     "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "bb2165a917b43c7c8188ef",
+    "title": "EU Court Adviser Backs $1.7 Billion Antitrust Fine Against Google",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmhQU08zWldEaS1zY3ZMWXp5VmJSd2FLX0t3ZkluNzJsOGQ1T2s5cHpsS2Y0SVQzU3l5RlU1Mmx3S3hYbXgzNlhjSmVuYWlLeDdXTldyR3dnTUt1RHhhOWNaMjN3ZE4zSnNTQnNxYXNYT1BsSzltbVAyR1dVVkVZTGU4RVNPN3NhMU1rNHk3Z0dxbDJYNjJqM0tlTVFCbmhkOVE?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-12T09:31:16Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "3d7ae6ba33672f45b8ee19",
@@ -428,6 +692,18 @@
     "published": "2026-11-12T08:44:01Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5f2271e616d5195500bb25",
+    "title": "【Columbia Works FY2026 Q3 Earnings Call】Revenue Rises to ¥29.5 Billion but Operating Profit Falls 2.9%; Company Maintains Full-Year Plan of ¥7.6 Billion Operating Profit Concentrated in Q4",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45Q1dPUUtJemdUNm9mR0R0MnRDNjd3eXpWSVpiY2RHU1U2Wk1Ua2xpdkI0R0lNUWREcDhpZ2NUR2xrbzI0Rmg5YUxldlk1VlVlWG5rcGhPcGFjYms3Z3ROdA?oc=5",
+    "source": "finance.biggo.com",
+    "published": "2026-11-12T08:44:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -696,6 +972,18 @@
     "image": ""
   },
   {
+    "id": "adfc78e584fc52e6652fe3",
+    "title": "AMC Global Media: 3 Key Takeaways for Long-Term Investors",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVBkNThVLWd6azVLNnZFYmRqYkJadllZdVREdFg2TGJ5MVdpSzBPRkc4OEFVN2tPSTNiZEpHeDNrcWthb3I1NFFuRVVGSWZfMlhuOG5rc0h1QnU1TlJReDNUU3M2SV9OaDI5VHdpb2hWNHE5akpkV2xVTjN6bjFKMnJkRXQ5ZlVWekUycklJM1o?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-12T06:28:13Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "cea45bc013e0c138db091b",
     "title": "Pakistan pays $14bn in external debt servicing",
     "summary": "",
@@ -764,6 +1052,18 @@
     "published": "2026-11-12T06:03:00Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "738c8579c3a8215bd7d6b2",
+    "title": "The Equity Cushion: Why U.S. Debt Hasn't Shaken Markets",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmJwek1DTjFBaGZHOWpCYmZvUXNVWmROeFFNZVVlMzBJUFo2eXRWU2FQU0tOVWxpTEFZREpWQ3hKdk5JeXY1TDFHVV9VYVBPOGRuOFNoS2dmRl96LTk0U1pNQ2lJY3duN2ZKRnJBUG9vVVNSbTg3WGNhel81d0h5V2RrSFd5by1KS1NxYW5oV04tQQ?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-11-12T06:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -908,6 +1208,18 @@
     "published": "2026-11-12T05:03:00Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c6350c4bbb7b2de63fe7a9",
+    "title": "France signals support for Spain’s ECB presidential candidate",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTdrdm40LTlaTm5JbjdReXhsYUV1MERjdHF4b1pUcWhmUm9zMmE1ZmpIbXVmWjQ3aVBDdUVWUXB6Qk56OWJ6WjV5QTMtN0hLd0h2WFlqc3NMNURnVHp3WmpiWFBMbDFhQVNfRlBDM0pBUGRBdDlnOGdVRVAxWDh1dE9FUi0?oc=5",
+    "source": "Financial Times",
+    "published": "2026-11-12T05:02:25Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -1172,6 +1484,18 @@
     "published": "2026-11-12T01:37:02Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d030552c5fa7b581cad443",
+    "title": "Richard Halkett joins Accenture to lead OpenAI business in North America",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjJFTVhjWW9VbEQ0YXZNQzdQd1pLckhWSFhfdWU1a2VtZ0R4djliM3hyUDhVT0xJX2pMNWM4VC1RTmRTVjY1bWpwbWlVRFJaNzIxVEJXZkx5Z0VMQVM5NzRkTXVDa284dlVhazlWZUh0NGxqejE3dUdfUVdLUm10YW9raUxCNjNmWnV0MTRmaUVDOWR0S1JQN2NKczJlTVlBbXlpQllkZ3ZsaXhKZXJVYlliaw?oc=5",
+    "source": "EdTech Innovation Hub",
+    "published": "2026-11-12T01:01:53Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -1738,6 +2062,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
+  },
+  {
+    "id": "2a3822729af934c366da78",
+    "title": "9 Major Economic Events to Watch Nov 12–25: Bitcoin, Gold and Tech Stocks Face a Macro Test",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1la2xxcVhJZk50ejBvRE0xWExncnhROE9FeE1HZk5fankwNGJJY2VXSFFBRGRPNGFkTHctbEszUTBoYnpYTTlpZXdvdmg3RDJKNVF2RFRnakh0djQ?oc=5",
+    "source": "Cryptonews.net",
+    "published": "2026-11-11T18:31:01Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
   },
   {
     "id": "0fb1a1381d8bc6fa9a0805",
@@ -3320,6 +3656,18 @@
     "published": "2026-11-11T09:31:28Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8195b33aa4b97c8e169186",
+    "title": "Google Launches Access to Gemini 4 Carbon AI Model",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hd3B4LWxSanBMbEs5eFJKcmtqaEpzSHRvMEhlNzlQYUpvNHh0NkZxVkIzRjVxRWd4a004X3pIVl9tbVdBOFFMd190cmJhUmhnTS1WZUNKM2c5THRwT0ptOFdINmxCNmVzaExJX0N6cEI5ZE1PWjA0ejFBNE9KZk0?oc=5",
+    "source": "ForkLog",
+    "published": "2026-11-11T09:27:03Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -5458,6 +5806,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/sundrop-promo.jpg?resize=1200,675"
+  },
+  {
+    "id": "12fd9b20d5c599cec37f31",
+    "title": "The science and practice of monetary policy communication: the ECB experience",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHBZU1Y0T2dsN1NxZlFsY2EzMlZoVkJHdDVmT2tOQTVtYWNIakNQMUhZaUZCc3lSZTJNTDFOQXZGbEcxcW1UQnpEZDVLUmhUbE05bG9DeHdEbDFZN0tMVmQyeEN2aXRHRXlIRW1RZ042bnh0Y2ZIeTFWWUJSaGQ2VkdHNEx4QlUtckFMaQ?oc=5",
+    "source": "European Central Bank",
+    "published": "2026-11-10T16:49:52Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "76b2fd9006b361a5586472",
