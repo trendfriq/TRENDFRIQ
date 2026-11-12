@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-11-12T10:00:13.978462Z",
+  "last_updated": "2026-11-12T11:02:29.335774Z",
   "articles": [
+    {
+      "id": "83fbf9cbe6e3d33eee3296",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T10:49:27Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "d591981f32d42e1768840f",
+      "title": "New York building collapse kills at least two, officials say",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T10:40:49Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
+    },
+    {
+      "id": "95b967f0c6e9d94f667b32",
+      "title": "Europe’s Business Confidence Recovers but Inflation and Public Debt Threaten Economic Revival",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wb1UzTkdZcm5UN29nNE5Pa2FmWEtERjRKaUIxYnJwTVRSY19PNFF5cWRzRWU2YzdkeFdPZEhBZGs2VlB1OG14Mk9FamNvUk92eWZIWlJBbkxLdmltbFdZOWZPemN5NTkzMUpnMXpoMlpKTWFGVVdFSXZZcXBDRWc?oc=5",
+      "source": "EU Today",
+      "published": "2026-11-12T10:39:45Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a603fb20f5ffaf854aad0d",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-12T10:37:00Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "1b127e2f67ca793c7cd9a0",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T10:35:05Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg"
+    },
+    {
+      "id": "c220000865681988a5f9fd",
+      "title": "Merz digs in on EU carbon pricing despite backlash",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmdhZWMtZEdxbEUwRm9YRGprdWU1UnF5VnFUb3Z5TVV3WVFfdDZlcjFGM3d0cVprV2dlNVYwVXA2Qy1udjZfUHVyME56UjUwcEIwbVZGXzZPYTE0X3FrT3FBTE83MW1sbGU0bEs3UTVTY1IzWXl1ZDhlNnZGU19GWmZFQV9ESmJzeXNyM0dLbURYNXQwLVg1ckNfUzg3c0xMWVlxZnFQY1h3V0UyVDUzbUlOSjZGUQ?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-12T10:13:55Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "44a008dceb764579bf71fd",
+      "title": "British woman missing from cruise ship in Atlantic",
+      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T10:13:35Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg"
+    },
+    {
+      "id": "3b91ba7e13ac7316cd2723",
+      "title": "ECB Uses Reddit and AI to Gauge Retail Investor Sentiment Fast",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVW1BVUlWZFZ3LWM0YXhUcjZtbWtldkdVU2pJVFdBMThSUmR1MWttOG9RTERjbWNUOGF0bFlJME9tNDk4Rlk5TW9BTjRJcjFwNk9uNWNaYl9ad3N6RU93QkRiQXlkeVJ4ZlNJUTFUaDhvOVJZT1pBZkxqOU15S3dFeUZuTUdQVFE3UUpNQnNIT0J0bVJ4?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T10:11:24Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "eabeef9e80729989856fc0",
+      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T10:08:38Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+    },
+    {
+      "id": "aa5c7f25dcb3935845d60c",
+      "title": "News releases",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wR2VkMlJsUl90Q3dCVzRYaVVXRFdVTnNLMGppN1lURENCRm9sRThFTEpuUmxlaE93N0tWcThkV2xNallXa1M3OHZrVXhfNVVhazhoRQ?oc=5",
+      "source": "Office of the President Republic of China(Taiwan)",
+      "published": "2026-11-12T10:05:02Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6b0875495d9978f4cce3b8",
+      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T10:02:32Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
+    },
+    {
+      "id": "468107a7cbbfb3cf7f9d1e",
+      "title": "Economist Tara Sinclair announced as keynote speaker for 2027 Seafood Expo North America",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDZKTkVTYndXakhDTW41c3VPNDNraktjVnFnLUo4ZE1mZzdXa2dfaTdIakVqWkM4Vjg0YjVjaDA5dmlHWFFBc0VJVHpjZGhfd1NWcEI0OG5jZzAzaFZTZW45Vl9TVDhSc09CNWN6eGhuNEVTdENLN2Z3MkZhbHZ2aHcyNUp5UjBUbEM0MUtIWWg1dnRlNk1DWGZWcmgxSEk5bWpRSjFCMy1qZ0I1REhocFNIWE9SU0tVb3NKYlVlSWc?oc=5",
+      "source": "SeafoodSource",
+      "published": "2026-11-12T10:00:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "a3c9faf49ebe432b666ea3",
       "title": "UTOPIA Founding Partner: Qatar Well Positioned to Become Global Hub for Technology Startups",
@@ -24,18 +168,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
-    },
-    {
-      "id": "1b127e2f67ca793c7cd9a0",
-      "title": "UK economy grows at fastest rate for more than two years",
-      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-12T09:43:03Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg"
     },
     {
       "id": "4a8916d816322d9b84f4ea",
@@ -74,6 +206,18 @@
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
     },
     {
+      "id": "2c1cbc0a92d83dfdf156f5",
+      "title": "Western Asset Active Bond Gov/Corp Portfolios Q3 2026 Commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFFUM0tSRjNSQ3RYMDBCNTBOWXVzR3h6cDhKUWlNUHFFOTFBQ2lkcXpjUWJVeGJmWEk5RFQ5SXMya3FzQjJZLV93V0c1cVQ3dmowR1l6R1R3dGpwX1BYbnIzSE85bEpEaTA0azdWT3ZCNWpod3o1dmxBYm80WE5manFNY2RSTERLNFAybVNPZ3l0U2sxTFc4a0RzNDRyemwyb0NVem1OTQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-12T09:35:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "29d4286ab55b868aaa8c90",
       "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
       "summary": "The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.",
@@ -100,7 +244,7 @@
     {
       "id": "4b1d44aca47838194a83b1",
       "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-      "summary": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
+      "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants.",
       "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
       "source": "NPR",
       "published": "2026-11-12T09:29:30Z",
@@ -118,6 +262,18 @@
       "published": "2026-11-12T09:29:09Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "77bb058c9e48d39179cbdf",
+      "title": "YouTube | History, Founders, Purchase, Google, Music, Videos, & Facts",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCc19RZFAxb2dXTGl6cEVpdHhNVWtLZVY1Z2x5NmMtWVVHV2VaMjMxVlh3c0trVF9rdnJoTWpwTVEtUGx1bkdVZFByWVhMVG9CMGc?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-12T09:25:34Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -156,18 +312,6 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "83fbf9cbe6e3d33eee3296",
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-12T08:59:08Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "2403905c448a90465d50f2",
@@ -254,6 +398,18 @@
       "image": ""
     },
     {
+      "id": "60ab426e95b9ebbaee37d8",
+      "title": "TradingView Economic Calendar: How it works",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalF4eVFFWTBITHVwb21VVWdFamJDUTlENjhhWm5ZbW1la1pTb2pPY244Y09TbXVQU0JrSGNOM2dmcktMMFZPRHI4eEtVdlRCbU80aURJeVhHZDYtR3ZoemxseVcydngzaVRZMmYxNkxJc3o1QWdqaEVHdzlDNXJqX1FycVZPN1hzUWZ4eUJ3cjVDMGhMZW5kaGV5a2t2SWdyaU00?oc=5",
+      "source": "www.equiti.com",
+      "published": "2026-11-12T08:13:03Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8f66f75b9f2c76e301d4d3",
       "title": "EU Proposes New Digital Rules That Could Reshape Europe’s Online Economy",
       "summary": "",
@@ -291,8 +447,8 @@
     },
     {
       "id": "b288570e37df8ba3c378e1",
-      "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-      "summary": "The head teacher of the school has been arrested to assist police investigations.",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
       "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-12T07:45:52Z",
@@ -304,7 +460,7 @@
     {
       "id": "08be873cd96fdb13dfe9f4",
       "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
-      "summary": "Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valuable chip company, according to multiple reports, after a tumultuous week in which the executive and co-foun",
+      "summary": "Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valuable chip company, according to reports, after a tumultuous week in which the executive and co-founder of th",
       "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
       "source": "The Guardian",
       "published": "2026-11-12T07:43:13Z",
@@ -382,6 +538,18 @@
       "published": "2026-11-12T06:36:14Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c52f06afa09a3bbb617ebf",
+      "title": "Dubai’s new student card offers half-price fares and perks in over 130 countries",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQThJa1ZUOGtBdHhZS1NaLVFueDdnaTVyN3VUMWVDODNVWWRTUXowdE1VLWZ4V0R6N2t4R2RsWlhySzR6TGtXVV9JdU9pS1Fha3dwVnFEdTFtSTRNclE2VGZvM1o1aDZuMjViQmxJQXA2d2tfdk5XajVvaXI2RVkxc2drY05oNldqSVlEWjlrZFllSjc0WVpIRWxIQVUxT3hwQlNYYXdpLU1vOVFLX21nQjBZbGQ3cFl4T2NUdnA0NUU?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-12T06:33:47Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -530,16 +698,16 @@
       "image": ""
     },
     {
-      "id": "d591981f32d42e1768840f",
-      "title": "New York building collapse kills at least two, officials say",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T05:12:56Z",
-      "category": "World",
-      "topic": "BBC News",
+      "id": "ad201ba6c17b4d0ae81d19",
+      "title": "How AI Security Models Are Redefining Banking Resilience",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2tWTTNpRGhfbE1rOTROVUswUnBOUTdyZDVZaDdoU1ZIbjhQbWxVSkNveUJyNEpvcHI1T1lJd0hhUTdpNW9Ybm5YUFIwUXpwc1VYT2xRREtvSXVRUFRON2RXdGZpR2RJLWZsS3FBNGFIcjR6VkVQbGNvOVFobTZDVUZyOG1PQjQ0NmI5eDRROGVHY3d4bnNIb3NWSnNKUQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T05:17:20Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
+      "image": ""
     },
     {
       "id": "15811c46935cb7f20e6a2f",
@@ -660,18 +828,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "6b0875495d9978f4cce3b8",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T04:00:30Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     },
     {
       "id": "7253f5ceb922289537c420",
@@ -803,7 +959,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png"
     },
     {
       "id": "f00d6e2e6acb11a692a180",
@@ -1036,7 +1192,7 @@
     {
       "id": "a6547f8cea67f8f6609b53",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "source": "The Verge",
       "published": "2026-11-11T22:44:36Z",
@@ -1284,162 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
-    },
-    {
-      "id": "36cfd98abb15237ca42352",
-      "title": "PubMatic swings to $5.5m profit as revenue gains 17% in Q3",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jdE5WVE9zUWpKTUtqcWpXbFAtSWFEd1JhR0JYeHJSVXpMTzFBT2F5Vnhyb1I5YjRWUHhCcGxiY2txSDJ4LTZJbXJ3Y0JOUUM3elpMWHNNVGZlMmE3QXoxcXp1VThhWVB2TjhKRUQ4b2NWeERUUFFKTnZGM0RxQ0E?oc=5",
-      "source": "PPC Land",
-      "published": "2026-11-11T20:14:31Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "364092bc196c049bd02441",
-      "title": "Meta is losing its longtime head of infrastructure",
-      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T20:12:01Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
-    },
-    {
-      "id": "cb8d9adb56662fab9ea51f",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T20:04:28Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-10.05.34-AM.png?resize=1200,842"
-    },
-    {
-      "id": "8e837f16f2285068b24b2c",
-      "title": "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXQ1dGNTQVlqczc4M0dfV2VGM1pPQ3BiSUlaWnF3eGZZNkhXWHBDc1k5NlNMT1JRMmpoYzktT1hFbU9HOHg4aUswdU5QNnJremlSc2dzSkthZjhtMjJ4MlZRblZkZktkNjR6V0FKM2I1amQ2Tks0TkFZREJFSVZSZUJjOUdkZjBiNjlia2VsRzJoRFZvQ2xuZEdTUQ?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-11-11T20:04:02Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b5832023985142399047f9",
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T20:00:54Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg"
-    },
-    {
-      "id": "e4e9565de9f6f79762855b",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T19:54:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024"
-    },
-    {
-      "id": "22d6799f13a3486d4568cc",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T19:34:55Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800"
-    },
-    {
-      "id": "86409c70a4f047e99a4894",
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T19:22:22Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
-    },
-    {
-      "id": "e7a48bb417f1cfdd2d12f2",
-      "title": "New Videos: Canada-EU Policy Conference – “Prosperous, Secure and Sovereign Together: Making Canada-Europe Economic Cooperation Stronger!”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZXRvSDVhVS1qMTc4UEJRbnplaWtySUNBMm5kZlFCbXNCNEZKQlVBSS1uTGluczM0azBPd2ZVRDg2aTV4RlVTODVha0lPcmRMbWtfal84YjZfZ2FsTFRDRWpKRjRXekVDVmRNaGdVTVZiWGhwekxvNWNaQU5lb2M4VWhmQlRZU2FPNURkUUxOajNUaFdiNDE1dnBEZGdoUXc2LWJmd2VkaDdWNGVOcEhxSnpfQ3pkQUQtV0hscFZ3RGNleXRqWmp4bTU4VWJ2MlRZa29UeWtPYXdfR1hDWmthbnNLbEtCcklQY3dyWGRQczdHZw?oc=5",
-      "source": "Carleton University",
-      "published": "2026-11-11T19:12:09Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7ba0cb86cd02fda00475d0",
-      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor inside a tube of pork and lowered himself ",
-      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-      "source": "The Guardian",
-      "published": "2026-11-11T19:00:33Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/cd25034beb904557d3f8a78d430e0aa9575904a1/138_0_1375_1100/master/1375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=385d33f37faddfc898eadd7f81ee70ff"
-    },
-    {
-      "id": "b47b4a4bf82901ef86aa2d",
-      "title": "Allianz Raises 2026 Profit Outlook After Record Earnings",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEt2SVpyTEhLMDBvS0xXNUpPLW12dC1XT2l2SUVZcnRGa2g2UExvMmZtSDFjelNpdEsxR2ZlV2hvdWVjZG85aDRIaGdHa2NneFd4eDZkdnBzalRVNTlxQ3FpSzZMVUZZSUJ0ek9rR1pXb2d2dzRQZ2p2cGltS3RtRDYySGtyNXNlNDFmT04xTQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T19:00:04Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8fd84840ea553bd62104d9",
-      "title": "The world’s economic rules are changing. What’s at stake for Miami? | Opinion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pN081Tm9DZksxeHBjLUlFZTJpTGNpOG9PdHFQN25GSXBtc3VsR1dMcU14cDNHR2hjMk5xalZGV3Roc0lxT1liNTI4angzUURxRjhuTWR3bEh2ZWNMNy1nZkFZWGNhMXloMlZIWmtUbGTSAXBBVV95cUxNVDZNdzBCNEh6OXdZUjhwdzdXaVhQNm5xdEFZbDRUV3huRkpxS1lHcmtRSlM4TmRUanFQQW5lSkN6YXVteXdwa09mYnBFMGtpT1IxWHFxSkJ1Z2xFQUZLSUlmeVhKcm5qeTlEelhsYkhJ?oc=5",
-      "source": "Miami Herald",
-      "published": "2026-11-11T18:53:30Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6d51832b6949642544ca10",
-      "title": "Beyond Trade Deals: Reflections on Canada’s Trade Mission to India",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXUzM3I5eFlaN0lNRkJQTUEzS2VReXRva3lLOTJ1MWZQMlJpTlFhSW4yVWVZc2hZaHFCVmFEZlA5NnRPOEV4MkQ3T3BMcHNmbmEyTHpvWnQ5Nkl6OGx3VFBMSldRa05tYXRXZVo3WUluUDE4dzducFpXemRrcEtGSGhKMm0wcHoxZWM3cmgyekNrUnZDUllpb0NjdnRzUQ?oc=5",
-      "source": "Asia Pacific Foundation of Canada",
-      "published": "2026-11-11T18:51:57Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
