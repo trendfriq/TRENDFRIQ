@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-11-12T08:03:58.080881Z",
+  "last_updated": "2026-11-12T09:02:00.251903Z",
   "articles": [
+    {
+      "id": "7c670ec87508ee71ac2865",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T09:00:15Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+    },
+    {
+      "id": "83fbf9cbe6e3d33eee3296",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T08:59:08Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "2403905c448a90465d50f2",
+      "title": "Financial literacy: Why businesses, trade unions and civil society organisations are essential for public action to succeed",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOGJBVVBKMWxYM1EyY2txa29SQXVDcVg0SE0yVWwxRWdUclNxQ2hvc3VTOTBUQXc1Vmd1WHhCdEhUQjJKUU1TS2RjcEw5Umx0NzZaSjRhRWRvVGVrcEJTLWNLS01ZV2NOcUZsVjE5Q0xZMXhLMll0anowYWdwYnMwYTZzalc1MVZUMWllRlZZdXZnSFlITjl6dVdEWDg4MnUyekxyc1l1VS1uSlV5MktoUmFaTVdDLXlwb3EwRksxQVpOS25jb0cyWnAtWUJkZ0dvdmRWM2JHVzZ3TThaLUNUNURhTEhaZ0ttOEdFVkdXaVVYUV9fUW5jbWFB?oc=5",
+      "source": "Open Access Government",
+      "published": "2026-11-12T08:47:26Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e636ac149ba8b884391291",
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T08:46:57Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
+    },
+    {
+      "id": "1b127e2f67ca793c7cd9a0",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T08:46:52Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg"
+    },
+    {
+      "id": "ee19ce3ad46fa4c011a09b",
+      "title": "India revises visa rules: What tourists, students and business travellers need to know",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaE05MHJNU1FOQnVKT2VwX3h3T2w1VXdQTHp2X1JyZGVNaThPdXYtMVdIdnR1UG9RcU1OU2xQbG4zbnpCaTJtbnQzNEJmaDRLX0hORFA0ZEkyYWpKeThMbFNIUm85VTMyX01SVmtRZElHamduM0FrX05uWm1NNnlQenBWc2hoNENMeVZQNU01QWdTeGdWcldxZUpWbzZvbEhuSk1wZl9SMHNybUg3T1J3emRjcmIzZWtfQ1VfZTlZenVINXVJS2xrcQ?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-12T08:44:01Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b0deb70de56f74c1b62d37",
+      "title": "Expert: Europe’s economy failing due to its support for war rather than peace",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFMzMWR5cEtaN0F0MWl0RVZaU0h2X0ZBM3Y5bl9RQ0drMUUwUWRONXk2UnhyRGV3ckdfdXRmbFBNRS0wN2lQYy1fT0U0RVBnNTUxTFFORTY2RTBGNy1LNEtPNzlkdGxVcDFOOWZPb3c1OVV1VUp0WnROMmJXY3A2UWlmeDg5TWxycjBQQnlNM0VBeFBMeWx5amRzaVJBb1l0SEJOdg?oc=5",
+      "source": "СБ. Беларусь сегодня",
+      "published": "2026-11-12T08:42:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "79448fab4daa33854ce003",
+      "title": "STOXX 600 Hits Record High on Earnings, Lower Mideast Tensions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkFUN291LWQzUE9ZX2VvUW1KTmNISTF0TkFPd2lUQzk5VlhyZ20zUk11QXQ4ZWRTdHBMZi1ma2txTllLSTB5cVAzWEMtNkctamFtZnBaT3FILTI4SXBJU3ZQWDBqakhYZ3JIQ1pYaFRGWHlrZ0M0NHFTcG9OWG5HNEo2TWNVMURGSEM2TzNFSUYwNlZtZkxyR2xrOTZNNkk?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T08:41:10Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "188f3e370d7b473d3f754f",
+      "title": "The summit centered on the idea that a rising tide should lift all boats, emphasizing the importance of bringing together people from different backgrounds, industries, and sectors to help drive shared prosperity. Link t",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS1Q3LVZOZC04YUM1dUQxT3JOMkdqY2FwMTBodTVMSDd5SHhQMlhwc2UzLVNWdHNNanRXRHRxQjJJOU5Ldm54dURjYXExVWFsOXJDeXFyaHpJUkRwckFkcU5nalNnUWZ2amRYckJnWDl6SmRfMXZmYnk2S0ZybmFiZ05vcHVxUE1ITC1FNzNCZGZia09EMDJlNlpqZmpZTXkycXZQY2pOTXFwNGdUR0RMUzFHLW5rTUVna0tJV0k1Y0d1WkRpbzBHcy1Iajlzek5VZGhxRUVvZw?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-12T08:33:04Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9b4f13563dde5e2745751e",
+      "title": "UK economy grows at fastest pace for more than two years",
+      "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices Business live – latest updates The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, confirming that consumers and businesses remained resilient despite high oil and gas prices. The Office for National Statis",
+      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+      "source": "The Guardian",
+      "published": "2026-11-12T08:22:22Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d03dde0f991586ea196e966628465398"
+    },
+    {
+      "id": "8f66f75b9f2c76e301d4d3",
+      "title": "EU Proposes New Digital Rules That Could Reshape Europe’s Online Economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pTmtLU1dBa3RSQjRZSWpjYlFsM1hMakphQkNsYmRzNnVEYWpIZ05uNGJ1RVo5NEozSGZYbGtyZjhXTVZ6MVRFNEpiekUyYUVtczVVeUpQZG1RdVZOYmMzWVp0YmdNZW1Pd2t2YXZwblBRazg?oc=5",
+      "source": "EU Today",
+      "published": "2026-11-12T08:07:17Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2428f0e97fba2770f0d615",
+      "title": "Africa's largest economy remains among Portugal's top eight Golden Visa investors behind the US, China, UK and others, but new €500,000 rules could change the picture",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmpMN2RaSTQ2ZmcyZy1fRy11T1ZUbFNCRFRmS1RBWno1d1NWdFJHSHlOcHVOd0lEb2RzSWZ1Mnh0T0JqQVZWVmhtbnp3dGVXWDFMbzF1V3VYQ3dKY0pJcVhMRnk3NnJaQWlpX3ZyMGtxWVUzTXprXzZUM29wY2N4Xzk4VHhwZUlOc3UxT3VNeDJzN0c3QmNHVnBEN2dCSHF2dFM5ekl2Qmsxa09sNE52M2hVMmh1eUVVZ0xkdjNRMzh0VFBWR1o1Qko3WnhUakV1Smc?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-12T08:00:05Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "5df5b13482c35b6591d4ad",
       "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
@@ -12,18 +156,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "9b4f13563dde5e2745751e",
-      "title": "UK economy grows at fastest pace for more than two years",
-      "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, confirming that consumers and businesses remained resilient despite high oil and gas prices. The Office for National Statistics reported that the economy ",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-      "source": "The Guardian",
-      "published": "2026-11-12T07:56:19Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ff920458487656ecff9f4d717997bbcdddb1ee57/1004_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3888140e4c093d223e2ef1fa001b7cf6"
     },
     {
       "id": "b288570e37df8ba3c378e1",
@@ -38,16 +170,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg"
     },
     {
-      "id": "1b127e2f67ca793c7cd9a0",
-      "title": "UK economy grows at fastest rate for more than two years",
-      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-12T07:32:41Z",
-      "category": "Finance",
-      "topic": "BBC Business",
+      "id": "08be873cd96fdb13dfe9f4",
+      "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
+      "summary": "Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valuable chip company, according to multiple reports, after a tumultuous week in which the executive and co-foun",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
+      "source": "The Guardian",
+      "published": "2026-11-12T07:43:13Z",
+      "category": "Technology",
+      "topic": "The Guardian",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg"
+      "image": "https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=288632f9ebb94fbdcfbf81e2beeb395a"
     },
     {
       "id": "62c53ae1eca03c1bc20d11",
@@ -56,6 +188,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45TDBKMzE2aG1qdXhxYTZQdTc0RG9iVHpiaXpVT2N6TjRwZVVJNlFWZnVROHhMRWZWeEo2X25EaVBrNGhydHRGSHZlY1g3Z1FsU1BzaGljelI0anNsejVXQw?oc=5",
       "source": "finance.biggo.com",
       "published": "2026-11-12T07:24:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e899b3d5a235d08c4fd931",
+      "title": "Munich Re Posts Profit Decline Despite Lower-Than-Expected Major Losses",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZm55aXdCTVhNZEdaakh4MEZ4ZGtYVjc2N0VIeVNqZ1FJSjlrQVgyaGlXZGVlYVU2b1VTbFpKa0Q4ZWp0ZG1TbW9Ba2JpUU1OWHAzUDMyU1o5TXI2NWpUcmNncUlfZ294Nk5NN2d2MXQwdjR4VElRb0JiNHI0bi1WNnhjRDVZZEVISExUeXByeEtHXzR5TGVrWnR2WFlldGxiWWZib3JpSWw3UXB5WFFUenhVTTFOVExuSWc?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-12T07:10:00Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -144,18 +288,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "7c670ec87508ee71ac2865",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T06:12:05Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     },
     {
       "id": "7de3c64808a54e9fe82dac",
@@ -252,6 +384,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
+    },
+    {
+      "id": "15811c46935cb7f20e6a2f",
+      "title": "Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GNU12ZW1KelBNNHAyZUpfcTltZnY1NERLNm9EVENTenk0MnBnSFcwTDl3ZndaVkZqOVZqYUVmMy1aWngzR21qUi0yTU9VZGttSEVvQjU4NA?oc=5",
+      "source": "Focus Taiwan",
+      "published": "2026-11-12T05:06:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e5da371fa4782201ec26d6",
@@ -518,6 +662,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
     },
     {
+      "id": "e3d631f82bf5ce33d622d1",
+      "title": "36Kr Exclusive: Hygon Core Founding Technical Team Launches AGI Architecture Chip Startup, Secures Hundreds of Millions of Yuan Financing From Tsinghua-Affiliated Funds and Institutional Investors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwN1AxUG90Z3R0Z1FGT0NpOHcxSmFHNkZ5ZFNSdktjcmdIZjZXZi1Jb01IWUdzbEhGQW5wUmt6Ny1TdkExeDN3T0dYWXVfZHNTeGhZ?oc=5",
+      "source": "36Kr",
+      "published": "2026-11-12T02:20:20Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5b009b32b401e267a6ed59",
       "title": "APEC 2026: China Puts Small Businesses at the Center of Its Innovation Agenda",
       "summary": "",
@@ -596,8 +752,8 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1NGWDBXUzhOYVpGLW5nNGEyMEhzenU5eURLMUNQYl9MS3NvTl9GOFViRlNIZDFTV1NoeVBZWVJwMEN0TFJUSlpPZUZEZlFtZ3hkb0xsTHlERkRtVUUwUUIzWXdUUFRqUm5zNjBsT1NHNnhiOWxUdFhXMVdjMGxfSjVR?oc=5",
       "source": "CEPR",
       "published": "2026-11-12T00:38:30Z",
-      "category": "World",
-      "topic": "Europe",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -674,18 +830,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
     },
     {
-      "id": "83fbf9cbe6e3d33eee3296",
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-11T23:22:04Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "id": "b908c072a557d814cedf93",
       "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
       "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
@@ -732,6 +876,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "76c32aad363e140cfbdc88",
+      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+      "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-11T22:26:18Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg"
     },
     {
       "id": "03d7e0a205caf0b02fc651",
@@ -1284,162 +1440,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "bc2c22441dea50e034ed09",
-      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-      "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
-      "url": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-      "source": "NPR",
-      "published": "2026-11-11T17:23:10Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fdc%2F0abbbb464785bfcf43a99355caab%2Ffarflungpostcard-s.jpg"
-    },
-    {
-      "id": "7973b2f97d62381b7f290a",
-      "title": "OpenEvidence Launches Free Access Intelligence Tools for Clinicians",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc1BlNGtSU1dpYzZpMkVEX2JkS2Ixa1pPVmpfVVRwNU1HeHcxclhjd2FiT2hOZVNscGxfTm1hN0FwNmpNQWtvM0FsZHlSdlFsOFdPWi1zdVlXOEsyd092Z2RTTFQxbFpZSXlxNWFVcDMtU29vSHFPSlJMWWhtTUY5NWdiUjcyVS1ad2hUMGcwZWwzSEU?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-11T17:12:15Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "35693b3d2ad4c6aa4b3662",
-      "title": "Could Nvidia CEO and Board Be Liable Over Affair Scandal?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEJSMkRkcnNjaHRmLWNmMUFlM2lWcnVwNi1CNndYcE1BSnBlaFRKSk1QNmhNaTlhMDhWZUlyWGd2b3ZkY3NQTl94SDkxOUVVUjN6Y2Z4ZFZNNHlkek1lQTdYU05FV0JSUTBtY3VMM3V5YVlUbUtGS1ZWRGxTQ0Y4bW5rS215aHA4NkJjUmhBT2dtQkU2MWJvVHdtdnRvSng1Q3pN?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T17:10:04Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6dfc46f5a8876bfd0f22e6",
-      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are e",
-      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-      "source": "The Verge",
-      "published": "2026-11-11T17:09:58Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "bf0354919e892807020aa3",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T16:59:34Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
-    },
-    {
-      "id": "e195474e00495d06eac1a6",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T16:45:11Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg"
-    },
-    {
-      "id": "e636ac149ba8b884391291",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T16:38:07Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
-    },
-    {
-      "id": "3daadb44302fb76c238d8b",
-      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
-      "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. ",
-      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-11T16:37:45Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7803e49f9f7314498a07e31d210d6df4"
-    },
-    {
-      "id": "a1681fd2accc3033f6d025",
-      "title": "From making music to detecting drones, Israeli startups bet on sound",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tUk5GWmdibXhJamVMZUVPY1VRamVJN0gzSUxYbmdQcDQ2SmhaaW1YZXhUZXYtZmZ2NGVoZHhCeXNxMzlWTHp6bmp3aDg0T0RTc0hfTHlsSGNnUXdZN25GbHp3?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-11-11T16:26:36Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "639dd1bd8a90352c10e44e",
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T16:16:07Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024"
-    },
-    {
-      "id": "f31248890af40385bfab1b",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T16:14:44Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
-    },
-    {
-      "id": "5fd8419ada36e725d91c03",
-      "title": "The Asia-Pacific Economic Cooperation Economic Leaders’Meeting will take place in Shenzhen, China, on November 18-19; expect hightened security",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX2VvSDdwSGJUWHh6YUtYZmszbFN0SlJmSGNqVmExZzlnekRRYVRvV0JCZ2VzRGdQZ1dYZURKSDBuUWowR1ZyWm0yQUhERFFwakxIZGNValdoclNQOEdFdkk4Z0c1WHZvTEs1ZHZKZEQycThPbmpjaWx5T2RrajZNQjk1cVA2Sm5zMllXaE9jd1QzNE1MQnVoMXZ2bjNsOGVLdi1fcklqMWd6WlpOMFUzTUJzT1UtU29GcWlERnZEUXlJUXczdWZKbVZzWWZzUzRwTVVnS2FQcUJ4eFJ1RWJWdms5eVF1OWlFMHdMS0NZNFRGVGU3d1ZpeEJpNjdGRGsxM2ZINw?oc=5",
-      "source": "SafeAbroad",
-      "published": "2026-11-11T16:12:04Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cf2fc89481231d9afe3919",
-      "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
-      "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing in H",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
-      "source": "The Guardian",
-      "published": "2026-11-11T16:05:45Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da3204f3ad80f79abea8e3a1ce4d8157"
     }
   ],
   "countries": [
