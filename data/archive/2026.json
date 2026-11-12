@@ -1,5 +1,161 @@
 [
   {
+    "id": "b07d88933849043904c449",
+    "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+    "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down",
+    "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+    "source": "The Guardian",
+    "published": "2026-11-12T17:26:07Z",
+    "category": "Economy",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=301ac70f1ed47dff9ef24f77382d1dfd"
+  },
+  {
+    "id": "0544f18fda8e323256631f",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T17:17:58Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801"
+  },
+  {
+    "id": "0039716ebb4ac156c62a96",
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T17:00:52Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799"
+  },
+  {
+    "id": "c8f7b66ce849889b18b7a6",
+    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+    "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at th",
+    "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+    "source": "The Verge",
+    "published": "2026-11-12T17:00:17Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "62853baff9e5dea322e4de",
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T17:00:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
+  },
+  {
+    "id": "a254a2067feb6687a46833",
+    "title": "25 years later, Xbox is trying to reinvent itself again",
+    "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach [&#8230;]",
+    "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+    "source": "The Verge",
+    "published": "2026-11-12T17:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "64a6f20ebcc4dac132a4e1",
+    "title": "AI chatbots are recommending fake retail websites, study finds",
+    "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+    "source": "The Verge",
+    "published": "2026-11-12T17:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "889dda614b5244142fc739",
+    "title": "More game developers are starting to use generative AI",
+    "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
+    "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "source": "The Verge",
+    "published": "2026-11-12T17:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a377f11b3a75e56121f5b2",
+    "title": "Google Wallet can finally unlock doors with digital home keys",
+    "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to everyone \"over the coming weeks,\" according to Google's announcement. This was [&#8230;]",
+    "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+    "source": "The Verge",
+    "published": "2026-11-12T16:56:33Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258229_Aqara_U400_Smart_Lock_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "8b16e71439866d2afac0b0",
+    "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+    "summary": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+    "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-12T16:52:53Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb93/live/054a0170-de1d-11f1-9d68-c1daaffc01f2.jpg"
+  },
+  {
+    "id": "9321d1937aaf753ead2b6e",
+    "title": "Yocale.ai targets beauty and wellness market with AI-powered business management platform",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeV9LMkpjdnRROExDRVE0SERkdlA1eUhFRW02YmVUcWFlR0gyMkxHQ2RsZE91Vmw0akMtRFFhLVJCeFh0YkRBT2JGdzUtOEZnTnVkU0VTZmE2SEJPZHBYVDRaMDZSb3hrS1Fwb25kdXNoR01vX01NQmlWeUNKbkZjZHhvZ0Y4QjQ2cko1NUR4NkM5SnhxSVlfbVYwN3ZRSDVVTkV6UUhLNVhOWTRNZ2NKSWdqZGxiSFFRZ0pCSHNONXhaNVpNaU5ua0ExVTZ1WlFSbE51ZzdJQ3VydGRRRHNmMEUwTzU4Zw?oc=5",
+    "source": "Proactive financial news",
+    "published": "2026-11-12T16:50:35Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "376d5a6f39d9f86fdb75e7",
+    "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+    "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+    "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-12T16:43:36Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e2/live/fc549cd0-deb0-11f1-8fb5-a771a656a227.jpg"
+  },
+  {
+    "id": "548fe94a79cba56aecf856",
+    "title": "Jensen Huang agrees to testify before Congress",
+    "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T16:36:37Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+  },
+  {
     "id": "c32c9bb4ff06b22c453461",
     "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
     "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
@@ -214,6 +370,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/56480260b7bf656d9742122815f5137a16b1a1e8/329_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=486807db511f5cbdb931a0f4d8fcb587"
+  },
+  {
+    "id": "bae143c821d33d3ceb3e4f",
+    "title": "FIU experts available to discuss G20 Miami 2026 priorities and global issues",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmY0OGdnc1Nvb2VDdnZoamdyaXEzVTNFczJueF85VnM2bzliekE5ZGkwQU1qTEZXcmdNOXJVSkpTZ0RnenpucVA4b1Y4OXJwVmNJcDhaa2hSQ1NlTE5YUk82M19jNjRpZlJFRk1KQ0FScmFaakN5eWY3RDJvdWJNQ3hpOFpRcWpXOEhoR1JQYVNmUWtCN0Qtc1FSYUowYlc4dUY3TQ?oc=5",
+    "source": "Florida International University",
+    "published": "2026-11-12T15:00:00Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "1528a18bc477cc5b6e0042",
@@ -490,6 +658,18 @@
     "topic": "Brands & business",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "c853cc05493bba6898ea72",
+    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+    "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+    "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-12T13:58:49Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg"
   },
   {
     "id": "51dfcb2b25f60bf1875e8a",
@@ -816,6 +996,30 @@
     "image": ""
   },
   {
+    "id": "4b1cdf12a3e50058c94754",
+    "title": "Is RB Global (RBA) Stock Already Pricing In Its Earnings Strength?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXFMR0lYS0V3UnNuUy15Vk5wMjJhSzVCMk9HNUdFS1NVOEJ6LU11eTk1dENucFRpRHpBYjAyeGwzQlQ2QmVpY3dRREE3V0tPdjFhNTF1SFNWVGRyVUg2dzF3WHpiaDNwSjFMaVhQM0FSMUJhYW5jUWotd0tKUzN4UVFXZ3ZpMVJsLV84ejNHcDYzS0VWcW1r?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-12T12:11:28Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "33529e1e663b78176542f3",
+    "title": "Nebius reports third quarter 2026 financial results",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEZybUMwdElsSTlsMERvT0VWa3U2Q2U4QTdHckE4Ul9sMTdEQktfN1RtdmpFeGpiMGJvWFhwbHpHMkFLUkxxdFhaTWQ5bVBJTGZNY3EtU2I3eTVqdWNZVWt0djdUOXRwZkdQLUdqS1FhTFhURDVIZ2RoVFlHc1VQNUI4T3hqWExaX2NHYWpjZWZ0RDhYZ0ZDT29MVHhmYmEyNEY3Y0tmYk5raFdL?oc=5",
+    "source": "Business Wire",
+    "published": "2026-11-12T12:11:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "c32261cf7062241833b092",
     "title": "Armenia joins EU Customs and Fiscalis programs",
     "summary": "",
@@ -898,6 +1102,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c714eb74d985cd301b6ef4",
+    "title": "Five new miniature frog species found in eastern Himalayas",
+    "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+    "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-12T11:07:19Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6413/live/e56f4d60-de76-11f1-9115-cfe6d179af3a.jpg"
   },
   {
     "id": "3aa89ba53715ee665b0924",
@@ -3116,6 +3332,18 @@
     "published": "2026-11-11T16:03:40Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8ad21b366687bbc2af904e",
+    "title": "Imvionix Marks Commercial Launch with Acquisition of Beovu from Novartis",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE5hWVBLTFNwQ0hpaG1nM1FYbWRSZE9JUjNzVnE2cFBIUXhVVUJQdFdLT0pqRXpya1RVYTBTR2lZblBySVhPU0wyZUdfNmRON25CTmhzd3MzWGlOUEFtRXJaT2xtRnI5RkN3a3E3Unl2Nk5LdkJhMnB6TmlaSVpIajVmU09qSWcxZUVpQlI3WElXQUp3Wk1pcUQ5UjVoSFU2Y3IxWFVjajFtdGJYOGsyZmFfcGVYOHlKTFE?oc=5",
+    "source": "Contract Pharma",
+    "published": "2026-11-11T16:00:04Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -8712,6 +8940,18 @@
     "image": ""
   },
   {
+    "id": "0a45f7fd4a9fbc11f28493",
+    "title": "SoftBank | History, Funds, & Major Investments",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVzIxNUVlSEprWEpJNldFcFFRTm5qV3QtejdiR1dvejUtbTYxakV5Qkw1VHp5WUVPZjVoZFpOUDY1TzUxZWh6c2JvenM5VGxya1NUa0N5TzNnUjQ?oc=5",
+    "source": "Britannica",
+    "published": "2026-11-10T09:42:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "d9748374ccd4b033e15541",
     "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
     "summary": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks.",
@@ -9100,6 +9340,18 @@
     "title": "South Africa's AGOA loss: Why the biggest economic risk may lie beyond exports",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzlKbmJISVF6T1UxUm5LcEF2ckNzb2ZZdEp3eGRsVW5fMERLSnpCbEZpdWJwUzFjYmZ6RkRkVjhuSlkxME9jZzJsSHN5MFk4dmh1NHBWMk1wUGdvVGZxZzMxRDNPYktITzBUVGl0NUtTQWo5VmVKZVNOUjR4b3FQTGNEektHbndVOGtNTnpaTEhHeXpWVGgtenJoODFSSzJ5TVphRDZ5U0p2M1pIT2M2LUVFdk53QQ?oc=5",
+    "source": "IOL",
+    "published": "2026-11-10T08:00:00Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "12e9133938f25a51aa840f",
+    "title": "Investors from Africa, Europe and US converge on Sandton to unlock DRC opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXYzE1R1NFaEhFYlBqUFFKamRmYm9ibmFnR2N2U3hjTmJ0aE5FMUZKVWxCNklrT2JhWGtPQ1hzc0h6QS1GVG5MZWdYRTMzaG1SWGRhaGhQOFF4ZHVpZ3BLMWl4ZU4?oc=5",
     "source": "IOL",
     "published": "2026-11-10T08:00:00Z",
     "category": "World",
