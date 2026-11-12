@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-12T06:48:40.735511Z",
+  "last_updated": "2026-11-12T08:03:58.080881Z",
   "articles": [
+    {
+      "id": "5df5b13482c35b6591d4ad",
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T07:59:33Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "9b4f13563dde5e2745751e",
+      "title": "UK economy grows at fastest pace for more than two years",
+      "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, confirming that consumers and businesses remained resilient despite high oil and gas prices. The Office for National Statistics reported that the economy ",
+      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+      "source": "The Guardian",
+      "published": "2026-11-12T07:56:19Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ff920458487656ecff9f4d717997bbcdddb1ee57/1004_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3888140e4c093d223e2ef1fa001b7cf6"
+    },
+    {
+      "id": "b288570e37df8ba3c378e1",
+      "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+      "summary": "The head teacher of the school has been arrested to assist police investigations.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T07:45:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg"
+    },
+    {
+      "id": "1b127e2f67ca793c7cd9a0",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T07:32:41Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg"
+    },
+    {
+      "id": "62c53ae1eca03c1bc20d11",
+      "title": "[7860.T FY2027 Q2 Earnings Call] Japan's Avex Posts Interim Operating Profit of ¥3.48 Billion, Triple Year-Earlier Level; Full-Year Forecast Unchanged Despite \"Major Releases Lined Up for Second Half\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45TDBKMzE2aG1qdXhxYTZQdTc0RG9iVHpiaXpVT2N6TjRwZVVJNlFWZnVROHhMRWZWeEo2X25EaVBrNGhydHRGSHZlY1g3Z1FsU1BzaGljelI0anNsejVXQw?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-11-12T07:24:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b9c79e7a2e9a6ed7ec0c8f",
+      "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+      "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and ",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+      "source": "The Guardian",
+      "published": "2026-11-12T06:55:44Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc239976054991222b5b79f0616b09d3"
+    },
+    {
+      "id": "ce5e1fa823cbaec20cf97d",
+      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case f",
+      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+      "source": "The Guardian",
+      "published": "2026-11-12T06:43:31Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cc19f1e4e538f8403d4a5e6ec5bea41"
+    },
     {
       "id": "af49d15b465fd390d80a27",
       "title": "Quarterly Earnings Review: Sep-2026 Results Show Broad-Based Profit Growth Across Market Caps",
@@ -14,6 +98,30 @@
       "image": ""
     },
     {
+      "id": "9421223eb2c645e31facc9",
+      "title": "Germany's Merck raises 2026 guidance for third time",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzBCMGVBUmpaalMwTUdVSmVYRkZOUm05YmI0SVZ1alM0YTBXcjFzWXEwU05IMWxBZFAzcDV3ajdYVWt0eGFFa0t4VFpZb0hjQlpMc00ycFBnQmxYX21KNXRZdFA4Mm9HT2JfRW1iejVKclU3V05Ka2dJVEVBa19MelVHUENkUkpBVzVNQVQ4S2k?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T06:36:14Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cea45bc013e0c138db091b",
+      "title": "Pakistan pays $14bn in external debt servicing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGQ5WjEyaUl3QXNsLTlQWGZRMGdFX0lRT1dGNlBZVHRJWHpGZWhpQUtvcXNYY0xhdnBUUDhmdGNIWUp3OVRnbUZMZVdsOEZUa3NNUzNZQWNPZzJhQl9NMHVwV2lUQjI0NmgtX2lraFBQZFpfVloyQVY2b0xzZnA4c0szN0lRd1ZmdkRFdjhSYjhKUQ?oc=5",
+      "source": "Investify",
+      "published": "2026-11-12T06:24:04Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fdf1aec0b399192b696e0d",
       "title": "Adecco says permanent recruitment returns to growth in third quar",
       "summary": "",
@@ -22,6 +130,18 @@
       "published": "2026-11-12T06:21:15Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d902e726050e3406e8aad4",
+      "title": "Takaichi-Xi summit unlikely at APEC as China holds firm",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVbHRNUnBNd3ZNZEJoazZ3UERtRHI2ekp0a3psODJZeDIwQWEwOFFDRUw4dWNERlRrQXNYQXZ3SXhpV3hkV0pic2FtMXczWERTaG9HRnBn?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-11-12T06:16:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -60,18 +180,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "5df5b13482c35b6591d4ad",
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T05:59:18Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "d8cef3d0709ab1bc7770e0",
@@ -122,6 +230,18 @@
       "image": ""
     },
     {
+      "id": "56c2721190feb7ea98bb9b",
+      "title": "Korea Credit Information Services Becomes First in Asia-Pacific to Join PCAF Group",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hbW5MRUJHODViaUVNWUFJTDFFbGdybXZEckczR0QzMmNxUlBNcktIdmpmZFBUeVlqQllYQUVVR0FfNnJ1a2k2R1pJTUkzNzIzSFFicW1oYzFTcDRKUkdtd1QwV0xPT2NXY280akJsQQ?oc=5",
+      "source": "아시아경제",
+      "published": "2026-11-12T05:33:29Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d591981f32d42e1768840f",
       "title": "New York building collapse kills at least two, officials say",
       "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
@@ -142,6 +262,18 @@
       "published": "2026-11-12T05:03:47Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ead4b8e27dfe14eb0f84bb",
+      "title": "As China’s futuristic city hosts Trump, its startups bank on foreign buyers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG43c09QM3ZmaVpnZ1EwX1E5TlNiMUdLS1BKdWU0bHMxSkYwUmNoUzV6UG9aS3c0SXlIZXhXYXpZQzduQUt3MTRUSjdadVpHQ2wwM1RhZ0xVSTdNajZfODdzYk9zcl9MRzFRU3Fmdnc0S0hqQmRneGE1S0YzRm5KcDhTTnc1akRsZ19hXzhwelhuM1VyUXZNRDM0NlpTTVZndEdKMmlqVmo1TV9yTUV5LW9rbWRCRERX?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-12T05:03:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -242,6 +374,30 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     },
     {
+      "id": "7253f5ceb922289537c420",
+      "title": "Cboe Global Markets (CBOE) Earnings Strength Keeps Valuation Debate In Focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2VjUGx6OTBoUWluMlhyNWVJLWJ5Rl9DU1ItN1c1cXYxTW44Ri1KeE1Va3hSU0lnaEppa2ZoRmRMX0pCalE0T3F0R0plRXp2YjVBczAzUTBzd2lfQmtIUzRoSnU5Q3RMTUdMXzhKTlFNUzlON1g1aXpxWVRlZkptdkF6NjNmZmZ2SW9Ma0JVajgzT1dyMVhwNGl4ck5ubzQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T03:41:32Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "309da99d778f4d960017b3",
+      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T03:35:24Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "00e389b0d45c9adcaab5ec",
       "title": "ADRO Builds an Engineer-First Route Into Enterprise AI Purchasing",
       "summary": "",
@@ -250,6 +406,18 @@
       "published": "2026-11-12T03:34:24Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "12ff55acf7056f9946a1a1",
+      "title": "Taiwan is taking part in APEC China summit on an 'equal basis,' president says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnVBV296end5cVRDZWRHOG50cmJBZlRYNzhJREU4Z3I5akZKS25vbXNaZW9vSTlSak16dUlWRGlVNjRrTDU2V2JLRFhFX1hlNTFTQVdXOVVJM0V5eFhaMGV3YkloSDR6bXQtU1FVa3NhZ01yaWh0Z3h3Sm9ieFVGQ3VULXpxSjdfd0hYY19oWndOeEU4R3ctVTVJbk44aC1DR0l0NGpSVjFWaW9BY2FfZmpVUnlJSWsy?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-12T03:22:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -264,6 +432,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/NVIDIA-CEO-Business-Card-in-Modern-Office.png?resize=1200,675"
+    },
+    {
+      "id": "4d101cc8fcde6ea97f888c",
+      "title": "Global powers head to Asia with trade, AI, security in focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmxiWVZOVnJOTEY2Q29oZUl5VlBTdjQwSFdFM1hTM1duZGxHRWpHdVpWSUREOUUxUi16YXNxN1BzellFMTJJdGJWX1RoOW1BV0h5YmZ0VV9LYS1OVkNBaHJZNmR1LURVTUdUWGZqMWJ5UDJLRmM4cEFrOC1HRFN6VVozWmI2LWJaTWhwT054QXNvS0ZqYUxIb051MXBRUXlxRVJZclIwdDlLdzJM?oc=5",
+      "source": "RFI",
+      "published": "2026-11-12T03:05:38Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "6841decacc30c1ada2d096",
@@ -416,8 +596,8 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1NGWDBXUzhOYVpGLW5nNGEyMEhzenU5eURLMUNQYl9MS3NvTl9GOFViRlNIZDFTV1NoeVBZWVJwMEN0TFJUSlpPZUZEZlFtZ3hkb0xsTHlERkRtVUUwUUIzWXdUUFRqUm5zNjBsT1NHNnhiOWxUdFhXMVdjMGxfSjVR?oc=5",
       "source": "CEPR",
       "published": "2026-11-12T00:38:30Z",
-      "category": "Economy",
-      "topic": "Global economy",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -718,6 +898,18 @@
       "published": "2026-11-11T21:15:00Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5253752d525c50f66570a7",
+      "title": "Europe's Economy: Recovery at Last or Just Temporary?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNF9QZnFYWTZUWDFJVkk1Sl9KR3pmRVVxRGw3TDh2eTc2WHhRN3FYaGNncjlwakcxZzh0R0VJYmsyalRmOFh5WDhwbjA4OGtXOHlTUEhBWUhhZW9HdmZWSVdXUGdJNnhLUkIyUVJ4T3RqUjJkbUFVamNvV2lXVXhCc3NucHBXclJ6YjcxSWhUT21HWmpkRzdtcjk4NWdaT2JRbHFMM21neGVYb2FyMFJRUjBpWQ?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-11T21:10:57Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1248,198 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da3204f3ad80f79abea8e3a1ce4d8157"
-    },
-    {
-      "id": "e8f142d1235e5f90c29bd8",
-      "title": "Avio Posts 13% Core Earnings Growth Amid US Expansion & Advent Deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGx3cWRTSWxacjdMMzJwTjlORXR6QUZESlI0UHJfMFVacHRoZUVlVnczQlF2MTFtSHZJTThhYmRWemV6VWpXaWxZcUJ1dWh5Y3UxMU5CTWxINllSNm5IMjBsUlMtSTk4VUFJOTRmREtXZzAzamRKV285TmItUVRrYzVmQzJLV3l4T2VFU1F1a19RVHZiUkY5bA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-11T16:04:26Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ccd519173ba2f65ad7a8e1",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by d",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "source": "The Verge",
-      "published": "2026-11-11T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d231dcf0150741a345260b",
-      "title": "Taiwan appoints Acer founder as APEC envoy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BdmtJbmNiUmVuZGFyYlBEMnlScW1oaFV4Y080UlNPcHZ2cTNCQnZJeEVUTFZLdkxiQU1KZ2tINGt4YnJZemZobHJIUkhuUGk0dTNzR3ZKbTF0Rk90dklyOGQyeXdZNF84T2d2c3BNaGRlNVFEbmZwVg?oc=5",
-      "source": "Taipei Times",
-      "published": "2026-11-11T16:00:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "41ae633c6584dee9d5b17b",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historical",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "source": "The Verge",
-      "published": "2026-11-11T15:53:55Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3438b8328487646b6c1d06",
-      "title": "Companies that rebuild procurement around AI see major returns on investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd00yWU0ybG9FTHVOSnREaEZWdWJsdlR0aEZLVUVWWXBYQWpIbUlPbXdVaVlrYnl2LTVtUTlMdlpqR2sxZ2hjTS1kdUctRXFoR2k2LVkwN2xtWlNrODlCV2QtUmprZnNyMWtiWGgyNHdqV2RFdzJYaTB2SW1SeHF1dnpTb2REeXlKOWFocm02TzJQUkhlNVU4V0I4VUY0ZHhiVUpVWE1BRmtLdkotcXN6NlBIQdIBuAFBVV95cUxNT0Z2V040NkNMTTMtbW9RaWIyclU2eVNfZDlXeFpkaGNUTEgtb2lfNnpvenpaNVptQk1wOGVZdkk4dUtINm03TzdXM2pySXM4Mm1FQUFreWFhYjhTYTRwWHdEU0E2TVRjdFFMOTU5dlAyYnZJOWx1T1NMd0Q1eGxlNEpDUWlGUUVXRFozTmF2OURqazAwRFRHSDBLZE16VXVQU05CWVo5OU9abTBycVpuaUttRVJ3M2NU?oc=5",
-      "source": "Consulting.us",
-      "published": "2026-11-11T15:52:38Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "56d14563c1c9200220bb2b",
-      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-11T15:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "95c2d9ca8cd07038dd217d",
-      "title": "Fiera Capital Global Asset Allocation - November 2026 Market Update",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGZnWG9CLWFPenBFbVMtTm5wbjJsVlU3d3NKU0o5NWwtMXkzVG5vVG1tTEFoVndETXg1eV96RHhESWV2ZGNidllraUNUVk42Skt2aE4yek5aYlNvN2lwNXp6dElXcnZJOHBWY09zYU13eTl4ZG9OdWRzRnVvT3hTaU1KQkVkbHEtYVZiUlBobkxhaDVBaHREOE9Fb2cyUTZLbm9NREtVSjE0Zw?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-11T15:25:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3b0468e270d21a3c32717b",
-      "title": "Record Revenue Can't Mask Earnings Miss As Analysts Slash Price Targets On Rocket Lab (NASDAQ: RKLB)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0tIOWdiTFlKQ2QxdkwwTG5ic28zU2VQaUZMMkQ3VUJ3c1hpdTF1MlF1MkhVYll3Y2pWeGxlM1hSZ01NNzBJNTJkNzJ3dWRwdmJjTnp3VVJEVTl1bHVXQ1BWMTJBYkVVWEVnZEwzRHRrcFpmcFJsdWxadXZrTHQxMG9ldjhUdWJhZVBjQVZVTXZBUm5Sc1NDNFBhdE1jNFd2UUpnN0twZUxUcUJSZUVhVkl2WkwzaWtCMjNLY3RzSW1GSVlHSjlaOXVsRVBOWkEzMElnRC1XekxEelZ5TkE?oc=5",
-      "source": "Foreign Policy Journal",
-      "published": "2026-11-11T15:25:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0a1d94c674cb2666a0d7ba",
-      "title": "Stellar Startup Storage Technology Vendors To Know In 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFRKWFhZXzBKNjZRVzBZY0psaXdSUEt5dnVPd2ZNd3ZvazlVOTU5VF8zWFhuQ0ppaV96YmxKS2hDSXhjYzc0djBDY084LURmQjRmakxmUmlob3A5cmtLWXREMlN1MXNOUzQ5RjFfSTJmaHhkTmZRV2hxa1N5U1VQRTdza2QxbWpIWS1majRwUFdmOEk1NWFkZ0I5d0M?oc=5",
-      "source": "crn.com",
-      "published": "2026-11-11T15:09:23Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2e3cce707450618b22408a",
-      "title": "The Midterms’ Foreign Policy Story is Local",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbV9LcEJwMzBGS2xZa1hFcU8zbTNrdHF5YTFzTDNzN005N1J6dGo2SS1CUzNvR3hVT3JEQ2o4cHNWQzlWbE0td0tRcE9Yd1F3T19KQXI5NVhRNFR5QUxPY2hNSWpRdkdvaWsxcnRkSWJ4N1dhb3QyeGRQa19COXNoQ1FTUWNrR3V5dlZ5SDBWZWFDU19iTENFa2hoNA?oc=5",
-      "source": "Penn Global",
-      "published": "2026-11-11T15:09:15Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a309afe5ad2e346de77005",
-      "title": "Itaúsa reports record recurring net income of R$5.1 billion in 3Q26, up 25%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR2dCUDZORnl5ZDA0NnZObk5YYnNJd1FlaWd2T3Nyd1NuOTlvZ2ZVMkV3NUMwaFRScmhYa1dtWWdNS0k5cTgxT3h2Y3c4T0lPcHNFemhTcEhZM0p4dzR6dUZGUHhtR01xYlpGMjRYNGhUVExYVm1oVElWbjh1QjNfRURzcDJfb3ZVdDh3RUxZdllFNGtEbEw5Qzg1NS1vckFsWk9wdHZ3TlJZbEdselRzZmFmNXVxY3piZ0ZHYzYzbURaYjBPdmEyZmdkNW5XRm8?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-11T15:04:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "11ae2fd9c5f20374c227de",
-      "title": "Siri co-founder backs Helix for its voice ID tech",
-      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
-      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:02:47Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Helix-Co-Founders-Credit_-Coy-Gutierrez.jpg?resize=1200,800"
-    },
-    {
-      "id": "d5ce8d4f2e7d567c6d43a1",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200"
-    },
-    {
-      "id": "5b3e8a37b7e76f03f9a447",
-      "title": "Ocarina of Time is even better if you use a smartphone app",
-      "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of [&#8230;]",
-      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
-      "source": "The Verge",
-      "published": "2026-11-11T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261110-01M74FRERRH793DQ734KTJM2FA-061DB0ED-ACA3-47E5-8CA3-6B3B776C2354.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "943bd9ebdd36c5629d76e7",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "source": "The Verge",
-      "published": "2026-11-11T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "f6f2c356227b45bce379bf",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T14:56:11Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a91e/live/b13e3560-ddd6-11f1-b865-d17d8611efca.jpg"
     }
   ],
   "countries": [
