@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-11-12T19:31:43.150277Z",
+  "last_updated": "2026-11-12T20:25:03.089792Z",
   "articles": [
+    {
+      "id": "88784d92e59c815885c938",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T20:09:16Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg"
+    },
+    {
+      "id": "c20da2f52115f64534ff75",
+      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for ",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "published": "2026-11-12T20:06:26Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=75a25d982d0b336c2b44ba022e4252f4"
+    },
+    {
+      "id": "8be381abd8082b422c7e52",
+      "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-12T20:06:07Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0c77e51cbe65685dadcbb0",
+      "title": "Jensen Huang is in a world of trouble, and that could mean trouble for the world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUElGN2huVU5fWEJUbGh6WWx0RXNrREpUREtpemhLZ3NSWHBmaGpoOEdsa2VkdXNDWjZCUmE2eHNpZHB4N2dMLS1JQjNDMmstbzZneTdxSExoMFVVUFFtV2l4SjVBTjlaQUdmb0d2U0JydFNxTlQw?oc=5",
+      "source": "The Boston Globe",
+      "published": "2026-11-12T20:02:50Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4f2e18fc2dc8c3dd12fd79",
+      "title": "Meet the people who want peptides to be made in America",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here. The SS Jeremiah O'Brien is a [&#8230;]",
+      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
+      "source": "The Verge",
+      "published": "2026-11-12T20:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "aa569c0dcb55f56b1c53e2",
+      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWl5VFRGVVRzS3dKZHludzRheHZpeVEwanoyTzMwWjZScjYxcThIXzdVOTdIVDJiVktPUjFFczNaMlpSNzhuZXp6XzJHSzVuRjFYREYtby1MLVNEQ2lkQ0FMQ09JN2dxZENpY2hHTEFRMlE1aDU4ODdUbVpzQVFoakRpb2JTRUt0NVQwbld3V29vWnlucjRILTVxdmcxS2JLeEowQUVUejHSAa4BQVVfeXFMTTktWnp5bnFZaHNtMk9uOFF2QXdDZmNOOXlmM3ZIS3YtSVpyMFMza3FSYTA2VkpLaU9iM2tMS0pZalpOdzh2NFRrdnlSRUFrSE53Sm5YZE8xVlBJYlBIMjlCSG9SODFfeDVxRWpQZ3hiaXJ4VUluV3MwSWNfekJCWWpRMWxKNTRYRUNzRnhsRHptWE9NN3hVelpDZ0RCVjlPdWV4T2d2QTJqZFNZdVRn?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T19:46:05Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a20d1e6a0e529bc1715f1e",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge",
+      "published": "2026-11-12T19:42:40Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "9d80354aea1dad3ffcdd9b",
+      "title": "Nvidia CEO Jensen Huang Resigns, Impacting AI Industry & US Policy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWW11bFNTa0V1ay1kcG5Cd3BFMkZVdExSLWNaTW1BeVc3Uk9WeUpfWUlyVTJENFBzY0hjWUJyenJWVFpqc0MwZkNFaE91aDBKU0dvSC1UOFE3TGlJQWs3ZHhXcXU0Q0s1OGpiWmJXMTFJbzV0bGhMX2ZrNGNYN0VhU2l5eFA3MmxCZDZCRFBtdU9tOXhnOVE?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T19:36:25Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f4a1373dfaa69d04a9f9ee",
+      "title": "IAG Launches Media Business to Cash In on Connected Passengers: Exclusive",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1lNmFlaEltbFNrMG82TFoyUS16UmxyQlJ2Q0s3X1EtWVRDX3p5eE5EbnpZeVpGZHZiTE43enF5TldDRmxkeFhaVW1Eak45YjctVHoyVEJTWEIwM2prWGtNX3ZuaGZpOVFIa2Y3NHd0QjJWS2U2RmxqVktXaUwySEJaaHVZZlNUMG5hM2t4T2pZSFh1T2d3RXVPYnBSSWpMbUlubA?oc=5",
+      "source": "Skift",
+      "published": "2026-11-12T19:30:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "76f0f9d265ce6e4d1e1fa5",
       "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
@@ -62,18 +170,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676"
     },
     {
-      "id": "c20da2f52115f64534ff75",
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for ",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian",
-      "published": "2026-11-12T19:01:37Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=75a25d982d0b336c2b44ba022e4252f4"
-    },
-    {
       "id": "8b16e71439866d2afac0b0",
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
@@ -96,18 +192,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
-    },
-    {
-      "id": "8be381abd8082b422c7e52",
-      "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-12T18:36:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     },
     {
       "id": "ffcae5247fbf9539219275",
@@ -158,6 +242,30 @@
       "image": ""
     },
     {
+      "id": "0856b458a3690952e4ad52",
+      "title": "IMF urges EU reforms to face economic crisis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0cwdUdIYmtCTDJNNi1pVktzdGMyczA0OVN5ODBvdzBRWlBzT3dyQ2NTM0pjZUM4NUlEdWxiY1ZyYThOTTBUUlFpcVB4YnZYMnRNcWNoOWgyM0ctMjQ4WWN0bi1CaVdQNWU1ZGZ6bHR2Z0NYUmZLRTJJUUhEd0hrTFpuVVlmV0VhLVJqTVZPX3l0MVJadFVOeTE3RXdZSWl6aXlvTNIBqgFBVV95cUxOSG9kQUhqQWgwSjEyakZPdzFLNWpLOXJGRHpUdnZFaEpidFBMaWNDckpxTGpaUTVhNjNaTUxvT2lPNU5CZllKcWdtZXJEbWFzWEZOSnBVT1VIS19ua0NSd0l5NVBoeUxRYXhjQ1VaLWt1OUdyWGVVNV9UUFRRQ19QODJ3bDRuU1hOZGZTY3ViU25tOGNTc0ZjLXNCaWFkaU9EUnh4Y0xmQkEtdw?oc=5",
+      "source": "Al Arabiya English",
+      "published": "2026-11-12T18:12:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0dc2b4327d45e47a98d29b",
+      "title": "EMEA FX Outlook 2027: Restrictive policy remains the key FX anchor",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OaThaVDhRRmZjTEZnbDgtSHpuOTh5RGp6V3FzWkpNZmNjYVdSaE9pelR0WFhPdHlDdE41a3V6R0VHS1Zicmg3cWVfaWV4M3E2dENSUWk2UW5rN2pjX2Q1amJ3?oc=5",
+      "source": "ing think",
+      "published": "2026-11-12T18:09:59Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c9ffad50ddf6b61ebc3c52",
       "title": "FX Outlook 2027: Seven key calls",
       "summary": "",
@@ -194,6 +302,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "fc0539be73bdd125b0eac6",
+      "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
+      "source": "blog.google",
+      "published": "2026-11-12T18:04:04Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b45ec5b5ef3e40b63a567f",
       "title": "What does Nvidia CEO’s resignation mean for the Middle East’s AI buildout?",
       "summary": "",
@@ -204,6 +324,18 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "0f7ce98817dbefb9e5c2ac",
+      "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+      "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact tha",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+      "source": "The Guardian",
+      "published": "2026-11-12T17:50:35Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82bf6d6905126f00d7c1f40df2955853"
     },
     {
       "id": "ce1eab2bbb5c79a9e4f640",
@@ -432,6 +564,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e2/live/fc549cd0-deb0-11f1-8fb5-a771a656a227.jpg"
+    },
+    {
+      "id": "09aee6ee39b8ebc1705028",
+      "title": "Yocale.ai targets beauty and wellness market with AI-powered business management platform",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUF9VeU91NnlSZXY4TEZES2hRTkNPNDBHV2Q4TFhXMThqSVJJT0xwMlFiRlJYUE5lNHpWZ1pqS1JVVTRQTkpia0J5LXFaaTNybVNtWGtPdG1USDEwNTVvVVZieE43S3pQSDM1MWhobTlpMi1kSnd4VElLQlZ5eXYwYXNCamdRNnc?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T16:39:16Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "548fe94a79cba56aecf856",
@@ -962,18 +1106,6 @@
       "image": ""
     },
     {
-      "id": "9d80354aea1dad3ffcdd9b",
-      "title": "Nvidia CEO Jensen Huang Steps Down, Impacting AI Industry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWW11bFNTa0V1ay1kcG5Cd3BFMkZVdExSLWNaTW1BeVc3Uk9WeUpfWUlyVTJENFBzY0hjWUJyenJWVFpqc0MwZkNFaE91aDBKU0dvSC1UOFE3TGlJQWs3ZHhXcXU0Q0s1OGpiWmJXMTFJbzV0bGhMX2ZrNGNYN0VhU2l5eFA3MmxCZDZCRFBtdU9tOXhnOVE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-12T14:01:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "4ac6710bef183f710c2abc",
       "title": "‘Witch hunt culture’ threatens global economy, veteran Chinese investor warns",
       "summary": "",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-12T12:30:14Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a8382a2c7fc7e8f6cf0458",
-      "title": "Nexxen's connected-TV revenue hit a record $34.1 million, up 39% year over year.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXpyS3E4Y2J6OWx1VTZMLVNKRFFwdnpud3ltMTRGZHNSeFpIZ2pmM00wdmJRRWpTT25sa19ZQXA5TWwzeDhmTF9WSTB6WkNERkNCZWpTeENPeDMtOFhMbi1LRXBjU0NscTk1c2tyMVVOT1h3QlMxd2VoODlxZUQwMlhlbDMyZ0RZNzl3RjlXdWxZeDRuR0JSek9rYUI3cDZmbVZMNWFUang?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-12T12:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "50a32de9cf959aae533ff0",
-      "title": "$1.9 billion in future contract work is booked at Intuitive Machines.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVRTLWJlNWpjVzZPajZIQ2JMVUFjNUhORGU4aGtEQUNlX25iX0xxS2N5dUFWZk9MRUJONlNxNUdQSkIzRW4tVExXYmx0RGxfTUZHam4yWTRpZ19GOVlXS2JSSFBBWElzazY1d0tTdzF1YzZlZzZ2bUJLNVgwVmo1cFRUQkVUS0xWeVhJc0VLb3VkY0lFNmxzcUt1V05POERtZzZNamNnNTVacDZQSTAxQ2xjQlYwN1IxN3c?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-12T12:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f19118e6d3c8739bf6f581",
-      "title": "Why Did NFLX (NASDAQ:NFLX) Shares Slip Despite Higher Profit as Ad Targets Were Trimmed?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYldQR3VBWjdLVkZsODFqUk04cTBKREgxdnhfbDBFUFJ4cWo5SzJCMkh6Y1dMM0U0UWw5QzVuQ0ZlUlV2ZHF1R09ZVGFJSUJ2UVZBYTRmWUxDNDlEcE03UzhVZmpfZzVNTEpKX0hfYjFQWU5EZ3U2V2g3NlVaLUtBcHZ5V2VrRUFkc25JMHQyUjFzT3VwMXJTbTkwclp6V1NUUy1oUGxlcm9xMG1SNXBnUWtiMjIzYko0eF9YNFMyTzF5a1ZiR2xmYVRpNzJCUQ?oc=5",
-      "source": "Kalkine Media",
-      "published": "2026-11-12T12:26:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1061d05dce7472fa1fa278",
-      "title": "B. Riley Securities: Mike Moen Named Senior Managing Director Of Metals And Mining",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelc0TTctc1NJTF80TTFBMkc3OGE4UVdiN25mSlkwV3VEeVY2OFpfaU1iblI0VE9oc2dkOUk2NjZRR2RJVy1ZQ2pObmdyeENXc0xVaTB3alhvWmlHTno5RmdFYVlvRzFWNFdreUNoRXEwV3ZVTXY1R2R4MzBaeC02Z2V1ZmpXTE4wVnhlc3ZsU2ZOYjJZYjdVdkR3Vm1SQlFNOUE?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-11-12T12:24:52Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "deacd9d56d0aca247366ba",
-      "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-      "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
-      "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-      "source": "NPR",
-      "published": "2026-11-12T12:15:48Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8221x4624+0+428/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2F71%2F2fa955a34abdb2dc30fb0e82dde0%2Fgettyimages-2304701717.jpg"
-    },
-    {
-      "id": "1468617a97047d193d0131",
-      "title": "Quarterly profit rose to $2.7 million at RCM Technologies",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlJLeVJDRXczc3Y5NzVEc2NTTEFOVDh5TFNVZXpfQU4xb1FHVmROZTFENzNiR3JFT2NqbXFLaTJvcUNhWHExVGVzSWhQSnNFRVFpTlBTUVZRSUxEcmhFbnNMSHNZcndCcGY3NjYxWVp5dTNFdkF1UDBYdkRlZzJwS1Rzc21LYlBkZHY4c2hQZk0zc3dST3ZISUNINWNsNl9MN3FPbFlHWQ?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-12T12:15:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4b1cdf12a3e50058c94754",
-      "title": "Is RB Global (RBA) Stock Already Pricing In Its Earnings Strength?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXFMR0lYS0V3UnNuUy15Vk5wMjJhSzVCMk9HNUdFS1NVOEJ6LU11eTk1dENucFRpRHpBYjAyeGwzQlQ2QmVpY3dRREE3V0tPdjFhNTF1SFNWVGRyVUg2dzF3WHpiaDNwSjFMaVhQM0FSMUJhYW5jUWotd0tKUzN4UVFXZ3ZpMVJsLV84ejNHcDYzS0VWcW1r?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-12T12:11:28Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "33529e1e663b78176542f3",
-      "title": "Nebius reports third quarter 2026 financial results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEZybUMwdElsSTlsMERvT0VWa3U2Q2U4QTdHckE4Ul9sMTdEQktfN1RtdmpFeGpiMGJvWFhwbHpHMkFLUkxxdFhaTWQ5bVBJTGZNY3EtU2I3eTVqdWNZVWt0djdUOXRwZkdQLUdqS1FhTFhURDVIZ2RoVFlHc1VQNUI4T3hqWExaX2NHYWpjZWZ0RDhYZ0ZDT29MVHhmYmEyNEY3Y0tmYk5raFdL?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-12T12:11:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c32261cf7062241833b092",
-      "title": "Armenia joins EU Customs and Fiscalis programs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vM2VaWlFVNVozdmhZWHVfR2d6MDJlVXNiODhsa3lXLTh6RWVnTThJd1B3UG1rbEt6SlRfNVkwdXFQZWNuaFlHZTNXbUpJZHdfbVHSAVdBVV95cUxQam1VODNPbThRclZkckRIdkdFRHFFdUw1aFhPWkxWanU2WlhKcG01dU1fNmNuekNLdjJxVnplUHcya3RudEJVcUVZSUJMaGFLZlJTMnk3dTQ?oc=5",
-      "source": "Armenpress",
-      "published": "2026-11-12T12:09:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ddee4991dba8e23165dd8a",
-      "title": "AI, ICE and China speed on display among Automotive News PACE Award finalists",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1dvcE5NVXl5bEZGWFN0RVV0UkxEM1phLW44SVlqUTFwOHdIYmtZMFcwZGwwb1ZrR1o4Z0xlZDZjWFQ5YUpSWnBQZ29NaDJtaDhSMG42dVNBMjFFX1JDMnhtWDFaWEUyZ2NILVVGSkQ5ZVZBOXg0UHRhb1NsQzhFWjNmMS1SN2RVVmwyQkRGX1RURWxlVV9LUWhXNGx0TnYyVmc?oc=5",
-      "source": "Automotive News",
-      "published": "2026-11-12T12:00:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "60bb4c52c45c270d41ee3c",
-      "title": "Economic Key Facts Germany",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVRIQXpYazFRal95NkxfdEtWUFpVZ0syajdGMjhZZmppUWU3emlna2M4NnZ5RXBaa2g5SUtGUWs0Ull1WnhLSXlMOS1zNG9zV1JCVXVRTVZiZnprWjA0elRvbXVQOTZpYlhZeG5ONWNjUnM4MDJFOUJMQjNUVk80cw?oc=5",
-      "source": "kpmg.com",
-      "published": "2026-11-12T11:57:41Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     }
