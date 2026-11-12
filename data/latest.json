@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-12T23:17:17.414458Z",
+  "last_updated": "2026-11-12T23:59:37.315637Z",
   "articles": [
+    {
+      "id": "dd62360cdb55684548b933",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely hum",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "source": "The Verge",
+      "published": "2026-11-12T23:43:22Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "607d4d7557c40807b113b5",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-12T23:34:05Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+    },
+    {
+      "id": "5f694a374897b00953b4d8",
+      "title": "Nscale Projects 14-Fold Revenue Surge in Amended IPO Filing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhZbzNkOFBTRVcyaUVnNmQ0TWJNYlNHek9FUVlUdW42LVh4d2VTZHE5MXRpbk1BYUl0Z2ExWHJhWTA1TnJmNHFQRTBZbjZvZW0yQXozNmJiSTlsc3l2Skl3WWhJd01WQlp1dmhZVTBIdThGU0Naa1VsQmRkY3FZMjR1azZYNkRScHBLVE5tR2VWZFlsZ1ZNWWdqOTc?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T23:31:16Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ecab0e7e397b310858703d",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer [&#8230;]",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "source": "The Verge",
+      "published": "2026-11-12T23:30:52Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&strip=all&crop=0,0,100,88.092261904762"
+    },
+    {
+      "id": "a487e36889862acfd354c5",
+      "title": "Microsoft Outlook is still down",
+      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which [&",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source": "The Verge",
+      "published": "2026-11-12T23:24:13Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "d5cc30ce1b8a71cb5403e8",
       "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
@@ -38,18 +98,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800"
     },
     {
-      "id": "0c77e51cbe65685dadcbb0",
-      "title": "Jensen Huang is in a world of trouble, and that could mean trouble for the world",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUElGN2huVU5fWEJUbGh6WWx0RXNrREpUREtpemhLZ3NSWHBmaGpoOEdsa2VkdXNDWjZCUmE2eHNpZHB4N2dMLS1JQjNDMmstbzZneTdxSExoMFVVUFFtV2l4SjVBTjlaQUdmb0d2U0JydFNxTlQw?oc=5",
-      "source": "The Boston Globe",
-      "published": "2026-11-12T22:41:15Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "4338a97cd025ab5571940f",
       "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
       "summary": "Israeli launches its first air strike on a Gaza hospital since the ceasefire began last year.",
@@ -70,6 +118,18 @@
       "published": "2026-11-12T22:30:47Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "918aafbea96e525db8e98c",
+      "title": "Explore What's New in the RSNA 2026 Technical Exhibits",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DM1ByRG5pYllscGo3VldURTMxN18yR0k3bUEtUE56bWhYdkRNSEhpS19Ibl9FSE1TdGJ5SGFlb0JIR2lMRWNOUEE2YlJBbHFBdXZKWERoRXdzSkkxSjcxbXN6TnVjVFdTbVZOdDVhM2xFV2EwOFFJ?oc=5",
+      "source": "Radiological Society of North America | RSNA",
+      "published": "2026-11-12T22:26:15Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -96,6 +156,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104"
+    },
+    {
+      "id": "96037e2b594aa0cfe6974a",
+      "title": "Global Economic Governance in a Changing World Order",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR183OTc4SGdOM25PN0thOFozS0dkT2twdkF1U21TTEZ0T3FKbnpJZUtLMFVsSmROalpqYmF2R2tLY3VMS2NxTnpnaVVvZzhWSnZRNVc0RXNOTnVZVThSX01mVGNGdTdGZ3RpcW9ELWJzcW9NR1Z5d3gzU0pBdExwMFJiVHdfd0xyWG1hblpn?oc=5",
+      "source": "Brookings",
+      "published": "2026-11-12T22:16:13Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "8938ed96ae83cd5792f8dd",
@@ -350,18 +422,6 @@
       "image": ""
     },
     {
-      "id": "a487e36889862acfd354c5",
-      "title": "Microsoft Outlook is down",
-      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [&#8230;]",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "source": "The Verge",
-      "published": "2026-11-12T20:43:02Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "id": "ff447842ecb2519b467671",
       "title": "Jensen Huang was having a third affair, Reuters reports",
       "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
@@ -417,7 +477,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-12T19:57:15Z",
       "category": "World",
-      "topic": "Americas",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -744,6 +804,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801"
+    },
+    {
+      "id": "4a876ddfddc7c66ff57ce2",
+      "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRTJlajFIS19kN0FoMlRwSWdqTmd0SW1vYWR0NGNCcEUtZ2ZMX0ItaUpwNHhxbHhFMGpjREQ2cFQwR3BWck5fNlg5QTZIUkFRZERBR1UyZ01yNS1xX25YSXJWMmUyNktDS0M4S1pUTjV4cHg1OUd5VUV0Y2RIb0FDNUJCU0tVd0JTeTFwUWZsTFlna00tb0w0Qm43enFmdmNSSlNMeVlmclhzOGgwSHRIdWI4TzNYMGF1MTdIQmlHOG15eFZGWUs2a9IBzgFBVV95cUxQWTd4cUdqeTRVSlF3QlNtc1F6SHBFdlFsX1RGOHl5RUc0dHpUaU5RTkZwTVVWYUxlRXFVbmZNT0VyX0ZzWUdBemJVMThRZVFEZXNoakI3VEFqaXFjbzllWF85S2lvbFIwNk9VT0QydFFkYzRsSGdYZGM1V0ZRaTgxRTZBQ1g2ajVsVE9oekpBbWhmY2laM000QlU1WGNJaVFZa0dVcGZLajRkb0RrM0tDdTNud3pVa2k2WmN2dW5TRHhYVnUzWE5hZXpjT2JRQQ?oc=5",
+      "source": "Al Arabiya English",
+      "published": "2026-11-12T17:16:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "00916c7a76a8c68ab29af4",
@@ -1274,6 +1346,18 @@
       "image": ""
     },
     {
+      "id": "0c77e51cbe65685dadcbb0",
+      "title": "Jensen Huang is in a world of trouble, and that could mean trouble for the world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUElGN2huVU5fWEJUbGh6WWx0RXNrREpUREtpemhLZ3NSWHBmaGpoOEdsa2VkdXNDWjZCUmE2eHNpZHB4N2dMLS1JQjNDMmstbzZneTdxSExoMFVVUFFtV2l4SjVBTjlaQUdmb0d2U0JydFNxTlQw?oc=5",
+      "source": "The Boston Globe",
+      "published": "2026-11-12T14:42:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0667206cea2b4fd869877c",
       "title": "How Europe Should Read the US Midterms",
       "summary": "",
@@ -1354,90 +1438,6 @@
       "published": "2026-11-12T14:16:16Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1db4e19acc55c47ec3db28",
-      "title": "Canada Dollar Under Pressure as U.S. Dollar Strength Tests the Loonie",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGx4cFFwQnFRMUdXX05HNGo4MUZBRElWdHZ1MU14ZHlCYWFBTHdQbWJ6R20wbTNyRUdlSnRKU3o2VURoZlBIdFVnR2F6QjA4MzlPdGZTZUJBRjB6aWgtRTBaSVVDS29HSjZpTjZpdDhaT0I4eGl3V3E3TnNfWDNiVTNnSlI0U2YzQXBZNDl1Z1NLRURnZERBbUIxeXE2UWxrbHp4aThfVzc?oc=5",
-      "source": "kalkine.ca",
-      "published": "2026-11-12T14:14:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "072f89b05dfa1b87fdcebf",
-      "title": "Canada Bond Yields Face a New Test as Inflation and Rate Hike Expectations Rise",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWRGVjhBYXVpelpVMG9oaFZPSDZnak9WZUkza1RrX2c1blFhcEVfY2xMelpEbzlNVXVLZVFnU1RoTVVaeXFZT2t0UXE5aEM0OGlzRVhYcWNhbXU4NWNMSTZwSUdoM2szVWN3VmRFTWtLeE9MYTNCLWtxOW1TUWplekhCdWtSc2dvMnNUNEVRX2FqaEVDdVFPYnZDSkl2aEw5bkhVaG5nY0VmeGRteW95RHBvVU96NGZC?oc=5",
-      "source": "kalkine.ca",
-      "published": "2026-11-12T14:14:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cf25b96ec5dedcb1991a24",
-      "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
-      "summary": "Bricklink, a popular online marketplace that Lego bought in 2019 where fans can buy and sell parts and sets, has been down for a week and the company doesn't know when it will return. The team who runs the site has been sharing updates over the past week including estimates of when it will be [&#8230;]",
-      "url": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
-      "source": "The Verge",
-      "published": "2026-11-12T14:13:58Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bricklink1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3c1623c59a452c04923eff",
-      "title": "Keurig Dr Pepper Launches $2 Billion Stock Offering",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xb29jajIwM19ibHVaNGJFd20wMnJKOUpvQ3NJNk5BN2NPVnpBSm9kTzRYREJTSzJheFlWVUx2MWNvRDJ4QWV4c2Y5ZVByVUgzMHk1TWFHd3NBWWNSejdPTk82QVpEdkNDU21XdHJpSkV2Rlp3ZG9ka18za1E?oc=5",
-      "source": "STL.News",
-      "published": "2026-11-12T14:10:38Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "208a59594d1f9b2794e4c9",
-      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-      "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T14:10:34Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205210966.jpg?resize=1200,800"
-    },
-    {
-      "id": "412fd95eff74cad8ca5cd9",
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on [&#8230;]",
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "source": "The Verge",
-      "published": "2026-11-12T14:10:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b8ab461d59da9997986ee3",
-      "title": "MetLife Tops U.S.-Based Financial Services and Insurance Companies on 2026 Fortune World’s Best Workplaces™ List",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdkZWQk5WeWlBdjNfRmdGUjhndk1QRjZNd0FqTFhuS1pkX3JuTEpCOWxnNmVLOWFUY0daWTQzcjRMSk9jNi0xa2RzcEswRGs5eTdwWFJseENna3BZXzg2UlNwcGstNVlyblh0WnRGNlFxcFZ0MWJ0MmtFdW9xUnFDUTdpQkhUSTB5NjBwSFNXUUkxcnA4RTgzRkpfOWdOTzhySkdVUjYwYzhxcVdfZXp1X1R3VTJBRndsUFdiWklMM3hXY1Q3cEJRVFpjN0tXYVRzVDlPQ29HMDE3ZFZWbUtLNDk0RGpIdFc2cE9WOEhIUjFmZkRKbGV1SEFicDV4cE0?oc=5",
-      "source": "Morningstar",
-      "published": "2026-11-12T14:09:00Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }

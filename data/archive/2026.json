@@ -1,5 +1,53 @@
 [
   {
+    "id": "dd62360cdb55684548b933",
+    "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+    "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely hum",
+    "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+    "source": "The Verge",
+    "published": "2026-11-12T23:43:22Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "607d4d7557c40807b113b5",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+    "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-12T23:34:05Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+  },
+  {
+    "id": "5f694a374897b00953b4d8",
+    "title": "Nscale Projects 14-Fold Revenue Surge in Amended IPO Filing",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhZbzNkOFBTRVcyaUVnNmQ0TWJNYlNHek9FUVlUdW42LVh4d2VTZHE5MXRpbk1BYUl0Z2ExWHJhWTA1TnJmNHFQRTBZbjZvZW0yQXozNmJiSTlsc3l2Skl3WWhJd01WQlp1dmhZVTBIdThGU0Naa1VsQmRkY3FZMjR1azZYNkRScHBLVE5tR2VWZFlsZ1ZNWWdqOTc?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-12T23:31:16Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ecab0e7e397b310858703d",
+    "title": "Humble Bundle redesign removes two-factor verification from settings",
+    "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer [&#8230;]",
+    "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+    "source": "The Verge",
+    "published": "2026-11-12T23:30:52Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&strip=all&crop=0,0,100,88.092261904762"
+  },
+  {
     "id": "d5cc30ce1b8a71cb5403e8",
     "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
     "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" [&#8",
@@ -44,6 +92,18 @@
     "published": "2026-11-12T22:30:47Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "918aafbea96e525db8e98c",
+    "title": "Explore What's New in the RSNA 2026 Technical Exhibits",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DM1ByRG5pYllscGo3VldURTMxN18yR0k3bUEtUE56bWhYdkRNSEhpS19Ibl9FSE1TdGJ5SGFlb0JIR2lMRWNOUEE2YlJBbHFBdXZKWERoRXdzSkkxSjcxbXN6TnVjVFdTbVZOdDVhM2xFV2EwOFFJ?oc=5",
+    "source": "Radiological Society of North America | RSNA",
+    "published": "2026-11-12T22:26:15Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -610,6 +670,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801"
+  },
+  {
+    "id": "4a876ddfddc7c66ff57ce2",
+    "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRTJlajFIS19kN0FoMlRwSWdqTmd0SW1vYWR0NGNCcEUtZ2ZMX0ItaUpwNHhxbHhFMGpjREQ2cFQwR3BWck5fNlg5QTZIUkFRZERBR1UyZ01yNS1xX25YSXJWMmUyNktDS0M4S1pUTjV4cHg1OUd5VUV0Y2RIb0FDNUJCU0tVd0JTeTFwUWZsTFlna00tb0w0Qm43enFmdmNSSlNMeVlmclhzOGgwSHRIdWI4TzNYMGF1MTdIQmlHOG15eFZGWUs2a9IBzgFBVV95cUxQWTd4cUdqeTRVSlF3QlNtc1F6SHBFdlFsX1RGOHl5RUc0dHpUaU5RTkZwTVVWYUxlRXFVbmZNT0VyX0ZzWUdBemJVMThRZVFEZXNoakI3VEFqaXFjbzllWF85S2lvbFIwNk9VT0QydFFkYzRsSGdYZGM1V0ZRaTgxRTZBQ1g2ajVsVE9oekpBbWhmY2laM000QlU1WGNJaVFZa0dVcGZLajRkb0RrM0tDdTNud3pVa2k2WmN2dW5TRHhYVnUzWE5hZXpjT2JRQQ?oc=5",
+    "source": "Al Arabiya English",
+    "published": "2026-11-12T17:16:00Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "0039716ebb4ac156c62a96",
@@ -9526,6 +9598,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "39dc1bf70a637c0f9ef943",
+    "title": "The Vogue Business AI Tracker",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
+    "source": "Vogue",
+    "published": "2026-11-10T11:00:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
   },
   {
     "id": "3d442e80247bc0344540c1",
