@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-12T02:01:29.708428Z",
+  "last_updated": "2026-11-12T02:51:43.745691Z",
   "articles": [
+    {
+      "id": "f00d6e2e6acb11a692a180",
+      "title": "The Importance Of Opening Up Chinese Cities To The World – Analysis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTdZakVSQzZtYUhicExlaHhxSkRxb0hQVXMwc3Q0UndtSXJTTVhhMUZJbjF1YzZTRnV2Z2F3aWRrNHNzUEx5VmhFVVk1d0phZTFLcy1EUkhtUGgyeFRDNmxMeGdPY2txc0xvd3dMR2phbHJPN0MzS2VCR0kyRmN0cGVVZy1zMUcxbzR2SmRBU1dGRUYycGtOSVMyWTB6TGxCdFNKUUdESFU?oc=5",
+      "source": "Eurasia Review",
+      "published": "2026-11-12T02:40:09Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ba0f48ae267121daa50668",
+      "title": "New York building collapse kills one person and injures 12",
+      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T02:33:12Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
+    },
+    {
+      "id": "6b0875495d9978f4cce3b8",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T02:09:08Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
+    },
     {
       "id": "5b009b32b401e267a6ed59",
       "title": "APEC 2026: China Puts Small Businesses at the Center of Its Innovation Agenda",
@@ -10,6 +46,18 @@
       "published": "2026-11-12T01:56:26Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "739143146317ebde2a44c4",
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-12T01:55:18Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -24,30 +72,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "ba0f48ae267121daa50668",
-      "title": "New York building collapse kills one person and injures 12",
-      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
-      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T01:34:58Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
-    },
-    {
-      "id": "6b0875495d9978f4cce3b8",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T01:00:04Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg"
     },
     {
       "id": "756f0c844eea9470152966",
@@ -91,9 +115,9 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1NGWDBXUzhOYVpGLW5nNGEyMEhzenU5eURLMUNQYl9MS3NvTl9GOFViRlNIZDFTV1NoeVBZWVJwMEN0TFJUSlpPZUZEZlFtZ3hkb0xsTHlERkRtVUUwUUIzWXdUUFRqUm5zNjBsT1NHNnhiOWxUdFhXMVdjMGxfSjVR?oc=5",
       "source": "CEPR",
-      "published": "2026-11-12T00:38:54Z",
-      "category": "World",
-      "topic": "Europe",
+      "published": "2026-11-12T00:38:30Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -410,6 +434,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
     },
     {
+      "id": "36cfd98abb15237ca42352",
+      "title": "PubMatic swings to $5.5m profit as revenue gains 17% in Q3",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jdE5WVE9zUWpKTUtqcWpXbFAtSWFEd1JhR0JYeHJSVXpMTzFBT2F5Vnhyb1I5YjRWUHhCcGxiY2txSDJ4LTZJbXJ3Y0JOUUM3elpMWHNNVGZlMmE3QXoxcXp1VThhWVB2TjhKRUQ4b2NWeERUUFFKTnZGM0RxQ0E?oc=5",
+      "source": "PPC Land",
+      "published": "2026-11-11T20:14:31Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "364092bc196c049bd02441",
       "title": "Meta is losing its longtime head of infrastructure",
       "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
@@ -432,18 +468,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-10.05.34-AM.png?resize=1200,842"
-    },
-    {
-      "id": "36cfd98abb15237ca42352",
-      "title": "PubMatic swings to $5.5m profit as revenue gains 17% in Q3",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jdE5WVE9zUWpKTUtqcWpXbFAtSWFEd1JhR0JYeHJSVXpMTzFBT2F5Vnhyb1I5YjRWUHhCcGxiY2txSDJ4LTZJbXJ3Y0JOUUM3elpMWHNNVGZlMmE3QXoxcXp1VThhWVB2TjhKRUQ4b2NWeERUUFFKTnZGM0RxQ0E?oc=5",
-      "source": "PPC Land",
-      "published": "2026-11-11T20:01:12Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     },
     {
       "id": "b5832023985142399047f9",
@@ -525,7 +549,7 @@
       "source": "Asia Pacific Foundation of Canada",
       "published": "2026-11-11T18:51:57Z",
       "category": "World",
-      "topic": "Asia Pacific",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -670,6 +694,18 @@
       "published": "2026-11-11T17:29:50Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f2114c190318767ca9bcc7",
+      "title": "Europe's Innovation Trap: When Industrial Maturity Makes Risk-Taking More Expensive",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aWh3VFlvS3NqVk5vVENucDJMaHVjSm82WjUyV0NrVW1ydzAzcEJDdGNCaVV1MDg1a1lTNmdkSXIzWmZjbU1NRGJXNTZHQkVaMWxCdDBKdnNXdw?oc=5",
+      "source": "https://economy.ac/",
+      "published": "2026-11-11T17:29:45Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -854,6 +890,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "d231dcf0150741a345260b",
+      "title": "Taiwan appoints Acer founder as APEC envoy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BdmtJbmNiUmVuZGFyYlBEMnlScW1oaFV4Y080UlNPcHZ2cTNCQnZJeEVUTFZLdkxiQU1KZ2tINGt4YnJZemZobHJIUkhuUGk0dTNzR3ZKbTF0Rk90dklyOGQyeXdZNF84T2d2c3BNaGRlNVFEbmZwVg?oc=5",
+      "source": "Taipei Times",
+      "published": "2026-11-11T16:00:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "41ae633c6584dee9d5b17b",
       "title": "The best early Black Friday deals you can already shop",
       "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historical",
@@ -864,6 +912,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3438b8328487646b6c1d06",
+      "title": "Companies that rebuild procurement around AI see major returns on investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd00yWU0ybG9FTHVOSnREaEZWdWJsdlR0aEZLVUVWWXBYQWpIbUlPbXdVaVlrYnl2LTVtUTlMdlpqR2sxZ2hjTS1kdUctRXFoR2k2LVkwN2xtWlNrODlCV2QtUmprZnNyMWtiWGgyNHdqV2RFdzJYaTB2SW1SeHF1dnpTb2REeXlKOWFocm02TzJQUkhlNVU4V0I4VUY0ZHhiVUpVWE1BRmtLdkotcXN6NlBIQdIBuAFBVV95cUxNT0Z2V040NkNMTTMtbW9RaWIyclU2eVNfZDlXeFpkaGNUTEgtb2lfNnpvenpaNVptQk1wOGVZdkk4dUtINm03TzdXM2pySXM4Mm1FQUFreWFhYjhTYTRwWHdEU0E2TVRjdFFMOTU5dlAyYnZJOWx1T1NMd0Q1eGxlNEpDUWlGUUVXRFozTmF2OURqazAwRFRHSDBLZE16VXVQU05CWVo5OU9abTBycVpuaUttRVJ3M2NU?oc=5",
+      "source": "Consulting.us",
+      "published": "2026-11-11T15:52:38Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "56d14563c1c9200220bb2b",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-11T13:03:21Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "53cf43c23ca1eb5e1c4b84",
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be [&#8230;]",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "source": "The Verge",
-      "published": "2026-11-11T13:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b12bf270b7caed37350aa5",
-      "title": "Not everyone is loving their new iPhone Duo",
-      "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make [&#8230;]",
-      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-      "source": "The Verge",
-      "published": "2026-11-11T13:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c8aa5030e1b351e0488161",
-      "title": "Nigeria proposes regional bond market reforms to spur cross-border investments",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDBTNk11TU5ZN2tjZkxvX1F5WGRXR0hCZXRNTkVUemhRbUtKX3p0eDU5dF9FWF83R1RoMFZqSS1yWkNlLVE3dUpuWHI3Vll6ZkdzSG5nVktBNmd0dTZOS1hlUnUxQUVDWnIwV1lJTkdyVW0xRjRwaWlKMUEtdURvWW9BN0JTaVJTdjFlSFhDaUVYZF95c0dFMDUyY3otNU5MRVF3ZXppcw?oc=5",
-      "source": "The EastAfrican",
-      "published": "2026-11-11T13:00:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3116dfbf95ac28d80134b1",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-11T12:53:11Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1675/live/f68a02b0-ddcd-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "58030e66c10ac1e806fe0d",
-      "title": "Business Leaders Highlight Investment Opportunities in Jordan–EU Conference",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMldfdzlRdWR5OFFhQkd0ZmtEWDYxQXNKX2RkbTAzX2VjWGpmQlUxRDlUWHpFWTNnbHFHWERnb0xTaEJwNmExakpYSUZmSkVMbkltVHVZUXMxZWU2d1o1ODFLRkZKd0ZraWVCck04bVlnM19KZ051UXF3elhEWFZvT1BOQjdrbWgxY1BHc0tqbnJEVnZZNE9ELVVtNUhpV0w0TnFnZzFn?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "published": "2026-11-11T12:40:22Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     }
