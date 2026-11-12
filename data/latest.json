@@ -1,15 +1,183 @@
 {
-  "last_updated": "2026-11-12T18:24:47.622576Z",
+  "last_updated": "2026-11-12T19:31:43.150277Z",
   "articles": [
+    {
+      "id": "76f0f9d265ce6e4d1e1fa5",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:27:45Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589"
+    },
+    {
+      "id": "7ec49616553583c562ebf6",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T19:23:02Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "5e287749a052919098f362",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:11:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676"
+    },
+    {
+      "id": "a487e36889862acfd354c5",
+      "title": "Microsoft Outlook is down",
+      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [&#8230;]",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source": "The Verge",
+      "published": "2026-11-12T19:07:21Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "e7a7eed0983e3affd634ba",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:03:39Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676"
+    },
+    {
+      "id": "c20da2f52115f64534ff75",
+      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for ",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "published": "2026-11-12T19:01:37Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=75a25d982d0b336c2b44ba022e4252f4"
+    },
+    {
+      "id": "8b16e71439866d2afac0b0",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T18:47:35Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "bd79903a17a4b8df7ffd32",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T18:39:23Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+    },
+    {
+      "id": "8be381abd8082b422c7e52",
+      "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-12T18:36:43Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ffcae5247fbf9539219275",
+      "title": "OpenAI, Google, Anthropic Face Lawsuit Over Advanced AI Development",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlFHalJ3dWNTSXVxQ28tZ3o3aDBlLWJ6ZGYyNWR4aUZCNF9LeWpsWnYweHlRMG9EM3YyUVdDcWhiUGFhSmNCdDBkdF9vc3ZUM21uMUdMTmxLSjc1bklZemNxOTBxMGpXT0N5RlhzcnFzVUpOc3kyNDl4UGZPYlgxaUg0MlQ4aEUzdUQ1Y3hJREVTdmxDdThRZGJrUk9IYWtYZnZr?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-12T18:31:16Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "eabeef9e80729989856fc0",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-12T18:28:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "228ce7e6ea2786f8d5f973",
+      "title": "Google Launches Gemini 4 Hydrogen for Everyday Agentic Workflows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDJ0WjZmc2FHZ3BoRV9mLWJweTlXelBQNlhZemVWMmJCdFFnZzRhRkxtQ1VFbFF2TVdlcmJlMFRTaGoyMjV4ZkxlUklMS1U1VFdsQ2hsQUlzR01ZODdybWxFUDlucTJfTjlTZjlfVVFIRjRyeUpoZzlVTUZiczRhR01OcDhmMzFaY2UxRFIwQQ?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-12T18:28:04Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2f5d434a899abd39e8a34d",
+      "title": "New Hidalgo Plant / Digital Payments App",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5GeWRHV3JnLXp1RHRUOXZsZVp5QTdxRVdySFVRREFZX2Q5QWJFX3FZSTdaZDluSjlVT0tMZ01ZV0p5MmVVYjhQWkwtOFdjY2dCVnExS2xyUVd1Q09kZ3Z5RjVtS0Z5V2VLRnBXelBDakMwWGdrVHYzUmNCLVZkeXhWeHczYXNldTRseWJHSEh4QQ?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-12T18:19:17Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "c9ffad50ddf6b61ebc3c52",
       "title": "FX Outlook 2027: Seven key calls",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wRWF5WkI5cXJEV3F2MkRWRnFjeTFYOUZhNU9uSXYwRnJJa1Z5RDFfU2Z0RnJMNHdMUW1xRFJyOEZBMFo5ZEloZDVDRmtjUmswN3NmOWFScjhoTUpBUG5wYTlZdG4xb1ItaGpSMTdkS0E?oc=5",
       "source": "ing think",
-      "published": "2026-11-12T18:10:01Z",
+      "published": "2026-11-12T18:09:18Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "228441991ea41e2ce2be72",
+      "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGZPN0R3U3EyaUN6MEpaNXlrd2pJbnJJTG1BZXo4WWRKSW9oMW0xQkE2VjlyeU42TldBVW1kcDdxNEFJSVFtdEg5VjdfdmtGRW1VRzlhWFlNSGdQdjFwMXkxYkl0OVl4el9XcFptT1hxekxPNFBvLVRHQXFlaGhJdThQRmFMWWVXZHJYUzY2SUFWTEpqS0E?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-12T18:09:11Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -38,18 +206,6 @@
       "image": ""
     },
     {
-      "id": "c20da2f52115f64534ff75",
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for ",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian",
-      "published": "2026-11-12T17:54:15Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=75a25d982d0b336c2b44ba022e4252f4"
-    },
-    {
       "id": "ce1eab2bbb5c79a9e4f640",
       "title": "The Jensen Huang scandal is hardly over",
       "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
@@ -62,21 +218,9 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "8be381abd8082b422c7e52",
-      "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-12T17:41:51Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "cf8aede2b245e7bec292d7",
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
       "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "source": "TechCrunch",
       "published": "2026-11-12T17:36:40Z",
@@ -160,7 +304,7 @@
     {
       "id": "0039716ebb4ac156c62a96",
       "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
       "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
       "source": "TechCrunch",
       "published": "2026-11-12T17:00:52Z",
@@ -266,18 +410,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
     },
     {
-      "id": "8b16e71439866d2afac0b0",
-      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-      "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T16:52:53Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb93/live/054a0170-de1d-11f1-9d68-c1daaffc01f2.jpg"
-    },
-    {
       "id": "9321d1937aaf753ead2b6e",
       "title": "Yocale.ai targets beauty and wellness market with AI-powered business management platform",
       "summary": "",
@@ -324,18 +456,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
-    },
-    {
-      "id": "eabeef9e80729989856fc0",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T16:31:12Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "d533790e4d2bd7ed50cfc6",
@@ -386,6 +506,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024"
     },
     {
+      "id": "890d8ff5f5da35e56494dc",
+      "title": "Economics professor discusses impact of AI on global economy, public opinion on globalization",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlpQbHpSYldsQVE2eVhabnhfNGpkbW5MU24xYy0wMXZWOEQxdHdMd0prQzdreFlFZkxtTk9DSV9HZ0pqc1NEYTM4U1NlMG9nVTJpUjFxbWNPLU4xLWZBbUdBSzlEeXQwNFpJVUhkbTBETjB3dkFuUzA3cjhVNVkwR1hxNnNsWVNRUXdDbDQ2akJYMS1sNVFyYU9ldE9OU3RBd04yN3pYd0stSHVROWhCV2xVM1h4MUNlOEZETXM5OWxNcWhh?oc=5",
+      "source": "The GW Hatchet",
+      "published": "2026-11-12T16:06:31Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "23cd30b64977508809340e",
       "title": "Whoop just launched a social network",
       "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
@@ -432,6 +564,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv.jpg?resize=1200,1200"
+    },
+    {
+      "id": "5cf6869232a42bdc08418a",
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-12T15:31:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "22e91afbf24a5cf3286374",
@@ -662,6 +806,18 @@
       "image": ""
     },
     {
+      "id": "ca17ace35f98c7bf085f03",
+      "title": "President Ramaphosa to lead delegation seeking AI investment in the US",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEpUaFVPMUtUbm5PV245UlM0Wlo2ZGxJZ2FlQ3J4WVdlRjlCMlQ0eC1WUzdqRlRyaU90RWtUbTlqRXBqNV9idE4zUC1YZU90clotaV95RWE5bzZBc2pUaV8ta3Fveklib1NETi13VW1UU2hfMXNzWWJJMzBCcFNvZ2xtVFlLbE96YWZEU3pTS2xHZG1JQlpTTmNlMW1VQ1ZycHNxbkRiMEVOWkRWU2QwdkQ5OEJSaEYwSmc?oc=5",
+      "source": "IOL",
+      "published": "2026-11-12T14:36:23Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e37e37e8f11c250ce2bde7",
       "title": "Why is Japan's yen becoming a problem for the US?",
       "summary": "",
@@ -818,6 +974,18 @@
       "image": ""
     },
     {
+      "id": "4ac6710bef183f710c2abc",
+      "title": "‘Witch hunt culture’ threatens global economy, veteran Chinese investor warns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0JJRTZCa00yaWIzdHBoLTJoeVlRWG45anNRRERWc01YSzlGQURWNTVJNnkyZzAwbnA3M01keUN3MVFUUTNCYkhDWkhqTEdDU2pPMjAwcW9raGNvZmVOZnl5WnZDR0UydU1xMXVUT1I3M0lHRFJfNnJIMTZwNEN0Y25BRVN1ay1OSTltY181YzhsNzVrbkU2X0tMR3YycHdxREZZRUhubXRoV0tzei1QdHd0UC1oVGtTUGppbXF3ZXd2YVdwNWdScDl6WnFxVXfSAc8BQVVfeXFMT1FTdGNfR3R5eXZ6RmZubmNqbF9CYVFyYmVHTzAyT2pGNmMxMkhSYkNxSmotYjBrdk96SzR2TUREMWlBZklPYjFKczY1Nk5IM3BlSUNxRmxKYVlKRTVUSTBIb1N6T0NVbDlyTGZGXzVXOG8tQS1IYndFTGpNcFdMdUNJZDh6bURPbXhzVzJjOGJkWWRFTlFSemgzRkZNbWNfeXo0X294bUJ6WkdLUVFZWDExbXhzRFhDeUY4aVBySkdUSG5ZcE9SRXVjYzk1WWI4?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-12T14:00:05Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7a7d9db47938ebf04307ff",
       "title": "Opus Technologies Strengthens its Global Presence with Expansion in the Middle East and Singapore",
       "summary": "",
@@ -934,6 +1102,18 @@
       "published": "2026-11-12T13:39:23Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "44f54340d0fc6b422286ea",
+      "title": "Columbus-based Finite State raises $27M to expand connected-device security platform",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmJQZnVHWEtwNFNzaXN3bm56bjV6SVU2bzl1TXF2RkVqZ2JVbmtLb0lhWmswS1hOdmRmV045ekl3dW5TbEJDdDZ2YzQtLXkwSlBaQXR5X3kzRGUzLUkyNE9UMmMxdjFTTFlTbzFMNks5R3ZlZms0MDhQejVjWDlDRkpUQk1aVzk2NWR0OHRUc09GMEFPa2d5NE45NA?oc=5",
+      "source": "Ohio Tech News",
+      "published": "2026-11-12T13:38:14Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -1092,18 +1272,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
-    },
-    {
-      "id": "7ec49616553583c562ebf6",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T12:39:39Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "1c6ae1d0ae99dfe1bd0b8a",
@@ -1270,174 +1438,6 @@
       "published": "2026-11-12T11:57:41Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d591981f32d42e1768840f",
-      "title": "New York building collapse kills at least four people",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T11:48:14Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
-    },
-    {
-      "id": "ed705dd8a3a1df2223a6c5",
-      "title": "Commentary: What the midterm elections could mean for Missouri's economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1QxT1RsSlJBSEpWX1JIbTRkZExobnRBcjJGRDliWjlRdG5qZWdxTm82bmJDYjBpR1pTeXpISWhhLWc4d3QwOGFqSlBxQ2hoWnkwOTQtaWZaSlBqX2c4aTZHREFha2MySV90bEwwaTZVc2VJWTJVLUtIZzdJV3k2ZTUwbHE1ZkM2VlRnVlFSUXZ1RGpVcHNaZW85WHcweUlVaEFHYjVB?oc=5",
-      "source": "Missouri Independent",
-      "published": "2026-11-12T11:46:23Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5cf6869232a42bdc08418a",
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-12T11:35:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a2d87810df020d22a9635f",
-      "title": "Corteva Cuts 2026 Outlook as Brazil Crop Protection Slump Drags Sales Down 9%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSWN6V21ScFF3YlhrNTBLeHBnYW01Y2hBbzBwQjV1LXR4RmI1alZKdWVvdlhsTVhYRnlnOVRqRnVPZ3RRNzRSM1RmdnY5b2VqeXdYZVlKUVdOSWVpSTI5ZmF2SU1PX3NSSms2OXlhMXlZRDBNb0E?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-12T11:25:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1b127e2f67ca793c7cd9a0",
-      "title": "UK economy grows at fastest rate for more than two years",
-      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-12T11:20:25Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "01f897925aa1932d8bb107",
-      "title": "[Opinion] Embracing the Asia-Pacific, connecting the world",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81S1h5b0hwaERONW5CbjNYNG04ZkZsTmQxRkx2QUc4QkFZYjBNUm5ldlpBX3o3ZmpWWkk5U1kzQTdld05Td2hYZUNPellCSGZoSVg2OEFrWG5GZ3lQLWU2eHFsVnBqU1Ixc2c1bGl30gFuQVVfeXFMTzVLWHlvSHBoRE41bkJuM1g0bThmRmxOZDFGTHZBRzhCQVliME1SbmV2WkFfejdmalZaSTlTWTNBN2V3TlN3aFhlQ096WUJIZmhJWDY4QWtYbkZneVAtZTZ4cWxWcGpTUjFzZzVsaXc?oc=5",
-      "source": "The Korea Post",
-      "published": "2026-11-12T11:18:49Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a73a18fdc817c1b6c509bf",
-      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS [&#8230;]",
-      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-      "source": "The Verge",
-      "published": "2026-11-12T11:12:32Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c714eb74d985cd301b6ef4",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-12T11:07:19Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6413/live/e56f4d60-de76-11f1-9115-cfe6d179af3a.jpg"
-    },
-    {
-      "id": "3aa89ba53715ee665b0924",
-      "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
-      "summary": "Rallies take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are holding rallies at over 40 college campuses across the US on Thursday to support the Starbucks Workers United boycott campaign as the union nears five years of deadlock with the company",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
-      "source": "The Guardian",
-      "published": "2026-11-12T11:00:48Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ffdfa7a208647db76be86a3c05984b8303af9ed1/376_0_5493_4394/master/5493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e22f98a8c255d5c3f5761feecc0ef07a"
-    },
-    {
-      "id": "e87aacabb74e4e98fb120a",
-      "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
-      "summary": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology. Health bosses had ",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
-      "source": "The Guardian",
-      "published": "2026-11-12T11:00:47Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/95c422c3f4ddb97d445e586e9da99aba18c88ab1/373_0_4131_3305/master/4131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2af18268d9b282a2bc0e29d15d7e679"
-    },
-    {
-      "id": "3519de8795face3c22fca7",
-      "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
-      "summary": "It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind. Is this facility in Falun the best datacentre in the world? ‘It was pretty cool, when they were building it. It looked like a very large Ikea,” says John Wernvik, of EcoDataCenter. He is giving me a tour of their facility in Falun, ",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
-      "source": "The Guardian",
-      "published": "2026-11-12T11:00:46Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6f4053626333cdd94adcb884ccef812b559854a9/247_0_2901_2321/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4a93a9ec27f7af79b36d82a0be483d7"
-    },
-    {
-      "id": "512401664ae08ed292faaf",
-      "title": "Mastercard to add over 250 specialist job roles in Singapore by end-2029",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3BrVzV3UjZXcXdTX0Y5eUVYdnNLM0hCNmJDaXB5d3FMMDZnRDd5d05YY1huS21UcjljR0RaZm12R3JuckFLT3lBMGFHaVliWmxJakpHd0c0NENLOHVfNG56WVktbkpzUFRhSnBtbXozcnRtTWpmcnN6cV9JSTZES3JfeG4yeFFqVVZwZGhlNGZQWjZONUxuYmZFZzRUc1hOTXZjbnprSHpMX0lDNGxpM2JzbnY?oc=5",
-      "source": "The Business Times",
-      "published": "2026-11-12T11:00:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "32d3437663010ec663f978",
-      "title": "Robo.ai to Advance Its Middle East Public Safety Strategy at World Police Summit 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbTl0UWRGczkxa1dzVFZEeDYzMXJoSEx5c1hQcVZ6aEtvUlY5SzdtWXdBUUtTQWJtSTVtd3RlNy1iX3BSTmU1MFBkTWtjTTFGajgxVENGOFFocTB1a1RiNEp1Y3VFUm9XMF8zSE1wRE5MMnJOcEpGdFJqaC1SN3NFV09McF95MHc4djNyeFM1aEplVENHcWdlcHI4YWd1OFVqeENrX2ZsUy1ma2k5U3UyMkpqekNQdWY2cG5VbFNQZHJLN1hjVktYTVFVY0NWTFNSTDFpSU5ad1R5RXJITnc?oc=5",
-      "source": "Morningstar",
-      "published": "2026-11-12T11:00:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "696ae9f4e7085ac235864f",
-      "title": "UForce Raises $700M at $6B Valuation to Expand Drone Technology",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYzlGX0czbTFndXJBZmRHMDJRVl8tSS1xNG5abEdXamhGRm04alJ5NC1EU0xCZlJPZUxIelNZMEFEdnYzWXJQejRlT29qRGFPM2JBQmpoYTlVajNpMDhHNVpwVDh6SlpueHlWZXZhcEtUbHAyaktqSWpWYTdfeDIxWVg5NENQZFVpQ1BheUlVQWgwZDRvZU41MlNJU3V6QQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-12T10:51:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }

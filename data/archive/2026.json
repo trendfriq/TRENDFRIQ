@@ -1,5 +1,101 @@
 [
   {
+    "id": "76f0f9d265ce6e4d1e1fa5",
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T19:27:45Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589"
+  },
+  {
+    "id": "5e287749a052919098f362",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T19:11:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676"
+  },
+  {
+    "id": "a487e36889862acfd354c5",
+    "title": "Microsoft Outlook is down",
+    "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [&#8230;]",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+    "source": "The Verge",
+    "published": "2026-11-12T19:07:21Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e7a7eed0983e3affd634ba",
+    "title": "Microsoft’s Outlook email hit by new outage",
+    "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+    "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T19:03:39Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676"
+  },
+  {
+    "id": "bd79903a17a4b8df7ffd32",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T18:39:23Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+  },
+  {
+    "id": "ffcae5247fbf9539219275",
+    "title": "OpenAI, Google, Anthropic Face Lawsuit Over Advanced AI Development",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlFHalJ3dWNTSXVxQ28tZ3o3aDBlLWJ6ZGYyNWR4aUZCNF9LeWpsWnYweHlRMG9EM3YyUVdDcWhiUGFhSmNCdDBkdF9vc3ZUM21uMUdMTmxLSjc1bklZemNxOTBxMGpXT0N5RlhzcnFzVUpOc3kyNDl4UGZPYlgxaUg0MlQ4aEUzdUQ1Y3hJREVTdmxDdThRZGJrUk9IYWtYZnZr?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-12T18:31:16Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "228ce7e6ea2786f8d5f973",
+    "title": "Google Launches Gemini 4 Hydrogen for Everyday Agentic Workflows",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDJ0WjZmc2FHZ3BoRV9mLWJweTlXelBQNlhZemVWMmJCdFFnZzRhRkxtQ1VFbFF2TVdlcmJlMFRTaGoyMjV4ZkxlUklMS1U1VFdsQ2hsQUlzR01ZODdybWxFUDlucTJfTjlTZjlfVVFIRjRyeUpoZzlVTUZiczRhR01OcDhmMzFaY2UxRFIwQQ?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-12T18:28:04Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2f5d434a899abd39e8a34d",
+    "title": "New Hidalgo Plant / Digital Payments App",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5GeWRHV3JnLXp1RHRUOXZsZVp5QTdxRVdySFVRREFZX2Q5QWJFX3FZSTdaZDluSjlVT0tMZ01ZV0p5MmVVYjhQWkwtOFdjY2dCVnExS2xyUVd1Q09kZ3Z5RjVtS0Z5V2VLRnBXelBDakMwWGdrVHYzUmNCLVZkeXhWeHczYXNldTRseWJHSEh4QQ?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-12T18:19:17Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "c9ffad50ddf6b61ebc3c52",
     "title": "FX Outlook 2027: Seven key calls",
     "summary": "",
@@ -8,6 +104,18 @@
     "published": "2026-11-12T18:10:01Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "228441991ea41e2ce2be72",
+    "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGZPN0R3U3EyaUN6MEpaNXlrd2pJbnJJTG1BZXo4WWRKSW9oMW0xQkE2VjlyeU42TldBVW1kcDdxNEFJSVFtdEg5VjdfdmtGRW1VRzlhWFlNSGdQdjFwMXkxYkl0OVl4el9XcFptT1hxekxPNFBvLVRHQXFlaGhJdThQRmFMWWVXZHJYUzY2SUFWTEpqS0E?oc=5",
+    "source": "The New York Times",
+    "published": "2026-11-12T18:09:11Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -300,6 +408,18 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024"
   },
   {
+    "id": "890d8ff5f5da35e56494dc",
+    "title": "Economics professor discusses impact of AI on global economy, public opinion on globalization",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlpQbHpSYldsQVE2eVhabnhfNGpkbW5MU24xYy0wMXZWOEQxdHdMd0prQzdreFlFZkxtTk9DSV9HZ0pqc1NEYTM4U1NlMG9nVTJpUjFxbWNPLU4xLWZBbUdBSzlEeXQwNFpJVUhkbTBETjB3dkFuUzA3cjhVNVkwR1hxNnNsWVNRUXdDbDQ2akJYMS1sNVFyYU9ldE9OU3RBd04yN3pYd0stSHVROWhCV2xVM1h4MUNlOEZETXM5OWxNcWhh?oc=5",
+    "source": "The GW Hatchet",
+    "published": "2026-11-12T16:06:31Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "23cd30b64977508809340e",
     "title": "Whoop just launched a social network",
     "summary": "Whoop is launching a social network that lets members share their sleep, recovery and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
@@ -528,6 +648,18 @@
     "image": ""
   },
   {
+    "id": "ca17ace35f98c7bf085f03",
+    "title": "President Ramaphosa to lead delegation seeking AI investment in the US",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEpUaFVPMUtUbm5PV245UlM0Wlo2ZGxJZ2FlQ3J4WVdlRjlCMlQ0eC1WUzdqRlRyaU90RWtUbTlqRXBqNV9idE4zUC1YZU90clotaV95RWE5bzZBc2pUaV8ta3Fveklib1NETi13VW1UU2hfMXNzWWJJMzBCcFNvZ2xtVFlLbE96YWZEU3pTS2xHZG1JQlpTTmNlMW1VQ1ZycHNxbkRiMEVOWkRWU2QwdkQ5OEJSaEYwSmc?oc=5",
+    "source": "IOL",
+    "published": "2026-11-12T14:36:23Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e37e37e8f11c250ce2bde7",
     "title": "Why is Japan's yen becoming a problem for the US?",
     "summary": "",
@@ -696,6 +828,18 @@
     "image": ""
   },
   {
+    "id": "4ac6710bef183f710c2abc",
+    "title": "‘Witch hunt culture’ threatens global economy, veteran Chinese investor warns",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0JJRTZCa00yaWIzdHBoLTJoeVlRWG45anNRRERWc01YSzlGQURWNTVJNnkyZzAwbnA3M01keUN3MVFUUTNCYkhDWkhqTEdDU2pPMjAwcW9raGNvZmVOZnl5WnZDR0UydU1xMXVUT1I3M0lHRFJfNnJIMTZwNEN0Y25BRVN1ay1OSTltY181YzhsNzVrbkU2X0tMR3YycHdxREZZRUhubXRoV0tzei1QdHd0UC1oVGtTUGppbXF3ZXd2YVdwNWdScDl6WnFxVXfSAc8BQVVfeXFMT1FTdGNfR3R5eXZ6RmZubmNqbF9CYVFyYmVHTzAyT2pGNmMxMkhSYkNxSmotYjBrdk96SzR2TUREMWlBZklPYjFKczY1Nk5IM3BlSUNxRmxKYVlKRTVUSTBIb1N6T0NVbDlyTGZGXzVXOG8tQS1IYndFTGpNcFdMdUNJZDh6bURPbXhzVzJjOGJkWWRFTlFSemgzRkZNbWNfeXo0X294bUJ6WkdLUVFZWDExbXhzRFhDeUY4aVBySkdUSG5ZcE9SRXVjYzk1WWI4?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-12T14:00:05Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "7a7d9db47938ebf04307ff",
     "title": "Opus Technologies Strengthens its Global Presence with Expansion in the Middle East and Singapore",
     "summary": "",
@@ -812,6 +956,18 @@
     "published": "2026-11-12T13:39:23Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "44f54340d0fc6b422286ea",
+    "title": "Columbus-based Finite State raises $27M to expand connected-device security platform",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmJQZnVHWEtwNFNzaXN3bm56bjV6SVU2bzl1TXF2RkVqZ2JVbmtLb0lhWmswS1hOdmRmV045ekl3dW5TbEJDdDZ2YzQtLXkwSlBaQXR5X3kzRGUzLUkyNE9UMmMxdjFTTFlTbzFMNks5R3ZlZms0MDhQejVjWDlDRkpUQk1aVzk2NWR0OHRUc09GMEFPa2d5NE45NA?oc=5",
+    "source": "Ohio Tech News",
+    "published": "2026-11-12T13:38:14Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -3240,6 +3396,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg"
   },
   {
+    "id": "0dc2b4327d45e47a98d29b",
+    "title": "EMEA FX Outlook 2027: Restrictive policy remains the key FX anchor",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OaThaVDhRRmZjTEZnbDgtSHpuOTh5RGp6V3FzWkpNZmNjYVdSaE9pelR0WFhPdHlDdE41a3V6R0VHS1Zicmg3cWVfaWV4M3E2dENSUWk2UW5rN2pjX2Q1amJ3?oc=5",
+    "source": "ing think",
+    "published": "2026-11-11T18:04:58Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "3be3f8f01028ef501000bf",
     "title": "Russia loses ground as Europe's 4th-largest economy doubles exports to Africa's largest oil reserve holder, with Italy–Libya trade hitting €6.8 billion",
     "summary": "",
@@ -5309,6 +5477,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2R6a3RQamhOcnZKN2RSOVBiWUM4YTV1Q2o5eWdvaDF0T2RFcXNlSWN1dlRaelRvbWFRekZYT01vWi1LZmhiWVVnVkY5dWhYTlVMdTNBbXZVTlcxa1FJNXU0RF9HUE93Y3VWNm9TTzFaLVR0Ui1NMGNfZmExMTVlNWxlN25wN0piQ1VjaEI3YkFvMmtmMDlGUUdzemJPU29NOWptUkRTYkd0dmZ6ZDNpMmlvVHNCY3hfMU1V?oc=5",
     "source": "Audacy",
+    "published": "2026-11-11T06:02:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7c125300e14c6e4fcfd755",
+    "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2Q1el90VVF2RDRHMGZkdnZ0Ni0xYi1CRHNBdXR5eHVWRUZ6MnBVRVE1YW80RGJEeVBMNG1iUWg4Yml4MFFxZS00VGt3R3Jwbm8wOEZsSmpiZ3NRVEpwRnM2YThVLWtEbTJGME9vb0dTX2gtaTk0Y0NjZmJUZFpjNHlJUmdDa1d1NXhsM0tLUzVhU3pNaTEzeXNuOTdleXpFblh4S1Y2R3NpdVVJczJoTTBCdTjSAbQBQVVfeXFMUEtkNXpfdFVRdkQ0RzBmZHZ2dDYtMWItQkRzQXV0eXh1VkVGejJwVUVRNWFvNERiRHlQTDRtYlFoOGJpeDBRcWUtNFRrd0dycG5vMDhGbEpqYmdzUVRKcEZzNmE4VS1rRG0yRjBPb29HU19oLWk5NGNDY2ZiVGRaYzR5SVJnQ2tXdTV4bDNLS1M1YVN6TWkxM3lzbjk3ZXl6RW5YeEtWNkdzaXVVSXMyaE0wQnU4?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
     "published": "2026-11-11T06:02:00Z",
     "category": "World",
     "topic": "Americas",
@@ -8408,6 +8588,18 @@
     "published": "2026-11-10T12:47:57Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f110156f5e9b1567d9390e",
+    "title": "Premium Economy Expands to 31 Emirates European Destinations",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SeHB0S1NnampTRDNJQmVHeGRDdS1zcTlNZVBnVzltTUJ2NW1ZdWxTTVlBeWxFeDFjeEtuTWlTMmRyajNlOUVhaTZ5bDRmcFNsdWdrQmVTUUNDTGk1SE40M0cxS0c?oc=5",
+    "source": "AirGuide Business",
+    "published": "2026-11-10T12:47:10Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
