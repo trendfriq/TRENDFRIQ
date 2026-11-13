@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-11-13T16:38:41.413917Z",
+  "last_updated": "2026-11-13T17:36:33.066372Z",
   "articles": [
+    {
+      "id": "829c82d81c0a08b0b5cd22",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T17:34:58Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "cf8d6db662d1ba559978b7",
+      "title": "Microsoft outage live: disruption continues to affect millions as company says service is improving",
+      "summary": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that rema",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "source": "The Guardian",
+      "published": "2026-11-13T17:21:56Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=94479dafee1bbcf2a91050be4021d4d4"
+    },
+    {
+      "id": "b07d88933849043904c449",
+      "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+      "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down by 8.8",
+      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "source": "The Guardian",
+      "published": "2026-11-13T17:20:32Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=301ac70f1ed47dff9ef24f77382d1dfd"
+    },
+    {
+      "id": "f83f812563eb29b623dc7a",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T17:12:46Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "a81d04f4cec3194166ceeb",
+      "title": "CMA CGM Profit Rises on Strong Demand and High Freight Rates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcG9ha0lmMnZrU2dZMUs2Y1FaTmVzMWNHN0RiWU01UzZVYVQ1a2s5OU9IcENxem5JcnlXbXpKUFB4bGFnTl9qTzVyTzFhazV0MDkwc1l3V0wwVjh3ZFJsbElHRnltV1VrY0h2eUY1VlNmUENSRVpjSHBHWTE2RGJOTldQa0xxaUZDdm1wSENETXZzRlRoRDhoUmhWcktqRUxvM1FN?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T17:01:22Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b13e18c3f67ad0a38b0ba7",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T16:40:31Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "12990af15e181ab96cfcd5",
+      "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+      "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems , published in 1931, transformed mathematics and paved the way for the digital age. Aft",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "The Guardian",
+      "published": "2026-11-13T16:38:27Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb"
+    },
+    {
+      "id": "cf7ffc9dc3ccedbcb166cc",
+      "title": "Same metric, still a mess: The geoeconomics of youth unemployment in China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2lVM0xtZmZBcU9xZUZRWWxoZzJod0phQVIyVHlYdFpLYmFnY0JGNFUtLUJVVGduMlRGNEw5ZDNYbE92amlqRmFVZExYcGdPSWRZVGRxaGNKSzhrQ0ZTQ0h3ZWZpQ3MtbVlHRWVpLVJxWlZlUGhOMGdTUURKMnJYZHVreUJVUk5pb0x0N1RFUl80eWdWRElWSk9ZcElCRloyNlE5VWdqVWtiT0dheFFibThCVDh6V0JuOUN3cG9FaDBXaGM?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-13T16:34:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "42c59e95a7c8cf6ea4d0d3",
+      "title": "Italy’s SICIT Invests US$44.7 Million in Leon Biostimulant Plant",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0pic1o4U1dvejVqTkNIWERfRjllSUt2WTNkdDBzWVhDekdienVKNm1vWDNyeHNFUm1TUTJDY3hLWVN6Q2prUnVxbXFyOTFySU1VTVFFSFBIMTZrSDJEQ3ZXSm1GUGtSbDhiWWRJWVVNSmJiUUNDMnhLMW51YnpKeHItNTA3MTItclFuNUxrTnR4Sm55eDlxMnZxTUg1bzlRQ0l0cWwyMA?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-13T16:22:35Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "a0aeb26c7d364378be8fa7",
       "title": "3 Financial Stocks Tied To Rising Demand For Short Term Bond Funds",
@@ -10,6 +118,30 @@
       "published": "2026-11-13T16:21:51Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f2e413bc28cd0aecbbfad3",
+      "title": "New episode — EU–ASEAN Trade: A New Era of Economic Cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVm84alIzOFNqZzZTcGFFQ3ZDRFVXeHdCd2EzQWlXUmpsaGk1TFJKS1FDWXhPZzcwdm5obEQwY0Vtd1ZmTmJVSklnTW1pOFNvRUhCQ1dHSWg0MjdhdTFkbmdGdmtzYUhhald3aVNSVVdHN1VuLUZjTmplNWRmVHRPUkJqYXNGSGxsMmJaYWlGWjhwMjQteTdNYw?oc=5",
+      "source": "9DashLine",
+      "published": "2026-11-13T16:20:45Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9dab2e1a82720a5e187e6e",
+      "title": "Does Europe regret its bet on U.S. defense?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlU5U05UZ01wQ3NENEw3TExETm5PYlhfMEl0X2FTV2ZaSkFNVEhtZmtDckN5aEdsNEVVbWFibHh3M184TXZYWHpWOFhLTkxxZGlmOUx5aFhqbFZZNVl3WnhFd1hrM2NrQk54X3BVaGZuYjIxd2MzWnl6V2dfRzhHOGRKYUNEcEtoOC1RR0E2NUFFa1JtRnV2cGxB?oc=5",
+      "source": "KGOU",
+      "published": "2026-11-13T16:19:15Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -26,18 +158,6 @@
       "image": ""
     },
     {
-      "id": "6c41593b576c3b0795c4e7",
-      "title": "Microsoft&#8217;s massive Outlook outage continues",
-      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "source": "The Verge",
-      "published": "2026-11-13T16:17:11Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "id": "3c570913cac3b5d7fa7ea3",
       "title": "What to Watch in Nvidia Earnings: Leadership, China, Data Center Concerns Take Center Stage",
       "summary": "",
@@ -48,18 +168,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "cf8d6db662d1ba559978b7",
-      "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
-      "summary": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that rema",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "source": "The Guardian",
-      "published": "2026-11-13T16:02:57Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=94479dafee1bbcf2a91050be4021d4d4"
     },
     {
       "id": "380cc09b2dfde76bad1c88",
@@ -134,20 +242,32 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "829c82d81c0a08b0b5cd22",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T15:44:48Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "id": "ab9ad422964dc7e547229b",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T15:48:07Z",
+      "category": "World",
+      "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "bbd27f699d942e666c6e88",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T15:42:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
     },
     {
       "id": "c195611169542d126d4d05",
-      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -156,6 +276,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+    },
+    {
+      "id": "6c41593b576c3b0795c4e7",
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge",
+      "published": "2026-11-13T15:29:21Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "13aaac2236e82262378073",
@@ -326,16 +458,16 @@
       "image": ""
     },
     {
-      "id": "f83f812563eb29b623dc7a",
-      "title": "Why is the Microsoft outage lasting so long?",
-      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T14:21:26Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "id": "c474a2d90d1f5d7dd3a42b",
+      "title": "H.I.G. Capital Launches Waveborn, Acquires Jake Rosen Entertainment to Build Creator Economy Platform",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEFoYkpQWXZfdkRtdzZXSHlQXzR5S053SUY5by1MbDlyNUFjVVllR0hUMjhSTVlobzNhaVM3NGpyd3J6ckRVZHByUnNNS00tNTNVUmw3VG80REIwVzRIWU5CdF92UmltYVJpcGljZGlIdkNGbUhGSWtGSE9rTzI3Y2RueHQxTzJFQmtVWEtmb0F4Qk9HT1plcXFITFAxbnByUmNFaTZ3bl81ZlJSV2daZHVvWTdoN1dsZTJKZEZNNWJxUkZjUDhKR3ZyRDA3MVJiS0dVbw?oc=5",
+      "source": "citybiz",
+      "published": "2026-11-13T14:27:45Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+      "image": ""
     },
     {
       "id": "1689dc88b817f50fc45f43",
@@ -410,6 +542,18 @@
       "image": "https://i.guim.co.uk/img/media/bfb62ff678ba81a245ee6124ef82c2bad5305c49/784_596_2586_2070/master/2586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=353e141a8f16a18de062f08e5021bbf6"
     },
     {
+      "id": "e1a80d4d3816b3a63f5b63",
+      "title": "Anthropic IPO Access: Growth Opportunity for Interactive Brokers?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2E2VFY4NFpaZkpzQW84V1h6TGVhYmdnbldKSnlXVjJTeGxVREZ0SUpHQ1FJS0pLV0ZNM0FNcnh6WURPVlAtbmxaYXBVZFlMQTNiT21Fd0IyZWU4OTQ2Vzc4bkozR2JtSXkydWNNUkNlN1JvQ00wQzdXZVV6eWJKbUdCOVFVSEtzZ3JMUGdZMmRtOVVzS2plcExfb043WTA4X1p2UmlMV0NyMTY0THNmVy10UC1meUppbEJ3?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-13T13:54:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a768677cc5d010660a9e2e",
       "title": "Eurostat: EU GDP up 0.5 per cent in the third quarter of 2026",
       "summary": "",
@@ -456,6 +600,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg"
+    },
+    {
+      "id": "0ffd58075c7a40e786d4a2",
+      "title": "Nvidia scandal: What’s next for the US tech company?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW1FaTlaLXMwLUFWN2lxU202ZW9veTlQd1dCbF9KYlBnMWlTT0Y3Zi1BaFowMU9YT1h0M2JGd0xxM1l3dm9rS2otT1hpa0pwR0xjY1AxMTBld1pXcmFsMTl6UFJVV0VtYWk4bmNva3E1dlVLcVhlOWVlUy1aR3lKVUwwZm1LS0h3aEtEc1dHX3RxRERzaHfSAZsBQVVfeXFMTUdEVDRnMzVUQi1YdWl5V0MxcHVlM2pldTZrVTA2X2xzX2hhNEpaVnVlWlE0M29fSHU2Wm1EMjVBZ01LdlhJaThHV0JPcTVldEd5UFg2c1AtdlhIVVBCNF9ZVEpqaEhsOFc0cE80c216Yk9UWFVmbDFCV3ZiRURGUnFvOC10T21iZFhMS2dvc3BDVFE0Vl9fRGsxb2M?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T13:38:49Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "a6d80f67cb4628f9a546ab",
@@ -818,6 +974,18 @@
       "image": ""
     },
     {
+      "id": "18b0a35d0e0cfcd873f23b",
+      "title": "Jensen Huang is out. An AI expert explains what his exit means for the AI boom",
+      "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-investigation-lutnick-ai-boom",
+      "source": "NPR",
+      "published": "2026-11-13T11:47:00Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg"
+    },
+    {
       "id": "c019f8e91a3170219f03d9",
       "title": "Chinese AI Projects at Risk from Nvidia Exit and US Export Controls",
       "summary": "",
@@ -852,6 +1020,18 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "85d70f79665c45ece79fd4",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T11:38:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "b5309dad832b6cef49de83",
@@ -1258,186 +1438,6 @@
       "published": "2026-11-13T08:28:18Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "47edda7fdde816175523da",
-      "title": "Finite State Announces $27M in Funding to Help Device Makers Fight the ‘Vulnpocalypse’ with AI-Powered Product Security",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLVpPWV9rRVJ3aEZBWWJIeXFXVnhSTUtuTGhCcXFOcDZGR2w0aldrUGJ4dEZtTDlyajhwOHVMQVZUN25aM0VlYm5kcndnY1dTUzNVbTRrQXVOU3pWenU4TjNLOXNuSkRmVVFCeUp2R0FhcG96N1QxZ3RuTHBRQTVzRnRjMWstd0tHT3RuSlBFYVFIU0VSYkZ0d2dQUFRoRGR2QUFNRjh3TFpmT0FsNHlxSjRVR3RTRzR4TUI0aGVZNnhjZWxXZlgyQWx1NWd6S21LT0lDU0dzSzVqRGZQSUtFTDlxMXVCNXkzbGc?oc=5",
-      "source": "AI Insider",
-      "published": "2026-11-13T08:22:38Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fdc914cc382e50cc729639",
-      "title": "CGTN: How can the Asia-Pacific prosper through openness, innovation and cooperation?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWZybXBfT29SS3R4MXNmcldWOWpwU3RwTml0bHc4Wm5PVE9VYWdfQ3FHWjJTWUNoZmhrMWxBbWlxRk55M0JiOGhuUVJZZlhCTXFCSktYTnY0a3o5WVFWZDE3U29DR3VVeWVPNWRZTldUYk0wTDRLYVJ3ZmdkZjVOMjN0X2ZMUTBOV2dyRlI5NkxxbFU5c1IteFdPcTJiMmZP?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-13T08:21:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b792ac6d45ffb66b096e50",
-      "title": "Beyond Capital Gains: Why Dividend Investing Matters in Today's Market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mSUVCeHFhbUxVQXlXdk12Nmthd09kUTJ1dC1xQ2ktOUJieXgxaGRtc29wa2pVUGJ1NXRtdXI3M3pPNk1oYTB3aVluVXhKX2F3dTRLRkFkeDI?oc=5",
-      "source": "Taiwan News",
-      "published": "2026-11-13T08:18:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5fa1d8a883a04026e4bf9a",
-      "title": "Beyond Capital Gains: Why Dividend Investing Matters in Today’s Market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPck9DOE13cVRsQ3J3M2FUbnhOUmJSRG5uR0RCTkpldk9GemJnOVpMamNnbmJJbkVyXzBFNGMyekRvWVI2TU9hWjlUMkNNSXMxMXdiUkxGT2NMT0UyVW93Q0dSWnBuNmVsa0xfNFZTTXpxQWJfdVBLYkFaUnZReWMxZlVWeklfcE1ncHU5ekEyeHM3bWpaN29qM2V5MEFYVlRJNG9lM25USW11S3J0OGhCVUQ3N1R4UQ?oc=5",
-      "source": "Plataforma Media",
-      "published": "2026-11-13T08:18:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "554787ba3f0efb014d4f97",
-      "title": "Goldman Sachs Raises STOXX 600 Target on Energy Price Relief",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGRuNG5PLWZYT2Q2MzYxNzhaM0ZnTEpFNlBDUGtvbWlUUFd6NWw5aFpxblR0TklKcjJOdW9NUmhodzBTbUYwWXQ0dHpwVjd1b01velBIYmkwNDlxU3RpS0JsZ2dkazFDbXl0azlCejFjc0d1QnR3YmdZeURFUkRjRS1IRWxsczhUSmRXUEVJY0VPQUtNQ3RmbmszaEhWeFhk?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T08:16:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "641f74714657ff2c5e08f6",
-      "title": "Dangote Raises Africa Investment Target To $70bn, Plans 10,000MW Power Expansion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN1gtb0h5eWNJLUhNZG1tLVpIS2Z2NnFYRzM2bXBOMDNYVXFtRUYzLWhuc2lTM0pWSEUyUWlWeGNYMm84VmJUMVNybFE1ay16Qkx1YURWYTlLN0VYcHp1bW9yMFFNb3FsUnprVUFVRnpEN0pyR0RDXzE2bkU0MVdxYTJtMXFiTjlwbEFzZDIyNFpXMl9UanR5T0ZyajVDazRq?oc=5",
-      "source": "Arise News",
-      "published": "2026-11-13T08:15:26Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4ea9f4f140924ef8c035eb",
-      "title": "UAE attracts $48.3 billion in FDI as investment strategy shifts towards innovation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWMzcXFEc2N4dVRwZW5GMDdZeVMybzNOMm0waFJYWGh0QmFXZVdGOHJJQWc3UjE1RVVrMDJxM1Q2cXFzS0tpdGZJS0xSZWF1OUh3N19XZ3k4ODFtWWhJcXZwXzNHMmNGRXdia0RKOEhsRGtiY3pEa2o3SzlocDNGcEpXSWFDREpPU3BvcF9nSlpXV3REYjlrM0pSdHEwOXpDS2dPQTVTVEdpRl8xZjVfdXU1VQ?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-13T08:14:32Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f87dd9d98b8668fa43f76c",
-      "title": "Oman signs $3.3 billion in investment deals with Chinese companies",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1ZBZFVOY1BtZEY1YmJOd0U3MVJqYkhnRThjWTNITzN4blV4SDJacTVuRmRORUkxbFhCVXpxUkNjRDVfVkV5bXpIUnpmclBUNHJFTlJZcEpNbUpXZmxGeEdtOG51dWE4cEMwMlJnNU9XY1o5WUM2T25TLUloLU1fLUpBSk1FMjdMNWVNSi1pOG02M3UwZTh2QzNhQlpUQQ?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-13T08:03:03Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8c34589610684717529226",
-      "title": "APEC 2026: How can China help unleash Asia-Pacific economic opportunities?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KZHRsTVhLbjlrTjg5R0ZUa0hKV1V5OE5RRERVWS1nTVNoS3FfMFdKeEl0S3VfRlY3cVRuNVB3eVdpaXM0RU5rWXdzWmd6amdIUFpRZU5xZXlxVUo1YjJQb9IBXEFVX3lxTE1Jd2JzSnFmOHlhOWJJUmNDRnVoZDRmbWVwUFlIZV9CZm9sUG9OdWJpQzZkOXV5N2pFSGh1SnZlOW1xUVpJb0pSVEFYazVCbGxETmJZQ3ZLbmhTRXE5?oc=5",
-      "source": "Modern Ghana",
-      "published": "2026-11-13T08:00:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6fe1b4d35d98b99bf11f4d",
-      "title": "Cyprus wants fintech’s jobs and investment, not just its company registrations",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWJVUWExaVM0U0RCVi00LU9CYTFTaEhKSmhpWkV6bkpSSi1lbkVHWUFYcmtvZ1RjMXRMQzE4RmlWTExuRDdwblBvWUlhYWRoRVphMnVHTm5BaHI3WTlRZGw3Zk9LNXIxZm1vcWVRbHN1S0JsVFFTMU5YbzdWendqVjJOcllHUUZGVTNIQ3ZVTFEyVVh1UmtJVWRFMUY5WThILWVvVTFjNzJ3ZFYtS19aMQ?oc=5",
-      "source": "Cyprus Mail",
-      "published": "2026-11-13T07:40:34Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cfd115ed130a52e148776a",
-      "title": "What happened overnight with the Microsoft global outage?",
-      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T07:18:17Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf55/live/6c53e480-df49-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "03a618dcc46f32ed95914c",
-      "title": "Five things to know about APEC as Trump, Putin and Xi set to attend summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWNGeEktb0I2c3pqS2hrTUhLSFk2N3JSX0NDOHVfVnpMMWk2MEVRaUMyTDdYOUUxR1B4eXhQemFJSGJoTkZVczhra3V1cXo5SXI2eEtOVWVVMUdXVUl3Sk8tUGZ1UHlRMW9qSUlqNGludWpiT0JqZ0pfZ3lHY0IwVVpBTnZoY3FVOG50QlZoOWcwcURmemF3dzNwelFseDNfX3gtVXpubXJRdXVYdjd0SkM2WUJUVkFlbTJYUURxNG1lXzVFdHFaMHB4eUJfdHJ2YTFRTtIB2gFBVV95cUxOcFl2aXM2QTJwQ0NhOGRsSU9UTGctZXNhUFNTcll0bEN3bkl5NFlGVzhleHFBTUVmOVd4ZVNRbEQtTjlvM1BDVEhJYWVFdm8xaXdtVkNiN1RkaWZqeUN0R0o5eFc0R3ZQUjZnazNGaXpEVkJDZFlUNFB3Ql83Z1FFYVdoRjZKbWM0clUxRDdBR2VMeE93UGJ3NGNKbVFKVTIwZkhub0VDVUJOUEZ4ek5kVjQtYlNpcmNCaHdEazdEbU5xaXBrNUpCR0J4Mzl3cHNZOXQ3MEs0T2w0dw?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-13T07:05:16Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2699a76e030ebddc43a9b1",
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T07:01:43Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c93/live/2288e9c0-df28-11f1-b396-2b394d1b806d.jpg"
-    },
-    {
-      "id": "721bbd1722517a2b7c65c8",
-      "title": "Yamaha to Acquire Disguise, Expanding Its Capabilities in Integrated Audio, Video, Lighting and Media",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ0NKZWZjdFhHbHZvNHRKYUFoUjZ0azA5Q21tWWktMTRYV09hWFUzNlFQX3VBRUdicUg0eloxaFBYOHNaZXl2ck5aWEU4Z2JTdHA1b21RQlkxVWZVSHdUbU1SdGdMeHQ5anQ1QW5paTZPN2dYbXNCRnRGSERXUFN2Mnp5WVRXVlZnNkFsRmprYzBrZUYzNWs2QVJ5OWktNktXTzAwQlhmR3dWT0N4ZS1uOXpPdkdiRThlTUxDTGthM2hfM0lRZFBDX0ljSzQ0SG12bm90ejY1NmRFeEk2cFQtaXBkRlF5ekJDSjhuVWFKUXY?oc=5",
-      "source": "STT Info",
-      "published": "2026-11-13T07:00:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d5d648f4ef12ffb1a3e6a",
-      "title": "Yamaha to Acquire Disguise, Expanding Its Capabilities in Integrated Audio, Video, Lighting and Media",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaElMdHlqSUhWVEJLUzBsYTZrTzlwLWlWbk5UZ1RLYWlNdWsyVjZqYXdWdzBpeTVheW12VUFzbWwwc3M1cFcwNEJvTy0wNURhWGxYU1o3aG5yWmJKeVZCNkt6b2hTeGd3SFN2ZE1CZ3hicWpMZjE3RnFWLTdyR0xXMHREcFVMWEI2RkJFRFlMVzVJZEp3enRRbGdpaEhjdm1EbUZIVjRtbzFHYTByQklxc3lOQmRJd2t4UVp0cUdpUzVHZjd1dW1COVhJeVNtYWViV181c3FxUVhGMzgtZkZwMmxLblRMZXRmUUo4Z1hHTmczS3huZ3F2OUtiVQ?oc=5",
-      "source": "STT Info",
-      "published": "2026-11-13T07:00:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
       "country": "",
       "image": ""
     }
