@@ -1,5 +1,101 @@
 [
   {
+    "id": "73f30dd5d62eb7fec185f4",
+    "title": "Euronext Urges Phone Calls Amid Outlook Email Outage for Listed Firms",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFdjNGs4dEY2N0tENEF5N1dIUFp3WVlUaVBNNGVHck8zMkRpcmtIelI2V3o3MkZuM1lBdGVtSDZpNGE2UGpJZnZ2WVFzTnZlYTlxQXJHQzY0WVJYRnVkcmIySWYyQUtSaUE3VE05Ni0xTDQzVUQ0Zmp1anNMclFKbm5ZZmFiaVdhN3pzVXlaWk9iZ2lKYS1F?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-13T09:41:15Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "938c3e3c199878a4ea7845",
+    "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+    "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+    "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-13T09:37:33Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ef/live/f4cadd80-df41-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "id": "691a4e74f9e6dd4e51480d",
+    "title": "Heat pumps: How much heat does your home really need?",
+    "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+    "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-13T09:29:25Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+    "id": "810bc6bc1d821775aac8b7",
+    "title": "Hong Kong raises 2026 real GDP growth forecast to 4.8%",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTJLVzhvVVBYS1BxdjVCSDhFcDhBUC1HdldmekNsNVIzYWJxcU5qU3NtVUNuUkNRRDVTWEJLRXp0aG02ZzBubGF0cXRmNGFHQlZvVXA1ejlicE1rdkxaM0RUS3pJRnYyMk54enFtY3hRdHNCUURaZThFWEJrZDBEM0dhQl82d0I3cHZ6UU5wQlpqV3dsdWVnM3oyNE5VNzR6Yzg1SGdMUnQxdw?oc=5",
+    "source": "The Standard (HK)",
+    "published": "2026-11-13T09:24:31Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f0fce0ae7b40e2ef8ec994",
+    "title": "[GMO Internet FY2026 Q3 Earnings Call] Unauthorized Access to Result in ¥3.05 Billion Extraordinary Loss, Yet Operating Profit Up 32.6% — GPU Cloud Leads the Way",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ET085eW9tU2dkOS1WSG9hTFNmSkJVT05JRk9LcXh0VU9XS3BzYTFIRTVPSWlmYzlfbUxneldHdzhSYUVsVFVVV0lSOWtEZ19hZ200dXBHdk9RLVE0dlBNSw?oc=5",
+    "source": "finance.biggo.com",
+    "published": "2026-11-13T09:14:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "79d5efe0620a140a5cb921",
+    "title": "How regional instability is reshaping what investors expect from the GCC",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXdYbVhBZzFkZVM3alp6bmt4V0NiT2FreHczZlZUTExnV1FVX3NybDBsVWJQUWIwNC1Rb2x1X2tDemlqdldiYy1fMzJucnF1aXpzMkNMVkJnei0xRzJzT29XMS1sWDZBaWRlMVFCRUtwbXZ1WU9YeWJjSUp5TGxJazlGb0N2aWdKUldBQjVkamd5WWhPaUFlNjZXSlFHdHdybGMyQS1IY1dSQQ?oc=5",
+    "source": "Fast Company Middle East",
+    "published": "2026-11-13T09:13:39Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3b08370629327fc3da8a29",
+    "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+    "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system heade",
+    "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+    "source": "The Guardian",
+    "published": "2026-11-13T08:49:19Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2029e1a8105022678cca8e0aaffb22a"
+  },
+  {
+    "id": "f057dd4dfbd8859180c1f8",
+    "title": "#Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says Addis Abeba – Somalis and Ethiopians account for between 60% and 70% of businesses found non-compliant with tradi",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1NwMzRGdHZVZHlzeGJNZ2c5RlZXVWRvWHI0RHZ6QU9xTkh5OW90ZTZITDZTY1ZEVjFaSXM2U2JiZktuVk5USmdqcnB0VGRhMG83UkJJRmdzaG5pdTUzRFlfR3k4ZF9RaF9hdklKazJ4djhSNkV2TGpIUmc0TVEzUng4d3gwbEFzSlFWLWszQ2hoR2ZqNzJNMHZvT2dsNjJYeXotNzlwV09zakIxSWdaWG1WWlczRHlJNmN0UjBxOEFIN2NDenpIQmxHWTdnMTRwY1daT3lZdGRHd2RnbjZR?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-13T08:33:48Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "f6ab9dbeee1a3c5ad01642",
     "title": "Asia week ahead: Japan GDP and key data from China and Taiwan",
     "summary": "",
@@ -58,6 +154,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/482_0_4490_3592/master/4490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e55d8117f2e9aea30cf651fd9822a759"
+  },
+  {
+    "id": "fdc914cc382e50cc729639",
+    "title": "CGTN: How can the Asia-Pacific prosper through openness, innovation and cooperation?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWZybXBfT29SS3R4MXNmcldWOWpwU3RwTml0bHc4Wm5PVE9VYWdfQ3FHWjJTWUNoZmhrMWxBbWlxRk55M0JiOGhuUVJZZlhCTXFCSktYTnY0a3o5WVFWZDE3U29DR3VVeWVPNWRZTldUYk0wTDRLYVJ3ZmdkZjVOMjN0X2ZMUTBOV2dyRlI5NkxxbFU5c1IteFdPcTJiMmZP?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13T08:21:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "b792ac6d45ffb66b096e50",
@@ -360,6 +468,18 @@
     "image": ""
   },
   {
+    "id": "33e46875d64a7806a756ac",
+    "title": "Microsoft outage spills into Asia-Pacific business hours despite 'partial recovery'",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5ekI4UkJfWC0yUXRWdGFHR25sdHNROEtXZU5IemVXWWgySkV0ZlQtWklfTlRxV3BBcm1ENk00Y3RBaTFCeVhncVRrSEVjRGw4dEtwZA?oc=5",
+    "source": "bdnews24.com",
+    "published": "2026-11-13T03:39:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e23a91cec444aa9e8e9b32",
     "title": "U.S. House passes bill to shield small businesses from North Korea cyber threats",
     "summary": "",
@@ -432,6 +552,18 @@
     "image": ""
   },
   {
+    "id": "9f9760402fdae43d154b32",
+    "title": "Thailand Business News | Morning Briefing | Thailand · ASEAN · Asia-Pacific markets",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTlBDNkV2cVdtakItQ3NFbTdFMDI3UVQyRVJXSzdSM0xkb0hFVlYxamM1eU1ESlNibmpnbEV0UGducnN0YmZkNExaOENXTy1aMFBHV2g4b0NsN28tdS1QdzdLb1pCd3hyaWRibHpLSk9jMWxFT1VSdzRGVkhEb2NxVi1JMFlCZWVZQ3MxV3BaVWowZUxldm5ZdzdDZHZMRzUwREpodFFLbXpzM0FPaWUxQVE1NkFLNm1QN0p2V0NnZkZkMl9rbVJZYjg5a0ItX0JiWU9oMW9mbkE?oc=5",
+    "source": "Thailand Business News",
+    "published": "2026-11-13T02:53:40Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5ab32b935289d1896d0e68",
     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
     "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
@@ -478,6 +610,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg"
+  },
+  {
+    "id": "a5354dd7c374d591c4249c",
+    "title": "The Huawei connection: Alleged Chinese spy Alice Huang in Jensen Huang affair saga linked to Nvidia rival",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMGJHLVBrMllwZGhVNXd4aDZzSVBYVGIxY0huak5aVzlhcHBYRXVIeWNMcW1KSjJvNlJadlkxMVU4LTk2M0s4aWlwd0FJTmlrQjBaZ3I2RVpCUFhBa05nWkJJWFVGV3JSNllfdFYxYXdpZElkNmZCMFcyZm1uOU1ZVjh2YVNXSXBGUHlCWWFzX3l6dno0bHp4c1R5ODIxNGZLTnhUNG90UXFQVjhCWmFlTnQxVVBDRnVaU1FwM1U5YUpJU1NpbjJ2LVVhNEx6WmkySXhULWFIMHB2MzhSemtNN0lIaGlsT2pBSWJjN0dGMnUta1dqR1RNdWtQMnY2OXRV0gGGAkFVX3lxTE1HdWZBZHN2NWhfaW4tbklvYjJZcDBnMHRldHJiR0UycmxMSUQyVHFSUWg1OUt3MWR0ZDlBMHB5bDJzdmZaOGJFNU5MMzJHOG90MEkzdU9OUFdqR2RnOUlMREttU3I1SWk1WVVFcjhqN3lqTVlIU2dlYVNnZU1sbnJlNFB1bmt3OTdiLVBQSV9Kd18ya0ZJa2ZBRVVhSXM2eU5fSFNQZEJmT1Bkc3hGMDRlaWVrdTZBb0ZxX1lxbmdiTFRsX1BHQ3owSUJRdy1kSF9NVHVfUXI5dVZKQUp3aVk1TDlFa0hOMWdtZlV0Z282ZDcybDBRb05NQ3N3NFZnR1dNZjNZUFE?oc=5",
+    "source": "The Economic Times",
+    "published": "2026-11-13T01:54:24Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "475572e490a21b8d0f57e9",

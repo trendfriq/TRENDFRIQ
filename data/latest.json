@@ -1,13 +1,133 @@
 {
-  "last_updated": "2026-11-13T08:44:25.481678Z",
+  "last_updated": "2026-11-13T09:43:54.420480Z",
   "articles": [
+    {
+      "id": "73f30dd5d62eb7fec185f4",
+      "title": "Euronext Urges Phone Calls Amid Outlook Email Outage for Listed Firms",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFdjNGs4dEY2N0tENEF5N1dIUFp3WVlUaVBNNGVHck8zMkRpcmtIelI2V3o3MkZuM1lBdGVtSDZpNGE2UGpJZnZ2WVFzTnZlYTlxQXJHQzY0WVJYRnVkcmIySWYyQUtSaUE3VE05Ni0xTDQzVUQ0Zmp1anNMclFKbm5ZZmFiaVdhN3pzVXlaWk9iZ2lKYS1F?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T09:41:15Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "938c3e3c199878a4ea7845",
+      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T09:37:33Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ef/live/f4cadd80-df41-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "f83f812563eb29b623dc7a",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T09:34:38Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94f/live/05203e60-df46-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "691a4e74f9e6dd4e51480d",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T09:29:25Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "cf8d6db662d1ba559978b7",
+      "title": "Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption",
+      "summary": "Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remai",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "source": "The Guardian",
+      "published": "2026-11-13T09:29:19Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/482_0_4490_3592/master/4490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e55d8117f2e9aea30cf651fd9822a759"
+    },
+    {
+      "id": "810bc6bc1d821775aac8b7",
+      "title": "Hong Kong raises 2026 real GDP growth forecast to 4.8%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTJLVzhvVVBYS1BxdjVCSDhFcDhBUC1HdldmekNsNVIzYWJxcU5qU3NtVUNuUkNRRDVTWEJLRXp0aG02ZzBubGF0cXRmNGFHQlZvVXA1ejlicE1rdkxaM0RUS3pJRnYyMk54enFtY3hRdHNCUURaZThFWEJrZDBEM0dhQl82d0I3cHZ6UU5wQlpqV3dsdWVnM3oyNE5VNzR6Yzg1SGdMUnQxdw?oc=5",
+      "source": "The Standard (HK)",
+      "published": "2026-11-13T09:24:31Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f0fce0ae7b40e2ef8ec994",
+      "title": "[GMO Internet FY2026 Q3 Earnings Call] Unauthorized Access to Result in ¥3.05 Billion Extraordinary Loss, Yet Operating Profit Up 32.6% — GPU Cloud Leads the Way",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ET085eW9tU2dkOS1WSG9hTFNmSkJVT05JRk9LcXh0VU9XS3BzYTFIRTVPSWlmYzlfbUxneldHdzhSYUVsVFVVV0lSOWtEZ19hZ200dXBHdk9RLVE0dlBNSw?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-11-13T09:14:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "79d5efe0620a140a5cb921",
+      "title": "How regional instability is reshaping what investors expect from the GCC",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXdYbVhBZzFkZVM3alp6bmt4V0NiT2FreHczZlZUTExnV1FVX3NybDBsVWJQUWIwNC1Rb2x1X2tDemlqdldiYy1fMzJucnF1aXpzMkNMVkJnei0xRzJzT29XMS1sWDZBaWRlMVFCRUtwbXZ1WU9YeWJjSUp5TGxJazlGb0N2aWdKUldBQjVkamd5WWhPaUFlNjZXSlFHdHdybGMyQS1IY1dSQQ?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-13T09:13:39Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3b08370629327fc3da8a29",
+      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system heade",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+      "source": "The Guardian",
+      "published": "2026-11-13T08:49:19Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2029e1a8105022678cca8e0aaffb22a"
+    },
+    {
+      "id": "f057dd4dfbd8859180c1f8",
+      "title": "#Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says Addis Abeba – Somalis and Ethiopians account for between 60% and 70% of businesses found non-compliant with tradi",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1NwMzRGdHZVZHlzeGJNZ2c5RlZXVWRvWHI0RHZ6QU9xTkh5OW90ZTZITDZTY1ZEVjFaSXM2U2JiZktuVk5USmdqcnB0VGRhMG83UkJJRmdzaG5pdTUzRFlfR3k4ZF9RaF9hdklKazJ4djhSNkV2TGpIUmc0TVEzUng4d3gwbEFzSlFWLWszQ2hoR2ZqNzJNMHZvT2dsNjJYeXotNzlwV09zakIxSWdaWG1WWlczRHlJNmN0UjBxOEFIN2NDenpIQmxHWTdnMTRwY1daT3lZdGRHd2RnbjZR?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-13T08:33:48Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "f6ab9dbeee1a3c5ad01642",
       "title": "Asia week ahead: Japan GDP and key data from China and Taiwan",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzeVFSWUxDTUVXN1E4UExsaDU2QjQ3ZVl0SVZWT1Q4SDRUWHBBVV9kejFKSTNtcnFiRC1BTmRNMENkSDAySGtuME1lTXdvRF92X0d1T00yazRCUjQ3cFN0ZzliUkM?oc=5",
       "source": "ing think",
-      "published": "2026-11-13T08:32:17Z",
+      "published": "2026-11-13T08:32:06Z",
       "category": "Economy",
       "topic": "Global economy",
       "country": "",
@@ -50,16 +170,16 @@
       "image": ""
     },
     {
-      "id": "cf8d6db662d1ba559978b7",
-      "title": "Microsoft outage live: ‘positive results for server stability’ reported, amid global disruption",
-      "summary": "Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world. Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting em",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "source": "The Guardian",
-      "published": "2026-11-13T08:25:04Z",
-      "category": "Technology",
-      "topic": "The Guardian",
+      "id": "fdc914cc382e50cc729639",
+      "title": "CGTN: How can the Asia-Pacific prosper through openness, innovation and cooperation?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWZybXBfT29SS3R4MXNmcldWOWpwU3RwTml0bHc4Wm5PVE9VYWdfQ3FHWjJTWUNoZmhrMWxBbWlxRk55M0JiOGhuUVJZZlhCTXFCSktYTnY0a3o5WVFWZDE3U29DR3VVeWVPNWRZTldUYk0wTDRLYVJ3ZmdkZjVOMjN0X2ZMUTBOV2dyRlI5NkxxbFU5c1IteFdPcTJiMmZP?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T08:21:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/482_0_4490_3592/master/4490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e55d8117f2e9aea30cf651fd9822a759"
+      "image": ""
     },
     {
       "id": "b792ac6d45ffb66b096e50",
@@ -96,18 +216,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "f83f812563eb29b623dc7a",
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T08:01:25Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e50b/live/4d5bcae0-df38-11f1-86fa-cbe84eade4f1.jpg"
     },
     {
       "id": "8c34589610684717529226",
@@ -155,7 +263,7 @@
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/9ecabbe0-df45-11f1-a48c-75dd2efdacb5.jpg"
     },
     {
       "id": "03a618dcc46f32ed95914c",
@@ -375,11 +483,23 @@
     },
     {
       "id": "309da1354bc8d463837257",
-      "title": "Food arrives by drone in APEC host Shenzhen, as China expands 'low-altitude' economy",
+      "title": "Drones are delivering meals in the city hosting the APEC summit",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTlKVTE0bEZEb2s4dTJDSktzMWM1eEpXekRMYXBQXzdsaWNNYmRDV05SWEZQYVA2d25UbU5Ub0JpV2lQYnZIYU5Uc3hqWTVnTE10bUZyLTRPQzNyWnFHUlE5cTV6TW1LSkl1ODd2dDhCYmxac0pnTjZtXzljb0xoSDM2NDJvMkxvUFNKRGVwZmZEYTR5eW1RTTNnazFYaVpocE00MUFmWEtqbmREX0o5dEsxM20xY1BjYWM2OVBQelNFYU1Yay1KaWZMZ2VaOVA3YlE?oc=5",
       "source": "Reuters",
       "published": "2026-11-13T03:49:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "33e46875d64a7806a756ac",
+      "title": "Microsoft outage spills into Asia-Pacific business hours despite 'partial recovery'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5ekI4UkJfWC0yUXRWdGFHR25sdHNROEtXZU5IemVXWWgySkV0ZlQtWklfTlRxV3BBcm1ENk00Y3RBaTFCeVhncVRrSEVjRGw4dEtwZA?oc=5",
+      "source": "bdnews24.com",
+      "published": "2026-11-13T03:39:00Z",
       "category": "World",
       "topic": "Asia Pacific",
       "country": "",
@@ -411,7 +531,7 @@
     },
     {
       "id": "4043755c1ae76f06f9fe84",
-      "title": "Explainer: Five facts about APEC with Trump, Putin and Xi set to attend",
+      "title": "What is APEC and who will be there?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
       "source": "Reuters",
@@ -466,6 +586,18 @@
       "published": "2026-11-13T02:55:02Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9f9760402fdae43d154b32",
+      "title": "Thailand Business News | Morning Briefing | Thailand · ASEAN · Asia-Pacific markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTlBDNkV2cVdtakItQ3NFbTdFMDI3UVQyRVJXSzdSM0xkb0hFVlYxamM1eU1ESlNibmpnbEV0UGducnN0YmZkNExaOENXTy1aMFBHV2g4b0NsN28tdS1QdzdLb1pCd3hyaWRibHpLSk9jMWxFT1VSdzRGVkhEb2NxVi1JMFlCZWVZQ3MxV3BaVWowZUxldm5ZdzdDZHZMRzUwREpodFFLbXpzM0FPaWUxQVE1NkFLNm1QN0p2V0NnZkZkMl9rbVJZYjg5a0ItX0JiWU9oMW9mbkE?oc=5",
+      "source": "Thailand Business News",
+      "published": "2026-11-13T02:53:40Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -528,6 +660,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "a5354dd7c374d591c4249c",
+      "title": "The Huawei connection: Alleged Chinese spy Alice Huang in Jensen Huang affair saga linked to Nvidia rival",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMGJHLVBrMllwZGhVNXd4aDZzSVBYVGIxY0huak5aVzlhcHBYRXVIeWNMcW1KSjJvNlJadlkxMVU4LTk2M0s4aWlwd0FJTmlrQjBaZ3I2RVpCUFhBa05nWkJJWFVGV3JSNllfdFYxYXdpZElkNmZCMFcyZm1uOU1ZVjh2YVNXSXBGUHlCWWFzX3l6dno0bHp4c1R5ODIxNGZLTnhUNG90UXFQVjhCWmFlTnQxVVBDRnVaU1FwM1U5YUpJU1NpbjJ2LVVhNEx6WmkySXhULWFIMHB2MzhSemtNN0lIaGlsT2pBSWJjN0dGMnUta1dqR1RNdWtQMnY2OXRV0gGGAkFVX3lxTE1HdWZBZHN2NWhfaW4tbklvYjJZcDBnMHRldHJiR0UycmxMSUQyVHFSUWg1OUt3MWR0ZDlBMHB5bDJzdmZaOGJFNU5MMzJHOG90MEkzdU9OUFdqR2RnOUlMREttU3I1SWk1WVVFcjhqN3lqTVlIU2dlYVNnZU1sbnJlNFB1bmt3OTdiLVBQSV9Kd18ya0ZJa2ZBRVVhSXM2eU5fSFNQZEJmT1Bkc3hGMDRlaWVrdTZBb0ZxX1lxbmdiTFRsX1BHQ3owSUJRdy1kSF9NVHVfUXI5dVZKQUp3aVk1TDlFa0hOMWdtZlV0Z282ZDcybDBRb05NQ3N3NFZnR1dNZjNZUFE?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-13T01:54:24Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "475572e490a21b8d0f57e9",
@@ -1296,150 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
-    },
-    {
-      "id": "ffcae5247fbf9539219275",
-      "title": "OpenAI, Google, Anthropic Face Lawsuit Over Advanced AI Development",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlFHalJ3dWNTSXVxQ28tZ3o3aDBlLWJ6ZGYyNWR4aUZCNF9LeWpsWnYweHlRMG9EM3YyUVdDcWhiUGFhSmNCdDBkdF9vc3ZUM21uMUdMTmxLSjc1bklZemNxOTBxMGpXT0N5RlhzcnFzVUpOc3kyNDl4UGZPYlgxaUg0MlQ4aEUzdUQ1Y3hJREVTdmxDdThRZGJrUk9IYWtYZnZr?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-12T18:31:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "228ce7e6ea2786f8d5f973",
-      "title": "Google Launches Gemini 4 Hydrogen for Everyday Agentic Workflows",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDJ0WjZmc2FHZ3BoRV9mLWJweTlXelBQNlhZemVWMmJCdFFnZzRhRkxtQ1VFbFF2TVdlcmJlMFRTaGoyMjV4ZkxlUklMS1U1VFdsQ2hsQUlzR01ZODdybWxFUDlucTJfTjlTZjlfVVFIRjRyeUpoZzlVTUZiczRhR01OcDhmMzFaY2UxRFIwQQ?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-12T18:28:04Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2f5d434a899abd39e8a34d",
-      "title": "New Hidalgo Plant / Digital Payments App",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5GeWRHV3JnLXp1RHRUOXZsZVp5QTdxRVdySFVRREFZX2Q5QWJFX3FZSTdaZDluSjlVT0tMZ01ZV0p5MmVVYjhQWkwtOFdjY2dCVnExS2xyUVd1Q09kZ3Z5RjVtS0Z5V2VLRnBXelBDakMwWGdrVHYzUmNCLVZkeXhWeHczYXNldTRseWJHSEh4QQ?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-12T18:19:17Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0856b458a3690952e4ad52",
-      "title": "IMF urges EU reforms to face economic crisis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0cwdUdIYmtCTDJNNi1pVktzdGMyczA0OVN5ODBvdzBRWlBzT3dyQ2NTM0pjZUM4NUlEdWxiY1ZyYThOTTBUUlFpcVB4YnZYMnRNcWNoOWgyM0ctMjQ4WWN0bi1CaVdQNWU1ZGZ6bHR2Z0NYUmZLRTJJUUhEd0hrTFpuVVlmV0VhLVJqTVZPX3l0MVJadFVOeTE3RXdZSWl6aXlvTNIBqgFBVV95cUxOSG9kQUhqQWgwSjEyakZPdzFLNWpLOXJGRHpUdnZFaEpidFBMaWNDckpxTGpaUTVhNjNaTUxvT2lPNU5CZllKcWdtZXJEbWFzWEZOSnBVT1VIS19ua0NSd0l5NVBoeUxRYXhjQ1VaLWt1OUdyWGVVNV9UUFRRQ19QODJ3bDRuU1hOZGZTY3ViU25tOGNTc0ZjLXNCaWFkaU9EUnh4Y0xmQkEtdw?oc=5",
-      "source": "Al Arabiya English",
-      "published": "2026-11-12T18:12:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c9ffad50ddf6b61ebc3c52",
-      "title": "FX Outlook 2027: Seven key calls",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wRWF5WkI5cXJEV3F2MkRWRnFjeTFYOUZhNU9uSXYwRnJJa1Z5RDFfU2Z0RnJMNHdMUW1xRFJyOEZBMFo5ZEloZDVDRmtjUmswN3NmOWFScjhoTUpBUG5wYTlZdG4xb1ItaGpSMTdkS0E?oc=5",
-      "source": "ing think",
-      "published": "2026-11-12T18:10:49Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0dc2b4327d45e47a98d29b",
-      "title": "EMEA FX Outlook 2027: Restrictive policy remains the key FX anchor",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OaThaVDhRRmZjTEZnbDgtSHpuOTh5RGp6V3FzWkpNZmNjYVdSaE9pelR0WFhPdHlDdE41a3V6R0VHS1Zicmg3cWVfaWV4M3E2dENSUWk2UW5rN2pjX2Q1amJ3?oc=5",
-      "source": "ing think",
-      "published": "2026-11-12T18:09:59Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "648ab3e5a06f7ebf2df381",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge",
-      "published": "2026-11-12T18:06:54Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "fc0539be73bdd125b0eac6",
-      "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
-      "source": "blog.google",
-      "published": "2026-11-12T18:04:04Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b45ec5b5ef3e40b63a567f",
-      "title": "What does Nvidia CEO’s resignation mean for the Middle East’s AI buildout?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGEzZEY3WEEzMlVRWmpDakVWc1YyQ1pvZEhzbzY1UE1uY1NCLVp1SFdiUjJFa3REZkRBekhTNmMtVGNkOWVHQjFUeGg2cnZGVjE4MHdQaDNLVkNBQldxZWktaFFrRURrMXRReTcwM19QWXAyM0xpY2pJZm9rZWg4RUxNQlFMdE44T0M2NTJ0MnRnME5QdG11MmdlWXlkU2JIWllKT0plM3RiMXZY?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-11-12T18:02:23Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "58660dca20d01deaed41c7",
-      "title": "Brazil’s Farm Economy Woes Hit Corteva Earnings, Shares",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWo2UVV5bERLTGZWZnp3ZUtsamhxMzhmWFhqQTQxQVJjbWNfZGVCa1o1M2MtMk9WeURVZ19iQi1jbFp0T1RkRzZucXI3cDNJd1dEam1qa2lkU1c4TWo4dFJaVkVQZ2NQNDgzUEV4WnUxLU96UDlQQzRvZFhDTXNEbGE2b3ExalB3THBaVmZuOER1SXpjUEY5Vl9OU0tFaXVBc3hTaElJcEs?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-12T17:55:39Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0f7ce98817dbefb9e5c2ac",
-      "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
-      "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact tha",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
-      "source": "The Guardian",
-      "published": "2026-11-12T17:50:35Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82bf6d6905126f00d7c1f40df2955853"
-    },
-    {
-      "id": "ce1eab2bbb5c79a9e4f640",
-      "title": "The Jensen Huang scandal is hardly over",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "source": "The Verge",
-      "published": "2026-11-12T17:44:33Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
