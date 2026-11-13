@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-13T20:28:07.092201Z",
+  "last_updated": "2026-11-13T21:23:57.464897Z",
   "articles": [
+    {
+      "id": "734c0cca77bd793c095231",
+      "title": "United Maritime shares rise 22.76% on Thursday in US trading",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5IV0M3Tkx5bENkTU5KUy02X3AxQTRoeFVqZFlvdW1VVnFiMXZjLVFNbWdZemV3Q25JMEFPNXNKZ29RZVJ3alJ2SXFzRGhYLUhMZXJ5Y2JnRjEydnZobUl4d2VmOUpJM1ItdUJpdUktOE5mV1U5N0lodnFBSDZabk1abm1tbVBYRGlBMEViZ0o1bThINmN2Uzlwal81cGJMRllFd1FTV0c5Y2NwcDlqWXZuM20?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T21:17:33Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d3bc368f2c827e78ee59f6",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T21:15:41Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg"
+    },
+    {
+      "id": "334ebcca23065263348a08",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T21:14:22Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
+    },
+    {
+      "id": "f11fb96f94d7b8ecb0fa8a",
+      "title": "BMW opens first North America high-voltage battery plant in Upstate",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY2s4dlhldWtQQ1h4Tm5MVV9MRlZhX0FqQzhIdXUzY21jeHhIbGEyemFaQWdXbmpOQ0pTTm85d19kRUE4MjJmU0Q2WU9JWjFpSm1FVEVBMl9CZE9NUVA2Z1ByR044dXBFd2FUT0oyak9RR0duYkdLUW5jY3BKWHVvajc2OThmWWxJeE5fQ1ltRndsa1Z2SEVZMDVYeUtfYkFET0IzbFhiZHhtWUtremRILXZJSGRqTTgtSm5FNW8taXJpWVhQNnFOREQ5YVdYMVRiMG9B?oc=5",
+      "source": "Greenville Online",
+      "published": "2026-11-13T21:11:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "754f24889ed9e00a6da88e",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge",
+      "published": "2026-11-13T20:45:10Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "cf8d6db662d1ba559978b7",
+      "title": "Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
+      "summary": "This live blog is now closed. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "source": "The Guardian",
+      "published": "2026-11-13T20:37:58Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e0df682ebba822680f11e1fd473efef"
+    },
+    {
+      "id": "ee22b1ac26912462eea35b",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-13T20:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "fd3e23363a1f425e0786b7",
       "title": "Brazilian WEG to add 2,000 jobs in Mexico with its sights set on North America",
@@ -24,18 +108,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900"
-    },
-    {
-      "id": "cf8d6db662d1ba559978b7",
-      "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
-      "summary": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largel",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "source": "The Guardian",
-      "published": "2026-11-13T19:55:49Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e0df682ebba822680f11e1fd473efef"
     },
     {
       "id": "c195611169542d126d4d05",
@@ -72,6 +144,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829"
+    },
+    {
+      "id": "93db28ea59060bd807504b",
+      "title": "Middle East's third-largest economy offers $3,500 and free flights to migrants from all African countries, including Ethiopia and South Africa, to leave by December 31",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZzVkVHN0Y2x0QWNQalhDYW42NGEwU3lTUzJpNGJsekhvWUtSdE12dzhRdlQzMW1tNlpKODdnclBBQVktNGFwWXFZY3dHM1VvWVpRbmpGelVpUU1GV1VCY1NpdmVpeTNpdDk1cXU2Tjk3QU1DX1pXdHVtaExIMXZFT1NkaTBPc25TNl82OVZlSnlxdGFBOVAxTFJLVzF5TFFjVGlEVUF2bkpaU2tiZGxTa0ZmMUtObUhxQVVFMllCVWpnMjZMYWNyMUJkOXVsWUwtVnFrMQ?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-13T19:30:09Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "07fb101d77d4b8cb0bd655",
@@ -192,18 +276,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d3bc368f2c827e78ee59f6",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T17:38:19Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg"
     },
     {
       "id": "829c82d81c0a08b0b5cd22",
@@ -698,6 +770,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774"
     },
     {
+      "id": "c474a2d90d1f5d7dd3a42b",
+      "title": "H.I.G. Capital Launches Waveborn, Acquires Jake Rosen Entertainment to Build Creator Economy Platform",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEFoYkpQWXZfdkRtdzZXSHlQXzR5S053SUY5by1MbDlyNUFjVVllR0hUMjhSTVlobzNhaVM3NGpyd3J6ckRVZHByUnNNS00tNTNVUmw3VG80REIwVzRIWU5CdF92UmltYVJpcGljZGlIdkNGbUhGSWtGSE9rTzI3Y2RueHQxTzJFQmtVWEtmb0F4Qk9HT1plcXFITFAxbnByUmNFaTZ3bl81ZlJSV2daZHVvWTdoN1dsZTJKZEZNNWJxUkZjUDhKR3ZyRDA3MVJiS0dVbw?oc=5",
+      "source": "citybiz",
+      "published": "2026-11-13T14:32:06Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "43f859a8adc558331ed84f",
       "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
       "summary": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt and his critics can agree on, it's being mad at Meta. [&#8230;]",
@@ -718,18 +802,6 @@
       "published": "2026-11-13T14:28:00Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c474a2d90d1f5d7dd3a42b",
-      "title": "H.I.G. Capital Launches Waveborn, Acquires Jake Rosen Entertainment to Build Creator Economy Platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEFoYkpQWXZfdkRtdzZXSHlQXzR5S053SUY5by1MbDlyNUFjVVllR0hUMjhSTVlobzNhaVM3NGpyd3J6ckRVZHByUnNNS00tNTNVUmw3VG80REIwVzRIWU5CdF92UmltYVJpcGljZGlIdkNGbUhGSWtGSE9rTzI3Y2RueHQxTzJFQmtVWEtmb0F4Qk9HT1plcXFITFAxbnByUmNFaTZ3bl81ZlJSV2daZHVvWTdoN1dsZTJKZEZNNWJxUkZjUDhKR3ZyRDA3MVJiS0dVbw?oc=5",
-      "source": "citybiz",
-      "published": "2026-11-13T14:27:45Z",
-      "category": "Brands",
-      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1368,78 +1440,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "c385c42180f92c5ec668ee",
-      "title": "Emerging economies forecast to grow 4.3% in 2027: Conference Board",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXpvZk5WN0xJNXRWVzB1VFNDVTZOM1RBT1FialVVbVlvRENvNzhLRFJFRU82TDBzZW5DM3hNbEtHU0NkeGUteWlfVEJvSWdzUWxyQUgzc2R5VWUtZHpHdXFTOEdQTzNzSGVZQlUwZURTMmVfelZKNnFydnRMOW9zTTNKRmhkd2d1WFFSRlA1eDFMZDFoVVJreXJhc3Q1MURpSEE?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "2026-11-13T11:43:09Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "85d70f79665c45ece79fd4",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T11:38:54Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "b5309dad832b6cef49de83",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T11:37:08Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg"
-    },
-    {
-      "id": "a65405654cccb0162736e1",
-      "title": "Dangote Plans To Raise Africa’s Investment To $70bn, Eyes 10,000MW Power Project",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3VzelhLeXpUSkhzX09QaFZDRndZVk5TMVd5aTBHLS1QQmszR2lkbDViNlRqcVBzY3FVRGVJY2xOZmo4d25VVXRITUR4bnRza050VFFOZkJOd2pWcFdyV3ZUSWxtd1NDX2hlX0FLdXhYd0ZlSk9qcS1mdG90c2U0RmJKV1kyNEllNU9uaXYwQmNESHFNM0NxbkoxVFJkRnhvT2c?oc=5",
-      "source": "TVC News",
-      "published": "2026-11-13T11:37:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ce814c74abe06b0005bb5a",
-      "title": "Inflation and the Polarisation of Reality",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBndExONnB0T0RIdFhGYURDUkFoeXZwWHZDRV8teThuSXhJUTZwblNmU0Q3OTdkZU1QYktHS2FxdEdMdjFwc3Z5UG8xUG85WHlsM3RvUzNzS2JQN2VneXphUWE5bXYxWkZDR1pMb3BrTXI?oc=5",
-      "source": "CEPR",
-      "published": "2026-11-13T11:27:49Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4b55104608817ded0b3b84",
-      "title": "Indonesia boosts global investment synergy at diplomatic forum",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQndxdDI0a2lFWGh3RHBQLU4zYmhUdzZJS3dFeHA1TUtsbDlhbUJBVDFacmxXNERYMWYyNEJYdVh3SGVuZ0gyT1NpRUtrWjQ4OXlsWkFFU2t2VWYzMENBeDZSY2VlU2VMXzhoaENIVDItTS0xZDhQbWpnQS1vXzdaTGF2SmJfblp2RGFyelBMd0dRNWNPa0VWUnhRTldtaEZvbXc?oc=5",
-      "source": "ANTARA News",
-      "published": "2026-11-13T11:27:29Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
