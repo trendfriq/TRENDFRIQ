@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-12T23:59:37.315637Z",
+  "last_updated": "2026-11-13T01:05:45.081342Z",
   "articles": [
+    {
+      "id": "a33c16c8e7593e792b508a",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim [&#8230;]",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "The Verge",
+      "published": "2026-11-13T00:46:07Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "98747013ce5b4908e82287",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T00:20:24Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "b6b4befabf897fb91a9736",
+      "title": "Transportation bottlenecks and aggregate shocks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYTBac2p0bTFwaFAxcTZfVmdvdFJpaHJiNnUtOXF0Q3lUd3NJWXhSR3h0S2pqaWZZS0JJeEVEd21BZHFkbjVYdFV2Yzg4eTdtNHZfSmxsMTNUTHNvZk8xNzg1ZHhiZlhzaGY0c0w3bnBuMXFielVHOC14TnhNRGtyU1JudVkwQQ?oc=5",
+      "source": "CEPR",
+      "published": "2026-11-13T00:16:40Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e31d579ac0149753f237f5",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T00:13:35Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "371ebe6d794efd4ac5bf52",
+      "title": "Xbox announces Wolfenstein 3",
+      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In [&#8230;]",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "source": "The Verge",
+      "published": "2026-11-13T00:11:44Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "aa569c0dcb55f56b1c53e2",
+      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWl5VFRGVVRzS3dKZHludzRheHZpeVEwanoyTzMwWjZScjYxcThIXzdVOTdIVDJiVktPUjFFczNaMlpSNzhuZXp6XzJHSzVuRjFYREYtby1MLVNEQ2lkQ0FMQ09JN2dxZENpY2hHTEFRMlE1aDU4ODdUbVpzQVFoakRpb2JTRUt0NVQwbld3V29vWnlucjRILTVxdmcxS2JLeEowQUVUejHSAa4BQVVfeXFMTTktWnp5bnFZaHNtMk9uOFF2QXdDZmNOOXlmM3ZIS3YtSVpyMFMza3FSYTA2VkpLaU9iM2tMS0pZalpOdzh2NFRrdnlSRUFrSE53Sm5YZE8xVlBJYlBIMjlCSG9SODFfeDVxRWpQZ3hiaXJ4VUluV3MwSWNfekJCWWpRMWxKNTRYRUNzRnhsRHptWE9NN3hVelpDZ0RCVjlPdWV4T2d2QTJqZFNZdVRn?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T23:45:04Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "dd62360cdb55684548b933",
       "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
@@ -16,7 +88,7 @@
     {
       "id": "607d4d7557c40807b113b5",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "published": "2026-11-12T23:34:05Z",
@@ -147,8 +219,8 @@
     },
     {
       "id": "ca2f28331a6de25aeb3085",
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
-      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch",
       "published": "2026-11-12T22:22:28Z",
@@ -434,6 +506,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
     },
     {
+      "id": "7d226533f769fbf1fe914f",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-12T20:25:29Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg"
+    },
+    {
       "id": "5cf6869232a42bdc08418a",
       "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
       "summary": "",
@@ -468,18 +552,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "aa569c0dcb55f56b1c53e2",
-      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWl5VFRGVVRzS3dKZHludzRheHZpeVEwanoyTzMwWjZScjYxcThIXzdVOTdIVDJiVktPUjFFczNaMlpSNzhuZXp6XzJHSzVuRjFYREYtby1MLVNEQ2lkQ0FMQ09JN2dxZENpY2hHTEFRMlE1aDU4ODdUbVpzQVFoakRpb2JTRUt0NVQwbld3V29vWnlucjRILTVxdmcxS2JLeEowQUVUejHSAa4BQVVfeXFMTTktWnp5bnFZaHNtMk9uOFF2QXdDZmNOOXlmM3ZIS3YtSVpyMFMza3FSYTA2VkpLaU9iM2tMS0pZalpOdzh2NFRrdnlSRUFrSE53Sm5YZE8xVlBJYlBIMjlCSG9SODFfeDVxRWpQZ3hiaXJ4VUluV3MwSWNfekJCWWpRMWxKNTRYRUNzRnhsRHptWE9NN3hVelpDZ0RCVjlPdWV4T2d2QTJqZFNZdVRn?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T19:57:15Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
     },
     {
       "id": "25b5c0a7a557464be10fbe",
@@ -662,24 +734,24 @@
       "image": ""
     },
     {
-      "id": "0dc2b4327d45e47a98d29b",
-      "title": "EMEA FX Outlook 2027: Restrictive policy remains the key FX anchor",
+      "id": "c9ffad50ddf6b61ebc3c52",
+      "title": "FX Outlook 2027: Seven key calls",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OaThaVDhRRmZjTEZnbDgtSHpuOTh5RGp6V3FzWkpNZmNjYVdSaE9pelR0WFhPdHlDdE41a3V6R0VHS1Zicmg3cWVfaWV4M3E2dENSUWk2UW5rN2pjX2Q1amJ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wRWF5WkI5cXJEV3F2MkRWRnFjeTFYOUZhNU9uSXYwRnJJa1Z5RDFfU2Z0RnJMNHdMUW1xRFJyOEZBMFo5ZEloZDVDRmtjUmswN3NmOWFScjhoTUpBUG5wYTlZdG4xb1ItaGpSMTdkS0E?oc=5",
       "source": "ing think",
-      "published": "2026-11-12T18:09:59Z",
+      "published": "2026-11-12T18:10:49Z",
       "category": "Economy",
       "topic": "Global economy",
       "country": "",
       "image": ""
     },
     {
-      "id": "c9ffad50ddf6b61ebc3c52",
-      "title": "FX Outlook 2027: Seven key calls",
+      "id": "0dc2b4327d45e47a98d29b",
+      "title": "EMEA FX Outlook 2027: Restrictive policy remains the key FX anchor",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wRWF5WkI5cXJEV3F2MkRWRnFjeTFYOUZhNU9uSXYwRnJJa1Z5RDFfU2Z0RnJMNHdMUW1xRFJyOEZBMFo5ZEloZDVDRmtjUmswN3NmOWFScjhoTUpBUG5wYTlZdG4xb1ItaGpSMTdkS0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OaThaVDhRRmZjTEZnbDgtSHpuOTh5RGp6V3FzWkpNZmNjYVdSaE9pelR0WFhPdHlDdE41a3V6R0VHS1Zicmg3cWVfaWV4M3E2dENSUWk2UW5rN2pjX2Q1amJ3?oc=5",
       "source": "ing think",
-      "published": "2026-11-12T18:09:18Z",
+      "published": "2026-11-12T18:09:20Z",
       "category": "Economy",
       "topic": "Global economy",
       "country": "",
@@ -1366,78 +1438,6 @@
       "published": "2026-11-12T14:40:06Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ca17ace35f98c7bf085f03",
-      "title": "President Ramaphosa to lead delegation seeking AI investment in the US",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEpUaFVPMUtUbm5PV245UlM0Wlo2ZGxJZ2FlQ3J4WVdlRjlCMlQ0eC1WUzdqRlRyaU90RWtUbTlqRXBqNV9idE4zUC1YZU90clotaV95RWE5bzZBc2pUaV8ta3Fveklib1NETi13VW1UU2hfMXNzWWJJMzBCcFNvZ2xtVFlLbE96YWZEU3pTS2xHZG1JQlpTTmNlMW1VQ1ZycHNxbkRiMEVOWkRWU2QwdkQ5OEJSaEYwSmc?oc=5",
-      "source": "IOL",
-      "published": "2026-11-12T14:36:23Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e37e37e8f11c250ce2bde7",
-      "title": "Why is Japan's yen becoming a problem for the US?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2o5cjRvbVFBMmMxcWhTOEVENnJybFRuN29seVNrS0RSbVhndEhMdl9kZDFDZGpVMUpLekFoMnR4MElhckxMb3k2dTk5NXpmUHhXZ3g2MXdwQTExbFFNb2lDNEQ5eGd4MG8wMGxQR25UZEJsNGdmZzJBMzJaR05JSmwtcmp3M2JQR3V1SQ?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-12T14:35:27Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e8dd7bea64eb8cbc7bc977",
-      "title": "Baidu Launches Token Exchange for Verified AI Model Services",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFlqdXZxMmk1STNqbGREZnpVZi1NcWhQQmlFQkN5eTU5SkVqVHNpVUlZU29SODFTbzNSaFZ4VVpId25pVFRlbngteFowRFktVEs2dmRvYXJiZ1h1QmVjc2tOb0JRNDVHWGhvMnVvWnBGd3RES3owVGpzRkQzeU5OLWE0bzJBUWFIZnc?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-12T14:35:05Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "763502d052f076c55adbc3",
-      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-      "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-12T14:29:59Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg"
-    },
-    {
-      "id": "825ce79973e93b11c2e0b7",
-      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-      "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
-      "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-      "source": "NPR",
-      "published": "2026-11-12T14:22:50Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8307x5538+0+0/resize/8307x5538!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F8d%2F5c5ffceb462b8ea3b73a40e7f598%2Fap26316172354988.jpg"
-    },
-    {
-      "id": "b58ab36d09c22f5b58fbce",
-      "title": "Who Is Nvidia Interim CEO Colette Kress? Key Facts and Background",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnVCVVB1QzA4UDVLS0F2Vno3VVVwY3BqY1ZXazJ4eEdlenlVVWltR2JEZXZRQ3lrdlhSRG9QS0FXcldvMF9WSk13V3luaGJIdHRzZGY5R2tqOWJqc1pYVnltejh0X25sSlRQaFAwbVBILUlEQkhoTzFvS29MaVZYOFRxTWM3aEdSVWlMV3VR?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-12T14:16:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }

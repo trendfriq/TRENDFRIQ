@@ -1,5 +1,65 @@
 [
   {
+    "id": "a33c16c8e7593e792b508a",
+    "title": "Donald Trump really wants Tim Cook to run Nvidia",
+    "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim [&#8230;]",
+    "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+    "source": "The Verge",
+    "published": "2026-11-13T00:46:07Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "98747013ce5b4908e82287",
+    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+    "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-13T00:20:24Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "id": "b6b4befabf897fb91a9736",
+    "title": "Transportation bottlenecks and aggregate shocks",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYTBac2p0bTFwaFAxcTZfVmdvdFJpaHJiNnUtOXF0Q3lUd3NJWXhSR3h0S2pqaWZZS0JJeEVEd21BZHFkbjVYdFV2Yzg4eTdtNHZfSmxsMTNUTHNvZk8xNzg1ZHhiZlhzaGY0c0w3bnBuMXFielVHOC14TnhNRGtyU1JudVkwQQ?oc=5",
+    "source": "CEPR",
+    "published": "2026-11-13T00:16:40Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e31d579ac0149753f237f5",
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+    "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-13T00:13:35Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png"
+  },
+  {
+    "id": "371ebe6d794efd4ac5bf52",
+    "title": "Xbox announces Wolfenstein 3",
+    "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In [&#8230;]",
+    "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+    "source": "The Verge",
+    "published": "2026-11-13T00:11:44Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "dd62360cdb55684548b933",
     "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
     "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely hum",
@@ -310,6 +370,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+  },
+  {
+    "id": "7d226533f769fbf1fe914f",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-12T20:25:29Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg"
   },
   {
     "id": "88784d92e59c815885c938",
@@ -1294,6 +1366,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205210966.jpg?resize=1200,800"
+  },
+  {
+    "id": "60e7879251cbd9b2cb5554",
+    "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa250SFhvdGZyZXFTcU1Qa1RoVVFjay1DRmRVeXZDeG5FMmgyMWNKc2E4Q2dPZ0RlWU1Pem5GZ0JPZWo5Z2tKRWxmVXBvaTczdWxrR3J5ZFdCemhkMWhHZ0d2ZTdZQTRtRk5uOE0ycVhpU0xMMjFucGhHYTVNR0YxbWFrcTY1RF9MR3V0T1lIRjljRTc4alh4WmkwSUU4d2IxUTBoMTJWT1NIclk2SWV2eXpmV2hBU1pXR3Fr0gHAAUFVX3lxTE95TDd1SGhCcVpjMFRUbkMxZ0tyWFlaWUdjeWJETzREWTctSlVhYzVwanhUNTU3SFI1Q0lzSlZnT3MtUVdKQUlJUWFUWWNwWFhzMzZ1LW0xTEQtQVFOZlVma1VUZmFIMktIRWc5dzFGT1l3TmN3blpMMTBwWFdPT0lDR3gxN1lnZ2g5YnYtLThJTDdnZ0ZFN1Z5bWE3QXctZnVDLUpYV2xyS2Z2TVBhcnF1QWo3SXBPUU5DZy1zQUVGWA?oc=5",
+    "source": "PBS",
+    "published": "2026-11-12T14:10:01Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "412fd95eff74cad8ca5cd9",
@@ -5772,6 +5856,18 @@
     "image": ""
   },
   {
+    "id": "9f24493db098a65c5fa256",
+    "title": "OpenAI, NVIDIA, and KPMG among major firms that have set up AI centres, labs in Singapore",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0I0U3U5ajJUZXYzcm9rVUl4bi1UMm1FYzBtdmxXdTNDZ1hUMW5uVFZFdG5VNXZGZFFlWkN5RlVBNUxaZ1QxNEVDVzMwTlB5cTFrZjFwZEZOTUx4enFQcGpiYmRrVDJGbE1NaGtybFNySkViWXBSNzZFdUtfU3pONVZWWUVYelBTSHVTeEN1TWR6ZTczVkNMazVib2VwQnEydUVfSVNVTFF0UzlVTUhsNlJPWDhUVkpsYmtzMDhoWW01eWlyV0E?oc=5",
+    "source": "Singapore Economic Development Board (EDB)",
+    "published": "2026-11-11T08:00:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "0cf4d1343c993c44ccbeb0",
     "title": "Asia Pacific must turn sustainability disclosure into resilience: ACCA",
     "summary": "",
@@ -6140,6 +6236,18 @@
     "published": "2026-11-11T05:30:04Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "16d025a1f4ebcb3ff9a0d3",
+    "title": "Lawmakers & Business Leaders Discuss Global Economic Growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUNhRkpTbEdJQWFMM2VVTXNGT285bDdJcmZETWtaY29ia2VHLVhORWJ2Yk5saW43RGxxTXFjQTQ4OTVSYVAwVW55UnBKVnBpcDB4NG54UloxRk1zWVY0SC0zVnNrR0xjakloUmFNSWdwMU1LbVg3S0Z5cXpydmFIRzcyMHRKVWpEMnJJeVhLTndrMzRwb2RyNkJ3UEVXOGZaaWdrZ1FPMmNaeHlUM3NlUWI4WGQ?oc=5",
+    "source": "C-SPAN",
+    "published": "2026-11-11T05:00:00Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
