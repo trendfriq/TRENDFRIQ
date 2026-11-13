@@ -1,9 +1,33 @@
 {
-  "last_updated": "2026-11-13T23:03:51.731049Z",
+  "last_updated": "2026-11-13T23:42:51.632961Z",
   "articles": [
     {
+      "id": "cbd17a9775293249e6fe28",
+      "title": "Africa’s SME Boom Has Potential To Drive Investment From Global Software Solutions Providers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeldLOE5NSTJMU3dHZkFhN3pDZzF0ODVxNnh4ZTlIZFFKZThlQ2tmYjQ3dEJoSlp6d0ZiTHVjMFZNb2Y3VVZjNWNNd1l5ZXZoSGFOeWMxNFJ6TEVJWkttdXMycGE3WXB1WGZEWkd5czlEOXJUVnZIb2V0QV9lanhjWVpjRDlIQWRRSmlsQ3NwRHltblVYX0JLS2JXOXE5ZGJHTzRaRU0zQ0Mxb0h1cW9LRTQyTjZ1a3pjME1sRHFkbWY2SVY1QWMyaTlRTFJkaVVmX0tYa21jenk?oc=5",
+      "source": "Forbes Africa",
+      "published": "2026-11-13T23:03:58Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "27fee21f2e3085279f72bf",
+      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delayi",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "source": "The Guardian",
+      "published": "2026-11-13T23:01:06Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50ff1802933d426c2d03bbd9365229fa"
+    },
+    {
       "id": "85d2c8f22be4b080a197fe",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
       "source": "BBC",
@@ -88,7 +112,7 @@
     {
       "id": "15ee692dbf097aa23a89d0",
       "title": "FAA ground stop shuts down flights nationwide",
-      "summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a [&#8230;]",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
       "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
       "source": "The Verge",
       "published": "2026-11-13T21:38:25Z",
@@ -195,12 +219,12 @@
     },
     {
       "id": "cf8d6db662d1ba559978b7",
-      "title": "Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
+      "title": "Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
       "summary": "This live blog is now closed. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has",
       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
       "source": "The Guardian",
       "published": "2026-11-13T20:37:58Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e0df682ebba822680f11e1fd473efef"
@@ -252,6 +276,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900"
+    },
+    {
+      "id": "75b3a40a97f66f5ba35c4a",
+      "title": "[TOPPAN Holdings FY2026 Q2 Earnings Call] Full-Year Operating Profit Raised by ¥15 Billion to Record ¥95 Billion — Packaging Business Drives Growth, Information Solutions Revised Downward",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRkw0cDZWTHVFUWNJejlQbFpBaVlGY0ZrSnNqcVBadkNodFJfWFd2enJEeHAyay01WGZvT19iWkN2enV5V1J4Qnl1bWZtVVUyc0lCVGo0T2ZVZEFwUGJMNg?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-11-13T20:04:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c195611169542d126d4d05",
@@ -662,6 +698,18 @@
       "image": ""
     },
     {
+      "id": "75b80cf49ab7d1e61ff478",
+      "title": "Surging Earnings Estimates Signal Upside for Venture Global (VG) Stock",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbk9aaHY3UFdfYjhYZThRNGVOUVQ5ZEpOU1JNX3FsSk9iazBhd1ZQc3k0Rk85R1N3ZzVyRE1LbGExV0E2d3JlM0JydVJOTWIzRTFNY3g4YXlydy1fMUxzYWVhZE9ZcmJrZVZ3c1BfR1dXdmFqNkFHQXpxQVd1YVJnV3BOanFUbGFkSENYSlcweGlhLTBtNUgweGVPMGlUWWpRNTE4TzJSMU0?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T16:20:01Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9dab2e1a82720a5e187e6e",
       "title": "Does Europe regret its bet on U.S. defense?",
       "summary": "",
@@ -682,6 +730,18 @@
       "published": "2026-11-13T16:17:53Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d00edd2edd5d2031ee36ba",
+      "title": "Does Europe regret its bet on U.S. defense? : Planet Money",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWk0cTVCeWdHNmJ4aVNEc3k3c2FJWHFvaVA1VlNndWVDQzJqQWFlajE2RzZyaFdueEh3blVPT1hvSW1lREZydXVsN244Z1dPWXQ1U2pTelVBSkRWX3FlYkZ1R0xUNWhXTDJJSGhtdzVaM0dsdmNEMFBrWWZGbWttSHVrT2ZOeTdyYVRpR2tXRkpUbExsZnM5dVRrTWV0d0dHS0FmTVhYZlhCZHlp?oc=5",
+      "source": "NPR",
+      "published": "2026-11-13T16:17:43Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -792,6 +852,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
+    },
+    {
+      "id": "d374804bff9e6bab7026a9",
+      "title": "New Australian Data Shed Even More Light on Tax Avoidance by Big Tech (and Others), Highlight Need for Better Disclosure in the U.S.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNREotUm5FTGdDOE5kWEM3QjBOWTRKdzFXcmFvSVdUQ3ExYjB1dWdCMVFuZDFjSFJ4ekZkTXhrMElBVjZFUGJabGpZY3FndEFreFFCQkY1cXRmUWRjY29UcTVxY3JPdlpSWlFiaDV4aTgwMlJMdjVtaEdoM3l4bldPZ1lVbkZqdklRWXoxZWxMeUlEbjZtSEZVSzVSck55NEtxUE42b0gta29ydVNZdGliWFk4ZTZ0UkI2alZUdFZrckU4VWkzejVlR1RsSWhsMzZQdm5RR0pLOTZZU2lOTUhV?oc=5",
+      "source": "Institute on Taxation and Economic Policy",
+      "published": "2026-11-13T15:38:42Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "3e5bd28a247b0051398cd2",
@@ -1190,6 +1262,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894"
     },
     {
+      "id": "e3053264bbcd7b781233f5",
+      "title": "Interpreting Qiagen (QGEN) International Revenue Trends",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGlpWEZDaFZza1lGbFc3eE9PUVhzNV9PZTd0RFVNMm9tZEJwSnFlN0FfNUFHNE5WRjF0NzZZYmt3a1BJeHdTQU5oQUEySUZ2UHlWYUYySXE3YXFVeW9NUE5KVXpERWpIemdSczVOckFTRGtsclN4WnFwTUQ1ejJxOFUzVl9PTTV1SVBIUVRncV9XLTR4RXhmak9SdGU1bl9MUnFjTTU3LXNISjFmbkktVg?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T13:15:12Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "174ccefce2dd06c7289ee6",
       "title": "Cineverse Reports Second Quarter Fiscal Year 2027 Results",
       "summary": "",
@@ -1356,90 +1440,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "85a151dd22e411197e26ff",
-      "title": "Big Oil’s War-Fueled Profits Revive Calls for Windfall Taxes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0F1QTJ0cVJsS3h1a205bG5pY0h2TzUxWlVTVW1rTkcwSk5BUkZQSmU2ekVXQU9SWHdGN191eG5MaFV2RjVKR1Y4c1lXWWFTTXFvbXdGVkZhOW9iQjhnamZSVzk5OVVzbzFsb1QtVG56NVE0Z2gtajQ4ZnJCeHlSV08yU2tkcVlvTFlncXYzMFBycFJpWTN3OUJENTN0NXNoWnlqVEFiSC1HY0Z1ZlZGWFZ6ZkQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-13T12:40:48Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d0b35e48caac3aed3a4f7b",
-      "title": "Global Microsoft outage disrupts government services, businesses across Asia-Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHdrQ1pYRjYxUmQ3bXhxY3VaNngtQjFGaHgwaWRKaFZYRHZlWkNRWDB1VTVnazV3Rkkxb2NaSE0xVzNrRmxudkk3b1pjenBQUW1rN2t0eFAwa0RXSGhYZG9RUXE1VFpXaDMyZDN4S043RWFyV0lGRWhWbXMzem1laDdfOEJzeVRFZ1Y5WWxEY3NBRVprUS1lOEwwYTROeUtGSmFqY3p2Z2owTUpnZ2V4ZWZndjFtU1hTZmMyVUdmRUYwWWF3dGktWnNn?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "2026-11-13T12:34:16Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "102b83ff149036bfbb5b30",
-      "title": "Should Your Startup Join a Tech Incubator?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnN1azR1VVdSYTlmNlRaVDdnbFFEYUxtVk1SYkt2VDBvQnpZWGhFSjNWZVMwajB4ZHhYNm0tMi1YRlV2dFhSUGRwb1dLdHJ5dklqNGxxNmdxVUdESXBvVG1GbDJ6UjJsV3dBMlpCSHVHNXpQMC1wdVZFLUFUVXp4czZ4M19ZMWlpT3JfQnVqWWlGd2VsTXVJYUVwZnRqZFp4bGc?oc=5",
-      "source": "Oracle NetSuite",
-      "published": "2026-11-13T12:32:50Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ab20486f7613c709fe1c21",
-      "title": "What Is a Deep Tech Startup?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjVtYUNhOFZzMnJfT0ZaSXpTSEExNUc4elljV3lkaVVFUUVDU2cwaXJLNlJ2MGpNX2ZlRnJ4RENGR2l1OEdvdGp2ZGhoWkZFUG05VW52c1NkNmZmNnVIRjgyNkY1TU9zQlRwLTQ2dmxJVmRfZHZOdWRva1pZX2JMR0QtMm9FdTlod2Exa0pSdUxUVjhkMEE?oc=5",
-      "source": "Oracle NetSuite",
-      "published": "2026-11-13T12:32:49Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f8b30db3cc71b55e7816f3",
-      "title": "AI brought in $5.66 million at Digi Power X, up more than 400% from the previous quarter.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXBlRUJfeE0xR05fRTlSUHh6Z2lYRVFKbHptVlNQbFJzV1pHLXNRSWh2MmlXeEdMTGNMR2QwRmtsNWF2dy1XM21RY004Q2hzZEtCLXZ3ME1UeDJUNU51Qk9GcFlGX3VqYzlVM1Rqckc0M3JOaF9POFdlenZQRmNVZ1EwdFVkTkwzUF9pdW5uVEIycUh5VThVYzNQR0VIXzZfNGVtdGVoa2VjOWxIZlQyQ0hvblhaZEkxQ29jbQ?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-13T12:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cbe4cb9ecfaef226cb3376",
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T12:28:28Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06a/live/954609a0-df57-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "4cfa741e559e9c755d8819",
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T12:28:23Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676"
     }
   ],
   "countries": [
