@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-13T17:36:33.066372Z",
+  "last_updated": "2026-11-13T18:27:37.588650Z",
   "articles": [
+    {
+      "id": "640ded743fc83f21e89a30",
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned [&#8230;]",
+      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+      "source": "The Verge",
+      "published": "2026-11-13T18:10:41Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "cf8d6db662d1ba559978b7",
+      "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
+      "summary": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largel",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "source": "The Guardian",
+      "published": "2026-11-13T17:59:50Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e0df682ebba822680f11e1fd473efef"
+    },
+    {
+      "id": "a0496c5bf3e13becfa77bc",
+      "title": "Jensen Huang was reckless with the environment, too",
+      "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "source": "The Verge",
+      "published": "2026-11-13T17:44:22Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "d3bc368f2c827e78ee59f6",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T17:38:19Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg"
+    },
     {
       "id": "829c82d81c0a08b0b5cd22",
       "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
@@ -14,16 +62,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "cf8d6db662d1ba559978b7",
-      "title": "Microsoft outage live: disruption continues to affect millions as company says service is improving",
-      "summary": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that rema",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "source": "The Guardian",
-      "published": "2026-11-13T17:21:56Z",
-      "category": "Brands",
-      "topic": "The Guardian",
+      "id": "28033c8cb9273630c346a8",
+      "title": "Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmdZU3Zad0g4LUF0Qk8xTlBYSkxtRlY0RF9ObUtiOExHNzJYT1ZYaHNDRDU3MkViQWVOVWdMdTEyZUVWWFhJX0VhUmxsV2NsOGFZRTN4eDRNNFZjZFBYYlExcjlLUUNnbWU1UFZLc25ta19tN2NQSy1aZnBxdFJ2NlZpWS1pbG9OSW5WczFXY05NNlc2Y2JBNnQ2eTlUMjhKQWxF?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T17:26:22Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=94479dafee1bbcf2a91050be4021d4d4"
+      "image": ""
     },
     {
       "id": "b07d88933849043904c449",
@@ -36,6 +84,30 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=301ac70f1ed47dff9ef24f77382d1dfd"
+    },
+    {
+      "id": "ccad5b837bef80468a1d03",
+      "title": "Microsoft outage shakes up companies, schools and local governments across US",
+      "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage systems. Even as Outlook started to resume no",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+      "source": "The Guardian",
+      "published": "2026-11-13T17:17:00Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd7cd88264fb0fbd02503fef70713a34"
+    },
+    {
+      "id": "17f616ec71adfcbc5f9467",
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
+      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+      "source": "The Verge",
+      "published": "2026-11-13T17:12:56Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "f83f812563eb29b623dc7a",
@@ -58,6 +130,30 @@
       "published": "2026-11-13T17:01:22Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "28efe7b8e0b347ab559bae",
+      "title": "The new Apple TV has a YouTube problem",
+      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In [&#8230;]",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "source": "The Verge",
+      "published": "2026-11-13T16:55:57Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "4ac6e06020c469b51a3582",
+      "title": "Earnings call transcript: PyroGenesis Q3 2026 revenue rises 34% over 9 months",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeU5ocTFObzJVMXZtNVBOaU8tbTNjbW16VFVQRDVRckVLbzloQ3pUQlJEQTFmbkt3bDZKcmlESE10Snl6YmVKajdBOVRPa1p2WmZUdlZCaFdEVmlyeS00NWVkWmVNVzQ0TTFWZ2hldVRRQ2REcWdkQ3h1eEZDQ0tfdWFYWV92ck05b0JlRGJfbUZXdDFyQnBhYlBiVzdGdHpzblVFSDZVMlFfRzZTTEt0TVN1WjVQaEJURlVyd0ZTQ2NUVWUzMEY3NlZyN2l5cGx4WGc?oc=5",
+      "source": "Investing.com Canada",
+      "published": "2026-11-13T16:47:53Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -94,6 +190,18 @@
       "published": "2026-11-13T16:34:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8bf941886c049d5a648a57",
+      "title": "Napatech A/S falls 5.83% in Friday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdElzWlBrOGxwRlJsVmhDNVNnTW9EaGNWN280eHhqRjd0MXlWeFl2TE5CUDRHSkNQdTBQUDM5YkdablljODBaWkM4OVZLZ0RSeG9Oc1FmY3pfMHZ4WGlhTUpfVGRyeXJzX0NuSjNxaDM1M3pFeHp5VE1QRXBGX1BuTkV2bVo?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T16:32:09Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -156,6 +264,18 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "6c41593b576c3b0795c4e7",
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge",
+      "published": "2026-11-13T16:17:11Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "3c570913cac3b5d7fa7ea3",
@@ -276,18 +396,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
-    },
-    {
-      "id": "6c41593b576c3b0795c4e7",
-      "title": "Microsoft&#8217;s massive Outlook outage continues",
-      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "source": "The Verge",
-      "published": "2026-11-13T15:29:21Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "13aaac2236e82262378073",
@@ -490,6 +598,18 @@
       "published": "2026-11-13T14:07:48Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "332d7bc107a73ddb1c7b6f",
+      "title": "Cineverse stock soars 16% on earnings beat despite revenue miss",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGFvWENnNnQ4Sk9penJQdzRFTGxNMms0QjNyMElnVWJIYnVsR3lGd2Z2Z05temc0OGdyZjVySl9OZ1BzZVktNThBQy1fVHNFMVhqekQwZGg5N2VGRDFQckFTLUZYbHFmTkFIS2pzOVNhdXhzdUJYYzhrY1NPdTBGOW1LeGlNSE5ZVDRPVEM3eFJkNmlUNHduSldtb1NxYmc?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T14:03:10Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -986,6 +1106,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg"
     },
     {
+      "id": "fd789b1f183df999cc3ecf",
+      "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+      "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+      "source": "NPR",
+      "published": "2026-11-13T11:47:00Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg"
+    },
+    {
       "id": "c019f8e91a3170219f03d9",
       "title": "Chinese AI Projects at Risk from Nvidia Exit and US Export Controls",
       "summary": "",
@@ -1070,6 +1202,18 @@
       "image": ""
     },
     {
+      "id": "4b55104608817ded0b3b84",
+      "title": "Indonesia boosts global investment synergy at diplomatic forum",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQndxdDI0a2lFWGh3RHBQLU4zYmhUdzZJS3dFeHA1TUtsbDlhbUJBVDFacmxXNERYMWYyNEJYdVh3SGVuZ0gyT1NpRUtrWjQ4OXlsWkFFU2t2VWYzMENBeDZSY2VlU2VMXzhoaENIVDItTS0xZDhQbWpnQS1vXzdaTGF2SmJfblp2RGFyelBMd0dRNWNPa0VWUnhRTldtaEZvbXc?oc=5",
+      "source": "ANTARA News",
+      "published": "2026-11-13T11:27:29Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "4cd87a2724c940058543e9",
       "title": "SpaceX Aims for First Land-Based Starship Recovery in Texas Test",
       "summary": "",
@@ -1114,6 +1258,18 @@
       "published": "2026-11-13T11:06:20Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9258b6659bf60dadefa485",
+      "title": "10 best ChatGPT Ads agencies for international brands",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oZUtKdEw4aWMzbHNpbXUzNFgxRHZSMmdsS2I4NGl6RV92dXMyZlRHejlYazRNQnNuTWlQT0JnTHluNm8xNGIzSHcyejd1cDR4cXdRYnRBU2FlU1JG?oc=5",
+      "source": "Kingy AI",
+      "published": "2026-11-13T11:04:46Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1274,170 +1430,14 @@
       "image": ""
     },
     {
-      "id": "691a4e74f9e6dd4e51480d",
-      "title": "Heat pumps: How much heat does your home really need?",
-      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T09:29:25Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "810bc6bc1d821775aac8b7",
-      "title": "Hong Kong raises 2026 real GDP growth forecast to 4.8%",
+      "id": "c9ffad50ddf6b61ebc3c52",
+      "title": "FX Outlook 2027: Seven key calls",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTJLVzhvVVBYS1BxdjVCSDhFcDhBUC1HdldmekNsNVIzYWJxcU5qU3NtVUNuUkNRRDVTWEJLRXp0aG02ZzBubGF0cXRmNGFHQlZvVXA1ejlicE1rdkxaM0RUS3pJRnYyMk54enFtY3hRdHNCUURaZThFWEJrZDBEM0dhQl82d0I3cHZ6UU5wQlpqV3dsdWVnM3oyNE5VNzR6Yzg1SGdMUnQxdw?oc=5",
-      "source": "The Standard (HK)",
-      "published": "2026-11-13T09:24:31Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c9caf00d1747a18f7519e6",
-      "title": "Hong Kong raises 2026 real GDP growth forecast to 4.8%, strong growth momentum in Q4",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORzlydXRJLUJLWDR1Rm5BQlRmOVNmV2kweHFwT2Nqa0lrMlNWVmh4SG9ZZ1hRT2JDZ1gyUm1ZbllOZ1VtSHdwR2pyTHpaWTJfblQ3dFRPbXlUSHZaaFZUUExBNmE1Q2R3STZ4cFEyUE1DNDBVakFhS2M5b3RuNXJON2o3UGFjZThVY216eHRSNEJKengyZ3R5czhuYUd0d2JBZ2F5NXQ0MjFYMFdLUmFhOVFLcWRIMHc0aEhLZllfNW9hbE04dWVwNlpuQ2Rab2t3?oc=5",
-      "source": "The Standard (HK)",
-      "published": "2026-11-13T09:24:31Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "79d5efe0620a140a5cb921",
-      "title": "How regional instability is reshaping what investors expect from the GCC",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXdYbVhBZzFkZVM3alp6bmt4V0NiT2FreHczZlZUTExnV1FVX3NybDBsVWJQUWIwNC1Rb2x1X2tDemlqdldiYy1fMzJucnF1aXpzMkNMVkJnei0xRzJzT29XMS1sWDZBaWRlMVFCRUtwbXZ1WU9YeWJjSUp5TGxJazlGb0N2aWdKUldBQjVkamd5WWhPaUFlNjZXSlFHdHdybGMyQS1IY1dSQQ?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-13T09:16:46Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f0fce0ae7b40e2ef8ec994",
-      "title": "[GMO Internet FY2026 Q3 Earnings Call] Unauthorized Access to Result in ¥3.05 Billion Extraordinary Loss, Yet Operating Profit Up 32.6% — GPU Cloud Leads the Way",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ET085eW9tU2dkOS1WSG9hTFNmSkJVT05JRk9LcXh0VU9XS3BzYTFIRTVPSWlmYzlfbUxneldHdzhSYUVsVFVVV0lSOWtEZ19hZ200dXBHdk9RLVE0dlBNSw?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-13T09:14:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ce734ceae09305a73a168b",
-      "title": "ING forecasts resilient global growth in 2027, with lower energy prices expected to support industrial activity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONk5XdnRrR3lxS08wOHNxYklSRkpJSkVUZU5xSzRzQVJENkhfSUJiQ25mZ2g5bVVmcmNOOWsyZGQ0eVpONG9TNk5YaW9mSTI0OGh6SkhQcmlZVFZVWkt1VzlLMElsZEpIM3VFSEJ4OFhSQ0JBNGYxSDMwWk40dnVYOXB5cWlYLVFEVXBrTkcydFl6X0wxMk1HSlAwTWZONlpYTDUxS01STEZCZmNOUUJzU284MHZPRGxIODZNNlB6c2NUNnZybDhkQUM0TFlKRFYyZnRFQnpHVWt1Y1ppeWpQMG9qa0QzUVN0LVpVcUNXM3lwTWFSYkhIZ2FJZmV5RTd0ZlE?oc=5",
-      "source": "SteelOrbis",
-      "published": "2026-11-13T09:01:08Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3b08370629327fc3da8a29",
-      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
-      "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system heade",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
-      "source": "The Guardian",
-      "published": "2026-11-13T08:49:19Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2029e1a8105022678cca8e0aaffb22a"
-    },
-    {
-      "id": "f057dd4dfbd8859180c1f8",
-      "title": "#Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says Addis Abeba – Somalis and Ethiopians account for between 60% and 70% of businesses found non-compliant with tradi",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1NwMzRGdHZVZHlzeGJNZ2c5RlZXVWRvWHI0RHZ6QU9xTkh5OW90ZTZITDZTY1ZEVjFaSXM2U2JiZktuVk5USmdqcnB0VGRhMG83UkJJRmdzaG5pdTUzRFlfR3k4ZF9RaF9hdklKazJ4djhSNkV2TGpIUmc0TVEzUng4d3gwbEFzSlFWLWszQ2hoR2ZqNzJNMHZvT2dsNjJYeXotNzlwV09zakIxSWdaWG1WWlczRHlJNmN0UjBxOEFIN2NDenpIQmxHWTdnMTRwY1daT3lZdGRHd2RnbjZR?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-13T08:33:48Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f6ab9dbeee1a3c5ad01642",
-      "title": "Asia week ahead: Japan GDP and key data from China and Taiwan",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzeVFSWUxDTUVXN1E4UExsaDU2QjQ3ZVl0SVZWT1Q4SDRUWHBBVV9kejFKSTNtcnFiRC1BTmRNMENkSDAySGtuME1lTXdvRF92X0d1T00yazRCUjQ3cFN0ZzliUkM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wRWF5WkI5cXJEV3F2MkRWRnFjeTFYOUZhNU9uSXYwRnJJa1Z5RDFfU2Z0RnJMNHdMUW1xRFJyOEZBMFo5ZEloZDVDRmtjUmswN3NmOWFScjhoTUpBUG5wYTlZdG4xb1ItaGpSMTdkS0E?oc=5",
       "source": "ing think",
-      "published": "2026-11-13T08:32:06Z",
+      "published": "2026-11-13T09:35:40Z",
       "category": "Economy",
       "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2757662f2e368bfc0ce3e1",
-      "title": "After its dramatic economic recovery, Africa’s top gold producer launches a $10 billion plan without any borrowing to boost jobs and production",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT05WeGw0NFYyYjN0WDlBelRVaGFtYS05Mk1CNXl2dHhxX0hRR3JnSzc0MUdBNk5zZHJ4NUJ0TjBwa21jbzJtdDZXN1ZBZVZsczh3MkpJbnY4U2VzSFFITXc4Z1lyWG9lckplSkdHNjhxZzFrb3BpWm10R0NTVEs4WnhlQjllRWI0eTZKSnoyeFJWd0IzTUxya2hjR3JTX0xvbHkwd1hlLWN1Qm8wNlNUU2c1UDAtWlE1TkdNQXh1cVhjVzFjY1U2QU5EeHQ1cGpuS2VQdTVB?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-11-13T08:30:38Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ba8dd52e0ac1b6a0159cd8",
-      "title": "Hong Kong's Economy Grows 5.2% in Q3 2026, Revised GDP Forecast Up to 4.8%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUU1rY0ZwbUl1LUFrOVQxVjdSRjVtdjRvQVJrcmtrYkI1UUw1VngtWGJoV0FyeVdVS0FMblVkWjVTZGpodVRzLVVaT0d2eTZGMnhVTU1oMW5EZF9YUzZyODlkcUJuMzdjaUVBdXhsRF9oZWF5N1BUVDFfRzdYWlFZdk92VVByWUxLOUI2d1ZicDZOTEtKa0ItTmF2bTlta21EWkU1YnVRc1pibmtLcUlmOEVqa1h1OGwwdmhVOXFNdw?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-13T08:30:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e022452c02a7893ed3fb8f",
-      "title": "CGTN: How can the Asia-Pacific prosper through openness, innovation and cooperation?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR2VfY2tMYXdzTmVjZXpyc19mTXlCQm1NYUdNajhNWlFDRTJSSXJVNjBUR29JaV9qYWFUM3JXaXlhdy1VS2tIb21BS3V2WHpVQkdseWZzNXJYRzNYdlZ4TWVyQWRDc1JVaHd1VFJrSTlDSElFNVE2M1U1MHRJSVRXLTg0a2wtNmgybVJMak1LN2g1RDZCa3hSWjhFcDh4cnh1UnFYVDhYeEpjT2RoVmpnS2VTYmplMi1nYU1kc2hvd200blBUWllpVWprTGdsQjBvVU9nbmNGOTRqWW4zbXF4Yl9CTWxGVEhkY0s00gHwAUFVX3lxTE9lVlUtSTRhdkVOZFE3Njd3WVREdlhWZFZnN3NGVlMyckI2SEVPSUxBM0hlX3lLWkdMWXU3SXhWczY2VDAyemw2TldOekxoQ2xqT2JNS29yTW5aQ0lRVUN5RXFwbGphdW91NGE3enFZR01mdXJMbm5uR2ZfQ0o2M3RjRmRPYnhaZFQ3dC1MdjNWNHNZQThlSGpyUkhLQVUwNXdEcXRaX0duM2F4SkhYSlowRmtBdEpXWDVZWlVvUnhzbEFyQUZodGMzdGhxeTl2MXhiaHJlYVA4TG5nSUF6azU4cjk4Vkp5amFBcE85Q240QQ?oc=5",
-      "source": "The Manila Times",
-      "published": "2026-11-13T08:28:56Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "55df54a0a0444c55f4d8ba",
-      "title": "Video. European economy 'needs to change more quickly,' says IMF Europe boss",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNUtPTnA1Q29udjZ0czRnOGl0cHpPVzVCZkRsM2d0VlpfYk8yX2Iya3hJbnpQSzkyTzJ4NlRrWTVFU0VUNnBXNXd5Y3FyNHpFRFpUT1JVVXJOTUZNUWI0Q0NhYWkwazBscEFUUGkzQk5EZU9RZF90LXphSnM4TTMwcDlxb3hiWWpWVFk1X3haeFFhOG42ek1fQ3prZWhzWW9mM3Y4Vzc2NW44OVA1a1NDOE0zcHpZdDd0WDBFWEtkZHR4dFl4NXQ4SEpldTU?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-13T08:28:18Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4d6c63384fc63ff84e7b42",
-      "title": "Video. European economy 'needs to change more quickly,' says IMF Europe boss",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMTFaT3B6VTJjLUhwU01wLU12TVBVRmpEZzdER0xXSGlvTjJpMGx3Sl81RUhURWFSSGplZVZNUG9reWh3RXc4ZndxUHo1WmVnQUZUSFhFX01fOHBZR21zaldHZ1hyS3JOV2swdTVmVGRQNjhIZGNJejBKQThlMFI5aFBYX01lNmRqenBxVTNIaGNVMmZUemJHVGxpNC1PeGVrLXRaTFJkbXlvWTkyV1RRSGpGYV8xekh6bFBoX2otWVBCeG5T?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-13T08:28:18Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     }

@@ -1,5 +1,77 @@
 [
   {
+    "id": "640ded743fc83f21e89a30",
+    "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+    "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned [&#8230;]",
+    "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+    "source": "The Verge",
+    "published": "2026-11-13T18:10:41Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a0496c5bf3e13becfa77bc",
+    "title": "Jensen Huang was reckless with the environment, too",
+    "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230",
+    "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+    "source": "The Verge",
+    "published": "2026-11-13T17:44:22Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d3bc368f2c827e78ee59f6",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-13T17:38:19Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg"
+  },
+  {
+    "id": "28033c8cb9273630c346a8",
+    "title": "Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmdZU3Zad0g4LUF0Qk8xTlBYSkxtRlY0RF9ObUtiOExHNzJYT1ZYaHNDRDU3MkViQWVOVWdMdTEyZUVWWFhJX0VhUmxsV2NsOGFZRTN4eDRNNFZjZFBYYlExcjlLUUNnbWU1UFZLc25ta19tN2NQSy1aZnBxdFJ2NlZpWS1pbG9OSW5WczFXY05NNlc2Y2JBNnQ2eTlUMjhKQWxF?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-13T17:26:22Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ccad5b837bef80468a1d03",
+    "title": "Microsoft outage shakes up companies, schools and local governments across US",
+    "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage systems. Even as Outlook started to resume no",
+    "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+    "source": "The Guardian",
+    "published": "2026-11-13T17:17:00Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd7cd88264fb0fbd02503fef70713a34"
+  },
+  {
+    "id": "17f616ec71adfcbc5f9467",
+    "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+    "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
+    "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+    "source": "The Verge",
+    "published": "2026-11-13T17:12:56Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "a81d04f4cec3194166ceeb",
     "title": "CMA CGM Profit Rises on Strong Demand and High Freight Rates",
     "summary": "",
@@ -8,6 +80,30 @@
     "published": "2026-11-13T17:01:22Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "28efe7b8e0b347ab559bae",
+    "title": "The new Apple TV has a YouTube problem",
+    "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In [&#8230;]",
+    "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+    "source": "The Verge",
+    "published": "2026-11-13T16:55:57Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "4ac6e06020c469b51a3582",
+    "title": "Earnings call transcript: PyroGenesis Q3 2026 revenue rises 34% over 9 months",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeU5ocTFObzJVMXZtNVBOaU8tbTNjbW16VFVQRDVRckVLbzloQ3pUQlJEQTFmbkt3bDZKcmlESE10Snl6YmVKajdBOVRPa1p2WmZUdlZCaFdEVmlyeS00NWVkWmVNVzQ0TTFWZ2hldVRRQ2REcWdkQ3h1eEZDQ0tfdWFYWV92ck05b0JlRGJfbUZXdDFyQnBhYlBiVzdGdHpzblVFSDZVMlFfRzZTTEt0TVN1WjVQaEJURlVyd0ZTQ2NUVWUzMEY3NlZyN2l5cGx4WGc?oc=5",
+    "source": "Investing.com Canada",
+    "published": "2026-11-13T16:47:53Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -44,6 +140,18 @@
     "published": "2026-11-13T16:34:00Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8bf941886c049d5a648a57",
+    "title": "Napatech A/S falls 5.83% in Friday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdElzWlBrOGxwRlJsVmhDNVNnTW9EaGNWN280eHhqRjd0MXlWeFl2TE5CUDRHSkNQdTBQUDM5YkdablljODBaWkM4OVZLZ0RSeG9Oc1FmY3pfMHZ4WGlhTUpfVGRyeXJzX0NuSjNxaDM1M3pFeHp5VE1QRXBGX1BuTkV2bVo?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-13T16:32:09Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -404,6 +512,18 @@
     "published": "2026-11-13T14:07:48Z",
     "category": "Technology",
     "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "332d7bc107a73ddb1c7b6f",
+    "title": "Cineverse stock soars 16% on earnings beat despite revenue miss",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGFvWENnNnQ4Sk9penJQdzRFTGxNMms0QjNyMElnVWJIYnVsR3lGd2Z2Z05temc0OGdyZjVySl9OZ1BzZVktNThBQy1fVHNFMVhqekQwZGg5N2VGRDFQckFTLUZYbHFmTkFIS2pzOVNhdXhzdUJYYzhrY1NPdTBGOW1LeGlNSE5ZVDRPVEM3eFJkNmlUNHduSldtb1NxYmc?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13T14:03:10Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -876,6 +996,18 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg"
   },
   {
+    "id": "fd789b1f183df999cc3ecf",
+    "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+    "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+    "source": "NPR",
+    "published": "2026-11-13T11:47:00Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg"
+  },
+  {
     "id": "c019f8e91a3170219f03d9",
     "title": "Chinese AI Projects at Risk from Nvidia Exit and US Export Controls",
     "summary": "",
@@ -956,6 +1088,18 @@
     "published": "2026-11-13T11:27:49Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4b55104608817ded0b3b84",
+    "title": "Indonesia boosts global investment synergy at diplomatic forum",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQndxdDI0a2lFWGh3RHBQLU4zYmhUdzZJS3dFeHA1TUtsbDlhbUJBVDFacmxXNERYMWYyNEJYdVh3SGVuZ0gyT1NpRUtrWjQ4OXlsWkFFU2t2VWYzMENBeDZSY2VlU2VMXzhoaENIVDItTS0xZDhQbWpnQS1vXzdaTGF2SmJfblp2RGFyelBMd0dRNWNPa0VWUnhRTldtaEZvbXc?oc=5",
+    "source": "ANTARA News",
+    "published": "2026-11-13T11:27:29Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -1174,6 +1318,18 @@
     "topic": "BBC Business",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+    "id": "565f9393fd202c2386e5f7",
+    "title": "Google Launches Gemini 4 Hydrogen for Faster Coding and AI Workflows",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblhoYlBiNFVON0pHVHpJYVJ1bGFEUXdRa01uVktsc2VGSTZMTGtFbUVkT2pvZVpjTzBCXzFsaFlwR3g2ZTE2NHpNd2c2ZUkwZGRTamZzSEhESEFVUEIyOE1fLTdJOUVrbjBFUXMwcHAyY3h6SUJwTUNlc1RGZjhzbVhDbUlnMHEwS0lNQWtWaG1FZGNucS1LZFRqcWo1ZjhBUWlUQXBKZlZHUQ?oc=5",
+    "source": "Analytics India Magazine",
+    "published": "2026-11-13T09:24:56Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "810bc6bc1d821775aac8b7",
@@ -1616,6 +1772,18 @@
     "published": "2026-11-13T05:24:36Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "cd9d4663528b3ae722321d",
+    "title": "Corteva Q3 Earnings Call Highlights",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDFmdUFCUkt5M1JWMzV0NkthXzFFMTMySkhDaTBOaUM2ZjZCV29GZ3FpV0xoRmw1b2p5aTJMTTFzZjhNUWlLb1MycXctSXhfSGpyQWpBSGk0Ulp2S21UQnhnalFDaUc2Y04tU2pNQnJXVXJPMm1lcUhNNjZSbkQ1SFVGLWFvUm5YX3ZNRmRtZVU3eE1fcFZ0TnZXanY?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-13T05:14:23Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -2768,6 +2936,18 @@
     "published": "2026-11-12T18:19:17Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "70e1ef5b5c0314b0e8b448",
+    "title": "RightRev Launches AI Agents to Keep Revenue Accounting Aligned With Changing Contracts",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Sbjk0a1k2ZVlXRXE0UHpfLXExTnozZjM2X1dCdWhabEdtbHY1cnI4OTJZTUxYVm4zeC1tRnFoY1RlQjM3ekRmRGx4N0NZRE9Ldnh5dzhaQVFDYWszeE9TdWlnQ3huOWh5SFNZY3M3VXdvSmZPUDFGTg?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-12T18:13:03Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
