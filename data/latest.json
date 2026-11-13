@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-13T03:08:01.246246Z",
+  "last_updated": "2026-11-13T04:18:20.812539Z",
   "articles": [
+    {
+      "id": "607d4d7557c40807b113b5",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T03:57:01Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+    },
+    {
+      "id": "309da1354bc8d463837257",
+      "title": "Food arrives by drone in APEC host Shenzhen, as China expands 'low-altitude' economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTlKVTE0bEZEb2s4dTJDSktzMWM1eEpXekRMYXBQXzdsaWNNYmRDV05SWEZQYVA2d25UbU5Ub0JpV2lQYnZIYU5Uc3hqWTVnTE10bUZyLTRPQzNyWnFHUlE5cTV6TW1LSkl1ODd2dDhCYmxac0pnTjZtXzljb0xoSDM2NDJvMkxvUFNKRGVwZmZEYTR5eW1RTTNnazFYaVpocE00MUFmWEtqbmREX0o5dEsxM20xY1BjYWM2OVBQelNFYU1Yay1KaWZMZ2VaOVA3YlE?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-13T03:49:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "db6871a6629f2675214194",
       "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's i",
@@ -38,16 +62,16 @@
       "image": ""
     },
     {
-      "id": "607d4d7557c40807b113b5",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T02:39:00Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "id": "5ab32b935289d1896d0e68",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T02:48:29Z",
+      "category": "World",
+      "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg"
     },
     {
       "id": "7d226533f769fbf1fe914f",
@@ -60,6 +84,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg"
+    },
+    {
+      "id": "a5d7ba5449f3d76bfb976c",
+      "title": "APA NTA 12-11-2026 $3.81029",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzdiRHVvZGtFVFJJS2lhQzdMaFpwU3dFWGJUQTdzUWlfcjh4SXk0ZWRtZU5TRE9KVHhpSEU0RUlRUFNXdWx2MlBMSXRxVWh5cDlrelhIbXc1S2ZaZm02b3ZTYnpDZDBSc2JqQmQzQUZFX3ViRDJqQUtjYTBqdjRnTE10RGpvaUE?oc=5",
+      "source": "BusinessDesk",
+      "published": "2026-11-13T02:38:02Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e4851a92f7ef1194698b82",
@@ -170,18 +206,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "0c77e51cbe65685dadcbb0",
-      "title": "Jensen Huang is in a world of trouble, and that could mean trouble for the world",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUElGN2huVU5fWEJUbGh6WWx0RXNrREpUREtpemhLZ3NSWHBmaGpoOEdsa2VkdXNDWjZCUmE2eHNpZHB4N2dMLS1JQjNDMmstbzZneTdxSExoMFVVUFFtV2l4SjVBTjlaQUdmb0d2U0JydFNxTlQw?oc=5",
-      "source": "The Boston Globe",
-      "published": "2026-11-13T00:00:39Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "aa569c0dcb55f56b1c53e2",
       "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
       "summary": "",
@@ -189,7 +213,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-12T23:45:04Z",
       "category": "World",
-      "topic": "Americas",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -507,7 +531,7 @@
     },
     {
       "id": "d194d3acb6018ffa287371",
-      "title": "Shares of AI cloud operator Nebius drop 16%+ despite strong quarterly results",
+      "title": "Shares of AI cloud operator Nebius drop 16%+ despite strong earnings results",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGNkRmtEQmhGMzE4Tl9NeDdiUnVMcU56aXlUT2dBbVdySWpLcHdSbUxnZlh1a2tsb3g1Y1FNY1dxUjZlakVyTGJqZUpNUE12Q2p5MmZrMjlSb2EzZWVGNS1MdzU4bmt5akVha3hWQWRRQ2NxdWNSZTJYUkxOS0k5UXczbnA5dEgzdnRrc2pVWVdRck1OblFxQnA4cjV3UDFqYldxd3RSdG1PbjNGdHVIV2xn?oc=5",
       "source": "SiliconANGLE",
@@ -1416,30 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827"
-    },
-    {
-      "id": "5bdc00dffbfa75bafee83b",
-      "title": "Earnings call transcript: OTC Markets Group tops Q3 2026 profit view",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxhUGNkX3J5MnM1ZnRBSllELUQxUkpya2hMbjlDTEgwNFhlVzZmSkpySFBDbTRfekhmclZ3cUI5QVhTdTFKQkdyaDVhb2FQRFhreTJqNVpWQjJINFBuVkZob1VnWDRHVU1vSlFUb3BKUDNpSjB6c2s5STFGVzc1UU00anlKbEFyVW1aZFZRSnA1REFPQkRtdndIVUdKT0hzZVhrTVlPMTNqelFZZHgwUnF2d3l5MGU5VDktOE91NTk?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-12T15:02:19Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "38ea5b66d259522356b1fd",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeti",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "published": "2026-11-12T15:01:31Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
