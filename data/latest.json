@@ -1,17 +1,77 @@
 {
-  "last_updated": "2026-11-13T19:31:49.874719Z",
+  "last_updated": "2026-11-13T20:28:07.092201Z",
   "articles": [
+    {
+      "id": "fd3e23363a1f425e0786b7",
+      "title": "Brazilian WEG to add 2,000 jobs in Mexico with its sights set on North America",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXh1cXVkTVg0bHp6eU1DWE94dTg0aGpJVUVvUDVNM0lVc0lacWdGbmV3MFpEQjZSd2s2a3RHZ3JyUGtXVkRNYzBYSUxjZURqamZXb2s1ZUQ2bTNra1huNUxZQW5ERkpxNms3LXhBb3JhZUN5VEN5ZWotMDhFY3hoUjdwTERicmxMUTFTbkdBVzIxazJ0QzY2N3B1OWUtVGxZbGp4UjVTc3JORDZHazlsU0t3?oc=5",
+      "source": "BNamericas",
+      "published": "2026-11-13T20:12:02Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6352232812b3ea4a981969",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T20:07:24Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900"
+    },
     {
       "id": "cf8d6db662d1ba559978b7",
       "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
       "summary": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largel",
       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
       "source": "The Guardian",
-      "published": "2026-11-13T19:15:32Z",
+      "published": "2026-11-13T19:55:49Z",
       "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e0df682ebba822680f11e1fd473efef"
+    },
+    {
+      "id": "c195611169542d126d4d05",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T19:53:57Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+    },
+    {
+      "id": "50ed42af2146ca4cb51603",
+      "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+      "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questi",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "source": "The Guardian",
+      "published": "2026-11-13T19:51:28Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cfc91551ec81a92db228675af0c6ab1"
+    },
+    {
+      "id": "b96c8f1ce3eaba55d8f9d7",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T19:37:57Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829"
     },
     {
       "id": "07fb101d77d4b8cb0bd655",
@@ -482,18 +542,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
     },
     {
-      "id": "c195611169542d126d4d05",
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T15:40:08Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
-    },
-    {
       "id": "3e5bd28a247b0051398cd2",
       "title": "Sino Biological Launches 4RISE to Validate AI-Designed Protein Binders",
       "summary": "",
@@ -823,7 +871,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0FhS3dWWlVKMWt6aDB2ZWdYdV8xU3BsY18zRmR1ZjJTUzhTcTVZbjRTXzNjeE95VFJ6eUc2WTNwTGJ6VlZhcXgyc0RQTUFabE1IRl9wZFVpV25nNlR5dzF4VklMTGRWeUNjY1R0Wjd6S3doU2dNdWdRSm1OZVF6WHpNc0llSEdyODlSeTZqRF9qaUpyWU5tZlhEaktxSkh5aEszaklaQ0dYTUFDaWVFMEV2cUdkR003LUNQTWt5SEIyQjQ?oc=5",
       "source": "DIPR Nagaland",
-      "published": "2026-11-13T13:43:35Z",
+      "published": "2026-11-13T13:43:11Z",
       "category": "Technology",
       "topic": "Technology",
       "country": "",
@@ -924,6 +972,18 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "1383d3f72891184d86c0ce",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T13:11:23Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg"
     },
     {
       "id": "298cc5e146d9f29dff369a",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-13T11:27:29Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4cd87a2724c940058543e9",
-      "title": "SpaceX Aims for First Land-Based Starship Recovery in Texas Test",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXM2VGZyTEc1Nk1pZUNIdnBPRE1JX3c4b3JvaDlMeUJQY2lUa0tMU0gwNVkxdXljaVBCbHVLNTBORXlqLVEtOENndXRkTlN6c0wwWkRWbkROMmM0OUI5ZzJKTlc1dWxnb0ZMRldLN25SVDhPUFpRRE81Snp4WXczbzFXdFpwZE8wUUk4Qm5yczd5QTdFUUVoRXRHMU9DVEVMT0E?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T11:16:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b0ab7f46d4c52c556ccc97",
-      "title": "[T3EX Global Holdings FY2026 Q3 Earnings Call] Ocean Freight Rates Double Plus Volume Growth Lift T3EX Q3 Profit 270%; Quarterly EPS NT$3.73, Up 193.7% Year-on-Year",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PbjNTOHNEUnFHOGU2RzA0M0hrNENZNk1vOFEzc01UaEdOdnQtVDQ1SDJscUNDV1RlWG4xb2k3clF5NnZEWWdYM29xMUN3YlBVcUVVS3BUVWR2T3RxaHJTRkhR?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-13T11:14:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "53caea055f63e1d9a86c55",
-      "title": "Who Are the Best Startup Coaches? | Hire #1 Scott Steinberg",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUU0zNVBkZmQtLVpxUFBMZGtacG5EV0xFTVRzZ0Z2RDhFYjJkSzBYMG1PSU0ybWVTUDIxNThBeHFtclZKN0F6Z1JzTWQzQ1NoNm15UWlYMlpxZk1kR0R3WF9CVXlUeWoyWFJ5WHc5VWlHa0tvdjAycHQxZVNLbWJJQ0RB?oc=5",
-      "source": "https://www.futuristsspeakers.com/",
-      "published": "2026-11-13T11:08:22Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d7455363d1718dfe40b434",
-      "title": "Exclusive-Amazon’s plan to own the world’s product data and fight AI shopping agents",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkdjSzVMYmxPY0tnbDNHVTBQNFYzSWFXNDg0cS1IajdvYm1vb0puQU8tNnZsR19CcXhkTGJ5N2IxdFhjM1JlamI2c1Q3clhydXJ1SDRIdmlQVGpCQVdxeV9zVFQzOURDRXUzV095NERqMmstTUFiY0xxMmRqWlhnaGJFZWJjd0RaNXMtNVktMEVIeC0zSEZ5ck1pM2c1Nks1?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T11:06:20Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9258b6659bf60dadefa485",
-      "title": "10 best ChatGPT Ads agencies for international brands",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oZUtKdEw4aWMzbHNpbXUzNFgxRHZSMmdsS2I4NGl6RV92dXMyZlRHejlYazRNQnNuTWlQT0JnTHluNm8xNGIzSHcyejd1cDR4cXdRYnRBU2FlU1JG?oc=5",
-      "source": "Kingy AI",
-      "published": "2026-11-13T11:04:46Z",
-      "category": "Brands",
-      "topic": "Brands & business",
       "country": "",
       "image": ""
     }
