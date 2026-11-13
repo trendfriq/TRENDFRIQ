@@ -1,10 +1,82 @@
 {
-  "last_updated": "2026-11-13T22:20:10.242167Z",
+  "last_updated": "2026-11-13T23:03:51.731049Z",
   "articles": [
+    {
+      "id": "85d2c8f22be4b080a197fe",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
+      "source": "BBC",
+      "published": "2026-11-13T23:00:31Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "59d35bd98e0729bd173c9d",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T23:00:31Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
+    },
+    {
+      "id": "41bbca50b49f80388d7fa2",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T23:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925"
+    },
+    {
+      "id": "a53b6d6797d1d8cee9d094",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T22:43:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+    },
+    {
+      "id": "7b12dec262d9c3374f628a",
+      "title": "Broadcom falls 4.76% in Friday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wZ1dYR0JhOGV0UzVrTjRLTTJmOXZ2OHNZaWt1bHcyTG5aSnZIMnFxeWUyYjc1YnNBQURUb1VjV3BsSm4wc0c3Y3ZkcEFpMUk3NDBpWXVHTncxa01Zd1lrWEZobUJOZ215MFpHS29RdXVPOHJLSElGUTlZUQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T22:02:09Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3a2d1b962eb2c86e12da6d",
+      "title": "US Tech Stocks Decline As Nvidia Uncertainty Pressures AI Trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTE0zNTJPci1ycHVRSHlNYU8xZElXaFFRdFAyTXpfX01SZnFLZndjeWRKdWZ4RW5VZEVIUUx3TU5Sci1HNE5zVS10endYN09vMWM5U2RJN3lkV0tFNVV3TjMxT19EN3lPaEVTSEE5TFlvSjN3cFFQVTNlcGZUV1JmaVZkWjlJRWVFUmYta1BiXzRucnBxRWhJUHY0QVVxWFNpOEtONzRfbkdiaVVY?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-13T21:52:14Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "e97658f08944406778852a",
       "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers.\"",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
       "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
       "source": "TechCrunch",
       "published": "2026-11-13T21:44:38Z",
@@ -158,6 +230,18 @@
       "image": ""
     },
     {
+      "id": "8573d9e8e576a4ad47319d",
+      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T20:12:02Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg"
+    },
+    {
       "id": "6352232812b3ea4a981969",
       "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
       "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
@@ -252,6 +336,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg"
+    },
+    {
+      "id": "f702a62ed7f33cf950af3f",
+      "title": "Why European Companies Are Forecast to Have Robust Earnings Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQi1iSG1FSnlTVXl4cnVBX3BmYUllZXVGUXdJSUI0WGFNUUlHUi1oQzhwODQ1ZEJQdEtSNlZLcHRFZHM0T0VsU0NGR3hScVNSSnc3RnVXQXRwRFE5VUl3RTVTQV9Tc0FoVE5UNEN2Z05MVVJJdHBDVTJVeVpmLVhWNlFaTG5kUXF5NlB6bnVOY1RMQ2h2ekxONHRMMTdfSG90YTJoa3l4emRnel9HdzlIUDk3OA?oc=5",
+      "source": "Goldman Sachs",
+      "published": "2026-11-13T19:01:10Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "fcdbaa089155ba218b97fe",
@@ -854,6 +950,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774"
     },
     {
+      "id": "e25f81fbb6e91bf51aad2b",
+      "title": "Berkshire Hathaway (NYSE: BRK.A, BRK.B) Q3 2026 profit falls 28% to $22.1 bn",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpU0hIZEdZdFM2WXIwSTRHbHFyQzVNNjU0S2ZsaHNkcVJhX2VpYUNCMUdUcV9tVjk1bUw5N1RQZzdPQ2dfakVqYU9yakJRMk9jVHc2UUVJRWJ0NXRkdHBlZGpRcWx5YW9lVThyMVJR?oc=5",
+      "source": "Beinsure",
+      "published": "2026-11-13T14:34:30Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c474a2d90d1f5d7dd3a42b",
       "title": "H.I.G. Capital Launches Waveborn, Acquires Jake Rosen Entertainment to Build Creator Economy Platform",
       "summary": "",
@@ -1274,6 +1382,18 @@
       "image": ""
     },
     {
+      "id": "102b83ff149036bfbb5b30",
+      "title": "Should Your Startup Join a Tech Incubator?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnN1azR1VVdSYTlmNlRaVDdnbFFEYUxtVk1SYkt2VDBvQnpZWGhFSjNWZVMwajB4ZHhYNm0tMi1YRlV2dFhSUGRwb1dLdHJ5dklqNGxxNmdxVUdESXBvVG1GbDJ6UjJsV3dBMlpCSHVHNXpQMC1wdVZFLUFUVXp4czZ4M19ZMWlpT3JfQnVqWWlGd2VsTXVJYUVwZnRqZFp4bGc?oc=5",
+      "source": "Oracle NetSuite",
+      "published": "2026-11-13T12:32:50Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ab20486f7613c709fe1c21",
       "title": "What Is a Deep Tech Startup?",
       "summary": "",
@@ -1320,126 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676"
-    },
-    {
-      "id": "64838ee6839b9ce31acfb7",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T12:22:30Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg"
-    },
-    {
-      "id": "cf25c5917ba088e5eaef02",
-      "title": "Microsoft says services being gradually restored in Asia Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWMxQ2owNmFTRVhYQ2FSYk5qYThUOFMtR2hPQ2R5QnlkMk0yY2ZxbU13SXNvSXNzcm52cG5zMFp6ZWVLakYwSm1wRDRXRERFekRyTjZLU1FBd1IxT3ZKWlRvc2RtRlVVM2xMZFVSZGI3NkRBZFNpLWVNNGwtdDU4ZDM4RW1XS04zUXJVZWY3YzQ3MTFrazNIcDZ0Z3VadkxGZXlmd0dmZjhUY3RrUk55eW8yRXlUV1BGN1Z0WWhRZ2ZCMHBQaEpoT2NHMlNrUEnSAdQBQVVfeXFMTi1ZNFpkUHVlX3JIbVpNQ0xyU0c4NXZfUTJBZHQ2Vmt2dU1taWdaMGVSbjlpMml3R2xCSDlLUDE5aG5kS0VGQTRBQmp5S1YzUUdvYzVtQVhfZF9IWm5pa2Z6UHc2WHFraTVhNlJUUFlObXMxT1R3eW8zMV91UWlxUFZvUnNpeDRaSElxbWd2VVV1dnhzc25CcWx2QVM5cHVGYkx0TmxBeVozOGhqcS1EYVFnU1I2V3FoclRtaGJQUzRseWQtU2VRUVlNT3huUG90Z1pvTlk?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-13T12:21:51Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "83863a05cfa514de4ce36f",
-      "title": "Victory Giant Technology HuiZhou Co down 10.57% on Friday",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV19BbnpRMmhkMDlYMUwzcW02MW41Y0ctdF9qWTV1ZlV4WmpRZU1BYVB6MXBSZTVmZ0RzNmdtVW9sbEtnd0xvQmx5YTB4Q3ZCaG03NmdvZ1Z3UldFYUpXOWFhY3ZkaGxWVE1NNzg3cFJwaFIxWnU5cmtadU1PeWh2amkwYk9OSVVPS0E4VlZ0dkh6UGhlVjBBTVB6OHFQVVZKZld2RUF3?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T12:11:52Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0b1163817a3ea98931efdf",
-      "title": "Political and fiscal risks in Latin America come onto investors’ radar in November",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOellmcEdYQ2lOZnpNNndNUUVhejdMSHdKSEIzMUNUTVRmWkJCSldhQm9EUVZpbS1ISVZSNDlHdEJuVllsUTMtVHZHZlNQYWo5Z01GeVNzU1pFYWJNa0loSWx0R2g2RVdMZ0RXZHQzN1ZoTzJzYlJkWGdoUDhaNlh1MG05TmJqeGtFbTZkT2Mtc1Z2amdKZ1RMWW5QZXZDcmRXRnVHQzJPcTZCc3NoYVZJM25uZWhDYWc?oc=5",
-      "source": "BNamericas",
-      "published": "2026-11-13T12:07:52Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "de0c2eb84537cc7591e954",
-      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-      "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-      "source": "NPR",
-      "published": "2026-11-13T12:07:12Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4811x2706+0+291/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F9a%2F9cda63414fefa6692831f264a687%2Fgettyimages-2288943476.jpg"
-    },
-    {
-      "id": "b790ef257fc3d1721f2b1f",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "source": "The Verge",
-      "published": "2026-11-13T12:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "90aefaa3c743a9cb52b325",
-      "title": "RedBird Capital Partners Launches Milan Sports & Entertainment (“MSE”); Appoints Brett Yormark as Chief Executive Officer",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdnpwa24wM1BSM2hGRE1ZVVJVU1lmaXZoOVZ4SnlJMlBzWWdJaUhRYTFzNjdMbXE3VmZyeHpvbUQtNndwS25FREp6SkNfS21pbWNkbVFSVldoNGVObjJ1dHJHOTVBbWtRTnNQXzVHOC1Pb3BtRDFNLVQwbXVKWF9HR1NXQ1RIckJ5Q0wzOExCN2IyM3E5R1VRMlp4VDhsY0laTmE2OFFkODVIeDJSV1VreTRId1k0cXdsa08yY3J6UW9XblRDTkVRbmJ2QTRGVkJXQ2U1Y1FZb05JYXZLWldTckw3aUJySmNNOUpmeHhMeGlCQzcyZzR3NmNiUDZzZURp?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-13T12:00:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9bfb49921a60f96d4f00f9",
-      "title": "Data Center Transformer Market worth $10.72 billion by 2031 | MarketsandMarkets™",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQjg0ZUY3clZYSm1iOG54TXFvYzE4cFNaWGdRTG9LQk5XR2FEME9qTURxVzFyR2pfMnc0QVZHNkxFd1dZSUFtTzZBX29Sd0JYaW1XbmYxWVVJVVJONWVIR0MtYXAwZTFjN0pYbmRBSURDLXB2SXZNTGJpeXlpY1NxdHdRRHFzY1VHQzNRck5LSzhERm1jcElRS0NYempsYjdQX2ZIVC0xUFdyajJCY0gyeHZQYWJyTjlESVlUSXhqV1MteWZLTzZvU21yUGlLbDls?oc=5",
-      "source": "PR Newswire UK",
-      "published": "2026-11-13T11:59:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ff091e167494d6e8201028",
-      "title": "Economic Development: VEPC delivering results, global captive insurance, Windham manufacturing",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlI5MjBEVURmak9NQzBhaUd5RGdUbXNDYmJCUmNNWkNIaEZIN1Q4bVI3Um5HSmR0OXF5MHB0OVdrdzF3LXNkT2hjS0p1UnExcW1xQWRBWFNEbFNtUG9tcUxFUEJUb2FVTHhyUFRrbEZFdTZhTUQzSkgtTjJ4Q1dvbjFtQWhkOGxNVFh0aDFDQk15V1FvME9GdElEaWxNQVRKblUyOXVuRmRsZDZqNm5DRUZVa1pFUEF0WWlzdk1USQ?oc=5",
-      "source": "Vermont Business Magazine",
-      "published": "2026-11-13T11:58:33Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3f34c3b3208ca812cc1c6b",
-      "title": "Kolibri Global Energy Inc. (KGEI) Matches Q3 Earnings Estimates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFUwWTdVN3RoeHFScDE0UjIzcTJTM0NfeUk4SmpxM1NzU05pYlpMRVB3eUJiTEpQbjI3Tk90T21lNHA3QjFOV2Y5dGpsVEw5b1g3QkEzenJzTTZ0U1VNUEV0UmFsa3dGbDB5WHFzMDhRRVVrNkNVZ3lYdGxBYjdGV043YllmTFFGMWNrVmNhX1dMQmNqZlNrNl9zVQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-13T11:55:02Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [

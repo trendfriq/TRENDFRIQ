@@ -1,5 +1,77 @@
 [
   {
+    "id": "85d2c8f22be4b080a197fe",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
+    "source": "BBC",
+    "published": "2026-11-13T23:00:31Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "59d35bd98e0729bd173c9d",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-13T23:00:31Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
+  },
+  {
+    "id": "41bbca50b49f80388d7fa2",
+    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+    "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+    "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+    "source": "TechCrunch",
+    "published": "2026-11-13T23:00:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925"
+  },
+  {
+    "id": "a53b6d6797d1d8cee9d094",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "source": "TechCrunch",
+    "published": "2026-11-13T22:43:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+  },
+  {
+    "id": "7b12dec262d9c3374f628a",
+    "title": "Broadcom falls 4.76% in Friday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wZ1dYR0JhOGV0UzVrTjRLTTJmOXZ2OHNZaWt1bHcyTG5aSnZIMnFxeWUyYjc1YnNBQURUb1VjV3BsSm4wc0c3Y3ZkcEFpMUk3NDBpWXVHTncxa01Zd1lrWEZobUJOZ215MFpHS29RdXVPOHJLSElGUTlZUQ?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-13T22:02:09Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3a2d1b962eb2c86e12da6d",
+    "title": "US Tech Stocks Decline As Nvidia Uncertainty Pressures AI Trade",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTE0zNTJPci1ycHVRSHlNYU8xZElXaFFRdFAyTXpfX01SZnFLZndjeWRKdWZ4RW5VZEVIUUx3TU5Sci1HNE5zVS10endYN09vMWM5U2RJN3lkV0tFNVV3TjMxT19EN3lPaEVTSEE5TFlvSjN3cFFQVTNlcGZUV1JmaVZkWjlJRWVFUmYta1BiXzRucnBxRWhJUHY0QVVxWFNpOEtONzRfbkdiaVVY?oc=5",
+    "source": "Forbes Middle East",
+    "published": "2026-11-13T21:52:14Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e97658f08944406778852a",
     "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
     "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers.\"",
@@ -120,6 +192,18 @@
     "image": ""
   },
   {
+    "id": "8573d9e8e576a4ad47319d",
+    "title": "SpaceX to attempt double catch of huge Starship rocket",
+    "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+    "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-13T20:12:02Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg"
+  },
+  {
     "id": "6352232812b3ea4a981969",
     "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
     "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
@@ -178,6 +262,18 @@
     "topic": "NPR",
     "country": "",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg"
+  },
+  {
+    "id": "f702a62ed7f33cf950af3f",
+    "title": "Why European Companies Are Forecast to Have Robust Earnings Growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQi1iSG1FSnlTVXl4cnVBX3BmYUllZXVGUXdJSUI0WGFNUUlHUi1oQzhwODQ1ZEJQdEtSNlZLcHRFZHM0T0VsU0NGR3hScVNSSnc3RnVXQXRwRFE5VUl3RTVTQV9Tc0FoVE5UNEN2Z05MVVJJdHBDVTJVeVpmLVhWNlFaTG5kUXF5NlB6bnVOY1RMQ2h2ekxONHRMMTdfSG90YTJoa3l4emRnel9HdzlIUDk3OA?oc=5",
+    "source": "Goldman Sachs",
+    "published": "2026-11-13T19:01:10Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "fcdbaa089155ba218b97fe",
@@ -744,6 +840,18 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774"
   },
   {
+    "id": "e25f81fbb6e91bf51aad2b",
+    "title": "Berkshire Hathaway (NYSE: BRK.A, BRK.B) Q3 2026 profit falls 28% to $22.1 bn",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpU0hIZEdZdFM2WXIwSTRHbHFyQzVNNjU0S2ZsaHNkcVJhX2VpYUNCMUdUcV9tVjk1bUw5N1RQZzdPQ2dfakVqYU9yakJRMk9jVHc2UUVJRWJ0NXRkdHBlZGpRcWx5YW9lVThyMVJR?oc=5",
+    "source": "Beinsure",
+    "published": "2026-11-13T14:34:30Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "43f859a8adc558331ed84f",
     "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
     "summary": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt and his critics can agree on, it's being mad at Meta. [&#8230;]",
@@ -1136,6 +1244,18 @@
     "published": "2026-11-13T12:34:16Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "102b83ff149036bfbb5b30",
+    "title": "Should Your Startup Join a Tech Incubator?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnN1azR1VVdSYTlmNlRaVDdnbFFEYUxtVk1SYkt2VDBvQnpZWGhFSjNWZVMwajB4ZHhYNm0tMi1YRlV2dFhSUGRwb1dLdHJ5dklqNGxxNmdxVUdESXBvVG1GbDJ6UjJsV3dBMlpCSHVHNXpQMC1wdVZFLUFUVXp4czZ4M19ZMWlpT3JfQnVqWWlGd2VsTXVJYUVwZnRqZFp4bGc?oc=5",
+    "source": "Oracle NetSuite",
+    "published": "2026-11-13T12:32:50Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
