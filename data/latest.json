@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-13T01:05:45.081342Z",
+  "last_updated": "2026-11-13T02:08:30.628669Z",
   "articles": [
+    {
+      "id": "e4851a92f7ef1194698b82",
+      "title": "Stocks Rebound After Nvidia CEO Resignation; Dollar Surges",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkZ0eVRnWERqbXdSalpXeW0tSXR4UWRsQkVDandtVU9yc0hXZjBXTG9TUUZsZ3U1LTZyWjNtV2xVTS03VXIxUE02d1RaNHVZcFFVNTFwTjhtbGJZMi1DV3pMbVM4dlk0OTdjSGNNR1lCVjBpRnNJdk41endjckM3Tm5sUTE5ZnhJUG9xQ3Y2UjZJWExMQVVKemVPdw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T02:06:20Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c4e104b78dbe843c33ecc8",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T02:01:35Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg"
+    },
+    {
+      "id": "7d226533f769fbf1fe914f",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T01:53:55Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg"
+    },
+    {
+      "id": "84d5f86b343aeaa1300653",
+      "title": "APEC Primer in Four Words | Community: What APEC is and how it works",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHWEtZOEdfWHpEcmZZTjZWdS0yZUs5NlRPclFDMWN3djBLV29BamRDYUxxNHRLZ2tqQXhsRTJaQjhzdDFmOXhCbk9Ca0ZWQ1BndERMNEVUaU03WGVscVBpaTV5aw?oc=5",
+      "source": "People's Daily Online",
+      "published": "2026-11-13T01:40:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e56c4b761af68d91846601",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T01:03:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg"
+    },
     {
       "id": "a33c16c8e7593e792b508a",
       "title": "Donald Trump really wants Tim Cook to run Nvidia",
@@ -506,18 +566,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
     },
     {
-      "id": "7d226533f769fbf1fe914f",
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-12T20:25:29Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg"
-    },
-    {
       "id": "5cf6869232a42bdc08418a",
       "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
       "summary": "",
@@ -787,7 +835,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGEzZEY3WEEzMlVRWmpDakVWc1YyQ1pvZEhzbzY1UE1uY1NCLVp1SFdiUjJFa3REZkRBekhTNmMtVGNkOWVHQjFUeGg2cnZGVjE4MHdQaDNLVkNBQldxZWktaFFrRURrMXRReTcwM19QWXAyM0xpY2pJZm9rZWg4RUxNQlFMdE44T0M2NTJ0MnRnME5QdG11MmdlWXlkU2JIWllKT0plM3RiMXZY?oc=5",
       "source": "Al-Monitor",
-      "published": "2026-11-12T17:58:32Z",
+      "published": "2026-11-12T18:02:23Z",
       "category": "World",
       "topic": "Middle East",
       "country": "",
@@ -1390,54 +1438,6 @@
       "published": "2026-11-12T14:54:00Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "03e1665b9acafdd73b2c3a",
-      "title": "Asia's labor market faces job cuts as AI, economic pressures reshape work",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZU9rTzN6ZGJIVVB6dm5fY3VFVnlndWcyQUdnbE9XQWZlZUpPbTRDWmI1M3kxdURMVzNqclNwRDVlUkR1dTdQd081S2g2SkpmYWR5OGtxS2UySGFMWTl1ejFGNVdOWi0xTWNXRXVEaDI1M2lKUVcySnY4T0tKMlBXb01PX0J6bkJpNUxCZ0gtbGNlcktOeWpjLTJYR2NnMUZna3lhcTVac004VzV5aFdZNEl3?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "2026-11-12T14:48:03Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b3d2a0f7b53040e3d0aaa2",
-      "title": "Italy's Tax Hikes on Financial Sector Spark Uncertainty, Warns Bank",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2JDREozSV9uNFpKcERYWmx0bFpnSWVzWVluOWRkZmUwNHE1ZnpZNnN0UmRvX3h0TV94cUxLWjNRS0V5eU5hQVd1cUFtMk5mcGtaelhQbDZJbWI5N3J2T2VwTm1NRTVKNEQ1U3VlbU9mMWFmSEtlbF9zZGxkOExzZk8zeV9vc0JMM1VWZmhPa0VTanJIOU5wZkl0bmRnRW5JRjVJ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-12T14:46:11Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0c77e51cbe65685dadcbb0",
-      "title": "Jensen Huang is in a world of trouble, and that could mean trouble for the world",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUElGN2huVU5fWEJUbGh6WWx0RXNrREpUREtpemhLZ3NSWHBmaGpoOEdsa2VkdXNDWjZCUmE2eHNpZHB4N2dMLS1JQjNDMmstbzZneTdxSExoMFVVUFFtV2l4SjVBTjlaQUdmb0d2U0JydFNxTlQw?oc=5",
-      "source": "The Boston Globe",
-      "published": "2026-11-12T14:42:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0667206cea2b4fd869877c",
-      "title": "How Europe Should Read the US Midterms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Wc21tWTJUMnk4VDFQeVZScndnc3ZabjhKTlZpdzFmYXJOb291RU04S1ZiNU5POENJQUxzRGNFUDdmNHhROGdKdFZCMV9PODBMMW5pa1VGYkJINlRIN0psdmtjMkdGZDhqREdfME9PRlJrZw?oc=5",
-      "source": "Center for European Policy Analysis (CEPA)",
-      "published": "2026-11-12T14:40:06Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
