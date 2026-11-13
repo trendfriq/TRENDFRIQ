@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-13T21:23:57.464897Z",
+  "last_updated": "2026-11-13T22:20:10.242167Z",
   "articles": [
+    {
+      "id": "e97658f08944406778852a",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers.\"",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T21:44:38Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "15ee692dbf097aa23a89d0",
+      "title": "FAA ground stop shuts down flights nationwide",
+      "summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a [&#8230;]",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "published": "2026-11-13T21:38:25Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5cd08b18e21f201ffbe41e",
+      "title": "Kia's EV3 Set to Become Group's Second 100,000-Unit Electric Model",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHE2a1N6TktLZlE0dXUwYV85eHA0d3NQLXV3dVhWVDlhSWJXenVyVGY4TkZlQzFxU01XbXlZRWNXanZQWUF0bWRER2JTdlF3c1VacGVVOFpNZk5GcWdNeUNfN21lQ0RfWkZVVUFBbDdRaWxUNGFINzlMSWVHQ09PQ1Y1OXoyRmVRVERHUUxISnlPdHNMZTRhZVZDcEVCMS1qNHc?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-13T21:31:05Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "704c6c901f9011d9737db0",
+      "title": "NetSol Technologies drops 23.22% on Thursday in US trading",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGlrMHVSOHZyV3A5X2ZFMHRlVnFpT2dIcTY5YWViTXU5NXNjQ05vMUtTellWaHNldm01R3drb1haWTZ5czNkTWxDbm1LU0hJY251ZU1taW93U1RuMlNxU2RfVVVaY2pvcDZpRXBBcjdjQkdseXlqTTc1bUFmUWR4Y2V6MUNZUGt3V1YzcDAybmw4Z0lFdnp5YXpoV3lqWW9xWHNSOHN6R1FmRUxuQmZEMDN3?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T21:22:08Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "734c0cca77bd793c095231",
       "title": "United Maritime shares rise 22.76% on Thursday in US trading",
@@ -36,6 +84,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
+    },
+    {
+      "id": "ccad5b837bef80468a1d03",
+      "title": "Microsoft outage shakes up companies, schools and local governments across US",
+      "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage systems. Even as Outlook started to resume no",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+      "source": "The Guardian",
+      "published": "2026-11-13T21:13:59Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd7cd88264fb0fbd02503fef70713a34"
     },
     {
       "id": "f11fb96f94d7b8ecb0fa8a",
@@ -184,7 +244,7 @@
     {
       "id": "bc814ae71b02d54fd19658",
       "title": "What's Trump's strategy now with Iran? To keep things as they are",
-      "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+      "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
       "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
       "source": "NPR",
       "published": "2026-11-13T19:02:04Z",
@@ -207,7 +267,7 @@
     },
     {
       "id": "6669a4d19d8d97224289ad",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch",
@@ -266,6 +326,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "6a5de11aae8d98796366c5",
+      "title": "EU institutions agree new rules for free carbon allowances to energy intensive industries",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTZyTFl1YjVmQXcxOWNibHRmNUxpWlM3X01ZZjVqUWdMRDQ0MnhsekRacU5RV0NhLUYxZ0VnanpyczVNOTJ2c3BPYy14U1dLVndvb3Q0ZWpfUWc4aGJEZ3VSVFZqT3VwMjgxZW53NF9OUzNJVnFGMXJqNi1SQXJWX01PQ3F0RlVSeTc4RmNOaDl0TGZ4SklVV0ZqWE0xSEYxQWVJYnU5OXRuc0JS?oc=5",
+      "source": "EUbusiness.com",
+      "published": "2026-11-13T18:02:41Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a0496c5bf3e13becfa77bc",
       "title": "Jensen Huang was reckless with the environment, too",
       "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230",
@@ -276,6 +348,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "c586502feedef273826f53",
+      "title": "Midday Stock Roundup: SBC Medical Jumps 28%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFZkVnIxTk9DOE8yUUV1ZHQyaDdWQ1lwZ2ZvOHVsclBIUGdyX0xTVWo4SnM4NWp4bW9EUWtfV3VXSDlQWWFJSGhNNzd1WGs1ZjRtcVBKSFpTLVFVcjgyajlrZlZFRXoyTFR5ZExLVkNlbVpvUGNBRF9kTjhhWVA3Qg?oc=5",
+      "source": "Orange County Business Journal",
+      "published": "2026-11-13T17:35:20Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "829c82d81c0a08b0b5cd22",
@@ -338,18 +422,6 @@
       "image": ""
     },
     {
-      "id": "ccad5b837bef80468a1d03",
-      "title": "Microsoft outage shakes up companies, schools and local governments across US",
-      "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage systems. Even as Outlook started to resume no",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-      "source": "The Guardian",
-      "published": "2026-11-13T17:17:00Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd7cd88264fb0fbd02503fef70713a34"
-    },
-    {
       "id": "17f616ec71adfcbc5f9467",
       "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
       "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
@@ -392,6 +464,18 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeU5ocTFObzJVMXZtNVBOaU8tbTNjbW16VFVQRDVRckVLbzloQ3pUQlJEQTFmbkt3bDZKcmlESE10Snl6YmVKajdBOVRPa1p2WmZUdlZCaFdEVmlyeS00NWVkWmVNVzQ0TTFWZ2hldVRRQ2REcWdkQ3h1eEZDQ0tfdWFYWV92ck05b0JlRGJfbUZXdDFyQnBhYlBiVzdGdHpzblVFSDZVMlFfRzZTTEt0TVN1WjVQaEJURlVyd0ZTQ2NUVWUzMEY3NlZyN2l5cGx4WGc?oc=5",
       "source": "Investing.com Canada",
       "published": "2026-11-13T16:47:53Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5a413266004b21ec69230c",
+      "title": "Earnings call transcript: PyroGenesis Q3 2026 revenue rises 34% over 9 months",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLTJCNVFJU2JmcGRwOFFKa1hJWFVnbzVuZWhmR1RPTnlXQkNWYkNBSjg2NWxkaGRwMFA3R2pISWJRTEliWUg0cjZraXNuXzJGSDlIbWdwOVdoRU9uUlFCS0hZbDBkRngybEMwVldPZ2FoeVZDek10c01IWGxGMUxyM1dQTFI3VGlaWWlGdkQxOW9paEdLcThjbUJmVi1qQVltdzB3QjZoT3o3d3U3UkNHeVB2NVEyakxULUQ4OE42TGE2SEVQSm9qMkZNYjM0bmpsNmc?oc=5",
+      "source": "Investing.com UK",
+      "published": "2026-11-13T16:42:00Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -1356,90 +1440,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "769022b6a2ec9a3b97b553",
-      "title": "European Equity Fund Inflows Hit 7-Week High, Lift Global Markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDRZZFJmM21vR2YzczRLUkttY1ZzaU9oNkdGTkRwZnBHR3FOaVlGZVVRZzZhR3k5UFB3V2xZa3ByeHY5aHBiaTRaOC1OQ2VNS0wwWHBWSHZQWk5ibzJWcW9yV3gwbmhkb1NVY1FHY1F2N3pIZ2tYUHZVUlNkNFp0bW1aQnZhd20ycHVHblRkNENqWWY5enZfekd5M2Q?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T11:51:20Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d3f1f384be46f7ccdeff78",
-      "title": "EU steps up support for Ukraine’s recovery, reconstruction and modernisation, opening new opportunities for businesses",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRlVzV1l3dVBoU3N0MWxHZnBWWkNUMXpDUDdFZGs0M2JCRVFTV0lMZnNzcTJuc0ZJaVVjdm9CSGdpWkNuTnMwRXVOU3BtWFFVTWFtRlJvZ29EcU00NWU3bmRSZ0xjY3lmSWxQcHg0NDRQYXh4VjROZXI0dnJCT2laNjc1R3EweEhQanNaakctT3Q5SGx0aXhsdnlCclRKbTM0dm5CLWRGTlNyT09pajhQX0RJVVFMRjVvNDBtNFVndHFSVVJHbFN5RkJXMktUNFpLUUZHa2NOdnZHS2xXUjdIb3hOLXhtWXVPQlRfUjFtZFpVUEU?oc=5",
-      "source": "EU NEIGHBOURS east",
-      "published": "2026-11-13T11:49:07Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "77bb058c9e48d39179cbdf",
-      "title": "YouTube | History, Founders, Purchase, Google, Music, Videos, & Facts",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCc19RZFAxb2dXTGl6cEVpdHhNVWtLZVY1Z2x5NmMtWVVHV2VaMjMxVlh3c0trVF9rdnJoTWpwTVEtUGx1bkdVZFByWVhMVG9CMGc?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-13T11:48:14Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "18b0a35d0e0cfcd873f23b",
-      "title": "Jensen Huang is out. An AI expert explains what his exit means for the AI boom",
-      "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-investigation-lutnick-ai-boom",
-      "source": "NPR",
-      "published": "2026-11-13T11:47:00Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg"
-    },
-    {
-      "id": "fd789b1f183df999cc3ecf",
-      "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
-      "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
-      "source": "NPR",
-      "published": "2026-11-13T11:47:00Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg"
-    },
-    {
-      "id": "c019f8e91a3170219f03d9",
-      "title": "Chinese AI Projects at Risk from Nvidia Exit and US Export Controls",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXpiN1BZRjJOMmpqd0tTVmNtTUQwbjZOZHlUOXgxMkxIWW5BRUpoUTlFX19hdllycG9TWWJlTHJJRlJrTG0zZy1PZkc2NC1HT09Ra09YcktwREJDU2J2d1R2RmhTdmgtdXpxaHktR0R2VXRTVUFTSk9XTmRYN25mdzlRTjdHc045LUVjNW9HT3k0RTd3aERxOUltRFBlcFVMNmlr?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T11:46:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "82c7a02c82378a75c984ec",
-      "title": "What we know so far about the Microsoft outage",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T11:43:27Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "countries": [
