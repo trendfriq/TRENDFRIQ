@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-13T06:22:37.285690Z",
+  "last_updated": "2026-11-13T07:51:33.193591Z",
   "articles": [
+    {
+      "id": "6fe1b4d35d98b99bf11f4d",
+      "title": "Cyprus wants fintech’s jobs and investment, not just its company registrations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWJVUWExaVM0U0RCVi00LU9CYTFTaEhKSmhpWkV6bkpSSi1lbkVHWUFYcmtvZ1RjMXRMQzE4RmlWTExuRDdwblBvWUlhYWRoRVphMnVHTm5BaHI3WTlRZGw3Zk9LNXIxZm1vcWVRbHN1S0JsVFFTMU5YbzdWendqVjJOcllHUUZGVTNIQ3ZVTFEyVVh1UmtJVWRFMUY5WThILWVvVTFjNzJ3ZFYtS19aMQ?oc=5",
+      "source": "Cyprus Mail",
+      "published": "2026-11-13T07:40:34Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f83f812563eb29b623dc7a",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T07:37:38Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f4/live/622835f0-df31-11f1-911b-97a04d97270a.jpg"
+    },
+    {
+      "id": "cfd115ed130a52e148776a",
+      "title": "What happened overnight with the Microsoft global outage",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T07:18:17Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "03a618dcc46f32ed95914c",
+      "title": "Five things to know about APEC as Trump, Putin and Xi set to attend summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWNGeEktb0I2c3pqS2hrTUhLSFk2N3JSX0NDOHVfVnpMMWk2MEVRaUMyTDdYOUUxR1B4eXhQemFJSGJoTkZVczhra3V1cXo5SXI2eEtOVWVVMUdXVUl3Sk8tUGZ1UHlRMW9qSUlqNGludWpiT0JqZ0pfZ3lHY0IwVVpBTnZoY3FVOG50QlZoOWcwcURmemF3dzNwelFseDNfX3gtVXpubXJRdXVYdjd0SkM2WUJUVkFlbTJYUURxNG1lXzVFdHFaMHB4eUJfdHJ2YTFRTtIB2gFBVV95cUxOcFl2aXM2QTJwQ0NhOGRsSU9UTGctZXNhUFNTcll0bEN3bkl5NFlGVzhleHFBTUVmOVd4ZVNRbEQtTjlvM1BDVEhJYWVFdm8xaXdtVkNiN1RkaWZqeUN0R0o5eFc0R3ZQUjZnazNGaXpEVkJDZFlUNFB3Ql83Z1FFYVdoRjZKbWM0clUxRDdBR2VMeE93UGJ3NGNKbVFKVTIwZkhub0VDVUJOUEZ4ek5kVjQtYlNpcmNCaHdEazdEbU5xaXBrNUpCR0J4Mzl3cHNZOXQ3MEs0T2w0dw?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-13T07:05:16Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "50ed42af2146ca4cb51603",
+      "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+      "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Nvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testif",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "source": "The Guardian",
+      "published": "2026-11-13T06:34:59Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=868615e7839f09a0a3be912f3255f50c"
+    },
+    {
+      "id": "aeec207238a12f11e5756b",
+      "title": "Google launches Gemini 4 Hydrogen AI model: Know features, price, and more",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3drUVBzVEE1aXFGeDB3dDZXU3U2NV9NMUNzTjk3TjlwVDJxdVZQNHdlcHdRdmJwMEc4cGp3OEVicVdhR0Nfdl9MZXpYNnlWb1k1YURRT3RBSkZsdlZKcUtWdXpBa2xxWEh5TldOUTBCaDhVS2N1Zk1TVmtvUVJqZklJdDJZRHhmcEcyQmM2T0RMQW1mZmtFZl9VR3huQ2g0US1kaHhhRU9KdU1SMklhMU95eDZRazFVQjlidHBzZVN4R2dnY1RIQ202Ri16ZmtPNkItOGtBeGl6OEdieS1B0gHkAUFVX3lxTE8wQ0twQ3hiaWp0LTlEanJnZlJjMUR6V0txWEttMWxuLU1NVG54ZHNYZldJVDZfRW5ObFNxSkY4TWpUa2FKWGZMSnd2aWJJS283Nk9LOUhCYS1LeFlFMkZsODFXQUNlZGxCcE1MWUNua0lrUnBIRDhmeGFBM3NTTC1uQ0xnX25kUXp4YXpkQTNMbXhXVTkwa19haTRtZlpoM3NPdXFxWVZHYTZDZHdObmJ6XzF3UmhxUXVOSUkyQkVDWF9ESmdsN2xBOWlBWFdJNDZVcTg4anpEMVZHRUh4azRNdS01bA?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-13T06:19:17Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "4fcce477cef7bfe0da9004",
       "title": "Iraq’s investment shake-up, Abu Dhabi’s new generation of collectors and GCC railway plans – This Week in Business",
@@ -10,6 +82,30 @@
       "published": "2026-11-13T06:05:49Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c3003e7b79d51ca7f7a633",
+      "title": "Indonesian Rupiah gains on easing political uncertainty despite MSCI outflow risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFF6MnFWS01rWFpSTWRWVlpxOENLaEpZMnROcV85RURkNExFM18wck9ia2hFRDh4T2hNQ2Nvd3lHNU5KLXZzUjJDM3dBNlpzTnVfSlJxeHR1aUN5NVVLSlRuSUdZN3RHNllVaXJFNGZBQnJOMUdaUGg5Q0ZYbEV2cjFIdlRqOXlFQVVhdjdPTzhxMHNvMFo5bTgtMUF3SExGRHFseDZNZ1VUUjk1MW9kQ3BQMzBfRlo5eURmdXdUXzl4YTg?oc=5",
+      "source": "FXStreet",
+      "published": "2026-11-13T05:24:36Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c35a49e46de3ce64cbb690",
+      "title": "Europe can ease pain of young dropouts and jobless",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVE1U1JNUjU4NFhSQ2VNTVJ3OWVyYjhpcllRN2gxUUhpa3dWSDZrZkpORHZCSWxfSkU4TkFtYWY2T3kzVHBFZmNEcHdXTG9xZ2ZzQzZROXdVTkFNRVB4Z2tzN1RoT3RMX29SQi1DX085NnFOQXRoalVzQzQydXo1WGk0U0FNSjlSSDJPMlhnYTNwVEhzdjZjTzhLZkV6Q0RzUGkxVg?oc=5",
+      "source": "Breakingviews",
+      "published": "2026-11-13T05:05:32Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -27,7 +123,7 @@
     },
     {
       "id": "55c3eb8615077b2fe68497",
-      "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+      "title": "World is now in ‘age of electricity’, energy agency chief says",
       "summary": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has said. Fatih Birol, the executive director of the International Energy Agency (IEA), said more than ",
       "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
       "source": "The Guardian",
@@ -58,6 +154,18 @@
       "published": "2026-11-13T04:30:00Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "70318d1b853c269cfcf361",
+      "title": "Mastercard opens its largest Innovation Centre of Excellence in Asia Pacific to drive the intelligence economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNE1QRTZYN2VBNXJhOFF5cEtWM3paTFBwVUNfcEU2cWJoWFpRV0hSYjcyZWNBajJxLXI2S2FIeVdWVDI4QWJCTWJLZlZRaDAyQ3JYSzhfOUVidGxTczFYcHVvc1UyU1BRTDI5SzJkQ2FtUl9yZHZGMnpIcmpzbVRGR0MyV3NoODM0TFlyRjlDTG92RmRYVE1jLXotZjFIdEJ4YzJpNUVOYWFQOTVraTRzdXNUOFhiY3B2SGFGbnhyUnBqTnJFZjkxQmR1V1ZRTjY3Q00zMWlMcTF3ZVpvMXV2dmFEejJMa1NCdUE?oc=5",
+      "source": "The Malaysian Reserve",
+      "published": "2026-11-13T04:16:11Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -239,7 +347,19 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "475572e490a21b8d0f57e9",
+      "title": "Major outage hits Microsoft Outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDRwaFVTbzgxVWpDX0dHdFR3djZfaXJtSDJZc3lnZDItLW5rMUM5X2tMMExSbjFmX3dTZlJTNlZ3WXVXMHNGNHo2Nmx5ODBtSkg0bjVWdFdUcXk3ZFpKd1dMWHViODNjcXFuU0lQSlJWTmxYVU5xbEF4Tl8xZGN1MDVRcEFaRTB5OHdKU0l5UExieGhUXzB1eGp4dG5XbXROU1NtUU1YMA?oc=5",
+      "source": "Le Monde.fr",
+      "published": "2026-11-13T01:52:43Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "84d5f86b343aeaa1300653",
@@ -252,6 +372,18 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "dab6e9b3c71af175b308e3",
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-13T01:17:58Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg"
     },
     {
       "id": "f02a0d836db9375b562255",
@@ -818,6 +950,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "a166f0dbd380936a4c2c74",
+      "title": "Nine-month profit topped $2 million at Table Trac, up from $985,374 a year earlier.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXdNSFRVci0ycEFDS0lFOTRqUW9sLWxhY3dmSGZ2dER1YUJwYlh1bHhCSjhUY21GWEs5cmx0S2J2NHl3enh2QkVreDVTR2xWaWVfMEVvMEJJU01mUG9BcnVNNW5QVnNFOXRYdkJndWdQS2NLWWVBZTVJa3FhUkFfM3B6RE02TlJjWFQ0b1drQmFQQmRUMjljaDV4NnYyMGxXdkRnSzdtTW0tMGFxY1VFTndVVzdHdGpEaFhKaHdn?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-12T19:51:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "25b5c0a7a557464be10fbe",
       "title": "Sheinbaum to address APEC business leaders in China: Thursday’s mañanera recapped",
       "summary": "",
@@ -1094,18 +1238,6 @@
       "image": "https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82bf6d6905126f00d7c1f40df2955853"
     },
     {
-      "id": "3d539cb0a16a9afcf3f9fb",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "source": "NBC News",
-      "published": "2026-11-12T17:46:43Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "ce1eab2bbb5c79a9e4f640",
       "title": "The Jensen Huang scandal is hardly over",
       "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-12T16:50:35Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "376d5a6f39d9f86fdb75e7",
-      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-12T16:43:36Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3345/live/4030f5a0-deea-11f1-9dd5-b5dd10100b88.jpg"
-    },
-    {
-      "id": "09aee6ee39b8ebc1705028",
-      "title": "Yocale.ai targets beauty and wellness market with AI-powered business management platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUF9VeU91NnlSZXY4TEZES2hRTkNPNDBHV2Q4TFhXMThqSVJJT0xwMlFiRlJYUE5lNHpWZ1pqS1JVVTRQTkpia0J5LXFaaTNybVNtWGtPdG1USDEwNTVvVVZieE43S3pQSDM1MWhobTlpMi1kSnd4VElLQlZ5eXYwYXNCamdRNnc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-12T16:39:16Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "548fe94a79cba56aecf856",
-      "title": "Jensen Huang agrees to testify before Congress",
-      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T16:36:37Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
-    },
-    {
-      "id": "c32c9bb4ff06b22c453461",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T16:32:33Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
-    },
-    {
-      "id": "5b6dc3a4f78b1834d5ec8a",
-      "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-      "summary": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached The UK car industry is preparing to push for a two-year delay to Brexit tariffs on electric cars traded with the EU, after an initial European proposal suggested a shorter delay. Tariffs are due to kick in on 1 January for the majority of electric c",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
-      "source": "The Guardian",
-      "published": "2026-11-12T16:30:27Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/8ab0cdf0d430e3257ca969f133bc738343df5ddc/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a56deb49e7d2b7c314d79aea7e44e06f"
-    },
-    {
-      "id": "d533790e4d2bd7ed50cfc6",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf [&#8230;]",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "source": "The Verge",
-      "published": "2026-11-12T16:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "68a6c4275035d5f4fbaa47",
-      "title": "How far will the ECB go to rescue France? | Macro Matters",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-12T16:18:20Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7b66a331e423f047b53ea1",
-      "title": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang",
-      "summary": "Technical expertise and an ability to engage gave the chipmaker’s co-founder, who has now resigned, the edge with customers and investors Jensen Huang resigns as Nvidia CEO after alleged affairs Jensen Huang wasn’t always in his trademark leather jacket. When the multibillionaire, now former Nvidia chief executive was a teenager in the US, his first job was ",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
-      "source": "The Guardian",
-      "published": "2026-11-12T16:17:31Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/4f9683fbbfdd45578aed86831c5b687b7941173e/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4d2734c3df20a26d86cd1726afdb871"
-    },
-    {
-      "id": "1648ac80d66cb0fda5171f",
-      "title": "PH to sign first free trade pact with LatAm country at APEC",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1VyUG5xdERYM1VrOFZPcG04MnJsWG9BRWdUNThEQ2NoMHJwYWdwWVQwUjg3SlNTQmpBNjdCUWNkMDdvVjA5dndGTEhhZFEyRlVudFNSS2ZsaFA1VkFfUkRPd2RuYmlaN1g4V3Z5VjRHc1JZVy1zbGI2T0RYVU9PYjhhQVhMTFhrc0RaQzVYcHA3LWZvdU9yVWpzVTFMRG04MkM5UVVnNTJ5b0oyTFRPT2dxQ3pYUTdOSkZxMTVMVS1rRTdRbjN30gHMAUFVX3lxTE15NUl4aTl5dk54MEQyRWZjLW5UNno3QW1NbUJxWWlreTZQZkxPSWVMZUtxdk9Xc0JOb2Z4NmhKMlFna01RNXl6T0tmcTdoV2tMdlhWNzdkWDMyOURjWXZDaUp5eEZnNDFSbmM0NS1KeUVhS0ZUN0pqeUwtLWdYQ0VIdzZGLWZ6YmFFZTRwemtjSmVHd3RVLTRqNzRaNHBHSWdXNUxlLVotUWh4Z0hKcVFxM1J0Mk1mZFkzclM1b3pNc18tckFJeHJsTFVkRQ?oc=5",
-      "source": "The Manila Times",
-      "published": "2026-11-12T16:13:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "17107c7279fd1016c5b3b0",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T16:12:44Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024"
-    },
-    {
-      "id": "e6e1a7ba5d4c824b299d9c",
-      "title": "Basotho call for stronger economic ties between Lesotho and SA",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEQxNFZxTWdISW5JY0lrRnY5bUp5NmlEbXpfVlNwdUgzS29kcmZySlNJS25qRmNNQXpEZEZKRkhyYUIxYmU2LWNiNWN3SnZaYl9XOEEwc0VtV3drTE5JX0pweWlveHBYeURHSXZHbzcwNkZSMnB0enZtS1NLZWNJYlh1OE9rRF9neU5wSndLNnk5OGhaQVRubmFuUGdYdw?oc=5",
-      "source": "SABC News",
-      "published": "2026-11-12T16:09:36Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }

@@ -1,5 +1,77 @@
 [
   {
+    "id": "6fe1b4d35d98b99bf11f4d",
+    "title": "Cyprus wants fintech’s jobs and investment, not just its company registrations",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWJVUWExaVM0U0RCVi00LU9CYTFTaEhKSmhpWkV6bkpSSi1lbkVHWUFYcmtvZ1RjMXRMQzE4RmlWTExuRDdwblBvWUlhYWRoRVphMnVHTm5BaHI3WTlRZGw3Zk9LNXIxZm1vcWVRbHN1S0JsVFFTMU5YbzdWendqVjJOcllHUUZGVTNIQ3ZVTFEyVVh1UmtJVWRFMUY5WThILWVvVTFjNzJ3ZFYtS19aMQ?oc=5",
+    "source": "Cyprus Mail",
+    "published": "2026-11-13T07:40:34Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f83f812563eb29b623dc7a",
+    "title": "What we know about the global Microsoft outage",
+    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-13T07:37:38Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f4/live/622835f0-df31-11f1-911b-97a04d97270a.jpg"
+  },
+  {
+    "id": "cfd115ed130a52e148776a",
+    "title": "What happened overnight with the Microsoft global outage",
+    "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-13T07:18:17Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+    "id": "03a618dcc46f32ed95914c",
+    "title": "Five things to know about APEC as Trump, Putin and Xi set to attend summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWNGeEktb0I2c3pqS2hrTUhLSFk2N3JSX0NDOHVfVnpMMWk2MEVRaUMyTDdYOUUxR1B4eXhQemFJSGJoTkZVczhra3V1cXo5SXI2eEtOVWVVMUdXVUl3Sk8tUGZ1UHlRMW9qSUlqNGludWpiT0JqZ0pfZ3lHY0IwVVpBTnZoY3FVOG50QlZoOWcwcURmemF3dzNwelFseDNfX3gtVXpubXJRdXVYdjd0SkM2WUJUVkFlbTJYUURxNG1lXzVFdHFaMHB4eUJfdHJ2YTFRTtIB2gFBVV95cUxOcFl2aXM2QTJwQ0NhOGRsSU9UTGctZXNhUFNTcll0bEN3bkl5NFlGVzhleHFBTUVmOVd4ZVNRbEQtTjlvM1BDVEhJYWVFdm8xaXdtVkNiN1RkaWZqeUN0R0o5eFc0R3ZQUjZnazNGaXpEVkJDZFlUNFB3Ql83Z1FFYVdoRjZKbWM0clUxRDdBR2VMeE93UGJ3NGNKbVFKVTIwZkhub0VDVUJOUEZ4ek5kVjQtYlNpcmNCaHdEazdEbU5xaXBrNUpCR0J4Mzl3cHNZOXQ3MEs0T2w0dw?oc=5",
+    "source": "Business Standard",
+    "published": "2026-11-13T07:05:16Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "50ed42af2146ca4cb51603",
+    "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+    "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Nvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testif",
+    "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+    "source": "The Guardian",
+    "published": "2026-11-13T06:34:59Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=868615e7839f09a0a3be912f3255f50c"
+  },
+  {
+    "id": "aeec207238a12f11e5756b",
+    "title": "Google launches Gemini 4 Hydrogen AI model: Know features, price, and more",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3drUVBzVEE1aXFGeDB3dDZXU3U2NV9NMUNzTjk3TjlwVDJxdVZQNHdlcHdRdmJwMEc4cGp3OEVicVdhR0Nfdl9MZXpYNnlWb1k1YURRT3RBSkZsdlZKcUtWdXpBa2xxWEh5TldOUTBCaDhVS2N1Zk1TVmtvUVJqZklJdDJZRHhmcEcyQmM2T0RMQW1mZmtFZl9VR3huQ2g0US1kaHhhRU9KdU1SMklhMU95eDZRazFVQjlidHBzZVN4R2dnY1RIQ202Ri16ZmtPNkItOGtBeGl6OEdieS1B0gHkAUFVX3lxTE8wQ0twQ3hiaWp0LTlEanJnZlJjMUR6V0txWEttMWxuLU1NVG54ZHNYZldJVDZfRW5ObFNxSkY4TWpUa2FKWGZMSnd2aWJJS283Nk9LOUhCYS1LeFlFMkZsODFXQUNlZGxCcE1MWUNua0lrUnBIRDhmeGFBM3NTTC1uQ0xnX25kUXp4YXpkQTNMbXhXVTkwa19haTRtZlpoM3NPdXFxWVZHYTZDZHdObmJ6XzF3UmhxUXVOSUkyQkVDWF9ESmdsN2xBOWlBWFdJNDZVcTg4anpEMVZHRUh4azRNdS01bA?oc=5",
+    "source": "Business Standard",
+    "published": "2026-11-13T06:19:17Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "4fcce477cef7bfe0da9004",
     "title": "Iraq’s investment shake-up, Abu Dhabi’s new generation of collectors and GCC railway plans – This Week in Business",
     "summary": "",
@@ -8,6 +80,30 @@
     "published": "2026-11-13T06:05:49Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c3003e7b79d51ca7f7a633",
+    "title": "Indonesian Rupiah gains on easing political uncertainty despite MSCI outflow risks",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFF6MnFWS01rWFpSTWRWVlpxOENLaEpZMnROcV85RURkNExFM18wck9ia2hFRDh4T2hNQ2Nvd3lHNU5KLXZzUjJDM3dBNlpzTnVfSlJxeHR1aUN5NVVLSlRuSUdZN3RHNllVaXJFNGZBQnJOMUdaUGg5Q0ZYbEV2cjFIdlRqOXlFQVVhdjdPTzhxMHNvMFo5bTgtMUF3SExGRHFseDZNZ1VUUjk1MW9kQ3BQMzBfRlo5eURmdXdUXzl4YTg?oc=5",
+    "source": "FXStreet",
+    "published": "2026-11-13T05:24:36Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c35a49e46de3ce64cbb690",
+    "title": "Europe can ease pain of young dropouts and jobless",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVE1U1JNUjU4NFhSQ2VNTVJ3OWVyYjhpcllRN2gxUUhpa3dWSDZrZkpORHZCSWxfSkU4TkFtYWY2T3kzVHBFZmNEcHdXTG9xZ2ZzQzZROXdVTkFNRVB4Z2tzN1RoT3RMX29SQi1DX085NnFOQXRoalVzQzQydXo1WGk0U0FNSjlSSDJPMlhnYTNwVEhzdjZjTzhLZkV6Q0RzUGkxVg?oc=5",
+    "source": "Breakingviews",
+    "published": "2026-11-13T05:05:32Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -56,6 +152,18 @@
     "published": "2026-11-13T04:30:00Z",
     "category": "Technology",
     "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "70318d1b853c269cfcf361",
+    "title": "Mastercard opens its largest Innovation Centre of Excellence in Asia Pacific to drive the intelligence economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNE1QRTZYN2VBNXJhOFF5cEtWM3paTFBwVUNfcEU2cWJoWFpRV0hSYjcyZWNBajJxLXI2S2FIeVdWVDI4QWJCTWJLZlZRaDAyQ3JYSzhfOUVidGxTczFYcHVvc1UyU1BRTDI5SzJkQ2FtUl9yZHZGMnpIcmpzbVRGR0MyV3NoODM0TFlyRjlDTG92RmRYVE1jLXotZjFIdEJ4YzJpNUVOYWFQOTVraTRzdXNUOFhiY3B2SGFGbnhyUnBqTnJFZjkxQmR1V1ZRTjY3Q00zMWlMcTF3ZVpvMXV2dmFEejJMa1NCdUE?oc=5",
+    "source": "The Malaysian Reserve",
+    "published": "2026-11-13T04:16:11Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -204,6 +312,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg"
   },
   {
+    "id": "475572e490a21b8d0f57e9",
+    "title": "Major outage hits Microsoft Outlook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDRwaFVTbzgxVWpDX0dHdFR3djZfaXJtSDJZc3lnZDItLW5rMUM5X2tMMExSbjFmX3dTZlJTNlZ3WXVXMHNGNHo2Nmx5ODBtSkg0bjVWdFdUcXk3ZFpKd1dMWHViODNjcXFuU0lQSlJWTmxYVU5xbEF4Tl8xZGN1MDVRcEFaRTB5OHdKU0l5UExieGhUXzB1eGp4dG5XbXROU1NtUU1YMA?oc=5",
+    "source": "Le Monde.fr",
+    "published": "2026-11-13T01:52:43Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "84d5f86b343aeaa1300653",
     "title": "APEC Primer in Four Words | Community: What APEC is and how it works",
     "summary": "",
@@ -214,6 +334,18 @@
     "topic": "Asia Pacific",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "dab6e9b3c71af175b308e3",
+    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+    "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-13T01:17:58Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg"
   },
   {
     "id": "e56c4b761af68d91846601",
@@ -682,6 +814,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a166f0dbd380936a4c2c74",
+    "title": "Nine-month profit topped $2 million at Table Trac, up from $985,374 a year earlier.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXdNSFRVci0ycEFDS0lFOTRqUW9sLWxhY3dmSGZ2dER1YUJwYlh1bHhCSjhUY21GWEs5cmx0S2J2NHl3enh2QkVreDVTR2xWaWVfMEVvMEJJU01mUG9BcnVNNW5QVnNFOXRYdkJndWdQS2NLWWVBZTVJa3FhUkFfM3B6RE02TlJjWFQ0b1drQmFQQmRUMjljaDV4NnYyMGxXdkRnSzdtTW0tMGFxY1VFTndVVzdHdGpEaFhKaHdn?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-12T19:51:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "aa569c0dcb55f56b1c53e2",
@@ -1172,6 +1316,18 @@
     "published": "2026-11-12T16:39:16Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8c8d10aff2f1a5b55f1bf4",
+    "title": "President to lead delegation to Silicon Valley",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHBLMm90NE45VzlSMUtwN2F1czFsU01zZGlVblhJcXNpMmhXLTBkN2RVcHlYcXMtTUFOcXMzRGttYUFVWHZNN2lraTZRQnJaSThJc0JvUFlyRnMtV2xJMWx3dTl0ZkhSU1hmTWU1aGR2X0JPWnRYcGZYN0VWSk9FZ1dXSGxBUQ?oc=5",
+    "source": "South African Government News Agency",
+    "published": "2026-11-12T16:38:24Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
