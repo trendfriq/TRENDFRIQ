@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-13T02:08:30.628669Z",
+  "last_updated": "2026-11-13T03:08:01.246246Z",
   "articles": [
+    {
+      "id": "db6871a6629f2675214194",
+      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's i",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnROUnJ3Q21HN3hkZ2ZmNGdXZjZJOGs0djNRV2YxYjZDX096dzBDQ2NZMzZIdXRXYnNGSTRwYVN2Z0JLZ0VEVXUydU05UzgwMGg2dkhEVEdVTG8xZnR3bWpjOF9kQ2g2VUcweE0wcDlGclM2R1BocU9jdHJPMmI4RGY4SEVZcmNqM3YxRmx2eHFQOGk4M05QUk9PWjZDTS1mMXhN?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T03:06:21Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e56c4b761af68d91846601",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T03:02:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg"
+    },
+    {
+      "id": "f1598af496eb812426282b",
+      "title": "Mastercard opens its largest Innovation Centre of Excellence in Asia Pacific to drive the intelligence economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVFfaHBxalRwR2dZUWtxWXBBU3did1VVc1NGN3NjcXplS2RhckR6V3h3QWdNcGZLTkNickwyQm5fWTdzMENYVWEydVBYanZMZ2g1Q3ZJZlB2Ri1rbjNnbFc4ZldlY1dZaVZzMXJMV3J6TVB0UDRVbWdXbUIydG1HWTFqdUR6SXIxVDJTMWZlRTBuNjB3RjhSeUh4UVBqU2hWRDlncXlOMHQwQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T02:56:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "607d4d7557c40807b113b5",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T02:39:00Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+    },
+    {
+      "id": "7d226533f769fbf1fe914f",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T02:38:02Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg"
+    },
     {
       "id": "e4851a92f7ef1194698b82",
       "title": "Stocks Rebound After Nvidia CEO Resignation; Dollar Surges",
@@ -26,18 +86,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg"
     },
     {
-      "id": "7d226533f769fbf1fe914f",
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T01:53:55Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg"
-    },
-    {
       "id": "84d5f86b343aeaa1300653",
       "title": "APEC Primer in Four Words | Community: What APEC is and how it works",
       "summary": "",
@@ -48,18 +96,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "e56c4b761af68d91846601",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T01:03:59Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg"
     },
     {
       "id": "a33c16c8e7593e792b508a",
@@ -84,6 +120,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "94ac492f5d38e5b2074b4e",
+      "title": "AI and the geography of expert work: Evidence from radiology",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHVxU0dGdjdFSy1iUkN6ZmNIdnVPNUNrMlBsZkdzRVZDalpiZWVoLVBfb2lJa1VPMlRMcEtxb0ZHUXJrdVRuMjY3Q19wQ3ZabjhfbmhhUXhEcUVRNGl3cWluTWk5NXliS0ozNTBaZHN2R3BhLS03bTVLQU5yVjk2eVltMld3dw?oc=5",
+      "source": "CEPR",
+      "published": "2026-11-13T00:17:02Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "b6b4befabf897fb91a9736",
@@ -122,6 +170,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "0c77e51cbe65685dadcbb0",
+      "title": "Jensen Huang is in a world of trouble, and that could mean trouble for the world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUElGN2huVU5fWEJUbGh6WWx0RXNrREpUREtpemhLZ3NSWHBmaGpoOEdsa2VkdXNDWjZCUmE2eHNpZHB4N2dMLS1JQjNDMmstbzZneTdxSExoMFVVUFFtV2l4SjVBTjlaQUdmb0d2U0JydFNxTlQw?oc=5",
+      "source": "The Boston Globe",
+      "published": "2026-11-13T00:00:39Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "aa569c0dcb55f56b1c53e2",
       "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
       "summary": "",
@@ -144,18 +204,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "607d4d7557c40807b113b5",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-12T23:34:05Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
     },
     {
       "id": "5f694a374897b00953b4d8",
@@ -316,7 +364,7 @@
     {
       "id": "88fe4d5c03655566937b4c",
       "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
-      "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and two company employees. He will be r",
+      "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees Nvidia crisis – live updates From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and two co",
       "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
       "source": "The Guardian",
       "published": "2026-11-12T22:05:28Z",
@@ -1392,54 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "67995f7cc430892b7825b9",
-      "title": "US public workers are fighting to protect their jobs from AI – and some are winning",
-      "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be la",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-      "source": "The Guardian",
-      "published": "2026-11-12T15:00:44Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/56480260b7bf656d9742122815f5137a16b1a1e8/329_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=486807db511f5cbdb931a0f4d8fcb587"
-    },
-    {
-      "id": "bae143c821d33d3ceb3e4f",
-      "title": "FIU experts available to discuss G20 Miami 2026 priorities and global issues",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmY0OGdnc1Nvb2VDdnZoamdyaXEzVTNFczJueF85VnM2bzliekE5ZGkwQU1qTEZXcmdNOXJVSkpTZ0RnenpucVA4b1Y4OXJwVmNJcDhaa2hSQ1NlTE5YUk82M19jNjRpZlJFRk1KQ0FScmFaakN5eWY3RDJvdWJNQ3hpOFpRcWpXOEhoR1JQYVNmUWtCN0Qtc1FSYUowYlc4dUY3TQ?oc=5",
-      "source": "Florida International University",
-      "published": "2026-11-12T15:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1528a18bc477cc5b6e0042",
-      "title": "Forward Air Q3 operating income nearly triples YoY to $44M",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGFZN0xQX2V2VFNrUHk1M2xJS19OQkZXWktkUWRFbk9KX0VDTi1DZ2pWbW95WEhwamVkOEo3Y3FPVWp1SXJvNWlMOWxPUXBSU1NpdWxtczdTZmhpbHdGYW9NWkxSVjMxYXJmWHNPaDluMzZXQjE1WDh3Q1ktYzJtUm5GZHpnNkVaUFFWRjVKVHEtV1luMkV3b1RKSVJqVURV?oc=5",
-      "source": "Trucking Dive",
-      "published": "2026-11-12T14:54:42Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ee2cf8c0fe0dfa6b1d79bd",
-      "title": "Earnings call transcript: OTC Markets Group tops Q3 2026 profit view",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGdzRGE3TEFTb1VGLTlhTl9qY2ZMYTBvYVpaUG9ZY2VReWV4cTJRbXo2MGdjMno0S2pnUF9VV0pZMDZJSksyREpaSzBSNUtydzFCUzU0WHduQVpZSVkwLTB3MTZiVTVEUEZHLXpGb2ZSckhzZUpiRGNreVROd3JnWGlRRmFKMzVvMk42LS14SUxkTUFRZXA4RFUtU2lCakttOVdtQV80SXNYRjhwa0JLNkVJVzN6b1Ata0xSZk8td1ctQTIxZnFZ?oc=5",
-      "source": "Investing.com UK",
-      "published": "2026-11-12T14:54:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
