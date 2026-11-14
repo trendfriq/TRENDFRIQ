@@ -1,5 +1,53 @@
 [
   {
+    "id": "fcddece06a43c8c9909dff",
+    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+    "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+    "source": "TechCrunch",
+    "published": "2026-11-14T17:45:04Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024"
+  },
+  {
+    "id": "0dac5bc8bd77a78df1260c",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch",
+    "published": "2026-11-14T17:30:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+  },
+  {
+    "id": "0b25ed8e883733e74f8ddd",
+    "title": "New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPM3Y2a3ZNX0Flb2stVGJrczJVVjZPRU52MlJTaFUyckZqdTZnRHlwTHoxeUFOVjU4MXpfSXQycjZRZm1tdlN2dkg1c2txTF9iR0ZQM3ZaT19BaVMwdC1fZkw4Wm52SzMwNTdhWW5uTzFFUUoybWpTTUVDM1V4OWhfY2ZjQW40X2ZpUGd4SDFEOXpfQm1FUFdMQUxPYXNRWUVpbDMzQjhPckhTNFd5NnBseU9IN0VmR2JfdkV4b3hoa1Q5UWJGakk2YlhmSVFORjB0Z3VEQmNBb1RFUFhVTjRuOWxlSGJKUVR3a0ZLT0dLZXUtUWRFQ19IdDAzZkF6VEd3OFgyaTZnUzZJUkJjdGEtOGg5QnZWNXVmcVNGVHFDSHVSQkNX?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-14T17:18:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1e4c1fc5abc49ad27fd21b",
+    "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-14T17:16:36Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
+  },
+  {
     "id": "8097820885cc543d9fc0a6",
     "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
     "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",

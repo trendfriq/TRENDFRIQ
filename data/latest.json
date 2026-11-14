@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-14T17:13:57.874174Z",
+  "last_updated": "2026-11-14T17:53:26.405563Z",
   "articles": [
+    {
+      "id": "fcddece06a43c8c9909dff",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:45:04Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024"
+    },
+    {
+      "id": "0dac5bc8bd77a78df1260c",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:30:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+    },
+    {
+      "id": "0b25ed8e883733e74f8ddd",
+      "title": "New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPM3Y2a3ZNX0Flb2stVGJrczJVVjZPRU52MlJTaFUyckZqdTZnRHlwTHoxeUFOVjU4MXpfSXQycjZRZm1tdlN2dkg1c2txTF9iR0ZQM3ZaT19BaVMwdC1fZkw4Wm52SzMwNTdhWW5uTzFFUUoybWpTTUVDM1V4OWhfY2ZjQW40X2ZpUGd4SDFEOXpfQm1FUFdMQUxPYXNRWUVpbDMzQjhPckhTNFd5NnBseU9IN0VmR2JfdkV4b3hoa1Q5UWJGakk2YlhmSVFORjB0Z3VEQmNBb1RFUFhVTjRuOWxlSGJKUVR3a0ZLT0dLZXUtUWRFQ19IdDAzZkF6VEd3OFgyaTZnUzZJUkJjdGEtOGg5QnZWNXVmcVNGVHFDSHVSQkNX?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-14T17:18:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1e4c1fc5abc49ad27fd21b",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T17:16:36Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
+    },
     {
       "id": "8097820885cc543d9fc0a6",
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -16,7 +64,7 @@
     {
       "id": "d66099d92304cf4e8e478e",
       "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "published": "2026-11-14T16:29:48Z",
@@ -72,6 +120,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
+    },
+    {
+      "id": "872f1f82f61008f255d4d1",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+      "source": "BBC",
+      "published": "2026-11-14T15:53:55Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "43f46995ee098a26a06ad1",
@@ -274,6 +334,18 @@
       "published": "2026-11-14T13:11:49Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cf4e1ded503f2d56fc9c6f",
+      "title": "Press Release: TaylorMade-adidas Golf Company Completes Acquisition of Adams Golf",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGY3aXIwRjcxOWZuWS1fa0xnMGxWOUR4RlBaTlhTNENIb0NVdFhkRkRBOVZTR0JWdnloVkwzclF4Vm8tSDM0UEtQNVl0WWNmY3VaMjNPa1lIV1FmZmliV2hOTlFhQzJNblpQN1VoekZ3RUFmTTVPcGpaVi1fSWNtSFFpVWtGNVA2TG9SckswTlNUZzZuMUh5RFc4bGtRUTJtckIzN1lKdTRwMEk?oc=5",
+      "source": "GolfWRX",
+      "published": "2026-11-14T13:08:57Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -790,18 +862,6 @@
       "published": "2026-11-14T06:00:00Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "872f1f82f61008f255d4d1",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
-      "source": "BBC",
-      "published": "2026-11-14T05:52:31Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -1380,66 +1440,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "ccad5b837bef80468a1d03",
-      "title": "Microsoft outage shakes up companies, schools and local governments across US",
-      "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage systems. Even as Outlook started to resume no",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-      "source": "The Guardian",
-      "published": "2026-11-13T21:13:59Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd7cd88264fb0fbd02503fef70713a34"
-    },
-    {
-      "id": "f11fb96f94d7b8ecb0fa8a",
-      "title": "BMW opens first North America high-voltage battery plant in Upstate",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY2s4dlhldWtQQ1h4Tm5MVV9MRlZhX0FqQzhIdXUzY21jeHhIbGEyemFaQWdXbmpOQ0pTTm85d19kRUE4MjJmU0Q2WU9JWjFpSm1FVEVBMl9CZE9NUVA2Z1ByR044dXBFd2FUT0oyak9RR0duYkdLUW5jY3BKWHVvajc2OThmWWxJeE5fQ1ltRndsa1Z2SEVZMDVYeUtfYkFET0IzbFhiZHhtWUtremRILXZJSGRqTTgtSm5FNW8taXJpWVhQNnFOREQ5YVdYMVRiMG9B?oc=5",
-      "source": "Greenville Online",
-      "published": "2026-11-13T21:11:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "39a042b71f179d506d9651",
-      "title": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0l6azQyZFF0dWM1TUJvTEMyak85ei05LTU3ZEZ3VC13ZVVocElSZEp2OU9fNXlGQmJwLXU5bEZHazhVcDBnUlZpdGdEeGhnOGRFMndYQ0RmdFBNSmF6VVRBcGx3VDJJdWY5ZlYwU05ONFE3aDI1UUMyajRaX1daTUtReWNpNXFjSlEwazRwNmZTcTlfTWxVRktRbVVaUXFMNlcxTExacGJ3cnJNUEttTTBxV1loamx1SENaZ3ZmSks?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-13T21:02:43Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "754f24889ed9e00a6da88e",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "published": "2026-11-13T20:45:10Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "cf8d6db662d1ba559978b7",
-      "title": "Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
-      "summary": "This live blog is now closed. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "source": "The Guardian",
-      "published": "2026-11-13T20:37:58Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e0df682ebba822680f11e1fd473efef"
     }
   ],
   "countries": [
