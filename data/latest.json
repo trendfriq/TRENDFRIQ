@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-14T08:33:52.188535Z",
+  "last_updated": "2026-11-14T09:24:29.700742Z",
   "articles": [
+    {
+      "id": "2e4c7266b8e19fa1a9f044",
+      "title": "Vice President Tasks African States on Investment, Economic Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazZndmVfeXZIZm5RN1J5Vm1WNUtOLU9sX3c5bUZFNkdrWkNWNFBOT19KNm4wNm45S3VnM0QtM2JPRVlQalVTM2tHaEFRUkNIc29lOFdOaEl6N2l3OVNqRjVKcEdpX2JWUnFmZTZ5SnlETUtNNjMya2IwbnlIR1FfdGZ1YkpMamlESTBQdFR3?oc=5",
+      "source": "Voice of Nigeria",
+      "published": "2026-11-14T08:41:27Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "c3989e5007c2a015aa6bcb",
       "title": "Investor Focus: Nvidia CEO Crisis, Anthropic IPO Valuation, and Undervalued UK Stocks After Earnings",
@@ -27,7 +39,7 @@
     },
     {
       "id": "530533c1157d7fd4c17984",
-      "title": "What we know about the longest ground stop since 9/11",
+      "title": "What we know about the ground stop and what to do if you're affected",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -178,6 +190,18 @@
       "published": "2026-11-14T05:52:31Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "296b4262e440d2b3bd4119",
+      "title": "IITF 2026 to Showcase Technological Innovations by 600 Startups; Piyush Goyal Inaugurates the Fair",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNjc5ZFIxVjVRQmVYb2Q5YnpZTTZtZElvYXJFSWdPaWI0RFpZR1FpUVE0LXZnY1JLYU1HbWVpdWZYc0M4bkxrZXBvSDNRcHZZMGlweGZDQkdSVW9MSnJUU0FCb3puZ1pPODVPZTRVdEJtMUpWOTZaRmI1VVpBanMtdzY2NEhxMVVZNEs0NndKMU1JT0hqa2k3cENQS3BtYXFSYzJPRExRSlNaaDRVRVR6SHpzOTlKa3lWS1liMEJhcXhfb1hwc2c3Si1KTG92N0V1SFQ3QWVkTlhScDlVQW1CTTloZUU?oc=5",
+      "source": "Entrepreneur India",
+      "published": "2026-11-14T05:44:23Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -998,6 +1022,18 @@
       "image": ""
     },
     {
+      "id": "2bbb0f47b100bd147e8621",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T17:54:33Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
       "id": "a0496c5bf3e13becfa77bc",
       "title": "Jensen Huang was reckless with the environment, too",
       "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230",
@@ -1404,42 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "bbd27f699d942e666c6e88",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T15:42:52Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
-    },
-    {
-      "id": "d374804bff9e6bab7026a9",
-      "title": "New Australian Data Shed Even More Light on Tax Avoidance by Big Tech (and Others), Highlight Need for Better Disclosure in the U.S.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNREotUm5FTGdDOE5kWEM3QjBOWTRKdzFXcmFvSVdUQ3ExYjB1dWdCMVFuZDFjSFJ4ekZkTXhrMElBVjZFUGJabGpZY3FndEFreFFCQkY1cXRmUWRjY29UcTVxY3JPdlpSWlFiaDV4aTgwMlJMdjVtaEdoM3l4bldPZ1lVbkZqdklRWXoxZWxMeUlEbjZtSEZVSzVSck55NEtxUE42b0gta29ydVNZdGliWFk4ZTZ0UkI2alZUdFZrckU4VWkzejVlR1RsSWhsMzZQdm5RR0pLOTZZU2lOTUhV?oc=5",
-      "source": "Institute on Taxation and Economic Policy",
-      "published": "2026-11-13T15:38:42Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3e5bd28a247b0051398cd2",
-      "title": "Sino Biological Launches 4RISE to Validate AI-Designed Protein Binders",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFJ1a3U5aWpfQlQ5SklTdmhDdkVxbTFfZDFsVVc4TFpYUDBJNDhSVUxoMmhIX3U2TE5zbzh4dkpKSndOZ3ctZm5qSG15dUZtaV9iZGE5M1pIZkYxelRrY0pxQm5qNXVuQmJqdEZHeTBMdE9RVk52RE5weEVSbm03WkVPRlFCYy01VGptZW9naWlKUGlFT0Rj?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-13T15:28:03Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
