@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-14T18:43:15.526281Z",
+  "last_updated": "2026-11-14T19:28:50.838502Z",
   "articles": [
+    {
+      "id": "4d3f357daa8cc28fb3231d",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T19:21:10Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "1e4c1fc5abc49ad27fd21b",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T19:12:25Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
+    },
+    {
+      "id": "f9a99c818e144dcb750b78",
+      "title": "Caffeine Free Cold Brew Coffee Market To 2035: Sleep Hygiene Demand Drives Growth - News and Statistics",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHBBS1FjM3M1MzhBa0JhdktRZ2VjVzFnSllXelF5cGFyT2lGckpCVHBocXRKenJiYWQtWHgxbXFzWlBNdDZ2UV9CRF9Fekh2aENQVVlsZUxGeFJXRFg0eTBZSHdnRGM3YnVxRzZzWGxjYVZhLXFJbHVRSWwyWm5KZFVnVDhhUGFDclUzRGJ1MWxIUnJMb05xMXcwSW5BVFNJMHNwQXB5MTg0TDUwZmtYS0s2cGF2Uzk2eVVqdUFnV3ZITTBLN2c?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-14T18:41:04Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "d66099d92304cf4e8e478e",
       "title": "Italy fines Meta €805m over accessing users' photos",
@@ -62,6 +98,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675"
     },
     {
+      "id": "a0baaa52e47db9fa9878c5",
+      "title": "Goyal visits Egypt; both sides to discuss cooperation in infrastructure, manufacturing and logistics",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTXZUZ3plSUNhRXFfQkxYU09tUm5MOFpxVEowQkJPSC00NG5JZElLZUQxSDVFaDh1ZkI5d0RTOFpLNkNtdFduWGF4WDlNZGxHVi1QZzM1N1NIZkdwU0IwRHdWb09nLUNydi02dTZERFJESDAyVXdTVDJidE9KSmIxbFZ2bXZ6bmw4eUxvY3k1RmlUaTVTTk44SjdZYV9qSUhXYlhwbEYtaFhnY0h1UEs0MGwtV3QyMlJOMGJnZHY0WFgtVktZQ0lBX2V6RFRtQkNyYmRYS1pTVzliMndjdG5WMTVCdWpJRzctT2ttZ29RTzRWalluaTNPT2xIV2jSAYICQVVfeXFMT3FQMGdCV0x0ZHRHVWJLZ0NHU3M5T2JCeFFhcUVXWVFiTHJtYTFaOEV0VmotQmkzYll2VXVhZnhfQ1JIdjUzNWFIM1RXSlI5OWZidDVtZ29Cb2oyZmQyaVBPY19nVXV6TDM2UFlzTG1HSkZEWV80SDVwaTFKWTZTLWhvWUhhNV9qYnM4dngzS2lNYkNWYnlWQUY2T1FxalVPbVJpdUYzaF9hck8yYkNpRjNEaS0xTV92NHdRZDZvZXBlMGZYSnNydlhwSGc3V3c5cXR2ZEk5VHpDajdDVU1nLVRCelZDdUJoY1paMUZOakhUNW9UTmZoQVJIeHdENUdNZW1B?oc=5",
+      "source": "ET Government",
+      "published": "2026-11-14T17:49:20Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fcddece06a43c8c9909dff",
       "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
       "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
@@ -110,6 +158,18 @@
       "image": ""
     },
     {
+      "id": "5cf6869232a42bdc08418a",
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-14T17:26:17Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0b25ed8e883733e74f8ddd",
       "title": "New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast",
       "summary": "",
@@ -120,18 +180,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "1e4c1fc5abc49ad27fd21b",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T17:16:36Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
     },
     {
       "id": "8097820885cc543d9fc0a6",
@@ -228,18 +276,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "4d3f357daa8cc28fb3231d",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T15:15:57Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "2a93dbaf7a77ea3909f403",
@@ -530,6 +566,18 @@
       "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=626aaab5d918cc8e4aa6f74a887744f0"
     },
     {
+      "id": "9fa33160a7cb433ced593e",
+      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
+      "source": "News24",
+      "published": "2026-11-14T11:39:39Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a2de68f1b45f575a884f8a",
       "title": "French Tech Leaders Push Digital Sovereignty at Francotech",
       "summary": "",
@@ -550,18 +598,6 @@
       "published": "2026-11-14T11:11:52Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9fa33160a7cb433ced593e",
-      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
-      "source": "News24",
-      "published": "2026-11-14T11:09:39Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1034,6 +1070,18 @@
       "image": ""
     },
     {
+      "id": "4043755c1ae76f06f9fe84",
+      "title": "What is APEC and who will be there?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-14T04:32:42Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "594c3cee980ec6a3b7dc96",
       "title": "Musinsa Partners with Central Marketing Group, a Subsidiary of Thailand’s Central Retail… “Musinsa Standard’s Local Business Launched in Full Swing”",
       "summary": "",
@@ -1392,54 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
-    },
-    {
-      "id": "3a2d1b962eb2c86e12da6d",
-      "title": "US Tech Stocks Decline As Nvidia Uncertainty Pressures AI Trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTE0zNTJPci1ycHVRSHlNYU8xZElXaFFRdFAyTXpfX01SZnFLZndjeWRKdWZ4RW5VZEVIUUx3TU5Sci1HNE5zVS10endYN09vMWM5U2RJN3lkV0tFNVV3TjMxT19EN3lPaEVTSEE5TFlvSjN3cFFQVTNlcGZUV1JmaVZkWjlJRWVFUmYta1BiXzRucnBxRWhJUHY0QVVxWFNpOEtONzRfbkdiaVVY?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-13T22:26:13Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7b12dec262d9c3374f628a",
-      "title": "Broadcom falls 4.76% in Friday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wZ1dYR0JhOGV0UzVrTjRLTTJmOXZ2OHNZaWt1bHcyTG5aSnZIMnFxeWUyYjc1YnNBQURUb1VjV3BsSm4wc0c3Y3ZkcEFpMUk3NDBpWXVHTncxa01Zd1lrWEZobUJOZ215MFpHS29RdXVPOHJLSElGUTlZUQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T22:02:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ff201dca9385470dcace16",
-      "title": "Micron Technology falls 2.52% in Friday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXV0TUNFOG94QXJvd1NTdkZrVnN4Z1hjZEhKVjFNc2ZISFYwMnhWSTM4MnVWOXE1ZHR1Y3Y0aXVqSmx2S0tValNySG5vQVMwMTRyMHpjT3FTTW93aVJtbkxRSlVZNmxHanJUN0hFVWxIRDNzN2sxWlJiMjFHcksxVURZRlg?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T22:02:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1cfbeae4987d337e3c8146",
-      "title": "Marvell Technology falls 4.68% in Friday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQk41azFqUTNIeTRnbVJsOU5vVS1aYUdDbEhZeDc3MEJnN0RpNU41aHRBanpmdTY1bXd2LThKOWdkTWtHRkVoUkpqbXpib3FmY0kyNm0zdVpkc0ptMzJoaFV5N1pmTEo4OVNTck4wMW1KbHgza0RWUTRfNzdfLTViU3MxOG1leVNx?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T22:02:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
