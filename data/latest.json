@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-14T14:20:26.269123Z",
+  "last_updated": "2026-11-14T15:00:14.914534Z",
   "articles": [
+    {
+      "id": "d99b47952cb8473b006a5c",
+      "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+      "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who wil",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "source": "The Guardian",
+      "published": "2026-11-14T14:42:27Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22bf4369f273b4ac3f8d5e1f7019ad04"
+    },
+    {
+      "id": "6a18f57cce2d004d210790",
+      "title": "Goldman’s China Profit Paradox: When Cheap Capital Becomes an Expensive Problem",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUZpbm5UeVBydjVOV0swbXJUbjFVMTZpRHE2TWRfTzNCbk1WN3VmWXdpamtlQmlxaWRCS1QwVVhHWFozS0dIY2EwZ281WnZtZGFjTjF1Mm83YlQzaEd3MVRWLV9Xa2ZJcjN0bHgwOHB5MGxIYzB4ZjlqMHV5bUx3YnV2MUI?oc=5",
+      "source": "The Dark Side Of The Boom",
+      "published": "2026-11-14T14:30:48Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "dbb87bf7baea360152cce2",
+      "title": "When tech founders leave, what happens to their companies?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGwwcmhtS0F2bmxvWmtOR2hGUmpiai1tazM5T2ZzdFJXX24tTUhrc1hBS3VsR1ZheUh1VG1qYVJWV25BUktEMUhXS0FpeElnbHNaTzNGV0RIaTNsR0NBdkF1Umk1NHZ6TmtEb04zc2RjbWJHRXBGN0VINllrMHhqRExUQ1k3X3RadVZsbUpEYjdlTWNGeE9RaTJvei1jMEcyRjJj0gGoAUFVX3lxTE9CVDdZS1BiYTVWcEFvQ2VoYXpLb2piaUUzN2IzdnVXWVhEVWRjVkNxUmlwUEZoa0hsX2E4ZWcxNUJNMXl0Zl9lR2MzajJUX2ZLbWQ3R1lsSGFmNi1CWkRpTnkzYzRsRGljTEZNdEJrVGRyLWlEZTloVk9VMkMyTzNFeTJ0SlphOG5TelhqRkI1bGl3NmFsaEMwY1doU09JbWR1T25Sd0JxTQ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T14:28:59Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "530533c1157d7fd4c17984",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T14:20:57Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
     {
       "id": "8573d9e8e576a4ad47319d",
       "title": "Second catch attempt for SpaceX Starship rocket",
@@ -12,6 +60,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd7/live/f933dc10-e035-11f1-9ca9-b3b288fceb81.jpg"
+    },
+    {
+      "id": "80ca2983ef56c6e93cfe1b",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source": "The Verge",
+      "published": "2026-11-14T14:18:36Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "6d4a210acc8c365baa3ce1",
@@ -108,18 +168,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d99b47952cb8473b006a5c",
-      "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-      "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who wil",
-      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-      "source": "The Guardian",
-      "published": "2026-11-14T12:33:58Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22bf4369f273b4ac3f8d5e1f7019ad04"
     },
     {
       "id": "f291af5968b03f3b253ac5",
@@ -398,18 +446,6 @@
       "image": ""
     },
     {
-      "id": "530533c1157d7fd4c17984",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T07:42:11Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
-    },
-    {
       "id": "6b030a264dbf3505ec6b2c",
       "title": "European Stocks - 13/11/26",
       "summary": "",
@@ -547,6 +583,18 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3R0a1dGU0xJM1NqWmh0bkw4MUJfYWtKM1lHdEZ0OWVxbUJZTnFoQ1F6QXpUZ0QyU3ZvX2RvNjExYkZwWTUwYlYwR2JwZ2hyVjFtMWpQeXA2eVhlcnNTT0lWTExmSXpJd3ZYdW81UWlDTTIxT0hHQTlxajkteXV5cGJyM19DM2VFYjdZaktCTVdQSm8?oc=5",
       "source": "Seeking Alpha",
+      "published": "2026-11-14T06:00:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4c36853a8fb9eca96b7bd1",
+      "title": "‘Congo’s oil boom masks deeper economic vulnerabilities’ World Bank warns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0wzVmFUMWxWMmgzbDZsaTdCNmlFLTQyaEFKZVhVV3Y0YmJ1Nk15Z0VuZ0FfaHd5WEdycnBDcG9pYmxUOXZTOVNpQUtKVXZIa256NmJFNmJKR25FdmFodzhnWEkxQjJERExyYnhSTTVSUXA2X2NRTmRGVHFvb29xREdUUjRWVGx4eS1SQ2YzRGM1RHFwSG9hRkZfOV9xcTZ4U1FJakp2dUgzeC1tMFJoVW5SSQ?oc=5",
+      "source": "The EastAfrican",
       "published": "2026-11-14T06:00:00Z",
       "category": "World",
       "topic": "Middle East",
@@ -1392,54 +1440,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "fcdbaa089155ba218b97fe",
-      "title": "AstraZeneca Cuts 600 US Sales Jobs Amid Restructuring Efforts",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlRMbFVoeGc3Z0FDOC1rTURGMFZwcjN4YkYxQWZEODBydVUwOXBkdmZNdmpJdEY2U3BBbWI2VHhCdUFyYWNheVZQQzJjY1NVUTVpTkktcXlhT2FheVBOTTFDdG1hN1ROc21QQV9zVUxtZkNPc0RGVG5ZY3MtTXowX19famNKdEJKSmxqYVlSaGJUZU9BRjg2bnlzbk5PQWM?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T18:56:22Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "942690c54617acfd2b0818",
-      "title": "Governments, courts, trains and hospitals hit by Microsoft outage in North America",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91NTl0TFVhVnZTci0xcEFFenNKU3kyTXlIVGU1SzIzQi0wYkk2RlFvVUluQ3NLUS1jTjJFaWJyeXRrYk5CSUF0aWJCQ2FndmJ3b3o5RGQxQmZGUm8?oc=5",
-      "source": "BBC",
-      "published": "2026-11-13T18:53:48Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6669a4d19d8d97224289ad",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T18:40:30Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795"
-    },
-    {
-      "id": "f83f812563eb29b623dc7a",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T18:36:57Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     }
   ],
   "countries": [
