@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-14T10:18:55.366386Z",
+  "last_updated": "2026-11-14T11:02:23.079255Z",
   "articles": [
+    {
+      "id": "f270c2230a0db1e9f7731c",
+      "title": "Governor urges Nagaland youth to embrace technology and entrepreneurship",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObzBzN3Y2YWtkNGFSUk1jalFWZDBUZ2hELU5hQ0JGYWpuQkJoOWExaEE1a25JTzdwV1RybFBjRnZSbmpDNG5mNzJsbTFMU19tYm1TS0dNMXNJRUE5ZlNua01sdU1zNEJlM1B0Zl8temlVMkJwdEdoVGh6S1VDUkN6MWRMSmpPRFpDRG5RV0VLUVVnanVobmdUQ1BKQ1lZTzByTlBJ0gGrAUFVX3lxTFBDZnpVTzhaSGo3U29pZjFpTlVhRElGWVBVQjE3UGU5S3NVZlY5Ykh0dkhrNXl3YVUzS0xjQVRJenpJcXJ1Wkgxb0Z5NDNWWDVWajZDeDlnbzc4d0hLbUF3S0VWYkpyR2xscmEzVDRXOHpBRmJtdmRBcDBJclZkMUluSnVUX3lTd1liS3ZoQl9RaTF6a1NGR2lxeUVFOHlISHBJMk9CSGRVMEpJaw?oc=5",
+      "source": "MokokchungTimes.com",
+      "published": "2026-11-14T10:49:31Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4a394efa21306d3224cba0",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T10:42:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
+    },
+    {
+      "id": "4d3f357daa8cc28fb3231d",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T10:30:38Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "2fbdc51e83ca02cc8eeae2",
+      "title": "US corporate giants signal strong confidence in Asia-Pacific ahead of APEC summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzJiOTF4N1N2aTdMa1lvdW90S0JvRUUwZ2ZqbUJHeDloQWtQc2JpaV9ZMHVTWVpJY0x5c3dKRDNtSlJUZmQ0Q1dYNHBBMFVkclJ2S1ljVE1PMFlaY25SOFhuX3Nvbm9mOHlSZjhYLTlybnpfdnJzd1lSVDlOX2VKUllkdFZ6QlB5QU5lSEpBLTZlN3VlYW41bjlNYnBPYV9Xd2RRanhRM2hvNjVadFFoT0hSOFZYTGltaUxZN2xHdktGUnVDRVRpWTRfUmpOdw?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-14T10:19:03Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "fe64927be2c5558549492d",
       "title": "NeurIPS 2026 Competition Launches First Standardized Benchmark for AI-Designed Antimicrobial Peptides",
@@ -26,6 +74,18 @@
       "image": ""
     },
     {
+      "id": "6062b2daddabdb34de1788",
+      "title": "Japan eyes bigger investment footprint in South Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHBNSUlpdC1XN1gtVjFOOS14aWVhYVZEd2J6SVNmWEtOQzNpb21WRkpiZFVhenBvUzhGc3FmWVJ1MDBCTFdlLTlRb3BqOG1rU0FmYy1sOEs0RkFPT0Rjeklwc1F1R0tSTk1FWHdMYm5YbFU1WnBvV2lxbjdkbTh6NG9ua0U2M0cxeHg4V2l2MVR1ZjQ?oc=5",
+      "source": "SABC News",
+      "published": "2026-11-14T09:31:42Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5ccca6fcc8dcf10d8d6402",
       "title": "Europe’s Economic Recovery Slows as Employment Stagnates and America Pulls Ahead",
       "summary": "",
@@ -34,6 +94,30 @@
       "published": "2026-11-14T09:26:46Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1f5b122183e4dfd470e5c9",
+      "title": "Market Movers blog: Microsoft shares shudder on global Outlook outage while tech rivals benefit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+      "source": "Investment Week",
+      "published": "2026-11-14T09:09:13Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5791ad701752659386c211",
+      "title": "Comcast",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaFFnSDk3QjFrVUFBVnloLXVlMVAwQWV0YjVkbHhrYi1MQ2dqV0NaenhFR2RZMU8wTTlJdVVSbzZKOWFjV0JWVFdSeFZPdkVRRmc?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-14T08:56:56Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -290,6 +374,18 @@
       "image": ""
     },
     {
+      "id": "831f78fdaba672a3650997",
+      "title": "Mohit Malhotra to take over as Global Group CEO of Dubai-based Group SNS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3ZnU3EzcHZGNUR1clByMjJtazBDel9MRlczTmx2b2dqNlNOb2IyWUtsU1VFVUNaU0lhNy1OVUlPaHVHcUF6bDV5LXBzbmt6MjNiMEdqT2lFaE52aXBZZlYzalZrSTZTRWlzT1ZYMTZFTkRkcnRVc3p2V0JXRjBNQ3ZKZEtkTUcxUElQYi1IM1JWSnJkbnpOV0ZzQ2x1SmdiMWRWLXNpUnM2Mlk0TXhNTHRDQm9IQ1lZUFZHT2tVRGhHdw?oc=5",
+      "source": "Exchange4Media",
+      "published": "2026-11-14T05:04:09Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "60bb4c52c45c270d41ee3c",
       "title": "Economic Key Facts Germany",
       "summary": "",
@@ -314,6 +410,18 @@
       "image": ""
     },
     {
+      "id": "d5a1d3d4f912970ea5471c",
+      "title": "US Senators Demand Musk Preserve Starlink Records on Ukraine Access",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnVEdzJoeGNBSFdhaTBQVUhKQ08zU3AyZjMtZHp6VGJDdWZUY00xcERSanhyWkxBTzJjNl9NNEVhSFdQTUtHOU5aRFJhVWMyMDhHZFF4bkViM1RudTlFSHJXZGduX2dGTlp2OUlGaFVOV1lobjBER0FtWkVkTXhSaXhtTDMwVTFWZmk4YjVfU1VqVkdYS2tUdS04U1NQbUhX?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-14T03:02:04Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "71816d57ec189191fbfb76",
       "title": "Oura Counsel Health Deal: A Bold $625M Bet on Smart Care",
       "summary": "",
@@ -322,6 +430,18 @@
       "published": "2026-11-14T02:56:29Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "505d6dd3cbeca2d7f3dd68",
+      "title": "Trump's ASEAN Play: The new front in the US-China chip war",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUVPQVhmcXdMVEhFZVY3b3BjNlZwMmlaTW4xSDZGRnc4M3lHcjBWZlZRMXhzMTUzd2pnRVZDdjFiVGxmOE50SjV4LWhzOVBYS0NuNm9MdG05aDdwOFpSLXJPbWVnNjBjTkNNNEJTd3pRTjlqYzVQaTlDMmJuaU1tRHRsVi1OSWFfOWhlMVR6NGNtLTE3ZHBiRzVRdUtCcUJiWkNV?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-14T02:48:47Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -528,6 +648,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+    },
+    {
+      "id": "9de4c5255cd3777163b75c",
+      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-13T23:30:55Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5cff1902a0ab7f47e8634e",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-13T16:42:00Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b13e18c3f67ad0a38b0ba7",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T16:40:31Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "12990af15e181ab96cfcd5",
-      "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-      "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems , published in 1931, transformed mathematics and paved the way for the digital age. Aft",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "source": "The Guardian",
-      "published": "2026-11-13T16:38:27Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb"
-    },
-    {
-      "id": "cf7ffc9dc3ccedbcb166cc",
-      "title": "Same metric, still a mess: The geoeconomics of youth unemployment in China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2lVM0xtZmZBcU9xZUZRWWxoZzJod0phQVIyVHlYdFpLYmFnY0JGNFUtLUJVVGduMlRGNEw5ZDNYbE92amlqRmFVZExYcGdPSWRZVGRxaGNKSzhrQ0ZTQ0h3ZWZpQ3MtbVlHRWVpLVJxWlZlUGhOMGdTUURKMnJYZHVreUJVUk5pb0x0N1RFUl80eWdWRElWSk9ZcElCRloyNlE5VWdqVWtiT0dheFFibThCVDh6V0JuOUN3cG9FaDBXaGM?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-13T16:34:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8bf941886c049d5a648a57",
-      "title": "Napatech A/S falls 5.83% in Friday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdElzWlBrOGxwRlJsVmhDNVNnTW9EaGNWN280eHhqRjd0MXlWeFl2TE5CUDRHSkNQdTBQUDM5YkdablljODBaWkM4OVZLZ0RSeG9Oc1FmY3pfMHZ4WGlhTUpfVGRyeXJzX0NuSjNxaDM1M3pFeHp5VE1QRXBGX1BuTkV2bVo?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T16:32:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "42c59e95a7c8cf6ea4d0d3",
-      "title": "Italy’s SICIT Invests US$44.7 Million in Leon Biostimulant Plant",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0pic1o4U1dvejVqTkNIWERfRjllSUt2WTNkdDBzWVhDekdienVKNm1vWDNyeHNFUm1TUTJDY3hLWVN6Q2prUnVxbXFyOTFySU1VTVFFSFBIMTZrSDJEQ3ZXSm1GUGtSbDhiWWRJWVVNSmJiUUNDMnhLMW51YnpKeHItNTA3MTItclFuNUxrTnR4Sm55eDlxMnZxTUg1bzlRQ0l0cWwyMA?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-13T16:22:35Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a0aeb26c7d364378be8fa7",
-      "title": "3 Financial Stocks Tied To Rising Demand For Short Term Bond Funds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMGdxb1hmUEVmQ1VQZjN6N25IYXRYd0x2V3gtVnJKMm1rUFhJSVljd1VlY0c4OWsxVHVQSFF6RjI4ZFg5WjlOZ2kyZnoyUDJaSk50Qkd3anowQjl4cEM3MTdkUGRQZ1Y2UGdNSF9vQm9lM0xNcWJmV3cwa3ZnYWJQZV9wODQyZDVmNi1SSFBRMHVaQ3FCVFp2dnd5WVNfVWE5T1N0LS1EZDRsaTZIRkZ2YTQxbWdNMnVnU2tfeGQzRUZNelljbDdpbm82QTBGanhONjlfZzNJSnRjU0Y4RjE2StIB5gFBVV95cUxPd25jWWhtWXRFUGdTdG5PeWpqb2hrMm1CSUkwUWRaZ2g0V04xODhBSk5XOUg1cnkxVkg5SHl6aDZ2UG96ODNDQXFBNm8tWDlxNm1ZRXpvVWhzYlo1cTR1X09PTmJubEJCUWNBeDN5U1paZUFJaWpXVV9rTmZSbUFsVDFQTk54V1dENVVKVXB3aHVZN1poamlLd294RTV1aGF0Vzg4dERhQ24wS3V4TXQ1SldFYVI1N19rT2hjZE1NdFl1b1IyZ2Z1UFVhYzl1RUx4aTZBZmQzNVdBRVBFUjVFbVdsV3Q0UQ?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-13T16:21:51Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f2e413bc28cd0aecbbfad3",
-      "title": "New episode — EU–ASEAN Trade: A New Era of Economic Cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVm84alIzOFNqZzZTcGFFQ3ZDRFVXeHdCd2EzQWlXUmpsaGk1TFJKS1FDWXhPZzcwdm5obEQwY0Vtd1ZmTmJVSklnTW1pOFNvRUhCQ1dHSWg0MjdhdTFkbmdGdmtzYUhhald3aVNSVVdHN1VuLUZjTmplNWRmVHRPUkJqYXNGSGxsMmJaYWlGWjhwMjQteTdNYw?oc=5",
-      "source": "9DashLine",
-      "published": "2026-11-13T16:20:45Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "75b80cf49ab7d1e61ff478",
-      "title": "Surging Earnings Estimates Signal Upside for Venture Global (VG) Stock",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbk9aaHY3UFdfYjhYZThRNGVOUVQ5ZEpOU1JNX3FsSk9iazBhd1ZQc3k0Rk85R1N3ZzVyRE1LbGExV0E2d3JlM0JydVJOTWIzRTFNY3g4YXlydy1fMUxzYWVhZE9ZcmJrZVZ3c1BfR1dXdmFqNkFHQXpxQVd1YVJnV3BOanFUbGFkSENYSlcweGlhLTBtNUgweGVPMGlUWWpRNTE4TzJSMU0?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-13T16:20:01Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9dab2e1a82720a5e187e6e",
-      "title": "Does Europe regret its bet on U.S. defense?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlU5U05UZ01wQ3NENEw3TExETm5PYlhfMEl0X2FTV2ZaSkFNVEhtZmtDckN5aEdsNEVVbWFibHh3M184TXZYWHpWOFhLTkxxZGlmOUx5aFhqbFZZNVl3WnhFd1hrM2NrQk54X3BVaGZuYjIxd2MzWnl6V2dfRzhHOGRKYUNEcEtoOC1RR0E2NUFFa1JtRnV2cGxB?oc=5",
-      "source": "KGOU",
-      "published": "2026-11-13T16:19:15Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a009e778ec440408f3f2cd",
-      "title": "3 Global Bank Stocks With Cross Border Currency Exposure Investors Should Watch",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOekZRMkNUM0NBR25DaF9QU2p5ZWJCOUlyeTBDUDFLd2dTZkpJUDl2cjZibWZTWjFSV2pZTDcteU1NUWZIdEpIbjc5VUlGTDl0S1l4OTdiQm53VTNCUlNaY3pubmFiVkhyNW5Zb3RlQk5NZXEyempQQUNGMW9wMGw1WXRYWllTVnR2aGRwYWd2eFhKWTRxcWFDQ1UxOFB2Uk8zaDd5V2NkNnhIcmJsTm5zTG9KMGg3cDFDQUN6QjBIN2c4dnJtRUNUb3ZqZlPSAdIBQVVfeXFMTmMzWWxCQTUtbE9vUWY2c2pDdnNkRmlJcFNuVmVXb3BVbS01N2dOLUIxZldzTVhiY18wQjc1RF95WVlCcVdqUWFvV0V1bW1IM2gxQlpKMWlsMnNvTUpGeVA0ZWtGampNakNzWmx2Rkc3cnNSdUh4cHItMGVHX2l0LUZXNFFhb25YM250M1hpazdic3JtTjg3M2JvWFJmSnNfN1BkaU9sdFZJSElKUjdaSk9JaUtwWkMtTVc3T3dyZkVzaDRONjVManFYcENSX3ZVVEJ3?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-13T16:17:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d00edd2edd5d2031ee36ba",
-      "title": "Does Europe regret its bet on U.S. defense? : Planet Money",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWk0cTVCeWdHNmJ4aVNEc3k3c2FJWHFvaVA1VlNndWVDQzJqQWFlajE2RzZyaFdueEh3blVPT1hvSW1lREZydXVsN244Z1dPWXQ1U2pTelVBSkRWX3FlYkZ1R0xUNWhXTDJJSGhtdzVaM0dsdmNEMFBrWWZGbWttSHVrT2ZOeTdyYVRpR2tXRkpUbExsZnM5dVRrTWV0d0dHS0FmTVhYZlhCZHlp?oc=5",
-      "source": "NPR",
-      "published": "2026-11-13T16:17:43Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     }
