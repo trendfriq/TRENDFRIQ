@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-14T17:53:26.405563Z",
+  "last_updated": "2026-11-14T18:43:15.526281Z",
   "articles": [
+    {
+      "id": "d66099d92304cf4e8e478e",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-14T18:28:06Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
+    },
+    {
+      "id": "76599d9076d2b2fa35bd9d",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T18:17:58Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
+    },
+    {
+      "id": "3567371c73170af7029370",
+      "title": "FINAL-Bench Launches Open Daily Evaluation Leaderboard for AI Weather Models",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRW5zeTFxNXVVak9aSHA1REhlRmc0NzBDd3ZGVlRULUJkcEI4eG42N3ljX2VaS0Y3SHRNR3BKd292UlVPVFM0b2dtVUxCZXBTdGY5MFdCWHpEWHVFYmVEQWExUjE2NEtzaTNwRkdWczBaRnJqQWotbWh0ekNwdGtvWENn?oc=5",
+      "source": "CASRAI",
+      "published": "2026-11-14T18:08:19Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d644feeef9f24e33e9adfd",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T18:00:10Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg"
+    },
+    {
+      "id": "85e3933679b695fd54f9aa",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T18:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675"
+    },
     {
       "id": "fcddece06a43c8c9909dff",
       "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
@@ -14,6 +74,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024"
     },
     {
+      "id": "6ace89370b208df45bac5d",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "source": "The Verge",
+      "published": "2026-11-14T17:44:28Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "id": "0dac5bc8bd77a78df1260c",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -24,6 +96,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+    },
+    {
+      "id": "c7661a21872a96d57e704b",
+      "title": "Hot Wheels Crowns 2026 Legends Tour Winner Following Global Search Across 19 Countries",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRlpyQ0pZOXpaYjY1Vmw4aWVGZnV2NFl1Q05XVU5zRkhHQWxwSDZIV1JIeXowai04RzJPTWpFRm05RTkyLUJQdENGYU9oMVp5N3FHY0NWTlR0eHpkMEdPYVpNdHQ0dzNqOVBCZ2tYQ0F6WDlIQWJRZVh0VExZaF9xajg4TXNfQ3RVWDJOcDBXSlB1d19URUw1eFZBUUZxb2hzM3IzcjlDdTFjV0Z1c3g1MDBBOXNXMnZvejdVSlRyNW54aFRqLVJJXzhUSWdPX2FPNlpqdm9zeXFCTHNkQ3FSTG1n?oc=5",
+      "source": "Morningstar",
+      "published": "2026-11-14T17:30:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0b25ed8e883733e74f8ddd",
@@ -60,18 +144,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
-    },
-    {
-      "id": "d66099d92304cf4e8e478e",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-14T16:29:48Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
     },
     {
       "id": "40d87506518e2eddff27ea",
@@ -458,18 +530,6 @@
       "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=626aaab5d918cc8e4aa6f74a887744f0"
     },
     {
-      "id": "9fa33160a7cb433ced593e",
-      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
-      "source": "News24",
-      "published": "2026-11-14T11:46:09Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "a2de68f1b45f575a884f8a",
       "title": "French Tech Leaders Push Digital Sovereignty at Francotech",
       "summary": "",
@@ -490,6 +550,18 @@
       "published": "2026-11-14T11:11:52Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9fa33160a7cb433ced593e",
+      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
+      "source": "News24",
+      "published": "2026-11-14T11:09:39Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -686,6 +758,18 @@
       "image": ""
     },
     {
+      "id": "8c068d3485f0500ef03fa5",
+      "title": "Trade and Industry Secretary Ma. Cristina Roque says the Philippines' semiconductor and agriculture industries will benefit from the free trade agreement between the Philippines and Canada. Talks for the FTA concluded on",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0JqRmcxTjk0aGlnLXpabWlPMDdmVW5jOUZXbno2WnNHNTg1SzY2Z1F1aDlsb2JUYmFpMEQyeEJMM09yV1MxS0tRVTRvcTdpNG5NbS1oMHNkQzhmOTNQMmRqeGh6ZjV1eFYwLW0xeWJPWktoTWpZMFgzX2ljc3JyVS1teEhzcy1mc3dqdDAwOEd4Zjl1LU1kdXV6M3VhUlFnMl8wQk9vVVktdUVreGVFaTJoTTNDbDk5Uy1jemFHQWEwa0kyX1RBZmZaT3hteWdVeG92dA?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-14T08:00:23Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c94b8de921b3d00b30a045",
       "title": "Chinese entities sign deals with Oman in Middle East investment pivot",
       "summary": "",
@@ -814,6 +898,18 @@
       "published": "2026-11-14T06:10:00Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "39a042b71f179d506d9651",
+      "title": "Stocks fall but Wall Street notches a winning week after several turbulent days",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0l6azQyZFF0dWM1TUJvTEMyak85ei05LTU3ZEZ3VC13ZVVocElSZEp2OU9fNXlGQmJwLXU5bEZHazhVcDBnUlZpdGdEeGhnOGRFMndYQ0RmdFBNSmF6VVRBcGx3VDJJdWY5ZlYwU05ONFE3aDI1UUMyajRaX1daTUtReWNpNXFjSlEwazRwNmZTcTlfTWxVRktRbVVaUXFMNlcxTExacGJ3cnJNUEttTTBxV1loamx1SENaZ3ZmSks?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-14T06:05:29Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1154,6 +1250,18 @@
       "image": ""
     },
     {
+      "id": "d3ad8c146b04ab1db660b4",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T00:03:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
+    },
+    {
       "id": "3e7b1defed05c88d7a4736",
       "title": "Materials World Models Proposed to Turn AI into Persistent Scientific Partners",
       "summary": "",
@@ -1328,114 +1436,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQk41azFqUTNIeTRnbVJsOU5vVS1aYUdDbEhZeDc3MEJnN0RpNU41aHRBanpmdTY1bXd2LThKOWdkTWtHRkVoUkpqbXpib3FmY0kyNm0zdVpkc0ptMzJoaFV5N1pmTEo4OVNTck4wMW1KbHgza0RWUTRfNzdfLTViU3MxOG1leVNx?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-13T22:02:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7fecca5e7158368c4be6ce",
-      "title": "The Market Is Mispricing Resilience",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xVWEzOUx4SE5oNzZKTXgxTExDbGI0ejhKZF90Y0VJVnN3dlJBQmwxMVo3ZXhBbndEQWJFN2xKZExMSGZETjNTVXhyd1JYblVPczNzYnZwbmNvaGtCOWhyb1BLMk1YM1BUVVNn?oc=5",
-      "source": "Harvard Business Review",
-      "published": "2026-11-13T22:00:06Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e97658f08944406778852a",
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T21:44:38Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800"
-    },
-    {
-      "id": "5cd08b18e21f201ffbe41e",
-      "title": "Kia's EV3 Set to Become Group's Second 100,000-Unit Electric Model",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHE2a1N6TktLZlE0dXUwYV85eHA0d3NQLXV3dVhWVDlhSWJXenVyVGY4TkZlQzFxU01XbXlZRWNXanZQWUF0bWRER2JTdlF3c1VacGVVOFpNZk5GcWdNeUNfN21lQ0RfWkZVVUFBbDdRaWxUNGFINzlMSWVHQ09PQ1Y1OXoyRmVRVERHUUxISnlPdHNMZTRhZVZDcEVCMS1qNHc?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-13T21:31:05Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "704c6c901f9011d9737db0",
-      "title": "NetSol Technologies drops 23.22% on Thursday in US trading",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGlrMHVSOHZyV3A5X2ZFMHRlVnFpT2dIcTY5YWViTXU5NXNjQ05vMUtTellWaHNldm01R3drb1haWTZ5czNkTWxDbm1LU0hJY251ZU1taW93U1RuMlNxU2RfVVVaY2pvcDZpRXBBcjdjQkdseXlqTTc1bUFmUWR4Y2V6MUNZUGt3V1YzcDAybmw4Z0lFdnp5YXpoV3lqWW9xWHNSOHN6R1FmRUxuQmZEMDN3?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T21:22:08Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fd7fc5fa89a890de3195d8",
-      "title": "Supercom falls 22.74% on Thursday to close at USD 6.66",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTno2U3ZzdmUwcWt5V1Fpc1ZSWjVQaUIzQXQ5ZzFvaGgzUkRuQ3JWTGQxai1rSHpCYVE3bWRkbERkLWp6RTRGbnRJRTB0b0lEZHZSbThqd1puYm5CbXZfemxYbklpQVF5TS1VRWtIYVhSbDBYVkdtVlc0Z2d4RzY0aGhyQjJjRk8tS2p1WGN2bElSTDIwZ3BYN2VJVHpFM3pFOWl3aXBCOGhzckRv?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T21:22:08Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ce1ed03ca512fcf351396f",
-      "title": "Astrotech submitted a NASA proposal to power sites at the moon’s poles; funding isn’t assured.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYndfS3pjdXRvM2o0cjNKUFhNUE5yeVNQdFBkMnhZMGh0bmI2TTR1VzJYTGx1c3lvSElrblhOajdDb2JZZGhIcklJTjgtenlzUTJ5RnRXSk5qRW9aU0QyRW9EMjh6dWVQdnMtUDV6RDRDbEZJUTludkQ1NzRLaGlRRGlJdHM1TUF3RHRKZ0FKZlcycENKSGVfZm5sMndSZzFuWGx4enpqR24zVFF5enJ5ZnlYV1RhMVk?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-13T21:21:29Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "734c0cca77bd793c095231",
-      "title": "United Maritime shares rise 22.76% on Thursday in US trading",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5IV0M3Tkx5bENkTU5KUy02X3AxQTRoeFVqZFlvdW1VVnFiMXZjLVFNbWdZemV3Q25JMEFPNXNKZ29RZVJ3alJ2SXFzRGhYLUhMZXJ5Y2JnRjEydnZobUl4d2VmOUpJM1ItdUJpdUktOE5mV1U5N0lodnFBSDZabk1abm1tbVBYRGlBMEViZ0o1bThINmN2Uzlwal81cGJMRllFd1FTV0c5Y2NwcDlqWXZuM20?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T21:17:33Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d3bc368f2c827e78ee59f6",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T21:15:41Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "fdaeb449d71c3a189610d4",
-      "title": "American Strategic Investment Co. Announces Third Quarter 2026 Results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN0tBUE5seHlxYXRmR3RveWJFSlVTU05pbUlyaGlpN2JPMUdBVzBUdDZQdDB2bFp5elM5SFo3am56ZHRPTFVVMUw0LTB1Mzh2eEZfZXRTSVBfcFZNdk9QLWowWDhGX0p0Rm5LUTFNcHNsdDdkLW40QXAzQVlXa0VNbDVkXzNJUmdKdVB1MjBWSkRVU0o0Tk1GWlpwTEEzLWlhdjZ1dGEwSUVvcGdDel9FUU9GRWtLT045ZXJ1ZlJiZWFOVU9FWFE?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-13T21:15:38Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
