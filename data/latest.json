@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-14T15:39:34.524107Z",
+  "last_updated": "2026-11-14T16:23:52.589785Z",
   "articles": [
+    {
+      "id": "40d87506518e2eddff27ea",
+      "title": "Chinese modernization: New achievements, new opportunities for Asia-Pacific and the world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXZmdm9FbGUyYlI4bUc5RnJSTUVFY2lzUnQ1anktOUFCaEQ1aUZNaE5BWlozYmEyYThORGUwa1dsRURvMEFhY3hNZHotOUNRZVRTbUlyaDdZZHVpVS1sai01bmJWRzg5eDIzVTBWV3V5a1JTR2NXNnZaSktUNzJYSnh0Nzdtb0dlbmh2c2g2azhBVzh2UDBrc0RVSDNZWFdiUFoyNmJlVVMzMTAxYkIzYWw0SnM?oc=5",
+      "source": "Macau Business",
+      "published": "2026-11-14T16:19:45Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "33dceb2361b70d72473bce",
+      "title": "Fuel crisis and protests pressure Chile's far-right president",
+      "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+      "source": "NPR",
+      "published": "2026-11-14T16:05:12Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x5462+0+0/resize/8193x5462!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg"
+    },
+    {
+      "id": "a6227852c400a58b8da282",
+      "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+      "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+      "source": "The Guardian",
+      "published": "2026-11-14T16:00:48Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/91a65d8728a29fe09fb1706e308ff8c46b77c4d6/187_0_2954_2363/master/2954.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=0d5ee51907da916a6c959bf53cb530c5"
+    },
+    {
+      "id": "c680cb902e27912f7d6a61",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T15:53:55Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
+    },
+    {
+      "id": "43f46995ee098a26a06ad1",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T15:42:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg"
+    },
     {
       "id": "2300b7dd737bd280a08f20",
       "title": "Russia’s Special Economic Zones Take Off With US$45.8 Billion Of Investments & Plans To Expand Across BRICS",
@@ -292,7 +352,7 @@
     {
       "id": "ba94a2c3f1ae1f4f008acc",
       "title": "Microsoft says services fully restored after global outage hits governments",
-      "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service t",
+      "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that resulted in widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored s",
       "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
       "source": "The Guardian",
       "published": "2026-11-14T11:54:31Z",
@@ -300,6 +360,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=626aaab5d918cc8e4aa6f74a887744f0"
+    },
+    {
+      "id": "9fa33160a7cb433ced593e",
+      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
+      "source": "News24",
+      "published": "2026-11-14T11:39:39Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "a2de68f1b45f575a884f8a",
@@ -322,18 +394,6 @@
       "published": "2026-11-14T11:11:52Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9fa33160a7cb433ced593e",
-      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
-      "source": "News24",
-      "published": "2026-11-14T11:09:39Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -403,9 +463,21 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFRiYlBaakpRLTd3VzQxWGZXbGpxVXJ6MEpWRVZIVDN2aUxSc0s0YnNWUXl4MmFrWWdDNzlndEI5cERpT0xQRGlxTEd1ZTNpNTN5QjVZTnNvYk1HNEpDYW9nUGt5X21xZFRDQjdTWjNlamt6NW05eGdzeldMYkJUWjFkNXRSNW5LT2g0djBnLThjeDJ4R3U3X3NVUVEtWXc1WE4xUk5rd2NFaGl6bUhQNXhCZGExbjA4VklnZnY0MTFWNmRn?oc=5",
       "source": "Bioengineer.org",
-      "published": "2026-11-14T09:54:26Z",
+      "published": "2026-11-14T10:08:59Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "56fdce1b5aaca26974260e",
+      "title": "EuroCham Jordan President: Jordan-EU Investment Conference Marks Major Milestone in Kingdom’s Economic Trajectory",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXY5NFNReFYzcjliRmVmUHRaNDF1NnU5ajFBRm00ODMxSUR4aXFvNUNwelFQNmhzQWNidTZLeExuOUVQc3JCaXAtbEhXRmhrcmNMMHBjUVVPbnlWRVpqSEZ4VkNUUUwxaVNOUGtpNDlkeHBPY05PTWtSNGZ3WDhQNkg2MzVIMW0yb2V0THBKTmlpaDFiY0YzamdDLVRxeG5QRV83ZUZtSks2ak5DdXItQlZiWVBfZVBmcXRiQW5LbWlpQjBIRnVMNVpnSGxvSVVhR2dpQzhJMA?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "published": "2026-11-14T09:40:10Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -674,18 +746,6 @@
       "image": ""
     },
     {
-      "id": "c680cb902e27912f7d6a61",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T05:52:31Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
-    },
-    {
       "id": "872f1f82f61008f255d4d1",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "",
@@ -766,18 +826,6 @@
       "published": "2026-11-14T05:00:23Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4043755c1ae76f06f9fe84",
-      "title": "What is APEC and who will be there?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-14T04:32:42Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -1358,6 +1406,18 @@
       "image": ""
     },
     {
+      "id": "68b9ebb2aed2fd3a93b230",
+      "title": "2027 Global Economic Outlook for Canadian exporters",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzZ6dHFfUW5jbU5TWkItMVM2c0lWMUNvdDEyTlgwM0xMazVzZjJ6SWdYbWNCd2ozUW5oOU84VHNwS21HVHdvbEs0MWJFbk1HTDg3ZHNMTHFIMmlSU21xb2FRUW5JdXBzcjZmdVBEQWliZWhXaDY1Zm1aM0E3RjlsaVl0WUxFZG5WWXE1ZWtzcHdqQQ?oc=5",
+      "source": "Export Development Canada (EDC)",
+      "published": "2026-11-13T20:17:15Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6352232812b3ea4a981969",
       "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
       "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-13T20:04:00Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c195611169542d126d4d05",
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-13T19:53:57Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
-    },
-    {
-      "id": "50ed42af2146ca4cb51603",
-      "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-      "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questi",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-      "source": "The Guardian",
-      "published": "2026-11-13T19:51:28Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cfc91551ec81a92db228675af0c6ab1"
-    },
-    {
-      "id": "b96c8f1ce3eaba55d8f9d7",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T19:37:57Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829"
-    },
-    {
-      "id": "14ac24f435977a2fdabd46",
-      "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVdxZVJOWE9WMFlTd3k2OVQ4RDVvUUI4NFk2TjJOMkNJc3Y4TGphb1JfY3lCTnRxQW1lRHdBd2NwelVrUVFYYV9xVks4dFdWOThnWnpBR0tXSWRZQWsyeWk3WndnaThDY3FIY292T2pCeFpVS1BKa2tyWmpFdUN6N0xkYk4tVkxtVWY4Vm5QSURmbnA2Unc5TmFKT3daQ0VySmhoSHhIZUpPS1Z3N1dUYVpUd1lFWnZTUVg3cTBLZzc0clXSAcgBQVVfeXFMTk1objdHMmRGSV9ibWdjTk40N2FvTDJ0YXZyMXdTaFdKU0lIYnRZUEFNVjdKUnN0Y2plU1REZGVFSHVKR2J0aW5Gdmp4bFJHS2g5cXpEUmt1c1UydzNkZ1JlLTJ3WVpYbkxpVVl4QlQxd0lRVnMyd2t1OWlybC1UY19kMnF3TFJ6eUotMTExM29yeGkwRjN0UzdKRUItV3k5dFBITkpfUFhxdjZmWE43R25IM3hmRFVQbTRSeFpubjBWOTRPQ3ZvSTc?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-13T19:30:36Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "93db28ea59060bd807504b",
-      "title": "Middle East's third-largest economy offers $3,500 and free flights to migrants from all African countries, including Ethiopia and South Africa, to leave by December 31",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZzVkVHN0Y2x0QWNQalhDYW42NGEwU3lTUzJpNGJsekhvWUtSdE12dzhRdlQzMW1tNlpKODdnclBBQVktNGFwWXFZY3dHM1VvWVpRbmpGelVpUU1GV1VCY1NpdmVpeTNpdDk1cXU2Tjk3QU1DX1pXdHVtaExIMXZFT1NkaTBPc25TNl82OVZlSnlxdGFBOVAxTFJLVzF5TFFjVGlEVUF2bkpaU2tiZGxTa0ZmMUtObUhxQVVFMllCVWpnMjZMYWNyMUJkOXVsWUwtVnFrMQ?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-11-13T19:30:09Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
