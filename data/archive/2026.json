@@ -1,5 +1,29 @@
 [
   {
+    "id": "96048276e5de0ccf8cbe79",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "source": "The Verge",
+    "published": "2026-11-13T23:49:11Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2eafa4b1bb39d8eb3ba1db",
+    "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-13T23:40:45Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+  },
+  {
     "id": "cbd17a9775293249e6fe28",
     "title": "Africa’s SME Boom Has Potential To Drive Investment From Global Software Solutions Providers",
     "summary": "",
@@ -1272,6 +1296,18 @@
     "image": ""
   },
   {
+    "id": "d7342ff334d7257f14d5b2",
+    "title": "How US tech pain is European stock markets' gain",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGtuN09FX3ZyT3pNSjFXTnpnUVJpSHdJTUd1T1ZxZjJ6dTY5RHhDMER4ejUyLThSc0FVYzNabFlkaTdVLVlNYVJpRWlrekxvQjM5UXB6SjlZRktuNlYzTk96elNWR1lhYkpJMm53LTZsdHdvdHlhSFhNYW1EX0JmdWNhTUxWNldGMEV3cmhYRHNTT3A1NmdhSVJYQXV5dHVHWG1TLUdTTHk5SHVKWjJpY3I5eVNsVnlQa1lmVmJrNkZ4OHhGOGVwN2hiNktrQ1RDbnEyQUQ4WGwtV1F4ejhoM0t5ZjE2Vk5xX2dwRjd3WUpSa1l6RkJWNmJ0MGlqTy11UFEzWlJhMHowY2VOUnJMYlprMGJ1eGh5eWd2ZmNsODJ6bGtfTFRzNkxBTQ?oc=5",
+    "source": "The Economic Times",
+    "published": "2026-11-13T12:49:44Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6c41593b576c3b0795c4e7",
     "title": "Microsoft&#8217;s massive Outlook outage continues",
     "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]",
@@ -1604,6 +1640,18 @@
     "published": "2026-11-13T11:43:09Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c22f121f71585ae2b46d2f",
+    "title": "Translated Releases Lara Mini, a 45-Language Research Model",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlhpek92eEJ5YjkzY0U3eXFNU0JGVzhtOTlHanF2eURNTTNvaTNxajJXcW96bVRRU1JucS1PYmhVdlJlRGxPNlJIT2c3TWZVV0FmTzVENTBsdWFnZFRYaTZMTmF2Y2lHeWU2X1BaWjNPbEtxTjNXV0UzZUVGMzk3TzlHVklYQXc?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-13T11:42:02Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -6802,6 +6850,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+  },
+  {
+    "id": "10ae8faec32f3fe59b7cda",
+    "title": "Story of US 2026 midterm elections in maps and charts",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5",
+    "source": "BBC",
+    "published": "2026-11-11T23:36:52Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "c80b16c4f3bf86c6aa9f5e",

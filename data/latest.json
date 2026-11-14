@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-13T23:42:51.632961Z",
+  "last_updated": "2026-11-14T00:25:21.773243Z",
   "articles": [
+    {
+      "id": "27fee21f2e3085279f72bf",
+      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delayi",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "source": "The Guardian",
+      "published": "2026-11-14T00:09:06Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e92a5ed37c42d2d0b970a61508f1aff9"
+    },
+    {
+      "id": "8573d9e8e576a4ad47319d",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T00:01:01Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg"
+    },
+    {
+      "id": "96048276e5de0ccf8cbe79",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "published": "2026-11-13T23:49:11Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "15ee692dbf097aa23a89d0",
+      "title": "FAA ground stop shuts down flights nationwide",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "published": "2026-11-13T23:47:27Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "2eafa4b1bb39d8eb3ba1db",
+      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-13T23:40:45Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+    },
     {
       "id": "cbd17a9775293249e6fe28",
       "title": "Africa’s SME Boom Has Potential To Drive Investment From Global Software Solutions Providers",
@@ -12,18 +72,6 @@
       "topic": "Africa",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "27fee21f2e3085279f72bf",
-      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delayi",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-      "source": "The Guardian",
-      "published": "2026-11-13T23:01:06Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50ff1802933d426c2d03bbd9365229fa"
     },
     {
       "id": "85d2c8f22be4b080a197fe",
@@ -108,18 +156,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800"
-    },
-    {
-      "id": "15ee692dbf097aa23a89d0",
-      "title": "FAA ground stop shuts down flights nationwide",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "published": "2026-11-13T21:38:25Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "5cd08b18e21f201ffbe41e",
@@ -252,18 +288,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "8573d9e8e576a4ad47319d",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T20:12:02Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg"
     },
     {
       "id": "6352232812b3ea4a981969",
@@ -1350,7 +1374,7 @@
       "title": "South Africa Needs $75 Billion a Year to Spur Growth, Maree Says",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVZFRnpsVVp5dUJxVm5fQl9CNGsweXhKLWdsOHNzRGwyaXlMTVRUNmRGa1lNaWRxNTVsZHZmUjUxdHNMNUMwY1MzQUNLMGFna3ZGVW1sTGNERUhYV1VZdkQ2eklnbnF0RzZuSjhiMGxHOU82ZkNvVnlTemJpWGNyVjllLWhqTHVfMmtnTzh4MmhvQXVNVEVHbjBqMUowdUphOWNyYXFNTHRYTFJERW9zY1BLdw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published": "2026-11-13T13:01:27Z",
       "category": "World",
       "topic": "Africa",
@@ -1406,36 +1430,12 @@
       "image": ""
     },
     {
-      "id": "dfa6f602153346426f2ee5",
-      "title": "How US Tech Turmoil Benefits European Stock Markets | Finance Analysis",
+      "id": "d7342ff334d7257f14d5b2",
+      "title": "How US tech pain is European stock markets' gain",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkZGUzIxQmw4bUZjU0tUcjVoVjN1YXV1WUw1ektfaEJNLWV0LTlUZ3M5UXdiWWNzWDdlMHljQXFiVkZGaDBlOV9CTjEzSnU2Y3pvVzVUNVVnVVRtcUxyamktZWtwdUhIX2I3VkRIdE1vRUQ3Wl9fS0ZRRElDelJuWDVmSVF1MEtqMi0zWUJ2aWZYSnFkVFNPRFdR?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T12:46:20Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5cf6869232a42bdc08418a",
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-13T12:46:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "209c36a2b1d2fd49685707",
-      "title": "How does Cyprus’ economic growth compare with other European countries?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXRfaUdTaldCdy1idVlTZGVNU2QtTno3SzgxS3dFMnhIRlJ1TlRZS29Cekc1d0RtbEhhRUdkNHA2c3F6bmF0OFNCdHNmRXlJZWRFSjdPRXFmMVZ3eUdPQUMwZlhuTEJtS05kRXE0OTNoWHJaendIVXppdVZVR1JpQjQ0V3htaWZkM3pSOUtLX0dLUmJEVThmRHl2dEZHSDdyTlI2LUwzWQ?oc=5",
-      "source": "Cyprus Mail",
-      "published": "2026-11-13T12:43:44Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGtuN09FX3ZyT3pNSjFXTnpnUVJpSHdJTUd1T1ZxZjJ6dTY5RHhDMER4ejUyLThSc0FVYzNabFlkaTdVLVlNYVJpRWlrekxvQjM5UXB6SjlZRktuNlYzTk96elNWR1lhYkpJMm53LTZsdHdvdHlhSFhNYW1EX0JmdWNhTUxWNldGMEV3cmhYRHNTT3A1NmdhSVJYQXV5dHVHWG1TLUdTTHk5SHVKWjJpY3I5eVNsVnlQa1lmVmJrNkZ4OHhGOGVwN2hiNktrQ1RDbnEyQUQ4WGwtV1F4ejhoM0t5ZjE2Vk5xX2dwRjd3WUpSa1l6RkJWNmJ0MGlqTy11UFEzWlJhMHowY2VOUnJMYlprMGJ1eGh5eWd2ZmNsODJ6bGtfTFRzNkxBTQ?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-13T12:49:44Z",
       "category": "World",
       "topic": "Europe",
       "country": "",
