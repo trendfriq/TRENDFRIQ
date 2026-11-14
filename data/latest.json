@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-14T01:42:34.959784Z",
+  "last_updated": "2026-11-14T02:33:17.951826Z",
   "articles": [
+    {
+      "id": "27fee21f2e3085279f72bf",
+      "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+      "summary": "Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identified FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) has lifted a nationwide ground stop that was declared Friday afternoon, delaying or canceling more than 11,000 US flights, according to aviation tracker FlightAware , an",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "source": "The Guardian",
+      "published": "2026-11-14T02:15:53Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e92a5ed37c42d2d0b970a61508f1aff9"
+    },
+    {
+      "id": "15ee692dbf097aa23a89d0",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage [&#8230;]",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "published": "2026-11-14T01:53:04Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3476fc1be3a8561e5e4b56",
+      "title": "Five features of APEC to know about with Trump, Putin and Xi set to attend",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0ZWM29GM3F1WThnOUZOTzRYcFpJekpZWk5XeHRFS3N4UzZ0R1RIX241WlZqVnRJeDhtbVpvOTI1OENXclBYbnAxMXdXR0xBclpUSDc5MmIzOW1oblMzRElmeHJ2V0FDZ1Z6MVFYS2hkN2xINGNCeHh1dXhIWWlKb3o2di0yVjZrcmhzZGVrNHQ1d2czWWVYYjEyb0Jsa0s3dlN6andNdWFxWnZ3?oc=5",
+      "source": "Awani International",
+      "published": "2026-11-14T01:34:53Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "061d7dc0ac787abc16ed55",
+      "title": "Goldman Sachs 2027 Outlook: Global GDP Seen at 2.8%, AI Capex to Hit $1.8 Trillion, but Three Major Risks Loom",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14WUhzd05ScjU2YmQ1S196N2hvS0pOOW1uMjIwczUwS2VaalVxNEV4VFc1eElEb3N1NDhPNmhETmVCdy1SdFNwTkN6X2k5Mmg0dFdTUTIzRkk5M2x5d3hFUWZlNEdIeDM2U3oteTFGOXRYckgxNFE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-14T01:28:43Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "08deef0bb153c5848fae84",
       "title": "What we know about Chinese businesswoman Alice Huang",
@@ -12,18 +60,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "27fee21f2e3085279f72bf",
-      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) issued a nationwide ground stop for all flights in the US on Friday, delaying or canceling more than 11,000 US flights, according to avi",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-      "source": "The Guardian",
-      "published": "2026-11-14T01:01:12Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e92a5ed37c42d2d0b970a61508f1aff9"
     },
     {
       "id": "fd3e23363a1f425e0786b7",
@@ -122,18 +158,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "15ee692dbf097aa23a89d0",
-      "title": "FAA ground stop shuts down flights nationwide",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "published": "2026-11-13T23:47:27Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "id": "2eafa4b1bb39d8eb3ba1db",
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
@@ -144,6 +168,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+    },
+    {
+      "id": "5cff1902a0ab7f47e8634e",
+      "title": "3 US Bank Stocks With Prime Brokerage Exposure to AI Funding Risk",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmwxMFZ0TmFOVFpPNHhTVkhidTU3NFE4dEIta0tYWFFpS3BxTGZDMlVmb0k1TUwwaUZHV3liS2d3Mlk4ME5wdXlSNlZMZ25QVkVrZFlidFNsU1M0V3F0eDVXN3IwWkNkQXJPLUYwU3BRQU16S19iV1pYZHYzN2JXaDhiWWJoWjd1STJEZ0h2eVA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T23:15:24Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "cbd17a9775293249e6fe28",
@@ -1400,42 +1436,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGlpWEZDaFZza1lGbFc3eE9PUVhzNV9PZTd0RFVNMm9tZEJwSnFlN0FfNUFHNE5WRjF0NzZZYmt3a1BJeHdTQU5oQUEySUZ2UHlWYUYySXE3YXFVeW9NUE5KVXpERWpIemdSczVOckFTRGtsclN4WnFwTUQ1ejJxOFUzVl9PTTV1SVBIUVRncV9XLTR4RXhmak9SdGU1bl9MUnFjTTU3LXNISjFmbkktVg?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-11-13T13:15:12Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "174ccefce2dd06c7289ee6",
-      "title": "Cineverse Reports Second Quarter Fiscal Year 2027 Results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTI5UHotWVYyYWF6VG1yc1ZoZkFrbmZIVXB0VTJpclBMSzRQOHNTUzNsS2c1TDlPN0lwb1NxVmNsVWp2WE16akVabnNxbnB6TVJ2TVlLQkdvSlRFSmtEVWk2SGxlRFNzdktFQkVNRC1fRFprWFBJaVpEbnlHMEdRcWctOUZ3NVB5djdQcWdDRjFvcDhMQjJ0T1JxWjV3ZmktWjZWb1JZVHpISVIySHpLRGgtSQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-13T13:15:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e07075646185056fe2eee5",
-      "title": "Cineverse Reports Second Quarter Fiscal Year 2027 Results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXBoLXROLXljSEVmMmMxNmpRd1g0dGdpaUVMTVgzMW9lWWliRFZNbHRLYmg0Z2JlY0JLdm9rQnVQeW5JVFlxQlpoYjJSeFg5bS13bTNHTkRaOERxWk9QTmNEY2cxUUhFQnh0Sm5IUGpTc2pxci1OQ1RpT1ZrQjdrWkw5NTFRQXc1SFNGd05SaE1icnZTRl9JLVAzZkl0NlQ1aGVYOUY3ZVVrd1BHZFBOdjJhdjJrb3NTdUE?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-13T13:15:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7fecca5e7158368c4be6ce",
-      "title": "The Market Is Mispricing Resilience",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xVWEzOUx4SE5oNzZKTXgxTExDbGI0ejhKZF90Y0VJVnN3dlJBQmwxMVo3ZXhBbndEQWJFN2xKZExMSGZETjNTVXhyd1JYblVPczNzYnZwbmNvaGtCOWhyb1BLMk1YM1BUVVNn?oc=5",
-      "source": "Harvard Business Review",
-      "published": "2026-11-13T13:14:58Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
