@@ -1,5 +1,41 @@
 [
   {
+    "id": "22f849a8a999828818dbbf",
+    "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+    "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-14T22:09:40Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "id": "c319b12e1cc2fac305d4cf",
+    "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+    "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8",
+    "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "source": "The Verge",
+    "published": "2026-11-14T21:44:44Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e86112d5f8734949cf9917",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "source": "TechCrunch",
+    "published": "2026-11-14T21:41:22Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
+  },
+  {
     "id": "0cb4cb3846d618c386b023",
     "title": "Opinion | Amid the Xi-Trump clamour, can Apec revive the business of cooperation?",
     "summary": "",
@@ -8,6 +44,18 @@
     "published": "2026-11-14T21:30:08Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e89aebbd20d358765c1115",
+    "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
+    "source": "Britannica",
+    "published": "2026-11-14T20:57:52Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -1518,6 +1566,18 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0l6azQyZFF0dWM1TUJvTEMyak85ei05LTU3ZEZ3VC13ZVVocElSZEp2OU9fNXlGQmJwLXU5bEZHazhVcDBnUlZpdGdEeGhnOGRFMndYQ0RmdFBNSmF6VVRBcGx3VDJJdWY5ZlYwU05ONFE3aDI1UUMyajRaX1daTUtReWNpNXFjSlEwazRwNmZTcTlfTWxVRktRbVVaUXFMNlcxTExacGJ3cnJNUEttTTBxV1loamx1SENaZ3ZmSks?oc=5",
     "source": "The Washington Post",
     "published": "2026-11-13T21:02:43Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "67caa13a495dada6f27d65",
+    "title": "European shares end best week since June as strong earnings lift sentiment | Gulf Times",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjFTSDRKYXd1RDJUeDFOa3BWdTJSNDdTUVJvaTl3dHliVzk4a05WX3BreXdDM0NRMFlJLS1VOE9tREZpVEUxeUhXX2kyaDBybmI3MGp1OFlRLWYyUlA2REFfTXYzb1B4NVhRU3Q5QWlxWktRYnJWYWlQWGtQT1pHX0hTcG9iMDNfSXNNbEpWZnVUSzU4ZUtzaVYyWHE3QTI4Sk5OanQ0ckRfd3cyM25objRuRHhoMlZjekEwV0tYbk9UN1nSAcgBQVVfeXFMT2tDVlRDMFlOMkYzaXMyXzZ1Vktkc2Q1VkRtUlBvay1CaGtTT01MeTd1VFhXM25wamdtUXpGczM5Rks2UnFQazg3UG5mbHcwQ2FPVHZNRGQzWmtFQXRlVkU4SERkQ1RBRGNJUV9ub04yMVVubDE2Zkxaa2d5ejNJSHRDb2NKeWdIUFFVM2JGRnl3YkUyc1lBbHFZTFZ1U0lIbHVLNXdpQVBUVnlrd2RVVklpOVJDRHpMak00Nkp5Q3pkVFMycTV5c0w?oc=5",
+    "source": "Gulf Times",
+    "published": "2026-11-13T21:00:00Z",
     "category": "World",
     "topic": "Middle East",
     "country": "",
@@ -7482,6 +7542,18 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjc1ZHRjSlp2bmc3RGpjQVZad1I1cmdvOWxNYUJwRU13SmhXaHdQUW9Dd1hXTmxOQ1BGNGg3anN4UlpsWGxfZktEc3hESXRDR1BMVkN2RmJhSVpDMmRfM1I1MHlpdGNCRnFqMmN5c2JaVWxCWGZEckl0YllKOEJuMWJDSWQ?oc=5",
     "source": "The Economist",
     "published": "2026-11-12T09:54:50Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2b9bc02c14805c1430002e",
+    "title": "Why investors are betting on the UAE capital markets",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLW94UEpLNlU5UFEwTzRVOEY0SUYyVnJxVGZGZVNDUmlxMnB0TkM1QVRhMFNyTEdZcVBwdEVSQW1wbTU4UjVSRklZelVhMTFUQnBOalVWNm5DN2Y3Ti05U3ZweXBHZDVKdTBFaVEzakExWVpYQnFFa3lfTjJYc2JGRllfcVBiZEdLc0VvLUducw?oc=5",
+    "source": "Fast Company Middle East",
+    "published": "2026-11-12T09:51:19Z",
     "category": "World",
     "topic": "Middle East",
     "country": "",

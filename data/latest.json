@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-14T21:37:57.826081Z",
+  "last_updated": "2026-11-14T22:21:32.450966Z",
   "articles": [
+    {
+      "id": "22f849a8a999828818dbbf",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T22:09:40Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "c319b12e1cc2fac305d4cf",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "The Verge",
+      "published": "2026-11-14T21:44:44Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "e86112d5f8734949cf9917",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T21:41:22Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
+    },
     {
       "id": "0cb4cb3846d618c386b023",
       "title": "Opinion | Amid the Xi-Trump clamour, can Apec revive the business of cooperation?",
@@ -24,6 +60,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "e89aebbd20d358765c1115",
+      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-14T20:57:52Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
     },
     {
       "id": "3289f99661e3da99a8e2cf",
@@ -631,7 +679,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
       "source": "News24",
-      "published": "2026-11-14T11:50:45Z",
+      "published": "2026-11-14T11:39:39Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -1390,54 +1438,6 @@
       "published": "2026-11-13T23:44:00Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2eafa4b1bb39d8eb3ba1db",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T23:40:45Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
-    },
-    {
-      "id": "9de4c5255cd3777163b75c",
-      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-13T23:30:55Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5cff1902a0ab7f47e8634e",
-      "title": "3 US Bank Stocks With Prime Brokerage Exposure to AI Funding Risk",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmwxMFZ0TmFOVFpPNHhTVkhidTU3NFE4dEIta0tYWFFpS3BxTGZDMlVmb0k1TUwwaUZHV3liS2d3Mlk4ME5wdXlSNlZMZ25QVkVrZFlidFNsU1M0V3F0eDVXN3IwWkNkQXJPLUYwU3BRQU16S19iV1pYZHYzN2JXaDhiWWJoWjd1STJEZ0h2eVA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-13T23:15:24Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cbd17a9775293249e6fe28",
-      "title": "Africa’s SME Boom Has Potential To Drive Investment From Global Software Solutions Providers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeldLOE5NSTJMU3dHZkFhN3pDZzF0ODVxNnh4ZTlIZFFKZThlQ2tmYjQ3dEJoSlp6d0ZiTHVjMFZNb2Y3VVZjNWNNd1l5ZXZoSGFOeWMxNFJ6TEVJWkttdXMycGE3WXB1WGZEWkd5czlEOXJUVnZIb2V0QV9lanhjWVpjRDlIQWRRSmlsQ3NwRHltblVYX0JLS2JXOXE5ZGJHTzRaRU0zQ0Mxb0h1cW9LRTQyTjZ1a3pjME1sRHFkbWY2SVY1QWMyaTlRTFJkaVVmX0tYa21jenk?oc=5",
-      "source": "Forbes Africa",
-      "published": "2026-11-13T23:03:58Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
