@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T02:33:17.951826Z",
+  "last_updated": "2026-11-14T03:25:30.040249Z",
   "articles": [
     {
       "id": "27fee21f2e3085279f72bf",
@@ -12,6 +12,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e92a5ed37c42d2d0b970a61508f1aff9"
+    },
+    {
+      "id": "872f1f82f61008f255d4d1",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+      "source": "BBC",
+      "published": "2026-11-14T02:05:55Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "15ee692dbf097aa23a89d0",
@@ -302,6 +314,18 @@
       "image": ""
     },
     {
+      "id": "fd7fc5fa89a890de3195d8",
+      "title": "Supercom falls 22.74% on Thursday to close at USD 6.66",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTno2U3ZzdmUwcWt5V1Fpc1ZSWjVQaUIzQXQ5ZzFvaGgzUkRuQ3JWTGQxai1rSHpCYVE3bWRkbERkLWp6RTRGbnRJRTB0b0lEZHZSbThqd1puYm5CbXZfemxYbklpQVF5TS1VRWtIYVhSbDBYVkdtVlc0Z2d4RzY0aGhyQjJjRk8tS2p1WGN2bElSTDIwZ3BYN2VJVHpFM3pFOWl3aXBCOGhzckRv?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-13T21:22:08Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ce1ed03ca512fcf351396f",
       "title": "Astrotech submitted a NASA proposal to power sites at the moon’s poles; funding isn’t assured.",
       "summary": "",
@@ -339,7 +363,7 @@
     },
     {
       "id": "334ebcca23065263348a08",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -408,6 +432,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5cf6869232a42bdc08418a",
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-13T20:18:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "6352232812b3ea4a981969",
@@ -1402,42 +1438,6 @@
       "published": "2026-11-13T13:38:49Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a6d80f67cb4628f9a546ab",
-      "title": "Governor highlights technology, innovation and startups as key to Nagaland's youth empowerment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXd5dkpIZzNTcGlFcUd2VDV2MHNxb2R3UlVtQTFjZEFsVzBMX0F2WVJoaFlxeVJHQ1VIbWl5YW9YU2F4R3JMdVl3LVZpTkxDQS1QcEt5eTEzM05NMjlFdk1MWnBtQ3lCR3RneHJJN0QyWWRLcjczQnUxM2NOd0k4eE9TQV9jZ1daNHhmY1Y0eGNtWGF4NmZIRFRKZzV5XzVmZWRvRTJqMDZsOC12ckRtZDQxM2ctVWFLeUY4TQ?oc=5",
-      "source": "Nagaland Tribune",
-      "published": "2026-11-13T13:29:21Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b76b23e0ccaa5252f31ff5",
-      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T13:15:20Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894"
-    },
-    {
-      "id": "e3053264bbcd7b781233f5",
-      "title": "Interpreting Qiagen (QGEN) International Revenue Trends",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGlpWEZDaFZza1lGbFc3eE9PUVhzNV9PZTd0RFVNMm9tZEJwSnFlN0FfNUFHNE5WRjF0NzZZYmt3a1BJeHdTQU5oQUEySUZ2UHlWYUYySXE3YXFVeW9NUE5KVXpERWpIemdSczVOckFTRGtsclN4WnFwTUQ1ejJxOFUzVl9PTTV1SVBIUVRncV9XLTR4RXhmak9SdGU1bl9MUnFjTTU3LXNISjFmbkktVg?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-13T13:15:12Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }
