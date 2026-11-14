@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-14T20:12:54.648036Z",
+  "last_updated": "2026-11-14T20:57:19.572212Z",
   "articles": [
+    {
+      "id": "4d3f357daa8cc28fb3231d",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T20:41:45Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+    },
     {
       "id": "9e314a8f744ef711f0fd58",
       "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
@@ -24,18 +36,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "4d3f357daa8cc28fb3231d",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T19:21:10Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "1e4c1fc5abc49ad27fd21b",
@@ -655,7 +655,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUVPQVhmcXdMVEhFZVY3b3BjNlZwMmlaTW4xSDZGRnc4M3lHcjBWZlZRMXhzMTUzd2pnRVZDdjFiVGxmOE50SjV4LWhzOVBYS0NuNm9MdG05aDdwOFpSLXJPbWVnNjBjTkNNNEJTd3pRTjlqYzVQaTlDMmJuaU1tRHRsVi1OSWFfOWhlMVR6NGNtLTE3ZHBiRzVRdUtCcUJiWkNV?oc=5",
       "source": "DW.com",
-      "published": "2026-11-14T10:48:46Z",
+      "published": "2026-11-14T10:48:47Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
