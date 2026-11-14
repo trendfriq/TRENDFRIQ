@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-14T11:39:24.292282Z",
+  "last_updated": "2026-11-14T12:23:59.806574Z",
   "articles": [
+    {
+      "id": "f291af5968b03f3b253ac5",
+      "title": "MSC Nears Acquisition of Majority Stake in German Shipyard Meyer Werft",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzl0c0RnODFyMk5CQm1BaWctbkczdk80aGJOdlh2YzBBa3FTbTRvOWJENUZmN1g5RlFRamhibkdsZk92ZUl4aEFqWkYxalJ5NExfX3lmUGotd0V1WkFiQzN4X0V5SmFsRGQ2MEgwVTdwUERiQVFEYmo3MUNVcmNRM1dEYW9LaUpRcXdtZERJVndZRkdaQXdmR0M3NnU?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-14T12:21:23Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d99b47952cb8473b006a5c",
+      "title": "Interest rate rises likely in coming months, Bank of England economist says",
+      "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who wil",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "source": "The Guardian",
+      "published": "2026-11-14T12:05:52Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22bf4369f273b4ac3f8d5e1f7019ad04"
+    },
+    {
+      "id": "f88fcfa12fe4eda6caa6d4",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that [&#8230;]",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "published": "2026-11-14T12:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "4d3f357daa8cc28fb3231d",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T11:41:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "e2e5186f0a6ca736cbb56e",
+      "title": "Wall Street Snaps Weekly Losing Streak As Airline Index Falls 1.4%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkp0Z1dldmFDemRxOHFPWjhITlJkWGY3QVltZTdGckNyQnlkNjRJU1cwd3J6emNSSnk2cTQyNEhSUUxqMS1QN1hZX2o3X1JPVGZKdDRLTlRZa1lKTXFtUlY3NGJYWGdDbkVJa0VBdW9UblNocnBwdThMTW9uRzBoY0Z1SjJNY0gzbFE2U3RmQk5JYnYxM1dvQ1BvZk12dXd2YXhHLTBIQno5czZwamVNMQ?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-14T11:11:52Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "558c9ed08e2ef8399319d4",
       "title": "Could Huang’s affairs jeopardize America’s global economic dominance?",
@@ -60,18 +120,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
-    },
-    {
-      "id": "4d3f357daa8cc28fb3231d",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T10:30:38Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "2fbdc51e83ca02cc8eeae2",
@@ -331,7 +379,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVl9JcEU4dFY1MFVaak1kTlQ0bU9lcEtzTnM2cDRhbk5iRllXdFlXQUJna1NDVEFvbXVDbHZJNVd3OXlzWUtsLVV2Y3E4Q0pSbDZ4N1ZnQ1Raemk4LTNXbWdMMnRZOXB5eHBoX1VqNmd1OVotTmtSekIzOWxuMkx1ZmpOR0EyQnRJLUdXa2xNMXc3TG9CR1FURFJn?oc=5",
       "source": "Global Cosmetics News",
-      "published": "2026-11-14T06:02:31Z",
+      "published": "2026-11-14T06:03:28Z",
       "category": "Brands",
       "topic": "Brands & business",
       "country": "",
@@ -1094,6 +1142,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "54274df0ec72b7ef06a822",
+      "title": "Middle East NOC oil and gas strategies beyond the crisis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVVNdEtFM2d0YmNuWHZaaDF3dUxQLTlvUlNaYUVsQ1VqbkJFOXhGcFJDQkxvTVgyS0duS0RpSXRRME51R2Zid19vQjJ6cEVtbFhoQTcwcHJBS1k1ckR2TGhNRnIwY2Q4R1RiT0REQ0VVcE1aOXc0ajZUdmZ4blVZV0x3bTNUejR0MTg5VzYtZTZ2NW1mUUVXeHJQQlc?oc=5",
+      "source": "Wood Mackenzie",
+      "published": "2026-11-13T19:06:02Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ab9ad422964dc7e547229b",
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
@@ -1380,66 +1440,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "17f616ec71adfcbc5f9467",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "source": "The Verge",
-      "published": "2026-11-13T17:12:56Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "e5ec521ed451c6e1e14ec1",
-      "title": "Secretary of State Sarai highlights the Productivity Mega Deduction in Budget 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTdCT1NNRWlyMVFyVl9zX1NBMlpsb3p6ckgxMjhiMVBjNWdaVFFfcVp0a0IycjczdnMxNTlQdXluNU9jS2NuaDNud1BsWXR4dGFsTzZYanRHTnBJVThUTnJQRVgwZThYV3lYZWpDUVhZQU5yVE1OanNmVFViekttdlRxNnYzRVZGYm9uejZENVM1VGllenJNNWk3WEpoX2lncTJra1FYWDNOWFdpcnFpQ2RUOE5HOHFibXBWanNsQWs3SUZZdXFEVExXUnk5ZFU5cmlfYVp6cw?oc=5",
-      "source": "Canada.ca",
-      "published": "2026-11-13T17:12:09Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "417990100e07db47dc33c7",
-      "title": "How US tech pain is European stock markets' gain",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-13T17:03:44Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a81d04f4cec3194166ceeb",
-      "title": "CMA CGM Profit Rises on Strong Demand and High Freight Rates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcG9ha0lmMnZrU2dZMUs2Y1FaTmVzMWNHN0RiWU01UzZVYVQ1a2s5OU9IcENxem5JcnlXbXpKUFB4bGFnTl9qTzVyTzFhazV0MDkwc1l3V0wwVjh3ZFJsbElHRnltV1VrY0h2eUY1VlNmUENSRVpjSHBHWTE2RGJOTldQa0xxaUZDdm1wSENETXZzRlRoRDhoUmhWcktqRUxvM1FN?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-13T17:01:22Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "28efe7b8e0b347ab559bae",
-      "title": "The new Apple TV has a YouTube problem",
-      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In [&#8230;]",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "source": "The Verge",
-      "published": "2026-11-13T16:55:57Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
