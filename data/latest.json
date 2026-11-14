@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-14T13:29:22.607087Z",
+  "last_updated": "2026-11-14T14:20:26.269123Z",
   "articles": [
+    {
+      "id": "8573d9e8e576a4ad47319d",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-14T14:18:41Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd7/live/f933dc10-e035-11f1-9ca9-b3b288fceb81.jpg"
+    },
+    {
+      "id": "6d4a210acc8c365baa3ce1",
+      "title": "Africa's richest country needs $75 billion in annual investment to revive economic growth as infrastructure gaps and power shortages continue to weigh on the economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1pRejdKS21tOVZEMVdhWTk2QjZiN0hLYjFLNVF3WWNPU3BaOWpfSlRPcnN2bDdFeG5pXzFvMTVtZ3F3UnJFbm1BbmtzdklrRUJkWlN5OVJHTlpVTVhxcHR6MDBOeTBQaFRnVExZMEtmU3dacFk0UjZYSkVuSWY3OEh6aVY5cDZPVUZRMzZUTEpGdDJDcm1WMEpXUnR3Nkd4ellmR3h2TG05VGROeGRiLXVpLXJ2bUtYQmFHbnk2X3l4MURtQ0pYR1FnM0gyZnc?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-14T14:05:20Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b1617313054c13645beb50",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. [&#8230;]",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-14T14:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "c40ff9f16dedf814b3aa46",
       "title": "Asia Pacific airlines seek govt support to mitigate cost pressures",
@@ -146,6 +182,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "id": "9fa33160a7cb433ced593e",
+      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
+      "source": "News24",
+      "published": "2026-11-14T11:39:39Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a2de68f1b45f575a884f8a",
       "title": "French Tech Leaders Push Digital Sovereignty at Francotech",
       "summary": "",
@@ -178,18 +226,6 @@
       "published": "2026-11-14T11:05:00Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9fa33160a7cb433ced593e",
-      "title": "Jacko Maree: SA needs R1.2trn per year more to spur growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
-      "source": "News24",
-      "published": "2026-11-14T11:00:55Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -382,6 +418,18 @@
       "published": "2026-11-14T07:10:00Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c09707ba3ff88b6a1a1278",
+      "title": "With shifting Iran rhetoric, Trump leaves W Asia in limbo about path ahead",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR205dXdDakptZjM5VlI0aGh0QURHREhyclY2WmRFNHRGVWVHNXlrQkRBQlo0cmhyc2dVWXpvSXVVZnFIMlRiTTNrZ01OZDlRSnNtMHpCYmppU25GaVpBeGhGeUYxNkFRd0ZfVmtaeGJKUDdQT2ktWWlOd1BUQTJ5VGFiNUxsd3cxcGl5Sm5wQXNVVktyQUZicmRHaHRadWFZWGF5T1BuRjdia2F3M0IyRkVLTDB6a0xCVUYtbWw1TGhVUGJIcW9CSUMwRFNaWlNDdnp2StIB2gFBVV95cUxQUU9QY1hsdmdfS3ZrMnloRTE2SUNYbjN2Y3FEM2dxT0ZkUk1SX015ZllidHNBa1ItM1gwTk5RSVp2TjBsSUtLR3hPN3pPdFF1YkppTXNUU1hjdFphclloREZnWnk3TmlrZDBNTjlYZVpqQmdOY01MYXVhOEN6dDhIQVczOGdVb213NkFySW80djhtVDlxOXV1dUk3VkVjRUpSOVFJWHFsUzdtX0pmelJsclR0YXUtRDhicHZOZ1ZWd3V0UlMxem5EY0ZrNmRMM3FkSUN5c0NmMmtwdw?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-14T06:57:25Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -664,7 +712,7 @@
     {
       "id": "bc4fc00955f7d88d7c0342",
       "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-      "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The US Federal Aviation Administration’s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo. At New York’s John F Kennedy a",
+      "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo. At New York’s John ",
       "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
       "source": "The Guardian",
       "published": "2026-11-14T02:49:59Z",
@@ -830,18 +878,6 @@
       "image": ""
     },
     {
-      "id": "8573d9e8e576a4ad47319d",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T00:01:01Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg"
-    },
-    {
       "id": "96048276e5de0ccf8cbe79",
       "title": "Amazon has a plan to index the world’s online shopping data",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
@@ -915,7 +951,7 @@
     },
     {
       "id": "85d2c8f22be4b080a197fe",
-      "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
       "source": "BBC",
@@ -1138,6 +1174,18 @@
       "published": "2026-11-13T21:11:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "39a042b71f179d506d9651",
+      "title": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0l6azQyZFF0dWM1TUJvTEMyak85ei05LTU3ZEZ3VC13ZVVocElSZEp2OU9fNXlGQmJwLXU5bEZHazhVcDBnUlZpdGdEeGhnOGRFMndYQ0RmdFBNSmF6VVRBcGx3VDJJdWY5ZlYwU05ONFE3aDI1UUMyajRaX1daTUtReWNpNXFjSlEwazRwNmZTcTlfTWxVRktRbVVaUXFMNlcxTExacGJ3cnJNUEttTTBxV1loamx1SENaZ3ZmSks?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-13T21:02:43Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1392,54 +1440,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "189c0f75a8f9d69d4b21d5",
-      "title": "Why ADI Global Distribution Stock Plunged This Week",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdndFM24xeXJmSjNwTnBxNTJyVEZ3alFWUVBnNlMwdzZVcTNDZTRJakx0ZlJSN21aUXNOUTl1M0d5QnJUZnRJVVFxaG9fYlhLUzNQeXhGenNvMS1jeENRTXZDY0UyaDhKMU1FbW9TTG4zS3BEV01SQXktRHBpdUV0d3lGN1ZnOUpvd0lMbVRtcjJCTks2VU1JVDFsTWk4MkRkeHVpczlqNVJMMGs?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-13T18:35:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cc77c38ca8f56d4a9ecce7",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-13T18:34:45Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg"
-    },
-    {
-      "id": "bfe98950e2df5c33439b7f",
-      "title": "Pope Leo visits the Peruvian city that has embraced him as one of its own",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ydHBPajVWOFRBNFZIbTh2UzRDdy1UUTZWSkNwUHVKYmVoOVVjUHJKV2d6M0V1X1pOUmZTalZ2djItczRMQU10cDhaZXk2MTVjaVI0Ukl6N1hFNU0?oc=5",
-      "source": "BBC",
-      "published": "2026-11-13T18:34:45Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7278e1c2a5c2cf2832f1c3",
-      "title": "AI For Future 2026: WMF Connects Investors, Founders and AI Experts from Europe, the U.S. and Asia in San Francisco",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaUFYRUZpbUU4Rjd1dE5LTGNCQXhpN1ljTU9Ed2RpY1BIY2o0eWFXYVVfYnlHaUtoREVvR21BX21YYWNxMTFHdVJlb1pTQklZRTJXbGhDSzlzOWN6czRQZ0s0SURWRFNnc0V2NUxsR3JpQnNnbXY3YnhYS0E2ZkRDZ0RQcGE5NW9NU1haQy0tdlJmVElvRjBQVU81R3BScjVXQ2NFUnI0QVdqVFJSeEhkZjhKV2lFejAwY0VLRnZCdnZOdzBnV21RaWYzNVlKc1g0ZXBFdWFTd1lsSVVEVGtoZEVxY1VJamJKOWZKOUIyTXFVX1hVUm5JOHhzSmpGZw?oc=5",
-      "source": "Akron Beacon Journal",
-      "published": "2026-11-13T18:24:28Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
