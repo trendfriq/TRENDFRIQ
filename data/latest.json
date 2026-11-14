@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-14T19:28:50.838502Z",
+  "last_updated": "2026-11-14T20:12:54.648036Z",
   "articles": [
+    {
+      "id": "9e314a8f744ef711f0fd58",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T20:04:44Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834"
+    },
+    {
+      "id": "5ff08b1ef3e37111e45739",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "source": "The Verge",
+      "published": "2026-11-14T19:47:40Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "4d3f357daa8cc28fb3231d",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -105,7 +129,7 @@
       "source": "ET Government",
       "published": "2026-11-14T17:49:20Z",
       "category": "World",
-      "topic": "Middle East",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -571,7 +595,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
       "source": "News24",
-      "published": "2026-11-14T11:39:39Z",
+      "published": "2026-11-14T11:50:45Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -1070,18 +1094,6 @@
       "image": ""
     },
     {
-      "id": "4043755c1ae76f06f9fe84",
-      "title": "What is APEC and who will be there?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-14T04:32:42Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "594c3cee980ec6a3b7dc96",
       "title": "Musinsa Partners with Central Marketing Group, a Subsidiary of Thailand’s Central Retail… “Musinsa Standard’s Local Business Launched in Full Swing”",
       "summary": "",
@@ -1395,7 +1407,7 @@
     },
     {
       "id": "85d2c8f22be4b080a197fe",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
       "source": "BBC",
@@ -1428,18 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925"
-    },
-    {
-      "id": "a53b6d6797d1d8cee9d094",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T22:43:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
     }
   ],
   "countries": [
