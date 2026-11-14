@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-14T16:23:52.589785Z",
+  "last_updated": "2026-11-14T17:13:57.874174Z",
   "articles": [
+    {
+      "id": "8097820885cc543d9fc0a6",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T16:34:15Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+    },
+    {
+      "id": "d66099d92304cf4e8e478e",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-14T16:29:48Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
+    },
     {
       "id": "40d87506518e2eddff27ea",
       "title": "Chinese modernization: New achievements, new opportunities for Asia-Pacific and the world",
@@ -367,7 +391,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ29KZ2FVa0hEZ2l0Sk5zM3M0QVo0TUpJQ3ZHSFE0YjRlWkpwdVNZcTd3WmVxRlNWTkJaemhqOUpXS1V1QlBUUk1hdHVEUTVwN1RRMHN6eTlzZFFmaG5yck1tUlhjMmx2OWVadUJDb2V6aXR4ME5VYnRoVEVJUWtoeG5kd19xMFhyNEoyb2cwX1ZxRndHbXZkNWYwS0cyX2VYWXlndWFlLTgxQnMwM0dF?oc=5",
       "source": "News24",
-      "published": "2026-11-14T11:39:39Z",
+      "published": "2026-11-14T11:46:09Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -566,6 +590,18 @@
       "image": ""
     },
     {
+      "id": "d922933a3fae5a7423db9d",
+      "title": "OpenAI launches ChatGPT Wallet for AI agent-led shopping",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQemlibzNkajN6bWprVTJxaWRoM0NvLTZWVWNONTVXMXVaaHZacnpTR1pxV3BXb0lmVVdMZHEzSHpiRlZSV2JjaUlJOUEzVmVzS3JkcGpkS24wNVY5eXZEZVRWWEZpS1RJRXVLX3dPYVptZVVRa2RkT2h6VHR3OHZmYzRISXpTU0tfcUltQ05KTHlwRm9kcVNsOVJMZVh3MG9WbE01OFphVHR5VldYNVZxdG5qeVNEbWfSAbcBQVVfeXFMUHppYm8zZGozem1qa1UycWlkaDNDby02VlVjTjU1VzF1Wmh2WnJ6U0dacVdwV29JZlVXTGRxM0h6YkZWUldiY2lJSTlBM1Zlc0tyZHBqZEtuMDVWOXl2RGVUVlhGaUtUSUV1S193T2FabWVVUWtkZE9oelR0dzh2ZmM0SEl6U1NLX3FJbUNOSkx5cEZvZHFTbDlSTGVYdzBvVmxNNThaYVR0eVZXWDVWcXRuanlTRG1n?oc=5",
+      "source": "Storyboard18",
+      "published": "2026-11-14T08:31:01Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c3989e5007c2a015aa6bcb",
       "title": "Investor Focus: Nvidia CEO Crisis, Anthropic IPO Valuation, and Undervalued UK Stocks After Earnings",
       "summary": "",
@@ -710,6 +746,18 @@
       "image": ""
     },
     {
+      "id": "f399c210d9a141aaf13a82",
+      "title": "John Hancock 2025 Lifetime Blend Portfolio Q3 2026 Commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVkQWltdVoySXZsdEZBZXNmSkQ5WG16VFNWM3E4cjItZnNSOGZ3SFhKS3l2OUE2ZXdKZzVOOGtvSk45LVBsSUJ4YTRuYXBJNFlEcjNLNkwtXzk1ZEtmWDlOOTBRWmg4VnVDNTJYaENOX0pDZ2owZWxlTHpGaUxVYk1McGcycGRXdTZVbEFHa0VFcTMxZm1TcFBwZUJfaGEtRDFldA?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-14T06:05:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "11c9b0eb20595d98b21305",
       "title": "Global Cosmetics News – Weekly Review | Week 46, November 2026",
       "summary": "",
@@ -826,6 +874,18 @@
       "published": "2026-11-14T05:00:23Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "594c3cee980ec6a3b7dc96",
+      "title": "Musinsa Partners with Central Marketing Group, a Subsidiary of Thailand’s Central Retail… “Musinsa Standard’s Local Business Launched in Full Swing”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VZ1RlLTVndHh6TmJYbU9fYkF0YTR1MmhTT0FoY3QydUtIWW1penRteklsMy16OEwxYUR6aERFQml1Q3FxcHdsY01Na2tJTnBlZllnOFJINUh6VlBBd0FucjdQMzI?oc=5",
+      "source": "무신사",
+      "published": "2026-11-14T04:32:09Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1380,66 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e0df682ebba822680f11e1fd473efef"
-    },
-    {
-      "id": "ee22b1ac26912462eea35b",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-13T20:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "5cf6869232a42bdc08418a",
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-13T20:18:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "68b9ebb2aed2fd3a93b230",
-      "title": "2027 Global Economic Outlook for Canadian exporters",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzZ6dHFfUW5jbU5TWkItMVM2c0lWMUNvdDEyTlgwM0xMazVzZjJ6SWdYbWNCd2ozUW5oOU84VHNwS21HVHdvbEs0MWJFbk1HTDg3ZHNMTHFIMmlSU21xb2FRUW5JdXBzcjZmdVBEQWliZWhXaDY1Zm1aM0E3RjlsaVl0WUxFZG5WWXE1ZWtzcHdqQQ?oc=5",
-      "source": "Export Development Canada (EDC)",
-      "published": "2026-11-13T20:17:15Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6352232812b3ea4a981969",
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T20:07:24Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900"
-    },
-    {
-      "id": "75b3a40a97f66f5ba35c4a",
-      "title": "[TOPPAN Holdings FY2026 Q2 Earnings Call] Full-Year Operating Profit Raised by ¥15 Billion to Record ¥95 Billion — Packaging Business Drives Growth, Information Solutions Revised Downward",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRkw0cDZWTHVFUWNJejlQbFpBaVlGY0ZrSnNqcVBadkNodFJfWFd2enJEeHAyay01WGZvT19iWkN2enV5V1J4Qnl1bWZtVVUyc0lCVGo0T2ZVZEFwUGJMNg?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-13T20:04:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
