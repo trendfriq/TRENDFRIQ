@@ -1,5 +1,53 @@
 [
   {
+    "id": "32b37ac6f0f1162d352a81",
+    "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+    "summary": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal foll",
+    "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+    "source": "The Guardian",
+    "published": "2026-11-15T08:56:11Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69"
+  },
+  {
+    "id": "d9402c2d1cf3f4cc207bb9",
+    "title": "Over 100 global giants head to Shenzhen as Apec spotlight turns to CEO Summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN0s5eXBWMHRiUUxXZFh6VVFrY3lUd21iOFg0Q3ZOTHRRN05iRDZWcWZkWUNaclFfYTJrSUl3azhtaDR0UERKdEE5NURacXRmWGE3TnEybXVCWGlxdGx5RW12UXZfQ2VXUGJwWWc2b0wwNUVRRG42VUZ6cV8zVFljWEdvdUU3d1Q0SWc1Zmk5aFl3NXhZNW9aWnJPcVJEaVYwdHhJZXBvYXFPRFZHNFJXdG45NkdFTkxUMFVxQkhzbzNVOVZSbnRZQk82ZEtQd0F0a2lhZUl3?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-15T08:51:02Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d02324ee2bce258ede3711",
+    "title": "Korean Fuel Exports Shore Up Energy Security in Australia, Europe",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnB3VTU5dHU1SU9oM053ajVuaHBnazZrYXZJMVhJRnNPUTBodUNIM1FIbFFVcC1VanNjOXQ0emNuOTEzM0hYZDY4NFlCZWlSZzZxYUxwaVJhbXMwTTNzU3B1cWg5VVlKbTFzQUJoSjJNNlpDYTlFaTBJdy1ZNldSaWhpeDRIdlFjbTRjSUVGRmxnazYxNUFEZ29LNmIzQjFFVWc?oc=5",
+    "source": "Seoul Economic Daily",
+    "published": "2026-11-15T08:50:35Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "57c2a1c76702eb25964670",
+    "title": "My Take | The dollar’s reign endures not by merit but by default",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTU84MmxGNXd6cXdBLVFhODVhb1FGeDE1Tl9PU0E1NFNMSS16ZkZwMDd2X2ZIOVpRSG9oVDV3VTJZWFdTYTBXRXluSlQ2NThDLW5ubzNwcW9XN2F3cVlGRjBrVkRhVjNwcFpWenJDWURQWG5sNEtZdjFlbGlHUGRTY1ZVUW9zMlczNkQtaGxRR2h1bGdMUFp6amxYMmRORFHSAZ8BQVVfeXFMT2NJZ2cyc1VaZU1VMF9McTVadGRhaHZMcTdjZWM3ZlZKeDJiN1pkb1g3eFVpYkQtZGVDeDBadHNFR1Azc0ZUaTVXS3VaNFBHMlBKc2FzdkdaM2xRVVhMWENpcnpwcGE0cjM0R3dpSGxHVnRNZjg1a3JYUk9Xdjl1TUxSd3lXTklleFVndGpSSE1fZHZlRjZPZ1Y5RlRPU3hZ?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-15T08:30:06Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "02b22d1ff79e06e540a2bc",
     "title": "Don’t pick sides: Business, civil society groups back JAZA’s call for closer ties with US, China",
     "summary": "",
@@ -48,6 +96,18 @@
     "image": ""
   },
   {
+    "id": "27b9e2e4ae9a6095e4e74c",
+    "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+    "summary": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software You are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the site of one you’ve heard good things about you are asked to verify that you are human. Instead of click",
+    "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+    "source": "The Guardian",
+    "published": "2026-11-15T07:00:06Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c6d5fe6d90a69f0fabd08abb1914e3"
+  },
+  {
     "id": "77f68bbe88767b467da5d6",
     "title": "Oman opens the door to billions in Chinese capital as Gulf investment map shifts",
     "summary": "",
@@ -68,6 +128,18 @@
     "published": "2026-11-15T06:32:31Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "dde232c8c5497046f8eaf9",
+    "title": "Fidelity Bank champions growth of Africa’s creative economy at CANEX WKND 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjliazlwWnlZQ3N5NEFYcVAtMDN2b0dIMDN4RHctX2I1dmRKSVNiekZER2VDdkpUa2ZhV1JIeU1tQ2RpZmN5YXhJQUotZUI0NzhDOHJ5Q21hdlplX1oyanRleEx1QkN4aHZCTlYzSGhyOExoaXFpdTdldUNrMDh6Z0U2S0xFZUFYdWpXTWs4YXJURms5MjA2NUJkc2RPYlRrYXduZGFRV1I1dVE?oc=5",
+    "source": "Realnews Magazine",
+    "published": "2026-11-15T06:28:27Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
@@ -94,6 +166,18 @@
     "topic": "Europe",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "eb93c7394ac0d7c21028be",
+    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mou",
+    "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+    "source": "The Guardian",
+    "published": "2026-11-15T06:00:06Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea93f60f04e098da99d11b60a2005e68"
   },
   {
     "id": "e81eeb2158f936f165c1ab",
@@ -264,6 +348,18 @@
     "image": ""
   },
   {
+    "id": "c17e415c19c6cbb634ab62",
+    "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+    "summary": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision Italy’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent. Through the Facebook application for Android devices, Meta accessed photographs, videos and",
+    "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+    "source": "The Guardian",
+    "published": "2026-11-15T02:02:01Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c623c2545efe254499d5e53ccacfc80d"
+  },
+  {
     "id": "eff1c8c727bd7790638fdf",
     "title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit",
     "summary": "",
@@ -358,6 +454,18 @@
     "topic": "Global economy",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "2a7d344b49180c070f2700",
+    "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+    "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+    "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-14T22:27:06Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
   },
   {
     "id": "22f849a8a999828818dbbf",
@@ -966,6 +1074,18 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeC1CT1A5NDlqQXRLVFJTOElnaXM3bGRqSVZNamMwNU1FcHJYT2x4a0tkdTdCdk9IdVg1b3JkSTJoQ00tTjZtYy1aQ3RFOXlkZ1U2eUNyejNlam1JUVUwY3FHTTZkZXJTSWFuX1FmcF9pamt0a0phYmJxMHdBMFBCRHRhOE1FdG9qUEZRaWdhWUNCYXVZWmIzNXFiOWUxZENuUzlpRm5qcFVMY1k1UVZSM2xYRlc2Um1NQTF0VnFwRHNyb2tUcEg0MUxSdVc4eTRRNC1TZHBYdFdMeG9MMXlQcUJ1MTdOU0JV?oc=5",
     "source": "Simply Wall St",
     "published": "2026-11-14T12:18:43Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c7e693878d97e2b7c48855",
+    "title": "Smart Investor: What’s Next for Nvidia, Undervalued Earnings Crushers, and is Anthropic a Buy?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXNlT1FTZV9Wa2dIVjg5QVU0UE5UV1E0VWstcURydndlU3A0c3BOZlVwRUpKYjlOSzNOeHo1U1NYaE11THBCT0twbHJKWlhJSU91Qk5NclpMM2xXb3VFdXU2MXo2Vlplc244cEdDN3laWEJnSm0tekF3NEo1ZXNYMGMwV2xqWUU4RGVOV0swT1JQQkFBT0o4LVFBcUpEYU0tU0V1eTVYYkdyc0tXekQ5MXV4MzVSUQ?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-14T12:09:14Z",
     "category": "Finance",
     "topic": "Global finance",
     "country": "",
@@ -3272,6 +3392,18 @@
     "published": "2026-11-13T13:38:49Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f472110706469c8c18e5cf",
+    "title": "Nvidia scandal: What’s next for the US tech company?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW1FaTlaLXMwLUFWN2lxU202ZW9veTlQd1dCbF9KYlBnMWlTT0Y3Zi1BaFowMU9YT1h0M2JGd0xxM1l3dm9rS2otT1hpa0pwR0xjY1AxMTBld1pXcmFsMTl6UFJVV0VtYWk4bmNva3E1dlVLcVhlOWVlUy1aR3lKVUwwZm1LS0h3aEtEc1dHX3RxRERzaHc?oc=5",
+    "source": "Al Jazeera",
+    "published": "2026-11-13T13:38:49Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
