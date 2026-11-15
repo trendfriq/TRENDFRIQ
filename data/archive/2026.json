@@ -1,5 +1,77 @@
 [
   {
+    "id": "0557364876cc9a01214efb",
+    "title": "Emirates luxurious premium economy: Where and how to fly it",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVVFcnhMZ1lsMGxYRXFqZjdEWTVkNmI5MkNaTHV6UWNJamtveHlibDE4RWlQWUh0OUpVZkR4Z2lKYzZmMk9Ic1hrakJUMGNvVVFuWEtBN3BfQXlqRDhDMlRibmFZaVJCZDNwdHVva3hhZHM0emsxVVczUWRXa2VFdFZvMHdFNHdUTTZsdkJzSVFpQQ?oc=5",
+    "source": "Aerospace Global News",
+    "published": "2026-11-15T16:03:00Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4b16e9824721905afe0d28",
+    "title": "The tech products we enthusiastically recommend this holiday season",
+    "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+    "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+    "source": "TechCrunch",
+    "published": "2026-11-15T16:00:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800"
+  },
+  {
+    "id": "a54806bb840e63d1b20b10",
+    "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+    "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA president, or a COVID outbreak at a destination wedding with an absurd 25 [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+    "source": "The Verge",
+    "published": "2026-11-15T16:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/hampton-headshot-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6abcf3f7685e301381df29",
+    "title": "Bessent Urges Nvidia to Seek New CEO Outside Company Amid Crisis",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2tBV0YyZ2lfS0UzaHp3WlhvaW9rT1F5SXdTRV9OWk9LYnZIeEctRl9JVTFqYkViZVBLdmR1cGR0dndXdGVuRTl3bmtkalRUMDFFZFlsbGZ2WkJPdnlrTC1GWGVjUnVWTXNkNHZ1SzVTSUdpX0prb3QxU2IxUl9sV2xvT29MdkZFdkZQMWtuOVQ?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-15T15:56:41Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6471c87034ea6d70c78c6f",
+    "title": "Hong Kong’s dispute resolution hub expands into Middle East and Africa",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbC05NDRLU2VKVmc1WnYzU2RyWDgwQmxxS0J1MmVxYmIwbTlLMkxSQ2ZMVUVLYTI0amNhakFzNl9tNXNqSUxJdnNXRzE1SVpGWWJtS0RyUWk?oc=5",
+    "source": "www.chinadailyasia.com",
+    "published": "2026-11-15T15:52:19Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f18823e92a0e2a12d6142a",
+    "title": "CEO summit to fuel integration",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42aEtWeVh1dlQ4NTVHT2xmaFJsSXlrVE5iUElvVHI3am9MY3lodEhMTlZVM2hfMUpraHE1ZGI5aDBra0dnUDNpV01mV0xPSmJfZ3FjVEphcHIxVzZVaTZ5bGVpUGx6RmtnZUFnYkVnM0JzR2NWSzJSUHhYd2xvZw?oc=5",
+    "source": "China Daily",
+    "published": "2026-11-15T15:40:32Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "56dedeeec32c3b29b8bb11",
     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
@@ -214,6 +286,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/b423303fb207b05f94dcaa641d19fb9d3734693a/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbcb9664d44ada707ee5b5bdd9239632"
+  },
+  {
+    "id": "f3344ff598df3184d62a39",
+    "title": "Democrats Should Call Trump’s Bluff on Immigration",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS1dmc0l2MEwtU3UwUUY5TTdfYXUxZmZWd0NiR2U4MHFBajU5OVZFc2FIOEF3b21SYmgydFJncDZ5VVZiTU9Xa080aGJVRlQteTZtLTl6Y2pFUzZYLWU4aGVQc3hSX0tsSjZjNzYtZnNwM0dMemtVcjFLbGc3dFVWcVhYdUpDcjg2OGtOb19kYmN0VXBYeHBwWUtvX2RnZkI4eDQtU0Q4cw?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-15T13:00:04Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "12377d55cb022e9a44f212",
@@ -1716,6 +1800,18 @@
     "image": ""
   },
   {
+    "id": "a82783467f365e9e9ea9f8",
+    "title": "Up to Tk50 lakh grants for startups",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlZvZ1VsRHFIWnlTM1JYVFR5YlF1RnBDazV6bllldU1vZUtmUnpIYTFuX2didzh6OXZUdGxwd2VEakQ2VE91bnFqUWRKZ0h3eDlSUWNUbUZoZ0JLRllSLWgyZUNFd1FQVXlXZGNyNEtrY29pZnlNaVBTYm9adnM4S3hpRnBJaTZZR2FBadIBjAFBVV95cUxPRlZvZ1VsRHFIWnlTM1JYVFR5YlF1RnBDazV6bllldU1vZUtmUnpIYTFuX2didzh6OXZUdGxwd2VEakQ2VE91bnFqUWRKZ0h3eDlSUWNUbUZoZ0JLRllSLWgyZUNFd1FQVXlXZGNyNEtrY29pZnlNaVBTYm9adnM4S3hpRnBJaTZZR2FBaQ?oc=5",
+    "source": "Dhaka Tribune",
+    "published": "2026-11-14T11:12:05Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e2e5186f0a6ca736cbb56e",
     "title": "Wall Street Snaps Weekly Losing Streak As Airline Index Falls 1.4%",
     "summary": "",
@@ -2602,6 +2698,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+  },
+  {
+    "id": "7e980211b4b27309f78c80",
+    "title": "Brazil could become world’s 5th largest economy by 2050 with productivity reforms",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0RRdE9DZjRRRENqTXRGdUFJYzFaRDc2R1lKY29CVlgtb1VYYUhMblFNQzA4X2N5aWVYaWhDaW5aV0lrWUtsRHllMHJfRV8zNWNOMjNERkRGVEJMTkE0X05pVDc0QVRsUUJmbFBLV0ZRa0UzWmk2VzBpWGFxWTVyWHhyN2RoRk5Qekc3NllTYWJBU1VfRGNvMExqLUZCQ3phR2NfX0I2akdiLUg5R3J2ZWU0WnZMbUVHcFHSAb8BQVVfeXFMTnBya01ha08xTVpaVV9CVzhGLXhfeTQ2SEtDZDRVN3QzZ1E2eVVpdno1RmgtOW9qWlRkU0FWZHQ2eU8weHdNekxFQ3BXTEY2Ynl5bEdnMmZER05ZY0tCeFNjUkk3dWJGd0Qxc2hKYTJtM2d2NW9oTnMxTjVNRUZ4OE9tRGh3UzRDQ3JLLXFoQlBERHhsWEs0ZnJyY1kxQ2Q1akREMU92WUk1cFhpa1AzZGpTWDU0OTFkWXdRUkZDWGM?oc=5",
+    "source": "Consultancy.lat",
+    "published": "2026-11-13T22:02:16Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "7b12dec262d9c3374f628a",
@@ -6898,6 +7006,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+  },
+  {
+    "id": "d2c9357a1730249d69ff77",
+    "title": "From Strutta to Hootsuite to Clio: Three Eras of Vancouver Tech",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXFxV2JDOTNZcHdRSWhyaTlFeHNFSjZyNS1qbGFmVm9NV1M1c0pQY0RCUnZPbnEzOWpab3Z3M0ZGRWhpSG80NDgwdkFQN1ZkeE1QU3J4el9HM2tNVlZNR1g0d2NRb0pUX3htaUNSeHp5UFNNVEZ4U0FybkIzUUtxS2V5eEtub2hBSUFMeQ?oc=5",
+    "source": "Techcouver.com",
+    "published": "2026-11-12T18:32:18Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
   },
   {
     "id": "3681c6c6d49c0bed28e2e4",
