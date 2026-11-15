@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-15T17:14:40.012064Z",
+  "last_updated": "2026-11-15T17:54:26.197570Z",
   "articles": [
+    {
+      "id": "d3a2c471fef7377be207c9",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T17:23:40Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg"
+    },
     {
       "id": "7da8a1038905f9ee953817",
       "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
@@ -38,16 +50,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "d3a2c471fef7377be207c9",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-15T16:36:42Z",
+      "id": "17ad9445dab3f4f10bf610",
+      "title": "Efficient Supply Chains Key To Nigeria, Africa’s Economic Transformation – ACSC",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS2FEMVJxd0R1WEJSRXNVOS0teHkzdy1hQjd6UnI0bDF1YXkxeXVKMUVSVUNFalhNUDktWENPVldiZmptc2JvTnkwYzdYTnlZQlpiTGdSdVBYMzF2RUpTbnFub0Q2Z3JDVXVzM2NSWWpfeHpMR2JKdWpfeWJWRTNzcjFZRnZtWWw2MjZ0ZjV6TjBITmZFZjl0cDB3RUNEXzA?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "published": "2026-11-15T16:17:00Z",
       "category": "World",
-      "topic": "BBC News",
+      "topic": "Africa",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg"
+      "image": ""
     },
     {
       "id": "0557364876cc9a01214efb",
@@ -158,6 +170,18 @@
       "image": ""
     },
     {
+      "id": "f407ef4c3a4c0505f608fb",
+      "title": "When the boss has an affair, the whole family business can pay the price",
+      "summary": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat From Profumo to Petraeus to Gary Hart , Bill Gates and Bill Clinton , history is littered with older men in positions of great responsibility having affairs with mostly younger women that put their jobs, businesses and reputations at great ri",
+      "url": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
+      "source": "The Guardian",
+      "published": "2026-11-15T15:00:16Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6b7d531b60f99a928397b882d7518a377a68074d/0_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3c3240c442b5d746c6619c39c86afd74"
+    },
+    {
       "id": "56dedeeec32c3b29b8bb11",
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
@@ -214,6 +238,18 @@
       "published": "2026-11-15T14:28:00Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7415db2936a706cd9568fc",
+      "title": "Is Earnings Preview Altering The Investment Case For Canaccord Genuity Group (TSX:CF)?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORGVPczJvTWxpc09pZmJfTUo5aWdhNWFIOHFwd29WSVpEMkhIMENCYlptNHJjclBDOHVIZ2J2Mk9aRWZneFNpY1JEQUFMbkdsV2J1TEZ4NDJFUnoxWlJpbnBNVGtEcE1vRlBvRDB3Y0tkd2tRUFltZUw4YUZNRkJ6YzRxeUxIZUNIZDV6Qk1xVERXMXBTMURxQTJMNGlNWmZsMlpDLXV2ZDNoZzRtQ0F4eU0xSWlkcHR1ZUlBZVVtNlltUHMyaGhVbk5BZklzRk1jdTlXaDJyLWJFbzdFRVdKVXByM3hvazdhY25RX2xoRdIB9AFBVV95cUxOdE5iMGZWYmtKdHBxQnJiVHJacHhfNTJrQXpncHhfZUdacjM1alc2S1AyRkdaX2s3SjZBMm55MFc2eG9KTnlLNlFybXZPb3hzX1E2U0ItbWNFN1BpWlJPRzQwcEwxMzczeG9CTDdUa2phclhYWUtwa2hTUVZhMGdjYUpwOW5WZHh0bkNtMVBmUXczQWVlM0lXcGI2LVd1LURfLWR4MkxwYWdDRm0wMWJjcmxDWWVucGd2RXE4VHZsb3lSZ2VSYnNtQjdFMFdsRmpXSjhYc3EzVmw1Y2ZyT0RMdWNGTE50bmJiUndWS0pUZXpOWE1Z?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-15T14:17:30Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -650,6 +686,18 @@
       "image": ""
     },
     {
+      "id": "d2b1ce8fd121b584ebd390",
+      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW91bDlWeXB6eW1vVC1rVWQzZlFvNmtrSHMxN1Y2THgzTDNDc3VDZGk0d2R3Y0pUOW1pVDdrTXVwcU5lck4tSGNrX1dTZ0pSQVEyc21wSUdFdFJVUldET2sxcEFzS2gxWGNHRFJvMVIzSC16UUpGOGV1bnNoMmJ2NmxWOUlWaUdZSW8xVGpia3NMVHYt0gGUAUFVX3lxTE43MzBKUVFtU0t4ZEM1cmV4b2J3Wk8wYUtRVkwydXlDS0MwcFpjLVBNVnFTVDQxUFpEZ1hkXzN6aGNEc1hwcE1LR09CektONnJscjRXZGNhRFpZeUNnUXhNaG50VF9CQ0ZabFExMzFNYUtpd3RLLUxSRmNldU80OE5WLTZ4a2dBXzF0ejQzNThoZTVCbHg?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-15T10:20:58Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "68e4c6dddcbb527e8f3558",
       "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
       "summary": "",
@@ -944,7 +992,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
       "source": "The Guardian",
       "published": "2026-11-15T06:00:06Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea93f60f04e098da99d11b60a2005e68"
@@ -1392,54 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc8c16eac1f5108a0736b290b0363b0"
-    },
-    {
-      "id": "f9a99c818e144dcb750b78",
-      "title": "Caffeine Free Cold Brew Coffee Market To 2035: Sleep Hygiene Demand Drives Growth - News and Statistics",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHBBS1FjM3M1MzhBa0JhdktRZ2VjVzFnSllXelF5cGFyT2lGckpCVHBocXRKenJiYWQtWHgxbXFzWlBNdDZ2UV9CRF9Fekh2aENQVVlsZUxGeFJXRFg0eTBZSHdnRGM3YnVxRzZzWGxjYVZhLXFJbHVRSWwyWm5KZFVnVDhhUGFDclUzRGJ1MWxIUnJMb05xMXcwSW5BVFNJMHNwQXB5MTg0TDUwZmtYS0s2cGF2Uzk2eVVqdUFnV3ZITTBLN2c?oc=5",
-      "source": "IndexBox",
-      "published": "2026-11-14T18:41:04Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f79b0575df40a25189d883",
-      "title": "Q2 FY2027 Earnings Review: Mixed Results with Large Caps Leading Profit Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXljVGd6SWpYb1h0N2huZGVySzdxOG9tVGo1N0pkOGJGaldzWFV5TnBYcmNmRlFPOXBXMWowUE1RcTFkeWtEanplT192b2FodDFqbF9jYkdVMnVaV19NRlI5T21EeEd2TzJQNjgwV2FfSUZXdXZGeDhJdnlzYU5tVkpNeU83cEtSbktyaWFFLUhkSDh3WkwwYlFVNWlLOEJ6ZmJMazdDazU5N0s3OGtTSlZmV045Mmhvem9UUzVoTkltSU1fSkg1QzY1dWFGb0p5ckE?oc=5",
-      "source": "MarketsMojo",
-      "published": "2026-11-14T18:35:34Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d66099d92304cf4e8e478e",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-14T18:28:06Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
-    },
-    {
-      "id": "76599d9076d2b2fa35bd9d",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T18:17:58Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
     }
   ],
   "countries": [
