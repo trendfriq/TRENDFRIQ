@@ -1,10 +1,70 @@
 {
-  "last_updated": "2026-11-15T09:23:47.154141Z",
+  "last_updated": "2026-11-15T10:20:47.409917Z",
   "articles": [
     {
+      "id": "a9431f4d9febdbe21ed262",
+      "title": "SA President courts Silicon Valley investment for AI ambitions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0did0c0dWc3a1Y0ZzAzak5LX3VlLUxsblFOS2w3YUFNS2RLT0hfOFpTQXRXV3piZXZTclBJeUZucXNhZi1saFp2TVZYRkdYUUdmc19kTURRY3lSelNlSnNabjcwaFRZUWJaQ0wtYlVyUXI5X3lWcDlzUEl1SDJuLWRONk1CcW9vVmVfd2xoTFgwZnpGY0dBTkdlb0RoaE9fMThDZzRkcm0tQzJocThQOFBjRWw?oc=5",
+      "source": "Channel Africa",
+      "published": "2026-11-15T10:05:10Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c718f0631c936bbe5dfaab",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T09:57:25Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
+    },
+    {
+      "id": "c06159f11be753ddae51ce",
+      "title": "Together for a brighter Asia-Pacific",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwNUpjbzFsbVRhTW5iOWItMmhwREFXYUpybkxXU2FRaVluVUQ2V2k3dHJwMnMtbmg0c3dhdFhFd21PQmcwX2dlOGZlYzhIdHdhc0pvcXpkNUQtc1k4SG5FTNIBXEFVX3lxTE5UQVBzejFFOUxHUTlYX0x5TlBfS2dITFZCZGZxNnVkMk1MSkZKRUo0LWhGell0OENTUkV0aDJyQmR4eWUyZXJrRTNrWFN3X0JxUXlpWlVqS05zVHFl?oc=5",
+      "source": "Modern Ghana",
+      "published": "2026-11-15T09:50:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "725edb5f53ee4146ca548e",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T09:26:37Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg"
+    },
+    {
+      "id": "e89aebbd20d358765c1115",
+      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-15T09:04:32Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "32b37ac6f0f1162d352a81",
-      "title": "AI cheating scandal rattles South Korea as annual college exam looms",
-      "summary": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal foll",
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal follows m",
       "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
       "source": "The Guardian",
       "published": "2026-11-15T08:56:11Z",
@@ -326,18 +386,6 @@
       "image": ""
     },
     {
-      "id": "c718f0631c936bbe5dfaab",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-15T02:49:45Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
-    },
-    {
       "id": "011a054fbb912473698957",
       "title": "IP GUANGDONG debuts at the Media Center of APEC Economic Leaders' Week",
       "summary": "",
@@ -435,7 +483,7 @@
     },
     {
       "id": "481b8a42b10333c405eb0e",
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
       "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -576,18 +624,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "e89aebbd20d358765c1115",
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-14T20:57:52Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
     },
     {
       "id": "3289f99661e3da99a8e2cf",
@@ -1402,42 +1438,6 @@
       "published": "2026-11-14T09:31:05Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ccca6fcc8dcf10d8d6402",
-      "title": "Europe’s Economic Recovery Slows as Employment Stagnates and America Pulls Ahead",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qb0loRnBnWTV4UWlueVY3bkdyWGtBT0U0c1BtNnJ1R2VKLWphMlNoUlZYT093VExRRWdsNkxoS1FuUG5oYmc0SkRxTHR5T0V0TWJRdHA4Y2NMMlJ2Tlg3QXg5UWE2WmI1Zi1MaGYtS1VhVEht?oc=5",
-      "source": "EU Today",
-      "published": "2026-11-14T09:26:46Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5791ad701752659386c211",
-      "title": "Comcast",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaFFnSDk3QjFrVUFBVnloLXVlMVAwQWV0YjVkbHhrYi1MQ2dqV0NaenhFR2RZMU8wTTlJdVVSbzZKOWFjV0JWVFdSeFZPdkVRRmc?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-14T08:56:56Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2e4c7266b8e19fa1a9f044",
-      "title": "Vice President Tasks African States on Investment, Economic Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazZndmVfeXZIZm5RN1J5Vm1WNUtOLU9sX3c5bUZFNkdrWkNWNFBOT19KNm4wNm45S3VnM0QtM2JPRVlQalVTM2tHaEFRUkNIc29lOFdOaEl6N2l3OVNqRjVKcEdpX2JWUnFmZTZ5SnlETUtNNjMya2IwbnlIR1FfdGZ1YkpMamlESTBQdFR3?oc=5",
-      "source": "Voice of Nigeria",
-      "published": "2026-11-14T08:41:27Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
