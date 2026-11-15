@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-15T19:29:51.931326Z",
+  "last_updated": "2026-11-15T20:13:38.392280Z",
   "articles": [
+    {
+      "id": "7c7b29f5e4c81914defe98",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T19:32:39Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+    },
+    {
+      "id": "a78d9f7dcb4e15af97f310",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T19:31:48Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg"
+    },
+    {
+      "id": "8f0daad4a6acad5d4037a0",
+      "title": "Jensen Huang Considers Comeback as Nvidia CEO – FT Report",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGw0eTJiZ0UtMUhqX1M1RHd3MGFhTHprNFlvMW5GNWliQ1Z6ZjhmYWgyOFY2VnpwSnR2ZDU2dUpYR01lMEh5OXYtQWdaUmF0YUh3RURnSUdUNUlxYzF6alpOS2FQenVEVl9kcGFOSXUwbXpqS00yNlNmeF9oekpVWlJDVTJUUGVSbk9BUWhxQ01VX3BsaW1ZcFRzQXFTVUlMcFk0?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-15T19:31:21Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "4dd8727fc715d5551e0483",
       "title": "Abu Dhabi Fund For Development Commits $500M To Mozambique As UAE Expands African Ties",
@@ -74,18 +110,6 @@
       "image": ""
     },
     {
-      "id": "7c7b29f5e4c81914defe98",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-15T18:08:20Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
-    },
-    {
       "id": "43b316ab72eb6de71ad04a",
       "title": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
       "summary": "",
@@ -94,6 +118,18 @@
       "published": "2026-11-15T17:30:00Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0941e94037106583e7b10d",
+      "title": "Grand Theft Auto 6 could make US$3–5 billion in the next week. Here’s how games make so much money",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFJLcVhna2FTSjVLMC00ZkFBT3pLY25HNWpZQlViXzJWNXNJdmx5MFF2M0F4NVZHRmJka0gxaG5IeVNVZ2c3WGhTRmFLcGw3RWYyRXpwaVNENzFsT1NLRlRpQUNIeHR5ZTZHNVZBUFlkZU11UlU3eTNnR0gxYl9YUlk0ZVhiOW53a1gyN0NtY0Qyd3M4OGlfYUlnd0JlY21GNjhNYld2RVVtVzNIUUx0V2NaXzBUQXRPSG9lRVpqT0FYN1JLZmVkYmltRQ?oc=5",
+      "source": "The Conversation",
+      "published": "2026-11-15T17:25:58Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -746,6 +782,18 @@
       "image": ""
     },
     {
+      "id": "26bd90e3963a58803eca62",
+      "title": "Anthropic | History, Controversies, & Claude AI",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-15T11:20:27Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a7d972996e0b1f164a2479",
       "title": "Exclusive: China's role as APEC's rotating chair creates an opportunity for all parties to build common ground: director of ABAC Secretariat",
       "summary": "",
@@ -946,6 +994,18 @@
       "published": "2026-11-15T09:04:32Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "739143146317ebde2a44c4",
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-15T09:03:18Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1370,74 +1430,14 @@
       "image": ""
     },
     {
-      "id": "a5585e217b334b8e20578c",
-      "title": "Japan firms thrive on AI boom, but uncertainty grows",
+      "id": "98686fe0acba2b07248b5f",
+      "title": "NAIRR Pilot: Access, Allocation & Research Guide",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjI4cnVXOGE1eFloUXdYS29VYWN5MFhmWnI0ZzZPS0RWeldoYzZBaGdDcUtWdGtGMzlRNEJOaDh3R1NjcHZCb0VQaGVuNkE4VWZBdEE0SjRmNlN3OWN1LWpxeHppUkt5UzJ2bzZvM3lpWTBkaWp1dFBmMWRzUWprSUg5S0pkdw?oc=5",
-      "source": "The Japan Times",
-      "published": "2026-11-15T00:34:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a8381ccf0f4a6c2675938f",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch",
-      "published": "2026-11-15T00:08:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VcmozS3Z1b0FHVEZKaDdkYWtzN29fcEU3RFltaTJoemd3QTNfWlpHanQyQW16bHFYWlVMX1hoZHNUNy13eVJVN1dvaFZMZw?oc=5",
+      "source": "CASRAI",
+      "published": "2026-11-15T00:42:35Z",
       "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024"
-    },
-    {
-      "id": "481b8a42b10333c405eb0e",
-      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-15T00:01:07Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg"
-    },
-    {
-      "id": "a76690365ade02cec445af",
-      "title": "AI Retreat Fuels India Stock Comeback in Great Rotation Trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekZiMTBjakhPUXcyZm9yZ1N6SkhLQmNrSFZ0M0RPNTNhOFh1YkExSUZEc0pJbzJoU0VkdEZKTHhVb2RYUXJjRFdtY1o2R3lzSml1RVZJS3I0MEFLRW5mMlFMV183RW9xa1d4bDhpcEtWNGFSeDEzc2xMdHBkcTBfZW5DU0Fobl9CV04zVVZuZzB0YXkwN1NwZzVTVDFtTFVaM2lSSk16YUpwMnRocGpGdThMWERWazZ5eE1Z?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-15T00:00:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "36ecb79e74511ac76b208b",
-      "title": "Russia and Africa: Prospects for Co-production and Export of Creative Products",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbUp4QmlXUzNneVZsZU85YnNYT3lGM0lFTlQ2N2hLT3hOM0d6LVhRRUtDeEhmaEFqZ1FWd3puMEQ0eXBCN3ZjemgtNnpSSWE1TGpuUldnR1lRZFJhbGFGMTJ4WkRnRXFfdW1BWkYzbFdiTTlTTEU5SjFyWk9XNjdKQ2hkWW9NUXhwSzlPbkxmRzQ2MEhHRm1rRTY2aWtiNUJTUVNYanRRdG5qc2MtcDMtSm1ycE8tRkk?oc=5",
-      "source": "Modern Diplomacy",
-      "published": "2026-11-14T23:00:58Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ba0a73076a590bff5b49c8",
-      "title": "IMF’s Kristalina Georgieva arrives in Manila for ASEAN Summit WATCH: International Monetary Fund Managing Director Kristalina Georgieva arrives in Manila on Saturday, November 14, 2026, for the 49th ASEAN Summit and Rela",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMWtTNzRGUE1zaTQ0RVgxc0FuV01qT200elhDNHA0cEtBS090Q3ozcjl5UzBsMmE4djlsMzlaNnk4cWJzYzdmRFBHaWpfWnlDZXJjMWZ6aU54ZEYwV1EwSGxlTjFPNTFkZFRMOWdjaGNrS01KSUJxTDB0Q19sRklVUHlYSE9pbHpxdnd3WkpqNWtjc0ZkM25XbTRHZVlQNG9NbEJoUzJaaHZoMi11SlF1bXZRbVhrWnItUGxhSzV3T1pwclNjVWpYd0VUQjhyRy0ya2dPNHV6WmZMbzA?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-14T22:52:18Z",
-      "category": "Economy",
-      "topic": "Global economy",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "a78d9f7dcb4e15af97f310",
+    "title": "Ronaldinho makes comeback in Ravenna win",
+    "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-15T19:31:48Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg"
+  },
+  {
+    "id": "8f0daad4a6acad5d4037a0",
+    "title": "Jensen Huang Considers Comeback as Nvidia CEO – FT Report",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGw0eTJiZ0UtMUhqX1M1RHd3MGFhTHprNFlvMW5GNWliQ1Z6ZjhmYWgyOFY2VnpwSnR2ZDU2dUpYR01lMEh5OXYtQWdaUmF0YUh3RURnSUdUNUlxYzF6alpOS2FQenVEVl9kcGFOSXUwbXpqS00yNlNmeF9oekpVWlJDVTJUUGVSbk9BUWhxQ01VX3BsaW1ZcFRzQXFTVUlMcFk0?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-15T19:31:21Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6c2c64409dfbba0f00e1fc",
     "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
     "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. S",
@@ -80,6 +104,18 @@
     "published": "2026-11-15T17:30:00Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "0941e94037106583e7b10d",
+    "title": "Grand Theft Auto 6 could make US$3–5 billion in the next week. Here’s how games make so much money",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFJLcVhna2FTSjVLMC00ZkFBT3pLY25HNWpZQlViXzJWNXNJdmx5MFF2M0F4NVZHRmJka0gxaG5IeVNVZ2c3WGhTRmFLcGw3RWYyRXpwaVNENzFsT1NLRlRpQUNIeHR5ZTZHNVZBUFlkZU11UlU3eTNnR0gxYl9YUlk0ZVhiOW53a1gyN0NtY0Qyd3M4OGlfYUlnd0JlY21GNjhNYld2RVVtVzNIUUx0V2NaXzBUQXRPSG9lRVpqT0FYN1JLZmVkYmltRQ?oc=5",
+    "source": "The Conversation",
+    "published": "2026-11-15T17:25:58Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -708,6 +744,18 @@
     "image": ""
   },
   {
+    "id": "26bd90e3963a58803eca62",
+    "title": "Anthropic | History, Controversies, & Claude AI",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+    "source": "Britannica",
+    "published": "2026-11-15T11:20:27Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a7d972996e0b1f164a2479",
     "title": "Exclusive: China's role as APEC's rotating chair creates an opportunity for all parties to build common ground: director of ABAC Secretariat",
     "summary": "",
@@ -1320,6 +1368,18 @@
     "image": ""
   },
   {
+    "id": "98686fe0acba2b07248b5f",
+    "title": "NAIRR Pilot: Access, Allocation & Research Guide",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VcmozS3Z1b0FHVEZKaDdkYWtzN29fcEU3RFltaTJoemd3QTNfWlpHanQyQW16bHFYWlVMX1hoZHNUNy13eVJVN1dvaFZMZw?oc=5",
+    "source": "CASRAI",
+    "published": "2026-11-15T00:42:35Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a5585e217b334b8e20578c",
     "title": "Japan firms thrive on AI boom, but uncertainty grows",
     "summary": "",
@@ -1364,6 +1424,18 @@
     "published": "2026-11-15T00:00:00Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "271e59c888d806de96f516",
+    "title": "From Making Music to Detecting Drones, Israeli Startups Bet on Sound",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYk1idnFreHJSZ0dkRkFJSldoaElxMkp5SlZyZnF3cy1BbGRKaHRoaE1xNFpaTHdPaEJpOGlxQnR3VVU2bEM3WlB6NUpjUmxtMGhnVU9mQmRLOEExbUJZN0d3ZXRfWU00TC15UDJjb1YyQXpralNfcGZZYTdlMWFSNmU2WnpOaC0tbWFoVm9jRmhWazQzNFEzMTdiaHR2VllnUVYzb3VZMXY?oc=5",
+    "source": "The Media Line",
+    "published": "2026-11-14T23:48:05Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -4392,6 +4464,18 @@
     "image": ""
   },
   {
+    "id": "4faea2d2ea7443806240ab",
+    "title": "Google unveils advanced Gemini 4 Hydrogen gen AI model",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmJsTVI5UWFCRGlxamRJNkJ3bWJMazVJSVFvZUJORlg3Z1B0M0phZFVXZ3BHLVBRbjdzUkRMUWR5NTVrS2lQckEwanowaEUtTHUteXpsT0JUMjhvR1pCZkJXZzYwWmZiREl0aUxlQUttOFNEUzlJMGd0ajJVdzU0LTA4Mkx1dDRId3g3VmtrOGRlSUlmUlB3TDc1XzFMcFlzTFBnVFVGYmtDY05YRlRUSGxzU2gzMGFqb0EwTGZTbU1lWWhh?oc=5",
+    "source": "Deccan Herald",
+    "published": "2026-11-13T14:07:48Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "332d7bc107a73ddb1c7b6f",
     "title": "Cineverse stock soars 16% on earnings beat despite revenue miss",
     "summary": "",
@@ -4448,6 +4532,18 @@
     "published": "2026-11-13T14:00:00Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "306cee0a405af00622e006",
+    "title": "Vertiv Launches PowerStation 3100 RPP for High-Density AI Racks",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnpVdnRDYk0xZDloNFFIcGlOVkNjR2V0cHR0RFVnMTZfNTI1Sk5aOTlrTGxnbzgyd1lGVWxFd21HeWloX3Axb29kcnA1dW8teDl0S2t1dHBHVDV2TVdCaXFrdzFGV0cxdzFnTTYyc3RBNFJ4eE1DWTRsSUZVQmFnWkp0eXNwUUw1Z25YZHNR?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-13T13:55:03Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -6802,6 +6898,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800"
+  },
+  {
+    "id": "f106e9857dd60936c48dd0",
+    "title": "Google launches Gemini 4 Hydrogen, targets faster AI workflows",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFZWTldPNDktREpkTG80NXBUcTBNb2dzV3pPdDRJb2FNb05YX0xCVnBEWWlnT1FORVoxbS05QnNGNXZ6MlNTZnVROHZfZ3RVMWs4WUdjbVc0ZlNNSHVybHlidXNyU2k2M1hyalVjcEFuOVZxRFI3ZWNmd3MwVmdZNDRLRVNxTWk4WU81eWlZeHo1cHNmRzczYXlENnRKODkwbFNybEhKdjFJZw?oc=5",
+    "source": "The American Bazaar",
+    "published": "2026-11-12T22:38:53Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "0e5b5b3bd28c82ae797d44",
