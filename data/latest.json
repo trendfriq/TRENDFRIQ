@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-15T03:23:43.919453Z",
+  "last_updated": "2026-11-15T04:29:33.002474Z",
   "articles": [
+    {
+      "id": "3ec5f05a65866a7ca487c1",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T03:21:04Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "1627e65899e9a695058250",
+      "title": "Regional leaders call for stronger trade and connectivity across Africa Staff Reporter REGIONAL leaders and policymakers have called for stronger transport, energy and digital connectivity, increased cross-border investm",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GYXpmOE1SdXlBd0pxbDhENEVhT0w4dUVMZVctbDNXZ2tNMGpNaWFkdE5TNzRHYTVmajZsWVl2TTFEZXlfLVVmMzdiTHpfX1B4Vmc?oc=5",
+      "source": "Instagram",
+      "published": "2026-11-15T03:00:46Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c718f0631c936bbe5dfaab",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T02:49:45Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
+    },
     {
       "id": "011a054fbb912473698957",
       "title": "IP GUANGDONG debuts at the Media Center of APEC Economic Leaders' Week",
@@ -1322,6 +1358,18 @@
       "image": ""
     },
     {
+      "id": "4043755c1ae76f06f9fe84",
+      "title": "What is APEC and who will be there?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-14T04:32:42Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "594c3cee980ec6a3b7dc96",
       "title": "Musinsa Partners with Central Marketing Group, a Subsidiary of Thailand’s Central Retail… “Musinsa Standard’s Local Business Launched in Full Swing”",
       "summary": "",
@@ -1392,54 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/7ed43949a5180577da723e2bf8cbe9c1ff30a73b/116_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68d437780fbfb97448d03edcbc01bb8a"
-    },
-    {
-      "id": "931624b756da6578e45d0a",
-      "title": "Trump, Xi, Putin plan an unprecedented joint meeting on sidelines of APEC",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNazk2TkJkMUd2Y3RZMnlyWXRBMUhKV05CbjJCQWE0SkFkOEFOZFBRU1pQSDNOOEdDanMxdWVzN0p5YXJ1MVNQM2lUb0I3bEdrR0ZXNm9xeXg0WGpiRHVlOGhWTm5WVkdSaTlDWmc5c29lZGVRZV9mR3ZYMTRZRFZZZlkyUk14bUNIZ3l3NDhGcGtjbnpwOThtQmo5NHVINHNuUDJPVGtjQWUzT2dQbGFIYThrZ2F5cUNvbDRRWS1RUTdFREdyWTVyam83dnprWmtFdGfSAdcBQVVfeXFMTkhtTEp6OE9ESzdoeHpsNkhKb0RBNlJMdXpsV09LNDBCTkhQV3JYbTlvTWtZaDNOWnhFcm9GNjhfZmFBREEtQmk2RFFmUlhzWUowZHlSdEhmRFFIeXNOaWpCOHJqaGo5SnptZVRIaFBGLWYzaVI3QWgtY0N1Q01jUVUwLUJlcnQ4TFZ3eG40dVFCN1dXSTg5ZG50Ykw1dmJiQmhGWmpzVXptQm9qRE1DUWRwdTJUZUFBZXlpUWFZVXZVOUE2cG4xbF9aZURLRnNKdW9XSWFDU3c?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-14T02:22:54Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "27fee21f2e3085279f72bf",
-      "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
-      "summary": "Transportation secretary Sean Duffy says the airspace is now open and the problem has been identified Chaos at US airports as stoppage grinds travel plans to a halt What to know about the rare nationwide ground stop issued by the FAA Flights in the US have slowly started resuming after being grounded for several hours on Friday due to a major communications ",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-      "source": "The Guardian",
-      "published": "2026-11-14T02:15:53Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e92a5ed37c42d2d0b970a61508f1aff9"
-    },
-    {
-      "id": "15ee692dbf097aa23a89d0",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how [&#8230;]",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "published": "2026-11-14T01:53:04Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3476fc1be3a8561e5e4b56",
-      "title": "Five features of APEC to know about with Trump, Putin and Xi set to attend",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0ZWM29GM3F1WThnOUZOTzRYcFpJekpZWk5XeHRFS3N4UzZ0R1RIX241WlZqVnRJeDhtbVpvOTI1OENXclBYbnAxMXdXR0xBclpUSDc5MmIzOW1oblMzRElmeHJ2V0FDZ1Z6MVFYS2hkN2xINGNCeHh1dXhIWWlKb3o2di0yVjZrcmhzZGVrNHQ1d2czWWVYYjEyb0Jsa0s3dlN6andNdWFxWnZ3?oc=5",
-      "source": "Awani International",
-      "published": "2026-11-14T01:34:53Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
