@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-14T23:36:43.758153Z",
+  "last_updated": "2026-11-15T00:12:54.648832Z",
   "articles": [
+    {
+      "id": "a8381ccf0f4a6c2675938f",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T00:08:07Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024"
+    },
+    {
+      "id": "481b8a42b10333c405eb0e",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-15T00:01:07Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg"
+    },
     {
       "id": "36ecb79e74511ac76b208b",
       "title": "Russia and Africa: Prospects for Co-production and Export of Creative Products",
@@ -23,7 +47,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
     },
     {
       "id": "22f849a8a999828818dbbf",
@@ -1416,30 +1440,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "84b19532843cbee98ded31",
-      "title": "Swedfund invests in Lightrock Fund to expand essential services in Africa",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekRUUzBBUUVIX1RMc191M25CMW1vSkpsb3cxd3JXVmNNSGJGM1JYMVZNM01GYWF2MTFRcGNxMVlRSldxczdXM1puWlRuS2NTWEY4RHRoTzI1aE0zNUNqbFFrVG03VDRfTl92eUR0QWVsR0kyYjl4LWwwOHlicE14OWFENjdmdFFGMklkU2ZyZkN4M3ZjSnczQllaNXlwU3ZkY3lnWHJJR0R2UDAwQktjY3doTXZEUVBHU0s1TzBR?oc=5",
-      "source": "Financial Nigeria",
-      "published": "2026-11-14T00:31:06Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d3ad8c146b04ab1db660b4",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T00:03:52Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
     }
   ],
   "countries": [
