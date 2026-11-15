@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T15:03:47.391404Z",
+  "last_updated": "2026-11-15T15:41:55.106058Z",
   "articles": [
     {
       "id": "56dedeeec32c3b29b8bb11",
@@ -107,7 +107,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "9a149bdd0ac60957348e1e",
@@ -206,6 +206,18 @@
       "image": ""
     },
     {
+      "id": "cea5c7c7e7fc292c0f39ca",
+      "title": "Minister backs legal right to job support for young people",
+      "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-15T13:06:15Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "id": "eda87df2e5d77660476d0a",
       "title": "Russia’s Foreign Trade Surplus Rises To US$116.8 Billion in January-September 2026 – Asia Now Takes 72% Of All Russian Trade: Economic Analysis",
       "summary": "",
@@ -298,6 +310,18 @@
       "published": "2026-11-15T12:30:56Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4cb992ee8a7cf178d5f359",
+      "title": "East African Community (EAC) and development partners strengthen partnerships",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajlPdXRmSkpnYW1RbzhiaVZBR3Z4SHB0QmwyN3NVOWp5aklkZUVHVngwTWhmQnVKcTNGWTBfczBMc0ZqY0NrVXA5QXB2OHptam1EMm5wSnFEZ2tCT0JBdXZvWFZvVzlNRHB5N3o1cURrb0M3dlpqX3pDLXFxMFRYWTFPaVZfVlZqdTVfVGV5U19vNmE5d2k1aXVlWHc2SHR3UWp6U2QtR3NzZUxpSTlTLXlaSE5VTmM?oc=5",
+      "source": "The Sierra Leone Telegraph",
+      "published": "2026-11-15T12:23:19Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -843,7 +867,7 @@
     },
     {
       "id": "3ec5f05a65866a7ca487c1",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
       "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1414,30 +1438,6 @@
       "published": "2026-11-14T15:44:39Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "43f46995ee098a26a06ad1",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T15:42:54Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg"
-    },
-    {
-      "id": "661588ab02ef6932a88b1c",
-      "title": "UAE, Mozambique expand trade cooperation at high-level business roundtable",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHhuWkVtdkhOdjhqTnVCSTQzLTQyOVdsWHZ6a2tMTmZSVjVmTWljdnFaUWFraHR6N2RBU2FLVzZHcHNDZGNzYW9wRnA4M21IVWszNW5jdlgzVEFOczNraXJCV2d5TDJhSUNzUzYxbHYtSnQtUGVSR2pLMjRKWFBlWDlSblA3NHhWdHk2TzcyckY4dw?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-11-14T15:39:20Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     }
