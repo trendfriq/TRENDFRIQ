@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-15T18:45:48.230157Z",
+  "last_updated": "2026-11-15T19:29:51.931326Z",
   "articles": [
+    {
+      "id": "4dd8727fc715d5551e0483",
+      "title": "Abu Dhabi Fund For Development Commits $500M To Mozambique As UAE Expands African Ties",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzNacGJFbHN4WXRXVVBRZHNzRTZVeUtfZ01Vcndla05BTEM0RTZVVmNUR1JraGFNTC04Sjk3a0d3S1JJMC03dXprdjR2UlFZMmNyaDQ5X2tKQXcwdUVFZ2xSVlZwSDlCVU9zaFpDUkRHdjFXendTVUZlMThtcExibHFhYjlaU2JPLVZpUlpONkZLSVRYWDhNUXVURG9yaHVZRkI1SXRDNE9ZV3dSeWhsVzFNa1lTeFA5blpJb245T1o?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-15T19:18:45Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6c2c64409dfbba0f00e1fc",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. S",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "published": "2026-11-15T19:15:43Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "3be354e1ada5b2701b0914",
       "title": "Hong Kong's development of an innovation ecosystem offers valuable lessons for Vietnam.",
@@ -62,6 +86,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
     },
     {
+      "id": "43b316ab72eb6de71ad04a",
+      "title": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTBjNV9KMnRJS3FqRnFxdU01NDVrM0M5T3c4bEphWGZKaHlaQUh2ZF9wY3doQWlCN2VsS2VOZGFQY3EycDFRaW50UWZjSjBfcXQzU3R3cS1MZTVtUnZOX25WSWZDUXBhSU5SRlNxNUlZdlFENm5FZ2JjbkpSMno0OVE4dlA5a3o4OFB5Uzl3Znc5VU5IMHJrRVMtOFh6am5LNFhGTUFuMXlLMll6ekQ4ZVVlUU1Vclc3QnZhUEd3?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-15T17:30:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d3a2c471fef7377be207c9",
       "title": "Czechs rally against plan to switch funding of public media",
       "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
@@ -108,6 +144,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "8a04f4d3f7722630b70b30",
+      "title": "Sink-Float Separation Tanks Market To 2035: Recycling and Circular Economy Fuel Growth - News and Statistics",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQUhZbDQzaVl6VVRZRWlFWE5vSEY2a1ROSm9XNGYyc2ZXNXdsQVcwXzRUOFU2c1FiT2hmVWkyMl9ueUZtM1cybjgwRFo5NHVLd0x1NnBKdTNYaGRFaENONEY4LUZ0eERaODJ6ZTJWRzRnZUhhR0tXR1VUTUE0TDFJd1dfTUxUbXZaQlctTC14ZEtrSU1FVDlJNDBtbEJ3aE54VHotZ21RcGE0cmRWUXVCR2pJNnc2ZURJaTdkMjlBRkNqYUpPSXRWeV9QLXM0SGRa?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-15T16:56:08Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "fa4e0adf980e8b4fb05709",
@@ -422,18 +470,6 @@
       "image": ""
     },
     {
-      "id": "4dd8727fc715d5551e0483",
-      "title": "Abu Dhabi Fund For Development Commits $500M To Mozambique As UAE Expands African Ties",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzNacGJFbHN4WXRXVVBRZHNzRTZVeUtfZ01Vcndla05BTEM0RTZVVmNUR1JraGFNTC04Sjk3a0d3S1JJMC03dXprdjR2UlFZMmNyaDQ5X2tKQXcwdUVFZ2xSVlZwSDlCVU9zaFpDUkRHdjFXendTVUZlMThtcExibHFhYjlaU2JPLVZpUlpONkZLSVRYWDhNUXVURG9yaHVZRkI1SXRDNE9ZV3dSeWhsVzFNa1lTeFA5blpJb245T1o?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-15T13:28:51Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "a0f183d4b9c4d76c0b77d4",
       "title": "GMA News. . WATCH: Foreign Affairs Secretary and ASEAN Ministerial Chair Theresa Lazaro explains the provisional agreement reached by ASEAN and China recognizing the 2002 Declaration on the Conduct of Parties (DOC) as th",
       "summary": "",
@@ -502,6 +538,18 @@
       "published": "2026-11-15T13:11:43Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1c010985d2b4da668da9f2",
+      "title": "Hermes – European Study Centre: Simpler rules and stronger enforcement can put an end to the black market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZWtVTGthV3ZTWEEzTkp2S3BDRXUySGduYmF6NlhRckw5WW1kdmZocTRsZ09keE81dGI0eW9keGRaZU9oY0NzQ2dUZGQtLW5WRWVaT00wRFY0bUtVVG9McW1aM0FMMzZXYWtuNnFrYUVSd1UwZmpsTXhxVldrQnR5ZURSVk5LMTdrbW9vQkoxakl6SEdVdFBTSHpkZWszeXBaYmhGNXpzR0Q1TXBycko4WlJyRW5UdU5taTFyLVpvc3NENzFsVU16M3JteFFSZXVRSVcwTFpMWGNiOXJIUW80Vy1NeEpUQ1Ezc2c?oc=5",
+      "source": "EU Reporter",
+      "published": "2026-11-15T13:10:04Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -576,18 +624,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "1c010985d2b4da668da9f2",
-      "title": "Hermes – European Study Centre: Simpler rules and stronger enforcement can put an end to the black market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZWtVTGthV3ZTWEEzTkp2S3BDRXUySGduYmF6NlhRckw5WW1kdmZocTRsZ09keE81dGI0eW9keGRaZU9oY0NzQ2dUZGQtLW5WRWVaT00wRFY0bUtVVG9McW1aM0FMMzZXYWtuNnFrYUVSd1UwZmpsTXhxVldrQnR5ZURSVk5LMTdrbW9vQkoxakl6SEdVdFBTSHpkZWszeXBaYmhGNXpzR0Q1TXBycko4WlJyRW5UdU5taTFyLVpvc3NENzFsVU16M3JteFFSZXVRSVcwTFpMWGNiOXJIUW80Vy1NeEpUQ1Ezc2c?oc=5",
-      "source": "EU Reporter",
-      "published": "2026-11-15T12:56:13Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "ed468dcea26e7985293cb9",
@@ -694,6 +730,18 @@
       "published": "2026-11-15T11:39:29Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8c49e5a4483620a054449f",
+      "title": "Learned to explore and tell stories",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMzgtR1NpTWVCQXRNcmtzOVdfSkl0RTY1TEZnbFhMdmh5aVk3V1J5anR3SUoxM1dwRTZyTVQzdUVWV0xXYWJXQktSX0w0YThpamZGVjZ5RTdra2Z4Rkx3QUI3UEFGYnpWeFpoUUE3WFNYZlFZNUczUFQ3SnExVFN5Z3l1WktXaWg0MWhibUJJOEk4Z9IBWkFVX3lxTE5yRGFiTEdyc2xJdWYwSXF6YndPX0tpY2tkbVJtTnhKVnNpUUpZNEhMZlI1di1IN00xaFRjWnFGbDJDcDdLNTRXRGxGak5hdmRRUmlrSnVYbi1hUQ?oc=5",
+      "source": "Oman Observer",
+      "published": "2026-11-15T11:32:10Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -850,6 +898,18 @@
       "published": "2026-11-15T09:40:00Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "29fc37137b95e3aec08176",
+      "title": "Taiwan spends more on foreign dignitaries to strengthen global support",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbzFkelJqVllnSldnWFhzaVhEWHFSMTNJOUxRd1pyakdJdV9HRW1KR0V2UGFwTmpPUmVBOTV0VW5WRklWTmo1dEdqcjhubkhfMmt2Yw?oc=5",
+      "source": "Taiwan News",
+      "published": "2026-11-15T09:38:00Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1380,66 +1440,6 @@
       "topic": "Global economy",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "4d3f357daa8cc28fb3231d",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T22:37:25Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
-    },
-    {
-      "id": "22f849a8a999828818dbbf",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T22:09:40Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "a75c77520fe3d784804f91",
-      "title": "The US has left Europe in the dust? That’s statistically illiterate",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNk9HVkRjVzEwb3RFWVoyZ0VpdUFTX3lSNEJiRGQxMmtuTHNZYmktb1BqMmR3NE5ZNGljcUJFcWtxWGtGaWdTY0twQWwzMlBMRHRNcGlhY0xjbjExNDBjcEZUY2FrcXppRW9IM0kyQzdEMklMZVc4T0tPX2llNDNjdmlpVGlmZklTOEpXR19Cd1kzYV9RNXJ2aEIwUQ?oc=5",
-      "source": "The Times",
-      "published": "2026-11-14T22:00:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c319b12e1cc2fac305d4cf",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "source": "The Verge",
-      "published": "2026-11-14T21:44:44Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "e86112d5f8734949cf9917",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T21:41:22Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
     }
   ],
   "countries": [
