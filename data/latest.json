@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-15T14:21:48.574503Z",
+  "last_updated": "2026-11-15T15:03:47.391404Z",
   "articles": [
+    {
+      "id": "56dedeeec32c3b29b8bb11",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-15T14:56:21Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "3eee448bd4ac3cd63eb220",
+      "title": "Warren Buffett stock market warning: What history reveals about crashes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVY5Y3FTMER1ZkpENjFWSWVzYjhVZjdUYXpjclN1YmFfWWFBV2g2dFNEQU8xYm9tcHRzd3FQc1FFMF9qM2UxdmpVcEZjTzhTQkpiMHFjc3JicFJ0anlndUJnQW5mUExsN1JWeGFveDJnN1NvbVREZHBjRF92T0hQSGNjaFZDbU5UNHk2bG8zWS1MVXBKakJmQnYzbjRvQQ?oc=5",
+      "source": "Beinsure",
+      "published": "2026-11-15T14:54:38Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3cfb13e0ba1e6a38e7f4ed",
+      "title": "Hanoi is gradually putting policies to promote science and technology into practice.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa05PZlp2aGJWQ1dDS1JmSUgxOUVHdnhqX1dIeEs5MFpEQmlaczl0RWkwTzB1VU5kb2hMel9JWGl5S0FtTnhpTTdzVE5aNl8xUzNVWU5UdS1kVndLZmd1S1ptaENxQXNSNnFnRl9JRjBPUTBHTG50MU9OQjQxVm1aT2tPR1RTMUxmdndTMXdhZU5zUmc5bjIxNVJFSmF1MnZVdVlBemRn?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-15T14:44:07Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2a7d344b49180c070f2700",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T14:33:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "e9062ee097e184d8310d8c",
+      "title": "Japanese companies report higher profits amid AI investment concerns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KYnUtU1VDNDR2Rm9kdXpzaXB6ZlNhZHVMMEllczJEbm4wWkI4SGtRWllQbHNFNnM3WHRBZVZMS2d3SmNfVUZhM3BjU0JxRTI3aU42RGotQzlYQjlPdnhF?oc=5",
+      "source": "Nation Thailand",
+      "published": "2026-11-15T14:28:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "8b4e2ed8969b403396e35b",
       "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
@@ -159,8 +219,8 @@
     },
     {
       "id": "52673a1dc1d143ba3a4015",
-      "title": "Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis",
-      "summary": "From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream. But is it fair? For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries. But as the notes of cinnamon and clove fill the room will you be burning money spent on",
+      "title": "Who’s duping whom? Cut-price versions of luxury items are Christmas hit",
+      "summary": "From Aldi candles to Quince’s cashmere jumpers, cheaper dupes of high-end goods have gone mainstream. But is it fair? For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries. But as the notes of cinnamon and clove fill the room will you be burning money spent on the Wh",
       "url": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
       "source": "The Guardian",
       "published": "2026-11-15T13:00:14Z",
@@ -214,6 +274,18 @@
       "published": "2026-11-15T12:48:21Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6794737940062c38e21c17",
+      "title": "Marcos yet to accept Lula’s invitation to visit Brazil By Ruth Abbey Gita-Carlos MANILA – Malacañang on Sunday clarified that President Ferdinand R. Marcos Jr. has yet to accept Brazilian President Luiz Inácio Lula da Si",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemFjT0dSUlliTnV5YUZMWnJzUGpvbXlhYUhjako2b2JXSGVHTFBGYklQTzh4Nmw5c2dMdWhtanhyODg0SmZCeEVnT043cTlVNHBOcG50SXpJb01NRFp6dXJ6cXl0RFZFRkQzdmJ4d2h1UzR1by12YU9KcFlRY0hZUWhuakVsdzBwcTk4ZDM1elllZlVveUgyVnVfT3ZTdE1Sa1gtNHdodnFCQ0xTSjhqdFlxYmZieXRUY0pxa1pTakN3LUFHRE5teVdxZVhEQlJxTzJPWA?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-15T12:37:37Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -482,6 +554,18 @@
       "image": ""
     },
     {
+      "id": "02b22d1ff79e06e540a2bc",
+      "title": "Don’t pick sides: Business, civil society groups back JAZA’s call for closer ties with US, China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb045V3lyZnhmbUxxR0xKaGJiTnJNeDFkNXRPOFA2SzhYTGtNb1dHdHlPLW5RSG5xMGk0M3BOVFNpWUNzQy1KOFpSNG9HNmo3SEJBZk1JcnNiOGd1RnM3dDB2RVZzcUNuV1BvYnk0SDRvMmlkWUFYQWo1S3lJejFiU0JfanpnQWduN2V6dVF6VTdnQ2dvbmpHUVJkbG9fMExQdVdNNGlzZWJ4cVQtdUQxUG9BNFBvZw?oc=5",
+      "source": "Bilyonaryo Business",
+      "published": "2026-11-15T08:47:56Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "57c2a1c76702eb25964670",
       "title": "My Take | The dollar’s reign endures not by merit but by default",
       "summary": "",
@@ -490,18 +574,6 @@
       "published": "2026-11-15T08:30:06Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "02b22d1ff79e06e540a2bc",
-      "title": "Don’t pick sides: Business, civil society groups back JAZA’s call for closer ties with US, China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb045V3lyZnhmbUxxR0xKaGJiTnJNeDFkNXRPOFA2SzhYTGtNb1dHdHlPLW5RSG5xMGk0M3BOVFNpWUNzQy1KOFpSNG9HNmo3SEJBZk1JcnNiOGd1RnM3dDB2RVZzcUNuV1BvYnk0SDRvMmlkWUFYQWo1S3lJejFiU0JfanpnQWduN2V6dVF6VTdnQ2dvbmpHUVJkbG9fMExQdVdNNGlzZWJ4cVQtdUQxUG9BNFBvZw?oc=5",
-      "source": "Bilyonaryo Business",
-      "published": "2026-11-15T08:28:37Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -962,18 +1034,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
     },
     {
-      "id": "2a7d344b49180c070f2700",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T22:27:06Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "id": "22f849a8a999828818dbbf",
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
@@ -1376,66 +1436,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHhuWkVtdkhOdjhqTnVCSTQzLTQyOVdsWHZ6a2tMTmZSVjVmTWljdnFaUWFraHR6N2RBU2FLVzZHcHNDZGNzYW9wRnA4M21IVWszNW5jdlgzVEFOczNraXJCV2d5TDJhSUNzUzYxbHYtSnQtUGVSR2pLMjRKWFBlWDlSblA3NHhWdHk2TzcyckY4dw?oc=5",
       "source": "www.wam.ae",
       "published": "2026-11-14T15:39:20Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2300b7dd737bd280a08f20",
-      "title": "Russia’s Special Economic Zones Take Off With US$45.8 Billion Of Investments & Plans To Expand Across BRICS",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUXlVaHpWeVZwWnhhUzlnclZtV2tPUWZaOVZ4emFZYjl1TXBCdFB0VTNqd0Z2dmIyS2gyS1gwTnQ4alV0ejRiTzNpZlJhb0VzZ2VWeWNHN29pc1RWcXE2VHlMUzRaeHEyUFAtVUxUamdIR3ZnbkluTUdBOW1Hb0t0MUYwdUZhNzcxNDhpSVh5TGFYNGlIQnlhRm03RXNkbjNxSzFmdlRoVWlBblZWNVlCRTY4LTc0cUxibzc3dkRRb3Izb2tINHJaS1hNbjd5NVlq?oc=5",
-      "source": "russia's pivot to asia",
-      "published": "2026-11-14T15:21:02Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2a93dbaf7a77ea3909f403",
-      "title": "Elon Musk: Nvidia May Lose Key Deals Without CEO Jensen Huang",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEQ0clpxems3UHV6M21aMVdoa3VIcjE1cHZCNk1XaEVSRjJWY3JWSmtOdVBic3pFeXdGaGtYVUlaRnFpbnItRkYtaXlxSmM0aEQ0YmZQXzhJbXdOWThaWEllQVFFMk93OGpMYndmRTZpOG82V1pyNDNKbmpwbkFfNVZEendNdEZUUmpkNkFPdGYwSzNnZ2JsQQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-14T15:06:17Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "74ce09572bbce703b96b4b",
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "source": "The Verge",
-      "published": "2026-11-14T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6c2539c06ead4df205307d",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "published": "2026-11-14T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3fb686af90c54b2493917f",
-      "title": "The Cuba Embargo Under International Law: Is the US Policy Lawful?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53a19kelE4QzVETGxwZXYxTnFuVFhfN0g3Z09qS1M3dFljc3A4WnQ1VUhBeGFwU1B0bjBpcDVzaW5aRGFEbF84RVo2bWI2elBSQVQ3cmVaUldyNTRrbkE?oc=5",
-      "source": "Diplomacy and Law",
-      "published": "2026-11-14T14:57:41Z",
       "category": "World",
       "topic": "World affairs",
       "country": "",
