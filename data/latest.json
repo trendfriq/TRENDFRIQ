@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-15T07:41:47.221554Z",
+  "last_updated": "2026-11-15T08:34:33.232361Z",
   "articles": [
+    {
+      "id": "02b22d1ff79e06e540a2bc",
+      "title": "Don’t pick sides: Business, civil society groups back JAZA’s call for closer ties with US, China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb045V3lyZnhmbUxxR0xKaGJiTnJNeDFkNXRPOFA2SzhYTGtNb1dHdHlPLW5RSG5xMGk0M3BOVFNpWUNzQy1KOFpSNG9HNmo3SEJBZk1JcnNiOGd1RnM3dDB2RVZzcUNuV1BvYnk0SDRvMmlkWUFYQWo1S3lJejFiU0JfanpnQWduN2V6dVF6VTdnQ2dvbmpHUVJkbG9fMExQdVdNNGlzZWJ4cVQtdUQxUG9BNFBvZw?oc=5",
+      "source": "Bilyonaryo Business",
+      "published": "2026-11-15T08:28:37Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6b2e3c144cb16d988b0ee6",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T08:17:41Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "724add24669d1d0eebc7c1",
+      "title": "New York Launches AI Safety Center to Independently Test AI Models",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUxJRlJwUThReUhGa1hWRDJPdUhrT1pKM19jVjRxT1R0d1RMZi1aT3FmMDVRRVZLUE4xUjN0S3puN2FFdU53ZVo5SDRscnoxdWhkZHppWXU0NVV3ZmF3LXJFNWVlUVlvUFNnaTB4cHJPd1g0Tl9vTDVhcE5QdnJKbmhKUjZyRXphY19CdUdR?oc=5",
+      "source": "Technology Org",
+      "published": "2026-11-15T07:39:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "1e4c1fc5abc49ad27fd21b",
       "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
@@ -12,6 +48,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "fa4e0adf980e8b4fb05709",
+      "title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVWYmlSSkRLUWpBSHctZE9JWHZQVHhpNnFLellld3NXYzJiVl92VmpBWEViTHBhVEd1dGlyYTdFSXdOSTdfWWJGLVVsNXg5NEQ4S3RSZlhzR0hiUmRQTmpnR1lPU3BVMjZBNVZ1RmFQRmN2Q0I4WGtqdDlNM202dFJFZmMyRjhicXdnR1U3c3QtUUJpeFFwNVFfQ2Y1QzZvT2NLeXVla2hpRDg0R3d5WDBxVjQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-15T07:10:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "77f68bbe88767b467da5d6",
@@ -86,10 +134,46 @@
       "image": ""
     },
     {
+      "id": "5ff960c7cde15efbe53566",
+      "title": "Working Visit: President Ramaphosa arrives in California",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXNtQ0xyVFNZS1RBbVlIMzQzVEwtODJlUUlFQnVzVHdMUFZpYnJ3bVdXWWo0eElpTWR4aFNBc21oZ19FX0hQYVpVb1RFQkIyNjZJMnRCQkpFcWs2OFYtZmliVmhSdko5bjctOGZmT0E2bHFLR2kyUzdsOFJtQlNONFFQczhzUkNOLW9NcUNnRW5UemVrR0E?oc=5",
+      "source": "South African Government News Agency",
+      "published": "2026-11-15T05:42:43Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "88ae8519810edd18b6930c",
+      "title": "Nvidia earnings — along with the baggage — top next week's markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNF90WjZ0QlBHdHhaWVZrX0h6WUo1OWpZSlN2UW5Eam5RbXo1amx1ejVxeC1SdXpiQTFLR3VLeGtJLXFWRFNRRmw2VHJ6ei1HYzBZeDNVZUhCR2x0c2oySGEtLUFuQXBwb0xmbnUteU1UWEZXd2czTUF3UF9nTDJHX3h1OVZ2SW4wX1FJSjZheUpBU2Eybk5uQzYzb0dQQ2s?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-15T05:37:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f6053f30f6c5293904d845",
       "title": "Cambodia Showcases Investment Potential to the Francophone Business World",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXlYWHRfSUlxSEsxMjBTMHd5YWhjS0dRdVZqTmZfRVFZVHhyTVBoeDg5a2pTMktGd1lMWWVWa2RIRThLN3NLNmNsalYzLW5FNk9aVHdXSUJxUUxyNmRQVkhKVktCaXRvNjlRcjBNT203UjMxOVQtbklwS0dGY1RzbV8wQmI5NnFOa2p1VktFUThma3NLVTE2dUpsc25ob3NiSVNqaQ?oc=5",
+      "source": "Kiripost",
+      "published": "2026-11-15T05:07:01Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "39c77a6ee1b4fa9dad7e5c",
+      "title": "Cambodia Showcases Investment Potential to the Francophone Business World",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWwxZmZzaXVmQnZJQk9YcE5tNnlvckVKbGYwTFRXSFYyWXJrYk84YjM0RUNCY0tWNGRCdVJPWEdNRUVCZ3N0N1F3UTVsYm9hYm5FMnEtaFM3WExhY3ZpTF9oYzRzUWduVS1LSksyT24wODdKVnQteW5rMU1YM2kzOURpWkQwRHhqLTNtR01heDEwYUNpUWQ5bDZMeldyR0JINFoxU01B?oc=5",
       "source": "Kiripost",
       "published": "2026-11-15T05:07:01Z",
       "category": "World",
@@ -106,6 +190,18 @@
       "published": "2026-11-15T05:00:00Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6dc415af6e6f2310f5a0b4",
+      "title": "3 Capital Markets Stocks That Could Benefit From Rising IPO Activity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQkxZRWkyY0FITl9GNVdZUHM1UklFckMteVl0MlpDeWJUSERjTXdBMEJURUZITTVaVm91Z2d0cFl3NElueFIwMkJ5azJTRFk4N0RxbW5JbWdmc0R6UFdSSnIwY3Ayc3Q1WEp0RWFUWjg3enBfeUlNUm81QUFUVVAzWVMyTUtPWnY1UEt1UnU0cWh5ZS1SZHh5Nm0zcw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-15T04:39:09Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -1344,102 +1440,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
-    },
-    {
-      "id": "d46a85363b8b338671c33a",
-      "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1dXaUtCSGlFOWNmcFV1b2lFdzRNR09TNzd2OUJIcU9saHRsekpKY0JiOEFiVnFRS1N5TWdYNHhleEJkOFczaXNTMWRPSFdYeEFxQklKb1hXRjQxdTR0c3doNDBoenFzVXk2YzVXb2hodjhESGVLZXpoNzRVQXBXbEF2Z3FhaVd4UmkxdlRsaGJjclU0N1VuZExNdnpJMkwzdGJnT29IX3pJS2JIODVjQlcyVENPVWJrRUxyUWZhaXplcmpQZ2o4a0lPOTI?oc=5",
-      "source": "News4JAX",
-      "published": "2026-11-14T06:37:02Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6b2baa6e92cc531a2847d3",
-      "title": "Asia Pacific’s ageing population faces rising chronic disease crisis as experts call for early action",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONmJkcjBZUUotUFdHcEVPUy1fUnJTZnVmYUlIT2hvN1oyUDNKZkpLNTZETVRIRlY5RlZNcUdHUFlMcVVrSThMVFVQSGVnX1RNMmVvQ202ak1qOEk5Q3pzQTVUM29LUnVFYUtXODlzcGlJbEU2Rml0a2tjUzEtSHAtM1JjX0VqdVVRc2xncFBOT0dYZUpNVHRHUDBZSWY1amo2djRDNXhQMlE4NVl2ckl4N1RpeDdrRjBqemN1dnNIajdRc1JxUkVtSmhtX3piUQ?oc=5",
-      "source": "Investify",
-      "published": "2026-11-14T06:29:51Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0466ec2c0690d0bf6a430c",
-      "title": "Canada and US Move Forward on Trade Deal, Carney States Progress",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0FZODM2MmZ5clgtVXVXam5CVGNfUUVxU3lGTmhRNVdINks0N1Vlb0N5YnVZNUlYSkcyX2pqajk5VWtyYkp2R3BpN0ZlSkEwLVB2RmxjZkRTVE9PRk05WmYxR005Sm9GRWF0eDdUTzBLVG92QU41cEwtNmhkV19ZMF9FN1BoTENjMnc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-14T06:21:17Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b1ad75bcef5522cc54b892",
-      "title": "APEC 2026: How can China help unleash Asia-Pacific economic opportunities?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zeUktNTVqamZIYXN4aXBKc1hsWnNLVGkwNWk2OTdaN3RWUllsWXpNdVRhUmM1V3hMV05JTndTcHZCU1NvV214VDBTamVlX3BSR2g2cUtiSFZhNUF3dTYzSNIBXEFVX3lxTFA1Q2NzYVF3aThBODFFOXdHQXZsRlZLaWRBSkE4WGNQT0NTRFJSUVN5Q1luR3NDaERSZ1dQTkVuaEI1N0lqeG0tUUMtUlhtX3JFXy0xMmZVYW1VQXRC?oc=5",
-      "source": "Modern Ghana",
-      "published": "2026-11-14T06:10:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "31fd67374d7f8166a3bea5",
-      "title": "APEC 2026: How can China help unleash Asia-Pacific economic opportunities?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tWDhGYWJkSFpldXZKRC1fT3M4OUVjVFl6MjdhcXB1ay05ZUFncFExY0xYWkRmUW9HeWpPQjVHZlZ3SW10WXd1T0Z6TmJqZU1Jemt3cnV6Z3FiaVdSaExUSdIBXEFVX3lxTFA1Q2NzYVF3aThBODFFOXdHQXZsRlZLaWRBSkE4WGNQT0NTRFJSUVN5Q1luR3NDaERSZ1dQTkVuaEI1N0lqeG0tUUMtUlhtX3JFXy0xMmZVYW1VQXRC?oc=5",
-      "source": "Modern Ghana",
-      "published": "2026-11-14T06:10:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "39a042b71f179d506d9651",
-      "title": "Stocks fall but Wall Street notches a winning week after several turbulent days",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0l6azQyZFF0dWM1TUJvTEMyak85ei05LTU3ZEZ3VC13ZVVocElSZEp2OU9fNXlGQmJwLXU5bEZHazhVcDBnUlZpdGdEeGhnOGRFMndYQ0RmdFBNSmF6VVRBcGx3VDJJdWY5ZlYwU05ONFE3aDI1UUMyajRaX1daTUtReWNpNXFjSlEwazRwNmZTcTlfTWxVRktRbVVaUXFMNlcxTExacGJ3cnJNUEttTTBxV1loamx1SENaZ3ZmSks?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-14T06:05:29Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f399c210d9a141aaf13a82",
-      "title": "John Hancock 2025 Lifetime Blend Portfolio Q3 2026 Commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVkQWltdVoySXZsdEZBZXNmSkQ5WG16VFNWM3E4cjItZnNSOGZ3SFhKS3l2OUE2ZXdKZzVOOGtvSk45LVBsSUJ4YTRuYXBJNFlEcjNLNkwtXzk1ZEtmWDlOOTBRWmg4VnVDNTJYaENOX0pDZ2owZWxlTHpGaUxVYk1McGcycGRXdTZVbEFHa0VFcTMxZm1TcFBwZUJfaGEtRDFldA?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-14T06:05:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "11c9b0eb20595d98b21305",
-      "title": "Global Cosmetics News – Weekly Review | Week 46, November 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVl9JcEU4dFY1MFVaak1kTlQ0bU9lcEtzTnM2cDRhbk5iRllXdFlXQUJna1NDVEFvbXVDbHZJNVd3OXlzWUtsLVV2Y3E4Q0pSbDZ4N1ZnQ1Raemk4LTNXbWdMMnRZOXB5eHBoX1VqNmd1OVotTmtSekIzOWxuMkx1ZmpOR0EyQnRJLUdXa2xNMXc3TG9CR1FURFJn?oc=5",
-      "source": "Global Cosmetics News",
-      "published": "2026-11-14T06:03:28Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
