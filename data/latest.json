@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-15T22:24:07.705160Z",
+  "last_updated": "2026-11-15T23:16:30.001664Z",
   "articles": [
+    {
+      "id": "33a1f45b80df6d856c3322",
+      "title": "Nelson attracts growing tech and creative workforce",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yeU5VTDlOLWttV1h5aU5GZ0dKUDRhR3VDR2tBVWtxY0Q0VktfMkRQWHNuTjNlVTc1THVDejNRbGhNUFhrQ2ZDOHM0bWtsMHNjeE84c3dMbmZKdF9IS2xram5PWUJMOGZrX284?oc=5",
+      "source": "Top South Now",
+      "published": "2026-11-15T23:07:49Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bb887fb1f815b831215db1",
+      "title": "Why Emirates' Airbus A380 Premium Economy Has Quietly Become The Sweet Spot On Europe-Dubai Routes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWtIU0Yxb0ZxeWpUekE2Zk9UVFN3YkNURkpyTkctNFJfNzlhQVByUWV5UWVWSUJZRk83cy0zcWFjNnltVmZFVDgxemhTbElYeFZkakJabHUzcXptNXpJUWlJOXU0RDBEc2FpQWljZUpMd1UzRnVnT1lHQ0ZUdHUxTVRpbHpNTDZMenNHb1VLVWFtTndsT1VsRFE4T1pRZ291cEgxdUZlUGtmZWpBNGVFVmpYdTc0Wnc?oc=5",
+      "source": "Simple Flying",
+      "published": "2026-11-15T22:30:18Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5a8aa761e2fb8eb069ff48",
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-15T22:30:03Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png"
+    },
+    {
+      "id": "b94017ac948dc1186eb06e",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T22:28:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg"
+    },
+    {
+      "id": "56dedeeec32c3b29b8bb11",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-15T22:24:20Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
+    },
     {
       "id": "7d136568c38b6a127927eb",
       "title": "What to expect from Trump and Xi's upcoming meeting in China",
@@ -24,6 +84,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2668+0+0/resize/4000x2668!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F70%2Fa2ecb0cb41c6bd401f594e5a314a%2Fgettyimages-2227834145.jpg"
+    },
+    {
+      "id": "df8ee19de152cb59506fdf",
+      "title": "Taiwan Stocks Surge Nearly 4,000 Points in a Single Week to Reclaim 43,675, as Analysts Name 14 ASIC and AI Supply Chain Plays With High Earnings Visibility",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aOTJaMW1qY3VWNlNvbHd5UGsxNnZsOFRlYmdockNBN3R4Q0dtbHozcnA1VTVXZUMtdUkxZkY5bVQ4X1I1VC1zY0pHMXc3N1A2T1YxQ2dUTGJJQjBlX0JZa3JiWXJUcmE5X3lUSFpqOGdBSWVrV0E?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-15T22:05:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "f96cd1a4f7e4854ec5b24d",
@@ -60,6 +132,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "id": "dc785de9ef44a414b59caf",
+      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes &#38; Ladders ranks among their best. It doesn't have the seamless throughline production-wise that their collabs with Alchemist [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "source": "The Verge",
+      "published": "2026-11-15T21:49:22Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a0664469113_10.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "2f2c30588693acd821e26b",
@@ -132,6 +216,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
+    },
+    {
+      "id": "b55046e9f3b7c980e1467b",
+      "title": "DADTCO Group: Diamond Sponsor Championing African Industrialisation, Investment and Regional Economic Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT1lKSi1Dd0JGelcwUEhwbV9TbEpPRy1MMVJ3TFBta0xjNTJrZS0zQS1jZEJIbVpLWi1NOEtQNFZOYlk4bEdGTk9vdjk2ZnZXLVFHdERFTnNEVnBCN3dZbTF3Y3Fyc1JWMjlUaHdXYzNiTmN5cVhoQ0dtZDgycnR1ZkplNFkzWjZlV1RSLWo0aVBhVUpSY0FqNGRfR3JLbWYxbldUdFI4ems3c2FmQUs4Q1IwbjR2eW9KbzgwRWN6cVA5SzJFM3A3N1Y4aWVOZVc1T2Vvd0FlMWItUQ?oc=5",
+      "source": "Railways Africa",
+      "published": "2026-11-15T20:50:35Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7310523931ec31d7ed58d6",
@@ -410,18 +506,6 @@
       "image": ""
     },
     {
-      "id": "33a1f45b80df6d856c3322",
-      "title": "Nelson attracts growing tech and creative workforce",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yeU5VTDlOLWttV1h5aU5GZ0dKUDRhR3VDR2tBVWtxY0Q0VktfMkRQWHNuTjNlVTc1THVDejNRbGhNUFhrQ2ZDOHM0bWtsMHNjeE84c3dMbmZKdF9IS2xram5PWUJMOGZrX284?oc=5",
-      "source": "Top South Now",
-      "published": "2026-11-15T17:07:49Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "7da8a1038905f9ee953817",
       "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
@@ -487,7 +571,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCLXRUU1FfaVZaNGJVR2g1YVdGbWNwYjh6MklNLTU0dDFvbTBhLVNoUUVVQzBCZ3pkeXUyVHAyZlZZSndsM3AydVdHLTlCX1ZDV0I1NmhpRjdlOWpMcjlwZ2J0RkVVbXl6bTNxMHdVekxQaU5SSUV3?oc=5",
       "source": "Stocks Down Under",
-      "published": "2026-11-15T16:37:26Z",
+      "published": "2026-11-15T16:39:28Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -662,16 +746,16 @@
       "image": "https://i.guim.co.uk/img/media/6b7d531b60f99a928397b882d7518a377a68074d/0_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3c3240c442b5d746c6619c39c86afd74"
     },
     {
-      "id": "56dedeeec32c3b29b8bb11",
+      "id": "44fd960c294cf436a3af98",
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92eWpwdjBvWG9Zbnd0XzRDN25Oc1M0Q1hGdVRzSHhqdmpjRFNpektZT0Vfb3hPYl82WXp6dHBtSWR1VGZRdDVIMWVETWdZUlJaWGRzbms5ZHFKRFpoeUE?oc=5",
+      "source": "BBC",
       "published": "2026-11-15T14:56:21Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
+      "image": ""
     },
     {
       "id": "3eee448bd4ac3cd63eb220",
@@ -1058,18 +1142,6 @@
       "image": ""
     },
     {
-      "id": "b55046e9f3b7c980e1467b",
-      "title": "DADTCO Group: Diamond Sponsor Championing African Industrialisation, Investment and Regional Economic Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT1lKSi1Dd0JGelcwUEhwbV9TbEpPRy1MMVJ3TFBta0xjNTJrZS0zQS1jZEJIbVpLWi1NOEtQNFZOYlk4bEdGTk9vdjk2ZnZXLVFHdERFTnNEVnBCN3dZbTF3Y3Fyc1JWMjlUaHdXYzNiTmN5cVhoQ0dtZDgycnR1ZkplNFkzWjZlV1RSLWo0aVBhVUpSY0FqNGRfR3JLbWYxbldUdFI4ems3c2FmQUs4Q1IwbjR2eW9KbzgwRWN6cVA5SzJFM3A3N1Y4aWVOZVc1T2Vvd0FlMWItUQ?oc=5",
-      "source": "Railways Africa",
-      "published": "2026-11-15T11:59:22Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "1f3f08d91e963e711965de",
       "title": "China-West Africa investment and industrialization dialogue in Freetown",
       "summary": "",
@@ -1078,6 +1150,18 @@
       "published": "2026-11-15T11:57:16Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e1f7fc557beabfd2df6be9",
+      "title": "Raising the Key Rate: Is the cure worse than the disease? : The high risks of fighting a supply shock with higher interest rates when growth, investment and exports are already weakening",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONzBrWWRLOUhJUkV1N2JSbUdRZUNVTTkxcTh0ZHMwcTFRWV9Cc0NUSjFOS29ISmMzN0dtTi1HTGI2am52alNBbGZ3Qk03bW9nNTJyd0xkSWhuWkM1dG02cnh0emg4clVPaGRIYTRXWE1FblZhdEtwSkxTRmdUamtaaUc5NC01emdNQ2lmTXVLVWUtMzludTBfLW1PWVlCS2NIZFprblRXRkwtTzRxUTdzb1gzeEVCZmt1UlRLTnNEaGozbEtRUmgwNEZKM2FWSzZwT3ZDd1luekZncTI3cWZBZnNVRE5JeHV6Q2c?oc=5",
+      "source": "lexpress.mu",
+      "published": "2026-11-15T11:55:59Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1356,90 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69"
-    },
-    {
-      "id": "d9402c2d1cf3f4cc207bb9",
-      "title": "Over 100 global giants head to Shenzhen as Apec spotlight turns to CEO Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN0s5eXBWMHRiUUxXZFh6VVFrY3lUd21iOFg0Q3ZOTHRRN05iRDZWcWZkWUNaclFfYTJrSUl3azhtaDR0UERKdEE5NURacXRmWGE3TnEybXVCWGlxdGx5RW12UXZfQ2VXUGJwWWc2b0wwNUVRRG42VUZ6cV8zVFljWEdvdUU3d1Q0SWc1Zmk5aFl3NXhZNW9aWnJPcVJEaVYwdHhJZXBvYXFPRFZHNFJXdG45NkdFTkxUMFVxQkhzbzNVOVZSbnRZQk82ZEtQd0F0a2lhZUl3?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-15T08:51:02Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d02324ee2bce258ede3711",
-      "title": "Korean Fuel Exports Shore Up Energy Security in Australia, Europe",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnB3VTU5dHU1SU9oM053ajVuaHBnazZrYXZJMVhJRnNPUTBodUNIM1FIbFFVcC1VanNjOXQ0emNuOTEzM0hYZDY4NFlCZWlSZzZxYUxwaVJhbXMwTTNzU3B1cWg5VVlKbTFzQUJoSjJNNlpDYTlFaTBJdy1ZNldSaWhpeDRIdlFjbTRjSUVGRmxnazYxNUFEZ29LNmIzQjFFVWc?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-15T08:50:35Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "02b22d1ff79e06e540a2bc",
-      "title": "Don’t pick sides: Business, civil society groups back JAZA’s call for closer ties with US, China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb045V3lyZnhmbUxxR0xKaGJiTnJNeDFkNXRPOFA2SzhYTGtNb1dHdHlPLW5RSG5xMGk0M3BOVFNpWUNzQy1KOFpSNG9HNmo3SEJBZk1JcnNiOGd1RnM3dDB2RVZzcUNuV1BvYnk0SDRvMmlkWUFYQWo1S3lJejFiU0JfanpnQWduN2V6dVF6VTdnQ2dvbmpHUVJkbG9fMExQdVdNNGlzZWJ4cVQtdUQxUG9BNFBvZw?oc=5",
-      "source": "Bilyonaryo Business",
-      "published": "2026-11-15T08:47:56Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fe730e68acacf75bc83603",
-      "title": "China-West Africa Investment and Industrialization Dialogue Held Successfully in Freetown",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzVtcWpOVjV0anV2QkJUYTRoTlY3RjdNOFpvNnhpMnlYa1ZIWWVDcElRZ2FpLTNrSXdISmk3cWxvdmdEZXNMY2JkYWowdHZLVTU4WXhZWlB3cGQtblJPX2Nmb2xKVVVaQ2dTRTBCb2pKV0tLZ1VBc3BPZnU5aHlNZHJsZUVEa0tEeTl0UVJTYWdPcVZ2NWF2S29fZ1ZmeU5XanREMU4wVGIzN3lVR1NyZw?oc=5",
-      "source": "Africa.com",
-      "published": "2026-11-15T08:46:24Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "57c2a1c76702eb25964670",
-      "title": "My Take | The dollar’s reign endures not by merit but by default",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTU84MmxGNXd6cXdBLVFhODVhb1FGeDE1Tl9PU0E1NFNMSS16ZkZwMDd2X2ZIOVpRSG9oVDV3VTJZWFdTYTBXRXluSlQ2NThDLW5ubzNwcW9XN2F3cVlGRjBrVkRhVjNwcFpWenJDWURQWG5sNEtZdjFlbGlHUGRTY1ZVUW9zMlczNkQtaGxRR2h1bGdMUFp6amxYMmRORFHSAZ8BQVVfeXFMT2NJZ2cyc1VaZU1VMF9McTVadGRhaHZMcTdjZWM3ZlZKeDJiN1pkb1g3eFVpYkQtZGVDeDBadHNFR1Azc0ZUaTVXS3VaNFBHMlBKc2FzdkdaM2xRVVhMWENpcnpwcGE0cjM0R3dpSGxHVnRNZjg1a3JYUk9Xdjl1TUxSd3lXTklleFVndGpSSE1fZHZlRjZPZ1Y5RlRPU3hZ?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-15T08:30:06Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eed17759ec7571c13282d6",
-      "title": "AfSNET 2026: Sub-national leaders urged to unlock $9.5bn trade pipeline",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42YkZ6TGZVeFlMT3FEeEN6bVRnSDVHLXR4NXVyRnlwTzJWNmEzY0dBeHJDYm1kdGN2M0hVdHBlZEVaSmFGSkJ5OQ?oc=5",
-      "source": "Business News Nigeria",
-      "published": "2026-11-15T08:29:29Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6b2e3c144cb16d988b0ee6",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-15T08:17:41Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "countries": [
