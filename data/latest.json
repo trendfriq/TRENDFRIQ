@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-15T06:26:21.428876Z",
+  "last_updated": "2026-11-15T07:41:47.221554Z",
   "articles": [
+    {
+      "id": "1e4c1fc5abc49ad27fd21b",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T07:10:31Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "77f68bbe88767b467da5d6",
+      "title": "Oman opens the door to billions in Chinese capital as Gulf investment map shifts",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWR3VXViWlFPd2xoWkZXRFF2SE4yV0FZQXFaZnFYeWNlYmxzMjhKelIxRlpUSGJGWlA5bGhaRWhSRGtKeG9reHpSZGN1bW9BRGJOMlBfWWNYZVJ4UENFTHJXN3NDVXZEdDVLQ1NadV9vR2NHMmUtQ3VNaVZpSFFTN2pORTFVWXd3dEhNeFFMT1VEbU1scEdRNlpaTTBvYzA0Vjhsd0sxTUdQSU1MZXd6c0Vfb0xMd3pwNVZLRzJn?oc=5",
+      "source": "Arabian Business",
+      "published": "2026-11-15T06:44:01Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2782fdb82e6e4cfe8e83dc",
+      "title": "Food firms hope EU deal will end 'onerous' export process",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xR2gwa0E1Tk05WWVZOUlCSnB6ZG90ZjJvS3VpRDdURVFLMHpvMUpCbHZrRV9VYlNZMWItSnlxTmY2U1FmMGpodzhIa19fM2xEU0NLbFhQS0UxLU0?oc=5",
+      "source": "BBC",
+      "published": "2026-11-15T06:32:31Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "16527154534e9506684466",
+      "title": "115 Fortune Global 500 companies to attend APEC CEO Summit in Shenzhen",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94Zkp4RC1lN1VhUEZQMWM3NXhNckw0eGFmdTdzNTRJb0FDTF9QV0o3TW91OS05Z2Ewb1ROaXRpQnN5cFZsaGYxTFlBRHFnTHNKcFRaRVJvdlN0RWJJaVlUUkdR?oc=5",
+      "source": "Global Times",
+      "published": "2026-11-15T06:20:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "42032cffa98b81227c9eef",
+      "title": "DW News. . Young people across Europe risk ending up worse off economically than previous generations. Soaring housing costs, stagnant wages and limited government support are putting them under growing financial pressur",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZmdCbGNqNl9JMTNzVmlLcmxQSUpwSFpid29fcWpRdTRSajF6enk0Nk1MQXE4SkR3SG5odkxBeGNFQ2RXVEpXVlA5bXpiTHhQQzlmMk95QWFwZTFTbjNrbG15cmVFZUJkVHR5djVWT005eExfS2VQcDl5Y09TUDN6NTdUOWFVbFZXZnEwNmRlazVSWklYaGtqS0JuRG5fTkkwRk9UWXlYOWlLRDFHUUJFcGRHZGxNcHdJZXFhZ2xaYTFrd1k1WndKTEJYaFNqbDdZLW1IMjVVNy14SFNWWXpaZ3pn?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-15T06:00:43Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e81eeb2158f936f165c1ab",
+      "title": "Africa's next growth chapter in focus as Vera Songwe, others lead discussion at Gahawards summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YSjJrQTQybUFDa0pXWkN4T2tfQ1lvdmFTWnFWWU9qT1lKUWk5YjQ4MlRkVDZFRXhzY0dfWXJMZkZ3NnpuLUxmaQ?oc=5",
+      "source": "Business News Nigeria",
+      "published": "2026-11-15T06:00:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4094e45aa8612832a8d50c",
+      "title": "Firms Drive UK Growth Spurt With Little Help From Government",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWRROERTVHFCc1BDQUJCbHJ3c2FhV0Q3WXNRTGxpZmEzeEU5SGpWekEwRF9JRDdPeHpnTnljU29vMWVmZkoyTHZsV09CakU1QmxSSFd2ZGhUOTBhYXFfSmczMTlkRlFmd2RwMHVHNzZVVG5sZmNXVFdMRlp5eE9nNnJSYWpfZUUwRkRsdE84eXRwc1BNTERadDd4aEFVV2Juc3F3clNZMmM5eWY5dTRTbg?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-15T06:00:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "f6053f30f6c5293904d845",
       "title": "Cambodia Showcases Investment Potential to the Francophone Business World",
@@ -22,6 +106,18 @@
       "published": "2026-11-15T05:00:00Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "45a73400e07cf1f9c4fa39",
+      "title": "Apec economies seek to turn shared ambitions into trangible economic benefits",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHpWQUptdXI4NkFaSXlEZHBoN1E4YWktMzhWbThWNlJBakJ3WmZfTGZZZk1tUldWUVFxU3FtREFxcVEtbFJVT0NhazdJd3R2MXN1bTdvcVc5ZUFaa0JDajBOMGt5enRyMWJVX1ZaQ2FvYmIzMWNXZUxhamhxSW9HMHVQTERQNVJwVmRpZGxaNS1NalNGNkt3a01aTW5SRDQ1TlZVUldydTZWVWJpTkhoTERfZzVueWl1NjFxX9IBvAFBVV95cUxPeHpWQUptdXI4NkFaSXlEZHBoN1E4YWktMzhWbThWNlJBakJ3WmZfTGZZZk1tUldWUVFxU3FtREFxcVEtbFJVT0NhazdJd3R2MXN1bTdvcVc5ZUFaa0JDajBOMGt5enRyMWJVX1ZaQ2FvYmIzMWNXZUxhamhxSW9HMHVQTERQNVJwVmRpZGxaNS1NalNGNkt3a01aTW5SRDQ1TlZVUldydTZWVWJpTkhoTERfZzVueWl1NjFxXw?oc=5",
+      "source": "NST Online",
+      "published": "2026-11-15T04:03:09Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -74,6 +170,18 @@
       "image": ""
     },
     {
+      "id": "77640d7a82d7b209ac24eb",
+      "title": "Korea's Fuel Exports Surge to Australia, Europe Amid Supply Shocks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2FzX3hONFVrVU95Qmp4V1o1YmtHdFJUZzY1WVoxSjFwVnhoX2RrSEktUVF6LTNzX05UbmVBNTBvQ3RpbmRCakRydEV1R19kQnVDd3hJTjBXQll0QkNoYXNRUWFOcVJWSTZiaUY1Z1NJV19sM0ZCcFRZRXJVRGpoU1paYWFiVG9yUFhZZmZ0TTFZTEkyLVNRcTlIUmZ4V3ZReVE?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-15T02:21:18Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "eff1c8c727bd7790638fdf",
       "title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit",
       "summary": "",
@@ -110,6 +218,18 @@
       "image": ""
     },
     {
+      "id": "04845286abb066b0e71b12",
+      "title": "South Korea's LG Uplus to Launch AI Token Business Next Year, Betting on Bill Reduction",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PZ0VzZE9WSGZ3V2VteTFhUGd1Q3VISGtRNXp0VGtEY1luTGNVNl9Za2ViRlYxeEczLTVIV1Jsemt0TTZDUU5UTXdZV05wMU5QM0RMWWV3ekcwZWtMMU9PeU9YVUR4R2w0THpTaFFCSWhXQTd6bmc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-15T00:55:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a8381ccf0f4a6c2675938f",
       "title": "Where was Nvidia’s security team?",
       "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
@@ -142,6 +262,18 @@
       "published": "2026-11-14T23:00:58Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ba0a73076a590bff5b49c8",
+      "title": "IMF’s Kristalina Georgieva arrives in Manila for ASEAN Summit WATCH: International Monetary Fund Managing Director Kristalina Georgieva arrives in Manila on Saturday, November 14, 2026, for the 49th ASEAN Summit and Rela",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMWtTNzRGUE1zaTQ0RVgxc0FuV01qT200elhDNHA0cEtBS090Q3ozcjl5UzBsMmE4djlsMzlaNnk4cWJzYzdmRFBHaWpfWnlDZXJjMWZ6aU54ZEYwV1EwSGxlTjFPNTFkZFRMOWdjaGNrS01KSUJxTDB0Q19sRklVUHlYSE9pbHpxdnd3WkpqNWtjc0ZkM25XbTRHZVlQNG9NbEJoUzJaaHZoMi11SlF1bXZRbVhrWnItUGxhSzV3T1pwclNjVWpYd0VUQjhyRy0ya2dPNHV6WmZMbzA?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-14T22:52:18Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -300,18 +432,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "1e4c1fc5abc49ad27fd21b",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T19:12:25Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
     },
     {
       "id": "c40b1f8c279a4e208f375a",
@@ -950,6 +1070,18 @@
       "image": ""
     },
     {
+      "id": "e8e2dd699a4c3d054cb4b8",
+      "title": "South Africa needs R1.27 trillion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUE5TWFBrWG1YbUN2d3FkMlRCWS02bDBSTXdKa09rRjVadkpMNERTRm9tdnpDd1h3ZFVMeURJdlIzbmQyeUt2NV9fZUFBVkQwUXJmZ1VycGs3YkZ2b2lNaW9aeEREOGdSbkFUM2xiVGFZRjhBakZXb0xtemdIRF9UUWkyeXQ2UFk?oc=5",
+      "source": "Daily Investor",
+      "published": "2026-11-14T11:00:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f270c2230a0db1e9f7731c",
       "title": "Governor urges Nagaland youth to embrace technology and entrepreneurship",
       "summary": "",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-14T06:03:28Z",
       "category": "Brands",
       "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "aa321f97c3305a50aa244d",
-      "title": "Janus Henderson Overseas Fund Q3 2026 Commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3R0a1dGU0xJM1NqWmh0bkw4MUJfYWtKM1lHdEZ0OWVxbUJZTnFoQ1F6QXpUZ0QyU3ZvX2RvNjExYkZwWTUwYlYwR2JwZ2hyVjFtMWpQeXA2eVhlcnNTT0lWTExmSXpJd3ZYdW81UWlDTTIxT0hHQTlxajkteXV5cGJyM19DM2VFYjdZaktCTVdQSm8?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4c36853a8fb9eca96b7bd1",
-      "title": "‘Congo’s oil boom masks deeper economic vulnerabilities’ World Bank warns",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0wzVmFUMWxWMmgzbDZsaTdCNmlFLTQyaEFKZVhVV3Y0YmJ1Nk15Z0VuZ0FfaHd5WEdycnBDcG9pYmxUOXZTOVNpQUtKVXZIa256NmJFNmJKR25FdmFodzhnWEkxQjJERExyYnhSTTVSUXA2X2NRTmRGVHFvb29xREdUUjRWVGx4eS1SQ2YzRGM1RHFwSG9hRkZfOV9xcTZ4U1FJakp2dUgzeC1tMFJoVW5SSQ?oc=5",
-      "source": "The EastAfrican",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e77437eeee6521ffe100a6",
-      "title": "Nvidia affair will hang over Trump’s upcoming trip to Asia-Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQek5aM0lfMXZBTm5keW15M2JpYldtVWo3RlEwaExpNm1pdkRQdDl1UWZUaHJVSWprRTJCbFdEZjFXQ0dYczYwYm4tbkFhM3VTd1hneWZVeWNJLXVOcVdSYnoyOHZQWlR1T1ZjcG1lQXdjUjVSSzFqcU8tLWVfcnlnVnpvUHdMa0dmeUpLcjcwaHF1S3VIcVZmYU1Ma3lUdjd1eWE3bkI4Z0JoSDJlVnNQMkNENE8?oc=5",
-      "source": "The Straits Times",
-      "published": "2026-11-14T05:50:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "296b4262e440d2b3bd4119",
-      "title": "IITF 2026 to Showcase Technological Innovations by 600 Startups; Piyush Goyal Inaugurates the Fair",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNjc5ZFIxVjVRQmVYb2Q5YnpZTTZtZElvYXJFSWdPaWI0RFpZR1FpUVE0LXZnY1JLYU1HbWVpdWZYc0M4bkxrZXBvSDNRcHZZMGlweGZDQkdSVW9MSnJUU0FCb3puZ1pPODVPZTRVdEJtMUpWOTZaRmI1VVpBanMtdzY2NEhxMVVZNEs0NndKMU1JT0hqa2k3cENQS3BtYXFSYzJPRExRSlNaaDRVRVR6SHpzOTlKa3lWS1liMEJhcXhfb1hwc2c3Si1KTG92N0V1SFQ3QWVkTlhScDlVQW1CTTloZUU?oc=5",
-      "source": "Entrepreneur India",
-      "published": "2026-11-14T05:44:23Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c7ab08556b8c53c1f828d9",
-      "title": "Ficci calls for comprehensive India-Africa trade framework to boost ties",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR0hLbEF5dDk0cXE5UnFfZmNjOU4tdVREb2pSd0lLbUxEeE9IM1pTUlMzNjhXdU1PUWxOb1V6R1BQSTBPUEEzZl9pOHNTdmprX0YyUnhaQnhISjZBTVRRcF85YUFMcnE0a3JIU2xDU3N3VDdFV2RNbXR5WGJjOWVVc0NMMW5TSi1qT3BMSTlac1RKcHFubzFJblRmdXpsc19sVE04SnJmNTRMY2lELWhHcERBOUVTRURPSUpSeTBqZmhxWDI0NEdLb2pNWldQSGJycHVnQjh30gHbAUFVX3lxTE12MnlvOFJFSDl6SmxEWFMyWFh6WXFTYmo1TzA1Q3FhM25GazRMZFVIX2N3aVpRa2hxWVBZRWdlSlR0eVpScndhUXVSUHc2cU5EeFZHZEtTRmNWWk9fWGJqVllhWnNrUFo4RHZkOU9lbDI1YWRlZkxGdHYtSDRrWC1MVkVFeTFwRzJOWDhvMGpObS1ST0ZqTDVDTE5CTmJORlFtQ1laaDlFWHVkOEVDazI4N3VYSXBiSVp4S1F0Q3cwYU9jb1pwNDMzeU1NNWc5NVU3Y3dYcl9wM0JZaw?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-14T05:33:46Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8aa3a078ca2c1b575a72d1",
-      "title": "IndiaAI-backed Chariot launches speech AI model that understands context across 12 languages",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSVhFNXd0MmRXUjRqX1laRnpCZnF1Qzg1ZFlfeGQ4LURRMUJzbEIwSUVoY0s4ZE5KOWM5cm56NTBrdmFZTWdCZGpJaWtud2hkM3JjS3dVLTBXc1poVEZ3TGc4ZmRjdmxOX0kwMnRrV2c0b1dkdV9TRmdFU2pyUGFXU24ydU1VTDFaeC1FX1BTZ1ZNQXFrdnA3WFVzaV81WmNBNDU5NzBkWVVjUU1TdTI0QmhKVUh3aGNNRHk2TDJfb25SNUNuMk5GOTJfNnlZa2FybURoY3VFX3RjNGlZb2JqbEJLdjQ0NDBXM1pfMkdOMGtYTmFLWlJoS3dORdIBgAJBVV95cUxOYnBkVmlGRWZYbWcyc2d5cnZQdk80X0d0bktzYnpadlFmVUVKWEpKM0hURjluWmYtSzRtUFAzS0pMVzk3ZjFlR0c0UW1hWHZhNDI5VkNiNS0tU2pHOUt5dGNvbWQ4bktKczhvOE8wTlhERFJHUU9JU1JLY0pQLU92ZDM1V3kwbEdGNU5qTHNHV3h3VDhPbEE4MmY5b0FKTzFjMkRNYkhsSjJfYW05QTIxZE8ta1V2VVZIc2JsMllmcm1JcTYzeHBQWUpla1d3OGotSXl6aXR0RkFtSDF4MGE2SmlSUWlYN0lRY1ZSQUphOUIwc2ItU2pJOGtESkpHbjFH?oc=5",
-      "source": "Moneycontrol.com",
-      "published": "2026-11-14T05:18:40Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "831f78fdaba672a3650997",
-      "title": "Mohit Malhotra to take over as Global Group CEO of Dubai-based Group SNS",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3ZnU3EzcHZGNUR1clByMjJtazBDel9MRlczTmx2b2dqNlNOb2IyWUtsU1VFVUNaU0lhNy1OVUlPaHVHcUF6bDV5LXBzbmt6MjNiMEdqT2lFaE52aXBZZlYzalZrSTZTRWlzT1ZYMTZFTkRkcnRVc3p2V0JXRjBNQ3ZKZEtkTUcxUElQYi1IM1JWSnJkbnpOV0ZzQ2x1SmdiMWRWLXNpUnM2Mlk0TXhNTHRDQm9IQ1lZUFZHT2tVRGhHdw?oc=5",
-      "source": "Exchange4Media",
-      "published": "2026-11-14T05:04:09Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "60bb4c52c45c270d41ee3c",
-      "title": "Economic Key Facts Germany",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVRIQXpYazFRal95NkxfdEtWUFpVZ0syajdGMjhZZmppUWU3emlna2M4NnZ5RXBaa2g5SUtGUWs0Ull1WnhLSXlMOS1zNG9zV1JCVXVRTVZiZnprWjA0elRvbXVQOTZpYlhZeG5ONWNjUnM4MDJFOUJMQjNUVk80cw?oc=5",
-      "source": "kpmg.com",
-      "published": "2026-11-14T05:00:23Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4043755c1ae76f06f9fe84",
-      "title": "What is APEC and who will be there?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-14T04:32:42Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "594c3cee980ec6a3b7dc96",
-      "title": "Musinsa Partners with Central Marketing Group, a Subsidiary of Thailand’s Central Retail… “Musinsa Standard’s Local Business Launched in Full Swing”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VZ1RlLTVndHh6TmJYbU9fYkF0YTR1MmhTT0FoY3QydUtIWW1penRteklsMy16OEwxYUR6aERFQml1Q3FxcHdsY01Na2tJTnBlZllnOFJINUh6VlBBd0FucjdQMzI?oc=5",
-      "source": "무신사",
-      "published": "2026-11-14T04:32:09Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f32bd7956a328e6e72655c",
-      "title": "Branko Milanovic, economist: ‘This defeat for Trump will not have a major impact on US policy toward Asia or Europe’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcnI2UndpbV9SQWpYTmhBZmNCQWdEdEk2cXFTVk5mWVhwcFczNkpvMEtIVkpMR3oyNjlpZUl1aXRreHFLalhia3hPV25HVGNpSjRRT3gxX3ZBWUY2WHNUMEVxUk12SWZXVWxUb2NVc0hQblMtbGp0aDlpendNR0Q4Vmd3aThLb05qNWMwQ05TaDNsUEpXejZaZThmUW1hQllVMm5YN1I0MnpFaF9mUzFLVnNHUUlWMEE3dy05c25Ud0FSbUYteWhwSEdpeHFLM3pzcS1GY3U0WFlMN2R0eDVwYUw0VzRNUElHdjJnSlhrZUU4enYzUm44bkVnZ0RXWXA1S0ZrT1RLd9IBmwJBVV95cUxQRWJUQWw0WUJISnlrU1Y2Z29pcjlUVElpdS1mVk5PMnRELTc0QjMxUEJKYTliSDJSNkJzU01LdC1ockJHalFSQzRuajVMT09MOHl4bEM4M3JiV0dhclZ1V1N0bnFTWE90Smk3UjBKdlVadURqT2tTYTZqblB4ejdoT0hSVndEYXBRM3RYQ1dIa21XTW9Zc01hdmdDQjhIZHlsdWpSb1hWeUlMT21lLXQyXy0telhHcEtPTlJ1Z3A2am11akEtN1MzVXprcWV2WDJ0S3plR05TeGd5Z2h0UlZXYU05SUtsNkNQRkN2U1VSQVZCWVVnUnBOSXhVYWEyeEd2LXl2RU0xZVZoYXhQLVBUV1FNTjFhNUl3WEJN?oc=5",
-      "source": "EL PAÍS English",
-      "published": "2026-11-14T04:00:00Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 10
+  "source_count": 22
 }
