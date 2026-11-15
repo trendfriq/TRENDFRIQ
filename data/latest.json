@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-15T20:57:44.428283Z",
+  "last_updated": "2026-11-15T21:39:30.493215Z",
   "articles": [
+    {
+      "id": "254ac4a4759730f2ad32cc",
+      "title": "APA NTA 13-11-2026 $3.79239",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRjNjRC1sMEpubWh4UDVUVExFd3BUQ0ZwOXk0elRTWWFGcmI5Uy1qY1hWX290SWZvRGNTelI0TnFsa3M5M1hwVl9qQ3FWWjQtMGFZWW11aXRUeFdqTnVqUW5XVFF5WDJHV1pCT2laVmRxQWhzbG9qWGNOMk5pUGxfQWhPYkNSSTdh?oc=5",
+      "source": "BusinessDesk",
+      "published": "2026-11-15T21:11:21Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8f0daad4a6acad5d4037a0",
+      "title": "Jensen Huang Considers Nvidia CEO Comeback Amid Leadership Crisis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGw0eTJiZ0UtMUhqX1M1RHd3MGFhTHprNFlvMW5GNWliQ1Z6ZjhmYWgyOFY2VnpwSnR2ZDU2dUpYR01lMEh5OXYtQWdaUmF0YUh3RURnSUdUNUlxYzF6alpOS2FQenVEVl9kcGFOSXUwbXpqS00yNlNmeF9oekpVWlJDVTJUUGVSbk9BUWhxQ01VX3BsaW1ZcFRzQXFTVUlMcFk0?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-15T21:07:23Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "628f6bd1293dec73a9719a",
+      "title": "Irish EU Presidency Proposes Slower Phase-Out of Free Carbon Permits",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzNYLTgwY0RkRjE1dDBJN190REs4Wm1zXzc0WmJTckVWTGVJS3dzbkJSSFNRTVR3TDJVUE5Cbll1NlZCekZydVpUWTFJSW5ZM01TaGQ5U1RhQ1pKekRZZ0JnZkVWTk5jVXh6R09yR0Z0WVJnVU9TcG1nOUFidlJDenlQTDhhTUdiSFM0cDBBY0NqR0NkX3Rud1Y5bVM?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-15T21:06:26Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9e09af32ba885800c8f4de",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink [&#8230;]",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "published": "2026-11-15T21:05:02Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "d3a2c471fef7377be207c9",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T21:03:40Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
+    },
     {
       "id": "7310523931ec31d7ed58d6",
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
@@ -12,6 +72,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "187b04de5bc2167af98552",
+      "title": "Card Reader Set Market To 2035: Contactless Payment Adoption Drives Expansion - News and Statistics",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3FIdnU0LUw4V2VnVHVwcFdNbXZfVUNTN3NpTTlhMW15Ul9tZE10Zk93QnVncVN3WDFOM2pKeTlUTk9QUkVGME9VUzdQdXJub09La0txMld5M0poZlotNWkzdlBQZDZHaDRZenMzNFhOMDB2NTgtbFlRTkJCc2tYb3FBa2piVGZrVzVZQm9MSEdDcWtacXFDdVBFekw1RmJBZzYzZHpoOG1uSTBsQW0xMXlrQy1sUQ?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-15T20:31:06Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "19787d968b8c62babeba5e",
@@ -72,18 +144,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg"
-    },
-    {
-      "id": "8f0daad4a6acad5d4037a0",
-      "title": "Jensen Huang Considers Comeback as Nvidia CEO – FT Report",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGw0eTJiZ0UtMUhqX1M1RHd3MGFhTHprNFlvMW5GNWliQ1Z6ZjhmYWgyOFY2VnpwSnR2ZDU2dUpYR01lMEh5OXYtQWdaUmF0YUh3RURnSUdUNUlxYzF6alpOS2FQenVEVl9kcGFOSXUwbXpqS00yNlNmeF9oekpVWlJDVTJUUGVSbk9BUWhxQ01VX3BsaW1ZcFRzQXFTVUlMcFk0?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-15T19:31:21Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     },
     {
       "id": "b90e252dd948a8ec2b2fe5",
@@ -170,6 +230,18 @@
       "image": ""
     },
     {
+      "id": "0f17a70c0d16202d300963",
+      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5",
+      "source": "The Guardian",
+      "published": "2026-11-15T18:34:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "649af1e721b6c28473c665",
       "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
       "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
@@ -252,18 +324,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "d3a2c471fef7377be207c9",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-15T17:23:40Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
     },
     {
       "id": "33a1f45b80df6d856c3322",
@@ -626,6 +686,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "id": "054d29303c2ce94590cd51",
+      "title": "COP31 event puts waste pickers’ voices at the heart of global climate action",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXlKR1daSmppTThSaTJDSjVuendCeERBX2VzaGlKVE44N2RPcnk3UWRsZEtkUHZUMzRJLXRkcXJZdlVpemY5VGlTWU5KT1c3QlZFYm16MjJTZWJySXd4TVhmVjVCaU5sV0VKY3NHTmM1WkRkUFd3Vjk2b0NvaXdCcl82NXMzNHpqVkJmNks1OWd1TDBvY0lFX0x6X1J2V1JwYi0wWG11N3dvZUh3NG8wYm5zU1NycG93TFl2VU42YzdlajA?oc=5",
+      "source": "University of Portsmouth",
+      "published": "2026-11-15T13:41:13Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9a149bdd0ac60957348e1e",
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
@@ -670,6 +742,18 @@
       "published": "2026-11-15T13:23:04Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5cf6869232a42bdc08418a",
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-15T13:23:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1226,6 +1310,18 @@
       "image": ""
     },
     {
+      "id": "eed17759ec7571c13282d6",
+      "title": "AfSNET 2026: Sub-national leaders urged to unlock $9.5bn trade pipeline",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42YkZ6TGZVeFlMT3FEeEN6bVRnSDVHLXR4NXVyRnlwTzJWNmEzY0dBeHJDYm1kdGN2M0hVdHBlZEVaSmFGSkJ5OQ?oc=5",
+      "source": "Business News Nigeria",
+      "published": "2026-11-15T08:29:29Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6b2e3c144cb16d988b0ee6",
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
@@ -1342,102 +1438,6 @@
       "published": "2026-11-15T06:28:27Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "16527154534e9506684466",
-      "title": "115 Fortune Global 500 companies to attend APEC CEO Summit in Shenzhen",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94Zkp4RC1lN1VhUEZQMWM3NXhNckw0eGFmdTdzNTRJb0FDTF9QV0o3TW91OS05Z2Ewb1ROaXRpQnN5cFZsaGYxTFlBRHFnTHNKcFRaRVJvdlN0RWJJaVlUUkdR?oc=5",
-      "source": "Global Times",
-      "published": "2026-11-15T06:20:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "42032cffa98b81227c9eef",
-      "title": "DW News. . Young people across Europe risk ending up worse off economically than previous generations. Soaring housing costs, stagnant wages and limited government support are putting them under growing financial pressur",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZmdCbGNqNl9JMTNzVmlLcmxQSUpwSFpid29fcWpRdTRSajF6enk0Nk1MQXE4SkR3SG5odkxBeGNFQ2RXVEpXVlA5bXpiTHhQQzlmMk95QWFwZTFTbjNrbG15cmVFZUJkVHR5djVWT005eExfS2VQcDl5Y09TUDN6NTdUOWFVbFZXZnEwNmRlazVSWklYaGtqS0JuRG5fTkkwRk9UWXlYOWlLRDFHUUJFcGRHZGxNcHdJZXFhZ2xaYTFrd1k1WndKTEJYaFNqbDdZLW1IMjVVNy14SFNWWXpaZ3pn?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-15T06:00:43Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eb93c7394ac0d7c21028be",
-      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-      "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mou",
-      "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-      "source": "The Guardian",
-      "published": "2026-11-15T06:00:06Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea93f60f04e098da99d11b60a2005e68"
-    },
-    {
-      "id": "e81eeb2158f936f165c1ab",
-      "title": "Africa's next growth chapter in focus as Vera Songwe, others lead discussion at Gahawards summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YSjJrQTQybUFDa0pXWkN4T2tfQ1lvdmFTWnFWWU9qT1lKUWk5YjQ4MlRkVDZFRXhzY0dfWXJMZkZ3NnpuLUxmaQ?oc=5",
-      "source": "Business News Nigeria",
-      "published": "2026-11-15T06:00:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4094e45aa8612832a8d50c",
-      "title": "Firms Drive UK Growth Spurt With Little Help From Government",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWRROERTVHFCc1BDQUJCbHJ3c2FhV0Q3WXNRTGxpZmEzeEU5SGpWekEwRF9JRDdPeHpnTnljU29vMWVmZkoyTHZsV09CakU1QmxSSFd2ZGhUOTBhYXFfSmczMTlkRlFmd2RwMHVHNzZVVG5sZmNXVFdMRlp5eE9nNnJSYWpfZUUwRkRsdE84eXRwc1BNTERadDd4aEFVV2Juc3F3clNZMmM5eWY5dTRTbg?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-15T06:00:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ff960c7cde15efbe53566",
-      "title": "Working Visit: President Ramaphosa arrives in California",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXNtQ0xyVFNZS1RBbVlIMzQzVEwtODJlUUlFQnVzVHdMUFZpYnJ3bVdXWWo0eElpTWR4aFNBc21oZ19FX0hQYVpVb1RFQkIyNjZJMnRCQkpFcWs2OFYtZmliVmhSdko5bjctOGZmT0E2bHFLR2kyUzdsOFJtQlNONFFQczhzUkNOLW9NcUNnRW5UemVrR0E?oc=5",
-      "source": "South African Government News Agency",
-      "published": "2026-11-15T05:42:43Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "88ae8519810edd18b6930c",
-      "title": "Nvidia earnings — along with the baggage — top next week's markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNF90WjZ0QlBHdHhaWVZrX0h6WUo1OWpZSlN2UW5Eam5RbXo1amx1ejVxeC1SdXpiQTFLR3VLeGtJLXFWRFNRRmw2VHJ6ei1HYzBZeDNVZUhCR2x0c2oySGEtLUFuQXBwb0xmbnUteU1UWEZXd2czTUF3UF9nTDJHX3h1OVZ2SW4wX1FJSjZheUpBU2Eybk5uQzYzb0dQQ2s?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-15T05:37:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "29f9123d7755e5515c5964",
-      "title": "Earnings Growth Might Change The Case For Investing In Monster Beverage (MNST)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdl9mUW9VZXNsa3hJYUdsZ21uSjRWeXhocFptblN1cEtXWDlVOHQ5Y1NXZElsRHVCWFhEWHBqcTF6TE5ZMzVBSG0ycFRsSUVfcVdOcUlwaFBGb3RJQld2M2hWWjMyYzMxWmZ3OTFzN3ZDRzA5SE5YdEl5OVhrVU9RZWM5Rk4ydUY4M0NtZVpjX2VzaFB5eld3SmdhNUFhQU5yRWFGZ2RfbzNFV0xQTDRhYS1sMUJENllpVEdkN1Y1UU5iekxwWTlYXzVZUmxPalZ6VWFrTkZKMldrRjNBSGs1Qk1R0gHnAUFVX3lxTE9wcjcxOGVhVkZvRk1ZUTJWZDZ6QURKS3dwTzlsQ0c2cS1fZFhTdWJWWVNQaGM2ZTlxSFRscWxqb0dJaTZ3d2F6QzN0emxKMjN4QkdaMjFYU0M5V1ZTcGs4UnlURlA3YmNhUFNoOFhDeWlCZFdfOTlIUTRQYjZaREJ2eEpUZUd3QmQwbUV1VGNSMjIwTjc2MWNKTmM4R0JRckVSb0poQnNLb2E3VGFKT3R0VlhWbWRHdlE3S3NyR0p1cE9ONE9UbVBZMEh0Zktob1FVQmF0clEzelVzTzRMVlFPaWVibnd5RQ?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-15T05:26:11Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }
