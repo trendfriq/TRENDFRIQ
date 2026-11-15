@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-15T20:13:38.392280Z",
+  "last_updated": "2026-11-15T20:57:44.428283Z",
   "articles": [
+    {
+      "id": "7310523931ec31d7ed58d6",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "published": "2026-11-15T20:43:49Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "19787d968b8c62babeba5e",
+      "title": "Lagos Targets $1trn Economy By 2052 – Sanwo-Olu",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qcG92amhZYzh5dl94U1dEWWNhZmRFZDFDYy1WOVRJeXpwS1VjSEtGU1FkZFQxcHJCbnNhWWRwOW5USXZyOVV0YkVGbjk5ZW5hOGNQVUlIN1RMUzNXbFAzUWNJNzF6MFZFS1lYVHhMV3lCb21tQzFCb3lzRQ?oc=5",
+      "source": "MarketForces Africa",
+      "published": "2026-11-15T20:23:44Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e13a4bd95b8b6ac7a528a9",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T20:20:57Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525"
+    },
+    {
+      "id": "9d378a61be47bc76c646ce",
+      "title": "Top 3 Japanese AI Stocks To Watch In November 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZXBjT3lySW15RUFyY3pTQUxIN0lqaklPcEFLd2NnWTBxN0p5ZXlLcjNlOWplZkJVdW1INjBjNy1hVjFXOUhKTW4zdVFWLWFOVjcwWUgxWWpRZnZ5YWU4MkVyajF6OFpXYmI5ZW96aDNBRGdaaEpqWWM1R2tFQQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-11-15T20:06:25Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "7c7b29f5e4c81914defe98",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -38,6 +86,30 @@
       "image": ""
     },
     {
+      "id": "b90e252dd948a8ec2b2fe5",
+      "title": "Impax Global Opportunities Fund Q3 2026 Commentary (MUTF:PAXGX)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaERxRG1XZE5ZZUxRTERINUhkUl9ENG5GLVJ1SUNGU19qaEhYaU5sU2lVZ0g5OThrQm9OMEdCUkxaOHdqeXliLTFfYkU4OTZmdkFfUmhSeWtYV1Z5WmlqUWx6WUoyY1NyLUlqS2c0dEo4Mm54RmJpM2dFak9PeXRkazZHMTRvUHRRa1kwc0ZxeEExYjRyWGc?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-15T19:28:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cda11a2f408cc0701e3f45",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T19:20:53Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
+    },
+    {
       "id": "4dd8727fc715d5551e0483",
       "title": "Abu Dhabi Fund For Development Commits $500M To Mozambique As UAE Expands African Ties",
       "summary": "",
@@ -46,6 +118,18 @@
       "published": "2026-11-15T19:18:45Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3d65789ecad8b784110a1f",
+      "title": "Nvidia News Has Investors Searching For Corporate Governance Stocks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVHYzQTJSZE95OWZ4SEtrWTR1N0Z3Qk55RDczY3Mzd2liWndId21hQ0J6QkFfcUloV3VXWS1NNjZod0p2RUVPUXhiYXZJMXpFLTZGT0hiLWtpMHhNUTQwSzVjR2U0TTVRc2liaUlCeEQ3WVlZSGd5bmhYcjl5S0JPLWtPMnFRTWt6SFpxS082cWJ4NTQ2Slk1UUs0NXpralFrZ09CMTZPVGNLSDdkcm5GZTFKMzJWMXVxazVxTGdSQVc3c1I5Z3ZUa19Ycy14MEhuV1UtcXk2OVFNWmRpVWR2T1FmRGfSAeoBQVVfeXFMTXhHNXRTZXFyTnYyVXZ0Q0dKWGg4NlV2MVNFT3ZzellOUjFjVDhwRXp6dTA0UXVSWUdFc0xpVHlxbVI5bXpfWEtrV2c4OGt6ek91YU52ZlZDSk5RNlpmVktQWnN4dzBaVEx6czV4cE5LRFZoYUs5V1ZheFJSZlQ1ZXYtUUVBVEVkTW01N2wyOWRrMUVxb0t3LV9uYUl2aXNwZWRuMk9FZ3pVUDdyUzMxRGxYVV85dFRIelhZMFlfV3lQc0hMRWY5Ym80M3lkblNJVy1acFFNQkFGSDJUU1ZFSlBYQVZiNTZOSk1R?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-15T19:18:25Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -60,6 +144,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "c27285778da4b00dd6a136",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T18:38:11Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "3be354e1ada5b2701b0914",
@@ -110,6 +206,30 @@
       "image": ""
     },
     {
+      "id": "184856bf08ad09eee0ec89",
+      "title": "‘Global economy to grow 2.8% in 2027 as lower oil prices, AI investments support expansion’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNDdKT09xSTE0SFJMY1p1WGh0am5zRXRWSE5XRDRKUUxITDJDeWdmSUJWSmtuclhraEEzSy02SE45Y1NoZGlyUGxZWlFvT2loaU5KZDVRRmVDZkFwc1Exc05NMkRvSUItQWV5VFJyZzVnQmx5Z0dheGQzRjlydGNfOERNRC1VYU51a25NSF8tUG5hUXdqclZFVnl5RTk4VzQzTnhEcjdiMjdMRFg2ZkZjajRlVzFKLUZrOVlXeVpHSnBYVnNHcFRBbmpmQ1LSAdIBQVVfeXFMUENoU0ZEMEp1cm1xV09STFNxQVk4VGlCQ0w0R1QwNkdhRlRDOEl0a3dicnNRZDBwMHprTVNhaEpBMHROOGc1YXV6RkxVelBTN0hTWHBpRzVPRU1wMFRnYU16blVyVXV0d1FUMTE2dWxtQWd6dUZUazJ3M2pDdS1Kd0VnMW5fNW1sa2pjek9Ma2FmYjFSN2tfeDI1M1pvYmxpYjhhLXpDZ2M1amlnX3RubnpWTTBDbXhFSXdXWkFDY3dBR2pGYzZoZ0ZPdThSUzBJa3B3?oc=5",
+      "source": "MillenniumPost",
+      "published": "2026-11-15T18:20:01Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bb730b02ab4b561acd7c6f",
+      "title": "From Beijing to Shenzhen: China’s push for a more connected, dynamic Asia-Pacific",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWWRlcXJBcGt0SWFJVVBoMjJUUTVjZG8wTGpWLUpyTEhyNk1GaEE3cXdzdVpfdk9GeFJ2UWpfakRZRExJcFctWS1adlNOU2RsVWF3?oc=5",
+      "source": "The Macau Post Daily",
+      "published": "2026-11-15T18:13:05Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "43b316ab72eb6de71ad04a",
       "title": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
       "summary": "",
@@ -144,6 +264,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
+    },
+    {
+      "id": "33a1f45b80df6d856c3322",
+      "title": "Nelson attracts growing tech and creative workforce",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yeU5VTDlOLWttV1h5aU5GZ0dKUDRhR3VDR2tBVWtxY0Q0VktfMkRQWHNuTjNlVTc1THVDejNRbGhNUFhrQ2ZDOHM0bWtsMHNjeE84c3dMbmZKdF9IS2xram5PWUJMOGZrX284?oc=5",
+      "source": "Top South Now",
+      "published": "2026-11-15T17:07:49Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7da8a1038905f9ee953817",
@@ -183,7 +315,7 @@
     },
     {
       "id": "8a04f4d3f7722630b70b30",
-      "title": "Sink-Float Separation Tanks Market To 2035: Recycling and Circular Economy Fuel Growth - News and Statistics",
+      "title": "Sink-Float Separation Tanks Market Forecast to 2035: Circular Economy and Recycling Demand Drive Expansion",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQUhZbDQzaVl6VVRZRWlFWE5vSEY2a1ROSm9XNGYyc2ZXNXdsQVcwXzRUOFU2c1FiT2hmVWkyMl9ueUZtM1cybjgwRFo5NHVLd0x1NnBKdTNYaGRFaENONEY4LUZ0eERaODJ6ZTJWRzRnZUhhR0tXR1VUTUE0TDFJd1dfTUxUbXZaQlctTC14ZEtrSU1FVDlJNDBtbEJ3aE54VHotZ21RcGE0cmRWUXVCR2pJNnc2ZURJaTdkMjlBRkNqYUpPSXRWeV9QLXM0SGRa?oc=5",
       "source": "IndexBox",
@@ -216,6 +348,18 @@
       "topic": "Africa",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "bf3feafec58d8989cb0e8c",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T16:15:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg"
     },
     {
       "id": "0557364876cc9a01214efb",
@@ -878,6 +1022,18 @@
       "image": ""
     },
     {
+      "id": "d0c00154c5ea00a1b302c7",
+      "title": "What To Expect In Markets This Week: NVDA, PANW, DIS, HD, TGT, WMT, GRRR Earnings, Kevin Warsh Speech And More",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmdxdUFWVFhwT2x4R3ZMM3c4N04xM3BHOHNYb0tLNXU3MkFMdGFjQTZVT0t0dTlVaENhU25UbDF0N0Rvd1NYTVVCcjlDa2xKWHB4d0R3UG14cWpVbFBrSG1kYU84cXl4bVFwQXdBYnBxMV9NZFI2NkRQUjlLcTdZLTAtb1JiTHE1U2xFbExJUnZQRTJzQ2FnVFln?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-15T10:24:28Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d2b1ce8fd121b584ebd390",
       "title": "US irks Germany, Europe with Russian G20 invite, press bans",
       "summary": "",
@@ -998,18 +1154,6 @@
       "image": ""
     },
     {
-      "id": "739143146317ebde2a44c4",
-      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-15T09:03:18Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "32b37ac6f0f1162d352a81",
       "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
       "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has follo",
@@ -1054,6 +1198,18 @@
       "published": "2026-11-15T08:47:56Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fe730e68acacf75bc83603",
+      "title": "China-West Africa Investment and Industrialization Dialogue Held Successfully in Freetown",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzVtcWpOVjV0anV2QkJUYTRoTlY3RjdNOFpvNnhpMnlYa1ZIWWVDcElRZ2FpLTNrSXdISmk3cWxvdmdEZXNMY2JkYWowdHZLVTU4WXhZWlB3cGQtblJPX2Nmb2xKVVVaQ2dTRTBCb2pKV0tLZ1VBc3BPZnU5aHlNZHJsZUVEa0tEeTl0UVJTYWdPcVZ2NWF2S29fZ1ZmeU5XanREMU4wVGIzN3lVR1NyZw?oc=5",
+      "source": "Africa.com",
+      "published": "2026-11-15T08:46:24Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1150,6 +1306,18 @@
       "published": "2026-11-15T06:32:31Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e4bfd07c4efc1716a1a6a2",
+      "title": "Food firms hope EU deal will end 'onerous' export process",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CSUw2SUJXUTFvaTlYSXlHdE5LOU1qUV8tcTZEZ1pOc3dmSWtHRkRLRE5qamE4czZrelpkNEFkeVBPVjc0UTVvaE0yVEs4NldlRXdtcktmdEFTTkc1alE?oc=5",
+      "source": "BBC",
+      "published": "2026-11-15T06:32:31Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1270,174 +1438,6 @@
       "published": "2026-11-15T05:26:11Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f6053f30f6c5293904d845",
-      "title": "Cambodia Showcases Investment Potential to the Francophone Business World",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXlYWHRfSUlxSEsxMjBTMHd5YWhjS0dRdVZqTmZfRVFZVHhyTVBoeDg5a2pTMktGd1lMWWVWa2RIRThLN3NLNmNsalYzLW5FNk9aVHdXSUJxUUxyNmRQVkhKVktCaXRvNjlRcjBNT203UjMxOVQtbklwS0dGY1RzbV8wQmI5NnFOa2p1VktFUThma3NLVTE2dUpsc25ob3NiSVNqaQ?oc=5",
-      "source": "Kiripost",
-      "published": "2026-11-15T05:07:01Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "39c77a6ee1b4fa9dad7e5c",
-      "title": "Cambodia Showcases Investment Potential to the Francophone Business World",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWwxZmZzaXVmQnZJQk9YcE5tNnlvckVKbGYwTFRXSFYyWXJrYk84YjM0RUNCY0tWNGRCdVJPWEdNRUVCZ3N0N1F3UTVsYm9hYm5FMnEtaFM3WExhY3ZpTF9oYzRzUWduVS1LSksyT24wODdKVnQteW5rMU1YM2kzOURpWkQwRHhqLTNtR01heDEwYUNpUWQ5bDZMeldyR0JINFoxU01B?oc=5",
-      "source": "Kiripost",
-      "published": "2026-11-15T05:07:01Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9878870fb19a1f99b30618",
-      "title": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUXI5LURJcVJrU2NVeWlKeFZ0NUxseVRTZjlwMWdqYkJ5WXZ6dmtNQWxhRFdtSWdGd09TOHFWTTRkZVlGX3RXOTdBdnZNbzR1QU9JSldkRlRtNzBNaC15NExqYTVXZnBsRC1nLUM4VE5MX1owM1dSSDBEQVkxX0RGOGNwX1FKS05kMDJKVUFvVmtaUnpES0RUMXVvbjRYMVhuUzhEVnF3S3B0dFNTRXJiMW9OdGJpWm5LYVlMR3ZaQW1kNk5WcVVTNDlRckhiTmJIZmptUlRzV2EwNGxtU3o2R25hbXRnU2Y1NUtyb25rUkxXOTJJS3Y5azlsVk9makhtWVRVZ2JDWGtGdVRJZ1NxWW00SzFkWk1wZ1HSAZ8CQVVfeXFMTS1ndWxudVYzNTZ0N1dJSWtjNnExeGNvcWFWNy1lVjJJcVZScHlMck0zZmtFSG5mV2tjaXN3MG16NXZBMGNZZ25Walg3Y0Y4ZFUxQ0F1UFNmMW1RMkl0ekhrWHBMX0k1TkFzTDI0VE9QNkNiZVdLeFZEWkdFdU5tTDAwMG5kTUoyUVVlNlJrT19JbWtjRDdWa1MzT2VJZGhBdjBJWm11aFZxc1otcnRRX2xDSGNlTk5yMWJjYjBPR1JNOXRwNlNYcE94WjdBd3VGRVZjQW5rclQ0NUozSERhemZnZzhiT204LTMxb09Ba0dYSEJVSW5Ga21KVmVzQkhxdzh2Z2daZ0hpbVRWR0hJdVh1YWl3Z2FLTGp0SlJ2SlU?oc=5",
-      "source": "The Times of India",
-      "published": "2026-11-15T05:00:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6dc415af6e6f2310f5a0b4",
-      "title": "3 Capital Markets Stocks That Could Benefit From Rising IPO Activity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQkxZRWkyY0FITl9GNVdZUHM1UklFckMteVl0MlpDeWJUSERjTXdBMEJURUZITTVaVm91Z2d0cFl3NElueFIwMkJ5azJTRFk4N0RxbW5JbWdmc0R6UFdSSnIwY3Ayc3Q1WEp0RWFUWjg3enBfeUlNUm81QUFUVVAzWVMyTUtPWnY1UEt1UnU0cWh5ZS1SZHh5Nm0zcw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-15T04:39:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "45a73400e07cf1f9c4fa39",
-      "title": "Apec economies seek to turn shared ambitions into trangible economic benefits",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHpWQUptdXI4NkFaSXlEZHBoN1E4YWktMzhWbThWNlJBakJ3WmZfTGZZZk1tUldWUVFxU3FtREFxcVEtbFJVT0NhazdJd3R2MXN1bTdvcVc5ZUFaa0JDajBOMGt5enRyMWJVX1ZaQ2FvYmIzMWNXZUxhamhxSW9HMHVQTERQNVJwVmRpZGxaNS1NalNGNkt3a01aTW5SRDQ1TlZVUldydTZWVWJpTkhoTERfZzVueWl1NjFxX9IBvAFBVV95cUxPeHpWQUptdXI4NkFaSXlEZHBoN1E4YWktMzhWbThWNlJBakJ3WmZfTGZZZk1tUldWUVFxU3FtREFxcVEtbFJVT0NhazdJd3R2MXN1bTdvcVc5ZUFaa0JDajBOMGt5enRyMWJVX1ZaQ2FvYmIzMWNXZUxhamhxSW9HMHVQTERQNVJwVmRpZGxaNS1NalNGNkt3a01aTW5SRDQ1TlZVUldydTZWVWJpTkhoTERfZzVueWl1NjFxXw?oc=5",
-      "source": "NST Online",
-      "published": "2026-11-15T04:03:09Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1627e65899e9a695058250",
-      "title": "Regional leaders call for stronger trade and connectivity across Africa Staff Reporter REGIONAL leaders and policymakers have called for stronger transport, energy and digital connectivity, increased cross-border investm",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GYXpmOE1SdXlBd0pxbDhENEVhT0w4dUVMZVctbDNXZ2tNMGpNaWFkdE5TNzRHYTVmajZsWVl2TTFEZXlfLVVmMzdiTHpfX1B4Vmc?oc=5",
-      "source": "Instagram",
-      "published": "2026-11-15T03:00:46Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "011a054fbb912473698957",
-      "title": "IP GUANGDONG debuts at the Media Center of APEC Economic Leaders' Week",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlhmcVpXUE4xWGhUSWVBZWpfNXpfOXVQNGItSUFmVnBpbzJxR1hELTRDSVFNbmgwWmtBRFlGMnh5RTRwb3hzWWllcXBtNlpJaTVyQnMwS0xqRVNFSk53MldvUUdDbzVub3dua1YxOW1DZjRTVmxzRU1lMjlDUU1mYTJKT0F4cHJzT3piM0piNVZMUmRRdmxzMWV0dW16NVRfNEVucnF4NUlBZ1gzYXFKTllZV1k1Mkk?oc=5",
-      "source": "Thailand Business News",
-      "published": "2026-11-15T02:39:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "77640d7a82d7b209ac24eb",
-      "title": "Korea's Fuel Exports Surge to Australia, Europe Amid Supply Shocks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2FzX3hONFVrVU95Qmp4V1o1YmtHdFJUZzY1WVoxSjFwVnhoX2RrSEktUVF6LTNzX05UbmVBNTBvQ3RpbmRCakRydEV1R19kQnVDd3hJTjBXQll0QkNoYXNRUWFOcVJWSTZiaUY1Z1NJV19sM0ZCcFRZRXJVRGpoU1paYWFiVG9yUFhZZmZ0TTFZTEkyLVNRcTlIUmZ4V3ZReVE?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-15T02:21:18Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c17e415c19c6cbb634ab62",
-      "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
-      "summary": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision Italy’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent. Through the Facebook application for Android devices, Meta accessed photographs, videos and",
-      "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
-      "source": "The Guardian",
-      "published": "2026-11-15T02:02:01Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c623c2545efe254499d5e53ccacfc80d"
-    },
-    {
-      "id": "eff1c8c727bd7790638fdf",
-      "title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjdJa3hvcmFHb013TmFyXzZoSGdkcTlLd2tneU93SmQtQVhYMEFHS0NqZ25obXMzblphWURoNHlkeDBNSWhRODE3Nl94dzJKYXFZV3IzRG1CUEFmaUlzUEJnd2tpT01EZDlrMEprZ3c0QlJjNmd1R3lWQXdQSGJEZ2hCVHhnN29MQW9oRDExT3NhZWtXQXpIYUNGMnVaTUZNeWJRUmtfRzJzc0VaX1RZT0VpVkgtcWJFcVV5Rmwwd3pPUElBSXRkU2JBWU1rZmpwb3VkUHpNZw?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-15T02:00:18Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "73c61c7357a4f644009634",
-      "title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjdJa3hvcmFHb013TmFyXzZoSGdkcTlLd2tneU93SmQtQVhYMEFHS0NqZ25obXMzblphWURoNHlkeDBNSWhRODE3Nl94dzJKYXFZV3IzRG1CUEFmaUlzUEJnd2tpT01EZDlrMEprZ3c0QlJjNmd1R3lWQXdQSGJEZ2hCVHhnN29MQW9oRDExT3NhZWtXQXpIYUNGMnVaTUZNeWJRUmtfRzJzc0VaX1RZT0VpVkgtcWJFcVV5Rmwwd3pPUElBSXRkU2JBWU1rZmpwb3VkUHpNZ9IB1wFBVV95cUxQN2JpTmtMdFFuZ1VUeGNIRElTZGFRNFV2VGFxaFloZm50eXJtMkhQd2xmMlJVeGtaZW5sRFZJakc3YXRCa2xaWUxxd2R3VjFnQWZvb1pKXzFielJsYnpGZWgwSFI0UW91X1M5QklNQ05FdzhPYTBBMUZVQnZHTUlyNk55elJsdlNfdjNvWkNmS05HSXVma1M3ZFBPRE8yMXJlcUtIX2pnRmRtVGtiM3NnLVNjTUFuRjU0Z2FJZUp3WnJsV1NaaUZOTG9OSkd2SVc3QTRuRnc5VQ?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-15T02:00:18Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "59b9c420826d2054b9361f",
-      "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQak9rSHdiRE9kRjB0cHlkOTh5dGxJS25Ra0laN3JQdE1CTXZaeThJUlI0MEpPNkdOT2huQjdibVppVmJodi1DUEtlTDJlS0Z6TVoxelhQcUJ4N1JRR3FMaENoMEJCTzFZQ216aEtpLVRqdWY2MEdoeHhaSVdjVFowVnZKMXVBYnljVURlZXIybVA3OEY2dG9INQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-15T01:12:19Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "04845286abb066b0e71b12",
-      "title": "South Korea's LG Uplus to Launch AI Token Business Next Year, Betting on Bill Reduction",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PZ0VzZE9WSGZ3V2VteTFhUGd1Q3VISGtRNXp0VGtEY1luTGNVNl9Za2ViRlYxeEczLTVIV1Jsemt0TTZDUU5UTXdZV05wMU5QM0RMWWV3ekcwZWtMMU9PeU9YVUR4R2w0THpTaFFCSWhXQTd6bmc?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-15T00:55:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "98686fe0acba2b07248b5f",
-      "title": "NAIRR Pilot: Access, Allocation & Research Guide",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VcmozS3Z1b0FHVEZKaDdkYWtzN29fcEU3RFltaTJoemd3QTNfWlpHanQyQW16bHFYWlVMX1hoZHNUNy13eVJVN1dvaFZMZw?oc=5",
-      "source": "CASRAI",
-      "published": "2026-11-15T00:42:35Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     }
