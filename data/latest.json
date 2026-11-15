@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T05:27:23.595087Z",
+  "last_updated": "2026-11-15T06:26:21.428876Z",
   "articles": [
     {
       "id": "f6053f30f6c5293904d845",
@@ -312,6 +312,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
+    },
+    {
+      "id": "c40b1f8c279a4e208f375a",
+      "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+      "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, saying artists’ cop",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+      "source": "The Guardian",
+      "published": "2026-11-14T19:00:52Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc8c16eac1f5108a0736b290b0363b0"
     },
     {
       "id": "f9a99c818e144dcb750b78",
@@ -1426,18 +1438,6 @@
       "published": "2026-11-14T04:00:00Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0cf1a6a81538e841402385",
-      "title": "Cerebras Quarterly Results Broadly Beat Expectations, Morgan Stanley Raises Earnings and Revenue Forecasts",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNGtIMFZUTjdfR0dEQTF3QXNOOV9kN2dIc0lrZUV2ZXBiNC1jN19mRUZOX2NoVGQyNDNqcm16ejdWY3Y2R3haREw4bkM4SkFOS2pMNFVPdkttb2tHRVJWaHVMVWNqbnMzT2dfSmNsWjNIUXE0SmtSQmE1bzl6QWI3NjVkODhvSjBOb29VMURLM2tVTzRodFVvaEVGdjdlYkJJNnhHQlA3WGNlcDdmSWd5REFDYmNSY0w0Rm9uVDZkejZQLU5NMWx0NDJ2S3ZsODN1elBUOQ?oc=5",
-      "source": "NAI500",
-      "published": "2026-11-14T03:36:08Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
