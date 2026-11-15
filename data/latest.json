@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-15T17:54:26.197570Z",
+  "last_updated": "2026-11-15T18:45:48.230157Z",
   "articles": [
+    {
+      "id": "3be354e1ada5b2701b0914",
+      "title": "Hong Kong's development of an innovation ecosystem offers valuable lessons for Vietnam.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDFwdzR0X1B1RkNjbVA0R0dmRGZYVFFMN2ZoSFM5NjBjNkhpWEFROEFPWGVPZkE1MTh5ell2SEpBT0dnTWt4VXB4MWFELUJ5M1hyWGFhWElYQWZpdm1CRHp5UFZDX19SOGdzUU1XODc4VUFST19WRTFXaVIxaUhSSFJMTGlsRzJLdTJld21rc1VLUl9zTGVXZkgweXA4ZDExQ1FiTUpxUTd3TEdQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-15T18:34:21Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "649af1e721b6c28473c665",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T18:29:14Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800"
+    },
+    {
+      "id": "a9a9602c8fd1668ce8610c",
+      "title": "ABAC members laud China's role in Asia-Pacific economic integration",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDV5V2ZmZnNHRHpPRUVVNGJuVHpRV0hSQUJTa3VQUDAxdEpvWEQyZlZyS0o0RzVtM3AyYmVwd1pvLUZtQzYwTzhjZHBOQXg3WG5teXlwMnlINUlTTkYyMXpER2RDQjF0bmplamtGWlBQaFVJZ1VkeVNjRC1YRElTY2x1eGk5eUhwMUNGNmVYMml3NlpGMWhsYzI3ZnFhbnJPRmxRT1VMd3NxQzBFZ1BRcGJPM29vZ0NpbWc?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-15T18:27:13Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "099d4acb3a6396ad82f7d9",
+      "title": "Geopolitical tensions reshape investmen, supply chains across MENA: WEF regional chief",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWN0YXJhb0lfYnNEOEJmU3FndjJQY3Y4bXctc3Jpd2RyR2pSMUhnckpLZXBTR2NVZXEzejlMbjN4MVdoUnM3NEYzdW9oQzJYUnVIb3JyUjZrU1ZfOVdjd2pxVGd5VHdEUURjQUdkUU0zSmY3aVBuOW5ZUy1RVUh2czB3cmJFSy1EVV9WUHFNT1lMSFBqZHA1TFhpQXp4MUlGLWNfNXd3OXRlMWZFSjlvWktNUzBXSXhZSWdWc2FJeF8?oc=5",
+      "source": "Daily News Egypt",
+      "published": "2026-11-15T18:27:05Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7c7b29f5e4c81914defe98",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T18:08:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+    },
     {
       "id": "d3a2c471fef7377be207c9",
       "title": "Czechs rally against plan to switch funding of public media",
@@ -11,7 +71,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
     },
     {
       "id": "7da8a1038905f9ee953817",
@@ -48,6 +108,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "fa4e0adf980e8b4fb05709",
+      "title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVWYmlSSkRLUWpBSHctZE9JWHZQVHhpNnFLellld3NXYzJiVl92VmpBWEViTHBhVEd1dGlyYTdFSXdOSTdfWWJGLVVsNXg5NEQ4S3RSZlhzR0hiUmRQTmpnR1lPU3BVMjZBNVZ1RmFQRmN2Q0I4WGtqdDlNM202dFJFZmMyRjhicXdnR1U3c3QtUUJpeFFwNVFfQ2Y1QzZvT2NLeXVla2hpRDg0R3d5WDBxVjQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-15T16:42:57Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "17ad9445dab3f4f10bf610",
@@ -126,7 +198,7 @@
       "title": "Hong Kong’s dispute resolution hub expands into Middle East and Africa",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbC05NDRLU2VKVmc1WnYzU2RyWDgwQmxxS0J1MmVxYmIwbTlLMkxSQ2ZMVUVLYTI0amNhakFzNl9tNXNqSUxJdnNXRzE1SVpGWWJtS0RyUWk?oc=5",
-      "source": "www.chinadailyasia.com",
+      "source": "China Daily",
       "published": "2026-11-15T15:52:19Z",
       "category": "World",
       "topic": "Middle East",
@@ -152,6 +224,18 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmZGeWt0b0wyckdFNmIxSGRZUWJvX1FmTnd4UERyZmJNWjh6ZEdDaTZaNWI3TlhhbnlmWnE4LTh1Uy1zd2J3LUV3Vlc2MGQ3UUhUUU5kQTNYUjRITV9kSzVyQ0xuRmpDZHVENkZxd3ZPOFhfaFVNSUpXNy1QbmU3QkNR?oc=5",
       "source": "China Daily Global Edition",
       "published": "2026-11-15T15:40:32Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4c321780fe7edaad6d6cd2",
+      "title": "Shenzhen to host Asia-Pacific Economic Cooperation summit with key leaders meeting - India Today",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzl0UTYteFllZ2tleDI1ZEFDbmVUek1YbWQ3VkRnak40dGR6STRxSEN5aVFSS2w4X3BzeWN2NzVicXFlVFhkMDkxX3hNS0wzMGNQQi11YkI3SkpzUTZuSHJhTkwtcFpkOTUyMGcxdU8wQUk0RFlVZnctamg3N0JpMjJmT3FCMDhaQ0VhdTJCdENwUTZMNm90OC1WSnR4S1VPNElOZUdqVFV5SFVDVElpTWxZcmRGdUNHWnlnb2M3TGtPbTY2OUVvNFlSUkI4WVBW0gHQAUFVX3lxTE5POXRRNi14WWVna2V4MjVkQUNuZVR6TVhtZDdWRGdqTjR0ZHpJNHFIQ3lpUVJLbDhfcHN5Y3Y3NWJxcWVUWGQwOTFfeE1LTDMwY1BCLXViQjdKSnNRNm5IcmFOTC1wWmQ5NTIwZzF1TzBBSTREWVVmdy1qaDc3QmkyMmZPcUIwOFpDRWF1MkJ0Q3BRNkw2b3Q4LVZKdHhLVU80SU5lR2pUVXlIVUNUSWlNbFlyZEZ1Q0daeWdvYzdMa09tNjY5RW80WVJSQjhZUFY?oc=5",
+      "source": "India Today",
+      "published": "2026-11-15T15:31:08Z",
       "category": "World",
       "topic": "Asia Pacific",
       "country": "",
@@ -324,6 +408,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png"
+    },
+    {
+      "id": "4cb992ee8a7cf178d5f359",
+      "title": "East African Community (EAC) and development partners strengthen partnerships",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajlPdXRmSkpnYW1RbzhiaVZBR3Z4SHB0QmwyN3NVOWp5aklkZUVHVngwTWhmQnVKcTNGWTBfczBMc0ZqY0NrVXA5QXB2OHptam1EMm5wSnFEZ2tCT0JBdXZvWFZvVzlNRHB5N3o1cURrb0M3dlpqX3pDLXFxMFRYWTFPaVZfVlZqdTVfVGV5U19vNmE5d2k1aXVlWHc2SHR3UWp6U2QtR3NzZUxpSTlTLXlaSE5VTmM?oc=5",
+      "source": "The Sierra Leone Telegraph",
+      "published": "2026-11-15T13:32:08Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "4dd8727fc715d5551e0483",
@@ -530,18 +626,6 @@
       "image": ""
     },
     {
-      "id": "4cb992ee8a7cf178d5f359",
-      "title": "East African Community (EAC) and development partners strengthen partnerships",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajlPdXRmSkpnYW1RbzhiaVZBR3Z4SHB0QmwyN3NVOWp5aklkZUVHVngwTWhmQnVKcTNGWTBfczBMc0ZqY0NrVXA5QXB2OHptam1EMm5wSnFEZ2tCT0JBdXZvWFZvVzlNRHB5N3o1cURrb0M3dlpqX3pDLXFxMFRYWTFPaVZfVlZqdTVfVGV5U19vNmE5d2k1aXVlWHc2SHR3UWp6U2QtR3NzZUxpSTlTLXlaSE5VTmM?oc=5",
-      "source": "The Sierra Leone Telegraph",
-      "published": "2026-11-15T12:23:19Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "44758d9bdfc8db4267f585",
       "title": "Japan's Economy Faces Major Tests as GDP, Trade and Inflation Data Loom",
       "summary": "",
@@ -674,6 +758,18 @@
       "image": ""
     },
     {
+      "id": "efa241e70f7111de2a6c91",
+      "title": "INTERVIEW| Egypt well-positioned to become regional hub for trade, investment: WEF president - Economy - Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmhlbGRpcjNucERpbVVka0JNYUhfLWQ0UGJWTm5HcHlFbm84WTFjSlQxOEZaR0E5dG1sWmVEcGk4TkhnTDdCalVSN0ZBX0x4NmRkbmdpU0Y2V1ZzMWtqMnVNUm9lSko3MUVGbk5yRHVUNm8tNDJEQVRKdnZmM1pmTVRvRkFwbjRfa1M2TWVYQVE1RWJZRlhBeDBiR3FmWTY5RVpzblUxUXN4eVU2SjF5aHhWRElVMURob0U3dHBsVFlyR2JuSkE?oc=5",
+      "source": "Ahram Online",
+      "published": "2026-11-15T11:04:22Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "28878ad1b74c3cf0b4efe9",
       "title": "Completing the innovation ecosystem for Hanoi.",
       "summary": "",
@@ -758,6 +854,18 @@
       "image": ""
     },
     {
+      "id": "5606a2b75deea2ef466085",
+      "title": "James Riady urges ‘confidence’ in Indonesia’s business potential",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeHFFNGpzRWwxR24tSlRHUk51Qmc0RFlTeFRuN2VnVlVlSXVfTVBPbjZfNFBTek5nSEluaUVkMWFEbGJqTHJfcjY5OVUtYVlCVEJVX0pwZDBkTGpRLTdBZHM5aEYzX3VHeExLRjc4ODd3OGRmcTBxNTJmdGRTZ21QMlNPSnR2TmVBRXUySl9fOTJFMXZQV0ZfWlBXdTRZMVJLWkM5dEpLcjZ3VldqT3d5ZjhBRlVTR01tYjI1aWFNMVBJNEZiZlJjOVBVTUJPTlphMTB0b1RHQTB0REJYelhNOHRiaFhfRW5iMVE?oc=5",
+      "source": "The Jakarta Post",
+      "published": "2026-11-15T09:31:49Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "725edb5f53ee4146ca548e",
       "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
       "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
@@ -778,18 +886,6 @@
       "published": "2026-11-15T09:04:32Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "739143146317ebde2a44c4",
-      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-15T09:03:18Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -902,18 +998,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "fa4e0adf980e8b4fb05709",
-      "title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVWYmlSSkRLUWpBSHctZE9JWHZQVHhpNnFLellld3NXYzJiVl92VmpBWEViTHBhVEd1dGlyYTdFSXdOSTdfWWJGLVVsNXg5NEQ4S3RSZlhzR0hiUmRQTmpnR1lPU3BVMjZBNVZ1RmFQRmN2Q0I4WGtqdDlNM202dFJFZmMyRjhicXdnR1U3c3QtUUJpeFFwNVFfQ2Y1QzZvT2NLeXVla2hpRDg0R3d5WDBxVjQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-15T07:10:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "27b9e2e4ae9a6095e4e74c",
       "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
       "summary": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software You are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the site of one you’ve heard good things about you are asked to verify that you are human. Instead of click",
@@ -945,7 +1029,19 @@
       "source": "BBC",
       "published": "2026-11-15T06:32:31Z",
       "category": "World",
-      "topic": "Europe",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6ebabe7d6d0bfa35fbb849",
+      "title": "Asia-Pacific community should be a beacon to other parts of the world, says Australian economist",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU2gzNGdaeEFqTC1MZHdsLWFHWm1fbFZzcElTN3RhNmpyYVRqOFB3djhzS0JuUWZrX3pST2kyYmhHbVFLYTZlYl9ac2hZUDhnbWVvUHFvcFdRdjZxcFAzckNodnNqcmRMUmxzcHZucGVBWE9LX0lwZ0VTVmZwQWRrVnlMODhYcGJxSThYNElNMXE0Y0swMnNJSV9sQ2VrZ1RVejllQnJiWjg5Rk05Q0d3bkY2Z0I2SFh0SGRBZ3NmTUZ2Rk1ZTHdSZGtuSXRGWEkxX3NjbW9rQVhOWTJ2bENLa1BKbmtybkxkOEU3MEVfMA?oc=5",
+      "source": "The Star",
+      "published": "2026-11-15T06:29:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -1022,18 +1118,6 @@
       "image": ""
     },
     {
-      "id": "88ae8519810edd18b6930c",
-      "title": "Nvidia earnings — along with the baggage — top next week's markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNF90WjZ0QlBHdHhaWVZrX0h6WUo1OWpZSlN2UW5Eam5RbXo1amx1ejVxeC1SdXpiQTFLR3VLeGtJLXFWRFNRRmw2VHJ6ei1HYzBZeDNVZUhCR2x0c2oySGEtLUFuQXBwb0xmbnUteU1UWEZXd2czTUF3UF9nTDJHX3h1OVZ2SW4wX1FJSjZheUpBU2Eybk5uQzYzb0dQQ2s?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-15T05:46:35Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "5ff960c7cde15efbe53566",
       "title": "Working Visit: President Ramaphosa arrives in California",
       "summary": "",
@@ -1042,6 +1126,18 @@
       "published": "2026-11-15T05:42:43Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "88ae8519810edd18b6930c",
+      "title": "Nvidia earnings — along with the baggage — top next week's markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNF90WjZ0QlBHdHhaWVZrX0h6WUo1OWpZSlN2UW5Eam5RbXo1amx1ejVxeC1SdXpiQTFLR3VLeGtJLXFWRFNRRmw2VHJ6ei1HYzBZeDNVZUhCR2x0c2oySGEtLUFuQXBwb0xmbnUteU1UWEZXd2czTUF3UF9nTDJHX3h1OVZ2SW4wX1FJSjZheUpBU2Eybk5uQzYzb0dQQ2s?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-15T05:37:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -1344,102 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
-    },
-    {
-      "id": "0cb4cb3846d618c386b023",
-      "title": "Opinion | Amid the Xi-Trump clamour, can Apec revive the business of cooperation?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndkNF9DYUNnczF0VjlsQUdPdmRkaFJ6UjdUVlBvSjhOVmNIVG5wc1FMSC05Y3lIQ2FZNkhHMm1VSWh4N2dHQjV2T0tlcWZVdDBlc0pMNXFsLUlib2JjOUtncmlTaG9wdi1kMnFXUFlYUGNIMkRVSktCVHllam1RRUZqS1ZVM1ZJckZJMjA4NHV6WGRuWFJGV0dLRWJIV2VnMFNkcEVKTFI0bmxkZ3NnYnlvWFB5dC1k0gG4AUFVX3lxTE1yOUJTMXFTSnJFVE90Y2dWeFlYUDJodktVRFhxT1ZDd0NWZURPRjNYclJzZUwyQWY2MUxmYzBvT3JoN1J0Z1NYV0NYOVIzNEhGS2lVVUxCN2t2UWxsSFJ2YXc4cXJnS0ZlT0dLTGt0eU1PUHRJNGJMR1psMFFGT0p3NmVMYUlQQk4tU1BDY1dXRHlWMFVYQ0dSTUhOZDNJRGRMSnNUVGJnY1ZYWHpRd2NzYXhqSUpQRE0?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-14T21:30:08Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5cf6869232a42bdc08418a",
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-14T21:27:20Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8573d9e8e576a4ad47319d",
-      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-14T21:05:14Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "3289f99661e3da99a8e2cf",
-      "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-11-14T20:44:32Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8a6093cc2e6413be65b162",
-      "title": "US aviation shutdown blamed on L3 Harris installed router",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDNWWEtib19MRzN5Mkw1bEN0SF91UXhVc2E4Z2ticWd1ajJwOHc4ZmdYcGoybHdOZE9SdGZPZU83aU5SUzBHNEFSS0Y4a3J1d1pYX2VZMHFLeGdLZnVGNUtVS2dUcVdkNFNEN3pxUnMybkZjSFFJRHhLbHFIQzQ5aEZLUE1UaldIRGNmcUV0SHNTbW5lS1FiMGpOSQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-14T20:16:19Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9e314a8f744ef711f0fd58",
-      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T20:04:44Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834"
-    },
-    {
-      "id": "5ff08b1ef3e37111e45739",
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "source": "The Verge",
-      "published": "2026-11-14T19:47:40Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c40b1f8c279a4e208f375a",
-      "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-      "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, saying artists’ cop",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-      "source": "The Guardian",
-      "published": "2026-11-14T19:00:52Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc8c16eac1f5108a0736b290b0363b0"
     }
   ],
   "countries": [
