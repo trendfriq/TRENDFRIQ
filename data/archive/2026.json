@@ -1,5 +1,137 @@
 [
   {
+    "id": "a1b0695e3ae7e054d15741",
+    "title": "Island is a new screen-time app that turns staying off your phone into a game",
+    "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+    "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+    "source": "TechCrunch",
+    "published": "2026-11-16T18:54:18Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/island-graphic.png?resize=1200,586"
+  },
+  {
+    "id": "dc2fc9bf4a1ef7efb24ab5",
+    "title": "Carney to meet Xi on Tuesday to talk food, energy and financial services",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLOE4tRkR5XzEyYTA2VV9oelJpUVNXekxfMS1VSWlmVVpXS1VjV1Q1UWZfQ2pfNUJXa0NRdkQtYzR2RHpERTB0REhsS1R0d281Q21DeHI0TXd1ZW1PaGE3VHdsRGVBOVQ5SDliUGcwTnhvVGdKOURJ?oc=5",
+    "source": "Yahoo News Singapore",
+    "published": "2026-11-16T18:46:28Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1b7523674cf2bf5da55a82",
+    "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
+    "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors. Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a passcode, which [&#8230;]",
+    "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+    "source": "The Verge",
+    "published": "2026-11-16T18:44:16Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "f43b098f1551916a0e0fea",
+    "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+    "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, [&#8230;]",
+    "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+    "source": "The Verge",
+    "published": "2026-11-16T18:43:35Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c4fd892e21877e56cfabde",
+    "title": "AfDB President calls for stronger Africa-Japan partnerships in investment and technology",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT25tdGxTRnFqTGJ3RmZwOXB5ZHRYeW0tWEZTdEdtMnZwWGhrNDFXQXJqNnl4QVh1Y2RNLXNDWmlSODUwa20wS04zUlRzU1ZYUWxYb3dfQllSYnh0bnlmMHFGcHhvSnlCZGozVmgwamUzN1NrcTVhaTlhdjAzUURDRjhteFhabmlIVmtQWm9GZG0zaXRFX1BsWG1pZHBXZW5jdXdudkkzYjhQZ0tKam00cWItYkdEb2RaZzJ4THp1UWw4dE4xRGdxN255M3BxeUNtTERmTGtSUQ?oc=5",
+    "source": "Ahram Online",
+    "published": "2026-11-16T18:30:05Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "80ed49a19a4ec889658254",
+    "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
+    "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the [&#8230",
+    "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+    "source": "The Verge",
+    "published": "2026-11-16T18:29:55Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "74adb47cd80b6d98558bad",
+    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+    "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+    "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+    "source": "TechCrunch",
+    "published": "2026-11-16T18:21:14Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Tesla-cybercab-Getty.jpg?resize=1200,900"
+  },
+  {
+    "id": "5a338c56f325da9cb40086",
+    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "source": "TechCrunch",
+    "published": "2026-11-16T18:11:10Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024"
+  },
+  {
+    "id": "6dd05a512abcee1d305cdb",
+    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+    "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+    "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+    "source": "NPR",
+    "published": "2026-11-16T18:04:50Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg"
+  },
+  {
+    "id": "704f3d8b6ef1d64600e310",
+    "title": "Ghana now Africa’s eighth largest economy, second in West Africa – Mahama tells Investment Summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEo4WXI2NEpmUmtYVU42eERuWUFZWUgwWUtwV1gwc3djT09hWVBUUTR2UVlGV0ExZ3A1WDhxUlJrbExMWngwRzQ4RjVNeXE3M19YVmhvRUFwc21hSzUwLWdIOWJXeVNISVd0MmtIU3V4Vjd0eW51VjhKb05lbllIcENmRkoyOHYtUUktSGs2azBNTFUyV19BNjNUYXl0ZXlndERwS0U2SXJxQWJFdElsYkNnMUhyN3Rwclkxa2FR?oc=5",
+    "source": "Ghana News Agency",
+    "published": "2026-11-16T18:04:26Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "824fa33b6855be6603bf46",
+    "title": "Chinese, US business leaders to attend APEC summit in Shenzhen",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUdkSEhZNGtRaWRrSFNVbDE5UFpUYUpDbnA2SFVkbFppRlhaRWdTRmlteGNhVHlQbFJSWlp3YjNtby0zVEpPNlNKNHBuUlRObDZmT2hLWGNfeHBWVnJ1b2ZkQ2MzdXFrMTM5UGFnWUpYR3dhSUNMYW9qRXgyM3BnYzF4cVRVbE04cnYyYUhrNTBxNW1CNWxldzlxTTFaUUNkaFJTdlNXMUwwSmNsY1ZZ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-16T17:53:44Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "64fa42cec2c8429bfd1427",
     "title": "Several companies are using Trump tariff refunds for corporate bonuses",
     "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump’s tariffs have put those funds towards corporate bonuses instead of reimbursing consumers, an investigation from ProPublica has found. After analyzing securities filings and earnings calls",
@@ -216,6 +348,18 @@
     "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c6e402db7971102686e38e4401eb7a4"
   },
   {
+    "id": "da92c8972c3b4d04b66566",
+    "title": "Applied Nutrition FY26 slides: 51% revenue surge, US expansion underway By Investing.com",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDBicHpBckttWENRVXhYOVUwMm1fTnRLVkFoZkpkOERUTnFId0E4WEdoRk56S0dxYW44NTg3TXcxNTc5NG0xNVEyeDRiRXBEejdZNmFHQlc0R29yNV94VkNUYm5vUkdpQXUtazRjQUVQODd1Mm9SZ1BiWGRpQ1ptVThGRVk2dXVydGt6d0hfZ00tY1g4b1pvWlZ4cDh3T0NJaGcyamlGVzZGc2lqaGZta1dmMk01cnBrMmxsVnh4aUM5cnRObmUteQ?oc=5",
+    "source": "Investing.com Canada",
+    "published": "2026-11-16T16:14:30Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "c3633df57776aff254da4a",
     "title": "iMENA completes $214m capital increase to fuel regional expansion",
     "summary": "",
@@ -348,6 +492,18 @@
     "image": ""
   },
   {
+    "id": "4f1103d97246f251721ffb",
+    "title": "OriginalVoices launches Twineo 2.0 for digital twins",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHV5QkVyZEQxTmFOUzlydnJodDRvUWpmclpDT3lIZU1iUmlaTVdvSVZXdm9IUnpRSm1DNXM5RFZabmFzczk2T3R5d3ctd19lSl9yOWZKNWhMZVJRUmZzQl9KdFNSZWVUSFRNeFZYM0NXc2FoOU50cktFMW1JQmU3cGJwMjRfUWc?oc=5",
+    "source": "IT Brief UK",
+    "published": "2026-11-16T15:33:12Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "0cd807ab691eec372ceec6",
     "title": "Italian Banks Boosted by Interest Rates, M&A and Fee Growth",
     "summary": "",
@@ -404,6 +560,18 @@
     "published": "2026-11-16T15:11:09Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "540ad5a2ff9a8f77563dab",
+    "title": "Banking | Monetary Policy : Raising the Key Rate : Is the Cure worse than the Disease ?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeWI4VG5jOHdEMnFMWGJPbl9yMmxwTVJKX25XMHZUUy1rR0wxQVZINGV2YWpvNUE3N3pQa1p5ODNodW54N2NkNWRUYU9TajQzbGFEaGlXUnVXbHFrWWM3a1pLUkhPUVhNZnp2YU1jbFRVSVBENlA5ak8tMVZPa093dWtvUldsS2R6UktxT01pMEJZV0FXRWJCYjBkTkdlV1k4MnQzU0xObWtiQjJXOEFoWmNYVlJOSHdjY09Pd0cyWWNKZEtta3gw?oc=5",
+    "source": "Le Mauricien",
+    "published": "2026-11-16T15:03:07Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -900,6 +1068,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "20359db8e5563dd14cc8e0",
+    "title": "Brussels clears the way for Europe’s biggest bank deal since the global financial crisis",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWpCLVNxTWNtZ043anhsajlrVC1tRjRCdWlVcjhaRUpLdTFNemJhQW1EdFdBeUk3SUFoUFQ0ZUtBUkpwUzU1VzVoYXR0RjlkamMtNEg5WUc4OXpKSGdydk9xcmtTbDNBTnp5NG1JbWhkZl8tcDM5OVlkdW53SkJESEIxVXpQUzFBT2pz?oc=5",
+    "source": "EU Perspectives",
+    "published": "2026-11-16T12:59:22Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "225619c97d67507be82acc",
     "title": "Shenzhen takes centre stage as APEC leaders converge to shape Asia-Pacific economic future",
     "summary": "",
@@ -1044,6 +1224,18 @@
     "image": ""
   },
   {
+    "id": "52ec243c4f8eb9a320a041",
+    "title": "A fast-food chain approved Beyond Oil’s oil-management product for hundreds of U.S. locations.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2VKaU5XUjdtX3VqeWVPbzJ6VTJISVdYTkFEQ1V4Wmt0Tks4blpCcnMwOUJEX0JMa1RoTUZhLVZsb2pYZ0JCd18zbnZ0VFNUWUZlOWFHM1hoZGtaVmpWaTlMWTFEbW9wTnJBWUd5Rk0zdWtvMVVDTlZCWjdRWDZ0TnVJTUxwQUNmSEF5U3Aya0dELUJTY1d1aXlVWl9GdXpSZVc2bDBiemI5dEM2MnFsYVl0OHNqSndSdnNVUkkzRUtxQQ?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-16T12:25:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "c9ca23328e0a0fb907a9b9",
     "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area",
     "summary": "",
@@ -1064,6 +1256,18 @@
     "published": "2026-11-16T12:22:11Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "be24b5854cab5d6fed4769",
+    "title": "Bengaluru Tech Summit 2026 to begin Tuesday",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRlhzcF9zZjVzQ1hJZ2lQNDdVRm5BaEFqUjhUOFpYX1RoenJLM1hNTWlnUHBpMEZVb0k2cGNpcmtnOHNBb3NORktqU2hkUlJiUTh4QVlaNGdibFprTXBZbXREN0d3clhEY0E0Nmw1U2t1Y2J4NFkycm1xQ21yc1NUNGk4OGRlQmFCZ0E?oc=5",
+    "source": "Communications Today",
+    "published": "2026-11-16T12:21:59Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -1582,6 +1786,18 @@
     "topic": "NPR",
     "country": "",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/3000x1903!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg"
+  },
+  {
+    "id": "d9341dfe1ac9c5ae378ea1",
+    "title": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T09:56:42Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "20aa2f6b11c64c9e4df0a0",
@@ -2844,6 +3060,18 @@
     "image": ""
   },
   {
+    "id": "dca96f7198dc27c977e05c",
+    "title": "AI boom, geopolitical tensions threaten global growth, says Moody's",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZTJPdDRUeWpCM2RQNjNkTnBQUFhaZmg1RDBZNjViXzc4cTEybWFoY3RsTmxnQW1USXU0LWdySXNYS3lyNGU5ZUJLLUxEeS0yd0VBMC1nSlNTQW02ZzA4N3k2UnoybHBYOGp0MnE1SUlNRDVsTTVkNHIzMVJFcUY3SGszRHpPeDE2eXYyV05uc2dnSzRPQ2RwNm5rTF9XUzExa2tvT0JnYXJYZnBwRDlVcEhUU2V1MG5nWTNn?oc=5",
+    "source": "KLSE Screener",
+    "published": "2026-11-16T02:57:49Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a450e130732c7a2fbd902f",
     "title": "Self-driving even if GPS is cut off and foggy... Neowise pioneered the visual revolution of domestic drones",
     "summary": "",
@@ -3156,6 +3384,18 @@
     "image": ""
   },
   {
+    "id": "807ae176e814ef8d5e77c1",
+    "title": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China’s ambitions",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkpiYmh6YWozX2tmd0Q0eE9uMEF6N3hiQmZzSEpydm1nM0tUWHlpendqNTZUaU5FVnNmV1lUU2NBSUJTZUdjYndBb2NrU2drZlZ0N3BidkFJamtmTFA5TV9VdG1QYWQyM01XRlVJNGo0cjRLcVVWcjBXdXkxNGZTbXE0Nlgyc3RnXy1zRWxVbHhkc1hqdTdaQTBCcGFSSHdEczlUNk1qd1F2UUwtTDV0VHRPOGkxQzhnV3dQSjNQWjV3bThMWFlLc1R4WUhidnRiRHEwZ19HaEhXeGxl0gHiAUFVX3lxTE44RTFtNkNnMjNNU2EtX1p4RUR4WlQ0TW5VVTlIRThkYmtsMkxZdUtoQUhEeEdla1JoVzI2UG1YYlJ2WVdWQUd0WGxNMGZhTkdxWGE0S0VkWDBCTE1qY21sbXduV2tOdkNjTFlKTGVBeVRrNWpQLXlENTVpclZSc0oxX2QwUUNoM1JmOG9yOUM0Tk9pS2ZVN29Rbjdfc2x5enVyZC1ITUVVRnFuWTNpR2V1RGdheXJ6eUFveWs3UGI5Y3pUSWFyblZWU1FxOTNLS1FiX2RXc3pkNVVucnNyY1lSVVE?oc=5",
+    "source": "KWKT - FOX 44",
+    "published": "2026-11-16T01:18:08Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "fe4fb075ae7371d24364d6",
     "title": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
     "summary": "",
@@ -3464,6 +3704,18 @@
     "published": "2026-11-15T23:18:18Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f593d503c4a4b9b3b350cb",
+    "title": "APEC meetings pave the way for Asia-Pacific prosperity",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYOUdtY3IyM19qOEpLQ3lwZGJSQ1hoRkZBaDFlQTdxZHpiTnRsblE4N3VISi13SmVONXZlZUJjckFwTzFnQXVYN1dfUUdoM3VXZXNaZXlB?oc=5",
+    "source": "chinadailyhk",
+    "published": "2026-11-15T23:05:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
