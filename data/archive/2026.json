@@ -1,5 +1,137 @@
 [
   {
+    "id": "54c17ff758e54d4dbf381a",
+    "title": "APEC ties fuel regional integration: Business leaders",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hcEhPMDFxdWlvVXN4bENzWXIxa1A2WENINEI2TUFoR1JYQ25HRGdXNjlqLVBqRTJ3el9seDk0czktR1AxV1lPMmU0dEE1ZGJTT2FJWDl4ejZ6RXJSRUJRU3JsSjJXeUtrQ3dTUElqdTMzSVdHMm5BTVIzZEhjQQ?oc=5",
+    "source": "China Daily",
+    "published": "2026-11-16T23:18:12Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ae3d9685f670ac125fb390",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "source": "The Verge",
+    "published": "2026-11-16T23:17:34Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "63bd91bde38071d00aeb04",
+    "title": "Customers report service outages at major US banks",
+    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-16T23:15:21Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg"
+  },
+  {
+    "id": "56c2cb6720edfceee1fb97",
+    "title": "California sues OpenAI over Hugging Face attack",
+    "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-16T23:12:24Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg"
+  },
+  {
+    "id": "6b28b91323e84940ccc28c",
+    "title": "Earnings call transcript: Precision Optics tops revenue view in Q1 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTVlZTdKS09BbHNGNXVHb0kzMnE5bkxBaFhWN0xSYVQtdzNyQ0s3MmdvRHZGTmo2eFM2VEVzR3ZDVG1pUnZWT2NjMExidURBX2hETEZVWHZkMzFkcmNJaWxCM1g4al9TTnVkMy1GNTlsaHpES1lRUnNJaWFmNWZpdWxNVm1wM3p5M1hid0VMWGRxUGVMTUVYMHk2RmQ1RU10ZlRyVHM0d3MyOUhMT3V2RUl2OF95emc2QXFHOWVFYXdtWnpjYnA2SlJwcw?oc=5",
+    "source": "Investing.com Canada",
+    "published": "2026-11-16T23:08:36Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4ab4bcd6d182a8e13b50f0",
+    "title": "‘A complete evaporation of confidence’ – 6 things have to go right for Nvidia post Jensen, starting with $109 billion in revenue",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjFvWnZnT0hSLVAza1hKbjQ5VWN0NDV4bHNLZlJfd3pBQ2xwOFZZaWRiVUl0UFZscE5HZG1kY245bUdJNW1nc05MTnNKLUtIZDZmeDNvdHpScDV4SmhQR0tRZkowcUpMeWdRU0xZQ3VQV2dnWlVxcXNfdjdldFdTaVpVOUZKc1U?oc=5",
+    "source": "Fortune",
+    "published": "2026-11-16T23:02:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4af98b7e3bf90778bf6309",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the [&#8230;]",
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+    "source": "The Verge",
+    "published": "2026-11-16T22:54:59Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a611065111e4e8dfa69343",
+    "title": "Is What’s Good for Nvidia Good for the United States?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUNmTUhxX3I4SXloZmdUU044b1pCd19lODcwWmVTTDFsaDlCUzJ3Y0tqazlMZEtoQVhYNnVranpqLUZoMlJOTFZDeTFLNGs2b2N5ekdmRVNyNUl3NnFyYW1COUpxYW82UEpKcGtYbXJIQklRbFY3R1p6bWhBdVBlVnNTMnpMZUgtdW5oMjlfUWs0SmpybE5ibVY3ZUZYdw?oc=5",
+    "source": "The National Interest",
+    "published": "2026-11-16T22:52:14Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6fc9152ff172cbcf0819c1",
+    "title": "L'Oreal US Settles Hair Relaxer Cancer Cases in Chicago Trial",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmFEbzk5SHc5UGVSMUgxTDdJeU1OWmpaaXdaMmp0emkyd0hjTl8zMS1SWXFTZVJFNW1ydUtWamJhOUtNdElWQWpTQWEtMXVtc0NkOVNKSmVIcTVJRldjSE1PWG9UejBsZFY0cU40ZkpWOUJiUHp2anhMaDRrZVEtV0loTjdRQ3FrdDJvcXhSWkRNN2tkUGxVZ0p1LV8?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-16T22:31:25Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "17082d09d57e88c1ec47ec",
+    "title": "Disney expected to post another strong earnings report, led by experiences and streaming",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMTlBNUNrWHJwVTMyMG9HclQ0Q3g2YmlwMkQtZGhLN1QxOTdscmhDQjhVUmREZWFXTkJMTTBaSTJIQ2RkWWhtWlZtVnhyNUhsYzZHazgzM3Z3ZG1lNnMxME9ESDA0cGFORkJUaERrRE9DdFRMRUpZT21weTJGVEVYdHY5TC1lTlU0RThFWjZWanNXWWtUSHJRSGQ1SHFCdUJzOU1yX3oxYTV4c1JtUk8tSEIwSDhoRGtieUh4M052VHUxbWQ2WkpJdWs1MnhEN3FEbE9xejVQRk1rYzdmMzlyYWU0UWRqZw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T22:29:53Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2a4fb4bba3a7f3d545d4f6",
+    "title": "Trump heads to Indo-Pacific as midterm fallout raises stakes for U.S. diplomacy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEwxajlJb28tanIxUlhuQmVSdjYza3lpSmxnTHFCN2c4THgycDhpanlDMUI5ZG9jLWY1QWdkZjZkd2EyNGhTZ005dnZxUjZIU1J3X1hrVkdYclN0UHJFOFcxZ3gzMUx3U29jVEVpanoxTUNrN0RtV0l5MU84MG5JMldIYTY3RXVfSi1wS1l0amdwajM3b0UwR3AtVTN4ZGxSVVF3?oc=5",
+    "source": "Ticker News",
+    "published": "2026-11-16T22:13:41Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "2eb40b35936970671ffcf0",
     "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
     "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
@@ -48,6 +180,18 @@
     "image": ""
   },
   {
+    "id": "1d38650fd5203d06817546",
+    "title": "Congress could soon rein in Trump’s tariffs on Canada. Here’s what that could look like.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGsxeTZ5RFpTVXJJM0RTMy00eHZneGpYQWRwbjhhWmR3UDFQMzV3dEYtVWM2MUNBMnM1VUdHdk1IMGRaVHZsWkZSX1d6QThrNVhzT29mZktBTGR5YXY2dGlheTJZandFZTc5WG84ZlJPaHV6Qzlrekt1a0dCVjZrQnpRRG9ncHRNY1FNTGd2MHR6azFJbDY2eEJVRUVfdzQtdkJhWGMzSm52dE9aZ0hLajZfQ3NINUM0VU1fR00zclN0TVlyOVV2Tmc1emNFZlhIQzl3?oc=5",
+    "source": "Atlantic Council",
+    "published": "2026-11-16T21:59:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "7abf4f7beccd589d4b988d",
     "title": "Kuwait targets tech, AI investment to drive economic diversification",
     "summary": "",
@@ -56,6 +200,30 @@
     "published": "2026-11-16T21:55:40Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5f4ce04b6b38c1e19bf9ae",
+    "title": "Tech shares slump ahead of Nvidia earnings, Anthropic IPO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNTBLaEZKUEIxYzI5bmNObGFtVkw5SXJmbS14S2wxLURqcDRRVURJbjZHLWtqbUtlb0NRWVl3SGxTVTFWVmlHS3BmckxBSzRyUmtsT1N5OHA3VTlhTkdzVTRYOE1RaEdzbHVmM0RVNmI5RHNkajBPa21XV1AxS2E1bzNOQ3Q5cU92NTRxSm40NGd3WHcxT0kyY3prRUxDU2VvdHc?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T21:55:17Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b7f76de0abd5516fa4cea8",
+    "title": "China 2027: What to Watch",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OYUJCT2ZBM21XZGc5UFBnd3pPWWpzUGd3VUpCdG4xeWpmNzFiV2hzcThzdmpGcWN1aHNBZ1JSNkwtUFlaSVFISEdxbWpETzk2dUVjTWczWV9tVnhBY3VGb0Q2RWNqV01mWGFhcm5ZbGI1QTMxRFNMVg?oc=5",
+    "source": "Asia Society",
+    "published": "2026-11-16T21:42:44Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -84,6 +252,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg"
   },
   {
+    "id": "1ce4f144b25180ff0e126c",
+    "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GeDBBRFlLQUp6OXNQVFdENGYzSGFrTUR3d01KTV91VlJVVXJURjl2Y0tfV2ZpcTlnTm55YWNMazI3WnFHZ29kS0pyUEdWbExQZGY3MGdiWUU2SU0?oc=5",
+    "source": "BBC",
+    "published": "2026-11-16T21:40:07Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e8fa9d55dd5530d96fc081",
     "title": "PRIMEENERGY RESOURCES CORPORATION REPORTS THIRD QUARTER 2026 RESULTS",
     "summary": "",
@@ -92,6 +272,18 @@
     "published": "2026-11-16T21:29:00Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "151cc610771c1e1d30773f",
+    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+    "source": "NBC News",
+    "published": "2026-11-16T21:25:25Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -216,6 +408,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "4ed890492f53ef610d5242",
+    "title": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVncwVWdFNkk4NnRjbENhTDQwWDlIMklGS19CWVNmM3RwbC11M2l4amROS3IyVG1SbXJUQWZwbWp4OWZjVjh5TWlaaWFaUG9tQWRuZVZPUHZDcU5CaVRHMzhLUS1RYjdkNTdkVml2a2xOandyT25fTTVUZHJhWjVGWkw0djNPMlpicE4xaUp6N3dsN3ZJVHNZNHl0bFZSR1NLU1N2WlU4WlZFWExhZ3JxWg?oc=5",
+    "source": "Goldman Sachs",
+    "published": "2026-11-16T20:26:06Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "93a22d9fd8fdceba816322",
     "title": "Fed Chair Warsh Warns Of Super Intelligence Risks To US Economy",
     "summary": "",
@@ -248,6 +452,30 @@
     "published": "2026-11-16T20:05:00Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "70aaa61bf64d5513f7f32e",
+    "title": "Iran faces winter gas crisis after US war damages energy plants",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1WEFHT3RfRlRkNkFxQi00TjhQRDMzN2VHODdIaUZxaXhkaFJBM0xaU0pFaTZsV2N4b3FjSmduRkdkRUNPSVZKdTZqZGwtZ0cwMkhWNlpjcFZLRHQxRVVTeFRBY3g2cjB3YkE?oc=5",
+    "source": "The Jerusalem Post",
+    "published": "2026-11-16T19:58:46Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "50a614653b810dc3b660a6",
+    "title": "Cybersecurity is now a test of Latin American sovereignty",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV05ldW5DcTBIdnppYnV4S0VaRzdLaFlLVk1oUkpQWVlVb2dfUUkxVkV3aVBYbUtnbUNGd2ZmWHNHWWE3WW9DZzhNcnZRM3dTenVCbU1laDJ4bkxzcG8wdG9UbjlLLXA0UGxJVVBCZ0RoY2hpT0ZER09BWWp6enF5QXBCZURGQ3g2RjZXR0pJcXR6QXM5OW5ZNzdVMV9CUGFWXzh4aU9pMHRVZVpTazJudjZwZGRpRU830gG-AUFVX3lxTE5HY20wWGd1SGV2dXZ3QmxwWXBLZjNYQ2hfX3MxaVUxLVp6S0M3eHNYQ1ZGMXU4eXF4MzZ5dElTWXRRcWI5N3RGSXJBdkdnRnJHc1RiWXFVU3RVQkU4LUFXNVkyWll2cGpOMndfQ0xkbHFvRDlYSzBWeGtaVXUtbEZVNGJTU3l4eU00NUJXN0JMV2JyWVJSc3BXOVQ4NmVIQ1FidGV4cTk0b0RvY1c2eGhrUmxWOG5nVnB5S0RaeHc?oc=5",
+    "source": "upi",
+    "published": "2026-11-16T19:57:11Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -864,6 +1092,18 @@
     "image": ""
   },
   {
+    "id": "bc574f82bed226ee33528a",
+    "title": "Republic Brands Group Acquires Rebecca Minkoff, Targets Doubling Business in 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUpwcDh6dnZ4Z3dLOUY4NFc2aVU4NEJ0Z2VvYUZjTGJZbURCZHkyZktkZmZLM2Zsa1BIdFQtZE9aNFlkUjQ1TGxudnlUaDlLNVBfb1BlRExLa1NoeVhVdWxDeTUtbVlmWTczQ0xJY0Q5bjZuR2o2a0JWZURHY2RNTVB4M2Z3UzMxOUZPZUg0TXRrZDRpN1IwZnRVSW1qQ0MwN1B4QWlLRHlISkhqelRScHQ1NGNib09qVmpZ?oc=5",
+    "source": "citybiz",
+    "published": "2026-11-16T16:27:30Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "8a89a626759eac456d4a3c",
     "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
     "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral faili",
@@ -910,6 +1150,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301975852.jpg?w=1024"
+  },
+  {
+    "id": "df9aa86b300342fde5adef",
+    "title": "Applied Nutrition FY26 slides: 51% revenue surge, US expansion underway By Investing.com",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXpxNkdjZkZiWmJGcmFLbEJ0elF2MG9Qd3htT0ZkeW9uV3l0NjRwOEMtT3ZoUlUwLUZvb0Z3MlUtYXBBOHFhSlFjeFI2R3JKZG94NmZGR19YSGowYkpVVDNPYnQ1cHFmTk8xMVA5d2VWLTUxN0I0WEFwNFVtRjY4RGM5UzZseTdTMTZyZF9IN3hvWmtiQ3VmRFZXeDZkcDlZa3NvRmJxenRvZDlfb2o2cnFqaV9DYVYtVm4zUXJ4VmxIcDZjNktySg?oc=5",
+    "source": "Investing.com UK",
+    "published": "2026-11-16T16:06:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "618aa2edc4d4705aa50cc6",
@@ -1090,6 +1342,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "00f89d7024d56f422153a4",
+    "title": "Chile, Vietnam upgrade ties to strategic partnership with focus on copper, lithium",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWZ0bkxfU3lKZVNSLXZ5U3Exclpjd25sVzFmMlhxM2VpdjNyUnBmVWd0TzNiNTN0N3M3QmtwT3ZhUmpYN1cwSjhxRWNkRVpkM0puQTVud2dQRUMtNDM4dWRKdFlpWnpRa3EtWjE4cHdJSGdWOWFZY1o2a0kyTzB1TlRxQkhFYi14bUNQSlFxZUg2S1F1VnVpRkZaM3lodmhjakdjbDlPRVN0TmNzTExmU2txQmF5MWlGUkEw?oc=5",
+    "source": "BNamericas",
+    "published": "2026-11-16T15:16:49Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "8bccf0a4494ecdf0a854d7",
@@ -1654,6 +1918,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7306377a3997638a6d4f26",
+    "title": "Netflix-Linked Production Company to Invest US$30M in Colombia",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR24xN0FXSFFsMEJWN3hqSl9rbGpTM1FXY2F1UUNOQ0c4X3AzZVBXUkRXVFhZTjg4V2Zlbmc5cHI1MHFjaDVwMkJsMWNlVUJJX1pqX2NvNVk4V2NRNGREZ1BhOVJidVRDb0c3MUE3LXd4d1NmWWpMY2ZNdkhsVmJRZVJGOGpFY0NiUk8yZGt3?oc=5",
+    "source": "ColombiaOne.com",
+    "published": "2026-11-16T13:00:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "20359db8e5563dd14cc8e0",
@@ -2828,6 +3104,18 @@
     "published": "2026-11-16T08:30:00Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2e248f82fc34b1ac201a68",
+    "title": "App permissions should be the outcome of trust, not the starting point",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHI0ZDhwdE9OcnVtd0IwOHk1OHg5bEF5Z3lzczNCemZDYnZWODJZWkd4cnpYTVpIZGJDdkJkS2YwM3FsM2p4OGdNVUxYSE1lbUs1ZlVFQXgzb04wT2o1MWF4N3RNREZXNjgzeDNYWDJPQ3FJWXlYUUVJSl9GMzN6VC1sdTFORjMxdm1la1ZYNS0xTFZGbXNzU2swV1RxZ3JpbEhMTXpoU2M0VDE3Tk53?oc=5",
+    "source": "Business of Apps",
+    "published": "2026-11-16T08:20:52Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
