@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-15T23:16:30.001664Z",
+  "last_updated": "2026-11-15T23:59:54.203948Z",
   "articles": [
+    {
+      "id": "53435ba521bad050ac6c50",
+      "title": "Intel Faces Shareholder Lawsuit After 29% Stock Drop",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWRpa2ZyRmpiUDl4MDFnclo4MjBrQzBDc1BnUmNVemNvY0hYWTd5eUhhMU5mVWxpLVhJRDRObGg1WXVnV19SYTQtQ3FEQ2k1T0lCNXNjeUZKOWVzbkh6ajZUVFl6dEZEWDBiakpCZXFMQmZrekhiR1E2QjRLLTBSNEV3R01IOTdINklXME5VbTUwMkxU?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-15T23:36:50Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cccac2fbb2d9db3becd4f4",
+      "title": "3 Top Undervalued Stocks Trading Up To 48% Below Cash Flow Value",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXF1SHBRM1k2V1pSTFdQRDEtd1BrUi1IVnNnakVSUkhxMG9DM2xMcGJDRXBKdG04MGtaZGktU0t4WjkwVHpwWHpzR080N0VQX2tzOUZyQ3BkYlBLclAxc1FsTmZlLWk4NDE1Z1psSjJVR0I3ZHdlS3dOdkNrYVBBRWJOZWhOQWI2UmNVS0lUa1pmLXFQTnE4U0pWYWhFNUVpbGxxaDJvQy1iS2pmTC1qVmxHazRid0dEb0xfeDA3aHVEZXpudDRVX2dVWdIB0AFBVV95cUxOQ2RmM0k3SlpTbHkzU0MtWGNhN2dLdERvbHd1NHVCeEJTaHJ2NE5oaldkWVNuTEZxbnE4T1A4LVkwX0owRmdCd0N0aEttdjN5OUc1WGpmNlBXaFpZMXdqcUJzOG11QXJvMWZ6X0lqODNxZDFOa0FVTTNGU1hNejBtS0VmaWVpUUZrX2dBc0RCV0VDY0VnbktpbHdjXzRTLUNPMkVEclFHYUdxWDZfaHZ1cnhQUG8xWjVUTjBzdTJERzVOQTdpVlBaTWVUcTRGbER4?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-15T23:35:06Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "04196bef9b67627d8cc938",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T23:30:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800"
+    },
     {
       "id": "33a1f45b80df6d856c3322",
       "title": "Nelson attracts growing tech and creative workforce",
@@ -12,6 +48,18 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "da8865ca9d259060773a58",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-15T22:57:27Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg"
     },
     {
       "id": "bb887fb1f815b831215db1",
@@ -226,6 +274,18 @@
       "published": "2026-11-15T20:50:35Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e38c4b637f6fdc6592e931",
+      "title": "Too Many Chips in One Basket?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LOGdQaThNc0s2UTZmcVJHYkdfaXBkVDZtQTRpNXBqUklrNXlia05nZ1ktdVRrcW9mUlo3Wk04VURWX2wyLVVDd0tUeXRZWml5WDRtMGsyMmFHd0l0cERndm5VWkZGLW8wcFF5a3NlZnUwZGdWSXdEaDAzM2pJa0U?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-15T20:48:31Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -502,6 +562,18 @@
       "published": "2026-11-15T17:25:58Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "39b84d045d7cc057f1ce94",
+      "title": "WEF chief sees Egypt as gateway for global trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGRDSi00aEN3aTF5VkFSck9OckdPb0JmMnNramkyNDBNVTZWOG1SVFVYRnJBc1hfTnlycjItclV4RVhKbXJKemlKTGxZaUZzUEJpTGVPTVFBLTd0c2ZPSFpFd3dDUmNqa0gwN3VpZGExaU1MMkdiQWhQWnZ1bFlzXzBzVk96UUJtdy1uSA?oc=5",
+      "source": "Egyptian Gazette",
+      "published": "2026-11-15T17:25:53Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1368,78 +1440,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "87d3ee26beb0e22725f3cf",
-      "title": "Europe’s Banks Face a Tougher Mix of Risks, Resolution Board Warns",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc252R3JTUk5lNmdudV92ZzFXQTdXeF95c3hySHo3Z0h1cG9yWlNaRzgtcGo3ZkZQY1Q4MTZabE5Nd21hQUVEUHMzMWZRb0Vmel9zMEhLMzRBOVhyTEZBUFhnbXBzWmxXOWJXOExrUm9OSldKWkN6blpFU3VoQlQ0b3lxWkxia1NZQ0NRbVBCc3dOZ0ZxMVF0cnJjeGkyV3JCVW5rU05YX3ZYclJ1Tk9rRg?oc=5",
-      "source": "POLITIS - To the point",
-      "published": "2026-11-15T09:40:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "29fc37137b95e3aec08176",
-      "title": "Taiwan spends more on foreign dignitaries to strengthen global support",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbzFkelJqVllnSldnWFhzaVhEWHFSMTNJOUxRd1pyakdJdV9HRW1KR0V2UGFwTmpPUmVBOTV0VW5WRklWTmo1dEdqcjhubkhfMmt2Yw?oc=5",
-      "source": "Taiwan News",
-      "published": "2026-11-15T09:38:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5606a2b75deea2ef466085",
-      "title": "James Riady urges ‘confidence’ in Indonesia’s business potential",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeHFFNGpzRWwxR24tSlRHUk51Qmc0RFlTeFRuN2VnVlVlSXVfTVBPbjZfNFBTek5nSEluaUVkMWFEbGJqTHJfcjY5OVUtYVlCVEJVX0pwZDBkTGpRLTdBZHM5aEYzX3VHeExLRjc4ODd3OGRmcTBxNTJmdGRTZ21QMlNPSnR2TmVBRXUySl9fOTJFMXZQV0ZfWlBXdTRZMVJLWkM5dEpLcjZ3VldqT3d5ZjhBRlVTR01tYjI1aWFNMVBJNEZiZlJjOVBVTUJPTlphMTB0b1RHQTB0REJYelhNOHRiaFhfRW5iMVE?oc=5",
-      "source": "The Jakarta Post",
-      "published": "2026-11-15T09:31:49Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "725edb5f53ee4146ca548e",
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-15T09:26:37Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg"
-    },
-    {
-      "id": "e89aebbd20d358765c1115",
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-15T09:04:32Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "32b37ac6f0f1162d352a81",
-      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-      "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has follo",
-      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-      "source": "The Guardian",
-      "published": "2026-11-15T08:56:11Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69"
     }
   ],
   "countries": [
