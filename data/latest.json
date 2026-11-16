@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-16T19:57:00.976529Z",
+  "last_updated": "2026-11-16T20:51:35.283256Z",
   "articles": [
+    {
+      "id": "858926aab4e461abe040c3",
+      "title": "Jensen Leaves Void at Nvidia Ahead of Earnings, What's Next?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWlJTVRILVhXQmVLR0l1UmNOeHBHdmpuLTlKQnlHY3N3X1Q4WEJRMVJzeXZTM3BYRkE2Vi1EMkUzMEY0RndWNHFZcVpQTHBGNzliQkxHWDhQdk45VGozcDNWMVJVYXVzTF9KSm56d0NpZ0tNeEd6cDQybEZDOG44Ni1WRFVyR2d6RDY4UW9hellOejRmdGtYM3NicnMxb1ZmMFJWc1BNal90dkFENHRFUHpUQkc?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-16T20:39:58Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c919c34fce7334aca0f3f2",
+      "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-16T20:33:57Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+    },
+    {
+      "id": "57cc1ea3d3bbd2bf579116",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T20:07:13Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/1920px-Rob_Bonta_at_Central_Bay_Operations_and_Maintenance_Facility_opening_December_2018.jpeg?resize=1200,981"
+    },
+    {
+      "id": "f0b8a80d1cca77eed00951",
+      "title": "A fragile AI boom raises the stakes for APEC",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkpFSGFLVHNpSjFCNHhpUXVxR0VvLXpaMjFVZEQyTUNIN1d1TnF5RGl3SXhUTVo4QkpKNXRzUmFYaEwzLVdLYmxLU3UtaVhZdGtvQ0ZkTFJmTFh4RkdXMF90bDVRdlBCSGd4ZHcyUWhVbU5fUXdSMWVzblBKTGd0a01B?oc=5",
+      "source": "Nikkei Asia",
+      "published": "2026-11-16T20:05:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "f338a7d54a0be5dfd3f3d3",
       "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
@@ -86,18 +134,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "c919c34fce7334aca0f3f2",
-      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
-      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-16T19:19:18Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
-    },
-    {
       "id": "4dfe5806c8eee85f7bfad2",
       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
       "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
@@ -120,6 +156,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024"
+    },
+    {
+      "id": "a0311c791b53d2619f1d02",
+      "title": "Carney to Meet Xi on Tuesday to Talk Food, Energy and Financial Services",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmtKVGo0RjlRbkhLMEdVX1pQV0NZRmpWQnlRSmVxWlZIaVV0UzFkRDh3cHVaR1lqUWszQTlrWWUtUTV3bGVSU3c4bHFoZG84MkJ0VDZaZVVvTWVYWFRvaUZpLU9QYzZsMmRoeDdmZXk5MWpjVkRpcGMxSkloUHBvc0xGSTlIYlNJZW9veFN1NjljN0c4Z3NGTVhZSVRCbDRFQ2FMcWE3WHgyMG9tTWFMY1BISlJvejV4Mm1FbUx4bHRhOGc?oc=5",
+      "source": "U.S. News & World Report",
+      "published": "2026-11-16T18:57:19Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "a1b0695e3ae7e054d15741",
@@ -240,6 +288,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Tesla-cybercab-Getty.jpg?resize=1200,900"
+    },
+    {
+      "id": "ec3832cd027002656826f8",
+      "title": "West African economies to see reform-led growth through 2027–2028 amid risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWUzY05sLUVERkEyUE4zaXZOV1g0bG9qUHd2Q3luakUtN1ZuOThwNU9USzlZb1hFbko5dzhjZm5VTFRrUkgwTzdGbWxMRWswQmtLMnpRbFBUUW9YR2NIcXRYZzc3aEYwTE1sX1lmLWV4ZGdrTGZXMzlXT2xvTUlnVzNzdDUxTnBfNWdJT3BVTk5fbHBwbmJEbDNlZHN0Zw?oc=5",
+      "source": "Deloitte",
+      "published": "2026-11-16T18:17:10Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "6d2e5d30c4de5c1e516fcd",
@@ -566,6 +626,18 @@
       "image": ""
     },
     {
+      "id": "067b2471e5ec7c516bd343",
+      "title": "Nvidia Board Rules Out Jensen Huang’s Return Amid Leadership Crisis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeEtUY0tWTkxqeERScG5FZU5HZS1iTEswTEFCVmhrUzlLTEloSzNubEVjT05aSnd4UUZvZmozM1ZXdEhQZE9EekhIR0ZTbG9KSGZkcFlQS0RIaVVweXZ2Skl3VUpoNDRWZlRvZXZvRFh4Y2RoOFdqV0RYWUVjdTBjM3l4V0JHbkpPVGhHSjdPOXNsWFRnY0RPVWVMTk9ybU5zMmtV?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-16T16:33:04Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1c8dfbcb75eaec8769fe8d",
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
       "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
@@ -624,6 +696,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301975852.jpg?w=1024"
+    },
+    {
+      "id": "618aa2edc4d4705aa50cc6",
+      "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+      "summary": "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged Cop31 live – latest updates Artificial intelligence models can quickly turn into climate crisis deniers at the mildest challenge from users, according to a new UN-backed study. While AI models can accurately confirm simple facts about climate change, eig",
+      "url": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+      "source": "The Guardian",
+      "published": "2026-11-16T16:05:58Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/158_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55e9b788d9fd026ccb89359d311e57d1"
     },
     {
       "id": "a4afc2c4dfef9fb358180a",
@@ -754,6 +838,18 @@
       "published": "2026-11-16T15:34:46Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2db3076bff36ee09dfd27b",
+      "title": "EU Sanctions 12 People and 101 Entities, Including Nearly 50 Russian Financial Institutions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81aDNkVFhIN29GclNNdWd3OUpOeTJrbzhWdFc4OUN3UTVzTDVZdU1wSXc1a2pNNUphWlpiWWNiRi02b0FFR25jX2ZCZ3lYSVVKajY1WXI5ZXZYdFl0QjBGYV93VkNmNlJUZTBxTzd3aw?oc=5",
+      "source": "CEO Magazyn",
+      "published": "2026-11-16T15:33:15Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1142,18 +1238,6 @@
       "image": ""
     },
     {
-      "id": "067b2471e5ec7c516bd343",
-      "title": "Silicon Valley Backs Petition for Jensen Huang's Nvidia CEO Return",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeEtUY0tWTkxqeERScG5FZU5HZS1iTEswTEFCVmhrUzlLTEloSzNubEVjT05aSnd4UUZvZmozM1ZXdEhQZE9EekhIR0ZTbG9KSGZkcFlQS0RIaVVweXZ2Skl3VUpoNDRWZlRvZXZvRFh4Y2RoOFdqV0RYWUVjdTBjM3l4V0JHbkpPVGhHSjdPOXNsWFRnY0RPVWVMTk9ybU5zMmtV?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-16T13:56:24Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "1d95b26146da40703ca4ed",
       "title": "Combined Asean GDP may grow 4.3% if…–IMF chief",
       "summary": "",
@@ -1356,90 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/GettyImages-2283442251.jpg?resize=1200,774"
-    },
-    {
-      "id": "a0243e3626ac649675869a",
-      "title": "The Nvidia scandal isn’t slowing down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "source": "The Verge",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "20359db8e5563dd14cc8e0",
-      "title": "Brussels clears the way for Europe’s biggest bank deal since the global financial crisis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWpCLVNxTWNtZ043anhsajlrVC1tRjRCdWlVcjhaRUpLdTFNemJhQW1EdFdBeUk3SUFoUFQ0ZUtBUkpwUzU1VzVoYXR0RjlkamMtNEg5WUc4OXpKSGdydk9xcmtTbDNBTnp5NG1JbWhkZl8tcDM5OVlkdW53SkJESEIxVXpQUzFBT2pz?oc=5",
-      "source": "EU Perspectives",
-      "published": "2026-11-16T12:59:22Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e97b018d72b38d812c4a75",
-      "title": "Edible Garden Reports Third Quarter 2026 Results; Gross Profit...",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFZEemRUVy11dE5OdVAwRjNmUmZTU1RZZU9UVVMyemFWSGE5ei1MS2ljRHFEZkxPd1lYWTVzN0lIbXJ6VjNuejN1UVdOckMwMmdHTU1menVHWmRxdWpPMk1vaEdzQlV6NzVVR1VKdjNDNFQ0YndDc1gxOEFRakM1N2JyUW1ya09wOUxTOWRPX1U3eHZDVlhUV1N0ZWJrT0RabUxkVXpza3lRMDhjaUpmMW90akI?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-16T12:56:51Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "225619c97d67507be82acc",
-      "title": "Shenzhen takes centre stage as APEC leaders converge to shape Asia-Pacific economic future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQndjdkkyNTJIb1VjdFY5Ti1iVVJIalh3MVVCWWNfZllNd00zVVpjQi1hM3BnNmgwSUgzcThsLXZkQ0laRmJRMXpYN1BnY2pXOTBtS0dQdjFQUE42RGNkQWt4a0ZXblA0WlRxckpHSHN3WENHaDJURkw1eGE5QXQ1SDFOSGZGOUd6WXBaVDhnbURkM1hxTlhJSXVqdWkxLXRiVWN2VnU4OXpBTUV6aTdrZHpuZVlQUkYwdXBuNXNUbU5xbjdMSVlqa1NIQzRydGM?oc=5",
-      "source": "The Malaysian Reserve",
-      "published": "2026-11-16T12:55:35Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "039a85b084d03dfb67958e",
-      "title": "Ex-Barclays CEO Bob Diamond on investing in the Gulf and the irrelevancy of Bitcoin",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzREcXdROTc2VUgxSVVWc1dHb09BNTdtMnp1d1RSdGJ5bUV3X2hBSmZMVWQtSUh0bGJBS3ZzYnB6YzBvN0U4a1BGWVVHem92X0NLU3pGZTc3WThXS0tXMnBGYTQ5cFZsakxCek43anNmOWE5SkpUYlZzeExQdnkxVkhLbWVCV1lRWE5zcTBiYWJvMWI3WnBfdlNmVm94UjFlcUZKSGsyMm9qRkQ4TkhfdWdiNm1IWldBdHE5NFFYdkJWeTNB?oc=5",
-      "source": "Semafor",
-      "published": "2026-11-16T12:41:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2e1eee001e056e531f5163",
-      "title": "Jordan set to thrive amid regional shocks, EU diplomat says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlh2cUd4bXZfdzRvYldNTGJFaFpKM0dfbTExRFB0VXVtMDBFTlhXOFVKRVRXSVUwRmhjUEVhcWMyOWUzcmJSaTQ3MWl5TkROMEZsbDFrUEczNHh1eUlUUndvejRhdE0xMnNNdkdmSDV5Wnd3bzR3YnRYbC1lcTJoNUV2UQ?oc=5",
-      "source": "The National",
-      "published": "2026-11-16T12:33:34Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "050b2adba274a0e676f26b",
-      "title": "Edible Garden Reports Third Quarter 2026 Results; Gross Profit...",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekRONkl4SlZsS0NZaVp1ckI0cjFYMHlPNDBDeDR5V3FLZlBsWG43WEx5d3M3dmo5bjh5dU5XVnBaMzdzVHJGZGFSRjloTjNsbTRrZV9fTUdrdXVsNGVzZ3M4cWg1U05idU1zOTJIU2VqUzMxMjFQUVA3b2FzeXFDLXlRZHRPNk5kQV9YZzU1M21IUWVWRm8xdDZKRThxRS05NTl1WTZuemZHZ0FmOWRv?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-16T12:32:58Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 19
+  "source_count": 16
 }
