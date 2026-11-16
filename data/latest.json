@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-16T20:51:35.283256Z",
+  "last_updated": "2026-11-16T21:37:44.631469Z",
   "articles": [
+    {
+      "id": "e8fa9d55dd5530d96fc081",
+      "title": "PRIMEENERGY RESOURCES CORPORATION REPORTS THIRD QUARTER 2026 RESULTS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb255VDlIR3Y1dFJhalkxQ1RzT185NWozbU5MeDBqcC1OMXJTWnNfc3lyNUpqZVdjVllMZ1g3OHQ5ZU9xVTdnSEJkd0JPOURhX0g1M0hNSkZ2UUtoOWcyZ1YxOTVxSy15SlJNbHZuS0NzX3JYMVVuckhIYVZiaFF3TVlvb180QlBNWEVRNHBRYTRpSjdUUnhMOFZva1B3MXBRbmw1RGR1SEV5a1RMSm5VUnBvVW15dw?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-16T21:29:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "62e8eaa9bc2c84fadc3a59",
+      "title": "Reliance Global's $3.3 million profit included $7.7 million in gains from selling insurance businesses.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2NZV3hBMXlhTHdvVGpJZnFFVjNUZ0ZmUHoyVV8zelo4cjFiTmowOTEwTnQ1S2tfcmJSVjNTVTE1TzF6NlllSlJtY3B3VU5iRWw2ZGlySWlXMzluVmFOdXRWdXptY2VLa1g5a0g1eFRVMEs2aGZlMVVvSWdfQkZtVHZPSzNaRkdiV29wbnlFMkVvOC1Oc1hWUXJ0TjBwdU5GUXpXUnc3ZWItbzAxcUg1NWdPVHFZdTZETkFtUmFB?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-16T21:05:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7a8afea492580e81ad496f",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T21:01:02Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800"
+    },
+    {
+      "id": "f78829236dd8ad21d7cd63",
+      "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+      "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the two leaders meet on Tuesday, as Australia signed",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "source": "The Guardian",
+      "published": "2026-11-16T21:00:21Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdfd15dd5fca09828fa4c1795dbb4672"
+    },
+    {
+      "id": "116e6fdebb02252197b28d",
+      "title": "Middle East allies sign US AI pact as Nvidia crisis clouds chip race",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlhEWVFvN2J0bUVMdmZDR1dIR20tNzUtM1k2MTE5UEdUMlhITjZHOFNzc3VqSTZ5cTJzRW1ZSEFXd2pxRFBSZzhNZWhHTWtxMUQ5THc1VlQ5NThqMWluTVNaZHdhRjhqekY4Q0k1MmFQSzBrNENJOE0zLXNBMV9fM2N1N1BQYWpNMXpDaVFjajI1QjJMVlhSV1pydEZwRzYzTjdzZ2pqYjJCRTdYbDdn?oc=5",
+      "source": "Al-Monitor",
+      "published": "2026-11-16T20:52:49Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5eb97c34dc0bb017591416",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge",
+      "published": "2026-11-16T20:46:01Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0f46466adfdb934eab8a4d",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "source": "The Verge",
+      "published": "2026-11-16T20:41:28Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "858926aab4e461abe040c3",
       "title": "Jensen Leaves Void at Nvidia Ahead of Earnings, What's Next?",
@@ -10,6 +94,30 @@
       "published": "2026-11-16T20:39:58Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9d2982d2f42f3ef35515e9",
+      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+      "source": "The Verge",
+      "published": "2026-11-16T20:36:14Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "317dc4cdd4db90ba3879dd",
+      "title": "【Daio Paper FY2026 Q2 Earnings Call】First-Half Operating Profit of ¥7.8 Billion Tops Initial Forecast by 73%, but Full-Year ¥24 Billion Target Held on Raw Material and Fuel Costs — Overseas Business Improves ¥4.2 Billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IbWpudldSVkJ6bnZkSHVSVzh0OHBZTjMzTkNqc0tOTWEzZ1NwaTJ3VDN5QVY1M3A3ZVl6RmNOYkFsbTIxN1VpWjdTYzVEM1lVM0pXLW9BWkZjLW5hX1pCeA?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-11-16T20:34:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -24,6 +132,42 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+    },
+    {
+      "id": "ea2b45bbfe30aab1308f97",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "source": "The Verge",
+      "published": "2026-11-16T20:29:37Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "616d362bf0f56a202faac1",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "source": "The Verge",
+      "published": "2026-11-16T20:27:58Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "93a22d9fd8fdceba816322",
+      "title": "Fed Chair Warsh Warns Of Super Intelligence Risks To US Economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2ZENVQ1NG4zalM0SVh5YzktN2dtVEttMFE2Q0tXckk3eE5QUkN0YksySWZ5OGxMQkc4Tzl2TVl0YXpNMnpGODNxekR2ektBQmFOUldZQWFCNE5PUmxLRnJ5RmcyRWtqNl9uNUdidlhqU0lmaUlfeG02VGZtU1ZwVW55djhJckpheThWaFp0eUVVeEk1NUJ6N0hPSEpULVNMSDY0Z2pWOS1iVVctVHlVTnV2SXlGRzcxczMyenVnWkNyQWV1Mk8wMjhiZWxmOXRfXzNwTnlYS0tmenpDMTJFVHd5WDg?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-16T20:13:43Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "57cc1ea3d3bbd2bf579116",
@@ -132,6 +276,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0177eb4132f26bf63717a6",
+      "title": "Carney arrives in China for meeting with Xi Jinping, Asia-Pacific summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBURmo4N19MSHFPdlNCNjBYdmw3S3RLUEtRaDN0SnlrVWExYzVHbnJMMXFab2ZyMFcyR0ladWZ1MmpHd2VxTXJGcjFKREx1bzZHMXpiZ1lrZE1QZW1JV0ItR3lQSnZOcGNOdk5feVNvT3E?oc=5",
+      "source": "CBC",
+      "published": "2026-11-16T19:21:16Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "4dfe5806c8eee85f7bfad2",
@@ -434,6 +590,18 @@
       "image": ""
     },
     {
+      "id": "37c895988f632b91029a3c",
+      "title": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNFM1VFRodVgxbUwxblVXUzJFNFhRSk5aRklrT3BOUU9tSHBLZ0pKRG5kcUlZZHNMcENGd0xORG9TUHUyb1AtWDl6VW9NZkF2UEdiLVJacDJyRXE1S2F5a3BzSGlsM3FyVGRiaGNYUEdtVDVGOTdPUzhSQUJmOUd1MDVhWnAzWlQxZktIR0ItQWRTU19RTTAwaXRpMUNueWlsTDZTV1IxOTJDckVSV0NHcEtyQkZxNjFtcVZ0ZjJYZHBGMjRzLVZLZFZzNEFwcHFyZzBZZncwTmpZMUpoa3Q0?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-16T17:25:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "41ea534b8fc963e99d33c9",
       "title": "When will we see Robert Pattinson as Bond in cinemas?",
       "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
@@ -454,6 +622,18 @@
       "published": "2026-11-16T17:15:00Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "dd09a3dd8c61f55a6d8c39",
+      "title": "Noeri, Founded by Leading Stanford AI Professors, Launches with $110 Million to Empower Companies to Build and Own Their AI",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWnFfTXNXT3ZROTlkVVdQQ3J4TU1mUVlwRXFsMGFPUDFlRVJFazdDSm11cUFZZEMtNFVINnlmVE9LcUtMSnp4X3RiUzM3cVkwUk9hN2RmTkd6T2pmcXZXdF9ETlNjamc0OER6RFRzbHhqbGZJY1ZQcWFHWC05eWh2cHdOU1FXNnlua0pmN09USDhVMEJQNnJIbjZCQnNkLWgzaGFSY01nTXJtV1I5NUtXQzVGZFlOUHY5QnBUVkNWdW0ydmJ3cjJLaG9XWldrdzl3al9lNlBWaVhrQXh4MWNTNjdIdVpHaGo5MGdIQ3FsaDlaTHpCTHNHQVdYUnRvT3NIT2VNbDdjM285Vkp4?oc=5",
+      "source": "Business Wire",
+      "published": "2026-11-16T17:15:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -854,14 +1034,14 @@
       "image": ""
     },
     {
-      "id": "4f1103d97246f251721ffb",
-      "title": "OriginalVoices launches Twineo 2.0 for digital twins",
+      "id": "5714f9b2257faa403a18e4",
+      "title": "SAP SE (SAP): Post-Earnings Rally Signals Growing Investor Confidence in Cloud Growth Runway",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHV5QkVyZEQxTmFOUzlydnJodDRvUWpmclpDT3lIZU1iUmlaTVdvSVZXdm9IUnpRSm1DNXM5RFZabmFzczk2T3R5d3ctd19lSl9yOWZKNWhMZVJRUmZzQl9KdFNSZWVUSFRNeFZYM0NXc2FoOU50cktFMW1JQmU3cGJwMjRfUWc?oc=5",
-      "source": "IT Brief UK",
-      "published": "2026-11-16T15:33:12Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1FqZzJjZTR1ZHkyUWJiUlBFMGpmY3F5MmJDbTVzbVM4QmJleURSZWhlYW5LbDRSMmc5c3I3dDc5TVYwYnFXU2VwU1pXSDJqVFBLbnpKMm1JMmNCSkp0TThpM21IZWE1azRwbHNkZTU4bHRRbUpVMTNPdGZHNHUwM0lqNVRJZFR4RXBGM21kVWd3T0U?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T15:31:05Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -1260,186 +1440,6 @@
       "topic": "Artificial intelligence",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "7262651e4746756bf51cc4",
-      "title": "UNESCO warns AI models can undermine climate science as COP31 launches AI pledge",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWZUSHphdTBvZnVnUU54WTl4bllzQnNnSW1wRjdsTGlIamFPS1dVc0tYVl9OOHRhSWdDU2FIa2VwUWJBN0pqZmpKTjlDbndjN19GNl9BYnRhbldiQm1FVDBuVUdJelhrZlVjMENqbV9NY1JtZDVSR2tScjNRM3NlYkVqWXg2SGF0N3V3dHdtVlJxOW9qaHNGX2djNHdyMF9MaERRdg?oc=5",
-      "source": "tanahair.net",
-      "published": "2026-11-16T13:50:10Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "65bc2c4d089241018c1ffe",
-      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-16T13:40:56Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "74bcce4fce0e41c26f7cb3",
-      "title": "European Central Bank, Fed warn AI could threaten financial stability",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2NNeEFQdmluVkFmMXIzbU16a3RTRXhMMmViallFR0U3cWdyd2J3UkpkVFZaRHpSVjJScGxlUGl1aWdCUmxZS1FkVmYzQkkyTE0zRHlkWFBfTnQ0ZFFwbDVZeFc5Q3daWjNkVnhpMjFVdVF2Nk5kS3JBZm1waGlUV01jd3N6Q19XLWN2dXFLSVlVVEZSdlJ6cmt2aWVCTERBSEV1clpDb2hRSWtuWHc?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "2026-11-16T13:36:45Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4a34215b923232d604131a",
-      "title": "Sempra divest majority stake in its LNG and energy infrastructure business",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3R3YVFESVVkajhfTUEydGVIVjBscFF0cDBfZldsWkotOGt5NEZDLUtjcEdaN0ctbHBnck9zeHRaR0k3dXA4eUxhby1uVUVlcUpHcS1ZaWlUTUxrOTJIaG5zRzhkMmthUDI0cGVUdjgxR3lwaTJWakY4alZQa0ozMW5yem5uN3NOWkpFVGgwMy1TbUZZZUVITEh3Unk2cmlvOTFpTEpEUWVhQTdlTXRVZDBmQklhRi1D?oc=5",
-      "source": "Offshore Energy",
-      "published": "2026-11-16T13:36:09Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "be2e011bbb8909df8f8028",
-      "title": "EU clears UniCredit takeover of Germany's Commerzbank",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSzFOUDFXUzNvWGM2cVhWdWQ5b0pIdFZfcWI4bUVnbUg3eFJjUWFxV2JjdkFnM3o0NVp3WTRQR1JuRTlPRU16WGFTOVhYUWh5bWZGY1MtMTB0SENlTnplVnI3LTk0bDA5aUxjOC13cFIyNWh4Uk4yOXN3aFo?oc=5",
-      "source": "AFP.com",
-      "published": "2026-11-16T13:34:51Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1edbe06f78cf3cda076dcb",
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-16T13:34:22Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/e63476a0-e1ee-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "5a8aa761e2fb8eb069ff48",
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-16T13:19:33Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg"
-    },
-    {
-      "id": "9392df1faac827c57b70f0",
-      "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-      "summary": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country. Nigeria’s National Drug Law Enforcement Agency (NDLEA) said a 28-year-old player named as Greene Da’monte Khiree from the state of ",
-      "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
-      "source": "The Guardian",
-      "published": "2026-11-16T13:16:36Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f8ab1096511b7369e43e30e2c53a8576e6387f0a/388_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a189136b716335c613b084263e7c9233"
-    },
-    {
-      "id": "67f1d96c6080ae3aa71a0a",
-      "title": "How Regulatory Progress At Coinbase Global (COIN) Has Changed Its Investment Story",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN1Fob054VnVjbjIzeUh0TGw5RVREYmhwZ2V6RlliWXZhT2ZNZHRFTG5HZzhGOEhENnNwdlhFbzdIQ0NaTlBwbW1ac0xxeGhJTmdVcll6ZGVSQmdJQktwdTRNdUpkaFA5Mmw5dGcyejRIVnVqRXdBekxEaFROQXBWdkVIY0t1NFVQcldXbWktQTkxWExRNWx3Q3VlUzRMLVUxWjRCUmR1eEgzWkRDczRBejFjMlA2c3J0eno0a3FyU1dVRFhLWC1pcXBiT2ZiNzlWQTVTWG1LdFFrd0hBLWt6RtIB5gFBVV95cUxPSVZ2Z3hOcVhudWJ3OEE1Qy1icTJ3N3NwNFpJSHpKRDlSbGFtR3dObFRaQ2RhaGRzbi1PbUMxQXhaZWJDallqeUVJRl9uUWJQcmpkUEVLa1l0OUF0WjV3LWhjUXd6T091Tl9vaTVFNmVlcE03SXl0OVBMczlCb0RsMi1BNmlSU0F3eDloZndOOFdEYm9kb0pfajNuTkgydlJRdFMzOVg5TFEybHZpMTdMZ0wyLVZ5Q0dkLU44dGVfaVcteF9zQXVla3pZUVlBZ2xLWWlFc0FYOEpuZ1hUSkVfSXV5eUttUQ?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-16T13:12:27Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "adac2365591964bcdd8750",
-      "title": "BEEAH CFO Usman Tareen: Why sustainability must make commercial sense",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGdubVRxWHVGak93ZmxaSURNa1JxSndrYW9lSFpIbUk4RVp4a3EyQkJNUDBOSG9ETk1zdXV5d0dXSkk3ZXFGVmd6VFJjWXNMSkRDME5QV1FWX0MtaU9oY0dwNVRHN2RDYk5fRHZpU2ExbzNzeTRTdlFuWXZhUU1WUFF0U0ktcjRnc2toYk1rY19BRWFXZFVtUF9heGswN2xxQjZxWDF1WQ?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-16T13:08:41Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7e6eff36c20468d73b1d55",
-      "title": "Outdoor Holding Company Reports Second Quarter Fiscal 2027 Financial Results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVFqM0xNNUo1RjlrbTZoTlkwQ2tQT0hfckdSeE1kbTJoa25kWE1GSEZRY2N0bUhpUkw1ajdjeExCdzF6YXJMV1hmU2VCbnFncnZTd0hlTjN6WGpqQnRCaUFqT3lIVldWNjAyN0tBR2prVTJoTkhDZ0FuZHNxQUk1eU9nQzVfSWtZM1pKWkdHeGc4bG0tTHNZSVFtTElwQmlwN0NJZTRIZmVUWXREV2plVmRPSmNnREJIcU9qV2dUV24?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-16T13:05:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4108f5cac9a75054a17e64",
-      "title": "EU Commission approves Unicredit’s acquisition of Commerzbank: “It can help overcome national fragmentation”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVHNSZWYzUFFrNXdORkk3SXJxcE1xQUtKT29NTi1YcEtWN29RZ3RoUjRLTTN1UDdrZE9XaVBBMTVOVlBFdU1naDhtczlQVEZPeVlKSnJvVGVHNU5CalhHQ3Q5eW5LSW1IV3dUcFQ2Sktsak91dUpwd0xEcllJeFRfTzBZS2FUcnRaZEZXQUlubktGbS10UkdXYnNfcnpoZzZEdFZPZ05JRWs5bU1Tdi1nWVR1U3RueFN6bG1lVWtseWNNVl9XaWxVZHpuSXY2M3B0YXJ4b3plVjk?oc=5",
-      "source": "Eunews",
-      "published": "2026-11-16T13:03:30Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b335ce37fa36d7cb4e2c4d",
-      "title": "10+ things in #MiamiTech: Beecure’s raise, Bitcoin, Nexa, Flagler Technologies, Broward College, Brightline, Florida Funders, ARB Interactive, Miami Innovation Academy & more news to note",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQa3NXckNDd2RnOW9OSW1TVFd4T2xKQkYtR1Y2RFJIR2xfaTgtV0Y5bnNBRW9Bc1RvYmc5aGMwRDNBTkxJRGlTcmJTQ19XczI3ZEtrT0VVVXNCRE1jN3pGcDU1dGZLYkx0dG9GZmZsNlBwN1AxUWJTdzcycnl5ZWlERUF5T1ZHOENfalFPNlp4WUF3RkhZOUlNOVFKNmFseDVEQTJRSkxjVEotNmNYQWJ0aE1ueGFrSlZIMTBjSFoxdVNMLVhsd2JGRzIxcm1xOFQ2em1hbFI2MU0zVjVWOW10MHpPTEZJbHlWTTFjVVVNeHBmYW11RThyaHdzanFjWHI4Y2xFYU9MWFdyZFYxdGloZWpncm5BTDAyTmxRRnNYcThKb2VhVXpoaWNheENXUQ?oc=5",
-      "source": "Refresh Miami",
-      "published": "2026-11-16T13:01:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1b12c35496f85d6a8d7182",
-      "title": "After dodging death, battery startup Our Next Energy is now going public",
-      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
-      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/our-next-energy-pack-inspection.jpg?resize=1200,900"
-    },
-    {
-      "id": "2f5c7bad839682337211db",
-      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
-      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
-      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/GettyImages-2283442251.jpg?resize=1200,774"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 16
+  "source_count": 19
 }
