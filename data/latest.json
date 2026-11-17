@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-11-17T22:39:18.077622Z",
+  "last_updated": "2026-11-17T23:35:45.117134Z",
   "articles": [
+    {
+      "id": "fbf2ae6dd6167a6dd22998",
+      "title": "Axon Enterprise falls 2.56% in Tuesday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHU5OE5nVmctdlB4OUtQei1BNHIwblo4cFpZUTlpN3VjempnQnJsVWdkbVBDamZlMzJSWW81MFVjNVZJdzRVQW9CR29TQWVxOWhObXdiUDZFZ0t1emxyNUVYSmFnMVJyMnRibkdBd1Q3c1QxZHFBaDhCcHdVVVFNbFlIRzE?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-17T23:15:11Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ed3338948cbef305c8339b",
+      "title": "Shining bright in Miami",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlM2UUgxQjRJWlpGMVNLZzhLTkJrM3NLeEhJV2NkOGN4U0puWng3WTB1WnVkYzR0TVNmVTJwVzJWazNadnd4NllTVVUwMi1WbGxCaGNCWXdaalhnS3VXRXpSR1B1akhCMFRwMlo5S3pZeVBuTmxqamltbXg3clBhNmVaRDA4cU45UlZv?oc=5",
+      "source": "Kellogg School of Management",
+      "published": "2026-11-17T23:11:48Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8339a30c8d70bc4c3f5ca8",
+      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T23:04:35Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+    },
+    {
+      "id": "58ccec08be884d74fb76d7",
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-17T23:03:39Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "82f5bab58a7f676b502fe5",
+      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeE9uZlZoTmhManJSVWdwZTVLa2NjYXZ3WHdTdTA1X3o5WENqdER5Q19ROVZpMldQb3U3dVQtblg3OGM4V0hYREpndG1RY2ViMGZDUkRwSmRRa3Q5Qkx5eXFWYVZUZG1RZzFGTWdJZ2QwY2ptWlVHM2lWWERnWGpQMEVLTTFZdVo0RGhMOdIBjAFBVV95cUxNeE9uZlZoTmhManJSVWdwZTVLa2NjYXZ3WHdTdTA1X3o5WENqdER5Q19ROVZpMldQb3U3dVQtblg3OGM4V0hYREpndG1RY2ViMGZDUkRwSmRRa3Q5Qkx5eXFWYVZUZG1RZzFGTWdJZ2QwY2ptWlVHM2lWWERnWGpQMEVLTTFZdVo0RGhMOQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-11-17T22:52:04Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "35ec7fce43bd571d36aae6",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-17T22:46:30Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
+    },
+    {
+      "id": "e33f226d47912c643b59d3",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-17T22:44:15Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "8a256ad53f34b968604e8a",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T22:42:27Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+    },
+    {
+      "id": "0fa2b77f894eb002c551e4",
+      "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+      "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+      "source": "NPR",
+      "published": "2026-11-17T22:41:53Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
     {
       "id": "3f70c47179d4906e22bd34",
       "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
@@ -14,18 +122,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "58ccec08be884d74fb76d7",
-      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-      "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-17T22:34:41Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
       "id": "7d49330be50c2808c730f5",
       "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
       "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice [&#82",
@@ -36,6 +132,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "68c72142665d08a80adf80",
+      "title": "Game firms post operating profit but currency swings hit net results in Q3",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFh3ZHFYVERVUHFBS3NnaEVPcXhrVjlqN3FJSS1NTTgwTHpWWE9iV0RsTzZ1em0xR0NtbUxWaDN4SDdUQmJ0Z0NKejJuQ2U5Skxlb2hTa3ZkODJwVkFhSzNxT3pHTld4X1dkbEMxYVRHN2YwRklVbWpEbGZ4UnVvbGVmT1JVS2ktSlpKcDJ6R3RLcEVoV3dMaV83LUVmOU1jcHlLNC1wQ01MZlFxQkJ5UDlycEJrSHJFUEZSMw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-11-17T22:30:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c55f92969fc4ef13b604f4",
@@ -86,6 +194,18 @@
       "image": ""
     },
     {
+      "id": "ebf9b4942fecf85de528bd",
+      "title": "Racing to Keep Up: How the Middle East Is Betting on Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlFMcEVHUmJrdFFCOUsycUdHU3ZKQTZvSHR1XzBNRTA5Y2ZjZnlNcjh4UGxnTFJ0cWdkS1BtZTk1OTRqaXF0UDJ4WEpTbXVVN1RVOFpRS0MyYTc3eFhsNTBLWWwxVEtyZFNBTk5QblE3RUYyLTZlTzJTcU5XSnVKTWl6RkNRQWM5ZmFGOWM3TUUxMkpua0dTWmNubnlyeHBtMkRQLWRyeVVzOUIwb1R5SjRUcFM4VmhOcUNxY1F5SVpoLTNTcHJr?oc=5",
+      "source": "Fanack",
+      "published": "2026-11-17T22:08:22Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7082e39b2939fcd7ec2513",
       "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
       "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignat",
@@ -118,6 +238,18 @@
       "published": "2026-11-17T21:55:45Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e5da371fa4782201ec26d6",
+      "title": "The Gulf is betting billions on becoming the world’s AI engine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-17T21:50:17Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -172,7 +304,7 @@
     {
       "id": "2f4314b2d2f4bde96fa2ed",
       "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
-      "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC. In late October, Enjoliqué Lett, a federal magistrate judge,gave Trump a firm 11 December deadline to sit for a deposi",
+      "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC. In late October, Enjoliqué Lett, a federal magistrate judge, gave Trump a firm 11 December deadline to sit for a depos",
       "url": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
       "source": "The Guardian",
       "published": "2026-11-17T21:45:58Z",
@@ -291,7 +423,7 @@
     },
     {
       "id": "8fefe823db1a58c6aed046",
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -360,18 +492,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "35ec7fce43bd571d36aae6",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T20:44:54Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
     },
     {
       "id": "cb71482663a7e5488f9e34",
@@ -746,6 +866,18 @@
       "image": ""
     },
     {
+      "id": "76312383b194b3dec8fd4c",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-17T18:43:05Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg"
+    },
+    {
       "id": "888d78ae2d35fd0f3a6428",
       "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
       "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
@@ -794,6 +926,18 @@
       "image": ""
     },
     {
+      "id": "4eda686b48ec8f5e056ebd",
+      "title": "Columbus Council delays decision on subsidy for European direct flight",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkt5TGdhVzd6eHlHek5Zck05NFZBblozQ3ZNTWR1cnM0SGgwYzFUR2FfZzh0OHhtMmpLdGRuYzNKQ0FGT2JSN1czaklVWUNuQWo4dFlFbkI2WkM0TkloLWVIN05kX3lpQnJnVUw3MTJ4N01vSXN6bE5GRmhIaG1GVFlIa0NGeWEweDJXb2hmcGpCTnpraGlZUURSLU9YekNvSG9BU1JQTEQ1bVhjeHY0S1FwRHJFRnR3WXB0QTJpZW9Mc0E?oc=5",
+      "source": "The Columbus Dispatch",
+      "published": "2026-11-17T18:25:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6e4161a0149e2d4af61ebe",
       "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
@@ -816,18 +960,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "4eda686b48ec8f5e056ebd",
-      "title": "Columbus Council delays decision on subsidy for European direct flight",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkt5TGdhVzd6eHlHek5Zck05NFZBblozQ3ZNTWR1cnM0SGgwYzFUR2FfZzh0OHhtMmpLdGRuYzNKQ0FGT2JSN1czaklVWUNuQWo4dFlFbkI2WkM0TkloLWVIN05kX3lpQnJnVUw3MTJ4N01vSXN6bE5GRmhIaG1GVFlIa0NGeWEweDJXb2hmcGpCTnpraGlZUURSLU9YekNvSG9BU1JQTEQ1bVhjeHY0S1FwRHJFRnR3WXB0QTJpZW9Mc0E?oc=5",
-      "source": "The Columbus Dispatch",
-      "published": "2026-11-17T18:15:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "ecf8c81cb5048aa02c0809",
@@ -986,6 +1118,18 @@
       "image": ""
     },
     {
+      "id": "74069ef0ba87598269ee9b",
+      "title": "T. ROWE PRICE EXPERTS SHARE 2027 OUTLOOK FOR GLOBAL FINANCIAL MARKETS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGRhRHVWRWI5Z2JYNWVjTlF5NVdNVGhvRXRvMWdjRHU4UmxBeVJmbDQ1Q1VLakM4VmlSZmxXSEhFQ25EUS1Ma0VFc2RFVVRhSDhrQmhFTUMzc3ZpY0RDLXNsN2N5eFNyRTlycEM1U2JhUzVXWUtPbHQ0TWdlalNZaTJ2N3ExelVYcXgzRk9xWnBGTTc1dnF6NG5nX2xnbVBLRzRRUjI4NGpFS0h6aDg3OU5fX1RGVW14SUxhMDFzSmMwUQ?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-11-17T17:30:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "eb71ae4dee79bee5de3f20",
       "title": "Perplexity Launches Multiagent to Coordinate Frontier AI Models",
       "summary": "",
@@ -1082,6 +1226,18 @@
       "image": ""
     },
     {
+      "id": "fd7461c829699cba37d22c",
+      "title": "Global Small Business Competition Shines Light on AI Innovation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjZMY2FndkFENmRfdVI1WFNYS1ZjR3BpRkFhb00zN2tmSXVvZG5vRmktOVQ2ZlpEMjB0X3V6S1ZmVFhfeGNlV2tLN3VIaVo3ZmNlNW5IMnJLMWZPYmtuU29zVm55cGdXc0k4elNTT1dqV2ZnX0doR0dkd1lONkpHOXpQOXRGMWMxalBNRE1lZlRiYl9aOXZTbENKUW42ajBtUGFybW5jOA?oc=5",
+      "source": "BizTech Magazine",
+      "published": "2026-11-17T17:06:53Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c6be4371ca508c5c48f788",
       "title": "People in the US: how are you celebrating Thanksgiving this year amid rising costs in the US?",
       "summary": "Are you hosting or attending the holiday differently than years past? What are you cutting back on? Thanksgiving is fast approaching, when people traditionally get together to celebrate with family and friends on this US federal holiday. Many Americans who usually host the holiday say they are pulling back this year , given the rising costs of food, drinks a",
@@ -1114,6 +1270,18 @@
       "published": "2026-11-17T17:01:05Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4106545d336bb2fed02611",
+      "title": "Nigeria, Africa lose $500bn yearly to negative narratives, misinformation – Oyedele",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclczQ0Y1ekwzRUtSZU1DQkIza2RmM3lTRnMxMVNwVk1qZnFha2J1NVYwSzFIUThhRThIWXV5U1VrUHRLc0JYTC1kTXY0T0RtSjBObFZkd0o4a05VN21XdlJxS0lEZkdyM0JRamJEMlBVTFk2Qy1WNU9iZnZzaEZNNG5MX09weFZ1N21NZ1RTc2JKdjFpWk5IZzhOX09wUQ?oc=5",
+      "source": "The Sun Nigeria",
+      "published": "2026-11-17T17:00:28Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1190,18 +1358,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
     },
     {
-      "id": "4106545d336bb2fed02611",
-      "title": "Nigeria, Africa lose $500bn yearly to negative narratives, misinformation – Oyedele",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclczQ0Y1ekwzRUtSZU1DQkIza2RmM3lTRnMxMVNwVk1qZnFha2J1NVYwSzFIUThhRThIWXV5U1VrUHRLc0JYTC1kTXY0T0RtSjBObFZkd0o4a05VN21XdlJxS0lEZkdyM0JRamJEMlBVTFk2Qy1WNU9iZnZzaEZNNG5MX09weFZ1N21NZ1RTc2JKdjFpWk5IZzhOX09wUQ?oc=5",
-      "source": "The Sun Nigeria",
-      "published": "2026-11-17T16:43:04Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "a6531a400eba6fada24e63",
       "title": "EU economy holding up better than expected",
       "summary": "",
@@ -1274,170 +1430,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "26bead0d325ff528c34c05",
-      "title": "Banning phones really does help kids learn, researchers say",
-      "summary": "A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning. Now, researchers want to understand whether kids' phone use outside the classroom might contribute to the rest of students' learning loss - using the conditions of Meta's multibillion-dollar settlement from earlier this year. Banning cellphones in schools ",
-      "url": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
-      "source": "The Verge",
-      "published": "2026-11-17T16:13:18Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "e739e8b3701e1be9848647",
-      "title": "IMF Staff Concludes Visit to Qatar",
+      "id": "4200e4ac91a729a7c94792",
+      "title": "Nvidia earnings preview: How Jensen Huang updates could impact the stock, whether the results are strong or not",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zVUxHVEd0eG4xWi04NGZKTFVwMVJraWdKazI4VEpVQkVRTnpNNlI5QUx1endhbzhrZ1BSUnM2SDUxTW44bmlPWFZJR3ZVRFRPczJUOHNpSFBrT1N6R1dXUF9SMkNsaEo1SjJYYUFnTzhYWUh0b2xEbzR3?oc=5",
-      "source": "Mirage News",
-      "published": "2026-11-17T16:12:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8b732db41a6d0084777140",
-      "title": "BoomerangFX Launches ChatGPT AI Search Advertising for Aesthetic, Wellness and Private-Pay Healthcare Practices, Powered by AUVIA™ AI Clinic Co-Pilot",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVzMtRW05S2VNeF8xV0EydG1XMjlZdkg3Rlh2NWhMR0dpV2lWNWsxRWJhWlJEZm9BVUxCOXVXOENiWmRNZEkzRE9KREhvcUlfdm5ER0Vxa2tFV1NUTTlERHM5MGlhXzdrd3Etc0NEQm12eDFXYnlmaHBObnJ2S1VPSHhNQXRXZG5uM2hqWmxqdHhlR0pzcmdMaFgzREItbVFycW5ES0FORnhvWVA1TEo5bXdDd0hnUjhDM1pZYUlIWUFsRlN0NnVnOGs1Rll4NGVjMjFFMll3aEo2S2VqaUhHWnpMY3FBOFJKYi1zNWlaRjlFR3FwY1JQMklPS1drREJ6S3NNWDdRMA?oc=5",
-      "source": "BeBeez International",
-      "published": "2026-11-17T16:11:04Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "327034ed1b49f420bffe5c",
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
-      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "source": "The Verge",
-      "published": "2026-11-17T16:09:57Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c29502aedaf0c74c49aaa7",
-      "title": "OAS Launches Hemispheric Private Sector Initiative to Boost Trade and Investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0doSWUtalg0UHlIWThvQV9GUG1KUDJiSDZ2Y2E3VnFqOHNEQ2N1Ry1faU5reWhQVmlBQ3UwYklsZDlBQzRIUzRUQVlXZF9QSkx5RUxqQlpfSDRXWlZpSHc0OF9oMmkyOHd1MWlDQUg3SFNNUmhmMTVVdGxUZC1lNjU1YmZreGh2Y2I1NTlJcGg2aHMycVdyeFVTeWtQb0JQMnpfWkM4NldveGxOREVvU0s4cjU3emlJOUQ2czJsN0NXenF2MjRYMkl6dEZJYmM?oc=5",
-      "source": "Caribbean Today",
-      "published": "2026-11-17T16:05:08Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "193bf0471c777c7d0b8632",
-      "title": "Toronto stocks slip as tech, financials drag; Nvidia earnings eyed",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JoUE5YdF9IM2poQnRFUE5GVVlkOE1WTFRoM1poaXU5QmhCRE10WVVyWEowVmNHU21rbk9oS1RaNXFqQUhVRk9ldV83bXBYdkcwZlQwbWxyUXZjYndrU2FNT29DT2lyaTUxMWpJc1F4OHdiMnRuc3k1bkQ3ZGlwWjVqWmQ2UkttM0d6WTFjVXdzTkcxaW9aNDZGbjliamgyQWhYTXp1UnZsZHVrS0hwZ3YtX3g?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-17T16:01:45Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2ZMemQ4a2ZmVFpfb3BkcVFOV1lpbG10NmxWNjFPUmZsZ0xQTEQ3MFBaYkNvOUlNYVdsWWdxeDJIdzd1Qldsb1ZLRjRfRXRBYy14MjZfY2hzTEs4NDdqb1psWnBkdl91TzhHYzNrVF9UVmMtaEc4U180MnlZekNRTEgwSGhyNWF3SFNDVE05MlRVRkVJdHdSbnp3VlA?oc=5",
+      "source": "Fast Company",
+      "published": "2026-11-17T16:18:05Z",
       "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ff4c3faaadec9c0bf08e8a",
-      "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
-      "summary": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to start in July 2027. The Flipper One is more expensive than [&#8",
-      "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
-      "source": "The Verge",
-      "published": "2026-11-17T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/flipperone1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d76bb020612c2a9a051c0d",
-      "title": "Scoop up three great 4K Blu-ray movies for $33",
-      "summary": "Gruv always keeps its proverbial fire hose of deals on movies running with a steady stream throughout the year, but the online seller operated by Universal Pictures is really letting it rip now ahead of Black Friday. The site has a page filled with 4K Blu-rays eligible for a “three for $33” promotion, and the [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-17T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/rev-1-GRC-14350_High_Res_JPEG.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "4fa78833e8141a37002351",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T15:59:47Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg"
-    },
-    {
-      "id": "8760c088ea7491c5685ebd",
-      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-      "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-17T15:56:04Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1236/live/f4363760-e29e-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "id": "e6c6178743aa9407c975aa",
-      "title": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ2NVb2RFY25FclAycHVxN25RdFdudk1xbThoOFNfNXlNTy1mdFN5Z2tVaWQxRUFSUm1BTXBaSjQ5THdPZkpQZFZNWGl1SnJJMWdmZlR3U0FLQkJHQXJ4ckNCYktQZW1XZE1aQkJScmxFNHBrUkdUajNHNzhYWktDNTc1NDgzeXRGWjl1c0tWekh6VGVVcHVFTE5hSE9CVHNKeXNRNVBNeEFhenFzRXZLTVV3d2w1QUpkeEhaTXlhRE9sN3g1R2FUUGhmdzhyMnU1dWtrQVhkLU0wOHVodm1F?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-17T15:54:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f1bd0e2fadb1cb2d5cc3b3",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T15:38:10Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "79e3c539d6fb16b435b120",
-      "title": "I've been to 25 national parks and forests around the US. The North Rim of the Grand Canyon is the most underrated.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHdVWllnSk1Qa3gycnQ4MmhIaFhraFVfWFFzRGRmV0N0ZkxuRzdjenZvUzhVMTFBM0FvamVNbkRfVGZPME9ydTVmdi1IMHVmQ3MwcFQwV0p3ZjNRNW82MlZ6OEFCcndieUVvTk1ma2M4LXRCOUd0MVJiSXFZenFuMHp6bEtmeHhaUGw5aGk3MVk?oc=5",
-      "source": "Business Insider",
-      "published": "2026-11-17T15:38:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b3a7af7d16f5c5401a9430",
-      "title": "Cosmetics Market to Reach USD 802.04 Billion by 2035 as",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc2FYRzRJdWdPbUxCSjhxT3ZlamJ2cXRGYk1pQldWRm5vZ3JZeWhNWFFGSnQzTDZFX1VCT01hLWw1by1SNE01X0FENk81SW1wQ2lKd0JHempJNmVNWGJLczJTdEJFLTVGSHBSSkFhNkdaV3plZ1l0Yk9HXzNVaWNRX296ajhQNGU1UTQ1X3NWSzNaQ3pCQjRSb1R0TktFb0tHS1h1SThtYXp6dGN5dTB3eWc2R0NlaUN5dkRPQ0p1LXFhcWFmNFdKS0lRaUdhV0Z1T1JQSmJ5U00wQ2I1UzNjOV84WmZ0ZEFEQVctcjIxYTdVRWNYT1Vobkg3bk1EMUNTY0lxeEY3T29GTld4Nzc5SHMtNUxlcjVxb0RnSTZtbjNUZ21wbmZqRy16X2NIdmUwVGI1X1pEOTU?oc=5",
-      "source": "GlobeNewswire",
-      "published": "2026-11-17T15:37:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
