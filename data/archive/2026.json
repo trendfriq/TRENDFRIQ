@@ -1,5 +1,53 @@
 [
   {
+    "id": "0a5288e228d833f1fdccae",
+    "title": "Trump arrives in Philippines to kick off Asia trip",
+    "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+    "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+    "source": "NPR",
+    "published": "2026-11-17T10:43:55Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5227+0+0/resize/7840x5227!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2F49%2Fa294d8eb44928fd04761b88c0ba1%2Fap26321375771842.jpg"
+  },
+  {
+    "id": "a126a11490f7a77e1960e6",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+    "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-17T10:22:09Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg"
+  },
+  {
+    "id": "b0b00be7208d3c82f8e76d",
+    "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
+    "summary": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.",
+    "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+    "source": "NPR",
+    "published": "2026-11-17T09:50:45Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5159x3439+0+0/resize/5159x3439!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F74%2F39dd43ac4231836e0610c7161cfb%2Fap26320380275705.jpg"
+  },
+  {
+    "id": "2f2a90b8cc0a516272c843",
+    "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+    "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
+    "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+    "source": "NPR",
+    "published": "2026-11-17T09:46:00Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
     "id": "37027c5afa2868bf4648dc",
     "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
     "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
@@ -34,6 +82,18 @@
     "topic": "Global finance",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "eeaf32979b6e22479177ef",
+    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+    "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+    "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-17T09:27:44Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg"
   },
   {
     "id": "32421064678de9d72041aa",
@@ -418,6 +478,18 @@
     "topic": "World affairs",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "f8e2f1c538bffe36c0e9f9",
+    "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+    "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+    "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-17T07:01:00Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg"
   },
   {
     "id": "486b2a94b343347478a4e5",
