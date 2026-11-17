@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-17T20:38:08.073875Z",
+  "last_updated": "2026-11-17T21:37:25.935640Z",
   "articles": [
+    {
+      "id": "1961d923c37034d580d586",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T21:34:50Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675"
+    },
+    {
+      "id": "09543f7a2b137148c54390",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-17T21:24:35Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
+    },
+    {
+      "id": "8fefe823db1a58c6aed046",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-17T21:06:11Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
+    },
+    {
+      "id": "cd623bac54324ccfdcd75f",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-17T21:04:00Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
+    },
+    {
+      "id": "782245fbd80625eb45b0dd",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge",
+      "published": "2026-11-17T21:00:55Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "fae9554ba69c3ea7990166",
+      "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+      "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California . Representative Juan Vargas shared a photog",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+      "source": "The Guardian",
+      "published": "2026-11-17T20:59:56Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c39589936af829d82bae2511b8fd40d"
+    },
+    {
+      "id": "2b5966f6701663e55f6555",
+      "title": "Elumelu leads private sector push for West African economic integration",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWnRPa0VpelBHcVNoMXZmLVJFSk5XYWsxTzg2bUtsM2Q3MlRFZ3dORG90bzhWQkw2NlYxa0kyQ0k1V1JYM0JtVGVDVzJ1eGg1R0x4czRhLVA2X0RoejlHQWJONTZnOXVFZEZhYm9idXdseGF6ZDF4eEdsVUhXX0Rlc2JhNnZlZW02aWJ6UmVzaVYtNG1m?oc=5",
+      "source": "The Sun Nigeria",
+      "published": "2026-11-17T20:54:09Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "73f3c396c073fda1c5d7cb",
+      "title": "Instagram is helping creators crack down on copycat videos",
+      "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and [&#8230;]",
+      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+      "source": "The Verge",
+      "published": "2026-11-17T20:46:31Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "35ec7fce43bd571d36aae6",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-17T20:44:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
+    },
+    {
+      "id": "cb71482663a7e5488f9e34",
+      "title": "Perplexity Launches Orchestrator API With Same-Model Failover",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2wyTzNjNnJBNkpfM1FjN3NleHdXdlFQaEVid2pDX2g3MkhCZ1lvYXA1Z3dtRGNlWERNYlVTYnhaTnNmOHRMeVdXb3VDZElKTXVCVUY5M080U1ZfeHZUZkVsNkc0REdYekx6b3o3SnNKMm8zWkk1ckktZE1DMm1JVjcwTEswZ3FEb1Q0?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-17T20:42:04Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "b15685790342e31036972c",
       "title": "Among social media ads, short-form video drives the most actions",
@@ -26,6 +146,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "id": "5c0fd4f636c9f4701c9d39",
+      "title": "Democrats try to figure out how not to get swept away by the blue wave",
+      "summary": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so others had just left \"What's Next,\" a conference organized by Majority Democrats, a group dedicated to charting [&#8230;]",
+      "url": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
+      "source": "The Verge",
+      "published": "2026-11-17T20:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304463879.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "id": "985d0b433179b9b465ade8",
       "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
       "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
@@ -36,18 +168,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "8fefe823db1a58c6aed046",
-      "title": "Russian military plane crashes killing all 19 on board",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T20:25:27Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
     },
     {
       "id": "016d95b0f32da7ba1cc418",
@@ -148,7 +268,7 @@
     {
       "id": "9e54fdd9e48f441ce9dd45",
       "title": "California just banned Waymo from all state freeways",
-      "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active constructi",
+      "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th after two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction closure on [&#",
       "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
       "source": "The Verge",
       "published": "2026-11-17T19:38:05Z",
@@ -230,6 +350,18 @@
       "image": ""
     },
     {
+      "id": "f35d89f87760c9628f0306",
+      "title": "JPMorgan’s CFO plans exit, company names internal successor",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXBFZ0RDaGxGWXNVVy1aRThkc0V1c2lSTFBzT0JnaDlKZjNVMzRuaFhzeklOandrS0cxNk8xSjBlSERPelVKUVNja0d4aG44cks1bmdYUXlFQ3dqdmpZZ1o1NGs4UWNmTi1BMGU1d1RqWEtHSUtrQ2t5eTh4QV8xWDF2bThmMUJnLUctWTdnLTduaHhna0RuSVUtZkQtdU54?oc=5",
+      "source": "Asset Securitization Report",
+      "published": "2026-11-17T19:04:54Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "534361927951e2d99a3b21",
       "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
       "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
@@ -248,6 +380,18 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUdQX0U1RlNYZzc0Rko3MnlHdzcyeEFxR0hrd0RfRGdfcXpEdEZ6bWZNOXNVRHQ4SDNSQ1VyVy1ORG9tbGcxMF9Uc2FrVmFOdThHMnR5SWp1VnppM3h0V0ZKWlRFdlprSnhkb2RQWXdxcndOYUYzNjROZ1IxSWtNYUVZdlVlNUJWTDloOGZzTzBkMjdBVFF0ZjdCV2pWazh6YVhrU2pTRWN2WnNNUk1EcEQwWjNHcGVLci10Rw?oc=5",
       "source": "Fort Mill Sun",
       "published": "2026-11-17T19:01:42Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8521d634a77e826327cd7a",
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
+      "source": "BBC",
+      "published": "2026-11-17T18:58:57Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
@@ -362,6 +506,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+      "id": "19e6d13053833b3349da87",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-17T18:20:36Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "id": "ecf8c81cb5048aa02c0809",
       "title": "As decision model use skyrockets, is customization the next frontier?",
       "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
@@ -460,11 +616,11 @@
     {
       "id": "718faf12489b51566a1c8b",
       "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-      "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company,",
+      "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company on Thursday. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the compa",
       "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
       "source": "The Guardian",
       "published": "2026-11-17T17:35:26Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=822134c1345fd3a4020820c610db8b6e"
@@ -502,6 +658,18 @@
       "published": "2026-11-17T17:29:02Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4b5e1e57fb64b0d90c2fcf",
+      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2dXTHVZWHJEblJYalFkOE9VeVRXeEpIQXNQdHc2RnVaOGhSLVlZMFJzQkJvcHEtQVBMT0dSYzhlcGV1Mld0SzlyTG5fbHpmX1h4UHhyNjBkbjBkODRRQVJjODRUNUVzMEZNTTNSVzdSaEM1eWh0ZjF2VVYtMHZZRVBFWHJ5YVVpWVduQ0Mxc28?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-17T17:28:57Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -578,18 +746,6 @@
       "image": ""
     },
     {
-      "id": "cd623bac54324ccfdcd75f",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T17:10:03Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
-    },
-    {
       "id": "8a302b30b3afa780e5d967",
       "title": "Disney Doubles Down on New Shows and Movies Amid Industry Upheaval",
       "summary": "",
@@ -626,6 +782,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "d17d540166bebd6fdd9fef",
+      "title": "Beyond the model: How startups are turning AI into real-world outcomes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDdMQkFTUkw5Z0tuV2VFWUhKUE1wQS1DZDU2aWZXc01yb3FuNTNnQUlQMktuWGtsMzVSWTlDMFdSSzZQZ1ViS1lYOHF6UWhISUZxQUsxSW9SWEpGMzg1NDFQc2Z6VVRXbkFmUVR6UDBaaHhHWjQxTXpKRFZ0ZFBCLXFPMXJhMGJxMlpqVTdRUE9oMUlTWkMtUEI3czlkV2NjQ2t4ZldEeWJhZw?oc=5",
+      "source": "Qualcomm",
+      "published": "2026-11-17T17:00:00Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7d7da9064585c2d0809192",
       "title": "GTA VI Launch Signals New Era For Gaming, Creators And Gulf Investors",
       "summary": "",
@@ -638,25 +806,13 @@
       "image": ""
     },
     {
-      "id": "09543f7a2b137148c54390",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T16:56:38Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
-    },
-    {
       "id": "7c95903d264b695b12eabb",
       "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
       "summary": "Rolling coverage of the latest economic and financial news Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO Jensen Huang’s departure as Nvidia CEO becomes a political proxy war China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers. At a press conference on Tuesday, ",
       "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
       "source": "The Guardian",
       "published": "2026-11-17T16:54:21Z",
-      "category": "Brands",
+      "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/ba481d82e267325ef8519025c0b17f3d0b3e89be/478_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=42fd5cb3f92ee14b37b46997288a5cac"
@@ -818,6 +974,18 @@
       "image": ""
     },
     {
+      "id": "193bf0471c777c7d0b8632",
+      "title": "Toronto stocks slip as tech, financials drag; Nvidia earnings eyed",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JoUE5YdF9IM2poQnRFUE5GVVlkOE1WTFRoM1poaXU5QmhCRE10WVVyWEowVmNHU21rbk9oS1RaNXFqQUhVRk9ldV83bXBYdkcwZlQwbWxyUXZjYndrU2FNT29DT2lyaTUxMWpJc1F4OHdiMnRuc3k1bkQ3ZGlwWjVqWmQ2UkttM0d6WTFjVXdzTkcxaW9aNDZGbjliamgyQWhYTXp1UnZsZHVrS0hwZ3YtX3g?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-17T16:01:45Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ff4c3faaadec9c0bf08e8a",
       "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
       "summary": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to start in July 2027. The Flipper One is more expensive than [&#8",
@@ -962,6 +1130,18 @@
       "image": ""
     },
     {
+      "id": "73a85c4adf2dd6fa138a21",
+      "title": "Carney addressing Pacific Rim business leaders at APEC summit in China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbllqS29yZllQbWxCbHRMS09mN1B6MGE5NHpZb0E3SzByeUMxdGtveEV0eVpWOWJEVGIyQ042OUxGR1VROFRpUkxfa252RGxPZ25KR0xKMkVmcGNCOVVieWdIMzYxSkxUdk9uVF9fUUxGRTlyYkFoYkNTM2ROMmRabDlHamJZVW1KWkxvcy1HRXRfejdYdk5LTWFrOFBFVlNpT1ZRVUstWmtKdGN0Y1MtWjFaVjl4WEQ1OXA0aFYwMFRoVUF3eWFyTGw1azhDVGQ0Q1ZHdkxqaW1TOGp1V2Z0UXlyb1A2SVpmN2lmUVEwTExtZEUtMlk1Rg?oc=5",
+      "source": "thecanadianpressnews.ca",
+      "published": "2026-11-17T15:20:45Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5ace14e847bfb6ba576f44",
       "title": "Trump's Latin America allies recalibrate after US election earthquake",
       "summary": "",
@@ -1058,6 +1238,18 @@
       "image": ""
     },
     {
+      "id": "f461f7fff67afb590bdd25",
+      "title": "BoomerangFX Launches ChatGPT AI Search Advertising for Aesthetic, Wellness and Private-Pay Healthcare Practices, Powered by AUVIA™ AI Clinic Co-Pilot",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxORmZOWTRHbmJqdE85c3JGWDNzNzgyU2tULW4yNjhOdUpKaTFPWDc1UlN3UFNYaHVmUlRpRUZ1XzMtOUpPZ0xiM3N0WG5BX0dYaVoyOEVBMHV3WnBIbUM4ZFdkRWtfb05oVTItUGJMR2FTYU5rc2FKeEpwaGtHb2w0UDJFOTF0R0Q1Yk9kajhTdWZNYUxFX2dhVFhmTFJ1R01pRHR5RE0ybWdudUpMWkt2aEZjTjd4bk5wVERId3EwXzVEdTVfSmQyU3BFekVVTTU4Q2ZfYl9HbjZvNnhGVlNXLUh4UG9vczMxMDBldnU5MVZWZjB5cHBiaVlwbjlGYzlPMmFhZ3lQUG4tMEJQbWRSOHM0VFZIRFNWOENuZWpxN2xWTzhF?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-17T15:03:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5a18547953a1bc024b457b",
       "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
       "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
@@ -1128,6 +1320,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/frame1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "9533859b754e9c0b6fe5b5",
+      "title": "lululemon athletica inc. (LULU) Stock Price, News, Quote & History",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xc0o3YnBYdVpJb2FhNU5vVnd6MTVUbE1SZTVIU19vSWpOWFFJRzY2eTBBVlNKcVkxV1dJaE42ejljUG16aHZsdlpJLVdUdw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-17T14:43:01Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c9d96ec69ef7216f873fb5",
@@ -1234,210 +1438,6 @@
       "published": "2026-11-17T14:25:45Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3bb6bb6201cd73718e0a29",
-      "title": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
-      "summary": "Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn&#8217;t mean the streaming device isn&#8217;t still good value. In fact, it&#8217;s an even more attractive option now that it&#8217;s dropped to $29.99 ($40 off) at [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-17T14:25:07Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "f18ecf7fb7a6c90df583ec",
-      "title": "Space tech firm named after Ilan Ramon raises $124 million in Series B to power orbital data center",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOU9FbUJSTEJhc1JqRUotSTdrajVIY1cxV1Z2SDNRdVJNUFg1Zk9jbkxRMDk1TVIyb01FZHZ3QkJDS1UzZWYtal9DeVZQUXcwdkctTG1ERXBQclE4a3pQcjFpc2s1V0l3Zk84LXpVSTFxYkMtVXYxbk13OFk3RUtTeFYwRjBndw?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-17T14:11:30Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6cee4a170b9d354bb51316",
-      "title": "Move Fast and Build Trust",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DQXFQLWVrZUFnaDB1OVRPQ0xzanBLbkFxTl9ieU1BcHhNVTVFNXUtZFBYSzdyNDZOY3NHaS1iazlpaS1tVXFMUjdSX2cxSUprd3B2azhYRE9OZlRxNnB0dUhkR0ZKaVNN?oc=5",
-      "source": "Yale School of Management",
-      "published": "2026-11-17T14:07:24Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e15ff8b935a63483f58fac",
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:05:30Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2087335475.jpg?resize=1200,799"
-    },
-    {
-      "id": "5dd97766c686f110498059",
-      "title": "Coca-Cola's 2026 Rally Faces a 2027 Test as Africa Bottling Sale and World Cup Hangover Loom",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wZGkzSmZ4NmYzY2JhcEU4UjR4cUpjVWtldW9qN0ppSFhfbm1WdV9kQktpLUNmcVZER01JaEhUaVQ1TmtFMWdGNGFpcG5RekRtYk0zallNUmhPSDhmT1BBaklrQ0RwMkhPYlNhdm1YZTRwcDQ1QlE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-17T14:05:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3723176831358ccc289cf4",
-      "title": "Asia-Pacific region shows better economic outlook than global average: PECC",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0I4ZktMWV95NkdjN1ZZcG5NUzZyUUJFYnZ1NmFPVUJva3RnVzUzOFVyd1ZrMXZRcWswV1ByQjBzTDdITHdNaGE3VzJWZS0weE9GbDQ5X0JKaHRFdFpvZUdXRmxTQ2x0Tk1qNEhNZ0JNUmVobzg5SDA3S0NfLTNTYTgzZHFERVFqaElCV1h0XzluQmdOVnVVS2twQThEaVR2NFR2RklmYThmNXVZdXJvUllSVm9iVGFYT21mUGV0bnpDajha?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-17T14:04:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "de4c78e1218ac56cc1cad9",
-      "title": "EU economy shows resilience, but inflation, risks cloud outlook: Commission",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGkwZV9pcENocWZrUXVhOWprdUF6bUNsRU01Y0VJMkV5SEtlb3ZnbjFIc0dYdTRPei14MFVCTndjcEVKT2ZHdGMzQktrWXBybGJfa0RUYlVQR25ZMy1uTGQ0THhwcGY3ZG9SLUZOYl80RER6Z0RTUjlLbEJMNjUxYlluNWlhLWdrWHpQMWl3dHk1dDJ4MzVDXzJzZkEwNnMwZFdOVG1IYTI5WUdjVjEzRm13?oc=5",
-      "source": "www.irishsun.com",
-      "published": "2026-11-17T14:04:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "51be12d369222a16222cf8",
-      "title": "Officials Announce Details of Nov. 19 Jordan–EU Investment Conference",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnoxX2U5ZlBUZFhpQXJjNVlIZ2NnSmlIQmlkb3hNZzB5X2FRZm1UZldadGNSeWFoalEyR3JLaWFZZU5ISEt5NUw0T3NVeUFHYmExbzNFWnczZ0xqcnR1cXdOTW9rMXQ4Z2MtWmxodWZGN2pkVE9WWGpWbzFlWHV6WV9CQWVvQzl0S1RPRGhmZ0x2c1BfZHo3T01mdWM?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "published": "2026-11-17T14:02:05Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e49688c63044fd13c8552f",
-      "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
-      "summary": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards Get our breaking news email , free app or daily news podcast Australia’s creative community has launched a major campaign pleading with the Albanese government not to water down copyright law amid furious lobbying from AI companies, ahead of Wed",
-      "url": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
-      "source": "The Guardian",
-      "published": "2026-11-17T14:00:15Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34308f30827e05513056a20d5175d916"
-    },
-    {
-      "id": "3bedc6f142fdd032e3dad3",
-      "title": "Spara Launches Scout, an AI Sales Assistant That Finds Opportunities and Prepares Outreach",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MbTRYWDE3ZFhqNlpvWHVzUmxMT1RWUmJNMS1GVDdMR3ZadzgyY1RFcUhVbHNqZ19YaUYtUW9NSVJpcERyVG55Y3FRWTlyVTNJWV9obUdOM29ZUFZLWldMRXd4a0c3MVBiMXRCWGZxQjZLQk5zT253M1loUQ?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-17T14:00:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "41332775aef643620ac7ff",
-      "title": "Fiber Broadband Association Celebrates over 2,000 OpTIC Path™ Graduates, Building Workforce for North America's Digital Future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQk56aDRYNF9mODNSck94bDEzMXoyejRRNFJvN2lnVnR5SEQ5bWUwZVlDUmdvQTlaLVJMaDBNWlY1N1VJdjNJa3FIN2pZR0JsNklrLWdOQ2hBb244eW9uMDhKNDl1dDRRazdpNFVYSTl3ejhOazJSYWFWcHlmSzlvRTFGdGhta0ZRN25vVHRSYXFRUlFNQTJQRFlpRU5VWC1HclVlenprc0hmXzZyc0FySHVrdEpVVWQ5OFRFRUFOU0g0cHJ2NkZybk5pY3lMOGJGWC1xd0swWlltNDlXc3NpNC1tSUI2a0FSQ0hKVnNHdW8wMTZhRHhlRHJZbXJNNUFITEhlVjdDLXNnbVk?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-17T14:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "627115a4f71c40ea536899",
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
-    },
-    {
-      "id": "561546afdf1a02f6189822",
-      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-      "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
-      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_1826.jpg?resize=862,1200"
-    },
-    {
-      "id": "ef946ddfaddfdf19a57d5d",
-      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
-      "summary": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken.\"",
-      "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/SLICING-CHICKEN.jpg?resize=1200,800"
-    },
-    {
-      "id": "99b24f6aaf555b59b252f1",
-      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/OLD-ClockwiseTV.png?resize=1200,675"
-    },
-    {
-      "id": "2a8c689652ddcc15c3a925",
-      "title": "Windows 11 actually runs better on 8GB of RAM now",
-      "summary": "As recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this year, 8GB is once again typical for a starting configuration. The MacBook Neo got away with it, but Windows laptops, including [&#8230;]",
-      "url": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
-      "source": "The Verge",
-      "published": "2026-11-17T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "56a2c551e07ac97e0f7915",
-      "title": "APEC members expected to look past trade differences to agree summit text, official says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTlOWHZSWFNaNUpNWmZUYkljRFpLOHBFNjZCVDFtZmJtMGR6M3JxdXgzR0ZESGVfMDQ3QU45d0trOHgzY3BDRFZtMzVVYzZtdEJXc0tZa1VVV0FzTU83VU51NDZaS1gyYWNCRHI5cW5qYmoyUmdId3I2bGxsSlNzVUwxeWVSRUpJcGpDY01KZFREczhsT0xpWjZGaWNnOGduTmh6Y05RTEU1SU5nVHY2cUthcUQ3R2VpNGxXWFJFVy1rZw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-17T13:59:50Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     }

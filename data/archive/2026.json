@@ -1,5 +1,89 @@
 [
   {
+    "id": "1961d923c37034d580d586",
+    "title": "Google joins the tech outage trend by announcing it’s not having one",
+    "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "source": "TechCrunch",
+    "published": "2026-11-17T21:34:50Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675"
+  },
+  {
+    "id": "782245fbd80625eb45b0dd",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "source": "The Verge",
+    "published": "2026-11-17T21:00:55Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "fae9554ba69c3ea7990166",
+    "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+    "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California . Representative Juan Vargas shared a photog",
+    "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+    "source": "The Guardian",
+    "published": "2026-11-17T20:59:56Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c39589936af829d82bae2511b8fd40d"
+  },
+  {
+    "id": "2b5966f6701663e55f6555",
+    "title": "Elumelu leads private sector push for West African economic integration",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWnRPa0VpelBHcVNoMXZmLVJFSk5XYWsxTzg2bUtsM2Q3MlRFZ3dORG90bzhWQkw2NlYxa0kyQ0k1V1JYM0JtVGVDVzJ1eGg1R0x4czRhLVA2X0RoejlHQWJONTZnOXVFZEZhYm9idXdseGF6ZDF4eEdsVUhXX0Rlc2JhNnZlZW02aWJ6UmVzaVYtNG1m?oc=5",
+    "source": "The Sun Nigeria",
+    "published": "2026-11-17T20:54:09Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "73f3c396c073fda1c5d7cb",
+    "title": "Instagram is helping creators crack down on copycat videos",
+    "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and [&#8230;]",
+    "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+    "source": "The Verge",
+    "published": "2026-11-17T20:46:31Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "35ec7fce43bd571d36aae6",
+    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+    "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-17T20:44:54Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
+  },
+  {
+    "id": "cb71482663a7e5488f9e34",
+    "title": "Perplexity Launches Orchestrator API With Same-Model Failover",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2wyTzNjNnJBNkpfM1FjN3NleHdXdlFQaEVid2pDX2g3MkhCZ1lvYXA1Z3dtRGNlWERNYlVTYnhaTnNmOHRMeVdXb3VDZElKTXVCVUY5M080U1ZfeHZUZkVsNkc0REdYekx6b3o3SnNKMm8zWkk1ckktZE1DMm1JVjcwTEswZ3FEb1Q0?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-17T20:42:04Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "b15685790342e31036972c",
     "title": "Among social media ads, short-form video drives the most actions",
     "summary": "",
@@ -10,6 +94,18 @@
     "topic": "Americas",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "5c0fd4f636c9f4701c9d39",
+    "title": "Democrats try to figure out how not to get swept away by the blue wave",
+    "summary": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so others had just left \"What's Next,\" a conference organized by Majority Democrats, a group dedicated to charting [&#8230;]",
+    "url": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
+    "source": "The Verge",
+    "published": "2026-11-17T20:30:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304463879.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "016d95b0f32da7ba1cc418",
@@ -180,6 +276,18 @@
     "image": ""
   },
   {
+    "id": "f35d89f87760c9628f0306",
+    "title": "JPMorgan’s CFO plans exit, company names internal successor",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXBFZ0RDaGxGWXNVVy1aRThkc0V1c2lSTFBzT0JnaDlKZjNVMzRuaFhzeklOandrS0cxNk8xSjBlSERPelVKUVNja0d4aG44cks1bmdYUXlFQ3dqdmpZZ1o1NGs4UWNmTi1BMGU1d1RqWEtHSUtrQ2t5eTh4QV8xWDF2bThmMUJnLUctWTdnLTduaHhna0RuSVUtZkQtdU54?oc=5",
+    "source": "Asset Securitization Report",
+    "published": "2026-11-17T19:04:54Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "534361927951e2d99a3b21",
     "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
     "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
@@ -198,6 +306,18 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUdQX0U1RlNYZzc0Rko3MnlHdzcyeEFxR0hrd0RfRGdfcXpEdEZ6bWZNOXNVRHQ4SDNSQ1VyVy1ORG9tbGcxMF9Uc2FrVmFOdThHMnR5SWp1VnppM3h0V0ZKWlRFdlprSnhkb2RQWXdxcndOYUYzNjROZ1IxSWtNYUVZdlVlNUJWTDloOGZzTzBkMjdBVFF0ZjdCV2pWazh6YVhrU2pTRWN2WnNNUk1EcEQwWjNHcGVLci10Rw?oc=5",
     "source": "Fort Mill Sun",
     "published": "2026-11-17T19:01:42Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8521d634a77e826327cd7a",
+    "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
+    "source": "BBC",
+    "published": "2026-11-17T18:58:57Z",
     "category": "World",
     "topic": "Americas",
     "country": "",
@@ -298,6 +418,18 @@
     "topic": "Americas",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "19e6d13053833b3349da87",
+    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+    "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+    "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-17T18:20:36Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg"
   },
   {
     "id": "ecf8c81cb5048aa02c0809",
@@ -444,6 +576,18 @@
     "image": ""
   },
   {
+    "id": "4b5e1e57fb64b0d90c2fcf",
+    "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2dXTHVZWHJEblJYalFkOE9VeVRXeEpIQXNQdHc2RnVaOGhSLVlZMFJzQkJvcHEtQVBMT0dSYzhlcGV1Mld0SzlyTG5fbHpmX1h4UHhyNjBkbjBkODRRQVJjODRUNUVzMEZNTTNSVzdSaEM1eWh0ZjF2VVYtMHZZRVBFWHJ5YVVpWVduQ0Mxc28?oc=5",
+    "source": "The New York Times",
+    "published": "2026-11-17T17:28:57Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "8e6f210f012871d35258f3",
     "title": "EBRD chief highlights Jordan’s investment potential ahead of joint EU conference",
     "summary": "",
@@ -550,6 +694,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d17d540166bebd6fdd9fef",
+    "title": "Beyond the model: How startups are turning AI into real-world outcomes",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDdMQkFTUkw5Z0tuV2VFWUhKUE1wQS1DZDU2aWZXc01yb3FuNTNnQUlQMktuWGtsMzVSWTlDMFdSSzZQZ1ViS1lYOHF6UWhISUZxQUsxSW9SWEpGMzg1NDFQc2Z6VVRXbkFmUVR6UDBaaHhHWjQxTXpKRFZ0ZFBCLXFPMXJhMGJxMlpqVTdRUE9oMUlTWkMtUEI3czlkV2NjQ2t4ZldEeWJhZw?oc=5",
+    "source": "Qualcomm",
+    "published": "2026-11-17T17:00:00Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
   },
   {
     "id": "7d7da9064585c2d0809192",
@@ -744,6 +900,18 @@
     "image": ""
   },
   {
+    "id": "193bf0471c777c7d0b8632",
+    "title": "Toronto stocks slip as tech, financials drag; Nvidia earnings eyed",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JoUE5YdF9IM2poQnRFUE5GVVlkOE1WTFRoM1poaXU5QmhCRE10WVVyWEowVmNHU21rbk9oS1RaNXFqQUhVRk9ldV83bXBYdkcwZlQwbWxyUXZjYndrU2FNT29DT2lyaTUxMWpJc1F4OHdiMnRuc3k1bkQ3ZGlwWjVqWmQ2UkttM0d6WTFjVXdzTkcxaW9aNDZGbjliamgyQWhYTXp1UnZsZHVrS0hwZ3YtX3g?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-17T16:01:45Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "ff4c3faaadec9c0bf08e8a",
     "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
     "summary": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to start in July 2027. The Flipper One is more expensive than [&#8",
@@ -864,6 +1032,18 @@
     "image": ""
   },
   {
+    "id": "73a85c4adf2dd6fa138a21",
+    "title": "Carney addressing Pacific Rim business leaders at APEC summit in China",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbllqS29yZllQbWxCbHRMS09mN1B6MGE5NHpZb0E3SzByeUMxdGtveEV0eVpWOWJEVGIyQ042OUxGR1VROFRpUkxfa252RGxPZ25KR0xKMkVmcGNCOVVieWdIMzYxSkxUdk9uVF9fUUxGRTlyYkFoYkNTM2ROMmRabDlHamJZVW1KWkxvcy1HRXRfejdYdk5LTWFrOFBFVlNpT1ZRVUstWmtKdGN0Y1MtWjFaVjl4WEQ1OXA0aFYwMFRoVUF3eWFyTGw1azhDVGQ0Q1ZHdkxqaW1TOGp1V2Z0UXlyb1A2SVpmN2lmUVEwTExtZEUtMlk1Rg?oc=5",
+    "source": "thecanadianpressnews.ca",
+    "published": "2026-11-17T15:20:45Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "8760c088ea7491c5685ebd",
     "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
     "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
@@ -965,6 +1145,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxONjY1Xzd3UlFQc0VJbVRfRXNHR3JmVWJZYm9UMmdjcnhqdFZXQ0xwRXlKclEyX0FyV1hrWWpPYk9pbGYwdGFSV3dxNFpMRWFjX3NEYTdyOXFlZFFTVVBEQ1R0VjNlYWdMVklfTjVkRU5PSjlDeUhlOU1ISUJ6VXBvRjh2U1ppWFJBMGVXX1o3eUgyNVNqblVsc0pvbjNIRWxncFVfd2lCME5ZU2NSazFHQkhIM1k2Q3VNMXF0eHVBMzVWWW83VkVLWlJrOVpnWU9FMTZHbjB3dkl2eDZta0EwWk94WS1yckxidW9FTHQwX2lfcFpHeGRldm9BZFoxUnczcnJCXzU3X1VMcEg1VDc4RWFKamhaak4yaENBX0x3?oc=5",
     "source": "Plataforma Media",
+    "published": "2026-11-17T15:03:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f461f7fff67afb590bdd25",
+    "title": "BoomerangFX Launches ChatGPT AI Search Advertising for Aesthetic, Wellness and Private-Pay Healthcare Practices, Powered by AUVIA™ AI Clinic Co-Pilot",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxORmZOWTRHbmJqdE85c3JGWDNzNzgyU2tULW4yNjhOdUpKaTFPWDc1UlN3UFNYaHVmUlRpRUZ1XzMtOUpPZ0xiM3N0WG5BX0dYaVoyOEVBMHV3WnBIbUM4ZFdkRWtfb05oVTItUGJMR2FTYU5rc2FKeEpwaGtHb2w0UDJFOTF0R0Q1Yk9kajhTdWZNYUxFX2dhVFhmTFJ1R01pRHR5RE0ybWdudUpMWkt2aEZjTjd4bk5wVERId3EwXzVEdTVfSmQyU3BFekVVTTU4Q2ZfYl9HbjZvNnhGVlNXLUh4UG9vczMxMDBldnU5MVZWZjB5cHBiaVlwbjlGYzlPMmFhZ3lQUG4tMEJQbWRSOHM0VFZIRFNWOENuZWpxN2xWTzhF?oc=5",
+    "source": "巴士的報",
     "published": "2026-11-17T15:03:00Z",
     "category": "Brands",
     "topic": "Brands & business",
@@ -1328,6 +1520,18 @@
     "published": "2026-11-17T13:59:50Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "27c61273bdb3bebaa9f08a",
+    "title": "SAFA and Sustainability Forum Middle East to host high-level roundtable on data-driven decarbonisation and capital resilience",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUHNvVDJtRU1VX1V3WlppQktvSWdXa0NDVGc0VTdQRVJjbUhvMTl4X3h5MERVRkVDWWRrQkdudzVSdFBTRjJGcmpFYno1U3VwNWNRYUhWTFFyNDRTUG9rMlRodGJSZVBfV1RJNTVxWW9UTExyd0t6aFZvajVuYTJLaFRpenlqM08wZXM0YjZCZTN4VUNxZ0JnenlWUEk1YWk3WFVhbmwyMjhTQjRNaG9SREZOTzBCbXZuSzJWRHpDOS15cVN3TXhSUVNSUlV2OGZvanVBRW41TUdfMlU3RU5wOEhuLTB3T3RUN1RxSkxGckw2Z1A2a3ozcUVBd2FPd21EZVJnNEZSMXJwektwMTEtRWZzQXpjN0FJNDNv?oc=5",
+    "source": "Zawya",
+    "published": "2026-11-17T13:55:00Z",
+    "category": "World",
+    "topic": "Middle East",
     "country": "",
     "image": ""
   },
@@ -4364,6 +4568,18 @@
     "published": "2026-11-16T21:25:25Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2e1debd93860a0e6d0f7fe",
+    "title": "The Best US Bond ETFs to Buy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50RmhfbUE1cXlvQVNjMURFb2NZcE5ieWpQbE5KNkJrR2NmVzRabE5OanVvLXM5T3FwN2JZUllEeUo0SFlZdDVBY2hkeEIxZUVicmlfaVlNT3BUdWFQTUFRSWtYdHRlbkVtM0hQd2xPWVQ?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-16T21:20:12Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
