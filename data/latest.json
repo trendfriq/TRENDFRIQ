@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T17:48:07.981544Z",
+  "last_updated": "2026-11-17T18:39:27.108841Z",
   "articles": [
     {
       "id": "6e4161a0149e2d4af61ebe",
@@ -7,11 +7,83 @@
       "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
       "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published": "2026-11-17T17:42:26Z",
+      "published": "2026-11-17T18:24:21Z",
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "573978dac028047366af00",
+      "title": "Jensen Huang to testify before US House committees next month",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGRGcVlKaERkX1FkODNLbzFqSllTM0lVaEw2cFVCdTNPS2xQSTZHOU9WUFY5UlM0VHEtMjE4Zk9VRFp0M2xadGdHdzlFMVc2RjlXeDRhOTdLVXBJMzEzR1J5WmxsQlBPZ29UeDJVX0g1ZnBRUHNEMGFVSXVRVW9wSjI2X0lJbE5WLVZDclJrRl9KQU5SdTRoUUV4TUVPN1B3LTdydk0tbU9QQdIBrwFBVV95cUxQWmwzUW9aV2Z6RjdGX1VBa09WNnAwMU5YRHFSRGtrN3lidWJkT2V3bk95MTFJWnFYRHdZbmFpdmN1ZVQ1cmdxWWNwVEs1NlZpVkVEOENWeEJfeDhqRFFZRGtORDZfcVI4TDMzcVhBZXVZTnJnOXI0Rnlpcmh3QzA2d01QemVBbXA0YXBQTEVOdWRMczhPdVBldDFmYWp5LURZZnRRLU5PdWRrMFRob1hR?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T18:22:01Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ecf8c81cb5048aa02c0809",
+      "title": "As decision model use skyrockets, is customization is the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:10:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/attachment-1.jpeg?resize=1200,730"
+    },
+    {
+      "id": "c102542f2a9c3ebf9d0a10",
+      "title": "Orange adds €250m to corporate venture arm, taking assets under management to nearly €500m",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkRxWmQybW4yTC1WSzVQdm01clBOaUZMTDVuemV6eXZYa2N0bGExcExRWmZMZHo4NDNDeVh5cGFlQ09VTUVuaFIzSnF5VXE2Z2dicGg3SUUxN2RHakxvMDl4Ym9kaG5KbTRmQlVteldjMEhwajB6OG8yY2k1ZE96aHNoYWFKeTJKRmhVdVNsdw?oc=5",
+      "source": "Global Venturing",
+      "published": "2026-11-17T18:08:02Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "52ddb81f3d1b5bf46bffb9",
+      "title": "President El-Sisi participates in World Economic Forum High-Level Strategic Dialogue Session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcFBSbk42b0MxRDNMRGpxSXlYVll0bnhOOFBOdGEyUUdPS1hZMU0tMGl3cUItRlNfUW9yQ3lrM2JjaE9QUExQcFhORm1MSEE0dUM2cEU4Mk9SZ2wtS0tvZmVZTE0zOVlhM0M2NThuWVJvaDlMeTVXaXN1UkNrZzduV2tYMTJwRUFvMmtRMU5SbDZVLWhnWUJuUUhxUnJYZVpEZFRmdG9mQ2J4MkVsUFhFMFd3T3A3SnFienJmc01hdTVQazdnLVBYVzlES0YzbWdpR1paVDZaZkp4eDBmbmVrMXh4am1TblpualowdVNfcUZtWnRDV1pENTQ4MA?oc=5",
+      "source": "الهيئة العامة للاستعلامات",
+      "published": "2026-11-17T18:06:18Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "837c136c3245c58a015e73",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:04:16Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pedestal-Cofounders-Photo-November-2026.jpg?resize=1200,800"
+    },
+    {
+      "id": "5084113153afc06d831244",
+      "title": "YouTube found a new way to inflate view counts",
+      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more \"complete picture\" of how people are using its platform. [&#8230;]",
+      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "source": "The Verge",
+      "published": "2026-11-17T17:50:22Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "02cb24133730ffc804bddf",
@@ -62,6 +134,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
     },
     {
+      "id": "eb71ae4dee79bee5de3f20",
+      "title": "Perplexity Launches Multiagent to Coordinate Frontier AI Models",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUp6dzU2YnBWc2pZbzJjcHY3Si1FaHVyTUdUbFRYd2xVcHB1djVWaUpHR3dhQTRDcl8wWm1jTWdxN19uMDNpZFpvSVdscjZkbkVUdDhiMHl5ZVd6Z2Y2S2NrbU5MUXdtdlJGb25UemhuRjlqRGxOU2dSb3pvSVZPYUFLX2EtWnUzN29rNHpn?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-17T17:29:02Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8e6f210f012871d35258f3",
       "title": "EBRD chief highlights Jordan’s investment potential ahead of joint EU conference",
       "summary": "",
@@ -110,6 +194,18 @@
       "image": "https://i.guim.co.uk/img/media/aa64ef87330c205b86ab607a030790f6f68e6a5f/281_0_4426_3542/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4732bd54781e8ecf5dfb44a48c26f842"
     },
     {
+      "id": "4b5e14700dd1f7a71259b7",
+      "title": "Grata Intelligence Marks 12 Years of AI Innovation, Bringing Enterprise-Grade Technology Within Reach of Growing Businesses",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdDRJSFNkbjVRSDhOM2Y1dU9JWmRSMVFNeXBoNDh6M1hfb0lRT2lNcmVzaDJnUGtIMHZEOGlCaUJ3eGpsNV9hMmtkbDh2dk1US2RMUFM2RlhSREc3NFI5ZXQ4NnRDX1I1em9qQTc2eFZPREtpcWNyZUJwaGI2TE4wbHo4X3VwR0lYRUhmUWIwUmNrZ19FVXFyNVY1U1FhYlNVSjdPUzlfNXFRd3ZwajVELXljTzZUbzZhd0l0VmhGZm53QkJrWEJxSWpESUphcUF4ajFnTnlrU0NpblVwSlFzdFBQSXZfSHJVX3l4ajZ3RmpvdlJaSFZHN0xYNk5UX3kzd2VQN3lodUlRQnhnelE?oc=5",
+      "source": "markets.businessinsider.com",
+      "published": "2026-11-17T17:11:18Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "cd623bac54324ccfdcd75f",
       "title": "US loses measles elimination status after 26 years amid record case numbers",
       "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
@@ -120,18 +216,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
-    },
-    {
-      "id": "8a302b30b3afa780e5d967",
-      "title": "Disney Doubles Down on New Shows and Movies Amid Industry Upheaval",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjdVRFkyTUJTX3RiYU04ZUtLYVpILUhRMW41dmdDemtKVF9GZ05XS1pMQ2NZUXZWa1BwT2lHc1k2em9ETkgybmNjRXZHOTJuSGtEeDRadHhKN19NZ3BNdGlOVUNZM3ZLRFNQcVBlTThqQk91dzRDQnBpQ0ItYnJ3ZkRkYjNOWHdM?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-17T17:03:49Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     },
     {
       "id": "93d6ae1f07e2813eb4c76a",
@@ -156,6 +240,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7d7da9064585c2d0809192",
+      "title": "GTA VI Launch Signals New Era For Gaming, Creators And Gulf Investors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2JVbFVSWUt6ZHhOVDBmNk9FTWFCVTIzNFd6TTljNmpSQmVodGNiSWlhMnFXTmZ0SUJieHlCYXowV0JTWFpybWVMQi1xd0ItaXJnY2NCR2RjdTBkVXhVYXhnY012eGJRNlQ2aTR2U1EyQ2M4aV9qV2pxS0w5TnJ0RFdHZk14WXl5aVlJbXhhcTc3VmVCb2hWWlozUFB1Yy1KMl91dXpZZEh1SXIyd0JTZnN4by1XZw?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-17T16:58:38Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "09543f7a2b137148c54390",
@@ -196,7 +292,7 @@
     {
       "id": "6fbd9862eca578a21577cf",
       "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
       "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
       "source": "TechCrunch",
       "published": "2026-11-17T16:44:15Z",
@@ -264,6 +360,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
+    },
+    {
+      "id": "e4f106c914382d59fdd8e6",
+      "title": "Russia loses ground in Africa's largest oil reserve holder as Europe's 4th-largest economy edges it out in the fuel market and secures a $440 million gas project",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa3ktWlpBbGMydTFoblJsRTV5QlMxV1ppZUE5OElFOHZuOTBjekVtZmZQdTNOVGk4QXRVOWlFNGItNTFLRzMzbGNhTGNMM2V2MlZ4VmZvWHRRbHVZSmFVN0J3ZEJDTGQza3Z1eHFLUV9qVkYzaGJlYlh1ZGZWRkl5TFdBNlQ5aGxXbUtZX3ZsenUxN3IzMUJLZWZCd3RyWVZyWlZnLUh5YlBnb3pMRHpqdTFCNHg4SEdGVUtZeWlYV2RpMzNjbzJLbDFjVWNLelMtalk0?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-17T16:21:26Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "825618225fbb1ec86e2f56",
@@ -830,6 +938,18 @@
       "image": ""
     },
     {
+      "id": "e49688c63044fd13c8552f",
+      "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+      "summary": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards Get our breaking news email , free app or daily news podcast Australia’s creative community has launched a major campaign pleading with the Albanese government not to water down copyright law amid furious lobbying from AI companies, ahead of Wed",
+      "url": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+      "source": "The Guardian",
+      "published": "2026-11-17T14:00:15Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34308f30827e05513056a20d5175d916"
+    },
+    {
       "id": "3bedc6f142fdd032e3dad3",
       "title": "Spara Launches Scout, an AI Sales Assistant That Finds Opportunities and Prepares Outreach",
       "summary": "",
@@ -1320,126 +1440,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "a9af97284a048e2dbd9f8d",
-      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-      "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-      "source": "NPR",
-      "published": "2026-11-17T12:20:57Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7716x4340+0+402/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fe6%2Ff712deb8480ca186e06928d5cdc8%2Fgettyimages-2305028068.jpg"
-    },
-    {
-      "id": "f06f8d3f1ae73d6adf0351",
-      "title": "Nvidia Forms Export-Control Committee Amid Security Concerns",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2U4a21jZGs3MjUxMGpRNHdsZFpnbEY5cjRhanFPSWNvNGE0TXF3ckJNcFF3bDY5TnV2eWdwbFpjaXRDdThmX29PaThYLUx3N0NzWTdCckVPdE9DdUJyQkwtU21FajBJSVFfamhIc3dLa3dnM3d6SzRrZ0FSMkhhUmU1T25NTXR4NVlSekhOR0UzaTBTejVCWXgyQVFYaWs?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-17T12:14:52Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "96212eb9cf63f6aa01ce62",
-      "title": "Lagos Targets $1 Trillion Economy by 2052, Prioritises Manufacturing, Exports, Investments",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRU1yZ05kSU11LW5lSnV3bnJjc2ExcnA5WDJYb2RnU1NVSDRBaTJHRUVsaTFaSWs4aWdqdTFMVGdKRGxzWUl5eXVSa181bTZfakxiTDM3UldQeTVZTlN3TS1yZEpLU19tdUhHbTdZRVMxeUNndmFISEI4S2JPcW40YTRTRFpmOC1QV0ljSkNlQlp0am1lMkYzdEZpNlg1TVIzUXNRaTJNOHlCdGc0RElBOVh0c3psOFRyWTZfclUyR0p2VUQ1N2F2bXp3?oc=5",
-      "source": "https://theeconomictimes.com.ng/",
-      "published": "2026-11-17T12:10:53Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "40b3dba3d3a84d76af4502",
-      "title": "GBA seen contributing more to Asia-Pacific prosperity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84WXRTbWVzdlFkNHplZjNYTkRKZmh4cEU2bS15cV9IOUZWTVAtYXlXbXR1TjBDT3pPM1pCQ0NYb0JQVU5tUDBzUWxYdzZtbk5rUEIzUW9Fa24?oc=5",
-      "source": "chinadailyhk",
-      "published": "2026-11-17T12:01:24Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2b4aebc655461a30de9471",
-      "title": "NHS data contract to stay with Palantir until 2029",
-      "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-17T12:00:12Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "id": "ffabfd64cb8a47d58885da",
-      "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SS3JxeW90T240aEQ1WW5aWFk3M1NDeWhfb0tfTmNraGwwNE1rOExjOXByREE5cjBLS3ptWDZkRXRjbjNXVnR2ZUppRTRiaXhqTVpZbFRzRnhjQzI3NHlyUUo4VjJJamFDZ2RpU2dCTzE3MldfWmfSAXtBVV95cUxObjVfOW9nalRJSExPdmJEb2szZFJydVRpQ0ozVkwwbG9YNHNiUzhJbWhDUFpRUi13YzhGaGRZYmRpQ0duM0RWZ1RneWpYUzNxREQ2RUZLb2dLMmUzZlFOYmJzektMMFZzRV9VaU9vSG1DSVIzV3JYdGViUWs?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-17T12:00:01Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b45ee07c5eef229bf4f8b0",
-      "title": "A $2.55 million quarterly loss gave way to a $230,000 profit at Chaince Digital a year later.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkMxckJpRHhwT0ZLTU1FaWd1WF80TkpOdS1zSWtGX1p2a1UzZGs4TE1LRkRURzlqM0owSmpkc2ZpV1p0NFcwZWJXMEZTcWJIOWd2dG9ySHBfNU5DWU1ZRDFWTEE4VjRnOURIM0ZqWXFKaEFWZHZPMDFKdjM4UmpTODlzVlhtY2I2bHZ6Q0Y3YTdwYVVOV3JncmI1V2dwbk1oU2ExcVFoMTdfbVp0TlhMOXRRT2REMW5S?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-17T12:00:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "022e8c6fa899324d15adbe",
-      "title": "UL Solutions Inc. Enters Definitive Agreement to Acquire Worldly Holdings Inc., Expanding ULTRUS® Software Platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ3F0d1AzZmFHQkVpR1dHdEVFb1dCY1Q4aVNmU2RFU0hZSW5QWXdxQ25hOURoS0t4clVWUExiYTR2TENfUmxfOENDeUVvSTZBUGc1M1ZzaEg1WG1qWDVYblJodE5TVy1FdGp6NTJrdXpseV9lMmY3dnVIazZtclNEczl0TG1CVlh2bFcxVzNURUQ0bXhfODJEOVNGNTVvcUxwM2c2NUtfeTJoRlQ5dE5RRS0wT0VZSHpkMEFEdVJuYnR6ZHBaQ1RLdFBKLTl2cUFRR0xGeHpTSnRjeVE1d3cxamZnazBYcV9ZeDRmWFhJcEhpNm5SR0tfR1Z4bUZ3Vzg?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-17T12:00:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d425358df637b17654371",
-      "title": "BlackRock | Assets Under Management, History, & Influence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZlFtQzNhR2xleWw2Q2wySEJDc3ZabzUwMDR6cVE3QUVfTmp3SHpZNHdMZlVKcU5CYTBJZG5VYUFTbUswSkNVZVd1ZjdURkFGVjlucV9hN0N6UQ?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-17T11:58:54Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "89bda0a6ba949d53577f5b",
-      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-      "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T11:58:16Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb5/live/140763d0-e26c-11f1-b19c-7b42f37bea48.jpg"
     }
   ],
   "countries": [
