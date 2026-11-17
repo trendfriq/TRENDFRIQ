@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-17T00:00:31.906690Z",
+  "last_updated": "2026-11-17T01:05:56.436447Z",
   "articles": [
+    {
+      "id": "55ee5feb0ebc0de1f0be6e",
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-17T01:04:45Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+      "id": "63bd91bde38071d00aeb04",
+      "title": "Customers report service outages at major US banks",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-17T00:18:01Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg"
+    },
+    {
+      "id": "b86f6b76a1869944f32c32",
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "2026-11-17T00:02:56Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6ee50e1fb72448780efb0c",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-17T00:00:03Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg"
+    },
+    {
+      "id": "a4c286a5351199baafddd6",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-17T00:00:02Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg"
+    },
+    {
+      "id": "2cc2c5450192e81d91852a",
+      "title": "Tanium Honors Top Global Partners for Growth and Innovation at Converge 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1Nwal9YQ0xFdjVqMy1xUnB2TVpOZzNib0dUczJqa0pjTWFDaEdjTHBtdDFTOG4wTzB3MWJzU3ljZDk1UEtGVy12NmR6RlROV3NRZDF2RmJoclJEak9mb1p2LTFKTW10elhwNENvZ1FPY0pOMGNISERrdlFHTWJwdmFDTjZlYnNrdE1uRVdwQk1SNHJhZmtIbWRlNmZRdw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-17T00:00:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7b7555b058dbbbb5171f76",
+      "title": "Firms bolster cybersecurity, create tech jobs as AI booms",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0EweGw0QnB3QmtMeFE4cHdhb1J1Mm9DcHpzMTI0RlpqZ3dLMFpiYlJwamEwUlFndmhhNlYyMm9IQlpuZV9OSEQzSnFsMTBiaHllblhadkNueVRaVy1zSC15QXJZRzU1ZmdnZjBjUm9uYTZfZ1NmMFBDQXFHRXlHNEhlUER3WEh6dXViVFJ1cmRSam1BbXVQTV85RDBfbFhSU2pkRm9LZU9qRHNTRTFsT01n?oc=5",
+      "source": "Staffing Industry Analysts",
+      "published": "2026-11-16T23:55:33Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "f39ba752cffd6409aac10b",
       "title": "Africa: Trading in yuan",
@@ -28,7 +112,7 @@
     {
       "id": "24baf68da2c147d6568a9b",
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised an $125 million Series A at a $1 billion valuation led by NEA.",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
       "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "source": "TechCrunch",
       "published": "2026-11-16T23:32:32Z",
@@ -36,6 +120,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+    },
+    {
+      "id": "7e939516082d8594376038",
+      "title": "Economic collaboration seen as important driver amid uncertainties",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXdzZ3VYT3FsVW9sTUo4MkdNQmZjQnFONG1pNVA1ZmNMRU9OSjQwVnZScURGbl91TEhDTzctclVTNHRnM2pLS0dEd1V0UThpUWhTOXV6VEN5UUlLTXBSdWttMXh6a3VSSVlqS0ZKVEZzaGdzV0l1M09WejF2eDBXc3VR?oc=5",
+      "source": "China Daily Global Edition",
+      "published": "2026-11-16T23:30:55Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "32ba01daa8e41ea7b4d000",
@@ -86,18 +182,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "63bd91bde38071d00aeb04",
-      "title": "Customers report service outages at major US banks",
-      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-16T23:15:21Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg"
-    },
-    {
       "id": "56c2cb6720edfceee1fb97",
       "title": "California sues OpenAI over Hugging Face attack",
       "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
@@ -118,6 +202,18 @@
       "published": "2026-11-16T23:08:36Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fc5e1c2a5f6ca74c9fd1a7",
+      "title": "China is hosting the world's leaders in Schenzhen's AI wonderland. Here's what they won't see",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRFEzRDhlVEVZYzFmQmNzaFl6YUN6Rnd2dGhTMm13LTkxOUFiV0dFUHFsZlBQQlp3S2Y4WTZ2cHFqQk1FRnpuX2VaY0lEajlwUG9MYk8zV2xzNmc?oc=5",
+      "source": "BBC",
+      "published": "2026-11-16T23:07:20Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -180,6 +276,18 @@
       "topic": "Artificial intelligence",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "ccfcda305e7c2ee0e37987",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-16T22:32:47Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg"
     },
     {
       "id": "6fc9152ff172cbcf0819c1",
@@ -278,6 +386,18 @@
       "image": ""
     },
     {
+      "id": "76d2abc9d4044bd880b352",
+      "title": "Why China is betting on ‘home-court diplomacy’ at the Shenzhen Apec gathering",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFJQaTFrNjRPS0tqb3NQN0t5ZWdTekxNa1k5M2cza3JLNEtRTFRDeUpKZm0tS3BEOEhscm41S1ByOGVhNUx0a25OdzhqVnZDYVpUNjJZWXMxdjhmZXZBZkNzaU5uWE5QXzZkYlVjNjhBVTY5VlkwNDZuS3E1TnA0UGQ5ODZ4WkUxdGF3aE5YeG9xbXFPdkxPTHNJZWN0MUhrMmFTNE1HU1A4NXFBUXIwQnJEUHh1Y0hxQmJjbdIBvAFBVV95cUxNR0JvM0FSckR1SnpCT016UGttS1h5MU1MazUxMWhuenpVQVhRMTRuR09zN1lQWDdBUmJZMjAwS1FNY3ViMy1YU1kwNEFCOXE2WGhVNGZNMkJGTjFmc25kVTlKckRHRWhGb01XcHNrZy04dW5WdU5UQ20wY0c2ajBlY3Jza3o2Z3N1XzRGVUQxOTE3MTg5SU9QNXltZE9Ra0MwZ0NrT21pYzJXYjBmRWZORjBhdEluZ3BQSm5Obg?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-16T22:00:06Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1d38650fd5203d06817546",
       "title": "Congress could soon rein in Trump’s tariffs on Canada. Here’s what that could look like.",
       "summary": "",
@@ -310,6 +430,18 @@
       "published": "2026-11-16T21:55:17Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "98ab300c476276c41aa404",
+      "title": "Powell Industries (POWL) Q4 Earnings and Revenues Top Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2pDOHZ3eXg5R201bTJuSG1XU1dOR2VYMnByWEhFM0l4X09JcC1YUFpPN1M5em56ZzJFRmpUd2M1cTNWTVRIc1N6M1JGTDhqcW5xNUgteXFtYVRGYUJ1M1RnOEV4TlZzUkhseUp5TVZBY3hQYzBuU19TdkFnUS14RWlPT0J5VFVBLVdNd2hYNk9QUE5mZk9YMGlLbnBrNjFG?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T21:50:02Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -1214,6 +1346,18 @@
       "image": ""
     },
     {
+      "id": "8baddfc153ff41c5392459",
+      "title": "Applied Nutrition FY26 slides: 51% revenue surge, US expansion underway",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFpXZ0pzM0twT0dTdi1leEJUU01xTEVReHBBelVudWJrVXpBeXp6ZXZUb0pZY3NpMUtIeWNpMmRhVWRRNHh5UXNtYTJnblpNS2dHbjFRQ3dYRkNFbjNLazJTQkRSQV9pYlpQMUg0N09FZGYwdzNEQlJwM1FRZUhMcFFuSzNhOTljRFB0WFlNUEJZY1c3WmpqVjBSLVNwMkUwNGtENExkX2RKOTdrbklfZ1Z1UHNyTVNTNF9SN0lNZWVWeFk?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-16T16:52:21Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8fff6769d6964ba71dc585",
       "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
       "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great hardware discounts that are happening, including $20 off the stellar [&#8230;]",
@@ -1296,150 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c6e402db7971102686e38e4401eb7a4"
-    },
-    {
-      "id": "da92c8972c3b4d04b66566",
-      "title": "Applied Nutrition FY26 slides: 51% revenue surge, US expansion underway By Investing.com",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDBicHpBckttWENRVXhYOVUwMm1fTnRLVkFoZkpkOERUTnFId0E4WEdoRk56S0dxYW44NTg3TXcxNTc5NG0xNVEyeDRiRXBEejdZNmFHQlc0R29yNV94VkNUYm5vUkdpQXUtazRjQUVQODd1Mm9SZ1BiWGRpQ1ptVThGRVk2dXVydGt6d0hfZ00tY1g4b1pvWlZ4cDh3T0NJaGcyamlGVzZGc2lqaGZta1dmMk01cnBrMmxsVnh4aUM5cnRObmUteQ?oc=5",
-      "source": "Investing.com Canada",
-      "published": "2026-11-16T16:14:30Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c3633df57776aff254da4a",
-      "title": "iMENA completes $214m capital increase to fuel regional expansion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYVdJcng5N0RaZzNLMHV1NFJiVXhNYnhoM251Z3V0Z0FudHFRX0Jud3J2Wk1vS3VDSGlCVzdXYjBqZVZEV1Vkb0pnbWREd0JfeDI3VDk0dEwyQ2pfMTBVVWpTMDY2bl9PZ002TXozeHoyQ2hkaldmUWlmVGFTZXI3TEZIaHBzT29qbmJvUkh2MmRNMTctM1dQZGpBakNMTEJESnBrR01YRTBFUQ?oc=5",
-      "source": "Arab News",
-      "published": "2026-11-16T16:12:21Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4d981445bc3b7fe54d318f",
-      "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
-      "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
-      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T16:06:30Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301975852.jpg?w=1024"
-    },
-    {
-      "id": "df9aa86b300342fde5adef",
-      "title": "Applied Nutrition FY26 slides: 51% revenue surge, US expansion underway By Investing.com",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXpxNkdjZkZiWmJGcmFLbEJ0elF2MG9Qd3htT0ZkeW9uV3l0NjRwOEMtT3ZoUlUwLUZvb0Z3MlUtYXBBOHFhSlFjeFI2R3JKZG94NmZGR19YSGowYkpVVDNPYnQ1cHFmTk8xMVA5d2VWLTUxN0I0WEFwNFVtRjY4RGM5UzZseTdTMTZyZF9IN3hvWmtiQ3VmRFZXeDZkcDlZa3NvRmJxenRvZDlfb2o2cnFqaV9DYVYtVm4zUXJ4VmxIcDZjNktySg?oc=5",
-      "source": "Investing.com UK",
-      "published": "2026-11-16T16:06:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "618aa2edc4d4705aa50cc6",
-      "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
-      "summary": "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged Cop31 live – latest updates Artificial intelligence models can quickly turn into climate crisis deniers at the mildest challenge from users, according to a new UN-backed study. While AI models can accurately confirm simple facts about climate change, eig",
-      "url": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
-      "source": "The Guardian",
-      "published": "2026-11-16T16:05:58Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/158_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55e9b788d9fd026ccb89359d311e57d1"
-    },
-    {
-      "id": "a4afc2c4dfef9fb358180a",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "source": "The Verge",
-      "published": "2026-11-16T16:00:14Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "cdb9c422dd1bdb8993df85",
-      "title": "Tecnau | Sitma Strengthens Customer-Facing Organization with Key Regional Leadership Appointments",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORTdJOGcxYzE0anpnLXFTeVJ0a1B3SmdOV3JfcWVPUjh5UC1lSmViY1E2bmlqMG9UUmZ1Z014blBzMlFUMHJyY0I5V1lhclRvQlRqTWl4cXhqc3l6MWhGbnhpbTQwcHlZMmk0ZThERXREa1YwaXlhQngxc0dXVkt2a042SkNzeE9QM3J2aV9TTDNGeW1BSHBfVFV2Y3F0dDF4M2tVRnYza2VVS1Q4ZTJjX2lEVTllRm1pLTNFZ1VoTWROb0FNRTJVZTBXYlVZeVlkMlctMUNGTjJxa3pPOXBmMmF5Sk1wTGs?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-16T16:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a33bd4c162c583cd674c1b",
-      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
-      "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountability. So I wanted to ask the governor [&#8230;]",
-      "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
-      "source": "The Verge",
-      "published": "2026-11-16T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261116_Sherrill.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "dbb5f1364c000b96255a3b",
-      "title": "APEC meetings pave the way for Asia-Pacific prosperity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10Y05EQTJFMnZMVDlyQVZ4bGt0Tnl5N2UtM2dQT3lreUhtNTQzLUV5dERab1hvcEJIT2dUbmJObmpJX29URFJScXZxVFJ1WW9Tb0tnWjFKaUI?oc=5",
-      "source": "China Daily",
-      "published": "2026-11-16T15:54:07Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "acee8b481f0ba8b2e95176",
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T15:52:19Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824"
-    },
-    {
-      "id": "d228a77ebbfbf922ddca87",
-      "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – as it happened",
-      "summary": "Rolling coverage of the latest economic and financial news Insurance industry workers: how is climate-related risk managed in your company? Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter Britain’s main share index isn’t been dragged back by the AI sell-off. The FTSE 100 share index rose by as much as 29 points, or",
-      "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-16T15:43:06Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/66a2e0b14242dfe8ec3bcf372bcd63686fb6304e/325_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=39bfed535fefe066445039a1773ad7bc"
-    },
-    {
-      "id": "d72a7baf624cdde5f08ef3",
-      "title": "Inflation, a fragmented world and the next phase of AI: Where investors may find risk and opportunity in 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVE9ieTZPZDZJZ0RzaG1BOWpEUHRwYS1DMGsyd3liWmNNbEttRk5IQ1NNei1kYmhqRTlqX2pRbUpUc0VQTHozMUlvYnU5QWFXN3RKM1pqa0hiNHVnbzJ5YXZ4QmtfMWVnS0Q5S0VHNmkyUTUxbmhkR2EtbXJ1SlJldExoSDJaWlVQN2R2cU51cXFKczA3MVBweU9n?oc=5",
-      "source": "Chase Bank",
-      "published": "2026-11-16T15:42:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
