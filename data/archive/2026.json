@@ -1,5 +1,53 @@
 [
   {
+    "id": "f39ba752cffd6409aac10b",
+    "title": "Africa: Trading in yuan",
+    "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+    "url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+    "source": "NPR",
+    "published": "2026-11-16T23:49:35Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "e242ad74e03e30b6f7a0e7",
+    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+    "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
+    "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+    "source": "The Verge",
+    "published": "2026-11-16T23:35:58Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "24baf68da2c147d6568a9b",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised an $125 million Series A at a $1 billion valuation led by NEA.",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "source": "TechCrunch",
+    "published": "2026-11-16T23:32:32Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+  },
+  {
+    "id": "32ba01daa8e41ea7b4d000",
+    "title": "The AI start-ups fixing India's broken roads and messy land records",
+    "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+    "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-16T23:25:53Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg"
+  },
+  {
     "id": "54c17ff758e54d4dbf381a",
     "title": "APEC ties fuel regional integration: Business leaders",
     "summary": "",
@@ -72,6 +120,18 @@
     "image": ""
   },
   {
+    "id": "07eb6cf37af3992d13520c",
+    "title": "Earnings call transcript: Precision Optics tops revenue view in Q1 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFFnWVlaamJVRmtGQUhYT2FhTnlRZXlYWk1yMkhBdDRoLWowaWMwMWFLclZBaG1FNkhnZGJrUl9Rb3BvQldvcFpZVnoxRVg1Y3U4TzY1NldJajQ3OUg3eHp4bzJGdk1kRzhBTHFyWFJsamhYQ2FneDlxaEtSNE44MVFCN1dIMUVqMWVObHRIeGE0Y2hYM0gta21fTnhQVWF6ODRLM1VlNkhfb2FUNE51VXJFM3ZKS0FCMmx3Rzljdzh5eVBHbFRMWHRDSQ?oc=5",
+    "source": "Investing.com UK",
+    "published": "2026-11-16T23:00:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "4af98b7e3bf90778bf6309",
     "title": "United Airlines system outage disrupts departures just days after the big ground stop",
     "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the [&#8230;]",
@@ -92,6 +152,18 @@
     "published": "2026-11-16T22:52:14Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "24d18713ee2609c131a8d0",
+    "title": "Beyond using AI: SDSU launches engineering degrees to prepare next generation of innovators",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWQ5TmI4NDNYY09FM1ZHOWJoZzJJWU9WUDV2eEV0S0g5RTRaOHZNUS0xMzlUTmpTWi1fTERBeF9nSzVBeUFVdVk1SGhCdllmU19ieC1vcUZ0WkdwbHJwOXhmU19lVk0zeFE0MHpmSXRIWHNwS2p3dldscDItYS1HdlpwODFxM0tPQlZGSnNYTTFoR29xeXBLR05SQVU1ZWt4dTh4Mm5hYjhWbE5rQXZ3dXktcw?oc=5",
+    "source": "Pigeon605",
+    "published": "2026-11-16T22:42:05Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -284,6 +356,18 @@
     "published": "2026-11-16T21:25:25Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "11a3c4c03fe525717b5907",
+    "title": "NVIDIA Launches Open Science AI Models and 50,000-Question Chemistry Dataset for Research Agents",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmFIUXpaNms3amNGMjYzUUhPTHB4TGtHdE5VWVZXUGY3ajlFMjZlU1ZxOWdOT3Y0aDF3aFR5YmM5MjV6eEJzb05mdFBac2lZVWF6ZVd4RHp3allnQ1d4TmxXRlpEVzRlVVVndTZfWkJyWHgzVFNPeVBMTzZtbkJWaEVIdEdyLTkyT0FIZko2S1FLUzRqXzM2T3ljVVBzcEN4Zzc3TjlaX1BtbXRkaHJCbHBxX0lkWlhkQkUwdVNCcHhtckx5U05lNQ?oc=5",
+    "source": "CDO Magazine",
+    "published": "2026-11-16T21:20:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -586,6 +670,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+  },
+  {
+    "id": "d22c3429caef233415af8d",
+    "title": "North American oil and gas firms report higher third-quarter earnings",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEptcnZ2dnhpalRab3RGdEQ3ellla1JtaDZZQmlnMlA2MERuVnpyeHpRVjZBclFYYktLWVZ4cU9FMTUtdTNNaHYwLU13a0ZFZGZEMUZweDNSN2VMR0FSRFlHTnE1MXZyRXVpcmVmYmpKTUFuc2VCSUlYSmZtdG5RdWlNSmtQdl9hZmxvQ3c3R2tBZV92c0NOVHNVcWM5NHJWRnRPanNueGhrZDlqY0IxWnIyck0?oc=5",
+    "source": "Oil & Gas Journal",
+    "published": "2026-11-16T19:18:27Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "bc7ebba22aa2697ebd58c5",
@@ -1320,6 +1416,18 @@
     "image": ""
   },
   {
+    "id": "6f4f24fc5f9d907bb132ea",
+    "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmtWNGo0ZFQybHg5NDBhMmxTd1d6ZTZ6QkJFTWpNaVlnenFMVFpuR0c4VHlZR2JzSjBwLWVGNzh6SDVYMWNyQnN6dDlCaGI0clVrczQ3cURUT0pyZG9jMWtkaXMyTElFamZYZXNkNEtJTl9kNVZpQnhuWmw5YzhzTGYyXzc5a0VmMmhralJsOFpxdVFyVGsyeHpWQ1BsY2ZnWHZSZmcyS0FxeS1WcUVab0ZBSjUtSVhUVGFv?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-16T15:30:32Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "0cd807ab691eec372ceec6",
     "title": "Italian Banks Boosted by Interest Rates, M&A and Fee Growth",
     "summary": "",
@@ -1844,6 +1952,18 @@
     "published": "2026-11-16T13:08:41Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9533859b754e9c0b6fe5b5",
+    "title": "lululemon athletica inc. (LULU) Stock Price, News, Quote & History",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xc0o3YnBYdVpJb2FhNU5vVnd6MTVUbE1SZTVIU19vSWpOWFFJRzY2eTBBVlNKcVkxV1dJaE42ejljUG16aHZsdlpJLVdUdw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T13:06:59Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },

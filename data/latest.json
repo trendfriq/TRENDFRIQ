@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-16T23:20:21.638439Z",
+  "last_updated": "2026-11-17T00:00:31.906690Z",
   "articles": [
+    {
+      "id": "f39ba752cffd6409aac10b",
+      "title": "Africa: Trading in yuan",
+      "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+      "source": "NPR",
+      "published": "2026-11-16T23:49:35Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "e242ad74e03e30b6f7a0e7",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "source": "The Verge",
+      "published": "2026-11-16T23:35:58Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "24baf68da2c147d6568a9b",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised an $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T23:32:32Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+    },
+    {
+      "id": "32ba01daa8e41ea7b4d000",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-16T23:25:53Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg"
+    },
+    {
+      "id": "1c8dfbcb75eaec8769fe8d",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-16T23:20:45Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
+    },
     {
       "id": "54c17ff758e54d4dbf381a",
       "title": "APEC ties fuel regional integration: Business leaders",
@@ -74,6 +134,18 @@
       "image": ""
     },
     {
+      "id": "07eb6cf37af3992d13520c",
+      "title": "Earnings call transcript: Precision Optics tops revenue view in Q1 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFFnWVlaamJVRmtGQUhYT2FhTnlRZXlYWk1yMkhBdDRoLWowaWMwMWFLclZBaG1FNkhnZGJrUl9Rb3BvQldvcFpZVnoxRVg1Y3U4TzY1NldJajQ3OUg3eHp4bzJGdk1kRzhBTHFyWFJsamhYQ2FneDlxaEtSNE44MVFCN1dIMUVqMWVObHRIeGE0Y2hYM0gta21fTnhQVWF6ODRLM1VlNkhfb2FUNE51VXJFM3ZKS0FCMmx3Rzljdzh5eVBHbFRMWHRDSQ?oc=5",
+      "source": "Investing.com UK",
+      "published": "2026-11-16T23:00:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "4af98b7e3bf90778bf6309",
       "title": "United Airlines system outage disrupts departures just days after the big ground stop",
       "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the [&#8230;]",
@@ -94,6 +166,18 @@
       "published": "2026-11-16T22:52:14Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "24d18713ee2609c131a8d0",
+      "title": "Beyond using AI: SDSU launches engineering degrees to prepare next generation of innovators",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWQ5TmI4NDNYY09FM1ZHOWJoZzJJWU9WUDV2eEV0S0g5RTRaOHZNUS0xMzlUTmpTWi1fTERBeF9nSzVBeUFVdVk1SGhCdllmU19ieC1vcUZ0WkdwbHJwOXhmU19lVk0zeFE0MHpmSXRIWHNwS2p3dldscDItYS1HdlpwODFxM0tPQlZGSnNYTTFoR29xeXBLR05SQVU1ZWt4dTh4Mm5hYjhWbE5rQXZ3dXktcw?oc=5",
+      "source": "Pigeon605",
+      "published": "2026-11-16T22:42:05Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -160,14 +244,14 @@
     {
       "id": "4f20b6480ffff64be13593",
       "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
       "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "source": "TechCrunch",
       "published": "2026-11-16T22:03:02Z",
       "category": "Technology",
       "topic": "TechCrunch",
       "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800"
     },
     {
       "id": "0a3000605091e35e46cc76",
@@ -298,6 +382,18 @@
       "published": "2026-11-16T21:25:25Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "11a3c4c03fe525717b5907",
+      "title": "NVIDIA Launches Open Science AI Models and 50,000-Question Chemistry Dataset for Research Agents",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmFIUXpaNms3amNGMjYzUUhPTHB4TGtHdE5VWVZXUGY3ajlFMjZlU1ZxOWdOT3Y0aDF3aFR5YmM5MjV6eEJzb05mdFBac2lZVWF6ZVd4RHp3allnQ1d4TmxXRlpEVzRlVVVndTZfWkJyWHgzVFNPeVBMTzZtbkJWaEVIdEdyLTkyT0FIZko2S1FLUzRqXzM2T3ljVVBzcEN4Zzc3TjlaX1BtbXRkaHJCbHBxX0lkWlhkQkUwdVNCcHhtckx5U05lNQ?oc=5",
+      "source": "CDO Magazine",
+      "published": "2026-11-16T21:20:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -472,7 +568,7 @@
     {
       "id": "57cc1ea3d3bbd2bf579116",
       "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "source": "TechCrunch",
       "published": "2026-11-16T20:07:13Z",
@@ -614,6 +710,18 @@
       "image": ""
     },
     {
+      "id": "d22c3429caef233415af8d",
+      "title": "North American oil and gas firms report higher third-quarter earnings",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEptcnZ2dnhpalRab3RGdEQ3ellla1JtaDZZQmlnMlA2MERuVnpyeHpRVjZBclFYYktLWVZ4cU9FMTUtdTNNaHYwLU13a0ZFZGZEMUZweDNSN2VMR0FSRFlHTnE1MXZyRXVpcmVmYmpKTUFuc2VCSUlYSmZtdG5RdWlNSmtQdl9hZmxvQ3c3R2tBZV92c0NOVHNVcWM5NHJWRnRPanNueGhrZDlqY0IxWnIyck0?oc=5",
+      "source": "Oil & Gas Journal",
+      "published": "2026-11-16T19:18:27Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "bc7ebba22aa2697ebd58c5",
       "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
       "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
@@ -708,6 +816,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "53a83e259ff95a6bdc42a1",
+      "title": "Mali: Betting on Investment to Open a New Economic Chapter",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDN2OUllRHFlX2ZCMmpnX2RMWHA3NEtHRHNuVlRrMHBXYVRJOGFCQTB6Z2RwN18wZ1BEekxBMERRQ1Z4NkJPR0JKMUVhQTNGRExzQzdZNWFyS3dTZHYwU0dCdEpqTW5CYUk2X2xhRzNHQTNWSjJ3NktyR2ZFV1Mteko0ZHVPdE91WHFSbmt1T1BzV0U?oc=5",
+      "source": "Africa News Agency",
+      "published": "2026-11-16T18:34:49Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "a2651f480f5cc8339c252c",
@@ -1166,18 +1286,6 @@
       "image": ""
     },
     {
-      "id": "1c8dfbcb75eaec8769fe8d",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-16T16:27:24Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
       "id": "8a89a626759eac456d4a3c",
       "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
       "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral faili",
@@ -1328,116 +1436,8 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVE9ieTZPZDZJZ0RzaG1BOWpEUHRwYS1DMGsyd3liWmNNbEttRk5IQ1NNei1kYmhqRTlqX2pRbUpUc0VQTHozMUlvYnU5QWFXN3RKM1pqa0hiNHVnbzJ5YXZ4QmtfMWVnS0Q5S0VHNmkyUTUxbmhkR2EtbXJ1SlJldExoSDJaWlVQN2R2cU51cXFKczA3MVBweU9n?oc=5",
       "source": "Chase Bank",
       "published": "2026-11-16T15:42:43Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "50c262f8ea20a387129c9b",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-16T15:40:16Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg"
-    },
-    {
-      "id": "2e263ce97ccb3fd2ed92b7",
-      "title": "Securities Firms Struggle Amid Trading Slowdown and Fines",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHAxS2NNTWhQMTZLUE02NzFybXJxYWZoWG5pSlZJSEx5bUhlazNleGpudnFRWk1wbXhUT0tQVFFkQ2g0akNXR2hJNlZNUE9FNGpXNFNzWFdjc2ZzNXNmVXZheG4xbXJaWHhRcV92ekdnb1F4MllYV1FkV1BpODJMVFFacmszVFNVM29NZFVB?oc=5",
-      "source": "조선일보",
-      "published": "2026-11-16T15:39:13Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c60ee69367c2c6195c8ff3",
-      "title": "Spain to Raise Minimum Wage by 5.3% Ahead of Election in 2024",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjJKS1RlanFsY2FzYzBKTHVKRnFtZk1SNXliLXB6X0FXNUh2V1Z2cFVKOWVwRFVNSVhPYkdYUnlaZVdGd2ZqOGJOZVJjOGdZeWtDb3NOS05DeHp0Q3R0NkZXOUxQT09CMWF6VDktUTJrNUZCaEt6M2w3XzVmYzdkdnN5VkZKbFFKTTVBSVI0R2dUX1o2d2ZpZE1YcXE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-16T15:36:24Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8400cec8ee69e99e5bea31",
-      "title": "Shery Ahn joins CNN en Español as anchor and correspondent",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tNHgyVWtLUndvMERmT2Q3S2ViUjlDNUs0MV9CbmVHQ1U3eXZmZmJseVdlSnFLVHBVb3l6aW8ycUFOTFRCRkdTT3c1QlVhSTB1SmZENFlUcVd0WWtoYk5jdU4tRGtGOHdCNlhZQ2ZuQVE0dENlcXRTRlRxVHAyZw?oc=5",
-      "source": "NewscastStudio",
-      "published": "2026-11-16T15:34:46Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2db3076bff36ee09dfd27b",
-      "title": "EU Sanctions 12 People and 101 Entities, Including Nearly 50 Russian Financial Institutions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81aDNkVFhIN29GclNNdWd3OUpOeTJrbzhWdFc4OUN3UTVzTDVZdU1wSXc1a2pNNUphWlpiWWNiRi02b0FFR25jX2ZCZ3lYSVVKajY1WXI5ZXZYdFl0QjBGYV93VkNmNlJUZTBxTzd3aw?oc=5",
-      "source": "CEO Magazyn",
-      "published": "2026-11-16T15:33:15Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5714f9b2257faa403a18e4",
-      "title": "SAP SE (SAP): Post-Earnings Rally Signals Growing Investor Confidence in Cloud Growth Runway",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1FqZzJjZTR1ZHkyUWJiUlBFMGpmY3F5MmJDbTVzbVM4QmJleURSZWhlYW5LbDRSMmc5c3I3dDc5TVYwYnFXU2VwU1pXSDJqVFBLbnpKMm1JMmNCSkp0TThpM21IZWE1azRwbHNkZTU4bHRRbUpVMTNPdGZHNHUwM0lqNVRJZFR4RXBGM21kVWd3T0U?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-16T15:31:05Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0cd807ab691eec372ceec6",
-      "title": "Italian Banks Boosted by Interest Rates, M&A and Fee Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV09GVFBVSS1LenIwRUpDVVloN2lPdkpEVG9oUjFNY0MtSHFibW9veWpnWmlvZ1JRYzFsNl9RY0c1VFBHSzVjcjlEQkZMMnhDSE43Smt1LV9UNkhjOHBDd1hLaTJDbTBjaTNNYUNFdGpLYnMtVU9Pckh6ZU1ucnRhazltMDE2UWZSLVRQamI5UE5qVERzQXVZRWduZWhJaGp1?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-16T15:26:26Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fbc4bc0196f3f99a6d998c",
-      "title": "Robert Pattinson is Amazon’s first James Bond",
-      "summary": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first from [&#8230;]",
-      "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
-      "source": "The Verge",
-      "published": "2026-11-16T15:19:34Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "00f89d7024d56f422153a4",
-      "title": "Chile, Vietnam upgrade ties to strategic partnership with focus on copper, lithium",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWZ0bkxfU3lKZVNSLXZ5U3Exclpjd25sVzFmMlhxM2VpdjNyUnBmVWd0TzNiNTN0N3M3QmtwT3ZhUmpYN1cwSjhxRWNkRVpkM0puQTVud2dQRUMtNDM4dWRKdFlpWnpRa3EtWjE4cHdJSGdWOWFZY1o2a0kyTzB1TlRxQkhFYi14bUNQSlFxZUg2S1F1VnVpRkZaM3lodmhjakdjbDlPRVN0TmNzTExmU2txQmF5MWlGUkEw?oc=5",
-      "source": "BNamericas",
-      "published": "2026-11-16T15:16:49Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 19
+  "source_count": 16
 }
