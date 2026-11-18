@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-18T02:52:48.388133Z",
+  "last_updated": "2026-11-18T03:56:18.607439Z",
   "articles": [
+    {
+      "id": "aefafb26555ddd574a9969",
+      "title": "Putin Pitches Russia as the Place to Invest During Xi’s APEC",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFNsb2RKOWhzYnZETEdaUEJYRk9KdF95OEVQZzdTbXRjZDhtTjVyRWNSWThwTnpiYlNDYmVSYWFaa1hYQ1puMzRlbWN5UVNubmhhS3gzRUhyeTVIWDE1NFpZWE5HY3k2NEl0UFpMSkJ5RHBIbkNIZWlKZzlpMXpmNFhaZjFPeDV1dG1QaW1WUm1TR1VRTlp3YkROVnROdHNkVjl3OEpvYTFqRTBudm14YQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-18T03:45:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ccc4389da68ad4d0f81efa",
+      "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-18T03:07:22Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg"
+    },
+    {
+      "id": "053debacc0b778365d82d1",
+      "title": "Xi: China to cut tariffs and expand market access to offer global businesses a more stable investment environment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3podzVxZnNOSHVNbkpCZ05XSl96dVlEcmdFVUJuaXREQnhMWlY4ZHplV0xjV1JMNkgxbVBSOUR0d2Vibm9LRG5LRjJtUENoSVJkaWF0OVFaazlLVWpWVUVVMXhRSXRnZjR3UXNpa3lPYzdoVnUteTNZdnhjd1kwOG80RWRsWDVJNmtYVzhsMVNLTUJzWFdVd293NEx0R0szLW04czZnbUdZa1h5YmdCdzFwQkgwancwcEZXakJJNW1UNWdVbExhT3c1Nlc?oc=5",
+      "source": "联合早报",
+      "published": "2026-11-18T03:00:02Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "00444d92299743f3b950b2",
+      "title": "Miami-Dade County, American Airlines reach agreement to protect jobs, expand opportunities at MIA",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcEV0WklzbHVmeHlwc2duMngtMXJvMmpFWlE0SEU2ZHpzRS1xZTk2OFduQTdQNlpCNmp0QzM1U3E3ZFZ0ZWt0NmV4V2JiWDFfNVYwVlZpdjlZZWJleVIxQTNicWY4Nlc4Nk5Cc3VxajNRQTNVTHdJZjIzVlhhdHFCZi1lMHM0eWozZ1h5T1oxa0ZER243Z3MyZXcwY3Z6RjhjZnJmeEhxdU9PeGJuWDIweEF6VEV2aHFXdlAwdnZ1WTRHdFF4SUNJNzVaSm95bVJzRDdfN0VXR1E?oc=5",
+      "source": "Caribbean National Weekly",
+      "published": "2026-11-18T02:53:30Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "c158bb1d5e70f1fb27f905",
       "title": "Southeast Asia eyes deeper cooperation",
@@ -23,7 +71,7 @@
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "b31874a9e9cbfb51192de9",
@@ -34,6 +82,18 @@
       "published": "2026-11-18T02:36:28Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4af84154b851ccd8d6b607",
+      "title": "The Nvidia Affair Is Terrible Timing for Corporate America",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkRTeWJsSTh2T1FHR1V4TUFKNTFmd0JWQXhuTWxYN3FuWVVmTEhVSjhWQ29qZklCRjVYbTY2YUxWVUMtYU1nSTZCYXVjR3F4cUdnZVRPMG1TOFlia3V6NVpNWk5WSk9lU3hheG9TbThCNDRVZVdVV3A2WFdJX191WFFfTjliZVo3Q1l4ZFpvaFZVTHlDQUFCRFVjd1U1VW1lMG5pazRXUTE?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-18T02:28:07Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -118,6 +178,18 @@
       "published": "2026-11-18T00:48:46Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "92ee9a3bed0bcdc410fc3c",
+      "title": "Nvidia Rules Out Rehiring Huang, Launches Swift CEO Search",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTF5SkRzZDFRYWhNbDlKWTJJdzRIbDRSRGFSa1E5dkc0dGJHYlhzSXpHS1prSTVrUFlFYk9jYXNKUy0ySFBjQ3pXWF8xLWpGdUVvWlJ2ZjVoaUVpRGh4dkw3SUJRbWE1QlNESk9vRVczX0k2WHdfS0NkekdrN0k5T1M3Y21WZElvcF8tbHNaeE1rZkM0ZTRycjFmQ1BER3c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T00:35:28Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -339,7 +411,7 @@
     },
     {
       "id": "e33f226d47912c643b59d3",
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
       "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
       "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -590,18 +662,6 @@
       "image": "https://i.guim.co.uk/img/media/2d2c9d7d190c5fae25528afe1f403597f1b06ccf/454_0_4817_3853/master/4817.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38d05de3a75b99ebc22351031e7aa670"
     },
     {
-      "id": "92ee9a3bed0bcdc410fc3c",
-      "title": "Nvidia Reports Strong Earnings Amid Leadership Crisis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTF5SkRzZDFRYWhNbDlKWTJJdzRIbDRSRGFSa1E5dkc0dGJHYlhzSXpHS1prSTVrUFlFYk9jYXNKUy0ySFBjQ3pXWF8xLWpGdUVvWlJ2ZjVoaUVpRGh4dkw3SUJRbWE1QlNESk9vRVczX0k2WHdfS0NkekdrN0k5T1M3Y21WZElvcF8tbHNaeE1rZkM0ZTRycjFmQ1BER3c?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-17T21:45:05Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "6b14f2b10ce295bfe05e70",
       "title": "Nvidia’s Third-Quarter Earnings, Outlook Top Wall Street Expectations",
       "summary": "",
@@ -699,7 +759,7 @@
     },
     {
       "id": "ea9e655445ee0fb75ec297",
-      "title": "Nvidia chair says the board will not rehire Huang as CEO",
+      "title": "Nvidia chair dismisses idea of rehiring Huang and vows fast search",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
       "source": "Reuters",
@@ -956,6 +1016,18 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ19NSEZ5VHRSTzYzbkVNYV9CbG1uVVRlVDd6ekhyOURtZE1UaFpXdHBsMTFVS2gwOFhSdVpEelZub0pibGlvdEhybHRGT1VBWl9QV1lVR2VjSzd6a2JjNVpqMXRDTjI4NEVldDBFS0d5Wjd0ZXV0eHBxOFQwQVZENHd6cm5rY2djTkZRZE56YUI5WjNGRmJrb0htSEo0cVhYd1VhYXRfbGpCa1NfUnE1RFR6X3TSAbQBQVVfeXFMT0NfTUhGeVR0Uk82M25FTWFfQmxtblVUZVQ3enpIcjlEbWRNVGhaV3RwbDExVUtoMDhYUnVaRHpWbm9KYmxpb3RIcmx0Rk9VQVpfUFdZVUdlY0s3emtiYzVaajF0Q04yODRFZXQwRUtHeVo3dGV1dHhwcThUMEFWRDR3enJua2NnY05GUWROemFCOVozRkZia29IbUhKNHFYWHdVYWF0X2xqQmtTX1JxNURUel90?oc=5",
       "source": "Consultancy.co.za",
       "published": "2026-11-17T20:14:40Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2c23e6f531aea78f7b282f",
+      "title": "South Africa’s next chapter: From foundational repair to economic growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlhudm1rMVMtUnJGUC0yMlFSbDFIc1p3ajU0RTFKckR2R3FxTlVMcnVOVFRvNVpnM2IyZHl1bEg3SHI1UmE5OVh6OXdQSy1vNlZyQkJvUDZZVUpHa3U2ekNRcUNLRFJHVzZhWXdyRnQtOUVZQS1lbjBNbTdWUW41QmNlZlhsWm9WMGZGQXZhNE9oSmVEWWw3Z09QbmpUa2J5RFJ2dXdQVnYwbHNBcWsw0gG0AUFVX3lxTE9DX01IRnlUdFJPNjNuRU1hX0JsbW5VVGVUN3p6SHI5RG1kTVRoWld0cGwxMVVLaDA4WFJ1WkR6Vm5vSmJsaW90SHJsdEZPVUFaX1BXWVVHZWNLN3prYmM1WmoxdENOMjg0RWV0MEVLR3laN3RldXR4cHE4VDBBVkQ0d3pybmtjZ2NORlFkTnphQjlaM0ZGYmtvSG1ISjRxWFh3VWFhdF9sakJrU19ScTVEVHpfdA?oc=5",
+      "source": "Consultancy.co.za",
+      "published": "2026-11-17T20:14:27Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -1368,78 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=925e666b4367461e96fdfe14c959ef16"
-    },
-    {
-      "id": "5084113153afc06d831244",
-      "title": "YouTube found a new way to inflate view counts",
-      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more \"complete picture\" of how people are using its platform. [&#8230;]",
-      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
-      "source": "The Verge",
-      "published": "2026-11-17T17:50:22Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "02cb24133730ffc804bddf",
-      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
-      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That's one [&#8230;]",
-      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-17T17:41:22Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d0dcfaad47207ee375ea0f",
-      "title": "T. ROWE PRICE EXPERTS SHARE 2027 OUTLOOK FOR GLOBAL FINANCIAL MARKETS",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQU9JYlZONTBEZkl3VTFETVQ2YWUwbkN3QVo3QWRYbEk4UW03SkJ3NjdkYXh1alFPUml2ZkN0QzlxazI3UzB5MDdsX2JiSW5qS3RYa3VMSEprU0JTMERhMm9XQVROYmFoN2p4LUUwQlhpWVVTWW50U2hoSy0xNUlXeTBqRlF6M1hUMjFpM1BFWjN1TWFaZFVJaS1HQ0ZxRzJRM0xuV29n?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-17T17:39:20Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d304a4af2abb865d247801",
-      "title": "EU sets out vision for sport in Europe",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GbHZ6bGFqbWs0Y2pOTGFIOVFkaDdQQWU5ZFFKWnVWZTRsNEhWYUozMFQxUFNDU2xoTnYtUm1GdVhMc05QMGZYSWIxbEg3MUZpc3BvdC1lczU1ZzI1elFvanlTOW5paEEwR3Azci1HeGhmZUdReHl3d1poanJNdw?oc=5",
-      "source": "EUbusiness.com",
-      "published": "2026-11-17T17:37:11Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e75ac9bc5503120b9ed653",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T17:37:04Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg"
-    },
-    {
-      "id": "718faf12489b51566a1c8b",
-      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-      "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company on Thursday. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the compa",
-      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-      "source": "The Guardian",
-      "published": "2026-11-17T17:35:26Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=822134c1345fd3a4020820c610db8b6e"
     }
   ],
   "countries": [
