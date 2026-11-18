@@ -1,10 +1,70 @@
 {
-  "last_updated": "2026-11-18T20:39:31.913915Z",
+  "last_updated": "2026-11-18T21:39:15.379738Z",
   "articles": [
     {
+      "id": "734339654a32d098c3aef7",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T21:34:13Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305757563-Medium.jpeg?w=594"
+    },
+    {
+      "id": "4546d2f009c0f33e9f2b93",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "summary": "\"[China knows] it makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T21:31:21Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800"
+    },
+    {
+      "id": "7d3a781439efe00a79c7dd",
+      "title": "Absolute Batman can save DC Studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "source": "The Verge",
+      "published": "2026-11-18T21:20:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PowHeader.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "29e3d15185749f88c47ab9",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-18T21:13:06Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
+    },
+    {
+      "id": "22a5d45dea7189c4d3a174",
+      "title": "Blavatnik Acquires $5B SpaceX Stake, Strengthens Finance Portfolio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2FZbGcyT3BjS1ZJeVNFZk5sTzk3YXJQTTJOTTU3dkVwOXQ1V1lrTW4tR19lelZPQUphZjJwRWo2NGJHakRzX1FlN3VrdWZUM2lxRURfYS1uTjZ5dzljUWhxaTk4RXRUZW5FaDFEVHRrc2kyQmIzTkZMeTJpWGhXTE5uR2VBTTl1UXRkZjRMeFhqc0ZWeEZBbVhpXzdtYU1VdFlJ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T20:59:43Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f9ed3e7bd8190f5b9066a8",
-      "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-      "summary": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operatio",
+      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history o",
       "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
       "source": "The Guardian",
       "published": "2026-11-18T20:24:19Z",
@@ -42,6 +102,18 @@
       "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
       "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
       "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T20:07:01Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594"
+    },
+    {
+      "id": "388adedcc584c5bf9c69ea",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
       "source": "TechCrunch",
       "published": "2026-11-18T20:07:01Z",
       "category": "Technology",
@@ -142,6 +214,18 @@
       "published": "2026-11-18T19:23:35Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "018df92e42051d032c7617",
+      "title": "European Commission assumes sanctions against Russia will remain in place until end of 2028 in economic forecast — Experts Club",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSVAtZ2hQTEpLMWFfNmRYTjRnUHVIOG1XRE95STZvZFdSeTc3M2hhbnVydVF0aTVOVFhWY082RjJZREYtTzl0YUN5dVhzTXNXVkVyU3lrWmJCOTMwUWN1OXBwUklHT3RNM3hJUHg2YkdkYmxUWGVQUlZLS05Cc19EengyTEg5QS1TQVlNOTMwZFhERWV0VzlrMk11Z3R4UmRvQUFEYm5GQ0E5ZnBVV1dwc2sza3pLZFVqWWM4M2NRQVQ3bWtwQURsNGhVdDJzZlJQSmVMYndtWVZ2R1d0em4zSHAyaEZGdThsTGo0VkFFNA?oc=5",
+      "source": "Open4business.com.ua.",
+      "published": "2026-11-18T19:16:03Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -386,18 +470,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "id": "29e3d15185749f88c47ab9",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-18T17:34:23Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
-    },
-    {
       "id": "663072a237570232a4eced",
       "title": "More banks say customers using AI agents are on their own — even if they get hacked",
       "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
@@ -444,6 +516,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=183e876e9b972c187b3a87e88f508aab"
+    },
+    {
+      "id": "131d5a7ea94d17af91ef8f",
+      "title": "Asian Battery and EV Suppliers Restructure Ownership Under USMCA",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0tudVppTjhzUHJMZUktUGVVZUg3R1BSNUE1VXo5YlFxMHpGZnlhcGRSY09kTktDWVNZbkJBYk9oVUlxSkVYSEkzWGFoTWRrVlpGbEl2TmV4RXBCd2JrSHpZb09oZTlrcjZoM25tUkNWTmtjNUhWMlVranNSUy1MUjZqNWtYTnpFUDRLZU1fWWZ3UDNPd08xTmswUTVmRDh5TnlpdGc0RmFtWmRxMmV1UzdYbFp2UkU1LWc?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-18T17:13:12Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "fd75af5b9e2ef104b4d0d4",
@@ -619,6 +703,18 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVjM4TE1zSndnTUJ1bG9SU2REWDUyTmdVODBpUzU3SFBjc1RkUFJlX0xzTE4yd3FWYllDWGI1T043NXB0NHlyTnNzTVVDNzBWVW41bmpUUXF3cWNmWkIweDdRYU1YdE9nWUxpaDhfdC1lZ1Q0X3FVMlc5aG5hV21SVl9tQjZVMlJLblFxLWdFZlFsU2dqVlJWUjRGeFhDcWllYmYweGJVZ2E3NEpFN2xmOVNjSDJWYzlYZmRmdDNxRzBmVjBzRFZlX2JvNGEwRm5iUnpnSDhfQmJNMkppUklVdmE2bHZwZw?oc=5",
       "source": "EIN News",
+      "published": "2026-11-18T16:29:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6dee49b5630f4917e6d881",
+      "title": "Clapper Ranked Number 119th Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXE5eG5oRkFjUmpzVGxpa2NaaUY2b2lmZ1lXOVpJT0trWmVTNzd3MUNmam0xVWgySXpmLXJtYVNHaGtTUHpNbDJiaWpwQkEzYUxCS1plRm5veTF3cUN5T01NdjQ1VExablpSYWRLUENuQkZ4bFN2Ti1mMVR3RlkyMVF1bENZV0NnZWRVR2d3MkpBRTZxbUMwb0tSYkRSSjhCUkw2MkxNa2VqRzRWYjd0RVVCM0tRRkZiZzU3bDlQbnBDQnFtdnJYS2JZbTJSMDB4c2ZCLVNDSEhJcXpudDVxLVl3eGFZNkRYLXA1LQ?oc=5",
+      "source": "EIN Presswire",
       "published": "2026-11-18T16:29:00Z",
       "category": "World",
       "topic": "Americas",
@@ -1154,6 +1250,18 @@
       "image": ""
     },
     {
+      "id": "7a0eb6ab0e1028658772ba",
+      "title": "Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNCbEpERmpHdVJoY0h6eVo0X3JPRmlwaUFtYWFkbG41eVpCMEo1M1RwVTJheXlvSHJKY295bFkyOXVOdktyNFJTaG5XcUt0eUsxTFAtM3F2U25ncndzSV9icGdHb3hESlRIVkR5bHRDQnI4OXQweWZzRUJTV0N2NlFHeFlLS281bmVkRUNPZ0pIbzNTcE5zNTVtLTZQQ3NrSkxzUEo1UjdNVE9nZ0hMR29DRkVwR2IyZ0dPVDZ0RmZLMWZ5c2RVVw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-18T13:50:10Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "4854ad0ec2532d59e4491c",
       "title": "African Development Bank Group approves €20 million for low-carbon cement complex in Côte d’Ivoire",
       "summary": "",
@@ -1332,114 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "id": "797ff848f5f257b4597c30",
-      "title": "Xinhua Headlines-Xi Focus: Xi calls for jointly building Asia-Pacific community to prosper together",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjSG4yT29IbUttMzlCQllkdTBoZGZnTG1QN0RzWjM5MG1XbVpDX0NUZTFwVFdfc3ZIRGRuaE5WYmZvZW8yM29FLXhjTVlZU2c4eEk3VkEtTlBzYzBZaVgyV3laUVpfdzM3OUxVcVZ0NDB3cDdBT2pJMEFRS1M?oc=5",
-      "source": "Xinhua",
-      "published": "2026-11-18T13:01:47Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fcf93c416202eb38a45dd0",
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "source": "The Verge",
-      "published": "2026-11-18T13:01:05Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "003c3f3943d021efd15f9a",
-      "title": "LX Pantos Americas Marks New Chapter in Midwest Growth with Chicago Office Opening",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHZ3ZPRm5ZVm1ySjFZSlVJTnFCTlR5cnVPQ21lbXdhSUhwRmkySnc2QU1VaHFWcWdJR1R1VmEycTBCaGZ1Z2JHQ1dXczV1b0JXZ2VDZWR0MHY?oc=5",
-      "source": "Taiwan News",
-      "published": "2026-11-18T13:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d69009058813819187ac6a",
-      "title": "TeleData Accelerates XGS-PON Service Rollout in Germany and Unifies its Network with Harmonic's cOS Broadband Platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObUZCb1Rhci00WUxHa0lXVVEwV2xDdmpPMjYzdnBiXzhZTHQxTDRnV3Q0MVBUU3hROVhJVWxZODlESEJhM0IzLUVXMkdXQlJyUlh1SFZSOTJDZUt3WTdjNjgza3prMW9XRC1KM1cyalg0clBKb0VkelM5MmZSeHJxbGxndGd6VTJaT0JqRFp6Q1d4WDJGS0J4cHRHZWp6WDg3amk3cHg1TG10UFlaVm9TWlRHVlR2YjJNbkdPUlZhSTA3RjVWTjMzMWhXVDN5M3dMOGNHbE9ObHdpZWxacWxaMEdSZGJUZTJjVGhfVHZKakdvVUNPbWRaSTktZVVHMkg2MWhJN3hVeHp0eGs?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-18T13:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "92c4470851babd486be209",
-      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T13:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024"
-    },
-    {
-      "id": "42aeea53412e17ea9c0c5b",
-      "title": "TeleData Accelerates XGS-PON Service Rollout in Germany and Unifies its Network with Harmonic's cOS Broadband Platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX0RVbERqdWxINzZOTFE5a1AxUGJMaWRuQkllZkVhYXdiRDR6MUkwWkU4ajNjSW4xWG5ka0QzMzVrck9rSDhsM2w0T3NweUJPUHpRZXFxVk1Fa3o3RldFaHozdzE2NFRVdzM4eFFOMzBOY242MTM2ajNORUltNWxiek1tUWdlRElwR1dyMUhURFpMV0daWHRpLWJrV3loU05Xa0k5RjM4UHNWQkROUTEzVWlJNEMzSmVjUDNfUGQ1bE5jZjR1NGEtckVRUDJPRzlOSEFob3BBN1NPOVk3WVdjLTZfUFZnbkgtZnFHMzhwRHZRc3Q3UTA4NGxZbXpRc1oxLUZDMkR1ZEdLQ3c?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-18T13:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6cf610fb86d3ab64d4b679",
-      "title": "Einride Revenue Surges 27% in Q3 with New Customer Additions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUi1pNVdGV0NxRVh3akZ3U090WmVkU0YtMzh5bUZBYkxqdzdSbXNnb1U4LXhyOTRRenJMMk5KSXpPVmEyRW4zSWQ1ZjhrT25PaThEN2dJdGVHeDZWN2dLVjFlSjVZZGYxSjVEc3NaNTc5bEZ4ZnpsdG1vMFRvRTBGVXo4MVJaUGpjVXdnZFBMS2o4MURkdTl1c19pZFdWbmtL?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T12:59:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3a19370589756425660f5e",
-      "title": "Aer Lingus details premium economy plans for revamped Airbus A330s",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFg2YjF5ZUZQZ2NDeVhqNFdwRXF0NGRvLTZZaExkSGF2Rm1ZVDQwRXV4Q1RCa2NpN3FvNGc1TjlMcmVTSGxCTHBfbXVEMDdXV3BPMVV6WWlKSDBqVWxOQTh4cWstYWc5VVZYNFYyZkQ4R2hiYnNYQmJBVHU5WGxOanNtUktWMGJyTWpvZHJIUTY3MWg3TWdFWGdXUi1sRGo3SVhFTkpWZmRsRU9iaERfc09zZw?oc=5",
-      "source": "FlightGlobal",
-      "published": "2026-11-18T12:47:20Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bf0d58421bd1b172e74573",
-      "title": "ZIM Reports Industry Leading Third Quarter 2026 Profitability, Driven by Favorable Market Conditions and Focused Strategic Execution",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQekhoX2FHVE1tWXA4dERONVpTTGppYk9jaWV5amNzMnJwbU1PQUJfSGFKTVhHbEJXUTN5NnFUQzdkUFlWc2N2WW1LTktpeUFvbEVDYVFwcmFqeGw1Y0d3WndzT2VVWlN3UTBzRnU3RjdnOEV5Qk1XdDVaNjRFS2dYUFNRVHEzVWdicXhyRWp0MExwSkR6RzJ3Z3dFZHAzV1NGNWVKdkhVTW5GWFZEY2FpQUpYaVZETlRRdmh5WGlYZTNJTlBTU1N2dmF3RE45YnlIQWpEbkU0U3VYZmZxdy1SOG5ES2JTZGhieG15cFB2MUtIX2tJOFFaTi1wR2FvalZOeVFXXzQwdHlnOG10ZnVjLWpoUlVRYjJISUE?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-18T12:46:14Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [

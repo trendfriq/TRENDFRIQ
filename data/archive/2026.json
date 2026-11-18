@@ -1,5 +1,53 @@
 [
   {
+    "id": "734339654a32d098c3aef7",
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T21:34:13Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305757563-Medium.jpeg?w=594"
+  },
+  {
+    "id": "4546d2f009c0f33e9f2b93",
+    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "summary": "\"[China knows] it makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T21:31:21Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800"
+  },
+  {
+    "id": "7d3a781439efe00a79c7dd",
+    "title": "Absolute Batman can save DC Studios",
+    "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+    "source": "The Verge",
+    "published": "2026-11-18T21:20:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PowHeader.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "22a5d45dea7189c4d3a174",
+    "title": "Blavatnik Acquires $5B SpaceX Stake, Strengthens Finance Portfolio",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2FZbGcyT3BjS1ZJeVNFZk5sTzk3YXJQTTJOTTU3dkVwOXQ1V1lrTW4tR19lelZPQUphZjJwRWo2NGJHakRzX1FlN3VrdWZUM2lxRURfYS1uTjZ5dzljUWhxaTk4RXRUZW5FaDFEVHRrc2kyQmIzTkZMeTJpWGhXTE5uR2VBTTl1UXRkZjRMeFhqc0ZWeEZBbVhpXzdtYU1VdFlJ?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-18T20:59:43Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "f9ed3e7bd8190f5b9066a8",
     "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
     "summary": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operatio",
@@ -28,6 +76,18 @@
     "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
     "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
     "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T20:07:01Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594"
+  },
+  {
+    "id": "388adedcc584c5bf9c69ea",
+    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
     "source": "TechCrunch",
     "published": "2026-11-18T20:07:01Z",
     "category": "Technology",
@@ -128,6 +188,18 @@
     "published": "2026-11-18T19:23:35Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "018df92e42051d032c7617",
+    "title": "European Commission assumes sanctions against Russia will remain in place until end of 2028 in economic forecast — Experts Club",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSVAtZ2hQTEpLMWFfNmRYTjRnUHVIOG1XRE95STZvZFdSeTc3M2hhbnVydVF0aTVOVFhWY082RjJZREYtTzl0YUN5dVhzTXNXVkVyU3lrWmJCOTMwUWN1OXBwUklHT3RNM3hJUHg2YkdkYmxUWGVQUlZLS05Cc19EengyTEg5QS1TQVlNOTMwZFhERWV0VzlrMk11Z3R4UmRvQUFEYm5GQ0E5ZnBVV1dwc2sza3pLZFVqWWM4M2NRQVQ3bWtwQURsNGhVdDJzZlJQSmVMYndtWVZ2R1d0em4zSHAyaEZGdThsTGo0VkFFNA?oc=5",
+    "source": "Open4business.com.ua.",
+    "published": "2026-11-18T19:16:03Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -372,6 +444,18 @@
     "image": ""
   },
   {
+    "id": "131d5a7ea94d17af91ef8f",
+    "title": "Asian Battery and EV Suppliers Restructure Ownership Under USMCA",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0tudVppTjhzUHJMZUktUGVVZUg3R1BSNUE1VXo5YlFxMHpGZnlhcGRSY09kTktDWVNZbkJBYk9oVUlxSkVYSEkzWGFoTWRrVlpGbEl2TmV4RXBCd2JrSHpZb09oZTlrcjZoM25tUkNWTmtjNUhWMlVranNSUy1MUjZqNWtYTnpFUDRLZU1fWWZ3UDNPd08xTmswUTVmRDh5TnlpdGc0RmFtWmRxMmV1UzdYbFp2UkU1LWc?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-18T17:13:12Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "fd75af5b9e2ef104b4d0d4",
     "title": "European business leaders back growth despite economic uncertainty as Azets launches international Future of Finance report",
     "summary": "",
@@ -557,6 +641,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVjM4TE1zSndnTUJ1bG9SU2REWDUyTmdVODBpUzU3SFBjc1RkUFJlX0xzTE4yd3FWYllDWGI1T043NXB0NHlyTnNzTVVDNzBWVW41bmpUUXF3cWNmWkIweDdRYU1YdE9nWUxpaDhfdC1lZ1Q0X3FVMlc5aG5hV21SVl9tQjZVMlJLblFxLWdFZlFsU2dqVlJWUjRGeFhDcWllYmYweGJVZ2E3NEpFN2xmOVNjSDJWYzlYZmRmdDNxRzBmVjBzRFZlX2JvNGEwRm5iUnpnSDhfQmJNMkppUklVdmE2bHZwZw?oc=5",
     "source": "EIN News",
+    "published": "2026-11-18T16:29:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6dee49b5630f4917e6d881",
+    "title": "Clapper Ranked Number 119th Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXE5eG5oRkFjUmpzVGxpa2NaaUY2b2lmZ1lXOVpJT0trWmVTNzd3MUNmam0xVWgySXpmLXJtYVNHaGtTUHpNbDJiaWpwQkEzYUxCS1plRm5veTF3cUN5T01NdjQ1VExablpSYWRLUENuQkZ4bFN2Ti1mMVR3RlkyMVF1bENZV0NnZWRVR2d3MkpBRTZxbUMwb0tSYkRSSjhCUkw2MkxNa2VqRzRWYjd0RVVCM0tRRkZiZzU3bDlQbnBDQnFtdnJYS2JZbTJSMDB4c2ZCLVNDSEhJcXpudDVxLVl3eGFZNkRYLXA1LQ?oc=5",
+    "source": "EIN Presswire",
     "published": "2026-11-18T16:29:00Z",
     "category": "World",
     "topic": "Americas",
@@ -1088,6 +1184,18 @@
     "published": "2026-11-18T13:50:43Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7a0eb6ab0e1028658772ba",
+    "title": "Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNCbEpERmpHdVJoY0h6eVo0X3JPRmlwaUFtYWFkbG41eVpCMEo1M1RwVTJheXlvSHJKY295bFkyOXVOdktyNFJTaG5XcUt0eUsxTFAtM3F2U25ncndzSV9icGdHb3hESlRIVkR5bHRDQnI4OXQweWZzRUJTV0N2NlFHeFlLS281bmVkRUNPZ0pIbzNTcE5zNTVtLTZQQ3NrSkxzUEo1UjdNVE9nZ0hMR29DRkVwR2IyZ0dPVDZ0RmZLMWZ5c2RVVw?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-18T13:50:10Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -4128,6 +4236,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25211546/Waymo_One_I_PACE_on_Freeway_.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "691afb9935db59c511572f",
+    "title": "Building Tech Ecosystems Through Trust: Syscom",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0Z2X2J2M2kxZVAxMF9qdlNwV0l5MjlFSnpVUV9mRXN0NHJtamNKYUFhYWJvVmtzOGJKSTJfZDc3Ty00VlRmVmJCQmt4cF9pdlJ4Zm5fclczdkFKUGJ6cHVWSVdMbGNBTE5XSF9rZENjaU9EMmxXNTdHclBFdDM3SmlMUnJQQmdIVk05aW1vMHdDUmtxSTdn?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-17T19:37:44Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6c9f46dff1e3505bdda6a0",
     "title": "Dombrovskis downplays French debt crisis but urges fiscal restraint",
     "summary": "",
@@ -4318,6 +4438,18 @@
     "topic": "BBC Business",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg"
+  },
+  {
+    "id": "e0629b996279405da30387",
+    "title": "Daily: Tech sell-off puts AI investment case to the test",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmR2RGxKWEcxdWttNENyMkZnYTdka2xubkVpUmtCMEJDNWFjUWhDSndPdmVfSTJmcFR1elNFaEZadnNVUzlWWFR6Si1mRU1GVDZ3ZU5BeklKVmh6S1VndENTRlphWlhpcElQaG9Fd0M0STVRdXh1NmVfaElZM1FoS2ZUYXhtSjZUeW5aaWFIRl9yaWRsX3lWVGhYYnZPWUVudHNvLWRGeWkzOGxUeWRkVEhxM1c5S0tibnpsU18yVQ?oc=5",
+    "source": "UBS",
+    "published": "2026-11-17T18:37:12Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "8679f529bddfabe0ea094d",
@@ -7220,6 +7352,18 @@
     "published": "2026-11-17T08:04:21Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5f64e62c57c955b53afd83",
+    "title": "Q3 earnings highs and lows: Stifel vs the rest of the investment banking & brokerage stocks",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT01od2ZTcmM5SHR1ajVzRmktTC01SDBkUXY5aktZQ2FBOVo0ZUlkZW5Fdm8tNE5MSG55MnFhOUVsRkxzekpVVHBvZi1XOTctNm5CYm9CZnctRER6ZkZ4dEozNWM3a0tESXRMY2k1TTdjNE9pWjE2aHdIODBtMFpqQkJNRWFiNHBDMENFUk5vVGVyNGd5QlkxWFAteVBLUno2Z1d5N1pqR2x1ZlBqV25hbTZ6b1p6UXozT0ZVbzJBYUxTaUZsQlgtS29JMWpQSmhqdEUzRmxNNEU1VkstSXBjOA?oc=5",
+    "source": "StockStory",
+    "published": "2026-11-17T08:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
