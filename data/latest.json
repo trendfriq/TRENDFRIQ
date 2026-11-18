@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-18T01:53:36.718470Z",
+  "last_updated": "2026-11-18T02:52:48.388133Z",
   "articles": [
+    {
+      "id": "c158bb1d5e70f1fb27f905",
+      "title": "Southeast Asia eyes deeper cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yVDhWN05qVE5MZ21QLVJYUlZtOV9PMkI5dnFDT2FBdGxwUHR2eC1SWkcxWUFScFhGSTQ0TGJrbUJZZTRxWE5YOFJtdzRoek5NYnRXdVVGbjNJWE0xX1RmT2R6TVI5SDR4OEswMkJWYWtxSG41WnNsYzlXUHFnZw?oc=5",
+      "source": "China Daily",
+      "published": "2026-11-18T02:44:27Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e2ba4047b138bc99f2aa8e",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-18T02:40:45Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "b31874a9e9cbfb51192de9",
+      "title": "APEC Economic Leaders’ Meeting opens in Shenzhen as Asia-Pacific leaders gather to advance regional prosperity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3BDRzJxbE52cFRhelpKMTZaS3BzeDN0OTV3RkFxSW1TcXJnYnU4d2lac09OVDI0bmJMQ2Vkcng2QlV2bWxqcVdFbnhFdTEyaHRUcHphd0hGREFwZGNjdllEMlRaWFE2Q1BoTnJyQ3NodThPNmU4enhmQmJZc3UwSVl5aDAyaU5rNEVvZWRLeEk5NGcydEtqQ2N3X2dNMWhPd0J4SnJWdVduU3dHV0ltZlVPLThmcWRWbmNURTVHUWFGTDVZRk9pZW5Cdkc2YjFLNFRBZWdVSUNxSTFrT3lSV0tDMA?oc=5",
+      "source": "Khmer Times",
+      "published": "2026-11-18T02:36:28Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a187d6ab1d14be1da9c100",
+      "title": "Asia Stocks Rebound on Nvidia Earnings, Eyes on Anthropic IPO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmtTZ3lUdk92cnNzbnU3UVNZZktxZnRXVlVyRUF5V3FBMHdxY1VXd1ZESWhIOVg1RXhxTHBaejN6bHVxcEVpRnVtaHJjdUYtejg2OFFGQlUwbEZJbXVLNVZqamRMT0JOYXpuS1RDYmJfZ1k4RDdNMTltTDhNN0w0cDBDY1FzNkFxakFIZ3dYbUNENEYzMUdvT3kwdTk1UQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T01:49:48Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "b330164a6f0ccccf334136",
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
@@ -14,6 +62,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771"
     },
     {
+      "id": "0c8d7d555acd42459d2056",
+      "title": "APEC ties fuel regional integration, business leaders say",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkJvY0d2QVRFRE1ydnVET2V5LW91TUtrTm5YV0tucEJ2MHFOLXJPTWgxZmFYQVBNWGRlSEdTYUk3R3NUZENKaXFRT2xON2VkR2g1bG9CT3lMZE9YV2ptMXIwVXRPZm9NbklDdVZQRWNtdkVhX1RoRUFVNDUxT3N2LWo2eDIzaklCLUE?oc=5",
+      "source": "Asia News Network",
+      "published": "2026-11-18T01:44:14Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "58ccec08be884d74fb76d7",
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
@@ -24,6 +84,42 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "216cf2c9b5faee36e15e4d",
+      "title": "Nigeria, Africa lose $500bn yearly to negative narratives, misinformation — Oyedele",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHBDVFVPMDRsM1loVnZWWGNxRzIwQlNSY1huTi1kN2cwSDNCYWljeE5pUk5Za2FBSFBZSVFfS2RQYndNeFhpMGxNRkZwMXZ3WjdBY2RjREJGdEV5ald3S1FhbVg4M3dnVUVXcFZ2YXZ5bnZKdVoycHN5WlZ6MldnaEdEcTVfT09BT0dJQXYzQnpWMTFXWXpVNDRtbjFGdTU3?oc=5",
+      "source": "The Sun Nigeria",
+      "published": "2026-11-18T01:02:05Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c2759a2ecbc1fd890b8d69",
+      "title": "Economic Security and the New World Order",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85Q2h4cV9qcklZTW9jZk42U041NklHYXI1bk16T2pjZ2xWR0dxcmcteU9rTUZpdHFCdGdvM2QxbWZlNzRMaEh2Y2RuMDQwcTN4YWtqSm1HTkZQdmtoTVdTR1RNMHdJeGEzNDFRTko1RENPYjFCQ1Fqcg?oc=5",
+      "source": "Stanford Graduate School of Business",
+      "published": "2026-11-18T00:53:51Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "82a9925cb31d2d4408941d",
+      "title": "Enhanced services trade expected to bolster cross-border businesses",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yTHRXVG55QjZUcng4WUh6bU51TzBMNmRXdGdYc2FZMjhtUkc3RXNUMUs3cmZGNVJuM0xHeEI3X3AybWNfYUc1R1NUT2RZMzZwUUxncHB0dzQ4UXBOdlpfT0JXenVpYU14eVZsSldFRTJ6aGxpd1NaUkpuWmZ4dw?oc=5",
+      "source": "China Daily",
+      "published": "2026-11-18T00:48:46Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ceeb5bf897d71eb6e29393",
@@ -110,6 +206,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "247bd974268f68c74969d4",
+      "title": "How Tech Launch Arizona turns research into reality",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGtUR0l1ZzMzNlVHRFFjMnNEdE9hSlp5NGZPRWRqUVhDWDBQeHR6bXFHcDY5UHZsS0gzU1JTeGJOeF9BSVlIRHhpckZ3UlJXUnRBcW9OSDYtZDNMZWdGSEUwdW4tN04wcVNKZ2dPZFRYUUktWVc5MDk2S0hxTFVwY1pfN0xXSkp2Z1pWWXdB?oc=5",
+      "source": "University of Arizona News",
+      "published": "2026-11-17T23:38:31Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9818d892a2fa57697d36b1",
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
       "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
@@ -146,6 +254,18 @@
       "image": ""
     },
     {
+      "id": "09cf47f3789247888714a5",
+      "title": "Humana falls 3.89% in Tuesday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14NzlocHpWa3ppMWRMOGJBUkhkVVpKZ0c3aFNXX0QtM0xjOHNMcDFfMlhqbE41Y1pwbzN6cWZCWHZLQ0wxUjZ1N0FJSTRkU1c0b0VwV1pNVzNDTmsxN2JsV1l1WWU1TkFmeVJaT2Qxb20yV3cwak1J?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-17T23:15:10Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ed3338948cbef305c8339b",
       "title": "Shining bright in Miami",
       "summary": "",
@@ -168,6 +288,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+    },
+    {
+      "id": "2d20c91af3ce8bf68240c3",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-17T23:02:12Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "443b14ebfbfb504a103e2a",
@@ -338,6 +470,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "6c4e0a49d719cc3948eb73",
+      "title": "Trading Day: AI trade unwind continues, but Nvidia beats",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2ZrUktoVWQtYzQtd2l5djM3SDJoaUNkQ0tOU3hoaUhCWGxVejNQWElMVDA1YmZqYXQtWmZkWHpxRjFGQWYtT3lIaVNmUllaMG5Dd3Q0eGs2VWhLU2xJUzN4Q2ZFa3pPQVNENmlDNFRFR2JtcVR2SXFyZHZJdG1sdVQyMllPU1VpS2t3LVZrSmRKaUdPSkpn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-17T22:03:40Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b1a8739f97ed0dc6698827",
       "title": "USMCA Review and Tariffs Reshape Mexican Auto Retail Allocation",
       "summary": "",
@@ -459,7 +603,7 @@
     },
     {
       "id": "6b14f2b10ce295bfe05e70",
-      "title": "Nvidia Stock Rises as Earnings, Outlook Top Wall Street Expectations",
+      "title": "Nvidia’s Third-Quarter Earnings, Outlook Top Wall Street Expectations",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd09QMUxzbVhUclZQOE5JTDY0VjRCUU80amJ3S0lHZnd2MERNWkthb0VHY0JpLWw5Q2xwTXM1ZlBGRERERlFVeXlxeUtTTFU1YzNuVS1UeEV1Y21TZTVrQkZidTF3N1NBOWhmZjFrTlhUNjNVSnBJVmcyRVNvQ256cTRPX091MFRGVy11bjVaTG16QWRJTjVic1VNZ3NfZnFrWmo0bVk1bW5jMWtGTXVyR3BVUlJHRzA1ZHlCZmR3?oc=5",
       "source": "Investopedia",
@@ -552,6 +696,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
+    },
+    {
+      "id": "ea9e655445ee0fb75ec297",
+      "title": "Nvidia chair says the board will not rehire Huang as CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-17T21:24:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "22dc56803804f78f7edb2f",
@@ -660,6 +816,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7475807f0f10bfc5154fe3",
+      "title": "Africa's largest economy and Canada turn to China as the U.S . pushes them, but Beijing pulls Ottawa from Trump's grip with C$400 million in tariff relief",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPclBWZU84YkZreGhyX3dTRHJCdDNnd3c3VWMwWDk1SFBjNzhkU1BVRDBTVkU1N28tSDNWa1FSdms2TzhSZjVKVHh5bXNZai1ZaGN0NHA5NmpkdXhFckRQN0RGekUzTEFiWnlUalNIMl9nQmJ3c1Q2N1RmYlFhczFGTmthNm03VmRvNXFhTEo3NnYxYWI1RXAwX2VCUGNubFctU05ZSGlXVUVxTDB2bHVMbHdMbnFhUHRseV96b0RPODJLUmNYS0pNbHFBUGFKRmtOc2gwWEU0MXQ?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-17T20:45:34Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "cb71482663a7e5488f9e34",
@@ -1142,6 +1310,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "id": "02d388cd6991b8dbe68084",
+      "title": "Global poverty: Facts, FAQs, and how to help",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oNklJWlRJNXNsQXdwcW81WGF0OUpnYlFhUEpSUnlDQWEyOUNhamkwV1VQN09kOUotTFpOSTR5OTFHdFRiSXRabGhsQ1l2dExnOGkxbldiMy1kUW96R1BmQm8wbEFjc2xLQm1FbnMyY3VrMWN4SC10V1ppbXhCdw?oc=5",
+      "source": "World Vision",
+      "published": "2026-11-17T18:16:03Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ecf8c81cb5048aa02c0809",
       "title": "As decision model use skyrockets, is customization the next frontier?",
       "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
@@ -1260,186 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=822134c1345fd3a4020820c610db8b6e"
-    },
-    {
-      "id": "e17e376e57102864b346f6",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T17:32:25Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
-    },
-    {
-      "id": "e2b0d0ddd65f33f27f647e",
-      "title": "T. ROWE PRICE EXPERTS SHARE 2027 OUTLOOK FOR GLOBAL FINANCIAL MARKETS",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEZBb3ZQNnZ1QWlmbmMtUFdYX2hCSnJKSUZRYnFRTDFlWDBsalNXdGFZOWZQWjhrbGJ3MnpMX2V3SVlVNW4tM0NyS2JKOGlrMFFUMGd4NWgzX1ZKYnJBUDNKaERFV1hSSTNrRFZsSjI2bk8xVzJvV2lKYXRlTDE2WU1nb0JLeW1jZmIzTXZ3aWNBNk9lSkszenlkZEZpRGhLajBzaU5VdUNpOUxJbzktcTdGTE5sb0pnS3htQzBRR2lTVExYUkdIbQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-17T17:30:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "74069ef0ba87598269ee9b",
-      "title": "T. ROWE PRICE EXPERTS SHARE 2027 OUTLOOK FOR GLOBAL FINANCIAL MARKETS",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGRhRHVWRWI5Z2JYNWVjTlF5NVdNVGhvRXRvMWdjRHU4UmxBeVJmbDQ1Q1VLakM4VmlSZmxXSEhFQ25EUS1Ma0VFc2RFVVRhSDhrQmhFTUMzc3ZpY0RDLXNsN2N5eFNyRTlycEM1U2JhUzVXWUtPbHQ0TWdlalNZaTJ2N3ExelVYcXgzRk9xWnBGTTc1dnF6NG5nX2xnbVBLRzRRUjI4NGpFS0h6aDg3OU5fX1RGVW14SUxhMDFzSmMwUQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-17T17:30:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eb71ae4dee79bee5de3f20",
-      "title": "Perplexity Launches Multiagent to Coordinate Frontier AI Models",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUp6dzU2YnBWc2pZbzJjcHY3Si1FaHVyTUdUbFRYd2xVcHB1djVWaUpHR3dhQTRDcl8wWm1jTWdxN19uMDNpZFpvSVdscjZkbkVUdDhiMHl5ZVd6Z2Y2S2NrbU5MUXdtdlJGb25UemhuRjlqRGxOU2dSb3pvSVZPYUFLX2EtWnUzN29rNHpn?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-17T17:29:02Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4b5e1e57fb64b0d90c2fcf",
-      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2dXTHVZWHJEblJYalFkOE9VeVRXeEpIQXNQdHc2RnVaOGhSLVlZMFJzQkJvcHEtQVBMT0dSYzhlcGV1Mld0SzlyTG5fbHpmX1h4UHhyNjBkbjBkODRRQVJjODRUNUVzMEZNTTNSVzdSaEM1eWh0ZjF2VVYtMHZZRVBFWHJ5YVVpWVduQ0Mxc28?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-17T17:28:57Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8e6f210f012871d35258f3",
-      "title": "EBRD chief highlights Jordan’s investment potential ahead of joint EU conference",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnhURzJ0ZkEyNDFaMjVhV3pqdjNyMVQ0NlgwSGVhYmdGMkNOMDFIUExLOFVhbUhaZXZOY3VfTTBLT2VHUFZnY1ZhSGtzazZOWndmdFZzT0ZYbFA3bkc5UUpJbmtRN3RFcEhmS0JiMnRMVXVHWEpFUWM3LTA3T1ZueloxRk5kYXA3Qk9jNi01aTFNcFpmSklZS3RMdnN0UzVLclExZmM5TExucWh1dXlYN3B3dw?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "published": "2026-11-17T17:27:12Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "083b10a58a1ef909eaa1f8",
-      "title": "Populist era cracks under the weight of living costs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHplOU03QTNWVVkycnVqNEQzOS1EYWdfVEU0SDNmMFR5Zm56TTdPMFhtd2FWdDh5c0dnWjJHd1RLREdyRG5YYjB5dEZVNUhtYjdLUGN3UzJhWlF5ZVVDdzB3LUpyWEd2ajVQcmplOW1oeE12VlhNaFYzejB3aDZ6NXR0cFhjYmpldGxDWXVvenJpVWQxMkNsSXg3dDBiaWxIQVVzMjlqVXgxbzRrY1lXc202TVNxVkxl?oc=5",
-      "source": "Daily Maverick",
-      "published": "2026-11-17T17:25:17Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "597ba1940b56481d206d4a",
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T17:20:41Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1670871943.jpg?resize=1200,675"
-    },
-    {
-      "id": "4c41059aab1950cda6a796",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T17:19:57Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg"
-    },
-    {
-      "id": "c83fbb08e25b20b633341d",
-      "title": "Costa Rican journalist shot dead in first such killing in 25 years",
-      "summary": "Camilo Rodriguez’s death comes as the country grapples with a surge in drug violence The Costa Rican journalist Camilo Rodríguez, who gained prominence for publishing allegations against ⁠suspected drug traffickers and politicians, was shot dead on Monday, authorities said. The first known killing of a journalist ⁠in Costa Rica in ⁠25 years, ​Rodriguez’s dea",
-      "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
-      "source": "The Guardian",
-      "published": "2026-11-17T17:19:12Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/aa64ef87330c205b86ab607a030790f6f68e6a5f/281_0_4426_3542/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4732bd54781e8ecf5dfb44a48c26f842"
-    },
-    {
-      "id": "4b5e14700dd1f7a71259b7",
-      "title": "Grata Intelligence Marks 12 Years of AI Innovation, Bringing Enterprise-Grade Technology Within Reach of Growing Businesses",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdDRJSFNkbjVRSDhOM2Y1dU9JWmRSMVFNeXBoNDh6M1hfb0lRT2lNcmVzaDJnUGtIMHZEOGlCaUJ3eGpsNV9hMmtkbDh2dk1US2RMUFM2RlhSREc3NFI5ZXQ4NnRDX1I1em9qQTc2eFZPREtpcWNyZUJwaGI2TE4wbHo4X3VwR0lYRUhmUWIwUmNrZ19FVXFyNVY1U1FhYlNVSjdPUzlfNXFRd3ZwajVELXljTzZUbzZhd0l0VmhGZm53QkJrWEJxSWpESUphcUF4ajFnTnlrU0NpblVwSlFzdFBQSXZfSHJVX3l4ajZ3RmpvdlJaSFZHN0xYNk5UX3kzd2VQN3lodUlRQnhnelE?oc=5",
-      "source": "markets.businessinsider.com",
-      "published": "2026-11-17T17:11:18Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fd7461c829699cba37d22c",
-      "title": "Global Small Business Competition Shines Light on AI Innovation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjZMY2FndkFENmRfdVI1WFNYS1ZjR3BpRkFhb00zN2tmSXVvZG5vRmktOVQ2ZlpEMjB0X3V6S1ZmVFhfeGNlV2tLN3VIaVo3ZmNlNW5IMnJLMWZPYmtuU29zVm55cGdXc0k4elNTT1dqV2ZnX0doR0dkd1lONkpHOXpQOXRGMWMxalBNRE1lZlRiYl9aOXZTbENKUW42ajBtUGFybW5jOA?oc=5",
-      "source": "BizTech Magazine",
-      "published": "2026-11-17T17:06:53Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c6be4371ca508c5c48f788",
-      "title": "People in the US: how are you celebrating Thanksgiving this year amid rising costs in the US?",
-      "summary": "Are you hosting or attending the holiday differently than years past? What are you cutting back on? Thanksgiving is fast approaching, when people traditionally get together to celebrate with family and friends on this US federal holiday. Many Americans who usually host the holiday say they are pulling back this year , given the rising costs of food, drinks a",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout",
-      "source": "The Guardian",
-      "published": "2026-11-17T17:04:50Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/e7f897df251db72a533a7f4f61366f8691306209/482_0_3733_2987/master/3733.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04b42653657d2f0e0d60940742fb376b"
-    },
-    {
-      "id": "8a302b30b3afa780e5d967",
-      "title": "Disney Doubles Down on New Shows and Movies Amid Industry Upheaval",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjdVRFkyTUJTX3RiYU04ZUtLYVpILUhRMW41dmdDemtKVF9GZ05XS1pMQ2NZUXZWa1BwT2lHc1k2em9ETkgybmNjRXZHOTJuSGtEeDRadHhKN19NZ3BNdGlOVUNZM3ZLRFNQcVBlTThqQk91dzRDQnBpQ0ItYnJ3ZkRkYjNOWHdM?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-17T17:03:49Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "93d6ae1f07e2813eb4c76a",
-      "title": "How cities are making global sporting events pay off",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNkR0dnpPeWFWTGVIRzJWYzJGdFhsREczUGhWQkhWNkN3SU85eExkV3NJSjNrVVlfOGx2S3ZlOTMyNXg2UFF5SFFUSTVvZzBuaURqdTFOb2p2M01pa1RwR1FBV3dKZjB5Ui16Z0R5MjQxLVdSM2hfQzI3RjBCN2N2dFdza0ZsSDRWajY4dFBlOGdaWFFkb1VUWlM4YmVVdw?oc=5",
-      "source": "Smart Cities Dive",
-      "published": "2026-11-17T17:01:05Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 10
+  "source_count": 22
 }

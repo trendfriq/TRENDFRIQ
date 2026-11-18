@@ -1,5 +1,53 @@
 [
   {
+    "id": "c158bb1d5e70f1fb27f905",
+    "title": "Southeast Asia eyes deeper cooperation",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yVDhWN05qVE5MZ21QLVJYUlZtOV9PMkI5dnFDT2FBdGxwUHR2eC1SWkcxWUFScFhGSTQ0TGJrbUJZZTRxWE5YOFJtdzRoek5NYnRXdVVGbjNJWE0xX1RmT2R6TVI5SDR4OEswMkJWYWtxSG41WnNsYzlXUHFnZw?oc=5",
+    "source": "China Daily",
+    "published": "2026-11-18T02:44:27Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e2ba4047b138bc99f2aa8e",
+    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+    "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-18T02:40:45Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "id": "b31874a9e9cbfb51192de9",
+    "title": "APEC Economic Leaders’ Meeting opens in Shenzhen as Asia-Pacific leaders gather to advance regional prosperity",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3BDRzJxbE52cFRhelpKMTZaS3BzeDN0OTV3RkFxSW1TcXJnYnU4d2lac09OVDI0bmJMQ2Vkcng2QlV2bWxqcVdFbnhFdTEyaHRUcHphd0hGREFwZGNjdllEMlRaWFE2Q1BoTnJyQ3NodThPNmU4enhmQmJZc3UwSVl5aDAyaU5rNEVvZWRLeEk5NGcydEtqQ2N3X2dNMWhPd0J4SnJWdVduU3dHV0ltZlVPLThmcWRWbmNURTVHUWFGTDVZRk9pZW5Cdkc2YjFLNFRBZWdVSUNxSTFrT3lSV0tDMA?oc=5",
+    "source": "Khmer Times",
+    "published": "2026-11-18T02:36:28Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a187d6ab1d14be1da9c100",
+    "title": "Asia Stocks Rebound on Nvidia Earnings, Eyes on Anthropic IPO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmtTZ3lUdk92cnNzbnU3UVNZZktxZnRXVlVyRUF5V3FBMHdxY1VXd1ZESWhIOVg1RXhxTHBaejN6bHVxcEVpRnVtaHJjdUYtejg2OFFGQlUwbEZJbXVLNVZqamRMT0JOYXpuS1RDYmJfZ1k4RDdNMTltTDhNN0w0cDBDY1FzNkFxakFIZ3dYbUNENEYzMUdvT3kwdTk1UQ?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-18T01:49:48Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "b330164a6f0ccccf334136",
     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
     "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
@@ -10,6 +58,54 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771"
+  },
+  {
+    "id": "0c8d7d555acd42459d2056",
+    "title": "APEC ties fuel regional integration, business leaders say",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkJvY0d2QVRFRE1ydnVET2V5LW91TUtrTm5YV0tucEJ2MHFOLXJPTWgxZmFYQVBNWGRlSEdTYUk3R3NUZENKaXFRT2xON2VkR2g1bG9CT3lMZE9YV2ptMXIwVXRPZm9NbklDdVZQRWNtdkVhX1RoRUFVNDUxT3N2LWo2eDIzaklCLUE?oc=5",
+    "source": "Asia News Network",
+    "published": "2026-11-18T01:44:14Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "216cf2c9b5faee36e15e4d",
+    "title": "Nigeria, Africa lose $500bn yearly to negative narratives, misinformation — Oyedele",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHBDVFVPMDRsM1loVnZWWGNxRzIwQlNSY1huTi1kN2cwSDNCYWljeE5pUk5Za2FBSFBZSVFfS2RQYndNeFhpMGxNRkZwMXZ3WjdBY2RjREJGdEV5ald3S1FhbVg4M3dnVUVXcFZ2YXZ5bnZKdVoycHN5WlZ6MldnaEdEcTVfT09BT0dJQXYzQnpWMTFXWXpVNDRtbjFGdTU3?oc=5",
+    "source": "The Sun Nigeria",
+    "published": "2026-11-18T01:02:05Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c2759a2ecbc1fd890b8d69",
+    "title": "Economic Security and the New World Order",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85Q2h4cV9qcklZTW9jZk42U041NklHYXI1bk16T2pjZ2xWR0dxcmcteU9rTUZpdHFCdGdvM2QxbWZlNzRMaEh2Y2RuMDQwcTN4YWtqSm1HTkZQdmtoTVdTR1RNMHdJeGEzNDFRTko1RENPYjFCQ1Fqcg?oc=5",
+    "source": "Stanford Graduate School of Business",
+    "published": "2026-11-18T00:53:51Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "82a9925cb31d2d4408941d",
+    "title": "Enhanced services trade expected to bolster cross-border businesses",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yTHRXVG55QjZUcng4WUh6bU51TzBMNmRXdGdYc2FZMjhtUkc3RXNUMUs3cmZGNVJuM0xHeEI3X3AybWNfYUc1R1NUT2RZMzZwUUxncHB0dzQ4UXBOdlpfT0JXenVpYU14eVZsSldFRTJ6aGxpd1NaUkpuWmZ4dw?oc=5",
+    "source": "China Daily",
+    "published": "2026-11-18T00:48:46Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "ceeb5bf897d71eb6e29393",
@@ -96,6 +192,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "247bd974268f68c74969d4",
+    "title": "How Tech Launch Arizona turns research into reality",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGtUR0l1ZzMzNlVHRFFjMnNEdE9hSlp5NGZPRWRqUVhDWDBQeHR6bXFHcDY5UHZsS0gzU1JTeGJOeF9BSVlIRHhpckZ3UlJXUnRBcW9OSDYtZDNMZWdGSEUwdW4tN04wcVNKZ2dPZFRYUUktWVc5MDk2S0hxTFVwY1pfN0xXSkp2Z1pWWXdB?oc=5",
+    "source": "University of Arizona News",
+    "published": "2026-11-17T23:38:31Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "9818d892a2fa57697d36b1",
     "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
     "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
@@ -114,6 +222,18 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHU5OE5nVmctdlB4OUtQei1BNHIwblo4cFpZUTlpN3VjempnQnJsVWdkbVBDamZlMzJSWW81MFVjNVZJdzRVQW9CR29TQWVxOWhObXdiUDZFZ0t1emxyNUVYSmFnMVJyMnRibkdBd1Q3c1QxZHFBaDhCcHdVVVFNbFlIRzE?oc=5",
     "source": "Global Banking & Finance Review",
     "published": "2026-11-17T23:15:11Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "09cf47f3789247888714a5",
+    "title": "Humana falls 3.89% in Tuesday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14NzlocHpWa3ppMWRMOGJBUkhkVVpKZ0c3aFNXX0QtM0xjOHNMcDFfMlhqbE41Y1pwbzN6cWZCWHZLQ0wxUjZ1N0FJSTRkU1c0b0VwV1pNVzNDTmsxN2JsV1l1WWU1TkFmeVJaT2Qxb20yV3cwak1J?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-17T23:15:10Z",
     "category": "Finance",
     "topic": "Global finance",
     "country": "",
@@ -142,6 +262,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+  },
+  {
+    "id": "2d20c91af3ce8bf68240c3",
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+    "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-17T23:02:12Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"
   },
   {
     "id": "443b14ebfbfb504a103e2a",
@@ -322,6 +454,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6c4e0a49d719cc3948eb73",
+    "title": "Trading Day: AI trade unwind continues, but Nvidia beats",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2ZrUktoVWQtYzQtd2l5djM3SDJoaUNkQ0tOU3hoaUhCWGxVejNQWElMVDA1YmZqYXQtWmZkWHpxRjFGQWYtT3lIaVNmUllaMG5Dd3Q0eGs2VWhLU2xJUzN4Q2ZFa3pPQVNENmlDNFRFR2JtcVR2SXFyZHZJdG1sdVQyMllPU1VpS2t3LVZrSmRKaUdPSkpn?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-17T22:03:40Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "b1a8739f97ed0dc6698827",
@@ -516,6 +660,18 @@
     "image": ""
   },
   {
+    "id": "ea9e655445ee0fb75ec297",
+    "title": "Nvidia chair says the board will not rehire Huang as CEO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-17T21:24:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "22dc56803804f78f7edb2f",
     "title": "Icahn Enterprises falls 24% on Monday in US trading",
     "summary": "",
@@ -598,6 +754,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7475807f0f10bfc5154fe3",
+    "title": "Africa's largest economy and Canada turn to China as the U.S . pushes them, but Beijing pulls Ottawa from Trump's grip with C$400 million in tariff relief",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPclBWZU84YkZreGhyX3dTRHJCdDNnd3c3VWMwWDk1SFBjNzhkU1BVRDBTVkU1N28tSDNWa1FSdms2TzhSZjVKVHh5bXNZai1ZaGN0NHA5NmpkdXhFckRQN0RGekUzTEFiWnlUalNIMl9nQmJ3c1Q2N1RmYlFhczFGTmthNm03VmRvNXFhTEo3NnYxYWI1RXAwX2VCUGNubFctU05ZSGlXVUVxTDB2bHVMbHdMbnFhUHRseV96b0RPODJLUmNYS0pNbHFBUGFKRmtOc2gwWEU0MXQ?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-11-17T20:45:34Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "35ec7fce43bd571d36aae6",
@@ -1018,6 +1186,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "id": "02d388cd6991b8dbe68084",
+    "title": "Global poverty: Facts, FAQs, and how to help",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oNklJWlRJNXNsQXdwcW81WGF0OUpnYlFhUEpSUnlDQWEyOUNhamkwV1VQN09kOUotTFpOSTR5OTFHdFRiSXRabGhsQ1l2dExnOGkxbldiMy1kUW96R1BmQm8wbEFjc2xLQm1FbnMyY3VrMWN4SC10V1ppbXhCdw?oc=5",
+    "source": "World Vision",
+    "published": "2026-11-17T18:16:03Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "4eda686b48ec8f5e056ebd",
@@ -2064,6 +2244,18 @@
     "image": ""
   },
   {
+    "id": "ac46ff4ee8471d8b9d6391",
+    "title": "US foreign policy leaders say America should take an active role in world affairs – but no consensus on whether Trump’s policies are working",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnNaaUlJTFRGeUxjTlRmRnp2TmYtTlFrR1VZa2t6OEF6MFFIcGk0LUZLVERfTlN1OHJTektxLTVqaHhNMTRmZDJLT1Zpd1FrX0FDb2Mya2h2Y3dCVEZzMjNicHQ1alNsQ2FyZlZLczhFT2czUnZ2SzZpXzZ5R0pHdlJna0tTRkZPckZYQmFmV3Y0SkZt?oc=5",
+    "source": "Fort Wayne Business Weekly",
+    "published": "2026-11-17T14:04:23Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "3723176831358ccc289cf4",
     "title": "Asia-Pacific region shows better economic outlook than global average: PECC",
     "summary": "",
@@ -3012,6 +3204,18 @@
     "image": ""
   },
   {
+    "id": "89dc219e954e9896fd6538",
+    "title": "News Analysis: How \"China Buffer\" anchors a changing Asia-Pacific",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96ODhCQm9SLWxkQm1XQXJMZ0FWOEhpUWZkT3pHUl9WS0tsRkQzZUpWUjIyTXFUajhpNVUzMUk5eUI0VWdCREFDVDdtMXhPeVNzdkJseEdZS3czTGhWRFk5dHMxWXRlOWJJdkt4dDQ1MWlpYkJ4YmpmZTdtMkw?oc=5",
+    "source": "Xinhua",
+    "published": "2026-11-17T11:01:16Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "2c3128b1051615c10ff0d7",
     "title": "EBRD Economies Hold 0.8% Of Global AI Exports Despite Wider Trade Presence",
     "summary": "",
@@ -3248,6 +3452,18 @@
     "published": "2026-11-17T10:11:33Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1fc53a1e95b52c334a4fd8",
+    "title": "Eurozone and EU growth set to exceed expectations in 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3doTHhwbGhjVXRtTFl0MDh4bXJ1ZFBXMW1CYW13Nlc5SEw3djd5aGZ0MHVtb0g4TGExcjJTbl9iYkc5QXBKX2VrTEh5RE9KRmc1eVU3a1ZRbEtJS0ZQUkg3YkQ4Z0RzTjQxcExGeTlMLWFoZ0pDRi1KcG80V0tZX1NxRkhxTElTWXdENU93U3dWMlRCRUVPRnpaNXp5cjEzNkxpOUJzY1pSWTRNSXVqQ3JyWjdZN1E?oc=5",
+    "source": "Eunews",
+    "published": "2026-11-17T10:09:46Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -7688,6 +7904,18 @@
     "published": "2026-11-16T11:27:00Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "68ba2f450123fa817e02d5",
+    "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDM2WTVPLVNWcUk2V0JzdUY2VzhndjY2RFJuN2g4c1FxdzBLckpSOC1yVUZqWDhKRXQtbEIzX0ZrSnFITFFLaUJpQnFldE9OLUE2Z3RHSEJkTDhkV3Z3ZjRuRmxPQmpZalgxLUdwazVHR29zVlVOUWlWSWRzR09uR1IyNnVjVjBROWc?oc=5",
+    "source": "The Guardian",
+    "published": "2026-11-16T11:26:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
