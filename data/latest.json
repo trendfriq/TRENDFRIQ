@@ -1,6 +1,162 @@
 {
-  "last_updated": "2026-11-18T10:36:22.817373Z",
+  "last_updated": "2026-11-18T11:33:57.619083Z",
   "articles": [
+    {
+      "id": "7910f56b348bc37fcbcc07",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T11:30:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/humyn-labs-co-founders_164602.jpg?resize=1200,800"
+    },
+    {
+      "id": "942518637ca001c7d15439",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "source": "The Verge",
+      "published": "2026-11-18T11:16:53Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "51b86e87a7f4de5722220b",
+      "title": "AI Stocks Rally as Nvidia Outlook Soothes Demand Fears",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWh3YjNkS3BqazRvNGdydXZQdUVRMFdfRnpRWE9lM3QwUGRZLWU4T1RYcFZ0SWNUNmZ5eUxRYXppcHgtM3dUSWxUYTM4ZUFxWnQxWnYybXFLOFliRWRPQUJnQm9GWFRHVUVzQWI3RlZIVWY4VHVPLWNNVTFTTkJjYXVLdE9zQ1A2eDhWTFNwa3d5czhX?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T11:15:28Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8617df924671dab41b5e37",
+      "title": "Grand Theft Auto VI has arrived",
+      "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+      "source": "The Verge",
+      "published": "2026-11-18T11:06:16Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "551152797b9c25189507d5",
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T11:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1249824774.jpg?resize=1200,800"
+    },
+    {
+      "id": "03d89d7a24a39ef1ad74ff",
+      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+      "summary": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of [&#8230;]",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+      "source": "The Verge",
+      "published": "2026-11-18T11:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "83113de0d2e0ff1881b119",
+      "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+      "summary": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+      "source": "The Verge",
+      "published": "2026-11-18T11:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-16-copy.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "cd91052aeafacba69080fd",
+      "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+      "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+      "source": "NPR",
+      "published": "2026-11-18T11:00:00Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fef%2Fd82de5a44adaa655033d34b2db6a%2Ffarflungpostcard-en-berlin.jpg"
+    },
+    {
+      "id": "39f12ff4685e32d6e22545",
+      "title": "Earnings call transcript: Experian posts strong H1 2027 growth as stock slips By Investing.com",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbU41NXRzZE9JRTAzRExWczVZUllsd09lNzJ0cUlHLWlXSVBDMnVxWjVGYkNpcFFCR3dMNWlBMHF4TURleVlMbjBOaU9PdEkwdEZFVFFaYkN5c25hNUNXcXcwNGg1bDZocm0tb1RlN2Q4Mzk5b1gtejMweUtKWVZYQW04QnNBMWsxODNoalJMXzVUeW84RG01SlMxMFNfZ0lWQzNlTnNiSFI2c2RrWHhpTERrWmVjTXNRRmZDMmhQSmNfYW5hc1dSODdWamhDTWU4azk0?oc=5",
+      "source": "Investing.com India",
+      "published": "2026-11-18T10:58:33Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b184e15cf32a743427cc24",
+      "title": "UAE delegation attends West Africa Integration and Investment Summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTFwTzlwWFFTM3JyeDBDSHYwYW45c1Y3UzVub3ZBdnlEcVRYYXJqWkFaQ0NDRjNhSXF4eElYRmtCUXdxdlM3d25Yb1BWUldfVXk5d19IU0d1eWJpX3NsWkcyZHF5TFpjQWFPZ0xGRlVSYUk5cndHbHA2c0QxMi1XZFRlRDVCVjItc1RKS080QzR4Zm1admxRbGRBQ3RFQzlkWnoyTmdYZUhIQXlyUWxJSGpqR2JEZWxXQ08wX3phd2hCbFU?oc=5",
+      "source": "Arabian Business",
+      "published": "2026-11-18T10:55:40Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f0c0dfb0a743c1109bc832",
+      "title": "The European Commission has lowered its growth forecast for Moldova’s economy in 2026 to 1.7 per cent",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVJCYUhaWWFQQnV4X1Vfd19vNU9Yam1sY3VUNVFxZDgzVUppWnlqM1lqQURuZkNZUnpIdlJtZ3lCN1Z1WEJOczZvdXhnQ3ZvbVVSQ2ZZUkhzbmh1Z2QtTlFsdjc0QktqcVhTdzNyczAtX1ZZTnpHNzdGTHRmLUpoN2JSZGpCSmRhWGhvTGRwNTFBRldDbjVOb24yMVZqdEZFczl5U3ZmcV9RengxcjhLSlVnd3lWWktSVXFldjZtcUFLcmNUejFxQU1VTQ?oc=5",
+      "source": "logos-pres.md",
+      "published": "2026-11-18T10:54:35Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "68f26c77d3f21ff647e5a0",
+      "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T10:42:23Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fbb867dc87bfa212b03d83",
+      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+      "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+      "source": "NPR",
+      "published": "2026-11-18T10:32:03Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5124x3416+0+0/resize/5124x3416!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F5f%2F5300d36b41daab38cfccf78d8910%2Fap26322331417415.jpg"
+    },
     {
       "id": "c7aba06582cfe1a5082a0f",
       "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
@@ -11,7 +167,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "1cc8e04dd38ccc0738fb72",
@@ -38,6 +194,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1732/live/d7b747f0-e339-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "id": "eef7a2609c01c710167c87",
+      "title": "Xi calls for Asia-Pacific unity, open trade amid rising protectionism",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3hMOFpLV05veVd2dlZacU5aaGxUSkIzSVptbmpwYnhaXzB2bl9oaDlobjM3T2hDNWdqQUZiY3VSQjlIUGVUazNocHBLSWJvYjIwR2NjUDgxQm5HdkxQVTQtN1haRENoTlVHOVIyRHMyWVNGcVZ3d2FPdUdPMjQ5VVlGbTlSVGI3ZVJwNUtUcnVYT2FZQkdOX1JuT21sYmFaeC1HMnhrbUTSAbABQVVfeXFMTzZUMnBWWFFGU1RSR3FONUo2a2lDYnFUOHp4Y1pXZmtzVWYwNDRPV0J1eDhnYnlvN0lIaWJkQVJLdlBkakpfNzJURkluckVWazZrT2ltZ0VmUXg4VWdKdm9rb0lHeUNERVQ2Z0J0MzFJQjNSallWWHlWODVXejJiMnlfNWJaaDZrTTVMeVhlR01LNEdTQ2YxTWFYYy1iRFloSjlxR1BKRVpySHpKVHZweW8?oc=5",
+      "source": "The Express Tribune",
+      "published": "2026-11-18T10:05:56Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f7ad5356d6248550f817e7",
       "title": "Can US-EU tech relations get back on track?",
       "summary": "",
@@ -46,18 +214,6 @@
       "published": "2026-11-18T10:02:17Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eef7a2609c01c710167c87",
-      "title": "Xi calls for Asia-Pacific unity, open trade amid rising protectionism",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3hMOFpLV05veVd2dlZacU5aaGxUSkIzSVptbmpwYnhaXzB2bl9oaDlobjM3T2hDNWdqQUZiY3VSQjlIUGVUazNocHBLSWJvYjIwR2NjUDgxQm5HdkxQVTQtN1haRENoTlVHOVIyRHMyWVNGcVZ3d2FPdUdPMjQ5VVlGbTlSVGI3ZVJwNUtUcnVYT2FZQkdOX1JuT21sYmFaeC1HMnhrbUTSAbABQVVfeXFMTzZUMnBWWFFGU1RSR3FONUo2a2lDYnFUOHp4Y1pXZmtzVWYwNDRPV0J1eDhnYnlvN0lIaWJkQVJLdlBkakpfNzJURkluckVWazZrT2ltZ0VmUXg4VWdKdm9rb0lHeUNERVQ2Z0J0MzFJQjNSallWWHlWODVXejJiMnlfNWJaaDZrTTVMeVhlR01LNEdTQ2YxTWFYYy1iRFloSjlxR1BKRVpySHpKVHZweW8?oc=5",
-      "source": "The Express Tribune",
-      "published": "2026-11-18T10:02:15Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -99,7 +255,7 @@
     },
     {
       "id": "11b2c0aec9d7aaefe5584e",
-      "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
+      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
       "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. Th",
       "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
       "source": "The Guardian",
@@ -110,9 +266,21 @@
       "image": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5"
     },
     {
+      "id": "72883e9a4aa4640893b58e",
+      "title": "Redseer invests $5 million in AI-powered market intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFd5TVBkZjIwYzE5eVVsSWhqMm42anp2Z2tfTjRfVG1XanBacjdQT3BYclkzZENuY2VwMDJnR1RMbWRMcUh2alQydW5GUExXOG4xN2hqTEhNSXRhYkxERzA0RUptcThZWnU1WTFuZ2JZV1JfSmowSTVtNEpQa1VjVzJOcThJQ2lNYi1CQmZ0RWs0T3ZRVUxBOUtFQmVDclRvNlREdGRVb2NNdw?oc=5",
+      "source": "Africa Business Communities",
+      "published": "2026-11-18T09:52:32Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e47dadc6bc0477efbffb29",
       "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-      "summary": "Russian President Vladimir Putin will meet Wednesday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
+      "summary": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
       "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
       "source": "NPR",
       "published": "2026-11-18T09:43:28Z",
@@ -120,6 +288,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "038f34ae3acbe6c3405705",
+      "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-18T09:37:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "64e86fd86d339f38f0a855",
@@ -166,6 +346,18 @@
       "published": "2026-11-18T09:09:54Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bbcdea8373cd12f1029957",
+      "title": "Carney says Canada’s growing trade ties with China are not a top concern for Trump",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEktSEg4ZU9Fc2pDcWJnT0lVX19KYkwxRFNfaS1wSWtKaWhsdTdIN2pYM1F0cVV0cFJtaDhLY1BEdEZZTTVNcDkxNTV5Ml9tSjhHdGxTTS16VUpfNnRzb3RuZ1JLcFdzU3R5Ync5RWFOVDZEOUdXczladExTazlBd2lUNnVLdDFUbXo0YVllM3pNOTNVRlYzWEI4aVVQenZMM0RVMndvVDVOV3EtSF95dkxCTmlWYjY2TE4zVEZNbUtXWUNzc3E5dHRn0gHPAUFVX3lxTE16cldFYjhRbjlBeUJCdnhXSHM0ai1TNXhDVEViUDBxRkljZ2JkY2JiTGprR0ZnOER5aEwtYXNaV0lkcDJyckx4d25xRjR6cFp6NnM0dUNQdXdNM3NOUVNFWWhSX3o0aTgzb2laOGQxUG1JanJ6YVJEWUpwbGN5TUdxZ1NfQi1RZFhmTkxFOXlZSkplX2xuTUd6eVdZbEpKN1Jsd3lPeXdtbHBWVjMwWGlSWnU3VUFqQW82dlBEYlRVX1lGck1SY1lYVlhMLTlpQQ?oc=5",
+      "source": "KWKT - FOX 44",
+      "published": "2026-11-18T09:08:01Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -302,6 +494,18 @@
       "image": ""
     },
     {
+      "id": "1b8440efbcfd78d612a1f1",
+      "title": "Analysis: Why the Middle East is watching the Trump-Xi-Putin summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGdyRFZaLWNPSXA2OTd0cFhMdnM1QzNFS3ZaZHg4RGJNcW5EY21GUGo2VTgyV1pRZnNCZkNVelgwVDJpcmJpS2tMUzE3T3JUZllaQldZMUQwaHJ5T2tZR09sbWlpX25uMnBwZDlPV245UjllaFlHY0pjeE9YbGNNa290TDJmdk5LeWdxV2dRTjF0UjBzcGFyVTFPalVILWZsMFhmZzlnQ1J6NnfSAasBQVVfeXFMTXBnckRWWi1jT0lwNjk3dHBYTHZzNUMzRUt2WmR4OERiTXFuRGNtRlBqNlU4MldaUWZzQmZDVXpYMFQyaXJiaUtrTFMxN09yVGZZWkJXWTFEMGhyeU9rWUdPbG1paV9ubjJwcGQ5T1duOVI5ZWhZR2NKY3hPWGxjTWtvdEwyZnZOS3lncVdnUU4xdFIwc3BhclUxT2pVSC1mbDBYZmc5Z0NSejZ3?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-18T08:12:57Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "cf5331f12d9b0d06f880c3",
       "title": "Smiths Group sticks to annual forecasts as Middle East disruption hits revenue growth",
       "summary": "",
@@ -322,18 +526,6 @@
       "published": "2026-11-18T07:59:56Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "68f26c77d3f21ff647e5a0",
-      "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T07:52:30Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -482,18 +674,6 @@
       "image": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21833d98637331ead4329c966c5ade89"
     },
     {
-      "id": "739ba3dabf39fa4a60b3b4",
-      "title": "Asia stocks cling to gains after Nvidia earnings as Anthropic pricing looms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-18T06:57:47Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "00444d92299743f3b950b2",
       "title": "Miami-Dade County, American Airlines reach agreement to protect jobs, expand opportunities at MIA",
       "summary": "",
@@ -597,7 +777,7 @@
       "source": "BBC",
       "published": "2026-11-18T06:04:21Z",
       "category": "World",
-      "topic": "Americas",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -698,6 +878,18 @@
       "image": ""
     },
     {
+      "id": "85c3c5ffc14fa6ba139574",
+      "title": "Korean think tank projects economy to grow 3.9% in 2027 on AI-driven demand",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0hPVkJCa3AyZHBjTEg0REw0Q0RNNWdqd0lrZ2Z6Q2llb01kSjl6RkxfYjhUcFFCVXMwM2daX01HOFRNSFRXcW5KT05oRWdkRTMxVHE3dklfV1ExT2JSWHZQWTYzZlpmcHNyLW13NThjV1JWVzNzc0MzNXhBSUV6b2hUWEpWVDJjSFI4T1hqbmpNeEtNb1A1SVNzaTg3S0F2YVNyNEZtMVZDWlFUb016aEZzVFNPWXFUMWFmc0dDYU44NzA?oc=5",
+      "source": "Korea JoongAng Daily",
+      "published": "2026-11-18T05:18:06Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2427365984ee0ee76bc793",
       "title": "China's Xi and other Asian leaders say Asia-Pacific must embrace open trade, fair growth",
       "summary": "",
@@ -708,6 +900,18 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "475ca03637df2db4a1276a",
+      "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+      "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+      "url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-18T05:11:42Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/f39e1920-e1b9-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "f9f859c42f153f706da30e",
@@ -868,7 +1072,7 @@
     {
       "id": "e2ba4047b138bc99f2aa8e",
       "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-      "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "summary": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "published": "2026-11-18T04:00:54Z",
@@ -876,6 +1080,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "669cd4966d3d3173ac7a46",
+      "title": "Feature: Chancay Port boosts South America-Asia links 2 years on",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBINFo0dTNtVFFRMmFvZm9GMml1ZHp5T1hsU1h4Rkd0d0JmbkRhT0lOZ0Y1QmE4Yk5EMHBsOUhncm1SV3dEcjJfdUtXNWk5STc4aFFUdnhMaWwyaFotRDBKRndiVl9vYWdyRzN3M3UyQmdHSmt2alIxZkp3dXM?oc=5",
+      "source": "Xinhua",
+      "published": "2026-11-18T04:00:30Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "aefafb26555ddd574a9969",
@@ -903,7 +1119,7 @@
     },
     {
       "id": "9747cd8eb3ee31c9ab3730",
-      "title": "Xi and Putin blast sanctions before meeting Trump in China",
+      "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
       "source": "Reuters",
@@ -998,6 +1214,18 @@
       "image": ""
     },
     {
+      "id": "739ba3dabf39fa4a60b3b4",
+      "title": "Global stocks slip after Nvidia earnings; Anthropic IPO to test AI boom",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-18T01:46:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0c8d7d555acd42459d2056",
       "title": "APEC ties fuel regional integration, business leaders say",
       "summary": "",
@@ -1022,6 +1250,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771"
     },
     {
+      "id": "113f4795a1b290d77eaddb",
+      "title": "Trump heads to China, betting on unscripted diplomacy with Xi and Putin",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFVBLWt1SWxNRG83SExqVUdOWkEydHk5eXV3TFg0VGd4elBGVVNoUUFWRUs0Q0N1RFBsS1VXaXNELUEyZ3lZYmw2LTN3T09ITWoyUmNfdEVEcW9iU0ZVeFhydGlIaXBfZTUtZ0pzWUhPYmdFSkUteUVRRUU2aFNBYmQtQjg5STdrbG1hQkdJTGtjVXBpdk4xMDlFb3F6RGNDOVRhRU5PRnlPUkdhRWY0eHZOY0ZIaUdLdk54N3V2TkRuT3Y2dWtYUdIByAFBVV95cUxOdFVBLWt1SWxNRG83SExqVUdOWkEydHk5eXV3TFg0VGd4elBGVVNoUUFWRUs0Q0N1RFBsS1VXaXNELUEyZ3lZYmw2LTN3T09ITWoyUmNfdEVEcW9iU0ZVeFhydGlIaXBfZTUtZ0pzWUhPYmdFSkUteUVRRUU2aFNBYmQtQjg5STdrbG1hQkdJTGtjVXBpdk4xMDlFb3F6RGNDOVRhRU5PRnlPUkdhRWY0eHZOY0ZIaUdLdk54N3V2TkRuT3Y2dWtYUQ?oc=5",
+      "source": "The Hill",
+      "published": "2026-11-18T01:27:10Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "58ccec08be884d74fb76d7",
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
@@ -1032,6 +1272,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "4b9d09294be7204815b733",
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Jensen Huang",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdlJaZXA0OTdrVzY5SjlMN3laeThvMnMxTThSYXAxbEFiODFZQkJMWFBWbWZoQy15ZTVRRkV6VW1HOTNrd0hSSndGUGZISl9FbzhJUF9yOFYtLVU?oc=5",
+      "source": "BBC",
+      "published": "2026-11-18T01:18:18Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "216cf2c9b5faee36e15e4d",
@@ -1186,258 +1438,6 @@
       "published": "2026-11-17T23:38:31Z",
       "category": "Technology",
       "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9818d892a2fa57697d36b1",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T23:37:48Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
-    },
-    {
-      "id": "68747d0ced900516a6f33b",
-      "title": "Instant view: Nvidia earnings beat estimates; attention turns to call",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWVjeHRTNkRreHFmNVBsYkdQeFJjc1htLXA4enJfTEV5clpxOHZRRGdGZXNkZGFzY2FPWUtTMkdCSGZYZXFHMmE5OVFzUDJuc2ZjRGJybkF2MG1pTkxhMFBRam5wdjFNdG5sRGJaaEN5bE1keENqTkJGb2lPeFJQM2Y2NDAtQ3JvSG9pRXExTFpwSE9iandZTFMtcEEtX21xUXM0?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-17T23:34:04Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bb59199150f2453b2fe423",
-      "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-      "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster. Nvidia announced the same day that its q",
-      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-      "source": "The Guardian",
-      "published": "2026-11-17T23:32:16Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=799fa5411235fb864a88b0b38e5f2c1d"
-    },
-    {
-      "id": "fbf2ae6dd6167a6dd22998",
-      "title": "Axon Enterprise falls 2.56% in Tuesday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHU5OE5nVmctdlB4OUtQei1BNHIwblo4cFpZUTlpN3VjempnQnJsVWdkbVBDamZlMzJSWW81MFVjNVZJdzRVQW9CR29TQWVxOWhObXdiUDZFZ0t1emxyNUVYSmFnMVJyMnRibkdBd1Q3c1QxZHFBaDhCcHdVVVFNbFlIRzE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-17T23:15:11Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "09cf47f3789247888714a5",
-      "title": "Humana falls 3.89% in Tuesday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14NzlocHpWa3ppMWRMOGJBUkhkVVpKZ0c3aFNXX0QtM0xjOHNMcDFfMlhqbE41Y1pwbzN6cWZCWHZLQ0wxUjZ1N0FJSTRkU1c0b0VwV1pNVzNDTmsxN2JsV1l1WWU1TkFmeVJaT2Qxb20yV3cwak1J?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-17T23:15:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ed3338948cbef305c8339b",
-      "title": "Shining bright in Miami",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlM2UUgxQjRJWlpGMVNLZzhLTkJrM3NLeEhJV2NkOGN4U0puWng3WTB1WnVkYzR0TVNmVTJwVzJWazNadnd4NllTVVUwMi1WbGxCaGNCWXdaalhnS3VXRXpSR1B1akhCMFRwMlo5S3pZeVBuTmxqamltbXg3clBhNmVaRDA4cU45UlZv?oc=5",
-      "source": "Kellogg School of Management",
-      "published": "2026-11-17T23:11:48Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8339a30c8d70bc4c3f5ca8",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T23:04:35Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
-    },
-    {
-      "id": "2d20c91af3ce8bf68240c3",
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-17T23:02:12Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "443b14ebfbfb504a103e2a",
-      "title": "EU economy shows resilience, but inflation, risks cloud outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGZXVXNkbWE2VkJSVThaQjZFN1c0bU5ab0lnanlySjZDOFhjbUJIRHgxUkRpYVlZaEJvNEhqcnhIRDNxR2I0aENGbi1NNUYwdi0zUU1paWdTdGlHdHpBLTZwQkhYcXJORTVQMXMwRkowUjhoT0F2c0tRUDN4OE00YzVPQ3RMNnRZLUpjZHd0bXpDbGE0b1EteWhmT1gzNWFDLWcxQ2JsMA?oc=5",
-      "source": "Daily Finland",
-      "published": "2026-11-17T22:52:06Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "82f5bab58a7f676b502fe5",
-      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeE9uZlZoTmhManJSVWdwZTVLa2NjYXZ3WHdTdTA1X3o5WENqdER5Q19ROVZpMldQb3U3dVQtblg3OGM4V0hYREpndG1RY2ViMGZDUkRwSmRRa3Q5Qkx5eXFWYVZUZG1RZzFGTWdJZ2QwY2ptWlVHM2lWWERnWGpQMEVLTTFZdVo0RGhMOdIBjAFBVV95cUxNeE9uZlZoTmhManJSVWdwZTVLa2NjYXZ3WHdTdTA1X3o5WENqdER5Q19ROVZpMldQb3U3dVQtblg3OGM4V0hYREpndG1RY2ViMGZDUkRwSmRRa3Q5Qkx5eXFWYVZUZG1RZzFGTWdJZ2QwY2ptWlVHM2lWWERnWGpQMEVLTTFZdVo0RGhMOQ?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-11-17T22:52:04Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "35ec7fce43bd571d36aae6",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T22:46:30Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
-    },
-    {
-      "id": "8a256ad53f34b968604e8a",
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T22:42:27Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
-    },
-    {
-      "id": "0fa2b77f894eb002c551e4",
-      "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-      "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-      "source": "NPR",
-      "published": "2026-11-17T22:41:53Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "3f70c47179d4906e22bd34",
-      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silicon Valley and the World conference today, Bezos [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-      "source": "The Verge",
-      "published": "2026-11-17T22:38:41Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "7d49330be50c2808c730f5",
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice [&#82",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "source": "The Verge",
-      "published": "2026-11-17T22:32:50Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "68c72142665d08a80adf80",
-      "title": "Game firms post operating profit but currency swings hit net results in Q3",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFh3ZHFYVERVUHFBS3NnaEVPcXhrVjlqN3FJSS1NTTgwTHpWWE9iV0RsTzZ1em0xR0NtbUxWaDN4SDdUQmJ0Z0NKejJuQ2U5Skxlb2hTa3ZkODJwVkFhSzNxT3pHTld4X1dkbEMxYVRHN2YwRklVbWpEbGZ4UnVvbGVmT1JVS2ktSlpKcDJ6R3RLcEVoV3dMaV83LUVmOU1jcHlLNC1wQ01MZlFxQkJ5UDlycEJrSHJFUEZSMw?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-11-17T22:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c55f92969fc4ef13b604f4",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T22:29:05Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
-    },
-    {
-      "id": "8853153d94a7908fd03c6d",
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the [&#8230;]",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "source": "The Verge",
-      "published": "2026-11-17T22:25:41Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "0aeb208b6cbf0fbd6aad9e",
-      "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
-      "summary": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide Thousands reported disruptions to Google’s Gmail and Apple’s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector . Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen",
-      "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
-      "source": "The Guardian",
-      "published": "2026-11-17T22:23:56Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ca7c2e6ce5449e3c3452282380c671e"
-    },
-    {
-      "id": "07efe47c0a081b5737b6f3",
-      "title": "Digital Economy: International Forum in Algiers tomorrow, Wednesday, to Explore Partnership and Investment Opportunities in Africa",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5heXZhV0RERFdJa0VwelFpMW8zZ0IwOEJwNWpzV05KV0laT1U4cWo1aE95T1NMbkk1cGZuNlpDYmFENmJienF2R3BQSlZLd2h6UHRveg?oc=5",
-      "source": "الإذاعة الجزائرية |",
-      "published": "2026-11-17T22:23:51Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8093e04bcd0e3b0447ed73",
-      "title": "Keurig Dr Pepper falls 2.22% in Tuesday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0s1Z2drUGN2Q19DUHBXbGNzbXQwU3hlcHNqYmZlV0dkWXZ1dnhIODFoMDBuenF1TTVJemV3cWNuN1BtbTQwZ0h4TXFQX0xWcE5aUmhndVhrWnFkVklraTFuUm1rTnlLLVNuQVYxY2ZXLU1DZVZydm1uUXZiZ2pJbkNGdXY?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-17T22:16:48Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }
