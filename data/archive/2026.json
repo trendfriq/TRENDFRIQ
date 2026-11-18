@@ -1,5 +1,113 @@
 [
   {
+    "id": "787ec3ea015eb548f2dfe5",
+    "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+    "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+    "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-18T23:36:04Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
+  },
+  {
+    "id": "e78487095dd3723203c4a9",
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T23:25:17Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-524212924.jpg?resize=1200,800"
+  },
+  {
+    "id": "d8ba4398191c3d4681c927",
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "source": "The Verge",
+    "published": "2026-11-18T23:18:35Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d442346cc5e57a2674036e",
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T23:17:28Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
+  },
+  {
+    "id": "5a9c64a2d43f289af72936",
+    "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+    "summary": "No state has ever been found guilty by an international court of committing genocide.",
+    "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-18T23:04:06Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg"
+  },
+  {
+    "id": "5a9cd3303a442ab6cd0447",
+    "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-18T23:01:09Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "id": "49ff21afd78ef9de5ec7b0",
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T22:58:11Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773211.jpg?w=594"
+  },
+  {
+    "id": "af27502a0851da22b705b9",
+    "title": "South Carolina Attracts $382M In New, Expanding Business Investments",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjlQYnUtZmI3QWc2R25mbTIxUVduY3dUbk43YjNtQnFCb0ROcXFkNGI3LXo5Rl9qbmdybVFWei1VUHhkNExObVVJcE4tcXRZdEhfdE5UTWNQWEwteHN1LVAwWkxFalZOaDY3X3VqRGtXWDBwZGd0VEFDcnFqRlFDSWZieUhPQ0RMeGpBMnVQcTNqNFh3aWlVSVlrTC1QZEk?oc=5",
+    "source": "Business Facilities",
+    "published": "2026-11-18T22:53:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "89463a15fdb11f74eee28b",
+    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+    "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including conspiring t",
+    "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "source": "The Guardian",
+    "published": "2026-11-18T22:31:41Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2eb98728e98509d65e4554fe361b577b"
+  },
+  {
     "id": "aed3ea0dfc61854d1cd692",
     "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
     "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.",
@@ -96,6 +204,18 @@
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800"
   },
   {
+    "id": "1c9f1ec88723e6c1d33fa2",
+    "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+    "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+    "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-18T21:28:08Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
     "id": "7d3a781439efe00a79c7dd",
     "title": "Absolute Batman can save DC Studios",
     "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for [&#8230;]",
@@ -178,6 +298,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
+  },
+  {
+    "id": "aede3b52849ae36566d0f1",
+    "title": "New Indy, Action Co. among five companies weighing combined investments of $302.7M in York County",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlVpOVBOLW01ZU55WmFnbmtUalZZY1VHX3dXbWIyVE1XUEFuakVvTlF6cUhjZW5TMjV2OVBCQkhPOTljMWtGUTJJRlB1bTh0WXV3RmdadmllWW0wMnZ3cG52cFZEQUtLVTZvdnhuSE1zdVhsVVhGUnNHZGpna2hiYWQtTjQ3RDM3WUtkak9iVFU3N2JKUHh0U2lubUZ4aDJGQU81OUFmM1BKa2c?oc=5",
+    "source": "The Business Journals",
+    "published": "2026-11-18T19:56:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "d6ac39404a7d961ba9db85",
@@ -512,6 +644,18 @@
     "published": "2026-11-18T17:30:17Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "db774f586e79145a602ffd",
+    "title": "Press Release: Viasat takes media beyond its own network with VIA",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmlEajdGUXUzM0loZldYVkYzTG5RQW1GUWNTQV9rV1hCNDh2X05MazBBZmh3Q3NFdGhQSjY4TzA1ZXNKRUhpaEJCdHNjV3VYaXVqZnBlUVBaaW9hNjg0Q2lSYjZTclkxXy1fdFBINURFQmhycjNEQjkwODY2TW8tdjdXNU9xZlZYTUFSckpMaU9RYUp6aFdUSHU3OUQ3dTFU?oc=5",
+    "source": "Runway Girl",
+    "published": "2026-11-18T17:19:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -1316,6 +1460,18 @@
     "published": "2026-11-18T13:31:00Z",
     "category": "Technology",
     "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "0377c8d5988a1364dbca80",
+    "title": "Uruguay's economy: State of play and what to expect in 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlZIQm1faEZzZExnUjB3NWw3ZGNHMF9kVHNUQVFlMHNrMlB4SkNNbHEyaFZFejNWLXJXcUdhTHlaQklTdWlIaE9SWGR2S3N5WGs2OWhhNFRXaFBJVHQtS1UzZnJwbGxZZWlfRjhweDhnRGdGV0lDLW5qcnJKTktWZlZoZWd0a3ZIdjdkT1NDdXlYQVpjcHFpOEtDbnN6c2s?oc=5",
+    "source": "BNamericas",
+    "published": "2026-11-18T13:19:49Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -12296,6 +12452,18 @@
     "published": "2026-11-16T08:00:00Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "65a5f94928842ed23a8c44",
+    "title": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWGZQWnBMek5heDlmTXdZYU5qWjdlOVZrRTFTSGtMRGdvQTZOZFExazRVdGJrMmVYZ3FrSnY0eXlfczVuc1FRNnp1Qjlyc1lKT09QTVFUSGFGajlncWY1TXdjbG9PWDRfMElQUFVXRWxMX0pFdi04MnpwUXU1ZHgxR0puUnRHVV9sdXA0MVI2SkQ1ZG1rM2h1WWJpWU1PQXhWR3NvQXFRaXppT0tCRjZITnhEMHd6OGFWYkdOYWdYSDV5R2ozRWVCLXIxTHluRVY1Q1k2OHhmSnVRVWpKb2YxeGJ4RjE5Y1l3end1VHFNd1JyZ28yQWFCS3dqcjNHa2t6RDJhZmpYWlVGNlE?oc=5",
+    "source": "Goldman Sachs",
+    "published": "2026-11-16T08:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },

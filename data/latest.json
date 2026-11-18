@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-18T22:38:39.906623Z",
+  "last_updated": "2026-11-18T23:36:34.219914Z",
   "articles": [
+    {
+      "id": "787ec3ea015eb548f2dfe5",
+      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-18T23:36:04Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
+    },
+    {
+      "id": "e78487095dd3723203c4a9",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T23:25:17Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-524212924.jpg?resize=1200,800"
+    },
+    {
+      "id": "d8ba4398191c3d4681c927",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge",
+      "published": "2026-11-18T23:18:35Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "d442346cc5e57a2674036e",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T23:17:28Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
+    },
+    {
+      "id": "5a9c64a2d43f289af72936",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-18T23:04:06Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg"
+    },
+    {
+      "id": "5a9cd3303a442ab6cd0447",
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-18T23:01:09Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "49ff21afd78ef9de5ec7b0",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:58:11Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773211.jpg?w=594"
+    },
+    {
+      "id": "af27502a0851da22b705b9",
+      "title": "South Carolina Attracts $382M In New, Expanding Business Investments",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjlQYnUtZmI3QWc2R25mbTIxUVduY3dUbk43YjNtQnFCb0ROcXFkNGI3LXo5Rl9qbmdybVFWei1VUHhkNExObVVJcE4tcXRZdEhfdE5UTWNQWEwteHN1LVAwWkxFalZOaDY3X3VqRGtXWDBwZGd0VEFDcnFqRlFDSWZieUhPQ0RMeGpBMnVQcTNqNFh3aWlVSVlrTC1QZEk?oc=5",
+      "source": "Business Facilities",
+      "published": "2026-11-18T22:53:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "4bae7c9dd7b588be8c77c3",
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
@@ -14,9 +110,21 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "id": "89463a15fdb11f74eee28b",
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including conspiring t",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "source": "The Guardian",
+      "published": "2026-11-18T22:31:41Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2eb98728e98509d65e4554fe361b577b"
+    },
+    {
       "id": "aed3ea0dfc61854d1cd692",
       "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
       "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch",
       "published": "2026-11-18T22:11:15Z",
@@ -40,7 +148,7 @@
     {
       "id": "46c96709919cd6ae50ce0d",
       "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water and medicine — just in case.",
+      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
       "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
       "source": "TechCrunch",
       "published": "2026-11-18T22:04:03Z",
@@ -108,6 +216,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800"
+    },
+    {
+      "id": "1c9f1ec88723e6c1d33fa2",
+      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-18T21:28:08Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "7d3a781439efe00a79c7dd",
@@ -204,6 +324,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
+    },
+    {
+      "id": "aede3b52849ae36566d0f1",
+      "title": "New Indy, Action Co. among five companies weighing combined investments of $302.7M in York County",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlVpOVBOLW01ZU55WmFnbmtUalZZY1VHX3dXbWIyVE1XUEFuakVvTlF6cUhjZW5TMjV2OVBCQkhPOTljMWtGUTJJRlB1bTh0WXV3RmdadmllWW0wMnZ3cG52cFZEQUtLVTZvdnhuSE1zdVhsVVhGUnNHZGpna2hiYWQtTjQ3RDM3WUtkak9iVFU3N2JKUHh0U2lubUZ4aDJGQU81OUFmM1BKa2c?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-11-18T19:56:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d6ac39404a7d961ba9db85",
@@ -590,6 +722,18 @@
       "image": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=183e876e9b972c187b3a87e88f508aab"
     },
     {
+      "id": "db774f586e79145a602ffd",
+      "title": "Press Release: Viasat takes media beyond its own network with VIA",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmlEajdGUXUzM0loZldYVkYzTG5RQW1GUWNTQV9rV1hCNDh2X05MazBBZmh3Q3NFdGhQSjY4TzA1ZXNKRUhpaEJCdHNjV3VYaXVqZnBlUVBaaW9hNjg0Q2lSYjZTclkxXy1fdFBINURFQmhycjNEQjkwODY2TW8tdjdXNU9xZlZYTUFSckpMaU9RYUp6aFdUSHU3OUQ3dTFU?oc=5",
+      "source": "Runway Girl",
+      "published": "2026-11-18T17:19:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "131d5a7ea94d17af91ef8f",
       "title": "Asian Battery and EV Suppliers Restructure Ownership Under USMCA",
       "summary": "",
@@ -662,6 +806,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594"
     },
     {
+      "id": "cc556c642a48f152534d57",
+      "title": "US artificial intelligence chipmaker Q3 earnings beat forecasts as revenue surges 103%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzgtZVBCN1ZXbDBidWlVZU5ibk1tb2JUTVRrT3VFTkV1NFNFTnlqbFJSbFNucG5sVGkyTUNnWElXTGI5M0FTVmNVaDYzWTVFT1R5dHJvc2lMNkxVV0xBS3lQZ2ltOElVWW1lT0M4S0t4dEtrdmx6RUVGNlVHQ2dNbXV0X3BYVWktc2FpZw?oc=5",
+      "source": "Beinsure",
+      "published": "2026-11-18T16:49:20Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "80df74927baeedaca5e6bb",
       "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
       "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family firm’s vast stake in the tech company. Cantor Fitzgerald, the investment firm Lutnick",
@@ -706,18 +862,6 @@
       "published": "2026-11-18T16:45:00Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cc556c642a48f152534d57",
-      "title": "US artificial intelligence chipmaker Q3 earnings beat forecasts as revenue surges 103%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzgtZVBCN1ZXbDBidWlVZU5ibk1tb2JUTVRrT3VFTkV1NFNFTnlqbFJSbFNucG5sVGkyTUNnWElXTGI5M0FTVmNVaDYzWTVFT1R5dHJvc2lMNkxVV0xBS3lQZ2ltOElVWW1lT0M4S0t4dEtrdmx6RUVGNlVHQ2dNbXV0X3BYVWktc2FpZw?oc=5",
-      "source": "Beinsure",
-      "published": "2026-11-18T16:39:39Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -1113,7 +1257,7 @@
       "source": "وكالة الانباء الاردنية",
       "published": "2026-11-18T14:26:19Z",
       "category": "World",
-      "topic": "Europe",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1296,150 +1440,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "id": "e1ac576fbceb0ffb470f7b",
-      "title": "Zai Lab falls 4.79% in Wednesday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1YXBhVldoX2w2N3BNQ3NFYmVJeExlMU1ZNVdTZzRhQndrVnZFRThjbHlBZndCcTJMRFUtUGt0LVlPS2cwSEZFbjU0NTFZZjdZaW1kU3NBanJMRjVpdHlaM0E2TVpjYjhrb0NYQjVMSERQaktzaXlkMFFZSVREdw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T13:50:49Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1921e16eb33c23c89f0206",
-      "title": "Budweiser Brewing Company APAC down 3.19% on Wednesday",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3Zid2R0YklTV3hGWHhEeU85ZnlVN19aeXVURFZ4SXJ1Q3ZaRUdfb2dxZEJjUEh4R05fVnQ5anlSSUdJeHA4OWhKMU95UHdfZ08xSnZ3RWw3M2ozb3A0VGhZOFdDMENnSDRqUlpIRVlIN2Y1WGZnXzNKNHNaS1B2YVdGUEE3aS1keGY0N2hNcjFVcnhqQ01FUnNGdVI?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T13:50:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7a0eb6ab0e1028658772ba",
-      "title": "Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNCbEpERmpHdVJoY0h6eVo0X3JPRmlwaUFtYWFkbG41eVpCMEo1M1RwVTJheXlvSHJKY295bFkyOXVOdktyNFJTaG5XcUt0eUsxTFAtM3F2U25ncndzSV9icGdHb3hESlRIVkR5bHRDQnI4OXQweWZzRUJTV0N2NlFHeFlLS281bmVkRUNPZ0pIbzNTcE5zNTVtLTZQQ3NrSkxzUEo1UjdNVE9nZ0hMR29DRkVwR2IyZ0dPVDZ0RmZLMWZ5c2RVVw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-18T13:50:10Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4854ad0ec2532d59e4491c",
-      "title": "African Development Bank Group approves €20 million for low-carbon cement complex in Côte d’Ivoire",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkt5RlRKZXloWjktZjVzbEQtV3ExQ3VvU3ZpRzQ2OWpXMzRsRnVERmFacUFYRjlCOXQxNEJHV3k1cmtVU1hrUDhpMHFrY2tLY3FEaUd4TVlva2tPZ3k2TmJqTm5OdVBFU290TUZBclViZWNGRVVjZzBvNWhtUndnaHJqeG9hSzU0QU5FX0lGY01tTEkzbHR1VFNRQVJFWHlJR3Q5N0VTaEw?oc=5",
-      "source": "African Development Bank Group",
-      "published": "2026-11-18T13:42:46Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "381953caa55550833b637a",
-      "title": "Genscript Biotech rises 4.12% in Wednesday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVmdXdmZNbmhIczhQRFE3WjRUcXd4d3N5Vml2M1BwUVVJeE5heE0zeXkwWWRzUng1cmtvdkZnbjBldHM3U1FiY2lVT3ltNW11V1VEb3V6MzNKQ0xVd3hvQjNyOHBhbkRfVnBrUjJJT19wSEFod0M1TFJ3ZVkyekZOOXNjcjhsaS1xNUFJ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T13:34:45Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b0f6f8811a9de1804b89d5",
-      "title": "From Software Engineering Student to Startup Success",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTNndnNkWktDNWx4cFF2Mk54dndtcDV5NFpPTXNEU3UxRXNVQXBKUjNCZTYydzB6X3ctaHhkQklUd25HVktsWFpTblJrSmw4eUpBa1ZqLXUzY0R5a3RQdFlpZGxyejNhNDRJazRNTnJIQ3V1Z1VtMTZORUs1Q2ZSbTE4VkdQbm9Zbzh0Zm1hVQ?oc=5",
-      "source": "U of G News",
-      "published": "2026-11-18T13:31:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a31deb9ae38c5674a00074",
-      "title": "From Software Engineering Student to Startup Success",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGxwWUd5ekdWUUJBb3A0TUdIM1laTXVUQzljeVRLWkhKT2dlVGpiTzBGQl95Wlk3VDJSOEpnM0pkOGZ1b1dudHkzT2RZcDlmVm0xZGdDNmRDNkhwOFJBZGdnc3JLNHYtWTRhWlN3MWdSQm1LYndjODZlekdETW5QZG5Ldw?oc=5",
-      "source": "U of G News",
-      "published": "2026-11-18T13:31:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a4d30fc7e0ef274f3ba1a4",
-      "title": "Portuguese economy shows greater resilience than European Union partners",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHlGTzJ2TjNHeExUNThVQzZrbkROT1R4WnVpaHVXdnlvOWVEX1AyYnUtRzRScTl5R0RUeFdCc3ZWSGtWc1U4ZVMyRXNSX3o4YjNnNXFzbGI3UnFJN1N2eUIzbXlJYVlJSVdKUnk3aUdHUFVPREc5eVFMREZuTEVWM3cxbGJySWhCUkY2SmJFV28xOU1XdkFFQThZTno0TEFteHd6UDUyRjRVX0hwcTNUMkJySWlESXo1dWkwcW9zOE1xWk5RcHdJ?oc=5",
-      "source": "The Portugal News",
-      "published": "2026-11-18T13:18:45Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "68393aec5555647665a875",
-      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-      "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-18T13:17:06Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "08a6226e73776bd3f5f21d",
-      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-      "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-18T13:16:53Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "id": "02f6fdd26497e8905587ca",
-      "title": "Prenetics Global (PRE): Q3 2026 IM8 revenue hits $62.9M, up about 266% YoY",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNU1fMy1jT0E3THUySXVZQ1dKcGt1dUFZaHQ5X2hEZUxsbk5aQUtvVlFLTFBPclg2elJXV2RSNWs2clFld0JuSTVxQ0hmTFhQWVV3cExlc2tEcERmeXJtYjM2ckNlR2U2SWxfbFpsbFJzSXRtRVNFRWFTeUdCejdYbnlpbk1LdndsOGhoY3dR?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-18T13:15:05Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "49128b8903c98a843c0d3a",
-      "title": "Seized Russia-linked yacht deterred bidder for Italy's TISG, docu",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVJjTVpYbWlWRlNZczByOGhER3dNRmZ6ZkFqeS1pb0pDdkRmamE3Zm1INjFjcDFxNVM1d0lQRC1ETzlpcUJFM0JtRlowXzV0ZHowVVNQdVQyRVhxU0FZY1c2SEtwNlVLS0RtS2tISWVnSFdnMUFTQVNmVERqVXE1LWVXYkVBV3F3a1hIVTlIcnZrdzNOQ0NKSXYwQQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T13:14:45Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
