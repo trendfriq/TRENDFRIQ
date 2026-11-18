@@ -1,29 +1,209 @@
 {
-  "last_updated": "2026-11-18T07:19:01.802419Z",
+  "last_updated": "2026-11-18T08:33:46.160504Z",
   "articles": [
     {
       "id": "68393aec5555647665a875",
-      "title": "Higher fuel prices push UK inflation to 3.6%",
+      "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
       "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
       "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published": "2026-11-18T07:15:33Z",
+      "published": "2026-11-18T08:19:09Z",
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg"
     },
     {
+      "id": "7203b12ebda5c4e4ba516f",
+      "title": "Nvidia Earnings Impress, But CEO Succession Fears Cloud Stock",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcU9MOU4wVUNjWmQ1eGd6X3BIQU0xRmR1VXZULWE1TTNvRkZLMFBCU2VUZnlqSE84aUdPS1AtZjA1UFJCWEJtd1FZLTdqTV9vNFQ3U0tLbFZqXzZOeXV4ZUJIdHRBZDJjcHVKUjJLZVRnWm1pMkk3U3lkdV82eHlFcC1sbmZGb0RzMkhrZDZTcUt0ZE5SZHpRSll2Zmt2Zw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T08:14:51Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cf5331f12d9b0d06f880c3",
+      "title": "Smiths Group sticks to annual forecasts as Middle East disruption hits revenue growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHRrZl9BRUhEYXJVcU13VXlOMDZyNzBqTXM2dVFKOV96ekFmdjF0ODZkM3puMktDODVqb21Od3dJeGNPT0lnbDA1TFRJbzVWQl82UmdVZmdELVd6SHVzNDI3QW00WUxndFlFaDBBcl9Va1RZcTBmTUp6WU5DSzIwZmIwd2pVVXRIQXk0XzVMYV96dmMtZXZnalJWV0MwaHFMWXc?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T08:05:04Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "23e2c4a6ae9e17245c03b4",
+      "title": "Oil Prices Fall as Rising US Crude Stocks Offset Supply Risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzhQdi1mVGJjbmEtUUQ2UTl6X0pWS1pFc25DU0sxanZvb0FjdmZyZUdESkVRUHZvUGsxSnVIXy1KOWVaeDdUQzFPc0dqc1JfdDJJLWJ5enBVNjk5QnVTQWJnVkQ0OHRPcVBDandWekFGWFllRW4xVUQ2T0pDWUlwOHV5a1AxQ2RBRlFqTHVrQUlEMUltRUI4b24xTGRiSDky?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T07:59:56Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "68f26c77d3f21ff647e5a0",
+      "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T07:54:13Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "57ac792e349549c1e686f5",
+      "title": "EBRD Invests Up To $31M In Hassan Allam's Water Unit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEVpU1NVcnVIZ1M1ZDllT0o5YmlxWXRVSzgteG1rd2FkRXcwMHI5ZVI2RUJYUGxFaXlnaWJiZ1BWamVmOFdqMUdwQmNtMnFMVzEwWnY1VjdUOEFKNkFuUHVIeXBPRkZsN3U3UV9hOVNYLTlpcnIzLWsycGhxdGNjWXRtRmROdVR3MGJkellvc0JxbHlGeDdCWThEdFlZcDZIQmt4bll6QXJfZzRiVXQzNmV5cnZZTTNO?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-18T07:49:30Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e33f226d47912c643b59d3",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-18T07:48:18Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "8f0bfa24d7fc221f57b669",
+      "title": "UN Global Compact Launches Business Integrity Accelerator to Help Companies Fight Corruption",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTThuaG5sekJRTGVsdTVMVU9Ec0pKd1JrdHR5cVVqbkJaNXZsRVhRc19UNVJzdTFaclJETDdPU0pwd3FMdldFdlFhcUVkTkFmdDQ4UnNfYklvTGJVbGlUQnlWQzVSVlN2VHZYZmRCV1lGR1Z6OUpzU2Q0LWNBNnlOVW5UN2dvTTRWN1B0MFRrWGNnbzVBTXA4aVR1cmFwOVotYm1yZ3lEZzcyTDBrcW5VUkROSC00VXQxSTZVOTdsYjI4SF93ZEpiaG5tTlZkRVlzOUpMTGNhMzFRZmlJcWtESm13?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-11-18T07:45:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "370079bac5ca54ba4c9d91",
+      "title": "UN Global Compact Launches Business Integrity Accelerator to Help Companies Fight Corruption",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRU9HVVRUYlF2QklsWmdMSnBCZjcwV045cURjZUJYNE9jcGRxM1QxUUhBM0pFaWlMNjVNd0J4bnVDbHZtcTYxVmU5MXVYOWgwVm0yN3N1bHBrQXlKYjNld2l6Y1dEMlpkWlg3b2Juak9MaUs0YWNPU2psRVliTHpSdHNKajMwLXJ0d1djOEtfS3VBSUtwTU5XdV92OWtWV0dkNlE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-18T07:45:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1cc8e04dd38ccc0738fb72",
-      "title": "UK inflation rises to 3.6% as energy prices increase",
-      "summary": "October annual rate piles pressure on households as Iran war pushes up oil cost and rattles global economy Inflation in the UK rose to 3.6% in October amid an increase in energy prices triggered by the war in the Middle East. Figures from the Office for National Statistics show the headline rate of inflation as measured by the consumer prices index rose from",
+      "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+      "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy Energy bills in Great Britain forecast to rise by 26% to £2,166 from January Business live – latest updates Inflation in the UK rose to 3.6% in October after petrol prices rose and diesel hit a record high amid the fallout from the war in the Middle Eas",
       "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
       "source": "The Guardian",
-      "published": "2026-11-18T07:01:09Z",
+      "published": "2026-11-18T07:44:21Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/3875a3ea387bef6016e85cfb7d84f133394b1435/696_0_3921_3138/master/3921.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1a4f1e8046900f56448c56a194d30a8"
+      "image": "https://i.guim.co.uk/img/media/8ae5d123fc8871ebf2d020abb219f5c9483c3014/969_14_6501_5202/master/6501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d28508aad2cdd1ea03eac433fdfb3f8c"
+    },
+    {
+      "id": "85d697213e2e8913179aec",
+      "title": "Al-Marzouq says Kuwait keen to draw on international expertise to boost competitiveness",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclYzZk9lS0ZERU9pMDhFd3hQalIyYzIxdmY5RUs2Um41T0U4R3luSEM2NkFPYTI1UXNNUnY2allNZlVBS1pGWnZWR3hRR2g0UkxFeGpGZ2l2NUJxSXpScFE4SUtVdm5lUjdPR3QybnpuckVidUFaLXNMMmdxeE1LMi1hcGJRWS1OUjd5aUMwemhhTjFRLUNPOFRIS29RYU9YQTdZc0RtME1DdjBxTUFLLUNLUU9SNFpjXzdsTVAtbHc1YTVjU2QtVnRjU1HSAdABQVVfeXFMT3FHM095Ny1JMmJGVUlSakRCQlBMMThfMDFoQ0hRZXE5WlNQV0FwT1Zac29TM2xNQnd2MXJ5NkdjODVCTEVuUFdLY09oYnFvS0JPd1lPaVZVMlBobVk0bWcyYVUzX2VQeWdJanp4NS1aMkJKN2huQzBHNzRqbnNsUEEtbjMxT01Dczhhc3lMMFprcFRSR3NyZDJQX25VOENRNlR4MUZUQV9NMjQ2Sms5SVN0OEI4eTZ3ZXJlLWlDM0pNLWFrRDIxY0VMWVdTT3VUSQ?oc=5",
+      "source": "Kuwait Times",
+      "published": "2026-11-18T07:40:37Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "59874287e0a213dac4fdfc",
+      "title": "Nvidia's Q3 revenue surges 103% as AI demand drives growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vUWZBS0xwZUE3Z1dkaDdlTUhSSUpsMWNtQ3lRTzMtZXlmd0ZTQmF4YWxLVVhqX3V2UkppNmhFVkNRMUlXYUUxQW52QldBZC1vNWQ5Z1RPNmw?oc=5",
+      "source": "chinadailyhk",
+      "published": "2026-11-18T07:33:31Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "25cdb317c4b39431d6966d",
+      "title": "Euroviews. Europe and Jordan: A strategic partnership for prosperity and a stable Middle East",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUU0a0RpRW9kTUwwUHBXd1VSQ01XWnljZGJsd2hKbUU2ZnpuVmFPS0xwUHE5c25ONktsZWFxaUZBSm5BUzg3R1JuZEVLRS1nREdQVkROcXFFdUtfWVljeG9oOVN1czBHY29XN090ekVyT3RpMHdQZ3JtRTRvN3p5RzZHTnk2N1NrSENjV25HbXZQeHd4Nk1XcG5IMmxDaDk1Nkpj?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-18T07:30:32Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "042c9012a1b61cccaa14cc",
+      "title": "Top Wall Street Forecasters Revamp TJX Expectations Ahead Of Q3 Earnings",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX2tleFlPODYyS1lxeGppa3BGWkZ3UWpleHhEZzFaYm55ZmJoQkVwRkZ2N1BDd2VCRG5jS05ETGM4WlktOVVMSjFxNkdRT2hkekVwS1BocXdSTGg4emRvblNMMXRaU05BODQ0cVE0VlFqd0ZNOXRBaTlKeEZsenF6Q3FXS3pPY0d1SUQ2VlgzNUJnSkFBeTJNT0M4QV92cF83Y2pIaHBZZV9nQXNTS2xPZ2FRakZiTXZxMmhhUUhteUJXcHhMQ1l1QVExUnRNa1pFeWM4Sm9vNG1EMnpoT2VHcGhjMA?oc=5",
+      "source": "Benzinga",
+      "published": "2026-11-18T07:20:04Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a187d6ab1d14be1da9c100",
+      "title": "Asia Stocks Edge Up on Nvidia Earnings, Anthropic IPO in Focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmtTZ3lUdk92cnNzbnU3UVNZZktxZnRXVlVyRUF5V3FBMHdxY1VXd1ZESWhIOVg1RXhxTHBaejN6bHVxcEVpRnVtaHJjdUYtejg2OFFGQlUwbEZJbXVLNVZqamRMT0JOYXpuS1RDYmJfZ1k4RDdNMTltTDhNN0w0cDBDY1FzNkFxakFIZ3dYbUNENEYzMUdvT3kwdTk1UQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T07:15:06Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c7aba06582cfe1a5082a0f",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-18T07:00:25Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg"
+    },
+    {
+      "id": "00444d92299743f3b950b2",
+      "title": "Miami-Dade County, American Airlines reach agreement to protect jobs, expand opportunities at MIA",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcEV0WklzbHVmeHlwc2duMngtMXJvMmpFWlE0SEU2ZHpzRS1xZTk2OFduQTdQNlpCNmp0QzM1U3E3ZFZ0ZWt0NmV4V2JiWDFfNVYwVlZpdjlZZWJleVIxQTNicWY4Nlc4Nk5Cc3VxajNRQTNVTHdJZjIzVlhhdHFCZi1lMHM0eWozZ1h5T1oxa0ZER243Z3MyZXcwY3Z6RjhjZnJmeEhxdU9PeGJuWDIweEF6VEV2aHFXdlAwdnZ1WTRHdFF4SUNJNzVaSm95bVJzRDdfN0VXR1E?oc=5",
+      "source": "Caribbean National Weekly",
+      "published": "2026-11-18T06:55:08Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "159dacdd01427bed28e683",
@@ -44,6 +224,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGdaV3hZMEhRNkk1Y2lteVU5bWJSLXJjckdEeE1yalVZeHFIcy13QlpJVXBNSVVhb2xzaTRZSFdHaWlYTGxDZHl4VEFxdEpJNFBpdDc1OHV4OFlFV2gzY25KLUZIcHF0SGdZNHR5Rm5TZklFLVdkQ1d1cEpRLW8zZEwwa2VOUDlja29nNVBLREJPUmp4RTNDTG12N05IVG1QSDJvRUM2di0yZw?oc=5",
       "source": "Pakistan Observer",
       "published": "2026-11-18T06:43:59Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "47f2bbe9ecd83c6f2509be",
+      "title": "China’s Xi and other Asian leaders say Asia-Pacific must embrace open trade, fair growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUkUtV24wcUdJeVZ2VzV2SzhYdFhJOVF4Y1JkWU5rdUIzd201bkdzTmRyT3V0bTg1cDk2YkMyREZRSTRxZmNJdHVmdE1rY0otNmlJaVViMkQxaERPNkd2YTByTmxkWFNqRzctT1otVUtXT0g4dTNyMXlmekFRQ1E1cERmeC0wRFE3TkZ0VDlIWWJYbEl3bWx1THkwcDEwNlFqUHRkM2tLNTN4d3FFRElMRS1WZmJhWmlVWXlYYUJ1NWY3b3hpZDJCbWtOaEQ2dw?oc=5",
+      "source": "The Business Times",
+      "published": "2026-11-18T06:37:00Z",
       "category": "World",
       "topic": "Asia Pacific",
       "country": "",
@@ -86,6 +278,18 @@
       "image": ""
     },
     {
+      "id": "ff43addda4165e4c352837",
+      "title": "Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdVlFZW1LMmR0WFU4LWJoSkxybWZjQllDT3NfNGlaWVJZZDk3anJheks0SlVaVnVidlNkWER5dDdPS3gtNktSLUJRd3pKU1BiZ1F1VXRjeExuMDVCQXNGck4tN2hoQmtzUmxvQ2JaTThURXAyaHJSdWEySm5CRHpyV3BJTnBlVnNWODQtNXNLZFJ3MndCNUhuNHJGMUxGRnJndzdwMDdfRDF0YWdXMGNqMjdsVTFrbmdURnlBbk5mS2N0UUdMeEFYZ210Sl83OURtcWFJRTQyS0gtRk9EOWxiMW93dEg2Skk5azQ0aw?oc=5",
+      "source": "Brookings",
+      "published": "2026-11-18T06:20:25Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "19416a09fbef0ba656e138",
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "summary": "",
@@ -93,7 +297,7 @@
       "source": "BBC",
       "published": "2026-11-18T06:04:21Z",
       "category": "World",
-      "topic": "World affairs",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -155,7 +359,7 @@
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "0c0077928980d8813baad4",
@@ -178,18 +382,6 @@
       "published": "2026-11-18T05:21:10Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "00444d92299743f3b950b2",
-      "title": "Miami-Dade County, American Airlines reach agreement to protect jobs, expand opportunities at MIA",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcEV0WklzbHVmeHlwc2duMngtMXJvMmpFWlE0SEU2ZHpzRS1xZTk2OFduQTdQNlpCNmp0QzM1U3E3ZFZ0ZWt0NmV4V2JiWDFfNVYwVlZpdjlZZWJleVIxQTNicWY4Nlc4Nk5Cc3VxajNRQTNVTHdJZjIzVlhhdHFCZi1lMHM0eWozZ1h5T1oxa0ZER243Z3MyZXcwY3Z6RjhjZnJmeEhxdU9PeGJuWDIweEF6VEV2aHFXdlAwdnZ1WTRHdFF4SUNJNzVaSm95bVJzRDdfN0VXR1E?oc=5",
-      "source": "Caribbean National Weekly",
-      "published": "2026-11-18T05:19:26Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -242,6 +434,18 @@
       "image": ""
     },
     {
+      "id": "23d1adc97af9ed01a90c79",
+      "title": "China's Xi and other Asian leaders say Asia-Pacific must embrace open trade, fair growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQOUtBWGc5SkNTTlJ4SlkxQ1ZNSnVsUTZqRS1Jc2pqcVBDWThodXhOVzkyaDMyRi1iMnhTTG1HaXNET3YzdmpyU0tZSU5PNjBYQ1ZNcnJYRlM2U3NZR0ZFR04yRzhVczBoTUN0SmRYc2RLLTg3c0F4c3M0MmQyWm5BaE5BY3ZUeVh0blppMElxbV9fa2htNllZaWtTSjNFVldUS2xNV0h0bDlXQkNMTUJkcFpoOHR2Q2dfNGFtMThnQ3NCN1NXank3R1FMSUZSNlNZR19YVkRaRXVQc2p5bTJ4czIyVllrRFF0Q0U3NThtMmJQMm1mTkFjMjdEbk9UNmN4bGM3UDEta3VmVGxfeUIwSzFqcmNNcE0?oc=5",
+      "source": "Bozeman Daily Chronicle",
+      "published": "2026-11-18T05:09:42Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "61beae6e211fcf1edaca09",
       "title": "‘Human’ wins Cambridge dictionary’s word of the year",
       "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human. Breakthroughs in artificial intelligence – led by the arrival of ChatGPT three years ago – have made ",
@@ -264,6 +468,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a45bcc2a58c657dd53ccd0612a064f0"
+    },
+    {
+      "id": "770394a85193c56f828b54",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-18T04:57:06Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/b9e12140-e2f5-11f1-910a-c953499d69d5.jpg"
     },
     {
       "id": "a6905d37a4948bd0784057",
@@ -310,18 +526,6 @@
       "published": "2026-11-18T04:27:10Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a187d6ab1d14be1da9c100",
-      "title": "Asia Stocks Choppy After Nvidia Earnings; Anthropic IPO in Focus",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmtTZ3lUdk92cnNzbnU3UVNZZktxZnRXVlVyRUF5V3FBMHdxY1VXd1ZESWhIOVg1RXhxTHBaejN6bHVxcEVpRnVtaHJjdUYtejg2OFFGQlUwbEZJbXVLNVZqamRMT0JOYXpuS1RDYmJfZ1k4RDdNMTltTDhNN0w0cDBDY1FzNkFxakFIZ3dYbUNENEYzMUdvT3kwdTk1UQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T04:25:05Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -458,18 +662,6 @@
       "image": ""
     },
     {
-      "id": "23e2c4a6ae9e17245c03b4",
-      "title": "Oil Prices Fall as Rising US Crude Stocks Offset Supply Risks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzhQdi1mVGJjbmEtUUQ2UTl6X0pWS1pFc25DU0sxanZvb0FjdmZyZUdESkVRUHZvUGsxSnVIXy1KOWVaeDdUQzFPc0dqc1JfdDJJLWJ5enBVNjk5QnVTQWJnVkQ0OHRPcVBDandWekFGWFllRW4xVUQ2T0pDWUlwOHV5a1AxQ2RBRlFqTHVrQUlEMUltRUI4b24xTGRiSDky?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T02:24:41Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "665d6744b6bbd69e15ea6c",
       "title": "Focus On: Future of U.S.-Africa Economic Relations",
       "summary": "",
@@ -478,6 +670,18 @@
       "published": "2026-11-18T02:00:42Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0c8d7d555acd42459d2056",
+      "title": "APEC ties fuel regional integration, business leaders say",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkJvY0d2QVRFRE1ydnVET2V5LW91TUtrTm5YV0tucEJ2MHFOLXJPTWgxZmFYQVBNWGRlSEdTYUk3R3NUZENKaXFRT2xON2VkR2g1bG9CT3lMZE9YV2ptMXIwVXRPZm9NbklDdVZQRWNtdkVhX1RoRUFVNDUxT3N2LWo2eDIzaklCLUE?oc=5",
+      "source": "Asia News Network",
+      "published": "2026-11-18T01:44:43Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -492,18 +696,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771"
-    },
-    {
-      "id": "0c8d7d555acd42459d2056",
-      "title": "APEC ties fuel regional integration, business leaders say",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkJvY0d2QVRFRE1ydnVET2V5LW91TUtrTm5YV0tucEJ2MHFOLXJPTWgxZmFYQVBNWGRlSEdTYUk3R3NUZENKaXFRT2xON2VkR2g1bG9CT3lMZE9YV2ptMXIwVXRPZm9NbklDdVZQRWNtdkVhX1RoRUFVNDUxT3N2LWo2eDIzaklCLUE?oc=5",
-      "source": "Asia News Network",
-      "published": "2026-11-18T01:44:14Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
     },
     {
       "id": "58ccec08be884d74fb76d7",
@@ -806,18 +998,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
     },
     {
-      "id": "e33f226d47912c643b59d3",
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T22:44:15Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
       "id": "8a256ad53f34b968604e8a",
       "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
       "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
@@ -902,12 +1082,36 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "07efe47c0a081b5737b6f3",
+      "title": "Digital Economy: International Forum in Algiers tomorrow, Wednesday, to Explore Partnership and Investment Opportunities in Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5heXZhV0RERFdJa0VwelFpMW8zZ0IwOEJwNWpzV05KV0laT1U4cWo1aE95T1NMbkk1cGZuNlpDYmFENmJienF2R3BQSlZLd2h6UHRveg?oc=5",
+      "source": "الإذاعة الجزائرية |",
+      "published": "2026-11-17T22:23:51Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8093e04bcd0e3b0447ed73",
       "title": "Keurig Dr Pepper falls 2.22% in Tuesday's session",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0s1Z2drUGN2Q19DUHBXbGNzbXQwU3hlcHNqYmZlV0dkWXZ1dnhIODFoMDBuenF1TTVJemV3cWNuN1BtbTQwZ0h4TXFQX0xWcE5aUmhndVhrWnFkVklraTFuUm1rTnlLLVNuQVYxY2ZXLU1DZVZydm1uUXZiZ2pJbkNGdXY?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-17T22:16:48Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6c4e0a49d719cc3948eb73",
+      "title": "Trading Day: AI trade unwind continues, but Nvidia beats",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2ZrUktoVWQtYzQtd2l5djM3SDJoaUNkQ0tOU3hoaUhCWGxVejNQWElMVDA1YmZqYXQtWmZkWHpxRjFGQWYtT3lIaVNmUllaMG5Dd3Q0eGs2VWhLU2xJUzN4Q2ZFa3pPQVNENmlDNFRFR2JtcVR2SXFyZHZJdG1sdVQyMllPU1VpS2t3LVZrSmRKaUdPSkpn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-17T22:08:55Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -944,18 +1148,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Jd1VPSEh1YU9Eal9zaGR4VEhmSFJERGJ4QlVZajFMOFhERUdZZTFpdUxqdU9iTURHNm1ncUxmSzFkeEMteWxyYVdDcFJjcEZkTEFqbHE3dllFUjJ0Vy1hdmpmR0xCOWtoTGhDSVZ6YkR4LWZzR0NHeHVmMA?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-17T22:04:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6c4e0a49d719cc3948eb73",
-      "title": "Trading Day: AI trade unwind continues, but Nvidia beats",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2ZrUktoVWQtYzQtd2l5djM3SDJoaUNkQ0tOU3hoaUhCWGxVejNQWElMVDA1YmZqYXQtWmZkWHpxRjFGQWYtT3lIaVNmUllaMG5Dd3Q0eGs2VWhLU2xJUzN4Q2ZFa3pPQVNENmlDNFRFR2JtcVR2SXFyZHZJdG1sdVQyMllPU1VpS2t3LVZrSmRKaUdPSkpn?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-17T22:03:40Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -1246,198 +1438,6 @@
       "published": "2026-11-17T21:00:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fae9554ba69c3ea7990166",
-      "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
-      "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California . Representative Juan Vargas shared a photog",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
-      "source": "The Guardian",
-      "published": "2026-11-17T20:59:56Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c39589936af829d82bae2511b8fd40d"
-    },
-    {
-      "id": "2b5966f6701663e55f6555",
-      "title": "Elumelu leads private sector push for West African economic integration",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWnRPa0VpelBHcVNoMXZmLVJFSk5XYWsxTzg2bUtsM2Q3MlRFZ3dORG90bzhWQkw2NlYxa0kyQ0k1V1JYM0JtVGVDVzJ1eGg1R0x4czRhLVA2X0RoejlHQWJONTZnOXVFZEZhYm9idXdseGF6ZDF4eEdsVUhXX0Rlc2JhNnZlZW02aWJ6UmVzaVYtNG1m?oc=5",
-      "source": "The Sun Nigeria",
-      "published": "2026-11-17T20:54:09Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2c3e49a00574df42486b04",
-      "title": "Carney addressing Pacific Rim business leaders at APEC summit in China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakkzejBTZ0VZekI0eEVWcWNQTXlBQlVrclc4cnBsanJMUzNKeGNPY0FvR2tQazhnU1NLbV9PbzdJdVlNZ0Z5eW9Yb3Y2UHMzMmNxaEdNUzI0TzJrM3FlTnd4S3h3eEd1ZERveC1fWDRyUFN3ZDYzMVdINGR0aTl6Vlh1Mmg5c2xhdEQzMmQyTW03a2ZxOFJlR2FYT3ZhcmQx?oc=5",
-      "source": "Penticton Herald",
-      "published": "2026-11-17T20:50:42Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "73f3c396c073fda1c5d7cb",
-      "title": "Instagram is helping creators crack down on copycat videos",
-      "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and [&#8230;]",
-      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
-      "source": "The Verge",
-      "published": "2026-11-17T20:46:31Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "7475807f0f10bfc5154fe3",
-      "title": "Africa's largest economy and Canada turn to China as the U.S . pushes them, but Beijing pulls Ottawa from Trump's grip with C$400 million in tariff relief",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPclBWZU84YkZreGhyX3dTRHJCdDNnd3c3VWMwWDk1SFBjNzhkU1BVRDBTVkU1N28tSDNWa1FSdms2TzhSZjVKVHh5bXNZai1ZaGN0NHA5NmpkdXhFckRQN0RGekUzTEFiWnlUalNIMl9nQmJ3c1Q2N1RmYlFhczFGTmthNm03VmRvNXFhTEo3NnYxYWI1RXAwX2VCUGNubFctU05ZSGlXVUVxTDB2bHVMbHdMbnFhUHRseV96b0RPODJLUmNYS0pNbHFBUGFKRmtOc2gwWEU0MXQ?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-11-17T20:45:34Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cb71482663a7e5488f9e34",
-      "title": "Perplexity Launches Orchestrator API With Same-Model Failover",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2wyTzNjNnJBNkpfM1FjN3NleHdXdlFQaEVid2pDX2g3MkhCZ1lvYXA1Z3dtRGNlWERNYlVTYnhaTnNmOHRMeVdXb3VDZElKTXVCVUY5M080U1ZfeHZUZkVsNkc0REdYekx6b3o3SnNKMm8zWkk1ckktZE1DMm1JVjcwTEswZ3FEb1Q0?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-17T20:42:04Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2d9da29e52e6f3abd521b7",
-      "title": "Over 2,000 business, political representatives gather in Shenzhen for APEC CEO Summit 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0t4aXVRZEZsSlg2WUJNR3pLUVlZakZQcjI1dzBUTXgtbUhsWVdaU0pYUV9Rckl5LUxPNHRXOW1YblFsM0xEb1AxOG1xUVg3MnBRV1pERktEVzFqbGxwVU5JVWV0Xzlmbl91VEdxUzBvUUlzZ3phajNlM1Z2eW1iWFd6SVJ2MVlNUmlUQ21kM3hINVZDLUZGbzM3YjNiZTFhRTU2bmlXbDFvUzB5bXQta01lWlVYaW8?oc=5",
-      "source": "Ghana News Agency",
-      "published": "2026-11-17T20:40:14Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b15685790342e31036972c",
-      "title": "Among social media ads, short-form video drives the most actions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSXIwLW1oR1hEQ3JOUUxmd2RKUjE2VTlFWFZQckxZRndkaW9uOW9FNmxSTkZwamhaZldQR1l5VGFKU29aWWdNRklaRmZaUHJqTHJxa0c5VllveC1kNFFjTTZwMDEwZjkzYlFpcDc0WV9QTWJ0alZkeG0wTkJsdFBuZzhoMzY5eGpUc0Jfa1NCT0RJaDlyQ0tmckwzLVI?oc=5",
-      "source": "Tubefilter",
-      "published": "2026-11-17T20:35:42Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "60be7b26c5a72d32613c00",
-      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHVZMzBvUXAzN3dTUW1aZkJjZHZLSXZneThoeFZLTW84MkUyUDlBZ0g2TEQ5aWwzVWVsTGhiYkVCaUxFNmdjVGt3bTF2ckFzTURCakxBWjljTEdUZVN3cFM4SC1Kcllhbkt4TEFWclUwNTJtNnNNZGFjMEtSdXZ0QXF5bmZQaXFIajllZHRVeWN5OE5GaS1ZRURiRWdnaGI0RnA5MXpTMnVQMGxqVUE?oc=5",
-      "source": "The Decoder",
-      "published": "2026-11-17T20:32:06Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "02f09a3f2c48291e6c9564",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T20:30:20Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "5c0fd4f636c9f4701c9d39",
-      "title": "Democrats try to figure out how not to get swept away by the blue wave",
-      "summary": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so others had just left \"What's Next,\" a conference organized by Majority Democrats, a group dedicated to charting [&#8230;]",
-      "url": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
-      "source": "The Verge",
-      "published": "2026-11-17T20:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304463879.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "985d0b433179b9b465ade8",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-17T20:25:46Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "016d95b0f32da7ba1cc418",
-      "title": "Kalshi halts Trump speech bets after CFTC order",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVM3S0JYem9lSDFxcW1YQUFoaTYzS3dTZEV6OUhfQ1dpWjYtRGg1bmZYMVVGTi1rUW15ZUxWWU5mTXR6TDBMOXd0dUhJZ3BxelJYV1lLaXM2djNkcGlaLTZuTlR1Q2J0djVhbnB5T2ROSXd4azdIcU5rYWlESzJPSzY1cVZVNW90dElyczlBSWs4dE9Gcy1R0gGcAUFVX3lxTE1zOEExRHBvMGo0RmY0U1RyeWRHTWVSeHI2Y0pBMVRySEFYUVBfRl9YaVhkRzNyaHY5b0NUZW9NcjJ0Q3ZFckRBR1pGWUlGbFVXajM4d2xiRXBPS2JZd0RZOWZhMUFYSnhlaXZVa0JxMGk5V1pyMWFsTWktdm1pbUpYMzJyQW5ycXByUkRDWmNfS0ZOTmpGVHBabW1JQw?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T20:25:22Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4dddd015223f6a7ed4cfb2",
-      "title": "Italy Seeks to Soften Exit Tax for Wealthy as Budget Faces Amendments",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHhzY3RIaEJUZnRfcnZ3VjZGcU1RWHVXNUt4d3lTUGNuZFFKQnVjVW1aY2xwc2d2R2VqMnA3X05zTWhYcTJGU3RYRjNrR2xnWTZ1S0NoZGJvM0RjSk5IX21wZVk4SWJMY0ZvaGNBY3dZQWcxMzhFSDRfOXEzdy1OQ1J3cmtZWnhmTThDa28yVlptWjQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-17T20:25:05Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7ceabc4b32b46c6d150e85",
-      "title": "AppLovin in Talks to Acquire Criteo, Boosting Ad Tech Mergers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQm5yektVYVU5SXR6c09LdnYzWkFHUW5kSm5FYnlBdWtpOUEzNVdPWFhUQ1hPRmNyN1lUbTk2dHVaYzhBZ0c2N3lTTGdpVTc4QUFnYTBIdDdjSDhhOTZJeUwwaUE2eU5feEQyU19jSlB1U2V0U2JUOHlzeUFHM09JTmZpYUtNUFlwbzFUM3NOSFg2Vl9VVkJCNE84cUNEV2ZRakE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-17T20:24:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e95d00e89f378ef584309b",
-      "title": "South Africa’s next chapter: From foundational repair to economic growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ19NSEZ5VHRSTzYzbkVNYV9CbG1uVVRlVDd6ekhyOURtZE1UaFpXdHBsMTFVS2gwOFhSdVpEelZub0pibGlvdEhybHRGT1VBWl9QV1lVR2VjSzd6a2JjNVpqMXRDTjI4NEVldDBFS0d5Wjd0ZXV0eHBxOFQwQVZENHd6cm5rY2djTkZRZE56YUI5WjNGRmJrb0htSEo0cVhYd1VhYXRfbGpCa1NfUnE1RFR6X3TSAbQBQVVfeXFMT0NfTUhGeVR0Uk82M25FTWFfQmxtblVUZVQ3enpIcjlEbWRNVGhaV3RwbDExVUtoMDhYUnVaRHpWbm9KYmxpb3RIcmx0Rk9VQVpfUFdZVUdlY0s3emtiYzVaajF0Q04yODRFZXQwRUtHeVo3dGV1dHhwcThUMEFWRDR3enJua2NnY05GUWROemFCOVozRkZia29IbUhKNHFYWHdVYWF0X2xqQmtTX1JxNURUel90?oc=5",
-      "source": "Consultancy.co.za",
-      "published": "2026-11-17T20:14:40Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 20
+  "source_count": 22
 }
