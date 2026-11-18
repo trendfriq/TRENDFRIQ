@@ -1,13 +1,25 @@
 {
-  "last_updated": "2026-11-18T00:28:41.635867Z",
+  "last_updated": "2026-11-18T01:53:36.718470Z",
   "articles": [
+    {
+      "id": "b330164a6f0ccccf334136",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T01:44:21Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771"
+    },
     {
       "id": "58ccec08be884d74fb76d7",
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "published": "2026-11-18T00:28:01Z",
+      "published": "2026-11-18T01:18:18Z",
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
@@ -88,7 +100,7 @@
     {
       "id": "d34ce25785fdf87b116dce",
       "title": "Satya Nadella says he’s AGI-pilled now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked [&#8230;]",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at [&#8230;]",
       "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
       "source": "The Verge",
       "published": "2026-11-17T23:41:18Z",
@@ -1426,18 +1438,6 @@
       "published": "2026-11-17T17:01:05Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4106545d336bb2fed02611",
-      "title": "Nigeria, Africa lose $500bn yearly to negative narratives, misinformation – Oyedele",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclczQ0Y1ekwzRUtSZU1DQkIza2RmM3lTRnMxMVNwVk1qZnFha2J1NVYwSzFIUThhRThIWXV5U1VrUHRLc0JYTC1kTXY0T0RtSjBObFZkd0o4a05VN21XdlJxS0lEZkdyM0JRamJEMlBVTFk2Qy1WNU9iZnZzaEZNNG5MX09weFZ1N21NZ1RTc2JKdjFpWk5IZzhOX09wUQ?oc=5",
-      "source": "The Sun Nigeria",
-      "published": "2026-11-17T17:00:28Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
