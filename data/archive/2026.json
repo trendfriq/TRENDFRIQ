@@ -1,5 +1,77 @@
 [
   {
+    "id": "4122aa6872a279466aaa8d",
+    "title": "Critical flaw found in vital internet platform Java",
+    "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+    "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-18T04:57:10Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "id": "a6905d37a4948bd0784057",
+    "title": "Enhanced services trade expected to bolster cross-border businesses",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCaGxOMEttelFSRmd4OGVYUVRxRGxzY2RDN0VjTGZhSGhocDZ6OTR4Tnk5VFl0MUQxWTZ2T083UmVSdkQxMllLemxrMFA2Q3VFUlVYSlJkbGU?oc=5",
+    "source": "chinadailyhk",
+    "published": "2026-11-18T04:55:28Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4b91cd3c0172f22e320823",
+    "title": "OpenAI launches GPT-6.2 Astra and Sol artificial intelligence models",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1NkNTlSTWRwaVJGZEg0YkJ0Y1BaRktoWEtpNFhNWjBuRG56N2w3ZEhDd0xIOE40dmhiZHZCdllqb0RZaXo1dFJZTVQyQl9hXzRtS2dUb2NpdFNoRFZRTzB6Y1piclhQZ0VHX2tvV3ZYb0xSSGJvdTlBelU1QlNlTG1XRmY3cGszd1hzLVF3b2FnWWhsaGd3MkYwcmxoREE5MW5BSDNGVVhhU3JWTk8wSFhyZ1J5Z1k2TTdsRmNmRlhiQ1B4UHZFQ1lfemk4bk1vc18xUTh3MTRVMk4xZEdmbEpGOFdPd9IB6wFBVV95cUxOcGVLeFpzeFhYLTlMWGplVHB3N3JMSjJfaFAxMTFVbmNZb1ZZQ2hJOWVDUmVmNTZOVzluS29fdVBQMzEwY3dJUXdfNmtBY0pDa2lWTElreW1UZ0haN0hKRVl6cTdlUlZIZndvcVJkN0R4ZVFfelF0R3NDSkRycWQ3X19kR2swcjVvMUhqbUpqYW5oZ1paamxMR0t6NGVZb2dUNEJoWUZLUmVnVDgzQW5vN2RjbGVEa2xySmZNOTB1ZzIzYkJyb2NOelhsQ1FOam9lVTdBV1Z5cFpXMldRb29CdzQ5bEZrTmtWLUVj?oc=5",
+    "source": "The Times of India",
+    "published": "2026-11-18T04:39:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7d8a94ef571e8cb8e4f2da",
+    "title": "Wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+    "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this year’s boost to minimum pay rates for millions of lower paid workers – but still not fast enough to keep up with the rising cost of living. T",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+    "source": "The Guardian",
+    "published": "2026-11-18T04:33:40Z",
+    "category": "Economy",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91fc27a5f8b59d38a3fde09536698f7a"
+  },
+  {
+    "id": "7a6b8eafc69818f97ab212",
+    "title": "UAE Focuses on Precious Metals for Economic Growth in Tech Sectors",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9uUjJIVGxMOUliem16SzU1cEZ4TElPSURXaUo4SzVrOUpzY0RabEtPSUQ0V2xQaFBIZlBvMzhXclNYelhubTU4Z1ZWVE1EU3hxT29KWnFiUUgwZ0ZpOXh1Rzh0Z0plWVFyQ2VRbDBGQXdwdG10Wk5MMDJ0UFhock9yTmJiMzNDNXBfeThnRktMSkVvQVEzMThPYw?oc=5",
+    "source": "UPPERNEWS",
+    "published": "2026-11-18T04:27:10Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4008c0ac813f4ebdfafe5c",
+    "title": "PH Pres. Marcos Jr. to attend APEC CEO Summit in China #ANCHeadlines",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3dGVVZTcnlHSFVzbnFabHBvc2ZTVlhuTmdvWGNpSUlUS19IcFhWS3JyZUJidlVtUTZhU2tEMUpwU3BQU210TDdUa1VzaEtteEViWVRUWWJrdi1TQXBFY0VZWmJCdm9wQkVJazJFeUp1eTBrbHpndnN6RG1RYXZjNzJJUXpCdnBPM0o4VEhsbHdUUUVpRXBod0NUQjZuVWJfcW5HaUU1OFV3NUF3YXBqeEJ1R3djZnRTcFpRalhUZmRfQUk?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-18T04:08:29Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "aefafb26555ddd574a9969",
     "title": "Putin Pitches Russia as the Place to Invest During Xi’s APEC",
     "summary": "",
@@ -60,6 +132,18 @@
     "image": ""
   },
   {
+    "id": "09081b6a7d3983f63468b3",
+    "title": "China's Xi calls for free and open trade at APEC summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXZ3clpleV9zeHZPMEpwYVFYcThRWGRwVndtaXpLcVFjNWtjc0dIM3ZJYUF2SDRKcTRwbjhDWl9aQmFLZDhUb0pOaGxOZEpib0QzclVUN1oxQmFMQklKTXdmejR2ZGs4VjljaUVhWFA1WFJXdzE0SndYN2d2d0taWGZCQnN3UUxtdlI5M1hrbGlEcVBSTEJGRXkzenhHU3RJeW1sWk1YakNBZS1k?oc=5",
+    "source": "The Standard (HK)",
+    "published": "2026-11-18T02:41:23Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e2ba4047b138bc99f2aa8e",
     "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
     "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
@@ -92,6 +176,30 @@
     "published": "2026-11-18T02:28:07Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "23e2c4a6ae9e17245c03b4",
+    "title": "Oil Prices Fall as Rising US Crude Stocks Offset Supply Risks",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzhQdi1mVGJjbmEtUUQ2UTl6X0pWS1pFc25DU0sxanZvb0FjdmZyZUdESkVRUHZvUGsxSnVIXy1KOWVaeDdUQzFPc0dqc1JfdDJJLWJ5enBVNjk5QnVTQWJnVkQ0OHRPcVBDandWekFGWFllRW4xVUQ2T0pDWUlwOHV5a1AxQ2RBRlFqTHVrQUlEMUltRUI4b24xTGRiSDky?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-18T02:24:41Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "665d6744b6bbd69e15ea6c",
+    "title": "Focus On: Future of U.S.-Africa Economic Relations",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUlSaUxSVTBGS0trTjhZeEZVaFpMTG5tVzZsS2UweFYxNG5rd1R4SWJScV82bEhzMExOel8yLXZ1NVAtaF85bXZNVHhvMVMxbG9raGFSZXFNMnl2SmIxMGEyVDlLc01SU1pGRU42OGFzWnZIZlY2UmxMQnFkenE1dG9iQVpIUnduYllwSzR2eHRPa001NHR3?oc=5",
+    "source": "CNBC Africa",
+    "published": "2026-11-18T02:00:42Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
@@ -516,6 +624,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "54663ce4d65cb18fda6e72",
+    "title": "Home Depot falls 2.52% in Tuesday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Jd1VPSEh1YU9Eal9zaGR4VEhmSFJERGJ4QlVZajFMOFhERUdZZTFpdUxqdU9iTURHNm1ncUxmSzFkeEMteWxyYVdDcFJjcEZkTEFqbHE3dllFUjJ0Vy1hdmpmR0xCOWtoTGhDSVZ6YkR4LWZzR0NHeHVmMA?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-17T22:04:43Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6c4e0a49d719cc3948eb73",
     "title": "Trading Day: AI trade unwind continues, but Nvidia beats",
     "summary": "",
@@ -766,6 +886,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a6ba1152338e25f258ac95",
+    "title": "Singapore and China: Building an open and connected future together",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzN5ZlFiUEJBX3pOZEVDWGhabEx2V2dwMjBIRGRtN2NfemJxZnRFQVFKcTNFaU1aWmNhSzRVNVFRVXU3MUFlS011a2lpWHk5aEpCZUIyNXVsVzZwNzlwYU45cklJeDZvNUNvTEY1UVIwLTNsMlQzelZES253QTQ4aDhldm9Gemx5ZFI1RlVzTU1WRWp4bDJSSXc1NTRhajIxeVlHdDVaczE3LUpuYXhjelBlUQ?oc=5",
+    "source": "The Business Times",
+    "published": "2026-11-17T21:00:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "fae9554ba69c3ea7990166",
