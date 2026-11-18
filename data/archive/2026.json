@@ -1,5 +1,77 @@
 [
   {
+    "id": "f9ed3e7bd8190f5b9066a8",
+    "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+    "summary": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operatio",
+    "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+    "source": "The Guardian",
+    "published": "2026-11-18T20:24:19Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fd432a8d8988b5fb6f99889bff69015"
+  },
+  {
+    "id": "4bae7c9dd7b588be8c77c3",
+    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+    "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-18T20:14:57Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "id": "df4b94a1aa19de57fafc94",
+    "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T20:07:01Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594"
+  },
+  {
+    "id": "53453b71f99b11c73bbdda",
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+    "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T19:56:39Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
+  },
+  {
+    "id": "d6ac39404a7d961ba9db85",
+    "title": "How \"China Buffer\" anchors a changing Asia-Pacific",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3dVY3hucnQxc2Zidjk1YlktYVBtM0JiZldSd2t5dHEwbWFDaG5zRVhwV1hvb0d6aXdmNkVzWVd5Qm55YUlfeXNFbTFQUmp6QWhpaFdfbkVYYjRhV2xpdjBxMi1YYVBhdS16YXFmQnJkUHBhWXZuVjJJODhtODF0dmVTZkh2QQ?oc=5",
+    "source": "The Independent Uganda",
+    "published": "2026-11-18T19:44:12Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d023ba6fde32bc2f03d6e1",
+    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional [&#8230;]",
+    "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "source": "The Verge",
+    "published": "2026-11-18T19:40:36Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "ddb45fad21371efcf8bde5",
     "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
     "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
@@ -804,6 +876,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
   },
   {
+    "id": "d50f2baa0ad256242a026f",
+    "title": "Jordan–EU Investment Sessions Examine Partnerships Across Key Sectors",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2hRU3FlcExmcVhfWm5YaG5HUThQdjA2SjRFM0tUdzVqTERMTmEzaU1qM0hkVlBHaU5KZlBXSjBmQ29CNnZPbEtxOUtETVdkd083WG5DRHlXSnFQbmtMd0VsbHVzanRvd3BPcDcwN3RyLU5oVnRYczJmMmtUU1pFTmhGZXBvbldaNXEzWG8tMmhNcWMzS0VJaGdmeWVzZw?oc=5",
+    "source": "وكالة الانباء الاردنية",
+    "published": "2026-11-18T14:26:19Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "4a71e234ffdbfe6134e358",
     "title": "From defense technologies to artificial intelligence: 12 Ukrainian startups showcase their developments at Slush 2026 in Helsinki",
     "summary": "",
@@ -990,6 +1074,18 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1YXBhVldoX2w2N3BNQ3NFYmVJeExlMU1ZNVdTZzRhQndrVnZFRThjbHlBZndCcTJMRFUtUGt0LVlPS2cwSEZFbjU0NTFZZjdZaW1kU3NBanJMRjVpdHlaM0E2TVpjYjhrb0NYQjVMSERQaktzaXlkMFFZSVREdw?oc=5",
     "source": "Global Banking & Finance Review",
     "published": "2026-11-18T13:50:49Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1921e16eb33c23c89f0206",
+    "title": "Budweiser Brewing Company APAC down 3.19% on Wednesday",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3Zid2R0YklTV3hGWHhEeU85ZnlVN19aeXVURFZ4SXJ1Q3ZaRUdfb2dxZEJjUEh4R05fVnQ5anlSSUdJeHA4OWhKMU95UHdfZ08xSnZ3RWw3M2ozb3A0VGhZOFdDMENnSDRqUlpIRVlIN2Y1WGZnXzNKNHNaS1B2YVdGUEE3aS1keGY0N2hNcjFVcnhqQ01FUnNGdVI?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-18T13:50:43Z",
     "category": "Finance",
     "topic": "Global finance",
     "country": "",
@@ -2744,6 +2840,18 @@
     "published": "2026-11-18T04:27:10Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "685c20da608ef4d084092a",
+    "title": "Venezuela: A Roadmap to Recovery",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xV1ZVSkR2Q0Q2WDJjVnRaSlNWYm5nVnZJdVY4S0libDBIQUtoeE9jeTRRQlpYMVVuY0JYZHpRVjl4MWRWblBxNEwyOEo1UVNuc3RJS0xQbXZpeTkwLTBfa0JhdDNMQTZxZDdhXw?oc=5",
+    "source": "Center for Global Development",
+    "published": "2026-11-18T04:10:49Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -11912,6 +12020,18 @@
     "published": "2026-11-16T08:03:03Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "104ce656fb9479499ef68e",
+    "title": "Yatra Online (NSEI:YATRA) Stock Forecast & Analyst Predictions",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOXA5OEVEa19kVHZYY21UTjRaQWVGVXJ1NUNSXzB0eXRTa3V5WUtKVVA1aW9mdkZZQWZUWi1JbE83dWt6S0ZxZjdmSVlNWmlQX2h4OW5GSmRORENaNzFBNGlsRlhhdm5feFhLQWdkd1phZFdIY2YtQzhfLUpSUnp6V21kM3E5YUZxY3JENUZ5SQ?oc=5",
+    "source": "Simply Wall St",
+    "published": "2026-11-16T08:00:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
