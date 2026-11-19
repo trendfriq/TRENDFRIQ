@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-19T03:57:53.865858Z",
+  "last_updated": "2026-11-19T05:06:19.767102Z",
   "articles": [
+    {
+      "id": "7e899859bc95fd1532a1b0",
+      "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
+      "summary": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research, meaning there are more homes with GLP-1 users than those containing vegetarians and pescatarians combined. About 2.6 million ad",
+      "url": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
+      "source": "The Guardian",
+      "published": "2026-11-19T05:00:19Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/88e6d7e1c76f8a0c6e301cf01e016ee36231af44/326_0_3335_2668/master/3335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a30742bfcdee2a4a6a8be7e9dee69fb0"
+    },
+    {
+      "id": "1c92fbffc76f64e2559189",
+      "title": "Sustainability: the geopolitics of the green economy, focus on China, USA, Europe and Africa (2)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2h6aVRrZFFISU1HVWxBVXJvQjZidjExX01LRUhuVzNST1hwWmxKNEkzLUtCNFRHUnR2SGtfd2IwbDNnUEJ1eDk0OEZXeVZjMG53aEFRQ1lnMkpCbUJnbFNvWTdwVWg0cDdhYTVQUjlPWDlxaF91aWtXa3dEdDFaNU9UR1ZUcWtIQWVacWxHRFNxR0ItMmY2V0RadG1KS1o4OWxlT0Q0SWFwS25NcTBaMENR?oc=5",
+      "source": "jiji press",
+      "published": "2026-11-19T04:44:30Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b294a552230e3405b555f1",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T04:42:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg"
+    },
+    {
+      "id": "4869916160539b65c1d65e",
+      "title": "PM Wong urges Apec leaders to keep Asia-Pacific from splitting into ‘competing economic blocs’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUs4X21mWGtxTW1PY1Nlb0RWVExyeGliZjA4Z21lOGVyYmRKU0hSLXV2aGt5cUU0NXdmWDRfOGg0UGhpWUNZSHNQQTdGb21Jbnp3cXRTbWs2azNNaG5XRGdoTXU0SU9WNjBXNUNLWno2WWc2WWJ2NzZNbEtSRFhEX0o5RzRlaHpDaHNnbVhoNy1sNlpfeE1NODNleUVQVzJCTjRsTFY4dlltc2g5cENpa1VxbXNjX0liWGRVZUdmczU0MkRG?oc=5",
+      "source": "The Business Times",
+      "published": "2026-11-19T04:39:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ecb256426dd1c275361141",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T04:37:17Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+    },
+    {
+      "id": "2b7e66a3cbc379a3c66f29",
+      "title": "One in four women globally unable to refuse sex within marriage, says UN",
+      "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of wom",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "source": "The Guardian",
+      "published": "2026-11-19T04:00:16Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/91c39e6279d80734110ea1274bb82ba750178aca/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e76bf92b365de1646f5e3c20eec76ca"
+    },
+    {
+      "id": "981bdee3bc8783e1531839",
+      "title": "JOYY Reports Third Quarter 2026 Financial Results: Total revenues...",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0NVZW91RktjR2lCYlhJbWQyWWNBWEM4ZmhNMl9CRVl3Qzg3WEY2WjN4X2hUNVFxVDNhdW5FYUcwd0dLSklScnRGd3BBZWF6UUx4SUxQTS1MVlBKd0YtSU10N3pWMXR6OVlhWnlFWU1JY1Bua1k0Y1dROXNMdXBRUjlLT09PV2czanFVYklLQjltNHhJbGtRYnAzMlBuQ0dPWmJ2OU5lTW92OWRtMDlnODZHT0c?oc=5",
+      "source": "Quantisnow",
+      "published": "2026-11-19T03:50:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "5b76b8d80d91a94330fa82",
       "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
@@ -132,18 +216,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "ecb256426dd1c275361141",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T01:05:03Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
     },
     {
       "id": "877afe82f192b0c861e959",
@@ -300,6 +372,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
+    },
+    {
+      "id": "49df0d8a85e4a7fadfa615",
+      "title": "Google launches Gemini 4 Neon with Opus 5.5-level coding performance at 25% lower API token prices",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTEZSUEtSV0dGT3g1ZXlGVW0xdjhfbDZnclc5RUdza3pibmNqaktCNUNOTkxuSzVabEppT2JZNEFMYzZmN3ZuNk9XNEl0cWZjTTdKQTNNUTBOZWJVNXFVc0ZyNEZrLVBjM2dLZExkc2lfbFpLQ3VmYmJLT1NRRzAyT2FJS1NRc3EybXpvdGZqTURJcFNZYVZQX2hqcVBQM08wMW5SUHVQU1VRNnBZcERuX3E3NnRSMXdQZTRmSEdIREZERzJXWlFNQ1RaV20?oc=5",
+      "source": "VentureBeat",
+      "published": "2026-11-18T23:33:31Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
     },
     {
       "id": "a841d7eae2401c931b50a8",
@@ -732,6 +816,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "559a4f6b8b2663694330ce",
+      "title": "Egypt Nears $2.3B IMF Payout After Staff Deal On Final Reviews",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2RPSE9PSGF1MDhCTDljdW15WnJiaElQN3ItcXVzNFc5U2xBQXRQMml6Skw0Zk1vN2ptZGItSjRGMHNkWGZLZzlrNS1fVEhYR2VIX01wVEpvUW41SUpGZTQ4X1J3aWpZV2k5NGFFYWFrRzA4LWNlRmNLUjNzYV84cGNxR2pkalV4RWlmZFhDaDRoWWxhdEttOGRKSGVsQ3ExWWJvWGNLQ20xaDM4UWZZ?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-18T19:39:25Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ddb45fad21371efcf8bde5",
@@ -1344,102 +1440,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "6baa66ba6651a204d71b45",
-      "title": "BlackLine and OpenAI Partner to Launch Agentic AI for the Office of the CFO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY095al80SU5WRHZIUnVSSEYyTFZ6S3RzREUxN1VNZzBMeno1bFJ5WV9SRVlJNGNFZTRXcGxHaEhzcDJCVGVBN25Kcl9ZNlVTTEtVdGRYUHdaODVyc0s1RW4zNzBnSGp1VGNoWjA2ZjI0MHdQWjBaTnNMNldCd2o1ZnZMRDJwTFJ2b2QxcVRhZV9Kd3ZiVGE4d2prbWQwREFPVlZlbTlCRlp1cWRq?oc=5",
-      "source": "FF News",
-      "published": "2026-11-18T16:29:06Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "36bba2a8bd66745c3a1660",
-      "title": "Clapper Ranked Number 119th Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVjM4TE1zSndnTUJ1bG9SU2REWDUyTmdVODBpUzU3SFBjc1RkUFJlX0xzTE4yd3FWYllDWGI1T043NXB0NHlyTnNzTVVDNzBWVW41bmpUUXF3cWNmWkIweDdRYU1YdE9nWUxpaDhfdC1lZ1Q0X3FVMlc5aG5hV21SVl9tQjZVMlJLblFxLWdFZlFsU2dqVlJWUjRGeFhDcWllYmYweGJVZ2E3NEpFN2xmOVNjSDJWYzlYZmRmdDNxRzBmVjBzRFZlX2JvNGEwRm5iUnpnSDhfQmJNMkppUklVdmE2bHZwZw?oc=5",
-      "source": "EIN News",
-      "published": "2026-11-18T16:29:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6dee49b5630f4917e6d881",
-      "title": "Clapper Ranked Number 119th Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXE5eG5oRkFjUmpzVGxpa2NaaUY2b2lmZ1lXOVpJT0trWmVTNzd3MUNmam0xVWgySXpmLXJtYVNHaGtTUHpNbDJiaWpwQkEzYUxCS1plRm5veTF3cUN5T01NdjQ1VExablpSYWRLUENuQkZ4bFN2Ti1mMVR3RlkyMVF1bENZV0NnZWRVR2d3MkpBRTZxbUMwb0tSYkRSSjhCUkw2MkxNa2VqRzRWYjd0RVVCM0tRRkZiZzU3bDlQbnBDQnFtdnJYS2JZbTJSMDB4c2ZCLVNDSEhJcXpudDVxLVl3eGFZNkRYLXA1LQ?oc=5",
-      "source": "EIN Presswire",
-      "published": "2026-11-18T16:29:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eaeb1e564c509a5a9ad387",
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T16:14:09Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024"
-    },
-    {
-      "id": "54d4fc2f3edb9eb9ef8ebf",
-      "title": "Nvidia Q3 Earnings Ease AI Chip Demand Concerns, but Still Faces Three Major Risks: Export Scrutiny, Customer Financing and CEO Succession",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcy1wSExtQzhlZTRabTBmeUNtSmd2Z01scUM2bS1hbkh5Y3pPNllnMlZpTTlvWnRXNlZ5em5HbG45MUdUTFFJYUhFMVRMbXhZbFBKaUNROG5TQUt2Mi1yOXIxN05fSU9mbUZuZXAxQ0xYNHVrTDQ3bkZOdDdVaGZrQ0pBQ1RnZ21nai1SQzU5c0FMQnB3TE5ibEdNbXdONXplc0tMMHg1SXlfOWhvd29MZWNUS2FJME50czRQUXJjUEVQM18yYjI4Mm5B?oc=5",
-      "source": "TradingKey",
-      "published": "2026-11-18T16:12:57Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a38f101401d455881a34e6",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-18T16:10:44Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "id": "7fdefbe550bfa1b5d8e5cf",
-      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
-      "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T16:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/PS-LX3BT_Sony.png?w=1200"
-    },
-    {
-      "id": "63a4efc42c67362797232e",
-      "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
-      "summary": "After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home's main water line to automatically turn off the flow when one of those sensors detects a problem. The Shelly Neo Smart Water Valve is [&#8230;]",
-      "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
-      "source": "The Verge",
-      "published": "2026-11-18T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shelly1.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
