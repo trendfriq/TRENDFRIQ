@@ -1,9 +1,69 @@
 {
-  "last_updated": "2026-11-19T22:51:02.815433Z",
+  "last_updated": "2026-11-19T23:30:10.052312Z",
   "articles": [
     {
+      "id": "1f1b3b7bf5bc780151838b",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T23:18:43Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
+    },
+    {
+      "id": "a178720431e75cf71a994b",
+      "title": "California probing whether China improperly acquired Nvidia technology",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T23:04:30Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
+    },
+    {
+      "id": "29497fc898ffdf1afd0fd5",
+      "title": "Earnings call transcript: Gorilla Technology beats Q3 2026 estimates on revenue",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORkZsOU5pUlg0ZG40N21yQ0FCZWU5V1MxNC0xY1FkUEx2bUIzUlhFbW5YYzlSTnYzZm9pajNCTVBPbkptM0lMNGR2MHdyYzNJTW00TXBENExRR2NjLUJDV3gtOTRIVmtFb1o0ajQxeEhIZzNRQnB3NjljZVQtRG90aldMUnBlUUU5V2RkMVF2WVpTaHpnaGZ3ZVdHRW90WEtIUlVsQTctR2hRUndjenlOQnZVY0JLTVdwY3hFMlkwcTNwMndOZTNmVjRLcEIyRmVWTW9lX3dR?oc=5",
+      "source": "Investing.com Canada",
+      "published": "2026-11-19T23:01:19Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e2b078acb1e044d14181fc",
+      "title": "DoorDash falls 5.80% in Thursday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14WHUxRUpVWF9JbkZiQ2ZqMmlpQ05KMEZrLWFxbzd1SEN0N1EwWVh2X3BKQWpha21rQVhIc1VWQ28tdFFaNm40TDJYaGt6NGk1cWcwc0dWa3lYMDBpMkdDSDVOWUVfTTNNX3BraEVRVHdSYmY5Z1ZyNTFuRQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T22:57:34Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fbc93b31b43bde95e4a43f",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T22:48:22Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "id": "255531d94837d2277537eb",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you.",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
       "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
       "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
       "source": "TechCrunch",
@@ -64,7 +124,7 @@
     {
       "id": "aab5ba178748ab48533771",
       "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-      "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn tota",
+      "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn t",
       "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
       "source": "The Guardian",
       "published": "2026-11-19T22:09:18Z",
@@ -266,6 +326,30 @@
       "image": ""
     },
     {
+      "id": "4b4beacecce765429c59b0",
+      "title": "ZenaTech (NASDAQ: ZENA) Surpasses C$20 Million in Contracted Revenue Backlog Across Global Operations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc2lTNVhTTWc0bVFoczV3WjFjQWs0U0ZNTnFfZFFPQndzbE1sTFowTFkwaC1fV1daWVpLY1I4Ul9PbEtXd1hQWWtUb0lVUkdycDZKWGhCNUt3MGl2XzdqS3dTel82d01paHdUcFRQcHVfbEFZbjlpTDhncU5rU2Q5U2tUenFidEtSMjhISTNVSkwwYnJRU19raGp3ZnhBRnliRUpkUVJoZWhmRVJiZVpzYmJFQmliR0w0SUJOU0wxelRwbGlMb0taNHFfd3hSMmplNTBlZFNrcWVDajZpVk43WmpfWQ?oc=5",
+      "source": "USA Today",
+      "published": "2026-11-19T21:09:54Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "690a3a9acb8b27f056c11c",
+      "title": "Bending Spoons has entered into a definitive agreement to acquire Mailchimp",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGtTUm9zOXJnaklYMHRZa0pUaGEzUVFwRnpqUWVxSHNwSk14UW9OMUpvcGk0dndTZVBtVTlHT3NjVE9NVGppNU5HRlFSWDl4NkU2VVFfSmxnV3FGYzdfdDBOYUpwOFA4Qml4MGhxeUZLM2dlNkRkNG5aUXZrYl9KbzZlTHV4MzNZVWo5NEg3dXRZYi1GX3dFYUloTk5WM2lBWTQteGRWc2h4YVltSGRXbzlFa244d1N6cFRNVHhwMUlJNUJVWEkyZUw3bUs?oc=5",
+      "source": "Business Wire",
+      "published": "2026-11-19T21:00:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c590d7e06593ec0d16b301",
       "title": "US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate",
       "summary": "",
@@ -274,6 +358,18 @@
       "published": "2026-11-19T20:42:21Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "429d6ed968f7d488d6967d",
+      "title": "Dothan Welcomes Five Farm Technology Startups",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWZtQ05UUzNMSjdUbGtpa1p0VkZpTlVGMWNoYTM0TWhIMjZRaDJtOU91bkhsalBpN1VFTHBQYlVXRzZMckgzWDhUYnVuSkE4WEI0Yi15amlpWUhmcG9xOTZwbVdHMlZkSndfZmd5X3gzNzF4TXpoeTY1MmFPYkJzdE1oUFhVNDJEZjIzcjJnR1FIOUNIMHBUREdfTTRIVExJOXlPMw?oc=5",
+      "source": "Wiregrass Daily News",
+      "published": "2026-11-19T20:29:08Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -393,7 +489,7 @@
       "source": "Atlantic Council",
       "published": "2026-11-19T19:30:00Z",
       "category": "World",
-      "topic": "Europe",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -525,7 +621,7 @@
       "source": "Reuters",
       "published": "2026-11-19T18:34:39Z",
       "category": "Finance",
-      "topic": "Global finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -1342,102 +1438,6 @@
       "published": "2026-11-19T14:00:00Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f1f026a09ddeed0c7414fe",
-      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-      "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
-      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/TRACE-Keychain_.png?w=1080"
-    },
-    {
-      "id": "91089de2fc64468c9b7f5f",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Static_Go-Proactive.jpeg?resize=1200,675"
-    },
-    {
-      "id": "3946bd52e97bbeecf20f5b",
-      "title": "The wait begins for GTA VI on PC",
-      "summary": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and that's especially tough if you're [&#8230;]",
-      "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-      "source": "The Verge",
-      "published": "2026-11-19T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-15-copy.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "607807410ad52273627cc2",
-      "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-      "summary": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "source": "The Verge",
-      "published": "2026-11-19T13:53:38Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "4c58e294624baba8cc4885",
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-19T13:35:52Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg"
-    },
-    {
-      "id": "3a9772090578074eed615a",
-      "title": "Jarir Marketing Company SJSC up 2.76% on Thursday",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRjEtUG5MUUhRTk1EMHN2WjdKX2NPWVpjRUcyTWV0TE5kd0xvdUxhYnhaVVNQZHRHc2hDRHAyTDhvWFpHMGoyUS1RZ2dlYXN0eUhYVXY2S014MWFZd0ZNek9tVDhaNTlMVzRZN2JNbFFVSWduWTRYWEFNNFgtTmxfejlBZGRYcHhFaks5Nlo0WWNEY0JRb1Q1SC13?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T13:34:48Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0f1dfbdae502ca8b95dc06",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T13:31:23Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
-    },
-    {
-      "id": "7b2fdb6afca7bad3d70cbf",
-      "title": "Google Plans Orbital AI Satellite Launch on Blue Origin’s New Glenn",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkpHejExLXVHNFYySHBqclVMYlBobHVvQ3hDSmdia09iSDdWbUpkRExfSHZGSXA4d0N1X1VBazBLVUV4SjkxRnVGQzNmV2NETGhHWjlVTld6dlZlOE5wd29SUVpwTWstN25vZDRDaWFGR2FhRFhNVnd3VUo3bW9UanhJejRhb2lLVzkyUjdnMk1adw?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-19T13:30:04Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 18
+  "source_count": 22
 }
