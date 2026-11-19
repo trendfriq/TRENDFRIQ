@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-19T14:04:16.033229Z",
+  "last_updated": "2026-11-19T14:58:14.247403Z",
   "articles": [
+    {
+      "id": "ddb4b8e8befa63e4944ce4",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T14:54:39Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024"
+    },
+    {
+      "id": "a877d9024fdc17fefb77f6",
+      "title": "Africa could win climate transition and still lose the economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRW5vMnkzM3VVYlh3VzlYa1NDQ0lmbnFqSmpOZy1Wemh0ZnYyNmZ2V0dUdVdILVBMRkw0N0NBamV1VDJ2b1RRVEVBOENiRkg3eHhpSW1JbDRiVWxrV0xYWERKNUpOYVJjMlJndTl1Ni0wVFJzUG5TVW5TQWhwd1c3TUlNQk55NUZYU1Vacmdn?oc=5",
+      "source": "KBC Digital",
+      "published": "2026-11-19T14:54:06Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "73bdd684bd1f1f5ffa6581",
+      "title": "Trump Announces Over $17B In Southeast Asia Deals With $12B Jet Sale",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2ZuUzhmdzBPMC1uYlpkMHd5YWJ3Sk5pQ0FhUHNXRzNLRDdWWWxMY3dUbXJxT0dXOS1pNDFvRFNKNGpoMkJMdlh5WjBObF9YQXdxLWx0Uy1tOXR6QWhXdjVoQVViM1EwcVJGVEpvYi1lSi0xSF9RenZsRjNINHU0ZVM2bmllSEZUTE9xUHZoaldYRVZUc0ktQnhjbEhoSTY3R2VIWktNWmR6RlVOeDlxVXJaM2d5Ympk?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-19T14:51:26Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "541004407d45f645efa6b1",
+      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-19T14:47:04Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c44f22562c2a34536be1cd",
+      "title": "Anthropic rings Nasdaq opening bell as trading begins after record IPO – business live",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company ",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-19T14:44:43Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/54ae997b20edc06ec859c1226f9b60e2e4bfbd89/462_0_5872_4698/master/5872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c192a7e474b1a855c78170a58187ab23"
+    },
+    {
+      "id": "1925f6cce47778e1b2107d",
+      "title": "The Analogue 3D can now update itself over Wi-Fi",
+      "summary": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, the company's modernized version of the Nintendo 64. Although the console has had Wi-Fi [&#8230;]",
+      "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+      "source": "The Verge",
+      "published": "2026-11-19T14:32:33Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "60ff07a70f51c3692ee092",
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "source": "The Verge",
+      "published": "2026-11-19T14:25:37Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "833ce87bca6dbf3d48cdb8",
+      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdEluOFozVTdGTElxUnN3V09KNkljLVJZekZwa1R5N0NaUk1lNWxVX0ZWVlVlY3lnNGEtUTU4ZUEwWjc3MmRudER6U05rQ0swZXdhTnZPLUdMYlM0dFpzVjRvcW9ZMUJaMUhBVlhONDdHMzRhU0JYTGZ0WlVJWWJDanZiRkhlNjBhYXRob1RnaGZ4akFHVmVtaEVSVC04bmtORnZrblNlOXE1aENlSEYtN2JjRVNqYnNncFNxMEllSFdkano3WDVBSG5hQmtEY3JvNWpiYXlMdXdOV1Q0a1AwdVRYSVVsUnM?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-19T14:14:49Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "03d06febac31a1c611b869",
+      "title": "View United Real Estate Development Company SCJSC up 11.71% on Thursday",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUlpdTRGTEtoMGE3cWNRRmVtVmpTZmhqalV6T3B3U2EwWm9KdHN3YXc5d2tBQ1BfNlhMaFdZWTZ4b3ZKekxtUjRpQ216NFg3LWZHdWlQTlp5Rmd0LWdHOWZsdFFaa21saG5BRDkzN3NnUi1qX0FWT3ZkeFE4eU1hTlVVOGYyZHBsdjRwMGlJWlZzR2p1d2lDSmRRS0hOUVRLNzBvZWVPQmFDUWNaMjFoVGdZU2M4UQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T14:10:53Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0d98fc7fe61dbd7e488d23",
+      "title": "Labor leaders call on governments to stop awarding Amazon public contracts",
+      "summary": "Union leaders from 19 countries urge reassessment of ties to Amazon, citing company’s poor record on worker rights More than 30 labor union leaders from 19 countries are calling on governments to review their public contracts with Amazon and Amazon Web Services, citing the company’s poor record on worker rights and collective bargaining, in an open letter pu",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
+      "source": "The Guardian",
+      "published": "2026-11-19T14:05:21Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/777da2deae52c2f9b27d896c5c1bdf7d7e81aaea/156_347_2891_2313/master/2891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a1ad4eaf96f7bb0ce57142132b98493"
+    },
     {
       "id": "81bac5c82eb26eeb83d023",
       "title": "One reseller accounted for about 98% of Game Your Game's third-quarter revenue.",
@@ -62,18 +182,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "c44f22562c2a34536be1cd",
-      "title": "Anthropic shares expected to jump when trading begins after raising $81bn in record IPO – business live",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company ",
-      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-19T13:51:46Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b5c13b162c5a1a1e1ddc0fb962fa4a307964a7d1/567_0_5667_4535/master/5667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bd8c4f61e3dd1eeb0563ea35a989af01"
-    },
-    {
       "id": "4c58e294624baba8cc4885",
       "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
       "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
@@ -110,6 +218,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
     },
     {
+      "id": "7b2fdb6afca7bad3d70cbf",
+      "title": "Google Plans Orbital AI Satellite Launch on Blue Origin’s New Glenn",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkpHejExLXVHNFYySHBqclVMYlBobHVvQ3hDSmdia09iSDdWbUpkRExfSHZGSXA4d0N1X1VBazBLVUV4SjkxRnVGQzNmV2NETGhHWjlVTld6dlZlOE5wd29SUVpwTWstN25vZDRDaWFGR2FhRFhNVnd3VUo3bW9UanhJejRhb2lLVzkyUjdnMk1adw?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-19T13:30:04Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b8675b27cf00a97f5a0c7a",
       "title": "Grand Theft Auto VI understands just how important a smartphone is",
       "summary": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy [&#8230;]",
@@ -130,6 +250,18 @@
       "published": "2026-11-19T13:17:39Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cc80349c478096d0db1e07",
+      "title": "Why Tariffs Aren’t Bringing Factories Back to the U.S.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOENZS3JQdWY1MUlzRmJkV1RXWDI0clVhdEUyR0tGOFpXOGJ6RWE2ekRqMGJzLW9DVnh5dWF5VEl0eU1yd1hqQlBvRWRRVFM4cUQxM2Z2YVVUaVRTLXNGSnFNOVRxTFk1YVpLX2pDeUhSUVd3QjFyYkpXRTZGVklUWkdB?oc=5",
+      "source": "Harvard Business Review",
+      "published": "2026-11-19T13:16:24Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -155,7 +287,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg"
     },
     {
       "id": "a44a0e1cd06b9b19426c1b",
@@ -326,6 +458,30 @@
       "image": ""
     },
     {
+      "id": "c591956c1c062f8185c1e9",
+      "title": "$26m African fintech fund puts South African startups in focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9kUEE0MnJnMHA2ZkhKUUhCOF95dERBb3ZwUVBfMkhzWlFJVEhTTl9FV05nV1FKS3ZWcnJ2dnNvRkxoOWxkRjVySGtVYXF0N3VmWmZKQUVjTmpZd3NhQmJzaDZTNUVzMnlOX3JlbjNlcUp5d1AwZW1jZGtQaHFwV3g2R0I2TGZTT0FtUzBkQ21MM3NBX0c1dGRIMURrSUNMcHd3bk1XaGduUVVi?oc=5",
+      "source": "IOL",
+      "published": "2026-11-19T12:09:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "201cabf4ad75688741d378",
+      "title": "Ecer.com Launches EcerClaw, an AI Agent Platform to Drive End-to-End Growth for B2B Export Websites",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaVpta3ZoaVJTRkhKNkFSTWJoNXJvVUVTSzBZemxUQXpCNEY2T1pDTG1xQlZGSGZQY0JQU2RkQXEyMFBhMlNxXzZaTEMzN0Y5TEtTWk9xZjZSMm5YczBpTGJxVGRMNmc2X3dMWkgzc0hBeWNYN0JuTlEwUk1IVUhjZzFpWmlpMGNoam9pZ1gwekRnUm1GcWtsYWxGS09kT0YtMUZnRm44OE9JXzdrclM3WDJFVnhILXVOMC15elI4eFVSVjE3ZDFVS0NDakROSXFQVVZ2d1ZzbGJKWUJDNXU2bmhuQmtDMlht?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-11-19T12:06:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8b96cd6eb39634ddfbca70",
       "title": "Lehigh Valley business leaders see AI as the future, and not a threat, to workers",
       "summary": "",
@@ -348,18 +504,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Keto_Anorexia_Lede_B_v2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "541004407d45f645efa6b1",
-      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-19T11:59:15Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     },
     {
       "id": "3d167f7589a846bdc60bfe",
@@ -396,6 +540,18 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "29b28d61ecc7b2f0dbcdeb",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T11:44:57Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg"
     },
     {
       "id": "f4710a7c403337c3cba4a7",
@@ -470,14 +626,14 @@
       "image": ""
     },
     {
-      "id": "c591956c1c062f8185c1e9",
-      "title": "$26m African fintech fund puts South African startups in focus",
+      "id": "199f3c371aa757a21beaec",
+      "title": "BOE’s case to raise rates again may strengthen on UK price data",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9kUEE0MnJnMHA2ZkhKUUhCOF95dERBb3ZwUVBfMkhzWlFJVEhTTl9FV05nV1FKS3ZWcnJ2dnNvRkxoOWxkRjVySGtVYXF0N3VmWmZKQUVjTmpZd3NhQmJzaDZTNUVzMnlOX3JlbjNlcUp5d1AwZW1jZGtQaHFwV3g2R0I2TGZTT0FtUzBkQ21MM3NBX0c1dGRIMURrSUNMcHd3bk1XaGduUVVi?oc=5",
-      "source": "IOL",
-      "published": "2026-11-19T11:11:54Z",
-      "category": "World",
-      "topic": "Africa",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wckxWUkFVVGRzMFV2cHozWW50eHFmemtYTlF1VXhxazJ1Ynl2X1hQRnRXcEpROWRpX1FxZ1JCeHNVMG5MRzdZUUhlWGNUTUVS?oc=5",
+      "source": "The Edge Malaysia",
+      "published": "2026-11-19T11:11:50Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -614,6 +770,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812d/live/4b23fac0-e403-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "id": "bf8c2122f2df6d1b2b54f4",
+      "title": "ECB’s Kocher Warns Changing Climate Is Impacting Monetary Policy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVVRbFFvU3ZPNWlmTHFvU1JzSm9FMW5yRXlqRkk0eWMyTkNORHBuN24wSXI4VTlpR0pqRzh1SWllb1gxXzFyU05WOUh6SWl1Skdvell5dFl3NVBZczJETUhLckpORGhPS3RiWVpfRjdha3psMG00Yy03QTBEMHl4NlNPclRCT21kMXN1YWFnV2RNVXVDTWxoYk5TNWxjOFp1NFJ6YmhBaUthbkltbG14eVJSUVpVQQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-19T10:14:57Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b345a91aea6a2d61faa772",
       "title": "APEC serves as backdrop as big power politics eclipse talk of open trade, AI",
       "summary": "",
@@ -648,6 +816,18 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "5b3c36d0af3c0a388c9926",
+      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+      "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+      "source": "NPR",
+      "published": "2026-11-19T09:46:24Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
     },
     {
       "id": "fcbfd2c8c7285e635abc40",
@@ -922,6 +1102,18 @@
       "published": "2026-11-19T07:56:33Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1ac91dfed65937f4a29a4f",
+      "title": "Xi calls for jointly building Asia-Pacific community to prosper together",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDV0hBSmUtZUJJSi1wbjdLS0VpRFotcWNBZUdCWUdCTFZuN3ozLTBWUWRWay1EbXBCQjFKTGtSOW5IbmVubzBvdjAyNEdsU1NvZUt6RzVNMzhheTA?oc=5",
+      "source": "National Committee of the CPPCC",
+      "published": "2026-11-19T07:51:05Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1246,198 +1438,6 @@
       "published": "2026-11-19T05:24:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9ed0b265601ef4881b8941",
-      "title": "Dubai emerges as launchpad for Sokin’s Middle East growth ambitions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTF0aFByQW1hQUdoOVZETVZ4S2ZtblFRWDhqSHhpQUxoNnoyWG9zSTVYa25YQWpsM2UzX0VkcURwejBoNzA5emlWRW1vME9NLXFOLVd6V3JEWklPQXFZb0x0S0UxRmc3RDlySVJsdUZoS1AxcVhBeVZtbGd4N2FFSXRpNTNDeHBNWE5wVDBHV0k4bjNkTVlOaUM5UW9IRC1EeUVPWEMwNG56bGg5ZlBiWllkLUl4amx1UktLQ2RQMFpaUTlaUDJr0gHHAUFVX3lxTE55MXRoUHJBbWFBR2g5VkRNVnhLZm1uUVFYOGpIeGlBTGg2ejJYb3NJNVhrblhBamwzZTNfRWRxRHB6MGg3MDl6aVZFbW8wT00tcU4tV3pXckRaSU9BcVlvTHRLRTFGZzdEOXJJUmx1RmhLUDFxWEF5Vm1sZ3g3YUVJdGk1M0N4cE1YTnBUMEdXSThuM2RNWU5pQzlRb0hELUR5RU9YQzA0bnpsaDlmUGJaWWQtSXhqbHVSS0tDZFAwWlpROVpQMms?oc=5",
-      "source": "Khaleej Times",
-      "published": "2026-11-19T05:17:19Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7e899859bc95fd1532a1b0",
-      "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
-      "summary": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research, meaning there are more homes with GLP-1 users than those containing vegetarians and pescatarians combined. About 2.6 million ad",
-      "url": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
-      "source": "The Guardian",
-      "published": "2026-11-19T05:00:19Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/88e6d7e1c76f8a0c6e301cf01e016ee36231af44/326_0_3335_2668/master/3335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a30742bfcdee2a4a6a8be7e9dee69fb0"
-    },
-    {
-      "id": "41ceb8db6bde3d56334f3c",
-      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-      "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog. The International Energy Agency (IEA) warned th",
-      "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-      "source": "The Guardian",
-      "published": "2026-11-19T05:00:18Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04e5a006303486a5ece15be928de85f1"
-    },
-    {
-      "id": "5b4347a52c29e4147bdde4",
-      "title": "12 technology hubs in Central Asia, the Caucasus and beyond",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdU85QTZOSU16ZG9RVy01ZnFKcDhLWUdReE00N0VLNVg4QTdFLXZiSVlhSFZPRjJLQ0JDTEhENGN2NG9xZi1RRHBPMlFSUkFqcGpnUlUyTmVSR0ljRUpmWV9aNllZTG0yYnV1a3ZJQ0NRYnFIUUVOX01wVGU3RmRONnNEZnBBSTlPcGE2RG9mQVI?oc=5",
-      "source": "TNGlobal",
-      "published": "2026-11-19T04:54:24Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "184c69baf8bef8a37aae8a",
-      "title": "Young founders hold key to India’s elusive shift from IT services to products, say industry leaders",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY3hvcW84U01QOHExOUswQWVXNTBUdHRhcHNVclByTnRNNl83NFRXbmlOaHZWdnR0bTlDYlJ0dFRJTndfSWhjeXVSc1VHTVNmS3Y5bVVLRURZa2haZEFwVlZjVzFlcF9LR1Z6UDVJVWRDcGl5VFM4Tl9iblE1OHZ3MlBXQVA1d014NzFWTlNpOEc1QlNWMm1EUGFoV19YR25YbFgwREE4LTdLM1o2YXBKUXJ1TkxEWHdkQ21wQ3VId2w3VndIeWV5MzJNbGpsdkZQRFFWRXJjbkpFajVRYnppY3B0X0JPM0tMWGs3ZWhIRGVtbVQx0gH7AUFVX3lxTE53NFQxcmhnazVzUHFZX2JlYmRCam9GSXBIalFfSjl1YmktX3lOaXlGVzgtMW92ZXJpWmJOOEttZFFWNlZ1RnR1NUNVLWI3M1hGWWVWUWxXMENERUp2d25VdzRRcFlKbG1nRFo0SC10VE5ZZlVfRy00SG9WYXFaSk45eHEzcUFaVEVqT0Q3bUE2VXNDQmZiQmsxYzJLSVF6cmpjVlpDQUoxTVNLdkE0enJhNTc5VXZCcldLVEo4M2lKYjlzZ2VvZDhqYzhpVjdKS1JROV9SSUJpNkZ5aUNTMHBWb3ZYMko1VXdTUWxJN2swTy1jX1VESU56VnQ0?oc=5",
-      "source": "The Hindu",
-      "published": "2026-11-19T04:50:54Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1c92fbffc76f64e2559189",
-      "title": "Sustainability: the geopolitics of the green economy, focus on China, USA, Europe and Africa (2)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2h6aVRrZFFISU1HVWxBVXJvQjZidjExX01LRUhuVzNST1hwWmxKNEkzLUtCNFRHUnR2SGtfd2IwbDNnUEJ1eDk0OEZXeVZjMG53aEFRQ1lnMkpCbUJnbFNvWTdwVWg0cDdhYTVQUjlPWDlxaF91aWtXa3dEdDFaNU9UR1ZUcWtIQWVacWxHRFNxR0ItMmY2V0RadG1KS1o4OWxlT0Q0SWFwS25NcTBaMENR?oc=5",
-      "source": "jiji press",
-      "published": "2026-11-19T04:44:30Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b294a552230e3405b555f1",
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T04:42:52Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c722/live/3ea490d0-e3ee-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "1afed70b448180ac90d882",
-      "title": "China UnionPay Attends APEC CEO Summit 2026, Discusses New Path for Asia-Pacific Digital Economy Cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOb1BNM1U4aWcyMXBYZzJTMjJsTmlOc0Y5bmFGZ3NtWklRTVRha2h0S29wdGxhTjRtY24xcUMyblRMZTU4OGw1TjlzWlRIU0c0MzUxY2t5UTRlNlc4Wl8wQW5WRGl3SzJkOVp2MFU4Q2g2Qk9SVTB3a3Joa2diX2NkRUtjcXNTMGhuMVRndnh1QnVqNndkYU9rSDlGUzl0QmYxdzNOdFcyXzNla25Lc1BKdzdqa0tJYjQzRk1MeGYyX3p2Zm1lY19iTjhIR0V1YUhVVzhzWFRFMWtHOEJENWQwUDEwNWZLU0t6aXFaOW1adVZuMUpBRnJReFN1Tm16RE1BYTFGWDBwY3BNN2NWRjFET21vM084OUNUQk530gGgAkFVX3lxTE9ab1FOOGxCcUZmdWdXNk1WVHE2ak14T2tWYzJlSzMtTklsZzFSZ2dMVjJ2TExpeHZES25FYzdIZDQ5UjI3dkFpNjBfVkcwNWtoeWRqZVJrZjFtQmdLVHNOcTVXejJ2ZjV3b3hfS0JyYXZjQVJkNzZNQklZODNOYVRSRm5BemVVYU5hTk1RdXNWRUdXR0R6TVFBaW9ZZW14clNrWHNnQzZoZFhPVlFXcTE2NGxSVFdsandwOGdNM3NNblVjanZxVU9IX19TUzl5UXJRajdIQlpIeWc4ZE5maHE4MEl3bHVyNW10Sl9MY09ZT0tISGt1QUJuTlRaY2xEcFRwSmlLOXpkSXk0eWx2M3dudEJKall1dkZSeVFseUZ1OA?oc=5",
-      "source": "The Manila Times",
-      "published": "2026-11-19T04:41:59Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4869916160539b65c1d65e",
-      "title": "PM Wong urges Apec leaders to keep Asia-Pacific from splitting into ‘competing economic blocs’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUs4X21mWGtxTW1PY1Nlb0RWVExyeGliZjA4Z21lOGVyYmRKU0hSLXV2aGt5cUU0NXdmWDRfOGg0UGhpWUNZSHNQQTdGb21Jbnp3cXRTbWs2azNNaG5XRGdoTXU0SU9WNjBXNUNLWno2WWc2WWJ2NzZNbEtSRFhEX0o5RzRlaHpDaHNnbVhoNy1sNlpfeE1NODNleUVQVzJCTjRsTFY4dlltc2g5cENpa1VxbXNjX0liWGRVZUdmczU0MkRG?oc=5",
-      "source": "The Business Times",
-      "published": "2026-11-19T04:39:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6d1b35f87cdec7839f1fef",
-      "title": "【TalentX FY2026 Q2 Earnings Call】Revenue Hits ¥950 Million, 101% of Plan; AI-Native Push Drives 20% Operating Margin and 95% of Full-Year Adjusted Operating Profit Guidance in First Half",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtUmNhUFNsV0twQmxvZEhDVl9QV281d3d3Skw0QkhiME1ZUHBfVDI0TU1YYVNaMXcxRjlKMkgyc1YxMEJkZkNmdk1rRURMOWlZN0JaODZ2eG40WHk1dTVMVw?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-19T04:24:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "82efdcf81b721002f2a78b",
-      "title": "APEC Explores Shenzhen’s Transformation Into a Global Innovation Hub",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1laclVxVFpDVENRdVI1LUxUZXphbWNvMDVlc0t6bGNTSkpDb1l1WWpudDgzRndpTU9qalhlak5WNkZ1RW5OMTJJcHZwQVhNN0F5ekI3eHZ4VXhyMmRPZ00tZ0tMZ09yM1BMR2pKa0JVNTN2QTlaSG9nMTIwMTdxV0RhQk9aNWRoOTBIM2lxTDhBcEUxeWJiWlpuLXpCZTBnVnU2YU1WVFRkSF9iUFNnbTNiV2luZHc?oc=5",
-      "source": "Carroll County Mirror-Democrat",
-      "published": "2026-11-19T04:10:03Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2b7e66a3cbc379a3c66f29",
-      "title": "One in four women globally unable to refuse sex within marriage, says UN",
-      "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of wom",
-      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-      "source": "The Guardian",
-      "published": "2026-11-19T04:00:16Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/91c39e6279d80734110ea1274bb82ba750178aca/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e76bf92b365de1646f5e3c20eec76ca"
-    },
-    {
-      "id": "2106dcd7bf0c7a4e8ce2e1",
-      "title": "Meeting in Shenzhen key to buffer regional fuel woes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIb3E5c2loMlpKZTVCamk4QkpvSFBiVnhBVGNucUVHdmNacnhZYnpSbXpkb3p4cXRQUmhMbFB4Qnl1MHFjVzAzN3l3cWdQYm1iYmVpSklicFY?oc=5",
-      "source": "chinadailyhk",
-      "published": "2026-11-19T03:59:22Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "981bdee3bc8783e1531839",
-      "title": "JOYY Reports Third Quarter 2026 Financial Results: Total revenues...",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0NVZW91RktjR2lCYlhJbWQyWWNBWEM4ZmhNMl9CRVl3Qzg3WEY2WjN4X2hUNVFxVDNhdW5FYUcwd0dLSklScnRGd3BBZWF6UUx4SUxQTS1MVlBKd0YtSU10N3pWMXR6OVlhWnlFWU1JY1Bua1k0Y1dROXNMdXBRUjlLT09PV2czanFVYklLQjltNHhJbGtRYnAzMlBuQ0dPWmJ2OU5lTW92OWRtMDlnODZHT0c?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-19T03:50:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f8443787964cb37859c5b1",
-      "title": "JOYY Reports Third Quarter 2026 Financial Results: Total revenues record consistent increases, driven by sustained growth of three core businesses",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQWlE1QnY5ZzdxQ0dRQVZzSU9weDV6OURpWHctUzNuYWlZa28wTnVRUWtnU0RkSEVRSmpxSVFxZjQtMzg4YkdXSFVVM0g3X3Z4S054dlhobzRSRWpIWGdRN0c2aUxtWXpHRDBjMzVGUkxCRkxIYzdwRFhUVEtGc09KZnEyeEhua1hJY241ZXUteEwtZmJrMXdLbUZEUlM2cHRyb2s5TE9hNUVtb1ZWd0pYT2NkUkNsSVp6eTF1QnZMcXVaOUFBdVg2OExoc1YyS0VsV0lqWjEwVWMxSW8zVGdGakVjMmp3Vkh1RExpZ1VlLWlCUmowQWduVnJGeXpUUWFhWVdvXzN1OVR1UEVqaFEzdGRxSUFYdmF3UlBXSGNPVHdUS3BXM0hF?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-19T03:50:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3d539cb0a16a9afcf3f9fb",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "source": "NBC News",
-      "published": "2026-11-19T03:36:56Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
