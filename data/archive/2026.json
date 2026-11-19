@@ -1,5 +1,53 @@
 [
   {
+    "id": "b331a244d62b8fc8686104",
+    "title": "Meta’s Muse Charm might cost $300",
+    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "source": "The Verge",
+    "published": "2026-11-19T20:22:17Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1fbaae0c3ffb18e8c78aac",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch",
+    "published": "2026-11-19T20:18:49Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+  },
+  {
+    "id": "c363e4ee1aa6f6ac6b5780",
+    "title": "Google is putting AI chats right on the homepage",
+    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
+    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "source": "The Verge",
+    "published": "2026-11-19T20:05:06Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "02ec7de83a9ce465b8cddd",
+    "title": "SalfaCorp falls 2.45% in Thursday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUE1Sm9McUE0M00zUm9lQ2VBVFdfRGdlRXlBdGE3ckhvWnIySW9fMEtBTzRWUUFaVlJrWjZWZHBnc01PZzRmLXluUEo4d2JzU0VRQUVJa3I2a3Eta2doOVlmN25FcklFWWk3UFQ0V21ZYTBTVUQ3eHktRkZORG1ocS1RSjYzR1k?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-19T20:04:49Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "1e5dd32a1bb6ccc3c195cf",
     "title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good",
     "summary": "",
@@ -46,6 +94,30 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "8d003875572011c47255d5",
+    "title": "Five European ministers on why they won’t go back to business with Russia",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYllaM2JhdDJDR3lvWG5JOFM2aDlhUXlpZjdsNW53b211YlZONkpXdnJITnpfZkp0enhIQm1FV1B6VW9fQXJMaVVGaEo0YXZrWUkxQno3VDNWQ3pXcEhIVUlYcnRSTEVTNDBnNzJiRk9uS0c1a0RsZHotV29KZ1pCY1ZiajM4eFU4MWs0UUZ5dDVscEwzVGxmMUE1c2VndG9XS2V6UjRONVNaUGVVMnZaTlpJZm1KcDhyQVUyVVFFUExyeENlaHEw?oc=5",
+    "source": "Atlantic Council",
+    "published": "2026-11-19T19:30:00Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e57a543a2158670b6b371b",
+    "title": "Above the Noise: 10 things investors can be thankful for",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzE0NHFnZzZ0ZlE5TG85c0lpdV9EWno4d3RtcFExNW5QSVNwM3Vfellhbm4ydlNCMlNDVHEtWXY2R3pNS0gzV3VZSDFFaEJJRk1OX09ZWEpCZVVhSm9zVm1Idlo3MEl4WXJUeVpFT084eUlPRU1OaTdYLUtGRU9UX2F2QU1ZOWF4bE1lRw?oc=5",
+    "source": "Invesco",
+    "published": "2026-11-19T19:28:27Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "33799e9a797dfeae24ddbd",
@@ -140,6 +212,18 @@
     "published": "2026-11-19T18:51:26Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6694afb330d2fbb9c892e6",
+    "title": "France's OVHcloud launches AI cloud products hosted in Europe",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-19T18:41:08Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -428,6 +512,18 @@
     "published": "2026-11-19T16:51:23Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e2eb8f0a4bd66a33fb7a1e",
+    "title": "Google introduces new Gemini 4 AI model Neon",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNE9kdzNjLUJ0bzJOQ0dkYnNGRDh2YUFZaEhybmw4YTR6UWxKTmFSbkpYaTNpa2QxR3M3SjUyeUx3QWJsT3lyUk5YSDNtV0lrQnBnMlRRQzB4Z2o2RWFlNkt2TTdkMC0zTFh6Tm8yLXRILURweDRSTUktbGppLUpOOHhmcmZUS3g1bXVxNDUtb29UclJHRmFKUzRhRjJtZFFQWkxrLVBucU5XOUkzeFdMQ3VzeU1WN3PSAcQBQVVfeXFMTjBVOFJxaFB2cGJPNzl2TWVfU3h4YlgybXpmOVJNb3lkWUQ3S0M0UFUzYkV5cDVFb09hZzh6ZGxKRTZBSko5QXVva1EwM211Tnh5TG56aDctRVloYWN5OVB4MXRSV2hueUh5UW5GUXNudTdqMjV2RUtoQWpKdG1rWDhjeWJrYUZHUHI3amE1TlB0ZDJhdi1Bc0U0eUpQcTVmTjAwaUhQNXZBd1R0RkFxRUpLa0d4Q1J6WjBOZkJDellKZUY5cw?oc=5",
+    "source": "Deccan Herald",
+    "published": "2026-11-19T16:40:50Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -1270,6 +1366,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Keto_Anorexia_Lede_B_v2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "06283d43162e00fe491b28",
+    "title": "2026 COA Symposium: Latin America's Next Chapter—Growth, Investment, and the AI Economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkNpV0RIYTlsNGprVmlUUFV3c2xtaFUyUGhmM3NJaGpDN0Rva1pENUlQREJvSDhoYUkwVVJDUnFRM2E3T3lOWFg4YlRTQXZVMnRPSURXN1RqSnV2SkJTR1F5VTdHSVVQV1dNTFRJYnRiVVQyWWdHRU82UzRpSHBHbTRkbXJkR01iOXBoVGpvcHFwaElOZ3pwZjVad2h3V0E5Wm95NkNrakZ1aElWTGszSg?oc=5",
+    "source": "AS/COA",
+    "published": "2026-11-19T12:00:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "3d167f7589a846bdc60bfe",

@@ -1,17 +1,89 @@
 {
-  "last_updated": "2026-11-19T20:04:31.822507Z",
+  "last_updated": "2026-11-19T20:56:31.814193Z",
   "articles": [
+    {
+      "id": "b331a244d62b8fc8686104",
+      "title": "Meta’s Muse Charm might cost $300",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source": "The Verge",
+      "published": "2026-11-19T20:22:17Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "1fbaae0c3ffb18e8c78aac",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T20:18:49Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+    },
     {
       "id": "c44f22562c2a34536be1cd",
       "title": "Anthropic valued at $2tn as shares begin trading after record-breaking IPO – business live",
       "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthr",
       "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T19:51:39Z",
+      "published": "2026-11-19T20:18:00Z",
       "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a3a27adc8667ba30d3c31b02e5e5a67"
+    },
+    {
+      "id": "833ce87bca6dbf3d48cdb8",
+      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdEluOFozVTdGTElxUnN3V09KNkljLVJZekZwa1R5N0NaUk1lNWxVX0ZWVlVlY3lnNGEtUTU4ZUEwWjc3MmRudER6U05rQ0swZXdhTnZPLUdMYlM0dFpzVjRvcW9ZMUJaMUhBVlhONDdHMzRhU0JYTGZ0WlVJWWJDanZiRkhlNjBhYXRob1RnaGZ4akFHVmVtaEVSVC04bmtORnZrblNlOXE1aENlSEYtN2JjRVNqYnNncFNxMEllSFdkano3WDVBSG5hQmtEY3JvNWpiYXlMdXdOV1Q0a1AwdVRYSVVsUnM?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-19T20:14:49Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "968ebb26e1aec61ee16eb5",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T20:07:02Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "c363e4ee1aa6f6ac6b5780",
+      "title": "Google is putting AI chats right on the homepage",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge",
+      "published": "2026-11-19T20:05:06Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "02ec7de83a9ce465b8cddd",
+      "title": "SalfaCorp falls 2.45% in Thursday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUE1Sm9McUE0M00zUm9lQ2VBVFdfRGdlRXlBdGE3ckhvWnIySW9fMEtBTzRWUUFaVlJrWjZWZHBnc01PZzRmLXluUEo4d2JzU0VRQUVJa3I2a3Eta2doOVlmN25FcklFWWk3UFQ0V21ZYTBTVUQ3eHktRkZORG1ocS1RSjYzR1k?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T20:04:49Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1e5dd32a1bb6ccc3c195cf",
@@ -60,6 +132,30 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "8d003875572011c47255d5",
+      "title": "Five European ministers on why they won’t go back to business with Russia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYllaM2JhdDJDR3lvWG5JOFM2aDlhUXlpZjdsNW53b211YlZONkpXdnJITnpfZkp0enhIQm1FV1B6VW9fQXJMaVVGaEo0YXZrWUkxQno3VDNWQ3pXcEhIVUlYcnRSTEVTNDBnNzJiRk9uS0c1a0RsZHotV29KZ1pCY1ZiajM4eFU4MWs0UUZ5dDVscEwzVGxmMUE1c2VndG9XS2V6UjRONVNaUGVVMnZaTlpJZm1KcDhyQVUyVVFFUExyeENlaHEw?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-19T19:30:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e57a543a2158670b6b371b",
+      "title": "Above the Noise: 10 things investors can be thankful for",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzE0NHFnZzZ0ZlE5TG85c0lpdV9EWno4d3RtcFExNW5QSVNwM3Vfellhbm4ydlNCMlNDVHEtWXY2R3pNS0gzV3VZSDFFaEJJRk1OX09ZWEpCZVVhSm9zVm1Idlo3MEl4WXJUeVpFT084eUlPRU1OaTdYLUtGRU9UX2F2QU1ZOWF4bE1lRw?oc=5",
+      "source": "Invesco",
+      "published": "2026-11-19T19:28:27Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "33799e9a797dfeae24ddbd",
@@ -158,18 +254,6 @@
       "image": ""
     },
     {
-      "id": "833ce87bca6dbf3d48cdb8",
-      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdEluOFozVTdGTElxUnN3V09KNkljLVJZekZwa1R5N0NaUk1lNWxVX0ZWVlVlY3lnNGEtUTU4ZUEwWjc3MmRudER6U05rQ0swZXdhTnZPLUdMYlM0dFpzVjRvcW9ZMUJaMUhBVlhONDdHMzRhU0JYTGZ0WlVJWWJDanZiRkhlNjBhYXRob1RnaGZ4akFHVmVtaEVSVC04bmtORnZrblNlOXE1aENlSEYtN2JjRVNqYnNncFNxMEllSFdkano3WDVBSG5hQmtEY3JvNWpiYXlMdXdOV1Q0a1AwdVRYSVVsUnM?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-19T18:44:49Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "5153b66bc2bff8b346f540",
       "title": "APEC CEO Summit issues Shenzhen initiative calling for shared prosperity in Asia-Pacific",
       "summary": "",
@@ -178,6 +262,18 @@
       "published": "2026-11-19T18:44:08Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6694afb330d2fbb9c892e6",
+      "title": "France's OVHcloud launches AI cloud products hosted in Europe",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-19T18:41:08Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -363,7 +459,7 @@
     },
     {
       "id": "ee20d352f0da08b76e7e3c",
-      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "source": "TechCrunch",
@@ -388,7 +484,7 @@
     {
       "id": "aab5ba178748ab48533771",
       "title": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
-      "summary": "AI startup and Claude chatbot maker likely to become one of the world’s most valuable publicly traded businesses Anthropic IPO – live updates Anthropic shares soared more than a third when trading got underway on its US market debut on Thursday, valuing the company at more than $2tn in the biggest stock market flotation in history. Shares in the AI company b",
+      "summary": "AI startup and Claude chatbot maker likely to become one of the world’s most valuable publicly traded businesses Anthropic IPO – live updates Anthropic shares soared more than a third when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn in the biggest stock market flotation in history. Shares in the AI company ",
       "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
       "source": "The Guardian",
       "published": "2026-11-19T17:36:14Z",
@@ -470,18 +566,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801"
     },
     {
-      "id": "968ebb26e1aec61ee16eb5",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T16:55:57Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "id": "294f494c3d9f12c9110786",
       "title": "Anthropic starts trading on Wall Street",
       "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, [&#8230;]",
@@ -502,6 +586,18 @@
       "published": "2026-11-19T16:51:23Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e2eb8f0a4bd66a33fb7a1e",
+      "title": "Google introduces new Gemini 4 AI model Neon",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNE9kdzNjLUJ0bzJOQ0dkYnNGRDh2YUFZaEhybmw4YTR6UWxKTmFSbkpYaTNpa2QxR3M3SjUyeUx3QWJsT3lyUk5YSDNtV0lrQnBnMlRRQzB4Z2o2RWFlNkt2TTdkMC0zTFh6Tm8yLXRILURweDRSTUktbGppLUpOOHhmcmZUS3g1bXVxNDUtb29UclJHRmFKUzRhRjJtZFFQWkxrLVBucU5XOUkzeFdMQ3VzeU1WN3PSAcQBQVVfeXFMTjBVOFJxaFB2cGJPNzl2TWVfU3h4YlgybXpmOVJNb3lkWUQ3S0M0UFUzYkV5cDVFb09hZzh6ZGxKRTZBSko5QXVva1EwM211Tnh5TG56aDctRVloYWN5OVB4MXRSV2hueUh5UW5GUXNudTdqMjV2RUtoQWpKdG1rWDhjeWJrYUZHUHI3amE1TlB0ZDJhdi1Bc0U0eUpQcTVmTjAwaUhQNXZBd1R0RkFxRUpLa0d4Q1J6WjBOZkJDellKZUY5cw?oc=5",
+      "source": "Deccan Herald",
+      "published": "2026-11-19T16:40:50Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -952,7 +1048,7 @@
     {
       "id": "9df169eba8373877459fba",
       "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives Get our daily political email , free app or daily news podcast The music industry will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allo",
+      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria chief executive says Get our daily political email , free app or daily news podcast The music industry has declared it will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big t",
       "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
       "source": "The Guardian",
       "published": "2026-11-19T14:00:52Z",
@@ -1342,102 +1438,6 @@
       "published": "2026-11-19T12:02:10Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bd71f5f925957c7a417363",
-      "title": "Roblox money is pushing a controversial anorexia treatment",
-      "summary": "In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chain. \"Instead of going straight to the therapy, let's do a keto diet [&#8230;]",
-      "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
-      "source": "The Verge",
-      "published": "2026-11-19T12:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Keto_Anorexia_Lede_B_v2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3d167f7589a846bdc60bfe",
-      "title": "EU, Jordan sign $121m deal to advance economic reforms and investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWpyNnZ0eWxsTVZxTFB2Nk1IMTRMQldKLU9QendyZy0zN0RlWmc0ek96R3laVXlPQVZldkU5S2ZJbW5lV1U3ZFJIM2VqbHpiNzQ4STE0aUZ5MnVhNW5ybVRhYlR4SzhudFVFaFphaHJiX2tZeTdnSExvYVVDT3RjUWpJRFUtVHl5T3JScFM1WHdTSlpIbkJOSGRDckFXaHNnQWI0SndwOFNIdnhZSUE?oc=5",
-      "source": "Arab News",
-      "published": "2026-11-19T11:58:21Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "804479b02ea1919bdabac2",
-      "title": "Azets Future of Finance Report: European Leaders Prioritize Technology Growth Amid Economic Uncertainty",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWtzRDNIRm5EYVdsa3BsWjRQWGl1b1JFRlJkR19DRUs1dEpvbGxiZ3ZpV2hCV25TOEg4YW1penJ5MFhobkdRMWNXV0xLVURFUGE5Z2dob2pDZjRLSU9QdVRxUWlILXVndExfdlJza1pQcV9JdUVMY182SGRrRjhzX2c5S2pjWTlSbTZkWVRPTWxBeW54MmJTUDhOX0Q5SWx1YkdCMGpyNlBJcEFrSEFLbnJ6bw?oc=5",
-      "source": "FF News",
-      "published": "2026-11-19T11:54:46Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fffa235ec7eb1543c28ccf",
-      "title": "Securing Colorado's Future: Secure Facilities, the CLASS ACT and Global Energy Security Park",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGRNU0JfN1FhVGFwcFRTcF94X1VhbHpfV0NWU3llNnFCMV9SOVRZeXVMamhsVk82SmxaeWlvVFBvdkFVSEM5bnc1aEc3WC01SnJNa2RpOGVSX0d3blA4cnlUUmFJN1RmeGpxMnlockludUFLMkFXa1ptdnQ1TXlGR1o0MFB3RmxvUEhLeGRzWkdIcGxjVGpOUUUtNVdpdw?oc=5",
-      "source": "Holland & Knight",
-      "published": "2026-11-19T11:53:14Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1e2c3530c5731a16e88dbf",
-      "title": "Why Europe Should Invest in Jordan",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MZWhoa3ZYbGpvWWFZQllkeWVIdWlnaUVRa250Y0JzOE5zUFA1M2FpdXl3M2wzTmxwMW9xVnZ5Nk1CeGVEX2hJTm5NNGRaRFJhOGVWaG45Y1VoM1ljX3hMU1Q3Sm1pdVp0Y0dHVm5wQ05iNnRSUTdrMFdn?oc=5",
-      "source": "Agenda Pública",
-      "published": "2026-11-19T11:50:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "29b28d61ecc7b2f0dbcdeb",
-      "title": "Florida pastor found guilty over role in assassination of Haitian president",
-      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
-      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T11:44:57Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg"
-    },
-    {
-      "id": "f4710a7c403337c3cba4a7",
-      "title": "19th Japan-India Foreign Ministers’ Strategic Dialogue",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKNmxDNWQ2bXhaRTRSV0hfLUsxV0Q4VzI5OXlDdk1oZmpQY3pHTmV6WFRTQ1M3X3gwUTFETHAydWp4aTdoRDhIZFZCZ2FUc05SVl9HQXgtYzd3Sjg5a3o0elRSZko0NUdFQlozWHliZWc?oc=5",
-      "source": "Ministry of Foreign Affairs of Japan",
-      "published": "2026-11-19T11:41:40Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "733663676612b66345fe1d",
-      "title": "Maximus Reports Fourth Quarter and Full Year Results for Fiscal Year 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2c4WTFUTFRPV1c5OUZMNFRfeHVsc3lkMnRpN2duNEZqeV84WEdRcllPOEVFM1V0QWE4X1k2d1VIWmU5NUluRFNXN181bmxOb1lwZXhiMElKYlJPQ2NjSXRvUGtSM0szMlUxcG9sa0tlOUxzdW1HVzZnY1RJYXZxMVlmcWtmVTMyM19JVzNJbWo1UDVaRmo0cF80LWNfLVZseUt0OWJWYlJiVjdYM1EtaHN1N3lZeUY4NmZhTktlODlXb25RYkRpY2dn?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-19T11:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
