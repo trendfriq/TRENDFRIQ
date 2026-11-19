@@ -1,17 +1,101 @@
 {
-  "last_updated": "2026-11-19T08:47:14.669147Z",
+  "last_updated": "2026-11-19T09:45:35.790348Z",
   "articles": [
+    {
+      "id": "54d5513fa34b8dac9989c1",
+      "title": "LG Electronics promotes 44, creates CEO-led AI partnership team",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTE95TThacmhmcGdtajZWUHNmTm1oV1hmM1Q4SlFkRl9EOXhIdzMwbDhSTE81OW8zckM3aF85Mk9yZllrYk9tdDZHTjJxalVlbnhOTGtNWTdxWEI4bERQZ3EteFZvWFNJOENfUzF5ak9iaHZBcWxUak5ZSjUyUGdQb253RnRBdmI1bDJ1Q3d5Tl80TFB0UkVIUjYwSE1tQVIyZ2NNMG1ZaTNTQU5IeU1jSkdfNlQ?oc=5",
+      "source": "Korea JoongAng Daily",
+      "published": "2026-11-19T09:36:50Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "c44f22562c2a34536be1cd",
       "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Those who missed out on the Anthropic IPO (or didn’t receive as many shares as they hoped) will get the chance to buy them today once trading on the Nasdaq begins. Bloomberg reports that Anthropic’s shares are indicated to open between 20% and 26% higher in grey market trading – ",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic’s IPO could breathe life into London’s ailing high-end property market . The share sale is likely to turn more than 4,000 of its staff into millionaires as their stock options vest. The company has 200 employees in the UK, and is planning a new London office capable of ",
       "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T08:37:48Z",
+      "published": "2026-11-19T09:36:35Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/528c5e0e23b611527cf28de1432433186338dd96/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e81ee5ae373dfc55f85cef8a741e3afd"
+    },
+    {
+      "id": "1003cd7da12c85aacfc84b",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T09:21:54Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg"
+    },
+    {
+      "id": "6527316e5331c14b7f9e42",
+      "title": "Masdar, Careem, Tabby and Oxford Economics leaders to discuss Gulf economy at The Briefing in Abu Dhabi",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUE5TQkwtSXY4RHZfZGhEVnFWWmY3QUhNampKSVFoUXVuRjJGb0dGTkYwTWdTZlpfeDlTMG5Nbi1YNTVZNjhleDVQLXRlR1hNWmxPY2V5RUNaTXlaM3dmeEZMdjBhdk9aZ2hZWmVScmxXaUVWWUdYbEw4dGVvcUJNRzRZWXFkQl9yRTYwMTk0N2pZdURNWjVXOVVGQnJOeVhtOXotRG5iYjI1ekw5OC01Vk0zRk5ZRm9DbGNZYVJ4dVppb1JTLVN0TWZpSVV2UGsyV3NjVFNxNA?oc=5",
+      "source": "Arabian Business",
+      "published": "2026-11-19T09:17:12Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "58b430a75944ba50f0eaa7",
+      "title": "Gulf Sovereign Wealth Funds Pour $29.3B Into Global Tech Investments",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN05fajJ6ekRON0toNzUzTGZoSlRicnlXdFhSNllvSlhLZmtneU1mYldLYmFYY3AyUFhjTTFFTDlvTnpwYmdILXJkYWNoakZkTHRNbTRlRDBwbnZMcDNpTThIbXpaaFhWYUVmVk9hZDN4X0dCWG9Wa192WmVRUlMyXzNCLS1ra2pkLUcwQm9lX3JBcTk5aFZOX3Mtbk5VU0N5OExvS2F1aXZPMlo1MUFuWlU0UTBneG5lOG05T1VfdV9lT0lJNlhiN0lB?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-19T09:06:54Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "84ef5b27eb44cd679f0940",
+      "title": "German Authorities Raise IT Security Threat Level to Critical",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjZ3eDRMYnV2a2JoNDQ2Q2J3b0E1eXkzMUt4TmtrVmZPZXpWS3lRTlB1TmR0SkVzMFpsTUxFQV8yZDZxblkzZWJ0UFZhVjBkM0lzQmNzYVIwSFFrbE9nV1JDNzZjMVJCdGhUNFl2VERURnlRazd1SV84ME9pc1dKOVVYZ1Q0YjRXX3BQTVRCaldqWENsSFFfUUtIck9wbjJUQzRz?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T09:06:22Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1548d446c7c63613fa8ff5",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "summary": "Some local media report that at least four bodies have been recovered.",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T09:02:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/ce62ad80-e3e7-11f1-a16c-7de3762c094b.jpg"
+    },
+    {
+      "id": "5a8cb674d9d8eb39ffd9db",
+      "title": "Airfares Will Rise at More Moderate Pace in 2027, Says Amex GBT Report",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0l1bjdSQ1NDaDE1OGxFYkJfeGZCcnlkTWJpLTA2Y0ZIazVHbjNWc0pFdndIOTJKSnlkTjdPZWllVEloU05aNzM5LXY2QlRKWEc5VnlHZXpsOUtPVXlOdGlGcjdRWXppLVQ3WS1VZDNvMnNqR1FrZ2J0NVNVOHF6blZDOU5NX2tuYXhBOE9QUk5SSk9zQ3haTWRjTXM2c1ZQZHZ3VHRwSmFuSkFic000Q0k3RGNhZw?oc=5",
+      "source": "Business Travel Executive",
+      "published": "2026-11-19T08:48:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e743ca77b6325430597760",
@@ -68,6 +152,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFN1R3RybVRfeHFvbnJxTTBtQnNnNTItaUJxYUdtc0V3WmxEeml4RU9XSlFiODQ4SlNWU3I1NjZQdHBndnlEcXdsSFQwb1p6VjhSRmlpOU5BY18yZVI0aXA1dDNYTzIwaFo2dXcwXzRHYWJ6TWh0UnB2VUNGRzItcWJiNTZFUDBpam1XU2RLcjEtQnlrRU5zRTJtRHdwOE11?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-19T08:06:22Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d0bb5a23e772dea6e65ad5",
+      "title": "Global Unichip falls 9.98% in Thursday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQazVrTVNJRkxLMEhwR1M5NElrbUI0YTRSY0RpQmxDYmRWVXZ4QThZLWxJNGJHM3I2RGdiS0xCZTlUSFF5Ym1HR2ozenhsN1lpYU1OSmxmZVFCaElaMThrcGRNNldYanVtdzFDQWhNVjY1NW5oMTQ1dmxadmtFdHJ5YldEeC0tVmM?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T08:03:45Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -278,6 +374,18 @@
       "image": ""
     },
     {
+      "id": "34123fc611fcd395147435",
+      "title": "APEC serves as a backdrop as big power politics eclipse talk of open trade, AI",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWdzSGtDbFlaWHRWTXNOU3dCVGp2OHJFMzVDbHh4VHVvYU5BandENHpGdFd1Um5fRWpjR21WbTBWUHU2enMxaU9ZTDJDZWxqTldDbnhCUlZUXzhQb2dWOGtVczJiM1BMa1I3MVU4T1drYjNXZWc4V1Y3eUhqMVM0cjRyaDZuNUgteHhwZHdBVzVJYWZ2UjZoaE1kTENWUjBFTWMwZWh4dUtKTTZfSm1icm1pdlBXbFR1UWFJSzBlTnRidTBseG9B?oc=5",
+      "source": "News4JAX",
+      "published": "2026-11-19T05:24:37Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ab13a113dc6b71ce64b789",
       "title": "APEC Serves as a Backdrop for Big Power Politics, Eclipsing Talk of Open Trade, AI",
       "summary": "",
@@ -314,6 +422,18 @@
       "image": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04e5a006303486a5ece15be928de85f1"
     },
     {
+      "id": "5b4347a52c29e4147bdde4",
+      "title": "12 technology hubs in Central Asia, the Caucasus and beyond",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdU85QTZOSU16ZG9RVy01ZnFKcDhLWUdReE00N0VLNVg4QTdFLXZiSVlhSFZPRjJLQ0JDTEhENGN2NG9xZi1RRHBPMlFSUkFqcGpnUlUyTmVSR0ljRUpmWV9aNllZTG0yYnV1a3ZJQ0NRYnFIUUVOX01wVGU3RmRONnNEZnBBSTlPcGE2RG9mQVI?oc=5",
+      "source": "TNGlobal",
+      "published": "2026-11-19T04:54:24Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "184c69baf8bef8a37aae8a",
       "title": "Young founders hold key to India’s elusive shift from IT services to products, say industry leaders",
       "summary": "",
@@ -347,7 +467,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c722/live/3ea490d0-e3ee-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "1afed70b448180ac90d882",
@@ -434,6 +554,18 @@
       "image": ""
     },
     {
+      "id": "3d539cb0a16a9afcf3f9fb",
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-19T03:20:56Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5b76b8d80d91a94330fa82",
       "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
@@ -444,18 +576,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
-    },
-    {
-      "id": "5b4347a52c29e4147bdde4",
-      "title": "12 technology hubs in Central Asia, the Caucasus and beyond",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdU85QTZOSU16ZG9RVy01ZnFKcDhLWUdReE00N0VLNVg4QTdFLXZiSVlhSFZPRjJLQ0JDTEhENGN2NG9xZi1RRHBPMlFSUkFqcGpnUlUyTmVSR0ljRUpmWV9aNllZTG0yYnV1a3ZJQ0NRYnFIUUVOX01wVGU3RmRONnNEZnBBSTlPcGE2RG9mQVI?oc=5",
-      "source": "TNGlobal",
-      "published": "2026-11-19T02:58:18Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
     },
     {
       "id": "e39107d0ae97c9f40acef1",
@@ -519,7 +639,7 @@
     },
     {
       "id": "53861beef1c3cffc7788fb",
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
       "source": "BBC",
@@ -638,18 +758,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305778019.jpg?resize=1200,800"
     },
     {
-      "id": "3d539cb0a16a9afcf3f9fb",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "source": "NBC News",
-      "published": "2026-11-19T00:36:26Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "25d16f6728090557b57739",
       "title": "Chancay Port boosts South America-Asia links 2 years on",
       "summary": "",
@@ -706,6 +814,18 @@
       "published": "2026-11-19T00:00:23Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0bec8d3a8ca920ed9b76f1",
+      "title": "A Budget Is Not a Brief: The Missing Decision in Korean Startups’ Japan Marketing Plans",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKeXc4X1l6N05qa09hZnNNa0otSEN0V2EtZXNMWWJmQlRSZWlEdXRsTTNMNVlNYTRTNUVBN2s0NF8xbVJHLWgyNWhienR2OURZUjB1SFFBQ0Jrd1NaRjVDZ3ZYdEVmRVJEYmtUbFVYaW5XR1BNVFY1Wi1tUzQ?oc=5",
+      "source": "KoreaTechDesk",
+      "published": "2026-11-19T00:00:16Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1050,10 +1170,10 @@
       "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
       "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "source": "BBC Technology",
       "published": "2026-11-18T21:28:08Z",
-      "category": "Finance",
-      "topic": "BBC Business",
+      "category": "Technology",
+      "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg"
     },
@@ -1320,126 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "7642e40f4f65007463d31d",
-      "title": "AfCFTA: Afreximbank and AfDB must drive Africa’s economic integration",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE5oWGU1TE1DdTFyaXZCc1lydXJ4bllDVUdyZGlPQ1pHVXg4cDhTVGUxWkhXMFdUY3p2RjlBeF9QNkRlQ2lJU1gyYW9aak1vQmkyRld4RXoyLXRCSUVnUFc0VnFUWjVrcHB3cXdLdUhvVDZzelN4SENwQ2N0cnB0dXZUV2FkMkRHSWxtQW5ZSDRic1FOMGtF?oc=5",
-      "source": "TheCable",
-      "published": "2026-11-18T18:56:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f078a5df39d7f3015692ac",
-      "title": "Surge in software patches likely behind recent tech outages, experts say",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVm80alFITF9nS1dOR1NRQWJsN2lTZVNBWXR2NmpNeVI5SS1nMkVPekQ1TklmNkwyX0VFZmhYSG9vZnJxTHR4RG1qdHp4clJ1VmxtLTFLS1FjMFlFY2NMeWNfaEw1ZDkwRzFpQmp4Mm1zVTdpVmlrelk2Q1dJUm53ZEpMc1JGQ2NDNWx2Y21SVk03WnN1Mzhub2VhUmJ5UQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-18T18:55:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d9c4bc47c96f8623992e50",
-      "title": "ZenaTech (NASDAQ: ZENA) Launches ZenaStudios Entertainment Division With Original Streaming Series and Film Projects",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUXF0ei1IUmNsV0lYQm5qVWtBN0tHdG5sZG1JNk5UblNPVHl6ZEUtMGtPZ1B0Ymp5OVdnUnVLTDJhOGhQOXNSUVNKUVJGNTEtdUxwamFBWm5rWWRReDlWNGprWDFpUW1xWi1SOWhqLXRHNm9CcXluTmxXSnJDTC16TS1rN2Z6NlhGZFJmWDlIZkMzc0REcmlkVGNOVUw4VjVCbl92amhHMXJwdlp1c05pSDRIR1lXb19KY3ZCYXV6QjdVallHRnctZkpPOU5XU1E2LWNEdkF5Zm5lMTI2VTBRcU56TUkyUmRsaE96QS1wcEtORG40TDJwTw?oc=5",
-      "source": "USA Today",
-      "published": "2026-11-18T18:54:03Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "41ae633c6584dee9d5b17b",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "source": "The Verge",
-      "published": "2026-11-18T18:44:27Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "0721a273af845c6fbfe2aa",
-      "title": "Xi calls for building shared Asia-Pacific community for common prosperity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ocjhlbG45RHowOXdPTUhWaXVfXzZ0dkpjNWVIM3I3WFVDNlNrTHdUdTdxb0FNWVQybWlld0FwZXhSeHNmMzBzVkQ4YzZuRjNzRFhV?oc=5",
-      "source": "The Macau Post Daily",
-      "published": "2026-11-18T18:42:35Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "aafe9b5b026175d201161d",
-      "title": "Best AI Contract Review Software in 2026 (Top-Rated Tools Reviewed & Compared)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0x4OTlJdUdlcXZJc0xDVmp4TkZrVDh6eUxNRUJPNHZYdEhacVBCSXNxUW1QTGFMZFVGeVVJdEFiWXk0WWVhRjZDTHpVdmpYWHVIN1VzMDJXa0lSUy1ndG1ZaXVYaURjZ3hocDJxTFBWcE5Qb1k0RVVrTHRibHhRaUxqbnBjUW1reUNMcFVJQkJwN2hGX3lGUjZEYkpxZEVyclRj?oc=5",
-      "source": "Quasa.io",
-      "published": "2026-11-18T18:39:21Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cc4405dff725ab7a389d3b",
-      "title": "G6 Hospitality's North American Portfolio Grows to Over 1,600 Hotels",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1h2WXptX2c0Yk1RSGt0cHM1cC1ZRkhPeGdxQjdQdWU2T1loMTNraWhud3p6SDB0X0tvM3lkNkw2dGttSmNfUGNvVlZ4eUpOdFBreXhYZEc2Ml85SklWM1p0TDRWNUMtSXk5czBPWmVWRFkxd2hOSjdTaVp2ZFlDamZmOEJGMGpLNWtkR3ZqVmRDdUJlM002SDNmQnU3YWJnWkJQRW53Mmk4cmVERmNSbWhfSEVxbXVjQUoxeS1EaXo3cml1a2c?oc=5",
-      "source": "markets.businessinsider.com",
-      "published": "2026-11-18T18:35:33Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b00432ecc9baf95473c802",
-      "title": "Stable Growth in 2027 Economic Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR18tLWpEQUhEVXNjR2VRZ2xrc180R0hvclR2QjBqRXRmenBhb0QzVG9SQzgwNlY5Y3ltbkEyc2Q1X3REZGFudWZMSHBmcDBYTDZzS04xWl9aV0lsUkNPa3lld3UydVJqWDN1RnN5ZEEtbllXdWluYmlXa1pqVFh2emZ3?oc=5",
-      "source": "Morgan Stanley",
-      "published": "2026-11-18T18:35:14Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "48dc89a786ffcf3b9ad9b9",
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "summary": "After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte, and HP, while Microsoft's Surface RTX Spark Dev Box is slated to start shipping this month. The new mini [&#8230;]",
-      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-      "source": "The Verge",
-      "published": "2026-11-18T18:34:55Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "7132415e461f71d9442259",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "source": "The Verge",
-      "published": "2026-11-18T18:34:15Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
