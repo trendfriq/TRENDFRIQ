@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-19T01:52:35.297378Z",
+  "last_updated": "2026-11-19T02:53:35.819858Z",
   "articles": [
+    {
+      "id": "5b76b8d80d91a94330fa82",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-19T02:47:34Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
+    },
+    {
+      "id": "bb5ed3acd984afc23d3caf",
+      "title": "Leaders gather in Shenzhen for the 33rd Asia-Pacific Economic Cooperation summit - India Today",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMC02cFR2eGJZTExmenRiWTVOZUdKZk5hdUxHeFdpX2RreXFEb0prQV9xR2oxVjJXR2NrTGFWd3BWMzg1ZWlHcmJoSkJFeEg1OXJaeE11cnNaQ3h2dnVzQlozMko5UkRMWVQwRzdkTVVXRjNyWFd6TW5OSC1WYkU3Y0xiT3ZmcXVabUUyX0ktcTduaTdXWGNNSWk5MTB0OFA3aHNGZXdMRWVBY205STM0LW8tanpXRF9maHZXQ1BJSG1uUTdfb2dsWFYyN3QyNURH0gHWAUFVX3lxTE5QWUxFWGJRb25ab21LN0JlUndUWFZtblJEbFVOYUlzZi1NdUFuVUNVaWthblRGTk5tSmlneWNqLTZUZUhQR2RYSGNRWWhZQU9fMnJkYXp5SkFqMGdkU3dEcnJLb1R2cHJaZEZuWm93OHBxUS13ejFubTVzTUpqNHoxMmtJWXlkNS1BaTIyVmR6Q2xxS3dibHItNXN2U29oTzRQMWhTLWdIdEh2WXpOYVZyaloxMzVlQnBxV0REWDlndlhBMHhtOS1ScDZ1LVBTUkI5Ml9xNHc?oc=5",
+      "source": "India Today",
+      "published": "2026-11-19T02:25:05Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "787ec3ea015eb548f2dfe5",
+      "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-19T02:20:15Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
+    },
+    {
+      "id": "036971c4bc86ad8a98de2e",
+      "title": "US Dollar Nears 19-Month High, Aussie Drops on Weak Jobs Data",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUJEb0xlQnJaU1pSNTB5VGlBTm1UazRxQnpBYWNfZENzVzBZdzNibDNnekt0Z2hMSjFKVXBId2J6alNza1hIM3VmbXlUWkpDSkZHcHdRdmdYSjlJclFCSTBqY25KNFZjZ0xxMk9kTDRKQW9HemN1U255ZFFmZEJFNHg1STlSYXBla1NUMkdNT0JQRGRteTJ4bDd3MTh0LV9l?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T02:04:44Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "56f08ee63d382cc84e3935",
+      "title": "Asia-Pacific's shared prosperity hinges on strength of connections and cooperation: China Daily",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0hXbzRPWHpZWGlHYWxoNVZ5WFU2YmRFd05xWGltT0RmNzhmYkVzbXhzUHU5OEN2cjd0WnhFVmVWZFM3NzFfd2VRSmZBYWpuZERWWnJzWkVNV3RhNGhhV3BNQ0NfMVZILTdwdjRUb055N1EyUFliUko1YlhKTmItdi1zbGRmRWkzRDFwZnpMQWFUeU9QNkxBTG5YOUs1YmhfOUp1SmFTYTliWE1zWVh0TUF2bUhpT2JVMzhj?oc=5",
+      "source": "Asia News Network",
+      "published": "2026-11-19T02:00:22Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "b863bb1d729a35212c0b34",
       "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
@@ -146,6 +206,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+      "id": "1c6b4462fcef73640d23ba",
+      "title": "Malaysia on track to top 5pct growth as inflation risks build [WATCH]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTFWYnJUd2JYNUtLNDRJUnRmalAwdW85ZFpGNGxPeU5kdjExQmYtQllXeGN0RjdZdk14YzVrVy16VmYzM1k4N05oSXNwcWZRMTRHdzlnQUxnWTQ4STdKSXpNeTNmTTVxRlZTMkFEQmQ3N2M1dG5lSkcwMlVVejBJYkJfajVzZWlKY3lOaE9kUDljS0dPX0FMYWp2VWZUVk5oSlV4M1ZvV0s5M1gwMEdxLWVEX0xjemQ3?oc=5",
+      "source": "KLSE Screener",
+      "published": "2026-11-19T00:00:23Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9ad39218c90aa030a02562",
       "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
       "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives",
@@ -182,18 +254,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200"
     },
     {
-      "id": "787ec3ea015eb548f2dfe5",
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-18T23:44:27Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
-    },
-    {
       "id": "4890d4f9638ab71db643be",
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
@@ -216,6 +276,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "a4d30fc7e0ef274f3ba1a4",
+      "title": "Portuguese economy shows greater resilience than European Union partners",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHlGTzJ2TjNHeExUNThVQzZrbkROT1R4WnVpaHVXdnlvOWVEX1AyYnUtRzRScTl5R0RUeFdCc3ZWSGtWc1U4ZVMyRXNSX3o4YjNnNXFzbGI3UnFJN1N2eUIzbXlJYVlJSVdKUnk3aUdHUFVPREc5eVFMREZuTEVWM3cxbGJySWhCUkY2SmJFV28xOU1XdkFFQThZTno0TEFteHd6UDUyRjRVX0hwcTNUMkJySWlESXo1dWkwcW9zOE1xWk5RcHdJ?oc=5",
+      "source": "The Portugal News",
+      "published": "2026-11-18T23:25:36Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e78487095dd3723203c4a9",
@@ -360,18 +432,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2eb98728e98509d65e4554fe361b577b"
-    },
-    {
-      "id": "a4d30fc7e0ef274f3ba1a4",
-      "title": "Portuguese economy shows greater resilience than European Union partners",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHlGTzJ2TjNHeExUNThVQzZrbkROT1R4WnVpaHVXdnlvOWVEX1AyYnUtRzRScTl5R0RUeFdCc3ZWSGtWc1U4ZVMyRXNSX3o4YjNnNXFzbGI3UnFJN1N2eUIzbXlJYVlJSVdKUnk3aUdHUFVPREc5eVFMREZuTEVWM3cxbGJySWhCUkY2SmJFV28xOU1XdkFFQThZTno0TEFteHd6UDUyRjRVX0hwcTNUMkJySWlESXo1dWkwcW9zOE1xWk5RcHdJ?oc=5",
-      "source": "The Portugal News",
-      "published": "2026-11-18T22:25:36Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "aed3ea0dfc61854d1cd692",
@@ -770,6 +830,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "0721a273af845c6fbfe2aa",
+      "title": "Xi calls for building shared Asia-Pacific community for common prosperity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ocjhlbG45RHowOXdPTUhWaXVfXzZ0dkpjNWVIM3I3WFVDNlNrTHdUdTdxb0FNWVQybWlld0FwZXhSeHNmMzBzVkQ4YzZuRjNzRFhV?oc=5",
+      "source": "The Macau Post Daily",
+      "published": "2026-11-18T18:42:35Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "aafe9b5b026175d201161d",
       "title": "Best AI Contract Review Software in 2026 (Top-Rated Tools Reviewed & Compared)",
       "summary": "",
@@ -936,6 +1008,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "62b16781bb7790f17cf16e",
+      "title": "Promoting Asia-Pacific Community to Prosper Together, Benefitng All Its Economies with Development Gains",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcXNWVHg0VXpqNkdFX0M3SjVGX3hXSkRSSEFVM3QxQ1Nhd1Y5cUh5bERXQkVzX1k4RUNVWGhsWktMUEZITUFZOEMtUlhjYkNpeEtRTW1hRUJMYXRrSHNCX09kdlVQelpzT1Y5MGhhMTBlS3ZqbkVXTDh4QmdHYUNmbFM4ajducUR3OTFLblRpc0FuQlVNTkJZWFhwUGRMMV94UzlZTkxxeGtmbnVhdUV3Y2w4dEVfcC1jTUZ6MmJfbko5VmRGdXppQTM0UnZvY3VVVlpvZUU4UVJJS3RTUlJ5ck1EUDNHYVdZUGhqN0hIOEtZdw?oc=5",
+      "source": "Business Wire",
+      "published": "2026-11-18T17:45:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e239f20f2d3b80864b3596",
@@ -1354,90 +1438,6 @@
       "published": "2026-11-18T15:59:32Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a6d9ad07198e1f61f3c1e2",
-      "title": "Bullish Posts $576 Million Q3 Profit, but Adjusted Earnings Were Just $18.7 Million",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXdTbG90NVNjelRQQktEb21XdHJyM2FjYmQwUjZOYmJFV2FrSDMyM1JwUUF2bGNFb0t5WTV0cS1WdkhKbjZiZjlKcjFSeXB3YXBPZDhBQnpBWXh3MEYzUEhPZmU5ZjJXdmcxWTlhVjBHSnRLNm1xQlVJRS1vNmExdERzTXdlcUNkN1hJR1RGbFNONzNtZFluS3VhRUpMbXI1WktuTFRyQVoxYlNTNjEtazB2S0VTak9pUmI1bk90ZjZTY0dHVHpRRmhOelA3SmhjV19vakxOcDBJNUY4Q2pV?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-18T15:51:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4270e297502a029b32d7c3",
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used [&#",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "source": "The Verge",
-      "published": "2026-11-18T15:44:02Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "be2277ee3096ba4f1004d7",
-      "title": "Fintech Harbor Consulting Outlines Strategic Framework for Digital Innovation, Fintech Adoption, and Startup Ecosystem Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSkt3UzRoMnY2NXZ2ZGJ6N2pQU3BOT3pkMElVSmhCRDJuN1RPTWNUT2RaWWhkTzVsWWRaamJKakZKS1VOOFAtOUpDaHYxMjh6MU45aGR6TmZyM3NFRkwtWlZVdGRjNkstcjQySno0T0lBaXlPTnVWcmtsVXVCbWlRNnNmMUV0MENMTGJnUmdHeHFHd3BLVFpuU3ZudjdGbUw1UHMyTjZPWUQ5Yko3SG5qWTlWV0F4QWE1VlRxcXdyLXZtWXFrUlkzdFRJa3RlaU9mc0loRVF6YnVETkltcXlUYlMtc2tmZTlhZDdjYUlhcHN6TUE1QmZQYmRJcUtiTGlxTmZvX0VR?oc=5",
-      "source": "USA Today",
-      "published": "2026-11-18T15:40:06Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0082b563af8d4e672e83df",
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-18T15:39:57Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1d/live/5d5ab520-e35f-11f1-a94c-dd322c59ae3f.jpg"
-    },
-    {
-      "id": "8c326b68c9c7d027e92fd6",
-      "title": "China Seeks Stronger Asia-Pacific Unity, Openness, Innovation For Shared Prosperity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1E2QnhfV1hvbklGN2diVnNZM2FFS2lJckR2MlZVQmRpTlhXLXltSU1kdDFyVlFTQ1BBYmZZQ3NUWGcyZE1LaDM3WGZiamd5ZUxxa25wTXRuZnl3ekRWVGxuOENvQTlCR1FlQmFkV0cyb0tNOTlJRHB2R2FhWnk2b09rY1hpb1AzMzMzYmFick94Z1Y4YVBiRHBvcWhqYVhVWDF3?oc=5",
-      "source": "News Agency of Nigeria",
-      "published": "2026-11-18T15:31:29Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6c0424d5ca2a59273305bf",
-      "title": "Xsolla Connects Players, Brands, and Video Game Audiences Through Rewarded Engagement",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcFYtMkxsbHdUeFVzZGZ0dkdqbGNTZGFGR1RaNUFadnV5VEhUSnhDSGNuS0g1TnpSNFZGSllwYjdtd0NaVUQxV0lvNDVFbDBFWDg2elhKUkxsVC1ybGZ5dW5mbWJPd0hYaWk3Vjl3V0xqcERJMVFZQm1MRGlZS3FhVjNkcFc1dGV0N0hzMmxCREdXLWxmb3dza3hpV2p4UHFjeXA1RzFVaFZwOUEzcWdQempTeVZDcjJ2bnR4SFpWQWZpN0F2V1Eyd0w4R1pfeDZtY3ZsSmRIR1ltU0g1?oc=5",
-      "source": "STT Info",
-      "published": "2026-11-18T15:16:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0322ab0c10ba9d5b2f3fbb",
-      "title": "Porter Launches 4 Sun Destinations From London, Ont.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlJ4UWlVOVRKRHZlR09mR1gxOXRkOVNPazZ2TmsyR0p3Zmo1WG5lNVNNa1pqQzV1ckVDak8yWUwwcFQ3MjcyS1JMT2MyU2h6WW5jam4yQlNORFJRYWdtNEM1ckt3ZEs0YkhHRl81ejRDZDBSd1BqOU1zcWlaVUZSeDlISHJyTDc5VTY0SURtTEgyYUxiajAyZzVsOVJzRkozUzViaG5KS21MX2ZHdzljbjI0T3NXVE1UbVJack0yY25EUGZseVp0S2lEbmRhZ0NSb0ZKNE5vUQ?oc=5",
-      "source": "reflector.com",
-      "published": "2026-11-18T15:02:52Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
