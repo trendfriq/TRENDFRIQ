@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-19T17:06:44.502045Z",
+  "last_updated": "2026-11-19T17:59:02.864706Z",
   "articles": [
+    {
+      "id": "101de225d217ea1306d003",
+      "title": "Amazon is pushing alerts to shoppers opposing NYC’s Delivery Protection Act",
+      "summary": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to [&#8230;]",
+      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
+      "source": "The Verge",
+      "published": "2026-11-19T17:58:01Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/image.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "c44f22562c2a34536be1cd",
+      "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthr",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-19T17:42:27Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a3a27adc8667ba30d3c31b02e5e5a67"
+    },
+    {
+      "id": "ee20d352f0da08b76e7e3c",
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T17:38:40Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+    },
+    {
+      "id": "eeaf96b77ff1efc7bf10cb",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T17:38:22Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "aab5ba178748ab48533771",
+      "title": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
+      "summary": "AI startup and Claude chatbot maker likely to become one of the world’s most valuable publicly traded businesses Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic debuted on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Anthrop",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "source": "The Guardian",
+      "published": "2026-11-19T17:36:14Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f920609d7fe7e802fb6fb7367b042b"
+    },
+    {
+      "id": "20aed2f8500b9a486ea143",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T17:23:34Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg"
+    },
+    {
+      "id": "09a05505e52a6c040cf8c9",
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+      "summary": "alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite in October, which is now available for $199.99 and replaces the outgoing 2024 model. However, given the minimal improvements on the new model — [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-19T17:15:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "8bc2fdc1aef603b8f8028b",
       "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
@@ -15,7 +99,7 @@
     },
     {
       "id": "c12b546d5a71cb458f54fc",
-      "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
       "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
       "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
       "source": "TechCrunch",
@@ -24,18 +108,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801"
-    },
-    {
-      "id": "c44f22562c2a34536be1cd",
-      "title": "Anthropic valued at $2tn as shares surge 34% as trading begins – business live",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthr",
-      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-19T16:58:51Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a3a27adc8667ba30d3c31b02e5e5a67"
     },
     {
       "id": "968ebb26e1aec61ee16eb5",
@@ -48,18 +120,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "20aed2f8500b9a486ea143",
-      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-      "summary": "This is the second time Smith has requested to be released from prison for killing the two boys, who were both under the age of four at the time.",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T16:53:29Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg"
     },
     {
       "id": "606681afb07b6036613d0b",
@@ -242,18 +302,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675"
     },
     {
-      "id": "aab5ba178748ab48533771",
-      "title": "Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO",
-      "summary": "AI startup and Claude chatbot maker expected to become one of the most valuable publicly traded businesses Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic debuted on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Anthropic’s c",
-      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-      "source": "The Guardian",
-      "published": "2026-11-19T15:30:36Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f920609d7fe7e802fb6fb7367b042b"
-    },
-    {
       "id": "b60b95cf5683fd2d9bd94a",
       "title": "Why the Pessimists Are Wrong About Latin America",
       "summary": "",
@@ -300,18 +348,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "eeaf96b77ff1efc7bf10cb",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T15:23:34Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "39f4ffb0c2b8b769ae13f5",
@@ -592,7 +628,7 @@
     {
       "id": "91089de2fc64468c9b7f5f",
       "title": "Superhuman pushes its Go assistant everywhere",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
       "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
       "source": "TechCrunch",
       "published": "2026-11-19T14:00:00Z",
@@ -831,8 +867,8 @@
     },
     {
       "id": "666ba17e29533e1ccf393e",
-      "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
-      "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State.",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
       "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
       "source": "NPR",
       "published": "2026-11-19T12:29:41Z",
@@ -1402,42 +1438,6 @@
       "published": "2026-11-19T09:06:54Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "84ef5b27eb44cd679f0940",
-      "title": "German Authorities Raise IT Security Threat Level to Critical",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjZ3eDRMYnV2a2JoNDQ2Q2J3b0E1eXkzMUt4TmtrVmZPZXpWS3lRTlB1TmR0SkVzMFpsTUxFQV8yZDZxblkzZWJ0UFZhVjBkM0lzQmNzYVIwSFFrbE9nV1JDNzZjMVJCdGhUNFl2VERURnlRazd1SV84ME9pc1dKOVVYZ1Q0YjRXX3BQTVRCaldqWENsSFFfUUtIck9wbjJUQzRz?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T09:06:22Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5a8cb674d9d8eb39ffd9db",
-      "title": "Airfares Will Rise at More Moderate Pace in 2027, Says Amex GBT Report",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0l1bjdSQ1NDaDE1OGxFYkJfeGZCcnlkTWJpLTA2Y0ZIazVHbjNWc0pFdndIOTJKSnlkTjdPZWllVEloU05aNzM5LXY2QlRKWEc5VnlHZXpsOUtPVXlOdGlGcjdRWXppLVQ3WS1VZDNvMnNqR1FrZ2J0NVNVOHF6blZDOU5NX2tuYXhBOE9QUk5SSk9zQ3haTWRjTXM2c1ZQZHZ3VHRwSmFuSkFic000Q0k3RGNhZw?oc=5",
-      "source": "Business Travel Executive",
-      "published": "2026-11-19T08:48:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "932d2fd63aaaa82fcffd51",
-      "title": "AfCFTA: Afreximbank and AfDB must drive Africa’s economic integration, By Ehi Braimah",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb01yRDVXWVlEcUstTE1uVmx3TmppaHFXNWV2VDRKVFkwLTVWMWFrNmdrMWhKenoybWlSX2lVRTl3ZDBlRDRJajhtb3BUcTdWdHViN2Y0VTNFVm9JUkppWEx1MHpUbW9jbmJlYXBwaUFCWWpMMWR3bmRpNUVVUy1qZTd5WnZqSTl3LXc1aTZDaUNXeHJqNS1kbHJJREI5ZWdYZXRUdVFkQjFVaVI0aHN5QUNLc0RKek1ZNDBfV0p0WV9OZzBDYmNiVzR1NmZJdw?oc=5",
-      "source": "Premium Times Nigeria",
-      "published": "2026-11-19T08:42:53Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
