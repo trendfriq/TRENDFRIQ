@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-19T21:52:44.507146Z",
+  "last_updated": "2026-11-19T22:51:02.815433Z",
   "articles": [
+    {
+      "id": "255531d94837d2277537eb",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you.",
+      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T22:33:26Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630"
+    },
+    {
+      "id": "f8133dc16aac0ad50d9028",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
+      "published": "2026-11-19T22:31:41Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "45f3674be9f63ab48d16a3",
+      "title": "Anthropic IPO: AI Startup Debuts at $2T Valuation on Nasdaq",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ055U1d3NzFGVTFKWmRLM3dQYWN5OUZ5ZjJhVWZIMVJ5OFdJakVaVlhPNzBTZHQ3azk0amo5RmVYTTNXTlVUVnJWT0VudDdGWkgzdVJWa2pNbWlNRlZsU284YWdOaHQ3WlVZVHB4V1EtU1pTbVNCdU5fclFnS0RnUEhpT0tIbXcwcU5zbXBIbWo0ZVo1dmhzbA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T22:29:15Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0eb49abd22e57b9064dce1",
+      "title": "Gap Cuts Forecast as Old Navy Recovery Lifts Shares | Finance News",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelRmbGhNOV9SX212ckVGUVFZQ0VmbzBJbndiTjhHamxMZVNOQ3BGa2V5a0thenA3OWV3b3lad05NcjZueHd3TzhKQ2xqcUtMU1I0UnpSMTczbl9hLXNMdG81NjkyblBwWl9xQ2FCNFV5UEVxVkVBQ3BTbzNMdU4zRnd4TzV1MHVqNE9VbE9LenpaSTFlUzlHS29HUjh3SDA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T22:29:15Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c44f22562c2a34536be1cd",
+      "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+      "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protesters rally in New York and San Francisco Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic needs to grow into its $1.5tn valuation, argues Kathlee",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-19T22:13:52Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/8226cf45c1bc20ad59eddec748cb40e245b6796d/378_0_2428_1942/master/2428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e08a930adefce56a52e8a3ea6a2e6b6b"
+    },
+    {
+      "id": "aab5ba178748ab48533771",
+      "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+      "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn tota",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "source": "The Guardian",
+      "published": "2026-11-19T22:09:18Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f920609d7fe7e802fb6fb7367b042b"
+    },
+    {
+      "id": "4a8309431ec4f0870ed879",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T22:09:04Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "51e01a3fe459152272f3cf",
+      "title": "UnitedHealth Group falls 5.09% in Thursday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjAxcVJKdGh5RVNkSnpvTmFjX3FWMDBNM2twRXJZOUF3aGE0czFpM0tZczlYWlFHZmV4MzlvQ25CS21vVHhPZGlSakZYUlNaV2hvMHdfUmxYOUlfcW5Fbzl4YWFRNTdCRl9TLTVJSHpFbU5UVjlGNVlVMUV5ZDVsM3VNMV9aNDg?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T22:04:49Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a16a060150c59a522d90c6",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge",
+      "published": "2026-11-19T21:59:35Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "094a4dd2aa9bf45ff9eca9",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:58:06Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667"
+    },
     {
       "id": "833ce87bca6dbf3d48cdb8",
       "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
@@ -39,7 +159,7 @@
     },
     {
       "id": "8febbadd7da71c0fac3b4a",
-      "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
       "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -60,30 +180,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
-    },
-    {
-      "id": "c44f22562c2a34536be1cd",
-      "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – business live",
-      "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of strong fu",
-      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-19T21:32:16Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a3a27adc8667ba30d3c31b02e5e5a67"
-    },
-    {
-      "id": "4a8309431ec4f0870ed879",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T21:26:10Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg"
     },
     {
       "id": "92ca9ff247094edd5ced5d",
@@ -134,6 +230,18 @@
       "image": ""
     },
     {
+      "id": "a751cbe5c0409dd9370ba8",
+      "title": "Webull Reports Third Quarter 2026 Financial Results",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajh4UGpRNjBmUlk0aFpzRXU5S296QkFGN1h1XzlmbjVtMmJDbU9FODlhd0JQdWlrNHB0R2ZpNV9UeGJMMXNyX19tbGhGZTFuWHNQVTZZckNuLWI3LWtLMnJ1U2hYS3lweVlmZmxDVG9VYWc1b0JvQUVUS25GekhuYU9rWXdWZm5JbVFQSjZ1QWpxYWc2MmU5VTBwaVk3QTlGYXJ3ME1IdnZMLVRDUHA4a0pR?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-19T21:15:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d4ae95c1ab1097bcb67096",
       "title": "Meta now sells 3D movies on Quest VR headsets",
       "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#8230;]",
@@ -144,6 +252,30 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "110c20074fdee0df5eb488",
+      "title": "Intuit (INTU) Q1 Earnings and Revenues Top Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3hmcm5MRmVRRFQyOExGRjRpNUVOYVFaZEJfcndBMldTNW03cWRqbTNtMkVDdTJNRGlfQ2FKS21MTnFYNjlTdEJOX1VsNk1FbFptT2MxUWlfZmluZ0lxbXlXaHN6dENNeGNJM0RwMDBLa01ETXJxTUNVRWRKS25rOXFSTlkxLVNaSEN4U1lTbGRJeDNXMHp4aDB0b1FSZw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-19T21:10:01Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c590d7e06593ec0d16b301",
+      "title": "US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXJSam1KZ1d3Z2dsQlhYa19WRE9PWURGWEg4TDhsUXc4dmRmYzRPUTd1ZXZ6ZFA4dWVpMWxqSnBIOGZuRjVmOGY0VVk5a0xjVkgyVkRwWUtxbkdLRWhMTksxNW40VUp5aHdmNVlDN0hUWEFrQnJrRXZNSHVLazAzQTlmT0JqTmIzTndlNXhUYXJSSzFKZHZKQUFtU1FsNDBqYWZqMzQzVHEwUTNuOWc?oc=5",
+      "source": "Goldman Sachs",
+      "published": "2026-11-19T20:42:21Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "b331a244d62b8fc8686104",
@@ -261,7 +393,7 @@
       "source": "Atlantic Council",
       "published": "2026-11-19T19:30:00Z",
       "category": "World",
-      "topic": "Americas",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -315,7 +447,7 @@
     },
     {
       "id": "0027e4a1d292e51621fcf4",
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch",
@@ -393,7 +525,7 @@
       "source": "Reuters",
       "published": "2026-11-19T18:34:39Z",
       "category": "Finance",
-      "topic": "Corporate results",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -416,18 +548,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
       "source": "Reuters",
       "published": "2026-11-19T18:29:14Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "45f3674be9f63ab48d16a3",
-      "title": "Anthropic Surpasses SpaceX with Historic $2 Trillion Nasdaq Debut",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ055U1d3NzFGVTFKWmRLM3dQYWN5OUZ5ZjJhVWZIMVJ5OFdJakVaVlhPNzBTZHQ3azk0amo5RmVYTTNXTlVUVnJWT0VudDdGWkgzdVJWa2pNbWlNRlZsU284YWdOaHQ3WlVZVHB4V1EtU1pTbVNCdU5fclFnS0RnUEhpT0tIbXcwcU5zbXBIbWo0ZVo1dmhzbA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T18:21:46Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -590,16 +710,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "id": "aab5ba178748ab48533771",
-      "title": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
-      "summary": "AI startup and Claude chatbot maker likely to become one of the world’s most valuable publicly traded businesses Anthropic IPO – live updates Anthropic shares soared more than a third when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn in the biggest stock market flotation in history. Shares in the AI company ",
-      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-      "source": "The Guardian",
-      "published": "2026-11-19T17:36:14Z",
-      "category": "Brands",
-      "topic": "The Guardian",
+      "id": "9f4d27b688b4fa10ed780e",
+      "title": "Document",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmcwaEtVZlVzM05HMTRtRmxzZHYtNE9xelU3MmVRdUp4UWhQSW9WNlhtSFZzZlRSQ194Wkd6ZG8zMjM0cG14bmRvS0NxZGJKUl9CU0xNSzU3cmtHeG1SMWdrcEo5bTR6VVZlZmpwb1R1UlNzaHNpblNYTVMzNHEzV2JiRXdwVXVqcDFWZFlkcGtrOFVNeGc?oc=5",
+      "source": "SEC.gov",
+      "published": "2026-11-19T17:24:21Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f920609d7fe7e802fb6fb7367b042b"
+      "image": ""
     },
     {
       "id": "20aed2f8500b9a486ea143",
@@ -636,18 +756,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9f4d27b688b4fa10ed780e",
-      "title": "Document",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmcwaEtVZlVzM05HMTRtRmxzZHYtNE9xelU3MmVRdUp4UWhQSW9WNlhtSFZzZlRSQ194Wkd6ZG8zMjM0cG14bmRvS0NxZGJKUl9CU0xNSzU3cmtHeG1SMWdrcEo5bTR6VVZlZmpwb1R1UlNzaHNpblNYTVMzNHEzV2JiRXdwVXVqcDFWZFlkcGtrOFVNeGc?oc=5",
-      "source": "SEC.gov",
-      "published": "2026-11-19T17:15:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     },
     {
       "id": "8bc2fdc1aef603b8f8028b",
@@ -732,6 +840,30 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Microsoft-To-Do.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "f76e15c6450ff67d52fa8d",
+      "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+      "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
+      "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+      "source": "The Guardian",
+      "published": "2026-11-19T16:24:13Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e5c40ff59ef47cd73480080f50cff6aee0a18c5f/115_0_3086_2469/master/3086.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42619ddfd913f1d2d06dc223557d2106"
+    },
+    {
+      "id": "30b1990d195d30632eb594",
+      "title": "The Stock Market Is Flashing a Warning Sign for Only the 6th Time in 156 Years, and History Is Clear What Direction Stocks Could Go Next",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR25Jb3ZpQmkzTlhoMFl6MkJMRkxZRUpobGRSc3VuSEt6TUszNU9qUmN2NWVaMjNuZzBCNENwaTZETHpBNmVrbjA1TFh6YzBaejdCVlkwcmwwSVJFZGZscVN2TzM1eXVMLVk4T2RhRzQ5Y1l1WW5TRlYzX09ld0dfT2RIMzdqVkFDOUVjRFNndktRZ2NIMVFWV0pvbzBuT3pH?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-19T16:20:02Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d708a4dbf97db5f26e8698",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-19T13:30:04Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b8675b27cf00a97f5a0c7a",
-      "title": "Grand Theft Auto VI understands just how important a smartphone is",
-      "summary": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
-      "source": "The Verge",
-      "published": "2026-11-19T13:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a1ef06931b17-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c9efabf1d1d21153e4b3b1",
-      "title": "SAIT becomes the first North American institution to join ICCAUni",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtHcWIyMk1iaHc4eFNfVE5rcjdiU0d0aHJ6a29tejJ4OUVUdUNIZVpOZktCTmxfamVpV2pPT2dnanJXT1hNWHlVMjE4ZGJUdTktWXRWaGtfYUlrTG9Tbng0Qk43N1ltb2o1b3V3eUVrZ0MxM0VNWGlJLU5HQzBLR1dCQXhJcVNYaFN2akt3TzNBdDNZN0FHaDNkaGNfM3hUZjkyNlp4czdrek9nNy0w?oc=5",
-      "source": "Travel2Latam",
-      "published": "2026-11-19T13:17:39Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cc80349c478096d0db1e07",
-      "title": "Why Tariffs Aren’t Bringing Factories Back to the U.S.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOENZS3JQdWY1MUlzRmJkV1RXWDI0clVhdEUyR0tGOFpXOGJ6RWE2ekRqMGJzLW9DVnh5dWF5VEl0eU1yd1hqQlBvRWRRVFM4cUQxM2Z2YVVUaVRTLXNGSnFNOVRxTFk1YVpLX2pDeUhSUVd3QjFyYkpXRTZGVklUWkdB?oc=5",
-      "source": "Harvard Business Review",
-      "published": "2026-11-19T13:16:24Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "271d748485566789cfc839",
-      "title": "Venezuelan Crude Moves North Faster Than Production Can Catch Up",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYYXFZNWtNLWg3QnhweXgzcDYzNnRUcE9tanMwcWpOUmRCR1BWejdiTjRmekJqVHNfVUl0SXFfTmRQTmxxd0RPejBmOUNEMDhqM1lEV1pfcndyZHFYLW5NTkRoaThteFZHM3BIY0Q2UlR1RzlhcnZoazJhVkZZMzQ?oc=5",
-      "source": "IndraStra Global",
-      "published": "2026-11-19T13:12:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ecb256426dd1c275361141",
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T13:07:35Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg"
-    },
-    {
-      "id": "a44a0e1cd06b9b19426c1b",
-      "title": "Jordan a 'Beacon' of Regional Stability: EU Officials",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ052ZVJLQ1B3b3FUNnp6aHJ4ZlBZTFpaaTkxQTFleW1xMUNpSkh4OWhPYUYtU3cwSEROWFBmMDVNbUJmZUJ0MmxDR2VHQXk3WmZnamhYN3dPTGpFRVNTOWMtTG03bHFCN1RQcHZKM0tzUC13NWpzYy1wMzhnUmRhV3YxVWZQUW1ubk1paQ?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "published": "2026-11-19T13:02:57Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b5b2890766e5da552ea917",
-      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-      "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-19T13:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "eb1e212b48f5a2330817b7",
-      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-      "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T12:56:30Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg"
-    },
-    {
-      "id": "da681ff064e9a1c3d746cd",
-      "title": "Mrima Hill deal: US consortium wins Kenya mining project, beating Chinese rivals",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vY0FfQ094TzFCcnJYaGUxdW9rcmY5VnVFbkZ0X2tNNFRpcU9pMlN2V1BnWlIyVFdhS3lKWVNweEQ4ejN5dkRibFpMYTNFZW1lWXZHLWpiZDVLOHM?oc=5",
-      "source": "BBC",
-      "published": "2026-11-19T12:56:30Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f8ece4680b1ae883a50ed3",
-      "title": "Marcos pushes AI adoption, regional cooperation vs illegal fishing at APEC By Darryl John Esguerra SHENZHEN, China – President Ferdinand R. Marcos Jr. on Thursday called for wider adoption of artificial intelligence (AI)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUDViRC1hWXJCUXBQT2g5TmpaOVllM0F3MmpHSGJMOHQ2X3VZckhzdVNfamVSZ1I1XzdyMFlBTnduZUhoWUNDQ3h3eGhZem9XMUoybnlIVloya1ZzczBDSUVBcF9YWHlBVm5SMjdWUUQ0WkdseUlyNVE0ZXZIVE9URTd1LW14MFdwdXZGMTRqSjhQOHlIT2NhTzVPcEdCX25rNDdWaHhLSHJMVjlzVFhWVzZsVHlrR0NRVnY4M1hLOVB2UVoyNHE4M2JVb1RwdFU2aWk4WQ?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-19T12:50:29Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1b3471f4d0059faa244bff",
-      "title": "Who invests, who owns, who benefits: Africa Tech Festival 2026 day two puts Africa’s digital economy under the spotlight",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUZ5ejI4YUlxWWVHNmJnRVFXa2pSQ05va0VJT0xVLXVUNTA2anNhY0liSl9pOWRJSUQxLWNyaDRTQzZpVGJpRHk4cmRHODRyVDFLTXBtekxRd1ZnVGZWdEI4b0M0TG13eXpnbjB2SXpSel9nODhjaFZXX2owT01PVjgtLUhHNUdfUFJOWFBLNzR5aDFtOUFCeDNzZUctNE9vcmZoZExYandHSU5hdzczUVh1Wm9fTF9IclE0Tm1ocmxNNVh0UkRBS0d6QVFqd2QwQVpaa2tB?oc=5",
-      "source": "Africa.com",
-      "published": "2026-11-19T12:45:08Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 18
 }
