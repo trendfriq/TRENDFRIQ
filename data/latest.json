@@ -1,6 +1,198 @@
 {
-  "last_updated": "2026-11-19T14:58:14.247403Z",
+  "last_updated": "2026-11-19T15:59:31.486398Z",
   "articles": [
+    {
+      "id": "787ec3ea015eb548f2dfe5",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-19T15:58:58Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
+    },
+    {
+      "id": "1548d446c7c63613fa8ff5",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T15:52:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
+    },
+    {
+      "id": "833ce87bca6dbf3d48cdb8",
+      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdEluOFozVTdGTElxUnN3V09KNkljLVJZekZwa1R5N0NaUk1lNWxVX0ZWVlVlY3lnNGEtUTU4ZUEwWjc3MmRudER6U05rQ0swZXdhTnZPLUdMYlM0dFpzVjRvcW9ZMUJaMUhBVlhONDdHMzRhU0JYTGZ0WlVJWWJDanZiRkhlNjBhYXRob1RnaGZ4akFHVmVtaEVSVC04bmtORnZrblNlOXE1aENlSEYtN2JjRVNqYnNncFNxMEllSFdkano3WDVBSG5hQmtEY3JvNWpiYXlMdXdOV1Q0a1AwdVRYSVVsUnM?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-19T15:44:49Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c44f22562c2a34536be1cd",
+      "title": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthr",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-19T15:41:30Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a3a27adc8667ba30d3c31b02e5e5a67"
+    },
+    {
+      "id": "4a00e88ad26b0eb41fe750",
+      "title": "U.K government forced to disclose secret Apple backdoor order",
+      "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T15:32:20Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675"
+    },
+    {
+      "id": "aab5ba178748ab48533771",
+      "title": "Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO",
+      "summary": "AI startup and Claude chatbot maker expected to become one of the most valuable publicly traded businesses Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic debuted on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Anthropic’s c",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "source": "The Guardian",
+      "published": "2026-11-19T15:30:36Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f920609d7fe7e802fb6fb7367b042b"
+    },
+    {
+      "id": "b60b95cf5683fd2d9bd94a",
+      "title": "Why the Pessimists Are Wrong About Latin America",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TQktzTGtoLUtJbjZmbTlKajNlV2pQR05yOFgtNTBOWF9iVTMzc2ZzcTdWemVEWXA1ZnQxWnZnNWFhZUdXZldYRG9YUnFhV1Qyc3VOM0dPTlVzbWQtaFpJbjRxSFlXRlJkTWFSWGF6Vzc1NW8?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-11-19T15:30:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "89b064722c7ecd2f3cb584",
+      "title": "Experian draws broker backing despite weaker US mortgage outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVERhbVVBVTNsbGxMUzBIWnotSzhPS0ZFNzZQX0FsOWF1bXZfOHhYWFB5VGQ5RHpvMEdhZUN5M1oxcG1Qb0tNdFRpSU83ODJGRlMwcVFPTmV1LUVEUmljVnRoMlBHbzVvQUpjWHRSUVVSb1hNNUlyYnNyeHh3aWRPbzJaMHU3ZXFGMkszWjNZQVdrOVRoU2tSVk1XNlNXYzhTVGJ0TzVZNjhXcmFvc0YzZWFBcWZEWldoRURQbG1oUnpCRjZDZjJKcUZacUI2N0Qz?oc=5",
+      "source": "Proactive financial news",
+      "published": "2026-11-19T15:30:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "166b1f498f8a60510def07",
+      "title": "Daiichi Sankyo: Rising Oncology Pureplay Investment At Tantalizing Value (OTCMKTS:DSNKY)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXFZdkhyNG1qVmRDeVAwWUlsTEN5WHh4YW1pZjJXc3hvVHBBRUlWbjEydnFHSHl5T3pWai1sZktnT1J3OUxEM3NBY0VndzNjQmNxUnM5RzBrYTRCQWFRWTJTUHY1SVZnU2VoVE0wR1h6YUpmR0VWcGdwY21XcV81cGxBOHFqSmIydWFpNGFET1ZlN2dVem5GNTZDeXhqa25ZREZxRXNzdExqZjh1bWNXSXRR?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-19T15:24:54Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "eeaf96b77ff1efc7bf10cb",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T15:23:34Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "39f4ffb0c2b8b769ae13f5",
+      "title": "Toplines: Why and how the United States and its allies should prepare for a limited nuclear attack",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMFRwZnhJRzU0RVlyWVFSMlNoT1Q3dWlLYnFRRy1tWE5ab1FTSVpTUjhfV21VMWR5dmpVS1lQaEc3LTNCU0xzLWlWQVBMUElsemcyYVgyYms4MFVwWU1Qd3huZ2lQQ2xfZlpWVFp3YUlXZlpNUGl2VlJYTUI3RDlwVG5lTDJ4MHkwYXh1eHplZUhJd2VNWlJPeWs2TEpEcXJFdk1tM1VWcll5UTk3ZS1DbkFaTWNHNkNrNGFaVmxWTTZVR3lIeXRlNmpLaDd5TkJTZ1BZUWhKRFkyVHRZYVRKd2h6cnQ0S0JHQjZYaQ?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-19T15:21:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9f19183b29edeb233bebaa",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "source": "The Verge",
+      "published": "2026-11-19T15:16:45Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "6173566945507db228b1a5",
+      "title": "AI demand will push up interest rates around the world, IMF head warns",
+      "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director ",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "source": "The Guardian",
+      "published": "2026-11-19T15:15:14Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5040343f19b14d3a5aafc2c169a00b24"
+    },
+    {
+      "id": "d8aef7a28b6717835f573d",
+      "title": "Who invests, who owns, who benefits: Africa Tech Festival 2026 day two puts Africa’s digital economy under the spotlight",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcW5qT1ZCcWRyWDBVSmJ4SE1jdHo4TURnVGdsLXVHeElKNEJlcXlBTS1HejZoLVJadVVmNDZvYWEtTGJDQkFtV1JVY2YxM05PZlhkbzRkeXZmbnlpc25JTGl4djVNWnluVl9VNUp6dkNiQUtMaGJ4THdlX1FZcFlVNXpadnoxSVNPbjVlUDhOLXVVb0pJYWlPUGJfMXlXS1V6WTU0aDVHVV9IZVZPVEFjSF9LTkF2RkNHbHlWV3UxSzJ6c3oyRVRIVi1wc01xSFFWdGU5ektoZkZScXNoX2tqb1kxalBja3VLdFhaWk9tUnZvZ9IB9wFBVV95cUxOaHNtMG8yd08yUjN6aWh5WUw2N29RaUgtT0hTQ19BRC1zQXQzMmdMWHUyNnNaQldiWU1OSk9vcVdvR1dHNmJPaUhGLVVic0VFTnZ5M0o5bVk4VF93VVFRNVgwMk0yS1lxUDFUUXR3UTJBZHlLeVliWW9wd1otS1VKd3hrcE45MTZkV2tPRUswV1RDbFQ1bjBLNmc1T1hCblJsNnZjdElMYXlnODlSUUZ0VUNQZ193VXo4TFdXenNkUHhMay1IUkQxSFg4WTBuMklpUzNHblZnRFdMV1RpbE1SZ0RNY2JMT0NUQ2pjOEQ0OVh0QXY0MmFj?oc=5",
+      "source": "boerse.de",
+      "published": "2026-11-19T15:14:03Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "41d2a7233457361d9ab4e3",
+      "title": "Bike24 Posts Record €107.7 Million Quarter, but Profit Margins Shrink Despite 30% Revenue Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa1kyNVhLV1JWOThiYzBYRkQ1SWVsc0N0UjZSbXYyRFRTYVUtWURvRUV2RUlXQlBmVHhXMjZrTmd3am1SRHYtOTlIQUY5d0Y3Y0cteEdmWWJEY3U2Mkp4d0dSS21xelZtNUVLWmd5R2ZacWIwTmRFMHhkb2FxNFE0WDZ1UWxBRG8?oc=5",
+      "source": "TodoMountainBike",
+      "published": "2026-11-19T15:12:12Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e9d7b6dac794abcd53b5f5",
+      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+      "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
+      "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+      "source": "The Verge",
+      "published": "2026-11-19T15:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Jon-Favreau.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "ddb4b8e8befa63e4944ce4",
       "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
@@ -38,6 +230,18 @@
       "image": ""
     },
     {
+      "id": "e7793f9dd6cecb805b65df",
+      "title": "US Gas Exporters Sign More European Deals As EU Delays Methane Rules",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanE5YWdGTmVTM2FyWGswekQwWGloVm10QUZpa01NT2JobG5CWmFYUVJFVkJWZVVlYkM3aFdiRzN3Q3VJMThXNUJRLWhrNktiQUM5OHBfS2NaRVRJU0NycU5xOW5heXMzUVBNQldYQTRmcjRkM0VUZ0t2UkFodmNkMU1RT19laFhZMWdsYnA2dGRRMlgyMFRGaS1oSQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-19T14:49:46Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "541004407d45f645efa6b1",
       "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains",
       "summary": "",
@@ -48,18 +252,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "c44f22562c2a34536be1cd",
-      "title": "Anthropic rings Nasdaq opening bell as trading begins after record IPO – business live",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company ",
-      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-19T14:44:43Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/54ae997b20edc06ec859c1226f9b60e2e4bfbd89/462_0_5872_4698/master/5872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c192a7e474b1a855c78170a58187ab23"
     },
     {
       "id": "1925f6cce47778e1b2107d",
@@ -86,18 +278,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "833ce87bca6dbf3d48cdb8",
-      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdEluOFozVTdGTElxUnN3V09KNkljLVJZekZwa1R5N0NaUk1lNWxVX0ZWVlVlY3lnNGEtUTU4ZUEwWjc3MmRudER6U05rQ0swZXdhTnZPLUdMYlM0dFpzVjRvcW9ZMUJaMUhBVlhONDdHMzRhU0JYTGZ0WlVJWWJDanZiRkhlNjBhYXRob1RnaGZ4akFHVmVtaEVSVC04bmtORnZrblNlOXE1aENlSEYtN2JjRVNqYnNncFNxMEllSFdkano3WDVBSG5hQmtEY3JvNWpiYXlMdXdOV1Q0a1AwdVRYSVVsUnM?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-19T14:14:49Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "03d06febac31a1c611b869",
       "title": "View United Real Estate Development Company SCJSC up 11.71% on Thursday",
       "summary": "",
@@ -120,6 +300,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/777da2deae52c2f9b27d896c5c1bdf7d7e81aaea/156_347_2891_2313/master/2891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a1ad4eaf96f7bb0ce57142132b98493"
+    },
+    {
+      "id": "9df169eba8373877459fba",
+      "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
+      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives Get our daily political email , free app or daily news podcast The music industry will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allo",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+      "source": "The Guardian",
+      "published": "2026-11-19T14:00:52Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f713b67a86b8386b7f04c5e329faf82"
     },
     {
       "id": "81bac5c82eb26eeb83d023",
@@ -208,7 +400,7 @@
     {
       "id": "0f1dfbdae502ca8b95dc06",
       "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
       "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-19T13:31:23Z",
@@ -280,7 +472,7 @@
     {
       "id": "ecb256426dd1c275361141",
       "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
       "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-19T13:07:35Z",
@@ -300,18 +492,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "aab5ba178748ab48533771",
-      "title": "Anthropic to begin public trading at $1.5tn valuation after largest ever IPO",
-      "summary": "AI startup and Claude chatbot maker expected to become one of the most valuable publicly traded businesses Anthropic debuts on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Public trading will begin at $83 per share , higher than the expected range set last week, making the company’s",
-      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-      "source": "The Guardian",
-      "published": "2026-11-19T13:00:48Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f920609d7fe7e802fb6fb7367b042b"
     },
     {
       "id": "b5b2890766e5da552ea917",
@@ -338,16 +518,28 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg"
     },
     {
-      "id": "6173566945507db228b1a5",
-      "title": "AI demand will push up interest rates around the world, IMF head warns",
-      "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director ",
-      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-      "source": "The Guardian",
-      "published": "2026-11-19T12:51:16Z",
-      "category": "Technology",
-      "topic": "The Guardian",
+      "id": "da681ff064e9a1c3d746cd",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vY0FfQ094TzFCcnJYaGUxdW9rcmY5VnVFbkZ0X2tNNFRpcU9pMlN2V1BnWlIyVFdhS3lKWVNweEQ4ejN5dkRibFpMYTNFZW1lWXZHLWpiZDVLOHM?oc=5",
+      "source": "BBC",
+      "published": "2026-11-19T12:56:30Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5040343f19b14d3a5aafc2c169a00b24"
+      "image": ""
+    },
+    {
+      "id": "f8ece4680b1ae883a50ed3",
+      "title": "Marcos pushes AI adoption, regional cooperation vs illegal fishing at APEC By Darryl John Esguerra SHENZHEN, China – President Ferdinand R. Marcos Jr. on Thursday called for wider adoption of artificial intelligence (AI)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUDViRC1hWXJCUXBQT2g5TmpaOVllM0F3MmpHSGJMOHQ2X3VZckhzdVNfamVSZ1I1XzdyMFlBTnduZUhoWUNDQ3h3eGhZem9XMUoybnlIVloya1ZzczBDSUVBcF9YWHlBVm5SMjdWUUQ0WkdseUlyNVE0ZXZIVE9URTd1LW14MFdwdXZGMTRqSjhQOHlIT2NhTzVPcEdCX25rNDdWaHhLSHJMVjlzVFhWVzZsVHlrR0NRVnY4M1hLOVB2UVoyNHE4M2JVb1RwdFU2aWk4WQ?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-19T12:50:29Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1b3471f4d0059faa244bff",
@@ -434,6 +626,18 @@
       "image": ""
     },
     {
+      "id": "b01fa1f7bd7086f8ce4a69",
+      "title": "'Strong and resilient': EU praises Jordan at conference to deepen economic ties",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORFEzc3F5SHhCOFRwcDMtWXNaUjlLd2ZSNzJVV09lWm9oUVZHMVdELTgxeFNLLUtwd0ZRVTk3NDFXRGozVjlNV21QN1lDa0g0S0dpaXEwaEt1RTRqRzl6WlVoWjhlNjlOejdKaUFJLTJwUG92RUxWc0JhZEJnVU1jWnY5QWYxZ1ZwRWhvM19HLUEwdGpRTG1yRlMxRDJwcE9QTEVvLTV3U3VRbFJXNUUtaThVcmhLV3FWbVJzd29xbHIzUnl0UHV1S0RB?oc=5",
+      "source": "The National",
+      "published": "2026-11-19T12:16:11Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a8ad9be54ded99b331b129",
       "title": "Autozi Launches Acquisition of Zhongka Supply Chain, a",
       "summary": "",
@@ -454,18 +658,6 @@
       "published": "2026-11-19T12:11:00Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c591956c1c062f8185c1e9",
-      "title": "$26m African fintech fund puts South African startups in focus",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9kUEE0MnJnMHA2ZkhKUUhCOF95dERBb3ZwUVBfMkhzWlFJVEhTTl9FV05nV1FKS3ZWcnJ2dnNvRkxoOWxkRjVySGtVYXF0N3VmWmZKQUVjTmpZd3NhQmJzaDZTNUVzMnlOX3JlbjNlcUp5d1AwZW1jZGtQaHFwV3g2R0I2TGZTT0FtUzBkQ21MM3NBX0c1dGRIMURrSUNMcHd3bk1XaGduUVVi?oc=5",
-      "source": "IOL",
-      "published": "2026-11-19T12:09:00Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -626,6 +818,18 @@
       "image": ""
     },
     {
+      "id": "c591956c1c062f8185c1e9",
+      "title": "$26m African fintech fund puts South African startups in focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9kUEE0MnJnMHA2ZkhKUUhCOF95dERBb3ZwUVBfMkhzWlFJVEhTTl9FV05nV1FKS3ZWcnJ2dnNvRkxoOWxkRjVySGtVYXF0N3VmWmZKQUVjTmpZd3NhQmJzaDZTNUVzMnlOX3JlbjNlcUp5d1AwZW1jZGtQaHFwV3g2R0I2TGZTT0FtUzBkQ21MM3NBX0c1dGRIMURrSUNMcHd3bk1XaGduUVVi?oc=5",
+      "source": "IOL",
+      "published": "2026-11-19T11:11:54Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "199f3c371aa757a21beaec",
       "title": "BOE’s case to raise rates again may strengthen on UK price data",
       "summary": "",
@@ -696,18 +900,6 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "787ec3ea015eb548f2dfe5",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-19T10:48:04Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
     },
     {
       "id": "53861beef1c3cffc7788fb",
@@ -972,18 +1164,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "1548d446c7c63613fa8ff5",
-      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-      "summary": "Some local media report that at least four bodies have been recovered.",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T09:02:52Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
     },
     {
       "id": "5a8cb674d9d8eb39ffd9db",
@@ -1258,186 +1438,6 @@
       "published": "2026-11-19T06:41:51Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d57cb8b65479e6c809f944",
-      "title": "When AI starts doing the work | 2027 Global Market Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa21XblJSYURXaHJqcGhsR0Jqb1lVU0hQNWdUQS1NbHlOZkx4MXZHcVdFNS1jcFhGVEtUNTlwNFFiZXQzTGtpVnJ5WGlwMU9vSkZVSXBfNVlSODZCaHFYZDVuSVZlbDQxVmQwQ1ZRNUtZaUtCXzZSTmNRQlpxVW1tc1M5cG51Z3VpSkFjSnNZRk9lUTRhSGE3V3pMRWZvLUE1Vzc0U1NiMnNweHhUWmRMZGVEQQ?oc=5",
-      "source": "T. Rowe Price",
-      "published": "2026-11-19T06:41:51Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "88f878faaf6615dd14d8bf",
-      "title": "APEC CEO Summit issues Shenzhen initiative calling for shared prosperity in Asia-Pacific SHENZHEN – The Shenzhen initiative of the Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026 was released on Wednesday, calli",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDNVN0IyelMzQ0F5cjBYR3ZtUjZjR3dVS3B4SGc1b1pPcDFvTVJIZGdRQUxQbWdCR1hQdURCVWwtSlVPeTR5SjZjZHB1bUplNDc2SWMwcEpFTFVGQV82TWN0YU5SVGtyOGNLdFRDc2VnQW43a2Vic3VOcHpfYnlramlSdmZPRVpEampCUHBKeTA4d0VNaUZELVZ2SjhGV1ZNakhDdDlXN1lGUDY2Z2RMZWo4RTltTlB1TkRwWnBwdGNXZUd0ekdHN2N0X19xUm1qWWpCdw?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-19T06:30:05Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "52c4ecc882405cd9175a91",
-      "title": "Ndabeni calls for stronger venture capital support for entrepreneurs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWZEcTlTbHRfUHAxVmQ1eFN2dUNUVkZLRE12QkNoaUhMM1E0eDZET0JPZTY3OWhYc2o1ekNuQnZKQTZFUkZoWUlqVmtQNF8wMGtEcFZUODhHNU5BeFRLeVJBTjhHRG9laFNvVEN2X0VxOHJSbE5tamhMYlhMTFFqY2phSW5YdDctN1JudzlKc2NLUW0zY3ZvWW9uUFRiMmYz?oc=5",
-      "source": "South African Government News Agency",
-      "published": "2026-11-19T06:21:05Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5a9cd3303a442ab6cd0447",
-      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-19T06:15:57Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "fc2b7c33b1f3b1896c42d4",
-      "title": "WATCH: Chinese President Xi Jinping called for an open and inclusive Asia-Pacific community, urging regional leaders to deepen economic ties and promote freer trade and investment during the APEC summit in Shenzhen, Chin",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWVBVnFWWHNOdmI1b3Q4SzlmYmNOc01CWk8zRjAyVmNjYXY3RzRBV0pzZlFlLWdaX0RmenRic0lGLXYtN0NkX3lUX1BfNktLMmtNeXhkcDFDVGYwLWlwQXgzWm5qYTNnaU9TRDBBZU9aOGNEN1JCUEVBWTdHQmpKUUpQVjdaaUhfVno5Y2RiM2szSnIzOXdDUG1uRzBFZHcxR09oZWsxTnJvVjgyVjlKYkNUWkN3N05JLUV6N2VsdHNnMkZPaGdHRkJiYmVrM0FJTUp3?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-19T06:15:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "67f8290b005931a83e210b",
-      "title": "Promoting Asia-Pacific Community to Prosper Together, Benefiting All Its Economies with Development Gains",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFBFV2VxVVJWV2tnUXpaYm96UmlfemJrbWhUcmZMLVZfa3dOdmpSMzdUaHV3d1VxWWI0Y3pyU2Rkak1nUUxJZENUazF0Y2Y4cUViUlQzVkpKeHhUZXFCa1VQQzRPSmNWTmxHT0FoY3VVZG9tcnFaa1VfSS1zaUpHb2JGTGRXYTZwb2NYejMwWE9peXVId1FPWXpDN3Z1ZzhNV0VzWEx4dTBKbURNVGtjVm1rYjVwd3FtU29pWXcwd29GSzFDdWtOZ1YtTzdzdnliQjJ0ejB6OHhjQmZ1WDR5Mzh6MnFWTGZCS1VZSnJDbjFSQQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-19T06:11:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6cd47165f1101e3dc207a4",
-      "title": "Bulldog Skincare Launches New Global Brand Platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWU5MldhZkU4U3NIYkgxYXJ1VHFfMEpwdlAyOF81VEsxSEVUX25HeW00ekpJQk5TZG5kQ3EwYnhZakdDaVViU3dMNVcwSlVMeWUyVjJ6N3o5ZV9rc1E3bHg5dU5PVXV5TndQQmJVUExrTFUybDZHNkc4SHdTY2djTExQWVB1LXlxUTZuNnlsUzYyUQ?oc=5",
-      "source": "Global Cosmetics News",
-      "published": "2026-11-19T06:07:01Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "48ea89ca213f980f4a8116",
-      "title": "Cameroon Chamber Presses for Reliable Power as It Courts Processing Investors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNVJFOUxlZmI2a2hFeVd1YkNuTTNYb1diMWlCUTdlTEJKRFZkVG9Ed1R0WlZoSi1scWZsOXFSaExwOVVtWWJndjRWWUplNTVaWmJ3aDhhYlJiaTBTUjF2aEIxX2Uwa01sampKSGZ6MUtpZnlMWVZ6Y2Q0bGpQTmlRdFhOVW0zdmxjZFhwR1lRZzJPeUxKQ2c1bWtxM2dYbWVoOEZnQl9Bd2VEbHFqelZILVdhYmtrXzlwLTJ6TGVqNUJSeWlLTkFYS1dkN0JNYnN0bVhvTDBvR1E?oc=5",
-      "source": "Business in Cameroon",
-      "published": "2026-11-19T06:02:52Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "078f2fc88f7e8b5ffcaef7",
-      "title": "New US chip restrictions could cool Southeast Asia’s booming M&A market, bankers warn",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNF9FeFhhNTNKT3Q4enBLc21nb21NYk1URm5wV1R3cE92LTVFVUFsdjRNYjZsRExBVHdkWVhxUHJZbWJMb08wcWpiY20zMUduSWx3OEI0bjJHVDUyU2FzUlJqb1pJalFsbDFwM1VCV2Y2ZTR6Q2lQajBFQU9RRk1MVkIwM0w5dS1oQ2g3U0VrX0xKN0ZZbjhqODQ1dV9zV3lrLURkNjNaSHRUMHd3SXkxSjdaU002LVdwMXNmcUxUNEJPdzR5QmhzZW9fYWZTdUxGcTBLZ2dKSkZJN1o1?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-19T06:00:06Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5e77a8a9c7196177c844ae",
-      "title": "Mexican media highlight prospects for enhanced cooperation with Vietnam",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlM5dmF1V3NyeG91OVpFZkZ2OTluejA3bXVqZzRVaW9nbkU5dk9KQ0YydzRUU0czc3pPM3J3bGhJaUdUclh6dFc4aWh2S2lubXd3cFMwVFRBQXc4YVVINHItTHZXS1c3Rks0R0pQN0VTZExGWW9PZGgxMjNsdUliZVR4NWktR1VvR25QbjhxRzNxb1BGNzh2eFZCbEttU1hlSWxhSkNsSGlNSHh1RGotczFn?oc=5",
-      "source": "Vietnam+ (VietnamPlus)",
-      "published": "2026-11-19T05:49:02Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "db151b2ba9ab6050419b06",
-      "title": "Flexibility more important to jobseekers than pay, global survey finds",
-      "summary": "A poll of more than 40,000 workers found that a better work-life balance was the main reason people consider leaving their jobs Work-life balance has become the leading reason why workers consider leaving their jobs, according to a new global workforce survey, as flexibility is valued more than a higher salary despite the cost of living crisis. A poll of mor",
-      "url": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
-      "source": "The Guardian",
-      "published": "2026-11-19T05:45:18Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/850af5cb50c2c967f08899f3672c5ba7e89845e7/319_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8db6a5e04ddecba1e8d1a059bf2fc3e6"
-    },
-    {
-      "id": "bbe5b5cbf4a940f0bd0ab7",
-      "title": "Anthropic raises record $81 billion in IPO at $1.5 trillion valua",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjBNcUR1cTFBRG83a0JhdnJYSHJ2TmlsY2o2MTJxRnljbHpjM1pCbkplRWVDREZfYTlKNEFSZGg2MFRON0JrcWNHYmpTSm81d1JTcEh4TEExd29hMG5QcXBfZ2pZLXBNbDAzNlI2U3dnUkQ3MnZza1NrSFd1SUxhMlMydW1EWVJyWWQtdXFWUTk3anM?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T05:35:14Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "24f0942fcd2e32bf939681",
-      "title": "China UnionPay Attends APEC CEO Summit 2026, Discusses New Path for Asia-Pacific Digital Economy Cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQTVoOGk2anllVzV3VTRGXzZUMDN1QUxDam1saUxyVGw1VEV4WE1iZ2VlZkZrdjhtMmxXcWRRRXBlekJJYnZPbHpuREdOSzZlZWE2U0E5WnNCMlNWMDY3eVF6eDVDWWFoSkJ2TTRMcHhuVmI4aU5BTkFaZjQxWVhqU0hXanppN0JOeXdrUXZmSkV3cUZuOHFRX2djdzIwend4U1dIbXp6MUhCTHV3R3NMU2tBemJGaHcyYVBoc3N2YW10d2N2Mkd2REduLW1URlk?oc=5",
-      "source": "Macau Business",
-      "published": "2026-11-19T05:26:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "34123fc611fcd395147435",
-      "title": "APEC serves as a backdrop as big power politics eclipse talk of open trade, AI",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWdzSGtDbFlaWHRWTXNOU3dCVGp2OHJFMzVDbHh4VHVvYU5BandENHpGdFd1Um5fRWpjR21WbTBWUHU2enMxaU9ZTDJDZWxqTldDbnhCUlZUXzhQb2dWOGtVczJiM1BMa1I3MVU4T1drYjNXZWc4V1Y3eUhqMVM0cjRyaDZuNUgteHhwZHdBVzVJYWZ2UjZoaE1kTENWUjBFTWMwZWh4dUtKTTZfSm1icm1pdlBXbFR1UWFJSzBlTnRidTBseG9B?oc=5",
-      "source": "News4JAX",
-      "published": "2026-11-19T05:24:37Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ab13a113dc6b71ce64b789",
-      "title": "APEC Serves as a Backdrop as Big Power Politics Eclipse Talk of Open Trade, AI",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdjhwSmJFYUFIZmMydVpIcFRDZkVTeHowb3hDLXZud2pXOWpTMk02OXJmN09wd293bUR5dU1EM2k4ekNubzdKQ0xQRmJzQ241TlgxYW1QWkh2RXpnZFJYV3psNkJrZGFWaXl2a2FlcG9TRk5PNHA0SW5MUDZ3aU5YeXE0YWwtRThZbHpBZjZ3WlREdUlSaHFESFNSUTBHZWcxcjNYQ2t4UVk5ZkxSU1FBUlU3VWhsYjRLZWRVRzFQUTJlOERWZWRQLUlTMzVWdFU?oc=5",
-      "source": "U.S. News & World Report",
-      "published": "2026-11-19T05:24:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
