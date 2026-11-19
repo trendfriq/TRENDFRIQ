@@ -1,5 +1,53 @@
 [
   {
+    "id": "b4e11325ff834b2bcbd0e5",
+    "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1ZjWGY0QTNQeDhqM2lfazJKT2FVWXRPNkk0VzIwRnJOWFdpQmJvdGRSU0I5WTRXblE2NVZIV1RlYVlZMnpvSFJOUzhvZEFhYlRRaXdCTUl1OWdyeFZIcjQzZU5yMmJQZXNXUFpDTkRNMlBEV19QR1NnRTU1OUppaG16LU8?oc=5",
+    "source": "CalMatters",
+    "published": "2026-11-19T00:15:00Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "93d5ed52214d635593267c",
+    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-19T00:00:59Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+    "id": "9ad39218c90aa030a02562",
+    "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+    "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives",
+    "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+    "source": "The Guardian",
+    "published": "2026-11-18T23:53:51Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/55b30b78210b9de9b6079a003a575537c1f083f7/340_0_2178_1744/master/2178.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b3412ac22548202a97007078ed027aa"
+  },
+  {
+    "id": "afb1f8fc849417dafc4056",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T23:45:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200"
+  },
+  {
     "id": "787ec3ea015eb548f2dfe5",
     "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
     "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
@@ -10,6 +58,18 @@
     "topic": "BBC Technology",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
+  },
+  {
+    "id": "a841d7eae2401c931b50a8",
+    "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+    "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-18T23:28:03Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg"
   },
   {
     "id": "e78487095dd3723203c4a9",
@@ -92,6 +152,18 @@
     "published": "2026-11-18T22:53:00Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6abe8e870a3b2cfa1d9f83",
+    "title": "Marvell Technology falls 2.15% in Wednesday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2tHWXVsV0ZoME42VWUycnNOUHdsZndyZ080aWhfRlhBRmQzM1RSeC1ZbEI4VTIwc0Q1aDZNOWQ1WFI4aUhXQnlhYXhhN3BVb2FHelpBNlJWZVEzbXNhNEkzMVBZek5MUEl3OGZUVS1UWVVIRTZZVWRzOXFMOUstRXl0RnJLdUlk?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-18T22:35:51Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -608,6 +680,18 @@
     "published": "2026-11-18T17:41:21Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6c21f1229fe43e8b491038",
+    "title": "Nvidia stock erases earnings pop as investors face life after Jensen Huang",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-18T17:35:47Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -1436,6 +1520,18 @@
     "published": "2026-11-18T13:34:45Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6acbae06cb39677ea78333",
+    "title": "Target Falls Over 2% Pre-Market Despite Q3 Beat and Raised Outlook as Apparel Business Remains Under Pressure",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUhlTFRueklTUUdqWGFBTW0xWUxkUTFuSG9qeTA1dU5OR0xsS0xIYVZ3RHdYMWFXME9qcldnSS1IUHBiM21WSEdOakx3Y0FXSXhNbDdVZDN4SW9uWGU4UFU5ajZlXzBMQWdBS083VU9lcjVpdnd1eU1uZElSN2lJVEJVcGZFTmlBd1JnS2o1TWVub0drVG9VNDhGNVZfaUxHd19oXzk3anZTM3N2NEFOR2JFaFZ2ZUIxY2JDLTRISEw0bl9xSlNpVFlxQ2VsMzVnbGxtMzZUeWtxeXJXQ3pscWxBbWM4SXc?oc=5",
+    "source": "TradingKey",
+    "published": "2026-11-18T13:31:57Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -3440,6 +3536,18 @@
     "published": "2026-11-18T01:49:48Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6ff35f61571bc6c208e9fa",
+    "title": "AI Tracker: AWS launches new features for agentic AI tool",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+    "source": "Modern Healthcare News",
+    "published": "2026-11-18T01:49:24Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },

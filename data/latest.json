@@ -1,17 +1,101 @@
 {
-  "last_updated": "2026-11-18T23:36:34.219914Z",
+  "last_updated": "2026-11-19T00:31:01.717941Z",
   "articles": [
     {
+      "id": "b4e11325ff834b2bcbd0e5",
+      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1ZjWGY0QTNQeDhqM2lfazJKT2FVWXRPNkk0VzIwRnJOWFdpQmJvdGRSU0I5WTRXblE2NVZIV1RlYVlZMnpvSFJOUzhvZEFhYlRRaXdCTUl1OWdyeFZIcjQzZU5yMmJQZXNXUFpDTkRNMlBEV19QR1NnRTU1OUppaG16LU8?oc=5",
+      "source": "CalMatters",
+      "published": "2026-11-19T00:15:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "93d5ed52214d635593267c",
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-19T00:00:59Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "9ad39218c90aa030a02562",
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "source": "The Guardian",
+      "published": "2026-11-18T23:53:51Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/55b30b78210b9de9b6079a003a575537c1f083f7/340_0_2178_1744/master/2178.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b3412ac22548202a97007078ed027aa"
+    },
+    {
+      "id": "0cb5229c1562e46464a48b",
+      "title": "Theft of trade, tech secrets 'a global issue' extending beyond recent headlines: security CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdklCWXhIX2k0YXpMUy1RckRTeXVPcE9tT0hKbklvem5wWkpJSFNLclItZ2M4M2xadzhTX21xMHZiQjBjU05QREV0RGkyclZoUEdnTGtYMUxTdTc0UFlnVVhvbGcyalMzc2dEa1JPeEVtaUJpbzN6ZmtjNnc3dw?oc=5",
+      "source": "CBC",
+      "published": "2026-11-18T23:48:26Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "afb1f8fc849417dafc4056",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T23:45:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200"
+    },
+    {
       "id": "787ec3ea015eb548f2dfe5",
-      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
       "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "published": "2026-11-18T23:36:04Z",
+      "published": "2026-11-18T23:44:27Z",
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
+    },
+    {
+      "id": "4890d4f9638ab71db643be",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-18T23:42:07Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
+    },
+    {
+      "id": "a841d7eae2401c931b50a8",
+      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-18T23:28:03Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "e78487095dd3723203c4a9",
@@ -94,6 +178,18 @@
       "published": "2026-11-18T22:53:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6abe8e870a3b2cfa1d9f83",
+      "title": "Marvell Technology falls 2.15% in Wednesday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2tHWXVsV0ZoME42VWUycnNOUHdsZndyZ080aWhfRlhBRmQzM1RSeC1ZbEI4VTIwc0Q1aDZNOWQ1WFI4aUhXQnlhYXhhN3BVb2FHelpBNlJWZVEzbXNhNEkzMVBZek5MUEl3OGZUVS1UWVVIRTZZVWRzOXFMOUstRXl0RnJLdUlk?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T22:35:51Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -542,6 +638,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "473beb3d41e05f03b482c7",
+      "title": "Xi, Putin blast Western ‘protectionism’ and sanctions as Trump lands in China",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFBHTzcxRU04dUR4V2ZFSjdFSHJfZ25CaUFpNVI3bUktR1htVWtMUXBTN0s3ZUduNXRLZ2dJSTZVWEpJNmpaUGJGdHFfWkRsVUtsZm1MczR0S3ZKbk9fSDBGdm5KY2x2dURtQTB4S0hidHdxOUp5MVBQTVozYWtIcFR6ckhvT05NUFNlMERrSjM4Zw?oc=5",
+      "source": "Virginia Business",
+      "published": "2026-11-18T18:22:03Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ff4a3aa6fe57720e9e2279",
       "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
       "summary": "With Grand Theft Auto VI set to finally launch tomorrow, November 19th, our long-awaited return to Vice City is nearly here. But after all this time, some of the gear you’ve used in San Andreas might feel out of place on the glamorous streets of Leonidas County. Luckily for you, we’ve gathered a few of [&#8230;]",
@@ -658,6 +766,18 @@
       "published": "2026-11-18T17:41:21Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6c21f1229fe43e8b491038",
+      "title": "Nvidia stock erases earnings pop as investors face life after Jensen Huang",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-18T17:35:47Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -972,18 +1092,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "id": "473beb3d41e05f03b482c7",
-      "title": "Xi, Putin blast Western ‘protectionism’ and sanctions as Trump lands in China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFBHTzcxRU04dUR4V2ZFSjdFSHJfZ25CaUFpNVI3bUktR1htVWtMUXBTN0s3ZUduNXRLZ2dJSTZVWEpJNmpaUGJGdHFfWkRsVUtsZm1MczR0S3ZKbk9fSDBGdm5KY2x2dURtQTB4S0hidHdxOUp5MVBQTVozYWtIcFR6ckhvT05NUFNlMERrSjM4Zw?oc=5",
-      "source": "Virginia Business",
-      "published": "2026-11-18T16:05:07Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     },
     {
       "id": "7fdefbe550bfa1b5d8e5cf",
@@ -1332,114 +1440,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "3917b55646f2a8e32c5921",
-      "title": "Revelio Labs Ranked No. 323 Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLVhFa3hmc1dmSE00WFNETWhwbXkwXzJzRlNtVHJ5V0pWZFhBTmtWM2VYU24wejlWaGxJSnA5S2lwMXgtWXpON21ldzZUT2JsaGNna3VmY2luTDN2OFkxT0FLSjlyUkVYNTJoRDZFVVdtb0VZTjRXRzBqZTdqVUlpU0N6UVpsVWxiVlZHYnVjODVyU2hUUDFYYlJiTDFBcnMwaGEwZ01JazN0VFNaS3BoWnFPZEpMcnJnQWpvT1lmam5fallwRGlvME1sYm9SbEpmYlFyQTNLMEFEOFlzTndpVzBsRDNBTEx4QWF3NHM2bC1nSkRfNkdF?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-18T14:04:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1e93a2f81463217c26529e",
-      "title": "Xi says Asia-Pacific needs open trade as Trump arrives in China",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzJjU0RWWlhFV3lXalNWM0x5M19KWWlRT2NUV0RvQm91RXlIbFFTeEhTM3dDdUlyWVhKRVhyOTlGTDExb29nMHVEQWFLVzdHR09kWnZJcDhFQXNWbDNaTTJBUV9KT3FYUFFpRW9HS0dWOVdWdFotRFJPT3k5WmNQMjBpQUxnZ0U3UWhrQmxzM3haSGo1U1RsVlIzazc1SEg3MUV4aUNtT3FmZw?oc=5",
-      "source": "Naharnet",
-      "published": "2026-11-18T14:02:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0fcd8574078ce0b8ec691c",
-      "title": "Xsolla Connects Players, Brands, and Video Game Audiences Through Rewarded Engagement",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkdZc3B4MnJYUFZ4WXh0WE5jc1Y0Sm5lalFuNXN2cmRKcmRwdHpyalJzaU9PcllxWHJPeDJtSDlyZGRlMnZkVEZIUzV0STM5Mzd0ZDgzdEtvUkRsbnI3NGhNdHppYVNLSmdLdU1aY2JGUHZWUllFcDhnVlZGbV9iUnFfTEI5RHpxSERLeHoybEd1ZnhiOHJsVXZjMWJBX3cxQVhKSmFGaGNFbmFKYm9CZmJqNFpDVVhnNHEzTkFKd2N5b3U5VVNEOWhUZmlRRTdpLXNLaWYtUQ?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-18T14:00:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9e3dadacdb1ed1c9fb1ef9",
-      "title": "RWS introduces Global Readiness Assurance to help companies build, launch and optimize products for every market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdkpTRGItSVNoTHVwV3dpSi1FU21Ca2d1Y2NSc0U0a1BwNlhPNG1YcE5laUE4YmFMVXB6LTR3bUE5dldLc2M2VGM1Q0V6LW9GLWRjMnFZWDRaUUpVV2o3YngtWHYwdEp3QTRaRE9nWXVXdmFPbEF1UjhFUkpwbnFmR2EzWk1leS1qTlNBUW5FYndXMERGZm5pdzZTLUpjV3Q5bkpJMjVpRzlQSGs5Vm9iTXhGNTNnVUNraDB2aWVkSV83Rzl3Rlk3THg3cUFSMk9QN3hDaEkyeXAtNmtkNTEwaHhvX2pVMS1xMVIzTjNvd0dYQVdTUGJFajVjNUd3Zw?oc=5",
-      "source": "PR Newswire UK",
-      "published": "2026-11-18T14:00:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9db32aabf51bab639872f3",
-      "title": "How The Verge is picking which Black Friday deals to share",
-      "summary": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these offers. Of course, the companies would prefer that [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
-      "source": "The Verge",
-      "published": "2026-11-18T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ddf152f6d3b592a40ce9a0",
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. [&#8230;]",
-      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "source": "The Verge",
-      "published": "2026-11-18T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "98beb1429de0bb1155b95b",
-      "title": "RWS introduces Global Readiness Assurance to help companies build, launch and optimize products for every market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVjZHM1JvZGZLNldmdTNicUluYlpCOG42cGstWFRGSnFOZlZhQktwcG5UVEoxaUl4VktEdUlaai1hdGl4Z3pLVlFfSHk1Snd1eTc0SDZkejdnMndhSXpXUVIwMEJiU25mVGNVaERZYTdHZ3VuTUxNN2RQS3lTdGVKSk5OVTIwOUwtdFJMcnBDRVUzQ3otdThldDN6Y2FFRHFLc3MyNlJhQThyTGJKSUFVLU95dTQtSnNzNzg1TElNX2ptT0ExaTY0VGl4aDJFYmxjTUxqXzJrZE9oMVBxdXhQb3dleVM1eEFibk1hMEdSWUJPRm9XalRtX2dIRQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-11-18T14:00:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f653c936d59af720a6e652",
-      "title": "Vertical Data Launches Canadian Operations in Toronto Alongside Dedicated AI Data Center Development Platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2NONFBtYThQeDJQLXFYWWhIZmVObllhR2l6RTltc2NfT0dBSmR3Tk9DSVplclFaYlVxX1Y1V0dpZjdUaUdPMjFLVmpxaEU3Q25hd0xLY0dDUk8zN0ttdG1mZTkycWlZT1ZsdmVqRkJpbnNTMklranhOS0dyQjRmVExndzhWMlZwd0VQMl9IZWFYU1lvc1oxX3c2YWFiNi03UWkzRUpTbVZEUQ?oc=5",
-      "source": "www.newswire.com",
-      "published": "2026-11-18T14:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4890d4f9638ab71db643be",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-18T13:55:14Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
     }
   ],
   "countries": [
