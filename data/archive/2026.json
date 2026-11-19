@@ -1,5 +1,113 @@
 [
   {
+    "id": "80283102200146719cd0e9",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "source": "TechCrunch",
+    "published": "2026-11-19T21:42:31Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800"
+  },
+  {
+    "id": "38eb97291c037cecaf0ec7",
+    "title": "Anthropic instantly became one of the world’s most valuable public companies after its stock market debut on Thursday. Take a closer look at the company’s valuation compared to other tech IPOs. https://nyti.ms/4zYR5Ur - ",
+    "summary": "Anthropic instantly became one of the world’s most valuable public companies after its stock market debut on Thursday. Take a closer look at the company’s valuation compared to other tech IPOs. https://nyti.ms/4zYR5Ur &nbsp;&nbsp; Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3loOXEyak1QRFdSMjRXMEFUVkRFX3RZQi1PdHMyWUpTUkZkZW1iSEZ3b2UtZmhzT0ZYc0prcUtUQVBxVy1rb2h0M3FpMkNQTlBFRmRucEtlNUdwc1JNSkRLbi1HcFRyVGpZTVlZOHczc2pKRGZKTEo2TjZtV183WG1kYlRQVy01WHY2Wk8wUXhNU29WWFh3V0ZQTnZwWnNYY1FNdjRDRG1NZ1BEeTBqdUJvTldWamgzRU1FcUw2UnRzZ1YyWFpJc1lHcGkwQXV2WEVz?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-19T21:40:04Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8febbadd7da71c0fac3b4a",
+    "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+    "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+    "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-19T21:38:42Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "id": "65a3912905c8aec9f543dd",
+    "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+    "summary": "Uber is testing the new program in three U.S. cities.",
+    "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+    "source": "TechCrunch",
+    "published": "2026-11-19T21:33:24Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
+  },
+  {
+    "id": "4a8309431ec4f0870ed879",
+    "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+    "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-19T21:26:10Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg"
+  },
+  {
+    "id": "b157739179d08bd25043e9",
+    "title": "Icecure Medical US listing rises 24.08% on Wednesday close",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWlGZWpJTm9oQVJFRlhPMS04ZXIySmpRQ3NLdHlIZXRLczlpOEo5MkVSOEJjUEo4NU5pU3UzR3NWSk9GM3RMelhkOW9rVjA4Y19kSWhaaFJBUVBxb1c1RHhJUWpKQnlteDY2NEswQXYyVU1sSmZqbmQxTTNiTm1VSUxUOGJ2LU5iTzVWLWNlRTV1S21xajhpZTY0bE5KZGR0WURqMmpueFdUZ01JdUFqYkN3?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-19T21:19:45Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b8033403ad2a18c669a3d8",
+    "title": "ChatGPT, Claude and Grok can now help Webull users research and trade.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOEZId2NBQngzRUZvcl9RbnNnZS15RFY5bzhMdnlxdnRuMGpmZTJrbnF5ZktiMlFkcHlpRS1oYkNLQzZrcnFtTTNEeDZaM1B0WG1CSnpxWDNEa3VEWnNZTjZtcmU5S29WSWtjeVpHYWc3cms2OVV0eW1wczVqc3Nwb3dEZnNzQ2xUSG9zY3JOYnVCWXJ2QUN1RS05UF9FcDg?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-19T21:15:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8654bdca921dedc5d8a388",
+    "title": "Globant Reports 2026 Third Quarter Financial Results",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NxZUxJY2FXVGFDSHZVZ083MXR2ZERUSnc2Wm5TdDlvV19EekVZdDE3RWtsd3ZKb241MXZMQXpGQWF2NThIcHhwdk02aVpYRXdIZS1tNU9sc056N2hpaURHX1lBMUlscEx4NzQzSVZtWUpxLTZPbmZmMzVBdXdYRnd2VW5WaTdJQkExV3FSSmg4UXdOMEhUbVRnRm9MbHpXelU1Ym9pWnFYTmRYcjAzblRBQQ?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-19T21:15:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d4ae95c1ab1097bcb67096",
+    "title": "Meta now sells 3D movies on Quest VR headsets",
+    "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#8230;]",
+    "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+    "source": "The Verge",
+    "published": "2026-11-19T21:12:06Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "b331a244d62b8fc8686104",
     "title": "Meta’s Muse Charm might cost $300",
     "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
@@ -624,6 +732,30 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_FITNESS.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "7758fc7c0dde86419ba85b",
+    "title": "Inside Hinde Group’s Investment Case for Mobility Global (MBGL)",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3pNSnY2Zm93dkdwNGg0WVB4N2U4TURVWjJ5VkZUQ2YtZFZPWEYtbFNPUDNIOVhzY2NzaUxkdzdPRkd4RW1Mek5mM0NYWlN4NFI2ajJUSGI0eVhmRXdJY0FRUG16YW9NRUVUaHFkbm1Fcnp3T0F4SVpFLWJUN3BOUzlGTTdtQ1FQZVoxSU5KOWtzN0U0aGJnY2puX25zTlJP?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-19T15:51:29Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1cf90c8bb7017b86c3f6af",
+    "title": "Brand as a Business Strategy: Making the Case to the C-Suite",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXl0aGtOSDd5bnMtOVJfVzlEYTZSUkhwTk1IVkViTUhYT21ULTd0dlkxX1B5aE9MNW5RdlBBNXJYSGVPR3pOQzQ2RGw4SVVSZE1zMW9mWXNiYW4xVFFOMFBtVW83NFNPMnNESndaYVozYW9aVDJKN2V5MTVJbUQxM2Q3VGExQzVlSFE?oc=5",
+    "source": "Roastbrief US",
+    "published": "2026-11-19T15:41:31Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "4a00e88ad26b0eb41fe750",
     "title": "U.K government forced to disclose secret Apple backdoor order",
     "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
@@ -934,6 +1066,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/777da2deae52c2f9b27d896c5c1bdf7d7e81aaea/156_347_2891_2313/master/2891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a1ad4eaf96f7bb0ce57142132b98493"
+  },
+  {
+    "id": "71f66e4ce583a77fed337e",
+    "title": "Can agritech investment turn Africa Into a global food supplier? {Business Africa}",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2Nqc3hUcmNNWDZ5Z0NHQjlXTmdsRXRjNUNqVVFMeGlfak9mdWRLTVBFY0RLTXhyVDFtZjVJNV9TNjlzc2ktV2pLamFBWEh3MDRJWDZlaUlPN0YwTkw2RlVMWThDR1R3eGtUN040LURUZmF1V3Q1M1Q5RjgzMGZ4TnNyQ3ZEc2t4dDhMV0hackprOHVSZ3YwZGs4c0pCWHJPdVdjMzFPemhWRDZvemN3Z2ZtdWo1S2tVMEHSAb8BQVVfeXFMTU90QjNkb1phb1d4RktiYTJ3T0s5Wnc4NTNGUTY4RHBhTGk0dU9vM3Zib0NjSXlqdjhDdHlUeTdfWFVkeEdxVnVLdDFIRE9jb2N0VnhjM2V0Snlfc1V6cnZuVWRsbW92RlhTdWFKQlhGNnAxZXE2THlkRm5PeTN5VG5IVWNvOWlQUTJLZUEzbzR1ejlzdlA1QVZ0TUhoT3QxeWNUM2U5ZnpCSVZlS01Ub21vaTJ2ZWptNzc4amwzU0E?oc=5",
+    "source": "Africanews",
+    "published": "2026-11-19T14:03:46Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
   },
   {
     "id": "15683e37f772d6d97b93b1",
@@ -1500,6 +1644,18 @@
     "image": ""
   },
   {
+    "id": "1171f8f8cbabc107f7bb96",
+    "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+    "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+    "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+    "source": "NPR",
+    "published": "2026-11-19T11:20:37Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7849x5233+0+0/resize/7849x5233!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F44%2Fbfff6cb1428699b30904d968729a%2Fgettyimages-2304033240.jpg"
+  },
+  {
     "id": "f0e0babab3dd9bbc5f2e6c",
     "title": "Haitian International Holdings down 2.36% on Thursday",
     "summary": "",
@@ -1532,6 +1688,18 @@
     "published": "2026-11-19T11:14:59Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7f887e193ca65cc2d369eb",
+    "title": "APEC serves as a backdrop as big power politics eclipse talk of open trade, AI",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXF1UWNMdkVDZFlvamt5X1NNcDFNck9uSWtlVGpqRDZDR2RjbERBYlBGaDdqTWkySG5GVGllaFRFR01ZWVU1QnhOd0cxaG9JUXF2OG92ZlY2MmxVZnhoQzdaUmRyRXhEeVFHSkdNNUtaZmRUejZhcHRwS2s0N01IRExUTGsyZlA3cjBTaTFyNkVWakhVaFBVUUdWUjZ0TGQ3QzlYYWhvVC1wTkFDcUlPeFVCS0ZIUmM?oc=5",
+    "source": "WRAL",
+    "published": "2026-11-19T11:12:47Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -1604,6 +1772,18 @@
     "published": "2026-11-19T11:01:22Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ee30fbf54b26e6e691bf95",
+    "title": "Promoting Asia-Pacific Community to Prosper Together, Benefiting All Its Economies with Development Gains",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpTUVib0NQNlRzOGVHWm5wLUVHTjlvV2hkbXkzX1ZHR2VtQmpPS3lDbzk5REx5akI0RVd2LTk2VzNOUXJPdENPdEoxZ0lTbHNRUUZEbFZGNmUyNWRRdHpIR1Z5N1JpUQ?oc=5",
+    "source": "ຂ່າວສານປະເທດລາວ",
+    "published": "2026-11-19T10:42:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -2448,6 +2628,18 @@
     "image": ""
   },
   {
+    "id": "53ceeabf3340610e42ec17",
+    "title": "Lenovo Delivers Record Q2 Performance, Confident in Long-term Hybrid AI Opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00MjBONXJ6c2R4ZDFxMThBdVBuN05lM1hJZHA4Z083UVNMVXA4N0M2YnBNSGRvbHUzMjJOY2l1cERReE1VWHhEeDdyTkFBeXdDblB1dTFobTBVcDNwcTJIT2hyVzFHMzNNTUdrV0FWQlo?oc=5",
+    "source": "Lenovo StoryHub",
+    "published": "2026-11-19T04:06:26Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "2b7e66a3cbc379a3c66f29",
     "title": "One in four women globally unable to refuse sex within marriage, says UN",
     "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of wom",
@@ -3238,6 +3430,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PowHeader.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a54337632489a258f2ede1",
+    "title": "‘Volatility is here to stay’: Columbia Business School experts weigh the forces reshaping the global economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zYzcxYzNtS2JOdXFZZWl4Y2djLXFqbjdqenZOcGtrQktCcGh1bGJqZ2tObjV2RFM0Ri1PQmdlOE03emlIUDRNRlBZQzdQVkJHNFV1ZXZTa1kxMHZ1bVNUUWlySmJYOFRwSmtRM25GcE5uWktOV2RB?oc=5",
+    "source": "Columbia Business School",
+    "published": "2026-11-18T21:14:26Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "200252821c56267e79d105",
@@ -8314,6 +8518,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9790708dce4a5779d365a0",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uaG9wYm5WLWZad2xnSC12anhNVVhCQ0d2aWJUY0l5V1JFNlE3SkhjdE5JSk0zRjVhZk5Da3NzVkp5bDkwcnFnbVZ0RjV1TjFQSVZoSVNUdm5jYW13ZDZ5TTU2eVRBZw?oc=5",
+    "source": "OpenAI",
+    "published": "2026-11-17T17:47:15Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "02cb24133730ffc804bddf",
