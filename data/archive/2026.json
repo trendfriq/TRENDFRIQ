@@ -1,9 +1,105 @@
 [
   {
+    "id": "c44f22562c2a34536be1cd",
+    "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+    "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Those who missed out on the Anthropic IPO (or didn’t receive as many shares as they hoped) will get the chance to buy them today once trading on the Nasdaq begins. Bloomberg reports that Anthropic’s shares are indicated to open between 20% and 26% higher in grey market trading – ",
+    "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+    "source": "The Guardian",
+    "published": "2026-11-19T08:37:48Z",
+    "category": "Economy",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/528c5e0e23b611527cf28de1432433186338dd96/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e81ee5ae373dfc55f85cef8a741e3afd"
+  },
+  {
+    "id": "e743ca77b6325430597760",
+    "title": "A NetEase game passed 100 million players worldwide. It's Where Winds Meet.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2ppam8zSU9pUmpIVmtNRG1kc1lMNTVTSUl4TVRlMzVpVU4wN2Z4MjZ5NDdILTdKM25tYjY0X2JSZk1NS256amVNaDBkZGtsQklTNnhfVFVxQTBVUFBGc3Zoay1Wak5zaDU2Wl92d0pkb2lvTzNpQ0I0R1lMbEE3eDA2dWE1T194eFBmVkk4ZG94S3JITjBVVlpjLU9TcktoTzl2ZUgtbnFmbW1RSmgzdA?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-19T08:30:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d5645b33cb66b3c32ffc89",
+    "title": "LG Electronics falls 2.12% in Thursday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeEY4aHhoLXk0aDk1UXdCbmRBQmZKY1RKMThqaVpCdjdUVUtPSzFqR2gtWENZRHBmeHlBeDRzbXhQYkc0akNKeUFadzNTYmJfQjdhQU5iMkMxM04tUnVqMm5wbU1HNWN3M2JFa0VrVmoxSW5zV0RTVUdGczJjc3FrcElEM0JNUEU4bWc?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-19T08:20:36Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7a8fd4313fdf46eab79981",
+    "title": "Turkey ‘flies’ to the top in Europe",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CSWhyT3F3c0FfSXBCX2xqTzJSOWxGNjV2SDdxNGFKMVpRUzY5UDNFVUJBbmw1N0g5Rk1fS2taR2JGX1RZam5MRDNGYnhab0Q3Z2RfcDR2ZXY0NlVLcVM5YXliV01DQ0FhX0lZcDRYS1ktZjBkVU9JWFEzeVdJWEU?oc=5",
+    "source": "Yeni Safak English",
+    "published": "2026-11-19T08:16:14Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "320c179f1274e83029555a",
+    "title": "UK's McBride warns on annual profit as cost pressures delay margin recovery",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXZKWGNYVjdnWXlFeHpvZC1SbkQtYXZuSzBoVzQ3eHo1ZlFKYmRUNXRERUROa0lveTF6ZTZVYzlDVmQ1Nkd2S2N6RVVDM0xJNDRNQWtGT3F1amVWU19oWk9fcFBtVGdlZ1Z5NkUxejVvUVRDNDlBSU9RYWNuZEtnUnI5X2FyNTBDSERJb0UyWGllRFVMQWlHYzJnNU1RNXJBVmc?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-19T08:10:17Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "feb02d79a8243e51487d4c",
+    "title": "Energean posts 54% jump in nine-month profit helped by higher oil prices",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFN1R3RybVRfeHFvbnJxTTBtQnNnNTItaUJxYUdtc0V3WmxEeml4RU9XSlFiODQ4SlNWU3I1NjZQdHBndnlEcXdsSFQwb1p6VjhSRmlpOU5BY18yZVI0aXA1dDNYTzIwaFo2dXcwXzRHYWJ6TWh0UnB2VUNGRzItcWJiNTZFUDBpam1XU2RLcjEtQnlrRU5zRTJtRHdwOE11?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-19T08:06:22Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "bdf67c1a1e640ca10d9608",
+    "title": "Corteva: Brazil Issues Will Eventually Ease",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOXBBNWcwVzFjRHNwYUQ2VFp6blc4a0VnSFI5T3FnMnlDYy1HMEFVLS1pajVnLUVjdGFXRHpCTlluUVViUlVTYmdsTXpsaEs5V0VaMTlsdjdmSzV1NEEwc21KdnNsVVh5LTVhX09GalRSc3Nkc3ZDME5vTWt4eW8tMF9BcFFwV0VjNWhzSDBQR2Voanc?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-11-19T07:43:33Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "56637a7a762abe539cc1d9",
     "title": "APEC Decisions To Shape Asia-Pacific Economic Future For Generations, Says Anwar",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOeUtGMnB4dkJjc2x6eUhIT3htd3g5X2FtakVmN1Jkdm5RY2NVNWdFZHRwY1hmVHRVdjhKSmVHeVBWVXBObkJzWFZoY2xsZkx3Y0I3bnk0SHpvckFFUlYxQUtIX1NkYnNCd0czck42S3NCNmNxYzZBUXRzdUstRGdfQk1XR1RXU29iZHh2NGhTZ2lOX2F0X0EyeUNrdEdyWF9Rb2ZNbUN1M05JYmVJUkFlU3plZHJBd0djYnhkZG1VR0NyWnhhdWRvZ1hDbU1leWpMV2FHYWsxRDl1MjRBNm5Cb2VkNVVwSDMyREJjVm42N0NveGlXTERkc2llZm1RNkJ5dks3MWJZZ2dqOWluRkYxWEZGT3QtMzhKeXljd3ktcUpiTWRTWGtRMW9UWGtodkF4XzJlMGlzdFI4akc5N1N2eU9xbGVBX1lqQm1yb01hU1Bod3JRcmMxcEtYcU5YUVN1UmtDc3dB?oc=5",
+    "source": "BusinessToday Malaysia",
+    "published": "2026-11-19T07:23:03Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d49a045f31152e583183b2",
+    "title": "APEC Decisions To Shape Asia-Pacific Economic Future For Generations, Says Anwar",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0swVVE1Rl9lcmxlaGFtb0tRZFg4VlRjZWpfWEZPaS1YTk1BVFBCR19aZ0QtX1VlZzlobEpNZkM5QjdXYVNveHB2aUtpRWNYUXllbGxFallvT2NlbUdoYUp3d3VOc1VkZmwteV9jaUxJNk1mSHZKTlRjSWxDd1BwS2g4bWlUYkR1RnZCeXUyQkl0TjRsMXBGYWloSXJYMEVUNzZBWDdiVUVKRHNhNTlqLVVVSkRqZjRqSTU2WThNYnF0QQ?oc=5",
     "source": "BusinessToday Malaysia",
     "published": "2026-11-19T07:23:03Z",
     "category": "World",
@@ -24,12 +120,48 @@
     "image": ""
   },
   {
+    "id": "adfaef017b4846dd27f600",
+    "title": "YeePay and Finmo Announce Strategic Partnership to Connect Businesses with Global Markets",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlhJX25Id1ZpV0w0REpQMGFUTFpuMHl6d0tMcnA4YlpPZzMxSE9qNFZhTDQydDhuRHV2eHFhWW9sVGc1ZlZ5RzdhWl9VNjZMQmIySEJSYnJnNUZKSFIxYUxvaEFUYU1HSkluaGlwVUg3UGtOSktnX2VtcTRKTEpPdDJvRktJRlI0ck0zQmJobGYwV2pHdWlRVE5lUDJlcWJ6bWxtSEg4MzQyMU16UnpVTDNUQUhUbGFfSXlTVnJHbzJPRDd5OHkzZ2dSYzM2VTMwT2c?oc=5",
+    "source": "Plataforma Media",
+    "published": "2026-11-19T06:58:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "52c4ecc882405cd9175a91",
+    "title": "Ndabeni calls for stronger venture capital support for entrepreneurs",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWZEcTlTbHRfUHAxVmQ1eFN2dUNUVkZLRE12QkNoaUhMM1E0eDZET0JPZTY3OWhYc2o1ekNuQnZKQTZFUkZoWUlqVmtQNF8wMGtEcFZUODhHNU5BeFRLeVJBTjhHRG9laFNvVEN2X0VxOHJSbE5tamhMYlhMTFFqY2phSW5YdDctN1JudzlKc2NLUW0zY3ZvWW9uUFRiMmYz?oc=5",
+    "source": "South African Government News Agency",
+    "published": "2026-11-19T06:21:05Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "fc2b7c33b1f3b1896c42d4",
     "title": "WATCH: Chinese President Xi Jinping called for an open and inclusive Asia-Pacific community, urging regional leaders to deepen economic ties and promote freer trade and investment during the APEC summit in Shenzhen, Chin",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWVBVnFWWHNOdmI1b3Q4SzlmYmNOc01CWk8zRjAyVmNjYXY3RzRBV0pzZlFlLWdaX0RmenRic0lGLXYtN0NkX3lUX1BfNktLMmtNeXhkcDFDVGYwLWlwQXgzWm5qYTNnaU9TRDBBZU9aOGNEN1JCUEVBWTdHQmpKUUpQVjdaaUhfVno5Y2RiM2szSnIzOXdDUG1uRzBFZHcxR09oZWsxTnJvVjgyVjlKYkNUWkN3N05JLUV6N2VsdHNnMkZPaGdHRkJiYmVrM0FJTUp3?oc=5",
     "source": "Facebook",
     "published": "2026-11-19T06:15:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "67f8290b005931a83e210b",
+    "title": "Promoting Asia-Pacific Community to Prosper Together, Benefiting All Its Economies with Development Gains",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFBFV2VxVVJWV2tnUXpaYm96UmlfemJrbWhUcmZMLVZfa3dOdmpSMzdUaHV3d1VxWWI0Y3pyU2Rkak1nUUxJZENUazF0Y2Y4cUViUlQzVkpKeHhUZXFCa1VQQzRPSmNWTmxHT0FoY3VVZG9tcnFaa1VfSS1zaUpHb2JGTGRXYTZwb2NYejMwWE9peXVId1FPWXpDN3Z1ZzhNV0VzWEx4dTBKbURNVGtjVm1rYjVwd3FtU29pWXcwd29GSzFDdWtOZ1YtTzdzdnliQjJ0ejB6OHhjQmZ1WDR5Mzh6MnFWTGZCS1VZSnJDbjFSQQ?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-11-19T06:11:00Z",
     "category": "World",
     "topic": "Asia Pacific",
     "country": "",
@@ -492,6 +624,18 @@
     "image": ""
   },
   {
+    "id": "1d23156725b579620f1d58",
+    "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+    "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-19T00:05:31Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aec/live/3ca33b80-6077-11ef-aea1-e764981585c4.jpg"
+  },
+  {
     "id": "93d5ed52214d635593267c",
     "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
     "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
@@ -742,6 +886,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+  },
+  {
+    "id": "10e302fb34c3ddf5d8527c",
+    "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+    "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways Waymo has stopped offering driverless taxi rides on freeways across the US indefinitely. The Alphabet subsidiary pulled its vehicles from highways nationwide after California banned them from freeways in response to rece",
+    "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+    "source": "The Guardian",
+    "published": "2026-11-18T22:05:49Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/66a7e1b60127ac32448a1397ea75dab23ebbfddd/451_0_4513_3610/master/4513.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=368469baf3877285cfe4e934970fe466"
   },
   {
     "id": "2ee1cbf3de902b1cfa3991",
@@ -1536,6 +1692,18 @@
     "image": ""
   },
   {
+    "id": "1afc5cfbd72f76ba12b408",
+    "title": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+    "summary": "Exclusive: three Senate Democrats send letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US senators says Apple and Google are failing to effectively detect and remove apps that can be used to generate nonconsensual nude or pornographic imagery. The senators also say Meta is continuing to profit of",
+    "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
+    "source": "The Guardian",
+    "published": "2026-11-18T16:39:25Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/e2ed5d5a662380c8bc35eddb7768f22cbfcb9b8e/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66c6fe40c9862a3b0bb42cf7b0fcd404"
+  },
+  {
     "id": "cc556c642a48f152534d57",
     "title": "US artificial intelligence chipmaker Q3 earnings beat forecasts as revenue surges 103%",
     "summary": "",
@@ -1828,6 +1996,18 @@
     "title": "Xsolla Connects Players, Brands, and Video Game Audiences Through Rewarded Engagement",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcFYtMkxsbHdUeFVzZGZ0dkdqbGNTZGFGR1RaNUFadnV5VEhUSnhDSGNuS0g1TnpSNFZGSllwYjdtd0NaVUQxV0lvNDVFbDBFWDg2elhKUkxsVC1ybGZ5dW5mbWJPd0hYaWk3Vjl3V0xqcERJMVFZQm1MRGlZS3FhVjNkcFc1dGV0N0hzMmxCREdXLWxmb3dza3hpV2p4UHFjeXA1RzFVaFZwOUEzcWdQempTeVZDcjJ2bnR4SFpWQWZpN0F2V1Eyd0w4R1pfeDZtY3ZsSmRIR1ltU0g1?oc=5",
+    "source": "STT Info",
+    "published": "2026-11-18T15:16:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c46911299797e21db1107e",
+    "title": "Xsolla Connects Players, Brands, and Video Game Audiences Through Rewarded Engagement",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUzB2Q01jcWZ4TUFJNU9qUDN5ZHZnUnZCR2VIVll4X3Fhd3hKajZZMWdKclZ0UVEtYVY0RzNPMEFGNVBFYm1oOFFmTy1pWkVBOFNsZHFNczJaYWV6X2tvNGZZTllGMWVJNEUwS0hOMFlOWEZpYlhXMTMzcU15VmxHYml0V0xEeTllY2J3TUVObUgxVHIwQlRSY1drYzh4Zkp2VUFycndydUJVUXhUUzRZYTZLbExGT3h6Tm0wR2gyTHNfWW9nem5GZmxCVDNyeDNwMDdtOUNsMGtWeEtWMlN2MXgzdU9PYzQ?oc=5",
     "source": "STT Info",
     "published": "2026-11-18T15:16:00Z",
     "category": "Brands",
@@ -6300,6 +6480,18 @@
     "image": ""
   },
   {
+    "id": "8d8e3cc4793fcdd59ae177",
+    "title": "European Commission raises its euro zone growth forecast and sees inflation above 3% through 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnJsMWNEM0s2S1VRQnRiV0FEUnpSbG95VmVORERWa0hoUXp2X2ktdmUyNlEwTzNmXzA2WmNMaTdxN2FnU09IYTlQS2RkMlFyQkllYWh0eTBZZk01T2UzaFdfUGVSQkM1bVJjSEdhTXM0dWRwZEQ5ZU03OUlnMnp4LVo0WmdzYUYzUHdiYW5XdVJuZVcxcmFuVExZVUlOMTRhdm10WWNRclJjWkFXYk8wRnZfV2l5NkJM?oc=5",
+    "source": "MLQ.ai",
+    "published": "2026-11-17T16:04:05Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "193bf0471c777c7d0b8632",
     "title": "Toronto stocks slip as tech, financials drag; Nvidia earnings eyed",
     "summary": "",
@@ -9918,6 +10110,18 @@
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMTlBNUNrWHJwVTMyMG9HclQ0Q3g2YmlwMkQtZGhLN1QxOTdscmhDQjhVUmREZWFXTkJMTTBaSTJIQ2RkWWhtWlZtVnhyNUhsYzZHazgzM3Z3ZG1lNnMxME9ESDA0cGFORkJUaERrRE9DdFRMRUpZT21weTJGVEVYdHY5TC1lTlU0RThFWjZWanNXWWtUSHJRSGQ1SHFCdUJzOU1yX3oxYTV4c1JtUk8tSEIwSDhoRGtieUh4M052VHUxbWQ2WkpJdWs1MnhEN3FEbE9xejVQRk1rYzdmMzlyYWU0UWRqZw?oc=5",
     "source": "Yahoo Finance",
     "published": "2026-11-16T22:29:53Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a16c83283fa13d2e41e317",
+    "title": "Wall Street tumbles as Nvidia leads another tech sell-off",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmllMFNFVC1FY1FEbHQ4d3hrQ3VBY1Y1MkRvU29IUERyQVNXWkNSbW5JR2ZkS0N3OU4tckVvazlLbHVfLVJHTlhoa2M4blpMcGU5eDBfV1FSR2QwQXRSbUtmb3Vld04wNlp1MUhpTWNtU19DVWQtT2xmNElCM2ZId2lWZUxDaGQzNGFJcmVnRVg5dlBGcWpYbUxHcjFhdHVXUHR0U21Vb3laZFQ5c2hBYUlaS0Uyd2c?oc=5",
+    "source": "CommBank",
+    "published": "2026-11-16T22:24:04Z",
     "category": "Finance",
     "topic": "Corporate results",
     "country": "",
