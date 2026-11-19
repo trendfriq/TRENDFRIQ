@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-19T00:31:01.717941Z",
+  "last_updated": "2026-11-19T01:52:35.297378Z",
   "articles": [
+    {
+      "id": "b863bb1d729a35212c0b34",
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between [&#8230;]",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "source": "The Verge",
+      "published": "2026-11-19T01:39:45Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0662827b3c6fc9a68836ca",
+      "title": "Meeting in Shenzhen key to buffer regional fuel woes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjhKcEtfTE8zajNNRDlMNlZ5cjVjakM5eV8zcmh3VDhWck9SWE1TVG9FcmVNSS1LWWZKVVhIVklvalQtcFFOYnJiaXk0WUtGWDFxTXcyUTVUTVdiNU11YWthT0FNaDZudkh2cl9ndFJsMkVXMUlUcExQa2I1MXZkdHVB?oc=5",
+      "source": "China Daily Global Edition",
+      "published": "2026-11-19T01:21:40Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2e74d660eaeb9801014948",
+      "title": "Bayer, Syngenta and FMC Reshape Crop Protection Businesses as Investment Priorities Shift",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaC1ZSVh5Y1hSWkdEVUp3Nlp6NDVjM1VpOVdZTjdyWUJ1NXNxa3R0bU1KWV9NOGlTUnJUQWRhUnVIeFNmbmRYT3VYRzM0cEo3dzlYWjJuMXc5cGxHbXM4eVo0RVZHb2dRVDR5MENMMEIwakJXM2tJalBBb3JlYldhOGZrTjMtSjhEOEtjRnE3aHpZYmM1aTdYZ09xYS16RUJodU5DZVdOd0tVcC1KQmwyRzMyR2ZBVWdMSTJzRlNoT1VGRGs?oc=5",
+      "source": "AgroLatam",
+      "published": "2026-11-19T01:13:43Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ecb256426dd1c275361141",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T01:05:03Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+    },
+    {
+      "id": "877afe82f192b0c861e959",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-19T00:49:19Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
+    },
+    {
+      "id": "4f4ff0e58d69a5c0889b1f",
+      "title": "Creating momentum for the development of the innovation ecosystem in the Capital City.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWdubmFmeDc5NVlMU3lLM2Z4a1hYQnc5ZjVVclpTTGx6Q0I1WWJoOTBzamNCWVdGZ1I0VjJFZVQxVE5FRVVra1I5Mm5ndWc3R2VzSHJPRHRiSGRMQ2RzVmV4NjdhNjlxcWI4Y1NqNFJQVXAwYW94MzVWbi05bWFJUGVCdV9sRWw0VE80aEljSFM3dWM2?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-19T00:43:23Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "108d95f376814446edb6b6",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T00:42:56Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800"
+    },
+    {
+      "id": "c2fa4d9710305e95601d12",
+      "title": "Mergers and European competitiveness: Evidence on innovation and market power",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0VoZUN4Z250U1YxaTNYVHdVcWZaLUI1OWU5QVh4aExiZXh1dW9EUW1GTXIxZUQ3QS1HcFhmb2FHOVk1V3BrS3RxemNZQV93ZldHRFNXcXNaNUZjZ2dXRGdrWDlsN2JQcDI4MFh5ZDVQREE2VUt4c0lDeElGWl9makRPTzdPSDdDV3pGeTJ5ZFhRTDFDZlhyRmRmQTR6ajBGMWc1aTVfb0c?oc=5",
+      "source": "CEPR",
+      "published": "2026-11-19T00:41:20Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6a21dab5c79c6557bd661b",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T00:40:49Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305778019.jpg?resize=1200,800"
+    },
+    {
+      "id": "25d16f6728090557b57739",
+      "title": "Chancay Port boosts South America-Asia links 2 years on",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qblZjZ3BSMnB0M3BuTU5QZkJ4aC1ZMmQtbDFQc09PY2lmNjRnQnJHelJSM3dfV3lqNjFETkVjLWo1bjczb0Jid3o3ZElBS1JjWjlvN2tQX3VIT2pVVGdTdVhB?oc=5",
+      "source": "Global Times",
+      "published": "2026-11-19T00:16:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "b4e11325ff834b2bcbd0e5",
       "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
@@ -38,16 +158,16 @@
       "image": "https://i.guim.co.uk/img/media/55b30b78210b9de9b6079a003a575537c1f083f7/340_0_2178_1744/master/2178.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b3412ac22548202a97007078ed027aa"
     },
     {
-      "id": "0cb5229c1562e46464a48b",
-      "title": "Theft of trade, tech secrets 'a global issue' extending beyond recent headlines: security CEO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdklCWXhIX2k0YXpMUy1RckRTeXVPcE9tT0hKbklvem5wWkpJSFNLclItZ2M4M2xadzhTX21xMHZiQjBjU05QREV0RGkyclZoUEdnTGtYMUxTdTc0UFlnVVhvbGcyalMzc2dEa1JPeEVtaUJpbzN6ZmtjNnc3dw?oc=5",
-      "source": "CBC",
-      "published": "2026-11-18T23:48:26Z",
-      "category": "World",
-      "topic": "World affairs",
+      "id": "4c8aeede10ce74e4fc929f",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-18T23:47:46Z",
+      "category": "Finance",
+      "topic": "BBC Business",
       "country": "",
-      "image": ""
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg"
     },
     {
       "id": "afb1f8fc849417dafc4056",
@@ -87,7 +207,7 @@
     },
     {
       "id": "a841d7eae2401c931b50a8",
-      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
       "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
       "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -132,6 +252,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
+    },
+    {
+      "id": "208bbf1432a14e0b27fac9",
+      "title": "Luxaviation ONE Appoints Francisco Serrano and Andreea Lazareanu to Boost Spain Charter Sales Ahead of Latin America Plans",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUmNvUDFxUkRkU09rcXNjMnNJZU1QOTFpdVRYUmtDcV93by1zQll6Y1JraWZWT0Nobm9XYlNXZ0FnSDEyWHZ1cDRkdXItWFhmZW52TU1IWjNyck8xT3NNczRKejZJV0JnMjVSbl9peVBZWHM?oc=5",
+      "source": "Avi-Go",
+      "published": "2026-11-18T23:12:54Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5a9c64a2d43f289af72936",
@@ -194,6 +326,18 @@
       "image": ""
     },
     {
+      "id": "214607c31cbade421f8b30",
+      "title": "Ross Stores rises 3.26% in Wednesday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxX2RydFFuUmRhMUhwZ3F2aHhOa01OSWNNRTk5ekI4MGZMNVVkcEY4b1lUV1pYajh6VjRfWWdTSUdEWW5jSElWMUJaZF9pMnQ5Zm9MZ2RRcERlZWEzMFVfdVZhaUF6LWFYUnJGZG1QY0s0dkVFdjB1bjJwM0t3Mjg?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-18T22:35:41Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "4bae7c9dd7b588be8c77c3",
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
@@ -216,6 +360,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2eb98728e98509d65e4554fe361b577b"
+    },
+    {
+      "id": "a4d30fc7e0ef274f3ba1a4",
+      "title": "Portuguese economy shows greater resilience than European Union partners",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHlGTzJ2TjNHeExUNThVQzZrbkROT1R4WnVpaHVXdnlvOWVEX1AyYnUtRzRScTl5R0RUeFdCc3ZWSGtWc1U4ZVMyRXNSX3o4YjNnNXFzbGI3UnFJN1N2eUIzbXlJYVlJSVdKUnk3aUdHUFVPREc5eVFMREZuTEVWM3cxbGJySWhCUkY2SmJFV28xOU1XdkFFQThZTno0TEFteHd6UDUyRjRVX0hwcTNUMkJySWlESXo1dWkwcW9zOE1xWk5RcHdJ?oc=5",
+      "source": "The Portugal News",
+      "published": "2026-11-18T22:25:36Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "aed3ea0dfc61854d1cd692",
@@ -290,6 +446,18 @@
       "image": ""
     },
     {
+      "id": "a67763cae14be491336669",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5",
+      "source": "blog.google",
+      "published": "2026-11-18T21:35:21Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "734339654a32d098c3aef7",
       "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
       "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
@@ -315,7 +483,7 @@
     },
     {
       "id": "1c9f1ec88723e6c1d33fa2",
-      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
       "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -324,6 +492,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "7f0b0878f5132068dff825",
+      "title": "Palo Alto Networks (PANW) Q1 Earnings and Revenues Top Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjZWaEI1SmNDYXBqUXNrbmxmaXBZejNKRUpTbmhxOXNzc1ZwNFQ2YUczaWJnMk0wY19RUnJxVF9VOXdIOGNfZ1BsVEp3ODJVU1JtSXdSU2dLbmxILXZKUVhXUXJSQXJONFNoMW9CbTQ2MV9JSndmY3doWjZpaGF3S19WZlhvcUp2T2JZUkdzcGROakFrT3c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-18T21:25:01Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7d3a781439efe00a79c7dd",
@@ -610,6 +790,18 @@
       "published": "2026-11-18T18:35:33Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b00432ecc9baf95473c802",
+      "title": "Stable Growth in 2027 Economic Outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR18tLWpEQUhEVXNjR2VRZ2xrc180R0hvclR2QjBqRXRmenBhb0QzVG9SQzgwNlY5Y3ltbkEyc2Q1X3REZGFudWZMSHBmcDBYTDZzS04xWl9aV0lsUkNPa3lld3UydVJqWDN1RnN5ZEEtbllXdWluYmlXa1pqVFh2emZ3?oc=5",
+      "source": "Morgan Stanley",
+      "published": "2026-11-18T18:35:14Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1246,198 +1438,6 @@
       "published": "2026-11-18T15:02:52Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ad65e2ff09e2b1e2387f96",
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-      "source": "The Verge",
-      "published": "2026-11-18T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "2a7d35fa5abe67e0d9c75c",
-      "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
-      "summary": "Meta's initiative to make Instagram safer for schools stemmed from efforts to increase user \"acquisition,\" \"friending,\" and \"invites,\" according to a report from NPR. Internal documents revealed as part of a group of child safety lawsuits against Meta reference a \"Project Gryffindor\" - a school program that would \"fuel organic and unattributed acquisition\" o",
-      "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
-      "source": "The Verge",
-      "published": "2026-11-18T14:59:05Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23904518/VRG_Illo_K_Radtke_STK070_Instagram_1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "97955e28fafa27a1bb6118",
-      "title": "AmericanAI Announces Two New AI-Native Professional Societies, Targeting Innovation, Marketing, CX, and Modern Finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNVg0VndjWFBOZ0lvMTJFQlFuNUtnSzdrVmNsWlNHVU8yczFTYVY4LTNOS2w4YVJBWGpvNFhTTzZiNFN0a05BdHhjZk9sdGJDZ2hmdnllRjRMNzYzc05UREdZV29xTEtkcXdOVGNwaW9aQzRGY01WVkxEMXkzRUVoc0xONUhxQnQ5Z2xQWFRPX1I4bWo0dXlBVHQ3YzVGWmRrWG9DYlNVcTlmcFljRnctRWtjeVpMQVV1cm5YRlpQbGdyQzlGTWJhMVlSZ05remVCeWtiZDFvU1lWbHItQ3JDdncyNXg4U0RQOE96TDl2OGFrNnNWaXZOOTVMMDl1WDg?oc=5",
-      "source": "The Detroit News",
-      "published": "2026-11-18T14:58:21Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "58fe7df3b7d4c6992b2f57",
-      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
-      "summary": "Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain headaches and the complexity of building a futuristic bike powered almost entirely by software. Now there is a new [&#8230;]",
-      "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
-      "source": "The Verge",
-      "published": "2026-11-18T14:56:43Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_ALSO_TMB_09-1.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "036535dfc4ad2fec958274",
-      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-      "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
-      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T14:55:13Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/gta-hack-1825453237.jpg?resize=1200,758"
-    },
-    {
-      "id": "588412302ad43f70c88ed8",
-      "title": "Italy and India push for shared economic security as strategic ties deepen",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVRRN3dJVjhVaWhtbndFMWlsbXFLTlkxX01md0FHWnJHREFHTzhMVTZtYXZ0WEdxNUs3WXVxbnB5bFgyVUJrR0RvWExWelIxcEdZSWRLdmFQWkhMUkQyVGdQSnJZV3ozUy1DMDhpaGNVTXhjc3FrbzdlbHotQjdlRjUzQTFqWWxidzdCS0ZFakFrTnZEaGV1MUtFSXFEN2tNMjlBNQ?oc=5",
-      "source": "Decode39",
-      "published": "2026-11-18T14:50:20Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bdd3cf35dda2f080b5a5a2",
-      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-      "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are related to each other or are the work of malign actors, according to the US sec",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "source": "The Guardian",
-      "published": "2026-11-18T14:46:49Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d8053b9038ce3a18aaa3b2cbcffef1cb0d77b18b/475_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c7e8d6610d700dea47d1a4f82fdcdbf"
-    },
-    {
-      "id": "66d046198f619c3f5b3c65",
-      "title": "Introducing SHLA: Investing in Asia’s Defense Technology Buildout",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFg1Q0R4S1Y1Y0pJWmJ5QjV2ZUQ4S3ZjcFkwenZOQ0VGZ053bXJEbVkyZ2NLMTloOUtoSmgtOEVqZGZLZEh4dzZubFk2cmJ5TlFaLTJHNUNqb3NxYnJHbGVuR3ZJb2dDb3NvaFJoeGYtYXhDc3h0VVhRRFVmaHdYMmtCbkI1LTRvRmM0OXpod1RvamlmUTg0aU5WSDJuaVRoR2gyZDduNDVSOXpVdFBLajhieWxVMTJ5?oc=5",
-      "source": "Global X ETFs",
-      "published": "2026-11-18T14:38:15Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8521d634a77e826327cd7a",
-      "title": "Canada weighs Chinese investment as US tariffs threaten its auto industry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
-      "source": "BBC",
-      "published": "2026-11-18T14:35:18Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d50f2baa0ad256242a026f",
-      "title": "Jordan–EU Investment Sessions Examine Partnerships Across Key Sectors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2hRU3FlcExmcVhfWm5YaG5HUThQdjA2SjRFM0tUdzVqTERMTmEzaU1qM0hkVlBHaU5KZlBXSjBmQ29CNnZPbEtxOUtETVdkd083WG5DRHlXSnFQbmtMd0VsbHVzanRvd3BPcDcwN3RyLU5oVnRYczJmMmtUU1pFTmhGZXBvbldaNXEzWG8tMmhNcWMzS0VJaGdmeWVzZw?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "published": "2026-11-18T14:26:19Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4a71e234ffdbfe6134e358",
-      "title": "From defense technologies to artificial intelligence: 12 Ukrainian startups showcase their developments at Slush 2026 in Helsinki",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdnRCSmVlTVd0NVVXOUktNE51bGQ5dVBPcDUwUDd4ZUxpcWNKTk1GdC0yVWlHU3h3Ylgyd1dnLWE0YUVSZ2RsYy1Qd2hwaXpLek5sWGs5N3QySldjcW5SZ29MWkRwQmZxSFQ0eGJNR1BYUlB2djlzN1p0eVFzc3lxM0JTRnhiM2YwNW9TNXZ2MjI4R0Eyc2ZfTlBvcVlFMmlBcVlaYjRySk5YLUtSV0RpOWhBZFN1a1hTM0JZR2UwMmJyR0xLcVFFSFpsbjcyMER5UnJEb2FWeXhnWFJDc0RZeWZLMW1CUdIB5AFBVV95cUxNbVR0c1ZiWDhyOVdMeFFiQkgxcHh5eGktenZkZmxGWjBiNnFzbzJFakVZc19FUEFPbmZudmlXWkZndTFPMzlsbzJwWkVsUTN3T1lsTmthU2E0aWtpbmFPektQR29MSmFCdWhvTFN3Q3RjRUxNZ1ZiWVNRM2VubFoxT1RWRjBwQXBIX3JRSU5PclVzNGFETm9EbkM0TVZpTDM1d3ljUUc2SHE2RTducmdDM0tjc0FXZExuWGZMeEZpQzFVS09Rem9mT0FnTlhqZnFMc1lNRkRYZ2hfM19YSmhyZHowdjA?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "published": "2026-11-18T14:19:11Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f271a51aed1a10dc3d49ab",
-      "title": "From defense technologies to artificial intelligence: 12 Ukrainian startups showcase their developments at Slush 2026 in Helsinki",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbVR0c1ZiWDhyOVdMeFFiQkgxcHh5eGktenZkZmxGWjBiNnFzbzJFakVZc19FUEFPbmZudmlXWkZndTFPMzlsbzJwWkVsUTN3T1lsTmthU2E0aWtpbmFPektQR29MSmFCdWhvTFN3Q3RjRUxNZ1ZiWVNRM2VubFoxT1RWRjBwQXBIX3JRSU5PclVzNGFETm9EbkM0TVZpTDM1d3ljUUc2SHE2RTducmdDM0tjc0FXZExuWGZMeEZpQzFVS09Rem9mT0FnTlhqZnFMc1lNRkRYZ2hfM19YSmhyZHowdjDSAeQBQVVfeXFMTW1UdHNWYlg4cjlXTHhRYkJIMXB4eXhpLXp2ZGZsRlowYjZxc28yRWpFWXNfRVBBT25mbnZpV1pGZ3UxTzM5bG8ycFpFbFEzd09ZbE5rYVNhNGlraW5hT3pLUEdvTEphQnVob0xTd0N0Y0VMTWdWYllTUTNlbmxaMU9UVkYwcEFwSF9yUUlOT3JVczRhRE5vRG5DNE1WaUwzNXd5Y1FHNkhxNkU3bnJnQzNLY3NBV2RMblhmTHhGaUMxVUtPUXpvZk9BZ05YamZxTHNZTUZEWGdoXzNfWEpocmR6MHYw?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "published": "2026-11-18T14:19:11Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "90719f0c9dced1c1e999d9",
-      "title": "The World Is Getting Richer, But Who Is Actually Benefiting?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVBQM1o1T2lockdrWndpR1AxdHZWYVRBSGJoZGNXY0pWdUFPR09vYVVGekhVZ1lubC1UdGJ4RXQ5T2NFWFRKY1pGd09FRG1KbHpBV3dNck1rbjRDNXNMeHk4VDg0TGhwZEVvUEt5QmVjQXkwaDdwYS1tV3duUkhpVFIwSkpIM3VuTThVOTIwSU1tdmdYZ0E?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-11-18T14:16:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "65424d3fabcc580c7c3718",
-      "title": "Vertical Data Launches Canadian Operations in Toronto Alongside Dedicated AI Data Center Development Platform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUnF3WE9pUjk0aG14STlTeDJQejI2UDBZbTJua29GUnJhRzhFTmdkYlJlT1ZPQThZMEZfNWhUMnoxMDhvc01mX2c0UDN2c3c0OGJqeHBWbGNnTEJwcTRmZmh5MTdLc2Jwck5TRXNpNDNRRlI1ZWVtQzhzRG5QY2NrZk9xakY5RHlMNVNkdlNHY3lsa3c1b0p0NjVUZzhUUmZlMXFSeDhWQlk4X0RvNWV1ZjBYeU1MdWRyS2hnS3Q3bGxwOGx2dkpaOVhVcklKU0MxLTJVNllQdmJJUGszZmIwOE5yYXo3T0hjbW0wRlIxYXNjYU0?oc=5",
-      "source": "USA Today",
-      "published": "2026-11-18T14:14:34Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6613bad0c3cdd08d6db81a",
-      "title": "Jordan Showcases Green Tech and Recycling Investment Opportunities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0hKeVJHanRXVUNMLWw2Nnh0RGYwaV9ocTJnelNCTEc2Sm9wMG5seFlKbW83LUhKNDhZMDdxVWJUSUJMbHMxOG54WG13RG9mamJWZ1gtSmx6U3Rucjk5dERrTFBOOC1XWGY2azlBcEZtLWJKWF91cjRRaC1OcmJmbTJCTkFveWJ2Yk8wdWNaLXRiZ29CY1c5QUdtUFhnaXJwRml2VEpqM3JweVlRWEJZemRZcmR0QQ?oc=5",
-      "source": "Jordan News",
-      "published": "2026-11-18T14:05:16Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "404e4c3f5a7a230f9a0dec",
-      "title": "Accelerating Organic Growth Drives Becton, Dickinson and Company’s (BDX) Outperformance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVU01bldvNTNQRGNtUUhEZ1JHNUFYaHR3X3Q1WmhJcnJaNzNjbkxzcVZ5Z19pWFppNi12TEJEODZOUHV0dlZmcnZ4bGJwOXFEZ3kyZ3J3Unl3UVVvVWtpcUtKSUgyMjBWTWtoY2N6cUI2eDFvbDI3dGpnWnNtbXJWUzJVZlp1QzJHVHgwVEpLVFRWQnY1OWJybTk1bk1rQXlJS3JZZjZJQmIxZw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-18T14:04:54Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
