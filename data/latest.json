@@ -1,9 +1,69 @@
 {
-  "last_updated": "2026-11-20T03:24:58.010378Z",
+  "last_updated": "2026-11-20T04:34:36.421987Z",
   "articles": [
     {
+      "id": "aa6d63c034eefdf91aa841",
+      "title": "Qatar revamps investment strategy after Kushner building bailout",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmp6aGFBYXJZS1ZfUzlKQ2tSUnkxRlpQNmFiNGU1WWVocm9RZ3Jkb0dnSTdHRk9aSVQ1a0N4T0QwZUVadmNDX0tEOXFfRXBlbkh5SnZHdEE3OF9HZThuVXFHUFh2OEVwNmRRVGVzcXJKWTNEdHJnNXg2amVkR3JidmI0Qzk0M3hOUEFJQmVjUGRIMUtYMG1MNGhKTjZRbVI3RmFkd2V3?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-20T04:22:53Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8df418cc1b024dda916e8c",
+      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T04:13:22Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg"
+    },
+    {
+      "id": "5bd02c2ecc005b5d327888",
+      "title": "MIT FINGERPRINT Initiative Launches General Biology for Chronic Disease Prevention",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjhvTF9FMlFlVndkMkFTY3JQZEJUNWMtemRwTXlSamlhNC1EZTNiczY0ZGYta3p0NVY1NmR6ZkEzS19WenFoZnpPclhBYk11WUFfMmg0MW5EeWZoZlZCLWJab0JhOFdkenZsaVlYNWU2OThWU3Z3ZVVlaGh3YThaai1RRzlKSU9hQVVsbXNVSjNWbFFCYi1BU0lKZ0VYM3lBR3lPZnJSaXR2TUE?oc=5",
+      "source": "Bioengineer.org",
+      "published": "2026-11-20T04:06:47Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e767bb8bc2405004f2d401",
+      "title": "Quarterly Earnings Review: Mixed Results Mark Sep-2026 with Large Caps Leading Profit Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWnhaVDc5NDU2TVJpN0t3dzI0RVJmcThubGRIVUw4akdET2ZwSHRrS0duN3VMUEVLWkJ6MTVUNTdwX0otNUZyUmUtVmV5UUVFejY3ZTRpNC12d1gwOHJ0SkQ4RGJNbjFYN0FsY3E5R1F6Y21za3JSWEs5WGxWVlNNeDVPRW5NdVphbXR0eXFsR0NDWmhUXzNRUTdNLVVzTWJsYnpDcWM2RkY4MEh4WVhoNWNPN09hNllMV1FSTmROSDJhM2czYklSMXh6S2hBYjhIOFF0N1JHNmgwQ0MxNFFSbHpnYks?oc=5",
+      "source": "MarketsMojo",
+      "published": "2026-11-20T03:51:40Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "741d1721a6c3bf7cea0666",
+      "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
+      "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s much-anticipated IPO more than lived up to the hype. The market’s embrace of one ",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
+      "source": "The Guardian",
+      "published": "2026-11-20T03:33:45Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/61ed24035e251e6542b667ba9186f9479f108506/240_0_4204_3363/master/4204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25e0d3cdb5dfb4e7509ece0ec3d71c04"
+    },
+    {
       "id": "5ef06037f3faa4d55810ac",
-      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -11,7 +71,43 @@
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "527845e9c570a2c262f844",
+      "title": "The Gulf’s Two-Track Strategy: Global Investor And Geopolitical Power – Analysis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDFQR1VIc2VQaU9Na2VMdEdNYllWYmF6cFhqRC1VckNTcFlhT2JIOWFGVHBneU45dU5PTDZOV0NWWGVadlNlc2pjMlo2M3NFNWc1VmY2ckN4Rk1SUlV5T2xCQXVIYXFweEt0Wm80bjZwZVhrcE9mbU8wTnFCNUYzbDNUbGpKWnpfYm5lWEJva0dxMDFHc0lfcWxHZjhYYXM4akZxMDM4cVAxa3ZCS2NYQlY0dC1ILU0?oc=5",
+      "source": "Eurasia Review",
+      "published": "2026-11-20T02:46:56Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5d830a8018231fbe64a05d",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T02:40:49Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+    },
+    {
+      "id": "0eb49abd22e57b9064dce1",
+      "title": "Gap Shares Rise Amid Old Navy Recovery Despite Slower Holiday Sales",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelRmbGhNOV9SX212ckVGUVFZQ0VmbzBJbndiTjhHamxMZVNOQ3BGa2V5a0thenA3OWV3b3lad05NcjZueHd3TzhKQ2xqcUtMU1I0UnpSMTczbl9hLXNMdG81NjkyblBwWl9xQ2FCNFV5UEVxVkVBQ3BTbzNMdU4zRnd4TzV1MHVqNE9VbE9LenpaSTFlUzlHS29HUjh3SDA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T01:56:24Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ca7def0bfe7375858eebeb",
@@ -20,6 +116,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVlSOTN3cElDN05ITFR2TnJmUkJPMmx2cmhTRmtSZ2ZrckxkTk1nakhrYklIcEktMHJuT3IzOWd1a0JRWXpmZUVKeUxCMWVNRW45TVNqYUZxVE1LV3ktd1dBMldHT3pHVWlSRXN0Tnk3VWQtR3I5RlVma21YRDc5cWZYSWdFTXl3MnBScFpmMklxNHNTcjhUQ0ZuTXl1ZnB5WGZN?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-20T01:54:46Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5dd0928437232447b07dc8",
+      "title": "Artisan International Value Fund Q3 2026 Commentary (ARTKX)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzk2bElKSFlXQjVBczRwWGpudmo3N2d2b21Bd0syWUx5YmhuNzMtWjh3d2dhY2ctek1EYU5FdmE4dEJfS2xRaVB4SnhFWVoyRWc3RTB5b2tLTDNWUjVjeGtpM1ZvMDZhRTVZdTZCWG9xZHVhdE04bF9DNDhWUndHMlJ0XzB2Um5XeEpNMGVZanZNc0pHMzIw?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-20T01:15:00Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -290,18 +398,6 @@
       "image": ""
     },
     {
-      "id": "0eb49abd22e57b9064dce1",
-      "title": "Gap Cuts Forecast as Old Navy Recovery Lifts Shares | Finance News",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelRmbGhNOV9SX212ckVGUVFZQ0VmbzBJbndiTjhHamxMZVNOQ3BGa2V5a0thenA3OWV3b3lad05NcjZueHd3TzhKQ2xqcUtMU1I0UnpSMTczbl9hLXNMdG81NjkyblBwWl9xQ2FCNFV5UEVxVkVBQ3BTbzNMdU4zRnd4TzV1MHVqNE9VbE9LenpaSTFlUzlHS29HUjh3SDA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T22:29:15Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "c44f22562c2a34536be1cd",
       "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
       "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protesters rally in New York and San Francisco Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic needs to grow into its $1.5tn valuation, argues Kathlee",
@@ -316,7 +412,7 @@
     {
       "id": "aab5ba178748ab48533771",
       "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-      "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn t",
+      "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the cl",
       "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
       "source": "The Guardian",
       "published": "2026-11-19T22:09:18Z",
@@ -938,6 +1034,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2176995336.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "9e027bb1763db07c33ea40",
+      "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlVLSmlNTnFYS3Ewc1RoTVhwMDNFT0FYY0lvcUFuelVqMUNHbi11d0lVN2gybFRwcjRHc0wtRENzN0h6dUVqMlhRUGl2MDdZck5rZV9CYzJBNHNWbEExN1dJMEZHdVZWUXZydmQ4VXIxenphZkI2WFh3NmtXMEVaRGwzS2lDZGpIbFVid3Y4Zzg?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-11-19T18:14:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6de33f55e6f1821ba38740",
       "title": "Apple’s iPhone camera leader has reportedly left the company",
       "summary": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet named a new VP to step in for McCormack, who oversaw its Camera and Photos apps, [&#8230;]",
@@ -1154,6 +1262,18 @@
       "image": ""
     },
     {
+      "id": "afd1a1c6a39ec6190cdf9a",
+      "title": "UAE’s AIREV secures Singapore investment to scale agentic AI in finance and healthcare",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnZNaGdYQy1CZEtwR3djdFlCVGRxY1ZBTU82VkZBd0pZa3Nod19LRnhJbzZHTmJaeG9PUFAxbm5mNTlWY2Y4cENzRHRmNjFQa2tiNlpucDdVdmQyU3lQcktmOFBJNzhPb0J3QTZBbFZudGZkc2JnV1Vnd2NhN01QZVJkUGFhVU0xWUo4SUo5bW9ULUgyU1RDMV8zRGlSMUtKNFBXcTJ0eVpkVl9lUDVfWXhBd2pRamhV?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-19T16:37:32Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "eb2f6d1f6a76ebefd136a4",
       "title": "Dutch watchdog tells people not to buy AI smart glasses",
       "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
@@ -1320,126 +1440,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "1cf90c8bb7017b86c3f6af",
-      "title": "Brand as a Business Strategy: Making the Case to the C-Suite",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXl0aGtOSDd5bnMtOVJfVzlEYTZSUkhwTk1IVkViTUhYT21ULTd0dlkxX1B5aE9MNW5RdlBBNXJYSGVPR3pOQzQ2RGw4SVVSZE1zMW9mWXNiYW4xVFFOMFBtVW83NFNPMnNESndaYVozYW9aVDJKN2V5MTVJbUQxM2Q3VGExQzVlSFE?oc=5",
-      "source": "Roastbrief US",
-      "published": "2026-11-19T15:41:31Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4a00e88ad26b0eb41fe750",
-      "title": "UK government forced to disclose secret Apple backdoor order",
-      "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
-      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T15:32:20Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675"
-    },
-    {
-      "id": "b60b95cf5683fd2d9bd94a",
-      "title": "Why the Pessimists Are Wrong About Latin America",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TQktzTGtoLUtJbjZmbTlKajNlV2pQR05yOFgtNTBOWF9iVTMzc2ZzcTdWemVEWXA1ZnQxWnZnNWFhZUdXZldYRG9YUnFhV1Qyc3VOM0dPTlVzbWQtaFpJbjRxSFlXRlJkTWFSWGF6Vzc1NW8?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-11-19T15:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "89b064722c7ecd2f3cb584",
-      "title": "Experian draws broker backing despite weaker US mortgage outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVERhbVVBVTNsbGxMUzBIWnotSzhPS0ZFNzZQX0FsOWF1bXZfOHhYWFB5VGQ5RHpvMEdhZUN5M1oxcG1Qb0tNdFRpSU83ODJGRlMwcVFPTmV1LUVEUmljVnRoMlBHbzVvQUpjWHRSUVVSb1hNNUlyYnNyeHh3aWRPbzJaMHU3ZXFGMkszWjNZQVdrOVRoU2tSVk1XNlNXYzhTVGJ0TzVZNjhXcmFvc0YzZWFBcWZEWldoRURQbG1oUnpCRjZDZjJKcUZacUI2N0Qz?oc=5",
-      "source": "Proactive financial news",
-      "published": "2026-11-19T15:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0b33745de3b9d86a184676",
-      "title": "Experian draws broker backing despite weaker US mortgage outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmhxdHVlSkhKczBqYmZFY2lDVVRadnF5UUx0Q1QzVlpsWkRHYUhiTTZ5dXdSU2ktV0JVeWEtNDBmcVRCVVpSMHZ4QV8tV1J3djlwQm1RQUM2djJYaWdtcng5SW1VNzFNMFU2aXdfRDgtYlR6S2NfYjJqdDZuQ3B5bWIwVzU0SjJCaFRMY3VxTQ?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-11-19T15:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "166b1f498f8a60510def07",
-      "title": "Daiichi Sankyo: Rising Oncology Pureplay Investment At Tantalizing Value (OTCMKTS:DSNKY)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXFZdkhyNG1qVmRDeVAwWUlsTEN5WHh4YW1pZjJXc3hvVHBBRUlWbjEydnFHSHl5T3pWai1sZktnT1J3OUxEM3NBY0VndzNjQmNxUnM5RzBrYTRCQWFRWTJTUHY1SVZnU2VoVE0wR1h6YUpmR0VWcGdwY21XcV81cGxBOHFqSmIydWFpNGFET1ZlN2dVem5GNTZDeXhqa25ZREZxRXNzdExqZjh1bWNXSXRR?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-19T15:24:54Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "378756f597accbd8190002",
-      "title": "Chinese Investment in Mexico Quadruples to US$596 Million",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON045ajVaNVJBMjVaTlV2SEdDUHVzaG5uQWVCaGQtRXpQaVZ0czRGRkxkS0pxNmNlWTZxRVkyT1VxZFBXaXJFa0s2eC01UTVTUHltSGJheXRnVEZ2SmFGUnJsS3BXRjk1V2tOY0hobERsUV9xQjJYQi1nbVlZaVRBYnZ2TG5hVDAyS0RQM1NlZWJTNFdfeUF6RVY1Wk5hNi10T0N3UW5QTQ?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-19T15:22:11Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "39f4ffb0c2b8b769ae13f5",
-      "title": "Toplines: Why and how the United States and its allies should prepare for a limited nuclear attack",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMFRwZnhJRzU0RVlyWVFSMlNoT1Q3dWlLYnFRRy1tWE5ab1FTSVpTUjhfV21VMWR5dmpVS1lQaEc3LTNCU0xzLWlWQVBMUElsemcyYVgyYms4MFVwWU1Qd3huZ2lQQ2xfZlpWVFp3YUlXZlpNUGl2VlJYTUI3RDlwVG5lTDJ4MHkwYXh1eHplZUhJd2VNWlJPeWs2TEpEcXJFdk1tM1VWcll5UTk3ZS1DbkFaTWNHNkNrNGFaVmxWTTZVR3lIeXRlNmpLaDd5TkJTZ1BZUWhKRFkyVHRZYVRKd2h6cnQ0S0JHQjZYaQ?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-19T15:21:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9f19183b29edeb233bebaa",
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "source": "The Verge",
-      "published": "2026-11-19T15:16:45Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6173566945507db228b1a5",
-      "title": "AI demand will push up interest rates around the world, IMF head warns",
-      "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director ",
-      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-      "source": "The Guardian",
-      "published": "2026-11-19T15:15:14Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5040343f19b14d3a5aafc2c169a00b24"
     }
   ],
   "countries": [
