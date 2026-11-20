@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-20T22:23:59.247182Z",
+  "last_updated": "2026-11-20T23:23:52.181995Z",
   "articles": [
+    {
+      "id": "f1bb42fd1c541aea280d2f",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T23:08:57Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "5ef06037f3faa4d55810ac",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T22:53:24Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "53ba164e0140f69fcddb53",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T22:42:47Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+      "id": "397265b10097e3d946f7f0",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T22:37:09Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "a939d9bf32c50e2d8d3141",
+      "title": "Pennsylvania Governor Josh Shapiro outlines his vision for US leadership in the world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjZxT0xsUlpwN2Zndzd2U0xVTUxFaF9INmwyaFRZano0WThFVzh1cFNzc1VJd2NybTNuU1RQZGNpM21RRUZTQVIxSHZneUdGUDlaWWUxTjZnWGYyVXZCdHM1MjhmREVvNXBIcmxhcnhJRTcta08yMGdPUm5WRlFsMVpVN1pjT04wOGdqYmxSSGN4Yy03a1AtYnlIZHY3RW5fUFBrNndUWktlSXk3MEMybldfTWpyQXJmY08xWVNSYVJVRGFfUzltbTc4c3VKRnFxbDEzc0JmYXY?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-20T22:27:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "ee7ac155aa6b0f0b24eb27",
       "title": "Robinhood Markets falls 9.44% in Friday's session",
@@ -38,6 +98,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
     },
     {
+      "id": "5d685d000898c5680cf131",
+      "title": "Mark Carney is turning Canada into ‘Singapore, North America’: KPMG",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkw4amFXOHI4Y19PUDZ2WFRjX08xZG5JX2RheDFFbEplM2YyOTU5X1dHTmZGb1BETUVxVDRoLTM1b2p3LVRBbnAtRE15VE9wYV8wczJua0pXa0dKaU9kdS1WQVZzX1JUZG0tVWpveVVXZXhoZ2FEMWlqQkJraEhGbXBFZktscElZbWhUYTVNU1VJSXBLRkVReUFkZ2ppcmZxR3hTbi1SNmZPeHMwckwzdkZWSHpYY3RHZFJXM0k3aWU0ZlpTQ3dHbTZSRnM?oc=5",
+      "source": "Investment Executive",
+      "published": "2026-11-20T21:46:33Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0d485e0dfc8d69ca836369",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
       "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2",
@@ -58,6 +130,18 @@
       "published": "2026-11-20T21:37:57Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9e2d664cc9bb9521383e6f",
+      "title": "Q3 Music Earnings Roundup: Here’s What Every Company Made",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXF2RGZ1ZUR2dXFDLUVkYnNvZWhtY0tfQUVoZE10dm1pTF94ZExkMmFGMC1VWk8zV1NuMGRqX0ZqRjU1VXlycGtWX05XX2dheXRDc2FlZEhpQk5ENW1zUzBQMDMyaXY3dHlWZWpoNDFpa0R1LXJBbFRYNlNrb0Nic0dKQ09hSGQ1Y2VNOGJDY2tyTUE?oc=5",
+      "source": "Billboard",
+      "published": "2026-11-20T21:34:13Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -134,18 +218,6 @@
       "image": ""
     },
     {
-      "id": "53ba164e0140f69fcddb53",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T20:00:53Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
       "id": "05d06a2ae37185a1550dd7",
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
@@ -184,7 +256,7 @@
     {
       "id": "580903835fa712d86c8cbe",
       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
       "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
       "source": "The Verge",
       "published": "2026-11-20T19:35:06Z",
@@ -195,7 +267,7 @@
     },
     {
       "id": "81e856d23e6ca9408619d4",
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
@@ -228,6 +300,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+      "id": "43a4486038a97226354e0d",
+      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
+      "source": "London Evening Standard",
+      "published": "2026-11-20T19:18:31Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7fb40abee5825fd2b5db3a",
@@ -402,10 +486,10 @@
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "source": "BBC Business",
       "published": "2026-11-20T17:49:48Z",
-      "category": "World",
-      "topic": "BBC News",
+      "category": "Finance",
+      "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
     },
@@ -442,18 +526,6 @@
       "published": "2026-11-20T17:23:02Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "43a4486038a97226354e0d",
-      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
-      "source": "London Evening Standard",
-      "published": "2026-11-20T17:17:38Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -974,18 +1046,6 @@
       "image": ""
     },
     {
-      "id": "5ef06037f3faa4d55810ac",
-      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T13:08:30Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "id": "d16b99f6bd081ae2ec7e01",
       "title": "Dubai targets global R&D investments to support D33 goal of doubling economy by 2033",
       "summary": "",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-20T11:15:10Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "824ee5ea45a3f1453b2239",
-      "title": "Take Five: Shopping, chips and central banks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkNJUnViS1dRU2Rmekk2OWIzN21NY2ZMSDhGNjNPcGFnRWpaczM1ZkJaT0pxeUFiLWdvZ0hnVXk2OGJORUJVdnE3TlpiV251TlRmb1dHMlV2ZHhQMDAxS2dlc2c0SXYzS1E1d3MwSkZpOXRYMVViX2wyMlpGNGxYTGJta2tuaFNkU1B0blFVT3dPdk5Renc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T11:07:24Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a2e01d51328841b81266e9",
-      "title": "UTC Funds Six Faculty AI Research Projects",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16NFN0WkRmRGtwVGZwdVVwaG5rakZrQVVBZjJhYVUtenNwT2JuZWVGT2dneUtJVE1zekdiTHM2cnFHaUlhRHg4ak1nWDl0dlMyU0JtbnFXcDNrczJOX0E0THlCeFF0UmN6NnktLXZoTU45bXQ2djJHRlNmTFRlVlU?oc=5",
-      "source": "CASRAI",
-      "published": "2026-11-20T11:07:02Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0e5fc9b767a7b5122cc1fd",
-      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-      "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.” A Cu",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-      "source": "The Guardian",
-      "published": "2026-11-20T11:00:31Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/753c8bfdbccb0b49e67ae5dbfac970caa7c20394/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45d3388ff0289ade4e800d5054ccdef3"
-    },
-    {
-      "id": "7065d4af3b02e64125f853",
-      "title": "MCC Meili Cloud Computing Industry Investment Co down 5.29% on Friday",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlZvWDlOYmNWbldINUloSllERldRelpzam0yOWxFNmlrUFkyM21rNkpOSU1Tem9OdnM4QTJpRWZJR2VCZmwwTkNJdHVfZUxMVERqek5ndXZ3MDRhdWttWVREclhReHVzWFowZ092VTJ2RWJOUEEtUF9OTVh4a2JEQlVRVDdQSUNkTndQMGdsNFY3N1VKcmRRUTJUMGFqaDA5TjJkYXV1d1hYY0RnS210MWQyQk50aHM?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T10:40:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d44e55ee7f957cb4693635",
-      "title": "GMA News. . WATCH: President Ferdinand Marcos Jr. arrived in the Philippines on Friday night, Nov. 20, from Shenzhen, China, and delivered a message highlighting the key accomplishments and outcomes of the 33rd Asia-Paci",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHFRX2xDUlpnMjR6LUtQVXIzb0pCWTBTWlRjTmFMdS1SMk50cVplZ2ZmWFk2R1hwOE9ScXVLenl4a0NQdVMzb21YUTMtbGFKN3hQeF9aQlV4OXl0dWJBb3FPTlZFbldzUHZGaWwtdU9vQ2I3NmljZXFqNzlYdWdNcTVYaXVLOGxJNngxeWlaRmY0YlNjSW8zdUo0aUctWlpycElCYlZqXzF3bFVYOExkODB5S3ZwdHRYbi0yVVVnRDVVcklUWWhtOUdJSjhLaFNYTXBVNQ?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-20T10:37:11Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
