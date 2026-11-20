@@ -1,27 +1,87 @@
 {
-  "last_updated": "2026-11-19T23:30:10.052312Z",
+  "last_updated": "2026-11-20T00:20:32.712898Z",
   "articles": [
+    {
+      "id": "923a007fa0f3d1a776a499",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T00:13:21Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
+    },
+    {
+      "id": "4bbafec6b8ea82af1d94f0",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T00:02:07Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"
+    },
     {
       "id": "1f1b3b7bf5bc780151838b",
       "title": "Trump posthumously pardons US baseball legend Pete Rose",
       "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
       "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-19T23:18:43Z",
+      "published": "2026-11-19T23:51:50Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
     },
     {
-      "id": "a178720431e75cf71a994b",
-      "title": "California probing whether China improperly acquired Nvidia technology",
-      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "id": "4a8309431ec4f0870ed879",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-19T23:04:30Z",
+      "published": "2026-11-19T23:40:29Z",
       "category": "World",
       "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "a52aba1fad9e967401f575",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T23:37:56Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800"
+    },
+    {
+      "id": "8febbadd7da71c0fac3b4a",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-19T23:33:51Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "a178720431e75cf71a994b",
+      "title": "California targets Nvidia in China AI chip probe",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-19T23:04:30Z",
+      "category": "Finance",
+      "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
     },
@@ -134,18 +194,6 @@
       "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f920609d7fe7e802fb6fb7367b042b"
     },
     {
-      "id": "4a8309431ec4f0870ed879",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T22:09:04Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
       "id": "51e01a3fe459152272f3cf",
       "title": "UnitedHealth Group falls 5.09% in Thursday's session",
       "summary": "",
@@ -218,16 +266,16 @@
       "image": ""
     },
     {
-      "id": "8febbadd7da71c0fac3b4a",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-19T21:38:42Z",
+      "id": "0840f556632cd68c249df3",
+      "title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVdqNHRVcGw2amM1QVZ4SkxNZzNtdTBmb0JZdkNMYXZTRlZia0tJdDVTWHVoNnJBUWFlcUtjQXQ4NGZYMEZKNEkyUi02eWcwN214QTdtOWdRVkxUS0lobmY3SklZUUthR05TWnJUcGZXampFbjU0b0NqTGVxazJsS0phSjB1d0R0QjdDd0ppQW5hck82WTNCdEt1LVZxc0ZacFhONnE1V1pvRS1TM3JZRkY2dDZMV2RTNkE?oc=5",
+      "source": "Governor Kathy Hochul (.gov)",
+      "published": "2026-11-19T21:34:26Z",
       "category": "Technology",
-      "topic": "BBC Technology",
+      "topic": "Artificial intelligence",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+      "image": ""
     },
     {
       "id": "65a3912905c8aec9f543dd",
@@ -742,6 +790,18 @@
       "published": "2026-11-19T18:04:05Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b8244bb3473b41b98b9742",
+      "title": "Chipdollars Will Be a Force to Reckon With",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1dZYzJVdlpESlptYWlPbjVaTjEzR0hxOHhfQzRFdG9JVHR0UXpiWF85UW93VjBmT1hnNllHRm1kZEU0dGU5SnlKRXVVOER4WHZHRFlUSE1fVjU1alQ3aEttd1lkdTVmRlpwbFh4UjI1U1NnRGVaOUE3SDM4TDRlQ2JkR1ZVNW44Ymp5bWRlQWwtSzNhWldr?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-19T18:00:20Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1378,66 +1438,6 @@
       "published": "2026-11-19T14:06:58Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0d98fc7fe61dbd7e488d23",
-      "title": "Labor leaders call on governments to stop awarding Amazon public contracts",
-      "summary": "Union leaders from 19 countries urge reassessment of ties to Amazon, citing company’s poor record on worker rights More than 30 labor union leaders from 19 countries are calling on governments to review their public contracts with Amazon and Amazon Web Services, citing the company’s poor record on worker rights and collective bargaining, in an open letter pu",
-      "url": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
-      "source": "The Guardian",
-      "published": "2026-11-19T14:05:21Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/777da2deae52c2f9b27d896c5c1bdf7d7e81aaea/156_347_2891_2313/master/2891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a1ad4eaf96f7bb0ce57142132b98493"
-    },
-    {
-      "id": "71f66e4ce583a77fed337e",
-      "title": "Can agritech investment turn Africa Into a global food supplier? {Business Africa}",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2Nqc3hUcmNNWDZ5Z0NHQjlXTmdsRXRjNUNqVVFMeGlfak9mdWRLTVBFY0RLTXhyVDFtZjVJNV9TNjlzc2ktV2pLamFBWEh3MDRJWDZlaUlPN0YwTkw2RlVMWThDR1R3eGtUN040LURUZmF1V3Q1M1Q5RjgzMGZ4TnNyQ3ZEc2t4dDhMV0hackprOHVSZ3YwZGs4c0pCWHJPdVdjMzFPemhWRDZvemN3Z2ZtdWo1S2tVMEHSAb8BQVVfeXFMTU90QjNkb1phb1d4RktiYTJ3T0s5Wnc4NTNGUTY4RHBhTGk0dU9vM3Zib0NjSXlqdjhDdHlUeTdfWFVkeEdxVnVLdDFIRE9jb2N0VnhjM2V0Snlfc1V6cnZuVWRsbW92RlhTdWFKQlhGNnAxZXE2THlkRm5PeTN5VG5IVWNvOWlQUTJLZUEzbzR1ejlzdlA1QVZ0TUhoT3QxeWNUM2U5ZnpCSVZlS01Ub21vaTJ2ZWptNzc4amwzU0E?oc=5",
-      "source": "Africanews",
-      "published": "2026-11-19T14:03:46Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "15683e37f772d6d97b93b1",
-      "title": "Can agritech investment turn Africa Into a global food supplier? {Business Africa}",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3ZnVkZkQThzblV3eTBoU2QwT2N0bnhoS3cyOWE5NzN0Z1RoOEhlaXRUZnFKSEp1MkkzR0o2VWVPS0FFSVduMENuWmdadkRLeXQ5dkFINnp1cmlFdEw2SkNZTTRveDR0SUtvczlnWnk1elozdENKa01leWtQMHRQX0ZxS1o4NEJjc2trc3U5aFBoeFotX0Q1OElYUzhta2twWkExVVhLa05VT3IwNzJDbi0wVlFJQQ?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-19T14:03:42Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9df169eba8373877459fba",
-      "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria chief executive says Get our daily political email , free app or daily news podcast The music industry has declared it will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big t",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-      "source": "The Guardian",
-      "published": "2026-11-19T14:00:52Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f713b67a86b8386b7f04c5e329faf82"
-    },
-    {
-      "id": "81bac5c82eb26eeb83d023",
-      "title": "One reseller accounted for about 98% of Game Your Game's third-quarter revenue.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmVGX2pNSVdmMWNLZFdlTUhOSEU3UF94aHl1M2xwZGNJNlhZQlc5X1ZFSVdBQ0tQUHdtS201akFUNGpBNkh4VE5TSGh1N1l3WU9aRHZGNnBVSV8tYklRMl9jYmpOZ2NNYUdtYlpmdzVTUU5jUk45aXFtN21RM3kwU3JIZkRrdkNDX3U0T3pKS1ZCY013NWs2YWd1NzRXa2N2bUhqaW5FcVczdENYWmpFMjg1dE12Y3A5bWc?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-19T14:00:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }

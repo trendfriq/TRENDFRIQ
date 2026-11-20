@@ -1,5 +1,41 @@
 [
   {
+    "id": "923a007fa0f3d1a776a499",
+    "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+    "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+    "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-20T00:13:21Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
+  },
+  {
+    "id": "4bbafec6b8ea82af1d94f0",
+    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+    "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-20T00:02:07Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"
+  },
+  {
+    "id": "a52aba1fad9e967401f575",
+    "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+    "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+    "source": "TechCrunch",
+    "published": "2026-11-19T23:37:56Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800"
+  },
+  {
     "id": "1f1b3b7bf5bc780151838b",
     "title": "Trump posthumously pardons US baseball legend Pete Rose",
     "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
@@ -166,6 +202,18 @@
     "topic": "BBC Technology",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "id": "0840f556632cd68c249df3",
+    "title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVdqNHRVcGw2amM1QVZ4SkxNZzNtdTBmb0JZdkNMYXZTRlZia0tJdDVTWHVoNnJBUWFlcUtjQXQ4NGZYMEZKNEkyUi02eWcwN214QTdtOWdRVkxUS0lobmY3SklZUUthR05TWnJUcGZXampFbjU0b0NqTGVxazJsS0phSjB1d0R0QjdDd0ppQW5hck82WTNCdEt1LVZxc0ZacFhONnE1V1pvRS1TM3JZRkY2dDZMV2RTNkE?oc=5",
+    "source": "Governor Kathy Hochul (.gov)",
+    "published": "2026-11-19T21:34:26Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "65a3912905c8aec9f543dd",
@@ -656,6 +704,18 @@
     "published": "2026-11-19T18:04:05Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b8244bb3473b41b98b9742",
+    "title": "Chipdollars Will Be a Force to Reckon With",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1dZYzJVdlpESlptYWlPbjVaTjEzR0hxOHhfQzRFdG9JVHR0UXpiWF85UW93VjBmT1hnNllHRm1kZEU0dGU5SnlKRXVVOER4WHZHRFlUSE1fVjU1alQ3aEttd1lkdTVmRlpwbFh4UjI1U1NnRGVaOUE3SDM4TDRlQ2JkR1ZVNW44Ymp5bWRlQWwtSzNhWldr?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-19T18:00:20Z",
+    "category": "World",
+    "topic": "Middle East",
     "country": "",
     "image": ""
   },
@@ -1476,6 +1536,18 @@
     "image": ""
   },
   {
+    "id": "573a7feb1893ee39b9f0f8",
+    "title": "Netherlands and Spain challenge EU over €2.5 billion in loans to Africa's second-largest economy despite 85,734 drop in welfare households",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVpMLVp5dWNVY2FwcFdsdEZsSnAzVzhCTjA3NjZ1bVVzcW9FanBJNFlSOVJfSE9pZUdCWWE3WWIxYkRUUm9LV1diLVZDZ0x4cmhkVk9COFpRU1BVUm11NUJIajRmd05Nck9tLUsxSmVIZHFhd2k3Zm9oQzVaR2xlSEgxV21BU0JxYzF6R2h0dG91ei1POEFQY2kyMHozRU8wUmJwaXAtRFVHY2lHV1lDOWJhejliSkJLYzFHRno5T0NGTWN4TjNhaHZRTnhMUHJxNEQ0?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-11-19T13:04:37Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a44a0e1cd06b9b19426c1b",
     "title": "Jordan a 'Beacon' of Regional Stability: EU Officials",
     "summary": "",
@@ -1484,6 +1556,18 @@
     "published": "2026-11-19T13:02:57Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9f84318aa1b699cdcb7bf1",
+    "title": "5.8% Economic Growth and Tax Revenues at 25.4% of GDP: Central Bank of Armenia Governor on the 2027 Budget",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclZjRVM4azIyTGd6TjlLRXRjNzQ0RzFKUUpWcVVwRUhRYnpkSjFIRmh1eFQ4Z2VGRlNMc2k3Q2htUUtyTmlLMjFVUk56ZEZnMkdIQ0s3UFFkb1Q4LUJVZFdlZGhPazhaQ0gyaTRWWlo3NTFOQ2pNOXNqbDlmSkt6NmZKVmpHaUhwLUdCMFBhR2RZRWVNV29DemdzaHg2bzJHUWFIVkNiZ2wwUnFZX1pfaE9LdldYcDVCNzY5R0pWVGNFOEtKOGVsUl95emI4dw?oc=5",
+    "source": "ARKA.am",
+    "published": "2026-11-19T13:01:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -2172,6 +2256,18 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4147x2765+0+0/resize/4147x2765!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2F55%2Fab53a66d41cea788e3772c0daf20%2Fap26323327946792.jpg"
   },
   {
+    "id": "413a01ff11ac27ff3eb28e",
+    "title": "EU and Jordan advance strategic partnership backed by €3 billion to boost investment, create jobs and strengthen regional stability",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTlhsVjhwMmxQMVJKMi1RdW5zMEhnV1ZTY1BtTUlSWndSYUxtUjlkRGsyay05d3UwcVZTanUzQWd3dUp4Ql9vMVpMQlpzaEdtV1lOQjhCWENNd1IxQWpTTkNOSEtfS1FURFJGanM4THdTVTU4NWJ0dmNHaHlGel9DbU53Q21MM1VWdWhKSVFPdU1Yb3VmSUp2NmpMdVJibzJRS3V1WHE0cEJNMkJXRFNVUHN2MFo3NmV5bXZ3NUF4ZFg1RE1ScGVmeVdZc1FhV2J6MDFMajNtUkxGazU3LUM3OGxQZ1lWU3RNeHYtb0VBUFEzSUtTSjFGQkNOUmw?oc=5",
+    "source": "The European Sting",
+    "published": "2026-11-19T09:42:27Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "54d5513fa34b8dac9989c1",
     "title": "LG Electronics promotes 44, creates CEO-led AI partnership team",
     "summary": "",
@@ -2540,6 +2636,18 @@
     "published": "2026-11-19T06:48:38Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "21dc385ac38009db665785",
+    "title": "KITA hosts Latin America market entry seminar on investment climate, legal risks",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDYk9NOGtKT2h5cnc3eVQ2c2RubV9HQUwwc1RhaDlWWHNzQWxTeXdVWmpHSVlLYzBBRVhmVlNqZHh5clVHc014QzBiQ0ZldDJzTEJGWUdQRQ?oc=5",
+    "source": "헤럴드경제",
+    "published": "2026-11-19T06:43:18Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -5136,6 +5244,18 @@
     "image": ""
   },
   {
+    "id": "e213206e93d35308df893d",
+    "title": "Inflation Ticks Higher As High Oil Prices Haunt Fuel Pumps And Industry Costs",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0MzajdJR2gtVHVCaFAyb2dGOXdzdUNvVktybUU3alIxVHJPTXRpN1AxczBUNWlEM1g5ajlQWEozVXlnOWxpbFJLam1CeFhvZ0taVXJMemRiLXU1WW5uZnBORVkwa3lwa21ZYmFwUE9LSk9PVTQ2UkQ3QXFWT09ubjNJQXp3cjMzMDNYaQ?oc=5",
+    "source": "Forbes",
+    "published": "2026-11-18T13:40:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "381953caa55550833b637a",
     "title": "Genscript Biotech rises 4.12% in Wednesday's session",
     "summary": "",
@@ -5972,6 +6092,18 @@
     "published": "2026-11-18T10:54:00Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a1aa815b70924f527ffc84",
+    "title": "European business leaders see China winning the development race against the EU",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUm8wZ2ppYmM2OFpDRW9lSVB1VW1SUG42bXl3b1JMZU9JaS00VmhOemZPN1JhYXEyTUJXY1huYWlyODZRMEplQnJlV3kxRTI3aEw1MlM3eDhtcE5hOG8xcFl3SHh3Tng5VGYtXzVYN2VqMkNVbks5UkNKMkphTzd2LXpYRGpiQWhRUnFpc2ppWkZaRU9HRTlUS2JiME5jY3loMUE?oc=5",
+    "source": "EUalive",
+    "published": "2026-11-18T10:53:35Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
