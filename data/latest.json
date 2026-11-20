@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-20T08:02:16.704990Z",
+  "last_updated": "2026-11-20T09:02:51.096740Z",
   "articles": [
+    {
+      "id": "57f7a6cabf16791e141a98",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T09:01:06Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg"
+    },
+    {
+      "id": "cf3caef10eb550cc6cbb9a",
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-20T08:49:33Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg"
+    },
+    {
+      "id": "c432167a63d4fb57fbda3e",
+      "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+      "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Business live – latest updates Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government issued a warning to stock up in case of a disaster. ",
+      "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+      "source": "The Guardian",
+      "published": "2026-11-20T08:36:13Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a1b45bf05672c9abaa6993b7d48ba4e"
+    },
+    {
+      "id": "2827bf43df8d4fcf322e60",
+      "title": "What impact has Brexit had on the UK and EU economies?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERRT2h3VnpVb0xXN1RnZzVvMF9NYlBOMFRmWTlHTHFPUDRCQ1c0MnhSNzNGZE5hOW0zR05rX2JsOWpFX3dmY1czSTZPUnhZdlozMVFHVFZjRE5CN0w0a2dJenVfQ0tySENUUENLVjBYdC1TNzlLRVNBZkx6aGJFVE5aV21scHJhMFZz?oc=5",
+      "source": "The Guardian",
+      "published": "2026-11-20T08:16:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8905ab3748d6914842d1f0",
+      "title": "Sloan Announces Strategic Partnership with Marlik, Advancing Its Global Growth Strategy Following Strategic Investment in Essel, India",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZGpNSE41YjZySHAyeXAxU0tHUW04ejJtdmVULWhxZjRZcnltU1lrT3pkX0xOZTRrMHJDaU9jdlpJZjQxVjFJdF8xQTlLUWI4Wm9Fc2VqcGh2N1RhYlRodkdYS25kVG9nWWN2ZjMyVjJESExfUUswUFE2alg0VW5oNk1sYWJVNExiQ1FIZEY2OGk3TlJ5MnZhRC1CTHFTZ0lTWElEVjlIUU1xRmhrQkRKeWdQQnA1R2pWYUVHMG5FdEZKN1RPUjNFOEo1YkZjMy1TeHlQdXVGTDB5ZjVaTG5PMk5vWnpJSk95QnpaZnhEQlJ3V1ZHRW12bWpaSG1qbjU4STVQOTZPMlIyWmhJcFM2bms2QlpCZVp2aVpmOWYwREVhMGJqUXVLZHA3Y21QN0lYZFhnZk41OTI?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-20T08:05:27Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "50880383b72335baf0f5c1",
+      "title": "LIVE – Bitcoin ETF Bleeds: Anthropic’s Record-Breaking IPO Fails to Save the Market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQck90TTg0S05sOHZBUUdJWVAyWDVoY3ViUWpjZ1Y1c3hKak82WnZBN0gxc1ZqZEd1Y0NVcmU3YWxJTXVtZnlhSGFZWUVERkVvU3BudXowdVo5Q0tYcnF3aERVSjBscU4xYWwxQVRuZW05X0dzTFlQeUN0S010VnFIZHczLTRqV2JsUW1SX1VsZ0tQcmhObVpROVFBMndfMjRSUkk1Y1ZYYXkyZVRyV2hYaWYyUURiTGVVeWpKUVo1T190SnBoSnNwUzRIQ251aURTT1BYZldvUmM?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-20T07:56:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "ca7def0bfe7375858eebeb",
       "title": "Asian Shares Tumble: Worst Week Since 2020 Amid AI Sector Rout",
@@ -12,18 +84,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "cf3caef10eb550cc6cbb9a",
-      "title": "Tinned goods and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-20T07:44:29Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg"
     },
     {
       "id": "7ce8935552e0abee5ce880",
@@ -86,6 +146,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
     },
     {
+      "id": "e0da55da8560ac311b60d1",
+      "title": "President woos Silicon Valley investors, targets 3% economic growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlBFa2ZzazU3bkYxajFTeThhX2dvUGxMNjFUQUhOR09mQVFLc3FKS3JSa2xPSF9BZnZYYUVXRDhqZUctY3ZOVDR0aVhEUVlaOHVuTzdSZUxmNmZ2b2JZb1J4cmV6VDF6Ry1GTkdpeGRpRDJoYmg1djdjZmNxekw0d2FEVHRFcllpc0tIWUUzQXYzZ2pfMm1LbHpucUV6aXMwOGlLR1Juaw?oc=5",
+      "source": "South African Government News Agency",
+      "published": "2026-11-20T07:14:20Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "790daba5e6cdd1e00adca7",
       "title": "AI, Investment and Telecoms Shape Africa’s Digital Economy.",
       "summary": "",
@@ -110,9 +182,21 @@
       "image": ""
     },
     {
+      "id": "b3d8ec43c55f1105bffd1c",
+      "title": "Shenzhen 2026: Why Asia-Pacific’s next chapter matters for Europe’s economic future",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGoya3ZJT0c4dktveHlzYmIyRVBYbVJFaWF1d3g2U1NaeWF2bF92STZaOG9tbXBhNDZoVVFUU0Y0dzRsSTRmOEdnbGhaNFJXNWJ2akc2TTNhbjloUzVTRTJuLUlaMHVrVTNUM2xCZHRFd1UtQU1ScDY0cFZ5MTlwVFc5V2hPT25SZ0R1QXRFcmUwOEE0Uk4temZfRUUwYW0wUmJKVnh1cHFoSFRKN2ZMQ09rQXo1UlgzaTdRdE05OTdUcEZXWFQ0TzJ1cU9DVmxaODI4?oc=5",
+      "source": "EU Reporter",
+      "published": "2026-11-20T07:01:59Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5ebce6e0e150aa02f65148",
       "title": "What impact has Brexit had on the UK and EU economies?",
-      "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop. Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham, will meet the head of the Europea",
+      "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead UK-EU summit live: latest news updates The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop. Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Bur",
       "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
       "source": "The Guardian",
       "published": "2026-11-20T07:00:26Z",
@@ -122,12 +206,36 @@
       "image": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e91fb4e60a6c82c79b6c832a31fd091"
     },
     {
-      "id": "2827bf43df8d4fcf322e60",
-      "title": "What impact has Brexit had on the UK and EU economies?",
+      "id": "d3335cdf219828a048bb33",
+      "title": "Kristalina Georgieva Urges Tighter Policy as AI Lifts Inflation; IMF Forecast Credits Energy Most",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERRT2h3VnpVb0xXN1RnZzVvMF9NYlBOMFRmWTlHTHFPUDRCQ1c0MnhSNzNGZE5hOW0zR05rX2JsOWpFX3dmY1czSTZPUnhZdlozMVFHVFZjRE5CN0w0a2dJenVfQ0tySENUUENLVjBYdC1TNzlLRVNBZkx6aGJFVE5aV21scHJhMFZz?oc=5",
-      "source": "The Guardian",
-      "published": "2026-11-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDh4R19IbUJScTJjT2paSy1tUGE4N3diX1dnZWJTWVlrYkQyd0tGTDdFVHBaZGJxOHhubVZReklMdFcyNGNvVjdJUnJ0SnM2NHBwcFhuWmtpLUNOUzY2MEEyVlMtN3RxaG5YS2ZGNm11SjZJZ2E5Z2JSNEdVLTVTZ3VodER2N0ZJZlBOdzd2MmNIWVVOOXVKX29nZmNIN3JiRmY5MGdxcGNPWjdRYUpHMEl3NGVrMmZLb3I3a0gzc3ctdVFsVGpLdVpOakZsb2JySk84YTFsMXNkdmNVUVZaa1VB?oc=5",
+      "source": "Tech Times",
+      "published": "2026-11-20T06:55:35Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c8cbc07c0aa7aeb67a2a8f",
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T06:32:17Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5d/live/2a0c8580-e4a0-11f1-a01e-f1ba573bc781.jpg"
+    },
+    {
+      "id": "155a6cfeb41c2b341ed0ab",
+      "title": "A rare EU-UK summit as Andy Burnham seeks to mend Brexit damage",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOakJrVm1pS3hYNUxMc3pEbkNtZ09LM09WN19yTTV3Tk53ZU5nZFYzbXpMWHdDaElXWml3OERZanJfYjNjUW1rcUtZUHRWZHR6Qlk5bE91SW12bkhnRmNyLUVITklITXpFZmtFRTNtT0N6eGtfUVpzTm5aVEZhWm92a0Z3VGZLMllZdF8yV0JZSTNoSjBWMHpDUVNIOHhoQ0dzM3Y2bnpmd1loMkpSbTcwN2VNVUVlVEQ4ZEtranZzUHJjc0pkVGhUOVQwdWNlcVJWYkNqS1JydXUxVnc?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-20T06:17:41Z",
       "category": "World",
       "topic": "Europe",
       "country": "",
@@ -266,6 +374,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg"
     },
     {
+      "id": "bbaba73cf6abea94bf3598",
+      "title": "China-Africa economic, trade expo opens South Africa session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQ0NkRWJfUnNyWXlIN2dCNndHd2JLRVJXUHdVdmh2YmdhcHBlTnU2NUJ3dllWSmoydlJYSDhEd3JnWHg1UkFyRHlBcDdHanR6Qjh0VTc2UjVvVUFNdlhLRmN3?oc=5",
+      "source": "Global Times",
+      "published": "2026-11-20T04:11:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5bd02c2ecc005b5d327888",
       "title": "MIT FINGERPRINT Initiative Launches General Biology for Chronic Disease Prevention",
       "summary": "",
@@ -311,7 +431,7 @@
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929e/live/80e88200-e4b9-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "527845e9c570a2c262f844",
@@ -322,6 +442,18 @@
       "published": "2026-11-20T02:46:56Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "06b2f5fc7766ee85b18065",
+      "title": "APEC economies should join hands to build Asia-Pacific community to prosper together: China Daily editorial",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWZVWjVVaGpkeFFpek1kZEE1SXJvVXJ3bzJWQ1k1eU9odWszNFczSVA3T2FlNnFsTXhMdmRxNHNsUDZtTl84bExvUEJXUVFyZkF1RHZyTzVyVVBHMzg5emdyV0psT0hBNmRwTXBySXBkUUtSdkRQdWRnN255Szd0aWQ2cDBWa0s3UGZLWmFmT3ZFUGNKWnRFY0xqNDFHMUJ0WS1qUzZjcnFWT1BvRFlhMVFERnp4NE9nR2REaHcxNkN4aTk2dE4waFYyalBhTHVweWp6N243eVhxRm4t?oc=5",
+      "source": "Khmer Times",
+      "published": "2026-11-20T02:36:10Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -1010,6 +1142,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "b90d616d65ad166c5d9c85",
+      "title": "Microsoft Launches Seven AI Models to Rival OpenAI and Anthropic",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBadXkwd2cwZ2kxUk9laHZxN25qSm9IVEpDbDlPNUhGRUt5TTM5dUNUbVBWcEhUSmtGN0ZWWVpYQVl5YWdCU0ZVc3pIeU9OT3cxMmRGNnNyMGkwT0cwUnV5ZHktN0k0R09sM19Pc2wwbWJVTDBORU9jVmRR?oc=5",
+      "source": "eWeek",
+      "published": "2026-11-19T20:05:05Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "02ec7de83a9ce465b8cddd",
       "title": "SalfaCorp falls 2.45% in Thursday's session",
       "summary": "",
@@ -1294,150 +1438,6 @@
       "published": "2026-11-19T18:29:14Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "32f95603b8e7c141165497",
-      "title": "Egypt Courts AI, outsourcing and data centre investments at World Economic Forum Meeting",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ0pjbjAxVzZBZUFIblBWY3h2NDFfcjlQQWpyUWM2T2ZpN0E5S2ZUeVo1alk2Ny12TkJfS3NWOEV2dlo3VGxsdHVSMnpxVk16Y28ydnR6cFhTempOOVJmdWdZZmlrMk9rakM5SnNkWmY3NUF2cXh3UFRSUkVkYXMyb25PSnltbm5GbmJGRGlxdjJZWjZJaUxhT1cwNWVjemJSWFBHV2FKUXZnNUo5TnMxZ04zNTktaXlMWXdEVUpwLW5aNjFN?oc=5",
-      "source": "Tech Review Africa",
-      "published": "2026-11-19T18:21:46Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "534016fa5cae687038b392",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "source": "The Verge",
-      "published": "2026-11-19T18:21:13Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "f8b58fc0b24ea7e125bbb1",
-      "title": "Leaked images reveal Motorola’s wide foldable",
-      "summary": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of images reveal the Motorola Razr Flex from several angles in two finishes with its [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-      "source": "The Verge",
-      "published": "2026-11-19T18:19:03Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b5b4456068dd8b3b5f1d98",
-      "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-      "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day ",
-      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-      "source": "The Guardian",
-      "published": "2026-11-19T18:15:48Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7f6d36b97a372341277b1a57549920b0"
-    },
-    {
-      "id": "4a932def60bb26568aaa79",
-      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-      "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from President Donald Trump's movement. \"I think I'm ideologically quite moderate. [&#8230;]",
-      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
-      "source": "The Verge",
-      "published": "2026-11-19T18:15:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2176995336.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9e027bb1763db07c33ea40",
-      "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlVLSmlNTnFYS3Ewc1RoTVhwMDNFT0FYY0lvcUFuelVqMUNHbi11d0lVN2gybFRwcjRHc0wtRENzN0h6dUVqMlhRUGl2MDdZck5rZV9CYzJBNHNWbEExN1dJMEZHdVZWUXZydmQ4VXIxenphZkI2WFh3NmtXMEVaRGwzS2lDZGpIbFVid3Y4Zzg?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-11-19T18:14:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6de33f55e6f1821ba38740",
-      "title": "Apple’s iPhone camera leader has reportedly left the company",
-      "summary": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet named a new VP to step in for McCormack, who oversaw its Camera and Photos apps, [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
-      "source": "The Verge",
-      "published": "2026-11-19T18:13:05Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0542.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3a850c903b02169f2b985d",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T18:09:11Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675"
-    },
-    {
-      "id": "f1d881090425ed5088c92b",
-      "title": "Murray Income Trust falls 2.19% in Thursday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3A5d2x4eThodTlLcGNSNF9JV1N0RkZCbkJ2OXZBQmZab1locHhpclA3b2tqOHlZQWRmZE1XYXNVazBmVFU3SllBZEhsTi01ZXBTZWV0WHByWlhWVTFXOG5KR040NW5mQVNjcWQ4MTNkTXcyWFBKd1gxNmlkWUg3NW5mUXB1Rk8wZHk4?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T18:04:05Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b8244bb3473b41b98b9742",
-      "title": "Chipdollars Will Be a Force to Reckon With",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1dZYzJVdlpESlptYWlPbjVaTjEzR0hxOHhfQzRFdG9JVHR0UXpiWF85UW93VjBmT1hnNllHRm1kZEU0dGU5SnlKRXVVOER4WHZHRFlUSE1fVjU1alQ3aEttd1lkdTVmRlpwbFh4UjI1U1NnRGVaOUE3SDM4TDRlQ2JkR1ZVNW44Ymp5bWRlQWwtSzNhWldr?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-19T18:00:20Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "101de225d217ea1306d003",
-      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
-      "summary": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
-      "source": "The Verge",
-      "published": "2026-11-19T17:58:01Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/image.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "570474397ad2b7afee41a0",
-      "title": "11-19-26 Empire AI Supercomputing Center",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3RldnhpRmJ4bi1NOWRkUzNiejgxdGpyMXNKQWlyOTVEVEZabWlpZ0EyUmdPakxOczN6WFJVekRSS05TcThqUkN4cUt6d1hzaDNwNllIZTRPLVNXU0t6NUlqR2dvQ29LY1p5T19Id3hmejYzZWdqcG1Rb2dJZnFSVGZTRQ?oc=5",
-      "source": "State University of New York (SUNY)",
-      "published": "2026-11-19T17:51:12Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 19
+  "source_count": 22
 }
