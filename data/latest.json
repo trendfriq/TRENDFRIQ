@@ -1,6 +1,162 @@
 {
-  "last_updated": "2026-11-20T13:10:32.681358Z",
+  "last_updated": "2026-11-20T14:26:46.542710Z",
   "articles": [
+    {
+      "id": "d2e3cef1ee923536db1329",
+      "title": "Finance",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83bmVabEpWN0lld21nZk54dzBhZEhVTlBVVHdIdUNMak00M3VBUXNXQjdfMFNTeWZfTW10OEZvYWYzWXI0Rk9EVl8yY3lrMnlULWpwVFp6cFRRYkwzRzdYZDZHTUJnckZNSWxtSTNLOGptTzhqZXc?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T14:17:21Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b3a746945a8955db5b250e",
+      "title": "The week everything fell apart",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On [&#8230;]",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "source": "The Verge",
+      "published": "2026-11-20T14:06:59Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7f2b67838909d50c91cc97",
+      "title": "Hearts United Wins $110M Pinterest Media AOR in First Pitch Since Launch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2pPLWJ4clVPZUpsQzZ6Q1RzV2NCaFFETHRRMThzY1NPVllXdW9XUmEtNU9SNF9Sb1E2d1dxT285ckFKZmVwVFk2UEtuWGRqNUVQQTJ1aTlYRkdTZGpNV2pFTmQ0SE1EMTRWaXV2bzc2SjdPOEllazhoZGNJcUlEME8zOTNRQWRHM1hDaHJOYXZQVWVJWlBraHFhTzdfWkQyYUNQMlNuZw?oc=5",
+      "source": "ADWEEK",
+      "published": "2026-11-20T14:00:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4d2d20d171989c2fb3d05f",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T14:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
+    },
+    {
+      "id": "0d485e0dfc8d69ca836369",
+      "title": "Global stock markets slump as Anthropic’s record IPO fails to stem AI sell-off",
+      "summary": "Asian markets record their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets recorded their worst week since 2020, as shares in big chip companies fell on Friday. In Taiwan, s",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "The Guardian",
+      "published": "2026-11-20T13:53:13Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840bb47424232ef8465116aa8eea49a5"
+    },
+    {
+      "id": "b1ffe06b42b6644bebf4ce",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T13:52:04Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "ba0af2e9704498e24d06b7",
+      "title": "Primedia acquires The Africa Channel, expands to US",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmJMSEd0MzJ2a1RyWDdFdFdUZGxOTGxhbWlnTjFsYXcwM2VzVnJiUktEYlpEME1aVi1JMXM4UklqOVZ6REhPVTAyNS1tbURHVi1DWVhwT1JGQ1lPS2xlTlhMUkFDOFNDWkdnaVZsLTFBQlMyYWRPMDE2aDhmWHFHeU5nQnE2VGozZ0pDZEMxWlRXeWQ4dlE?oc=5",
+      "source": "African Law & Business",
+      "published": "2026-11-20T13:52:01Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a351be42d1ac90f29a1786",
+      "title": "NIQ Global Intelligence: A Promising Investment Despite Debt Risks (NYSE:NIQ)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdHY5VGxmMmJRRFZJZGJ2WkJHeVVrdDZIMUMzbWRnWnFZZWxtR0Q3ZUw3UFlCSXNZOVlpaGR5NllJaExqRG1ldS1UYllXX01FVFpEWDBGaTB2LTRiZThSUmJLYmpGMVFoMnNKOUR5YWRCMUZtNWdNVldqLTgwX3VFVFZVVzh3eDFGV29zZ2doUzlVdUNkZ09Cc2ZncFNNWW9ZdDZRWnVIZmFOWU5LTE4ySUxTV1hSVWxIOG9LTUlqSmEwbnVCQUlDVG8wUQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-20T13:40:17Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8543ddf4a52881252a171a",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T13:28:32Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
+    },
+    {
+      "id": "32bf0c9eaa390a9327db53",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T13:25:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774"
+    },
+    {
+      "id": "4e46532b436dcbac74f8dd",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T13:21:11Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675"
+    },
+    {
+      "id": "e713f7c26de72e44ee8fb1",
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-20T13:19:01Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "77cab6043ebe152c49eb10",
+      "title": "Philippine Star. . 'WE YIELDED CONCRETE RESULTS' President Ferdinand \"Bongbong\" Marcos Jr. on Friday highlighted the key accomplishments of his participation in the 33rd Asia-Pacific Economic Cooperation (APEC) Economic ",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYWZ3N2hIRGNPQXdXVWpXMThqeTNLQ1BQZlU1RUFHYldNMzBzRVFhNnk0bC1NTjNxWVR6M2lROVI0bE9rQkNoWGZfZzY5WlNLd3NCS1FRUnFsTVN1Zy13cmhYOGhHSk5BSkFoOExEa0hjejJ2YldKeklMbTlJa3FGWTJLTzZwVzhXTUtodExNRFA0ZVAtd0lLYXk2Nkk2U2lzNXliWHVtWmdHSk1MbHg0cXVQYUxxd2hHZHN0eTd3VE1xUDZESHd5RkFRWWNxYzFTV25PSG5yYzNuU1ViZHc?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-20T13:15:55Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "5ef06037f3faa4d55810ac",
       "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
@@ -38,16 +194,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
     },
     {
-      "id": "b1ffe06b42b6644bebf4ce",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T12:56:48Z",
+      "id": "ee7a731c506c9b25eddfc2",
+      "title": "Alpitronic to Build US DC Fast-Charger Factory in South Carolina With $33.94M Investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUZ6eGdZN2lxWm5qdmRKUGdwNEo0WUE4LXJhbncxTXVIMjU2V0tfMlBQUXFmcFBtZ09vQXQzaFI4UWNlLXJKdlJCMGNGbURoMlRwSmRIUmpMUFg1YnUtWjNMdi1wcDRfQmdwd21yTEplQVpIeFpUbmM5dWx1MmJVSFlyRUlxZnN4SzlNNzMtTEhJUVdlVDlQX3VmSWVtOUpkQVl0ZWdUVXJkY0ltNklyVW1ycUtKclpHcU5iN3N0dDVERS1QVjJJSWJHX0RLb2M?oc=5",
+      "source": "Fuel Cells Works",
+      "published": "2026-11-20T12:53:00Z",
       "category": "World",
-      "topic": "BBC News",
+      "topic": "Americas",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
+      "image": ""
     },
     {
       "id": "002997a1a0c604daa0c05a",
@@ -92,6 +248,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERRT2h3VnpVb0xXN1RnZzVvMF9NYlBOMFRmWTlHTHFPUDRCQ1c0MnhSNzNGZE5hOW0zR05rX2JsOWpFX3dmY1czSTZPUnhZdlozMVFHVFZjRE5CN0w0a2dJenVfQ0tySENUUENLVjBYdC1TNzlLRVNBZkx6aGJFVE5aV21scHJhMFZz?oc=5",
       "source": "The Guardian",
       "published": "2026-11-20T12:43:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "780c8449544082e123db90",
+      "title": "What CSRD and the EU omnibus changes mean for US and UK companies",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZVmJSU3otanV5TU1DdW84UkdGSERrUGlrN0NTT1B1NEtXd09DSDlBUGs4VnYyRkh1YnI5Tk14dWxMVVp5MDljX05jMGx4Skx2MnBHLVgxbWtqem43d2RKcUtVSGtjZmxSZnBVOThRcw?oc=5",
+      "source": "CEO경제신문",
+      "published": "2026-11-20T12:40:00Z",
       "category": "World",
       "topic": "Europe",
       "country": "",
@@ -154,6 +322,18 @@
       "published": "2026-11-20T12:25:28Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e129d9d3d69ef12bf25d6c",
+      "title": "Chinese Tech Stocks Slide As New US Chip Curbs Threaten Cloud Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVRZaDJqbnpNZl8xbTVHd3c3Vk51U3ROc2tEUnF6Qy1iTlJkcWJZNXh4dmdRSkh5MGNjYmN4UXhMbnowNnR5T2duYXlwNVBOcVpEcENVak5nMF9xMEJLbTVVNDFFZDV2R0JXOWxzN1J1Y2thSmR4NHJFRkRHMDF0ajFBYzc4aUJ1V0VBSUYwa25JX09odmFkS2dXRU00ZVRmV3Z1RVduYVRXY2dSeHc?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-20T12:13:40Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -386,18 +566,6 @@
       "image": ""
     },
     {
-      "id": "0d485e0dfc8d69ca836369",
-      "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-      "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets recorded their worst week since 2020, as shares in big chip companies fell on Friday. In Tai",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "The Guardian",
-      "published": "2026-11-20T10:02:21Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4a187a4418875abc5ce4bc5ecd3d4ba"
-    },
-    {
       "id": "a3d9febe56831522389db7",
       "title": "Will AI break the internet? | Garrison Lovely",
       "summary": "Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realm You’re not crazy to feel the world is coming apart at the seams. Within the last week, outages took down core services at Microsoft , United Airlines and JPMorgan Chase . On Friday, all US domestic departures were grounded for the se",
@@ -446,6 +614,18 @@
       "image": ""
     },
     {
+      "id": "8ed3b8e122b2245df6421b",
+      "title": "Korean Startup Picketing Launches v2 of Its AI Ad Platform on One Rule: The AI Proposes, the Business Owner Decides",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSXB0R2ZxOFl1TklWMWY2elhyRHh3S0M4b3pnUnVJdzVVSzRRN3JpN2VvU0NOVHluanowZTFlRktmc0JTV0dULUJJd2I5cS14ZVFna2RJZ3JfU3BYeTlGcG5uU1hxOHAwa1VZX09LNzNkUnFpRXV4RS1UeU9CWUJUa3YwUF96YjRKYUtsNFpSaWQtc0Vpcjl0blY5Y1RtdEdYM3VWOG1hdE13Y21ZdkhoRkNLMHo5SVdCZmRnYzFsUHA0SWxMQTI0Z0hJRUptcTVSMFplZzQ3Q2RWQmFRTmk4Z0tGWmNXS1JZX2hDUko3RWpMSHA5aWRscHkwVllyQQ?oc=5",
+      "source": "The Detroit News",
+      "published": "2026-11-20T09:47:02Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "cf3caef10eb550cc6cbb9a",
       "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
       "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
@@ -468,18 +648,6 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "8543ddf4a52881252a171a",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T09:37:59Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
     },
     {
       "id": "27fc5802fd1bbae96633ea",
@@ -600,6 +768,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=800d6c8c52ac392c0fcf3a581efa70c9"
+    },
+    {
+      "id": "e0e27a855706370eea16f3",
+      "title": "German-African Business Summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHZ0ZpQV8ySF84aVJ1Ynd4d0UxLWZjT2xSUFVycTJ3ZmJxV3k2TGZhN0xGZEktRTJyek1OMWx5VjUwd3VEQXdnUGlXcjBVSl80RlgzUkwtQ0dOcjllYXJ1eVlCa2xHWlRReVNEWU1BMWVzbEZ2?oc=5",
+      "source": "GIZ",
+      "published": "2026-11-20T08:48:59Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "083bb22a383971dee9d05a",
@@ -902,6 +1082,18 @@
       "image": ""
     },
     {
+      "id": "393a599b6fc5424f85dac2",
+      "title": "Pakistan eyes South African investment in mining, critical minerals",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdE9uVHBxYkNfdEUxSEtMaFVRaHBiZ3dZVWtlTUZIc0FVZHNpT2RuRXI5MUxDTC1VNVc3eW4tRzBjMDBlRGFQRkJyQVBmR0JKZGd4RUxCa1pjaV95VHFFa2piWC1EckpkM1lkQVNHeGhTbVNPUFdHU3BFb04zdmRTYzE4VmstWlJaU2Q0R1l4VlJ5Szc1TFpSZEZidnE1WUJSWVdqYnZLenlqQXRUeGc?oc=5",
+      "source": "Investify",
+      "published": "2026-11-20T05:37:26Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "41f14ffc4ac08e628189b6",
       "title": "China-Africa economic, trade expo opens South Africa session",
       "summary": "",
@@ -950,18 +1142,6 @@
       "image": ""
     },
     {
-      "id": "e8c7468edd9574d2841ddd",
-      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VJZTNNUzNXdEdsUVUzZDZ4OERpNzVSOUxfM2I2ajdtVDlRWHhDdjBCN3B4blRpSl96RTNZaEtHeXVjZzFIOUJFYm42OFNmNmNoa19SSUVudTZKT1gwbFMxZ3Y5c25QYlgzMk1Id1E1RXhONEgyWEN1Z3g0bmoxcEo2VGQ?oc=5",
-      "source": "Financial Times",
-      "published": "2026-11-20T05:01:49Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "e82d380a21676abe5ff25d",
       "title": "Race to be next UN secretary general exposes divisions among world powers",
       "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers. If so, the setback will ",
@@ -984,6 +1164,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7937a44819082fb118fed6e8f1d12b3"
+    },
+    {
+      "id": "e8c7468edd9574d2841ddd",
+      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VJZTNNUzNXdEdsUVUzZDZ4OERpNzVSOUxfM2I2ajdtVDlRWHhDdjBCN3B4blRpSl96RTNZaEtHeXVjZzFIOUJFYm42OFNmNmNoa19SSUVudTZKT1gwbFMxZ3Y5c25QYlgzMk1Id1E1RXhONEgyWEN1Z3g0bmoxcEo2VGQ?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-20T05:00:17Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e7eb2ef97b3f06feb1da04",
@@ -1248,198 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Chenyu-Zhao.jpg?resize=1200,800"
-    },
-    {
-      "id": "8cfc747fb5177f5ac20d8a",
-      "title": "SICIT Plant, TIF Audits, EU Trade: The Week in Agribusiness",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHhMOW1jVW85eXVDRTBuX0tTUXFub3NpR3JDdWNXd2dLOTZjWkN5azY5RnJaWmhzcnFlY0RmNzI2UUhtU2R6TExRYjFkb3h0VExTbjNMVUVxdjVRSHBEVFU0RTYxaGxKeE00XzI5cURPZGdRU21vcXlkVmdLeTFzN2hULVpXbjhjUDRRa1hKWFp3QVBjeU9Hd25Zbw?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-20T00:19:40Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "923a007fa0f3d1a776a499",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T00:13:21Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "id": "c470866a6d60f0365183ce",
-      "title": "Eating at your desk? The dos and don'ts of lunch at work",
-      "summary": "Eating at your desk? The dos and don'ts of lunch at work",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-20T00:08:37Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "4bbafec6b8ea82af1d94f0",
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T00:02:07Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"
-    },
-    {
-      "id": "1f1b3b7bf5bc780151838b",
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T23:51:50Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
-    },
-    {
-      "id": "baa4ffe6d5a8cf4cdae18c",
-      "title": "Turkish home, housewares products shine at Chicago fair",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXdOQ0Y0ZFlJZWF3YnVWS2tvWko3SmtPS3lNQWJQRDdkUzhTMkFQdlFwNVpEaVp1cVlVaFNBWWhWeEVqTlE5dWJLQ3ZwYmpqdWxFQmpmQWU1MkVuMnJMNGkzZkNGWGlNbWVnRDlNLWpiUXBKQ1o2X3JtWW9uc2dLRGZWeXMzZ2JKU1hMUzljLTdNQ0RJeVdJRmx4NA?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-11-19T23:51:45Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4a8309431ec4f0870ed879",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T23:40:29Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "a52aba1fad9e967401f575",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T23:37:56Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800"
-    },
-    {
-      "id": "8febbadd7da71c0fac3b4a",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-19T23:33:51Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "69d6b29d35c9d15982db2f",
-      "title": "Daimler Truck North America eyes Texas for massive plant",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHJlQVNCbTF2YU1BMEU1Z3BzeHpUM2RsQ3lHcnVNYnJwRWpTdXc0TmFPdTdZakNobXIwNzY1ZGE0bXdtMUg2WDVaenRKWnhUM3gtMnQxc3pOcWhVZ1FvckFLRkhaMHQ3bVdNS1VyNzExVjF0UGZtTVdndGlOM3FqZzZzVmtCcFpfMHc2Z3N5bzlCVXVQd2xBRWREV3pyNjU5Z0NvOEt5WQ?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-11-19T23:22:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a178720431e75cf71a994b",
-      "title": "California targets Nvidia in China AI chip probe",
-      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-19T23:04:30Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
-    },
-    {
-      "id": "29497fc898ffdf1afd0fd5",
-      "title": "Earnings call transcript: Gorilla Technology beats Q3 2026 estimates on revenue",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORkZsOU5pUlg0ZG40N21yQ0FCZWU5V1MxNC0xY1FkUEx2bUIzUlhFbW5YYzlSTnYzZm9pajNCTVBPbkptM0lMNGR2MHdyYzNJTW00TXBENExRR2NjLUJDV3gtOTRIVmtFb1o0ajQxeEhIZzNRQnB3NjljZVQtRG90aldMUnBlUUU5V2RkMVF2WVpTaHpnaGZ3ZVdHRW90WEtIUlVsQTctR2hRUndjenlOQnZVY0JLTVdwY3hFMlkwcTNwMndOZTNmVjRLcEIyRmVWTW9lX3dR?oc=5",
-      "source": "Investing.com Canada",
-      "published": "2026-11-19T23:01:19Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e2b078acb1e044d14181fc",
-      "title": "DoorDash falls 5.80% in Thursday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14WHUxRUpVWF9JbkZiQ2ZqMmlpQ05KMEZrLWFxbzd1SEN0N1EwWVh2X3BKQWpha21rQVhIc1VWQ28tdFFaNm40TDJYaGt6NGk1cWcwc0dWa3lYMDBpMkdDSDVOWUVfTTNNX3BraEVRVHdSYmY5Z1ZyNTFuRQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T22:57:34Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fbc93b31b43bde95e4a43f",
-      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T22:48:22Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "255531d94837d2277537eb",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T22:33:26Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630"
-    },
-    {
-      "id": "f8133dc16aac0ad50d9028",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge",
-      "published": "2026-11-19T22:31:41Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
