@@ -1,17 +1,161 @@
 {
-  "last_updated": "2026-11-20T18:31:18.860997Z",
+  "last_updated": "2026-11-20T19:37:11.609603Z",
   "articles": [
+    {
+      "id": "81e856d23e6ca9408619d4",
+      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T19:32:08Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750"
+    },
     {
       "id": "96853c2bcb76b246ee84e9",
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
       "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-20T17:54:37Z",
+      "published": "2026-11-20T19:27:49Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+      "id": "7fb40abee5825fd2b5db3a",
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-20T19:15:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "2827bf43df8d4fcf322e60",
+      "title": "What impact has Brexit had on the UK and EU economies?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERRT2h3VnpVb0xXN1RnZzVvMF9NYlBOMFRmWTlHTHFPUDRCQ1c0MnhSNzNGZE5hOW0zR05rX2JsOWpFX3dmY1czSTZPUnhZdlozMVFHVFZjRE5CN0w0a2dJenVfQ0tySENUUENLVjBYdC1TNzlLRVNBZkx6aGJFVE5aV21scHJhMFZz?oc=5",
+      "source": "The Guardian",
+      "published": "2026-11-20T19:12:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8543ddf4a52881252a171a",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T19:03:56Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
+    },
+    {
+      "id": "19df8f0cb63b63862b85e3",
+      "title": "Opinion: Canada shouldn’t abandon the U.S. We must launch a new North American century, together",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0dkV2REMFNlR1FQNV9RYnM1SXBmWjBzb0E2LUNGaUJ0ZjV2dG9lWEFQejZyNU4yc3JuVDUyNGFjQ05TQUdMMzNDMVQ5Sy1fOHZxQTlHTmVNY0FjS2h1V3NlQjZQdW92eklYd0xGVGJ3dEVQdktaWW4tRW1BUmp0S3hoeHZHTTNLOXN0ZmxtTGI2MDBJbEowdENxcl9pNVpUSExzZXprYWZzVk4yYklDbUU5U0JMZw?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-20T19:00:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3afdf5a7b1a6fd8a2421ba",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "published": "2026-11-20T18:50:19Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0418ed396d454d29accfcd",
+      "title": "'Regulations and New Opportunities': Xsolla Outlines Potential for Retention and User Acquisition",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjFkcU1BMHZDV1lEQzhXeWdRRnJ6aFIzUHBrQ1pON29zT0lwaTdyTU5XVXR2emxHV0VHZzJIYzMxWHNDX0dYLWxFeVBpVkl0cHc1ZkVoUFExdDlpVTJSZGdWTE1FOWtQVHk1SjNDdWVsaUtxaGRwR19sUGlWMnF0aHo5MVh3QXA1eUtSc21OZjJvUHRZeTVMX3AzWWpqakRSUFo4c1h6SDVEWjByeDRhMFZRWlNCd3dwRVBtUUpwRnFUenVzM01haUN2NUoxb1RURnpF?oc=5",
+      "source": "Inven Global",
+      "published": "2026-11-20T18:45:48Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e39af07f160c8ff7bf3442",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T18:34:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/mazama-project-athena-rig-sunset.jpeg?resize=1200,675"
+    },
+    {
+      "id": "c24cd66ab6444d57103886",
+      "title": "What exactly is in the deal between the UK and the EU?",
+      "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations, leaks and late nights, the EU and UK have agreed a 12-page statement setting out the next steps in their relationship. What exactly have t",
+      "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+      "source": "The Guardian",
+      "published": "2026-11-20T18:19:53Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edc12ab359a5fb13b1ccca0444584bdd"
+    },
+    {
+      "id": "e713f7c26de72e44ee8fb1",
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-20T18:16:04Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "502ba4456945bd31f3dcaf",
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-20T18:15:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "06eb602957541aaca1434a",
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest [&#8230;]",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
+      "published": "2026-11-20T18:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "b489ac03011e847af2dfdc",
@@ -23,11 +167,11 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e5/live/f4ea50b0-e505-11f1-99a1-253766e7ad8b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "fc059eec5b023eb85950a1",
-      "title": "Chips can survive the space environment. Can their financing?",
+      "title": "Chips can survive the space environment — can their financing?",
       "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
       "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "source": "TechCrunch",
@@ -108,6 +252,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tecd1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "522d9d98644fc72b50ec28",
+      "title": "Guangzhou Nansha: GBA’s strategic pivot for Asia-Pacific trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHNuZENRZXZ6d2tLN19wdWVkUy1SVGxsc1U2bVhRZUJnNC0tNEIzR09oZGdOeVdfWmQwT2t3RTlSejRwV0ZXMlllcWY3aVZlWHQ1ejR3Sk1EeFlLb0NiOXd5bElJU2xCdzRla2JxcnhXckthZnI1TjBwVnk1dXVPR25LZFNWNE1BMXM5RU80a0s?oc=5",
+      "source": "Macau Business",
+      "published": "2026-11-20T17:04:02Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "b1ffe06b42b6644bebf4ce",
@@ -192,6 +348,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800"
+    },
+    {
+      "id": "824c58b933a54adff5abe7",
+      "title": "Porter awarded on TIME’s list of World’s Best Airlines",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNXzJVSlVQaE1IdW9oQWJjQTdMaTdfY3Y3Q0htY3A4dEN5Nk1NUzhlbGhlbkhNY1hGQklBa1FIY3VEN0NpdUJYcHlpR1lnSkxESVFwajVaaWh3Tkx5eGxGYTh2MC1paWc4Q2V4OWdRYVVGRC1tSVRNU0syM2xIeFhORHBPZ25EdjUzS21PNDVFYW5NQTdHWFRVZERUQmMyblE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T16:15:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "6b4567410006f97b279f19",
@@ -302,6 +470,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2150052525.jpg?resize=1200,800"
     },
     {
+      "id": "9e810eaac1d9aea7f41255",
+      "title": "AIRT Stock Dips Post Q2 Earnings Despite Revenue Uptick, Rex Losses Weigh",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGZtSGNucmNOSTBDby1VRXltNkI2OGlaQkN5Q1BGQmJub1pINmpOLUhDa3VwbXo5X2g3ZVU3dFFyMEl2cW9QOUphY3BDQTlqMGs5a2h2UU5VNG81NFVLWmJ1Z1E0MXBIcVdHZlB1Z0JmLUlWcXZlTmZhZWMtQVpoM1RsUENueUpNbGJTNVBwMDh6NG92TXl6NE5SRjhjb1A0ckQ2N2dNWnc3QVNnR3k1VkNFRkZyNGpoQWJLc0RlOGxRNjlMWm80?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-20T15:45:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "45dd2e1626cfb87e413fc2",
       "title": "Anthropic shares slide as AI sell-off hits global markets - as it happened",
       "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang . Rob Bonta , the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based com",
@@ -312,18 +492,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/c93a0b576d6221af2c2b9afbf95a6ac624c4982c/806_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=44b54d162cc9b2238e9bd34944076820"
-    },
-    {
-      "id": "e713f7c26de72e44ee8fb1",
-      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-20T15:16:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     },
     {
       "id": "1942a91a9f55b1befc5ea2",
@@ -351,8 +519,8 @@
     },
     {
       "id": "507fd81809a6d69133de5b",
-      "title": "Trump holds press conference after meeting with Xi and Putin",
-      "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+      "title": "Trump touts meeting with Xi and Putin but offers little results",
+      "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
       "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
       "source": "NPR",
       "published": "2026-11-20T15:00:00Z",
@@ -408,6 +576,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "edf6c912d37c2a74dd8220",
+      "title": "Africa has no shortage of investment opportunities. What will it take to unlock the capital?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWwxejFLM0pmWmhtM0ZjcXJLMzd2Ym56aDhweWUxUEUwQ0VKZzFoSUNMSC03RmRnc1g1NHFQMVdzbGRpQ0pyZXQ1TWliSXVDZ3Vucl9fdU0xY1EtYzVESkR1SWI2SFRtMm1TcFdTM1QxQmhqMGdTLUtubVkxRzMtcjV3cml3WjB3cW1mSXhJRDVSZVZhREYxQWVubVdINHNmNjR6UUJxb2xkT0NlY3BmYWM1dUt6Y1pJeG43YkJUeU1jMnNrRDM5ek5vUQ?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-20T14:05:49Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "313be097e00cfc905e74af",
@@ -492,18 +672,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "8543ddf4a52881252a171a",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T13:28:32Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
     },
     {
       "id": "32bf0c9eaa390a9327db53",
@@ -619,7 +787,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMU9YbFpGSXhMN3JpQlpfVWFKZzRtelE0UktWS3ByZVF1eVBCaGYwRWxmN3p5Qm9HdXF3OC1pRnlaUXdQRnFHOFBQY2dNODl4eUpzRXhKd05jMjk1ME9XMENZWWZXSXZlWU90Z3JRNmpOc25Ub250SllTU0xfRkF2TnhHdERDNWFUdTdlQ0s4QjdYUnIyWXhSQlh4dnY?oc=5",
       "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T12:50:09Z",
+      "published": "2026-11-20T12:51:24Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -634,18 +802,6 @@
       "published": "2026-11-20T12:49:37Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2827bf43df8d4fcf322e60",
-      "title": "What impact has Brexit had on the UK and EU economies?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERRT2h3VnpVb0xXN1RnZzVvMF9NYlBOMFRmWTlHTHFPUDRCQ1c0MnhSNzNGZE5hOW0zR05rX2JsOWpFX3dmY1czSTZPUnhZdlozMVFHVFZjRE5CN0w0a2dJenVfQ0tySENUUENLVjBYdC1TNzlLRVNBZkx6aGJFVE5aV21scHJhMFZz?oc=5",
-      "source": "The Guardian",
-      "published": "2026-11-20T12:43:00Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -712,7 +868,7 @@
     {
       "id": "c432167a63d4fb57fbda3e",
       "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-      "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Business live – latest updates Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government issued a warning to stock up in case of a disaster. ",
+      "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government issued a warning to stock up in case of a disaster. The Office for National Statist",
       "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
       "source": "The Guardian",
       "published": "2026-11-20T12:28:12Z",
@@ -842,6 +998,18 @@
       "image": ""
     },
     {
+      "id": "00d437fd04b97e66d99034",
+      "title": "Ramaphosa courts Silicon Valley investors as South Africa targets faster economic growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEFOUFBrYTdXMG1BLUo5YTBlRW5MakdaUXpmdzQ1WE94UXRVM2Z5cFFrTG1KdVRCbzBwZ2ttbkdDUS1PX05xX3ppczRwcHBjYWVDcHVWTjFvUGR0S2d2NmtNaVhGeXZsWXUxQWxwc0d3TkROMkxZWmF2M1lzYzJxb2dIdHEtd0g4TGxEcU14NGVlVUxQZXo1NVpJSEMwR053ZlZBekVDR0tRU1ZYcWtlQnRGRFU2NkhPZFRYeWptWG81Z2F2ekJXUA?oc=5",
+      "source": "South African Daily",
+      "published": "2026-11-20T11:44:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "db09a615486821d4e11551",
       "title": "WuXi AppTec Co falls 2.49% in Friday's session",
       "summary": "",
@@ -850,6 +1018,18 @@
       "published": "2026-11-20T11:38:49Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6a8bbb0d6c47cae40a3e88",
+      "title": "Take Five: Shopping, chips and central banks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82aWtUeWY2RGFwY0dBZ1JMb2gtYUV0XzZVQm5CZkpJbmtuVG1UcG5KR3VqTE1MYUd6MnVLZm5QclhENnVMQnFHMGdlS0pjUXY1NTdFMGZqdHBORzA2c1ZKdFgwWXNHMjJqVjBsekhFNlI5WWhIaTc3ZFBLdw?oc=5",
+      "source": "KELO-AM",
+      "published": "2026-11-20T11:38:22Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1042,18 +1222,6 @@
       "published": "2026-11-20T09:59:41Z",
       "category": "Technology",
       "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "00d437fd04b97e66d99034",
-      "title": "Ramaphosa courts Silicon Valley investors as South Africa targets faster economic growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEFOUFBrYTdXMG1BLUo5YTBlRW5MakdaUXpmdzQ1WE94UXRVM2Z5cFFrTG1KdVRCbzBwZ2ttbkdDUS1PX05xX3ppczRwcHBjYWVDcHVWTjFvUGR0S2d2NmtNaVhGeXZsWXUxQWxwc0d3TkROMkxZWmF2M1lzYzJxb2dIdHEtd0g4TGxEcU14NGVlVUxQZXo1NVpJSEMwR053ZlZBekVDR0tRU1ZYcWtlQnRGRFU2NkhPZFRYeWptWG81Z2F2ekJXUA?oc=5",
-      "source": "South African Daily",
-      "published": "2026-11-20T09:50:13Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1270,174 +1438,6 @@
       "published": "2026-11-20T08:05:27Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "50880383b72335baf0f5c1",
-      "title": "LIVE – Bitcoin ETF Bleeds: Anthropic’s Record-Breaking IPO Fails to Save the Market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQck90TTg0S05sOHZBUUdJWVAyWDVoY3ViUWpjZ1Y1c3hKak82WnZBN0gxc1ZqZEd1Y0NVcmU3YWxJTXVtZnlhSGFZWUVERkVvU3BudXowdVo5Q0tYcnF3aERVSjBscU4xYWwxQVRuZW05X0dzTFlQeUN0S010VnFIZHczLTRqV2JsUW1SX1VsZ0tQcmhObVpROVFBMndfMjRSUkk1Y1ZYYXkyZVRyV2hYaWYyUURiTGVVeWpKUVo1T190SnBoSnNwUzRIQ251aURTT1BYZldvUmM?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-20T07:56:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ca7def0bfe7375858eebeb",
-      "title": "Asian Shares Tumble: Worst Week Since 2020 Amid AI Sector Rout",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVlSOTN3cElDN05ITFR2TnJmUkJPMmx2cmhTRmtSZ2ZrckxkTk1nakhrYklIcEktMHJuT3IzOWd1a0JRWXpmZUVKeUxCMWVNRW45TVNqYUZxVE1LV3ktd1dBMldHT3pHVWlSRXN0Tnk3VWQtR3I5RlVma21YRDc5cWZYSWdFTXl3MnBScFpmMklxNHNTcjhUQ0ZuTXl1ZnB5WGZN?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T07:52:30Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7ce8935552e0abee5ce880",
-      "title": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-20T07:42:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b6973fc351e5f01d481682",
-      "title": "Should AI be judging our credit worthiness?",
-      "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T07:32:19Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "d953676649d79e5d42a926",
-      "title": "Tax incentives – a source of 'seed capital' for Fintech and innovation.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV29GS25USi15dFJjR05TcjhQYzRNdlNhZjNzT1d4cEJiOUFqdlNPdG9fSFNLcktNcnBXQ195Q3NlT1RRRjJlamxJbXRmVG9idnFUWUVZNngzbUpCek5zRkhDVGc2MXNBelFoVG5IMkJ1dlRIcFhFdFJNMHFuUjFtaldPS29jY0p1eHpn?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-20T07:26:05Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4f9ef788616ff80ca309af",
-      "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-      "summary": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for chancellor John Healey amid the pressure on Britain’s economy from the Middle East war. The Office for ",
-      "url": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-      "source": "The Guardian",
-      "published": "2026-11-20T07:25:31Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0ae986519c234db9b0d44261d5d7028"
-    },
-    {
-      "id": "5d830a8018231fbe64a05d",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T07:14:46Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
-    },
-    {
-      "id": "e0da55da8560ac311b60d1",
-      "title": "President woos Silicon Valley investors, targets 3% economic growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlBFa2ZzazU3bkYxajFTeThhX2dvUGxMNjFUQUhOR09mQVFLc3FKS3JSa2xPSF9BZnZYYUVXRDhqZUctY3ZOVDR0aVhEUVlaOHVuTzdSZUxmNmZ2b2JZb1J4cmV6VDF6Ry1GTkdpeGRpRDJoYmg1djdjZmNxekw0d2FEVHRFcllpc0tIWUUzQXYzZ2pfMm1LbHpucUV6aXMwOGlLR1Juaw?oc=5",
-      "source": "South African Government News Agency",
-      "published": "2026-11-20T07:14:20Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "790daba5e6cdd1e00adca7",
-      "title": "AI, Investment and Telecoms Shape Africa’s Digital Economy.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0Y4NmhUd1ZCZ2hEMXVPNWdIQWVqV2Z5SUdCV2MtOTVkTW9GZkxnSmhlX2tHR2ljd1JFcloxbVNONFJKeFE1Y2pKVzJ1bHhNWTFTaGoxLTJtVm9HaTRxdnVqcG9OSF82bHdPUlo3WmNaeEJTNTVaTktuS0RFcklTbF9PWGhSUFJwOWxPc2FkaXZQN3c?oc=5",
-      "source": "TRIPURA STAR NEWS",
-      "published": "2026-11-20T07:08:14Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "97caea8aea94c55d96f6c5",
-      "title": "Expand North Star 2026 to bring global AI startups, investors to Dubai in December",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWV9wSkdlSUsyU0JTLUFjc1A3VUVnNnduajdYcmNHM3NsaENFbVBFbEg5bmVLMkNJNmxXVGhpMm5ac1NZY3pqQ2czU283a01lMS1fbzREaFM5djZmYk82THdVNFFHQnV0R0NHcDE2UHZVNUZENXhTb3JGeS1uV0N3Sy1rU1BhQ3JVbjE1MmdqaV9VeXJFRUNKb3k4NkVSOUVEMVdYdldfQk42U1hjd2pVWk81NVNsajBHN25PNVhn?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-20T07:02:39Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "16aac4e36935834fde3f2d",
-      "title": "Expand North Star 2026 to bring global AI startups, investors to Dubai in December",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnR4aXh0dmhNay04RGJFQkY1ZWgtVGhra2dhU20xamxRRlVUMkJ4ODlNbGVWUUNraWdrQ290QVRrcEs2aDZhcENkUkg0ZkxublNmUEVJSFA0dFRtaVMybEwyalRhYk5iRm51Z293ZEs0NlotOEFoalZoS2hrLXBubFZyLUJ0YUFTa2pZUjdGNmtyWnJ3OWw0aG9oYjRzaWdPQzhQNV9vTjJvMEVFUjFSa1pFck1pUWZZU18zWGRwQQ?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-20T07:02:02Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b3d8ec43c55f1105bffd1c",
-      "title": "Shenzhen 2026: Why Asia-Pacific’s next chapter matters for Europe’s economic future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGoya3ZJT0c4dktveHlzYmIyRVBYbVJFaWF1d3g2U1NaeWF2bF92STZaOG9tbXBhNDZoVVFUU0Y0dzRsSTRmOEdnbGhaNFJXNWJ2akc2TTNhbjloUzVTRTJuLUlaMHVrVTNUM2xCZHRFd1UtQU1ScDY0cFZ5MTlwVFc5V2hPT25SZ0R1QXRFcmUwOEE0Uk4temZfRUUwYW0wUmJKVnh1cHFoSFRKN2ZMQ09rQXo1UlgzaTdRdE05OTdUcEZXWFQ0TzJ1cU9DVmxaODI4?oc=5",
-      "source": "EU Reporter",
-      "published": "2026-11-20T07:01:59Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ebce6e0e150aa02f65148",
-      "title": "What impact has Brexit had on the UK and EU economies?",
-      "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead UK-EU summit live: latest news updates The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop. Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Bur",
-      "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-      "source": "The Guardian",
-      "published": "2026-11-20T07:00:26Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e91fb4e60a6c82c79b6c832a31fd091"
-    },
-    {
-      "id": "1e0deb5f303ff31768d499",
-      "title": "Five IFC Agreements Put Jordan’s Water Security, Business Growth and Jobs in Focus",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEhENkd4ajlnd1VwcUxpZVlzYWRzemVpUTY3N3o3RFcza2t6NTdydld0N3laZEVfRG9zQ2pDSm1XVThjU0VHUndRcW5oMGN0RnFwYWsxaFFiYzdORlVBOGVQYjFkaXRWSExscEtOczY2RmppUjdCNEhGc1R1TTZncHphVnV1YUpBNlRpX1FDaDVKbHZKdk1DajBKU0FsSGZTUzRaY2s5ZXJDWVVBUENpMzJVU0xsSk92UVVrcHBYajJRRTdyc1BpRm5IUUZPMFhBOUJjOdIB1AFBVV95cUxQcEhENkd4ajlnd1VwcUxpZVlzYWRzemVpUTY3N3o3RFcza2t6NTdydld0N3laZEVfRG9zQ2pDSm1XVThjU0VHUndRcW5oMGN0RnFwYWsxaFFiYzdORlVBOGVQYjFkaXRWSExscEtOczY2RmppUjdCNEhGc1R1TTZncHphVnV1YUpBNlRpX1FDaDVKbHZKdk1DajBKU0FsSGZTUzRaY2s5ZXJDWVVBUENpMzJVU0xsSk92UVVrcHBYajJRRTdyc1BpRm5IUUZPMFhBOUJjOQ?oc=5",
-      "source": "Devdiscourse",
-      "published": "2026-11-20T06:56:47Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 10
+  "source_count": 22
 }
