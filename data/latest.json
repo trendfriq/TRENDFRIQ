@@ -1,17 +1,29 @@
 {
-  "last_updated": "2026-11-20T09:02:51.096740Z",
+  "last_updated": "2026-11-20T10:03:37.420950Z",
   "articles": [
     {
-      "id": "57f7a6cabf16791e141a98",
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T09:01:06Z",
-      "category": "World",
-      "topic": "BBC News",
+      "id": "0d485e0dfc8d69ca836369",
+      "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+      "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets were on track for their worst week since 2020, as shares in big chip companies fell on Frida",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "The Guardian",
+      "published": "2026-11-20T10:02:21Z",
+      "category": "Economy",
+      "topic": "The Guardian",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg"
+      "image": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4a187a4418875abc5ce4bc5ecd3d4ba"
+    },
+    {
+      "id": "741b86de2f3182a9c086d2",
+      "title": "Airbnb's divisive new house rules come into force",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-20T09:55:20Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg"
     },
     {
       "id": "cf3caef10eb550cc6cbb9a",
@@ -19,11 +31,143 @@
       "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
       "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published": "2026-11-20T08:49:33Z",
+      "published": "2026-11-20T09:44:56Z",
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg"
+    },
+    {
+      "id": "a39308b28704c1bbe8fca7",
+      "title": "Korean Startup Picketing Launches v2 of Its AI Ad Platform on One Rule: The AI Proposes, the Business Owner Decides",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc1NwUlhxNHdNU1hRNHlsVHZ0cXk1bjhXaUhMdzBVXzBoMi1HOVRwaHlVT2QwWUVZakR6Q1FjMDQ4M3FZRzRCMGlwcWxUYjBscFYycjY2TVRydnNfNDE4ZzBtUmJ6SlZXZXFNM2FiT1Z2T1hYSHUtdlp0RXd2OW1sZC1PWDVaZUs5aEU0aWxGLTUtTWNkMFg4bjN6UkJTSTlhOWM0N0NOWjVWXzFZXzFsbkRlTU9BYjNuaHlCSXl2N3ptd0J6YmhlZV81eHEtNWxSVElOdThKMkhBQmZ3MmRLWmZqcFlmelZQNkJkcWZ0YVBlblpZLVdjQVRn?oc=5",
+      "source": "The Columbus Dispatch",
+      "published": "2026-11-20T09:43:02Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8543ddf4a52881252a171a",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T09:37:59Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
+    },
+    {
+      "id": "57f7a6cabf16791e141a98",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T09:31:24Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg"
+    },
+    {
+      "id": "3be4b520f042fee697f742",
+      "title": "China-Africa economic, trade expo opens South Africa session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xbVlwUHpRWjliVjJxMnlDWjFMTXp4LXRTZjdwREFnM01ZWkEwSDgyMmRpWEpKSnNjVE5oR1VfRVJhcDJyQ0t5Z3RwYXViUTQ0M016eUZkMA?oc=5",
+      "source": "Belt and Road Portal",
+      "published": "2026-11-20T09:17:07Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3e03a94e8a13ebf1919b22",
+      "title": "The U.K. and EU hold a rare summit to strengthen ties",
+      "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+      "source": "NPR",
+      "published": "2026-11-20T09:14:41Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5303x3535+0+0/resize/5303x3535!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2Fca%2F5e1352384fd6bdc90c42b50069e8%2Fap26316633592372.jpg"
+    },
+    {
+      "id": "88264271f833195f59cac6",
+      "title": "The U.S. national cyber director is stepping down",
+      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T09:14:19Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705"
+    },
+    {
+      "id": "5a32a78ba8e4778098e910",
+      "title": "DOE Supports Quantum Software Trials By Ministry Of Economy, Trade And Industry",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0dja0xlYzBVbEZvM21GT3RKbGU1RHBGN3MyclUzRkFQS2ozOHQyLXJIeElnM0p0eWo2WHIwWXFwcmpQM05BYnhlWmdlaGVhRVAxWTlySUZXVmZUQXV6VnlHaExDQVh3TXM5bHZtQXd3bWc1UjVqempOVHMxV2ZIVWdsbw?oc=5",
+      "source": "Quantum Zeitgeist",
+      "published": "2026-11-20T09:12:49Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bd265bb0e3677460494455",
+      "title": "Sloan Announces Strategic Partnership with Marlik, Advancing Its Global Growth Strategy Following Strategic Investment in Essel, India",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZGpNSE41YjZySHAyeXAxU0tHUW04ejJtdmVULWhxZjRZcnltU1lrT3pkX0xOZTRrMHJDaU9jdlpJZjQxVjFJdF8xQTlLUWI4Wm9Fc2VqcGh2N1RhYlRodkdYS25kVG9nWWN2ZjMyVjJESExfUUswUFE2alg0VW5oNk1sYWJVNExiQ1FIZEY2OGk3TlJ5MnZhRC1CTHFTZ0lTWElEVjlIUU1xRmhrQkRKeWdQQnA1R2pWYUVHMG5FdEZKN1RPUjNFOEo1YkZjMy1TeHlQdXVGTDB5ZjVaTG5PMk5vWnpJSk95QnpaZnhEQlJ3V1ZHRW12bWpaSG1qbjU4STVQOTZPMlIyWmhJcFM2bms2QlpCZVp2aVpmOWYwREVhMGJqUXVLZHA3Y21QN0lYZFhnZk41OTLSAb4CQVVfeXFMTWRUSndZTEtuWkJCVS1NSTVwVFJxNGJZRFVvaXlPR014R3I3VzRoVGVkLXdBTkhCUmhpLXFYdDctWVdUQU9VWUFmSDY5YlVqcDRUU0NOa251NGt0X19IanFFTW5XMnJhWWlReHE0Qm5HTXpxY0Vya2g2clJLdkxGUzgtelduaVAybzFoWXpPVG9JVWxXVlZRcGFzUGIyRTc3ekdJMFBaczgzZnVTaGNWR1BQWEVPMjlsTl9LUGdFbVBqcW1zVm94SHlXTjY4UEprclBveFRnaGh6bzA1OElUU0hKX2hXWlQ2SjZ1RER3enhERFlON0JxbXRtQ3JyazNfekd1THFaV3hlMTl3OW9FZElqaW80YXJYX3p6VkoyandRb2t2UXlBc1NRT0NZcThlaDVDelFuWFRGM3ZnVXJR?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-20T09:10:02Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "28a28effa0a5bf8ff389d4",
+      "title": "Mediterrania Capital Enters African Venture Market With $55M Fund For AI Startups",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGpoZVRGY1FXU3RVSDV2QWV2Vmd3Nkx4aGxEb0RQVGlEcTcwQ0RtSDJmdEI2a3FvSHF6dzUwNVVXNTQwRm5WM0MwWkpKUXN0bFBvRS1VSlJVd2N0cDMtR2c2d0ZhY1hLbHZ0QlFnclZ4bFNqbW92RFFIV0hQVklGdA?oc=5",
+      "source": "Tech Build Africa",
+      "published": "2026-11-20T09:07:55Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "69465d17130aefc94ee137",
+      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into Ca",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+      "source": "The Guardian",
+      "published": "2026-11-20T09:03:20Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=800d6c8c52ac392c0fcf3a581efa70c9"
+    },
+    {
+      "id": "0db06934141301423b52e5",
+      "title": "What is govt doing to fix the economy?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXdBc2FWLTBSMEd4ODFSaE5LQ3dVRTJUOW0wUmFYeEJZTVNUcTdoVkV5NmRIRTVRWmRFdHhPMmRnb3FwZ1d2RDRCMGZTTU5qVnZQcHkwSjFNWXZQVzl4OU9naUNmOTFuX3BFTDJNaWd1T21kWno5Sk9CaURwVWh2R29YMWthLXJSOWZkb0g1VWJSWHFQZ0JhRg?oc=5",
+      "source": "Daily Monitor",
+      "published": "2026-11-20T08:39:44Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c432167a63d4fb57fbda3e",
@@ -36,6 +180,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a1b45bf05672c9abaa6993b7d48ba4e"
+    },
+    {
+      "id": "083bb22a383971dee9d05a",
+      "title": "Women in finance: Accelerators of invention",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVhiOG01c1lsTDRiWDF5UE9vTmIyMGJobmdaRU1sNGY1TXBXNXEyYnBDaVZ0YTFtVVFlRU96d1BTWDBXVkJ4RXpNOXc2SG1XNDE2RmFYdXA0Q2hTRjBqNE8tUGdTTlUyd0o3cW9SQlIwb1JCU01PRTl1MHpremlOUnczZHJxMFF6?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-20T08:31:36Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2827bf43df8d4fcf322e60",
@@ -302,6 +458,18 @@
       "image": ""
     },
     {
+      "id": "591bcba615e969f9fccc53",
+      "title": "Asian American women feel the impact of Nvidia CEO affair scandal and 'spy' accusations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWVOamFpVndxZXVzdzlRU3c1WXIxTFRjVWgySXAwYlJfMThCbEpKSkJ1UFN4OVRHQm5RNm9pWXhKZzRyaEJac2l5MDNlWHdWa3FaVFdXR0MwZ1QzUE55dEZtcWZhY0dQVlpwMnQ0RWxyeGVKU0NyRlc2YnhDekRSOU9yY194TVVYcWRPMGNyR19XYlJnYWxrQzdKT1piMUxZTzFGV2VPenNXc1FwdFptVjhrNmVuZGtscGxhQ2V3M25fY19WdlE2XzlOTHdoYmFBRl9LcndnYUI2eGp4S0E?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-20T05:17:41Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1d1eb2e926f15aafc02b53",
       "title": "The $13.2 trillion water challenge: H.E. Abdulla Balalaa on financing the world’s future",
       "summary": "",
@@ -336,6 +504,30 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c1b6fe3cec08e941e8066b96ef89b92"
+    },
+    {
+      "id": "5734dccee736867c5f75f6",
+      "title": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
+      "summary": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Peter Gabriel asks me to fetch my laptop: he wants to show me a video of himself playing a keyboard duet with a bonobo called Kanzi. In fairness, said footage is, as Gabrie",
+      "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+      "source": "The Guardian",
+      "published": "2026-11-20T05:00:22Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7937a44819082fb118fed6e8f1d12b3"
+    },
+    {
+      "id": "e7eb2ef97b3f06feb1da04",
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTlLRHZDNTRIaV9TZFlkd3VqNHZUTHZ2OVI1N01jdlM1ZnF2RWdFT25RV2dKN0l5THVNQndQTzhrVlpRUmNrRjh4MloxWHo5OXRwTzBJQy1vLVRDUU5yMFpEblRycUYyZnI3MFJEaHBrU1Awa3JTdDlha2tYd0FlbU5FOVI2SW5Nb3hISDg2R0d5RTVXTHctZmhWcEdjU2ptVzdPMUVtLW8yR1l2YjV3UV9GcXBZdGxaR3FF0gHAAUFVX3lxTE9qaEdWMGtKak9xeE5PSTJIeklFdG11ZmIySmR4UHFMV3pENnRvSnp5LVozRThVaE52SDA2Q1VnXzBrYUFjXzFFZmJmLVBFTkxudDFXQ2MxVTNiRlNHTWxabEw3NXRLMlN0VWY5U3I3YXhRZ0tUU2FRdGR0MGxTSW4tMlY1QXVTX0xoYnFRVERZaUY4U0d5RWQyZW9ITlNDY0xOanllVFhpTEgtSmVQa3JHTDNpQWNidGVQUjVJcWxKVg?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T04:55:11Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "4fb5c2f96b6323dca2a0ec",
@@ -482,6 +674,18 @@
       "image": ""
     },
     {
+      "id": "7fe4b6c1ddd6166d8908aa",
+      "title": "US army warns detonation of unstable explosives will create toxic plume",
+      "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T01:27:27Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/c0069740-e475-11f1-9a84-5bed4823e5ff.jpg"
+    },
+    {
       "id": "5dd0928437232447b07dc8",
       "title": "Artisan International Value Fund Q3 2026 Commentary (ARTKX)",
       "summary": "",
@@ -563,7 +767,7 @@
       "category": "Technology",
       "topic": "TechCrunch",
       "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Chenyu-Zhao.jpg?resize=1200,800"
     },
     {
       "id": "8cfc747fb5177f5ac20d8a",
@@ -588,18 +792,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "id": "741b86de2f3182a9c086d2",
-      "title": "Airbnb's divisive new house rules come into force",
-      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-20T00:12:28Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg"
     },
     {
       "id": "c470866a6d60f0365183ce",
@@ -806,6 +998,18 @@
       "image": ""
     },
     {
+      "id": "8e3309103a5b32afbc4f45",
+      "title": "Larry Fink’s next major move could be an AI play — with deep-pocketed partners in the Middle East",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRG1QOWxWVjR5YVBhX29ldUZ4TmVIM1VoT2tmRTFQZDV5RGdpNDYzVnNkeW1xYnJoZ3Vacm1ETVVTWkU5R0pJWDh6UGFoeXk4S2hQUzhOM3BSUVRwT040aU1hYmRqYkVTRkNvNzlWYzR5aGhqZ3VPZDNRWW85aFRmUTE3bTBXUjFreE0yeE5qN0o0eFNH?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-19T22:04:04Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a16a060150c59a522d90c6",
       "title": "A brief history of Nvidia’s recent stock fluctuations",
       "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
@@ -872,6 +1076,18 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3loOXEyak1QRFdSMjRXMEFUVkRFX3RZQi1PdHMyWUpTUkZkZW1iSEZ3b2UtZmhzT0ZYc0prcUtUQVBxVy1rb2h0M3FpMkNQTlBFRmRucEtlNUdwc1JNSkRLbi1HcFRyVGpZTVlZOHczc2pKRGZKTEo2TjZtV183WG1kYlRQVy01WHY2Wk8wUXhNU29WWFh3V0ZQTnZwWnNYY1FNdjRDRG1NZ1BEeTBqdUJvTldWamgzRU1FcUw2UnRzZ1YyWFpJc1lHcGkwQXV2WEVz?oc=5",
       "source": "Facebook",
       "published": "2026-11-19T21:40:04Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b3922c96e6c6f76a0540f2",
+      "title": "Middle Power Ties in the Gulf and Africa: The Iran War Inflection Point",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWkyNmN5OWxBa3VHNUtBaEJmRUUzMkEyS2xELWZWb2p1NENlYXB2aDVQcUNmcTF0emEtVVUxZGxXcDZoZnFfSWFyaURhTE1DU2NVcHFKNExRazhOVThVeGhIVzdxVlZuWlhubU9Lc0NfbzV3dHRZbEZrRU1BdDlWQktzYWFzOU0yOW1Eb3c4ZDN0U1E?oc=5",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "published": "2026-11-19T21:37:07Z",
       "category": "World",
       "topic": "Middle East",
       "country": "",
@@ -1224,222 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "8d003875572011c47255d5",
-      "title": "Five European ministers on why they won’t go back to business with Russia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYllaM2JhdDJDR3lvWG5JOFM2aDlhUXlpZjdsNW53b211YlZONkpXdnJITnpfZkp0enhIQm1FV1B6VW9fQXJMaVVGaEo0YXZrWUkxQno3VDNWQ3pXcEhIVUlYcnRSTEVTNDBnNzJiRk9uS0c1a0RsZHotV29KZ1pCY1ZiajM4eFU4MWs0UUZ5dDVscEwzVGxmMUE1c2VndG9XS2V6UjRONVNaUGVVMnZaTlpJZm1KcDhyQVUyVVFFUExyeENlaHEw?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-19T19:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b9ba2e69cac268a2d44580",
-      "title": "China-Africa economic, trade expo opens South Africa session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2Q5YkdVWG1rdFhISUpfMkVNYW8tdXFvcmd2aWhDZ1ZVNUJpQzZKNGtzVC1wSFoySE00NUJ2c0NRWjhGY1BYRVYyZGVvVVYteWxXSXRkQ2ZDYnptYi1hMTdGaVpseG9Ebkl5N01leTN6NkdZR1ZGejZhYUJjMER1RTJOOXJtdw?oc=5",
-      "source": "Xinhua",
-      "published": "2026-11-19T19:29:30Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "97d8f470b8f897c47167dd",
-      "title": "China-Africa economic, trade expo opens South Africa session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tcVJudUtYWk9fSktHUGxNOFhSSnNCSzVlYkNMWHVyeklVdV9FamE1RTNGWTNlWm96elUzWHh5UzkwQmkwdUdqcExyYnpfUUU3SEhmR3pneDFuY1UtNEMyRFJxRUM1V0Ntb1dNQkFac3BId2Q5STlWZ1ZFMUE?oc=5",
-      "source": "Xinhua",
-      "published": "2026-11-19T19:29:30Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e57a543a2158670b6b371b",
-      "title": "Above the Noise: 10 things investors can be thankful for",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzE0NHFnZzZ0ZlE5TG85c0lpdV9EWno4d3RtcFExNW5QSVNwM3Vfellhbm4ydlNCMlNDVHEtWXY2R3pNS0gzV3VZSDFFaEJJRk1OX09ZWEpCZVVhSm9zVm1Idlo3MEl4WXJUeVpFT084eUlPRU1OaTdYLUtGRU9UX2F2QU1ZOWF4bE1lRw?oc=5",
-      "source": "Invesco",
-      "published": "2026-11-19T19:28:27Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "33799e9a797dfeae24ddbd",
-      "title": "US ⁠judge allows Trump’s $15bn lawsuit against New York Times to proceed",
-      "summary": "Trump alleges defamation by three Times reporters and Penguin Random House in campaign against news outlets A federal ⁠judge in Florida on Thursday said Donald Trump’s $15bn defamation lawsuit against the New York Times and book publisher Penguin Random House may proceed, a victory ⁠for the US president in his ⁠legal campaign ​against media companies he accu",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
-      "source": "The Guardian",
-      "published": "2026-11-19T19:27:51Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/e0d95a8cd905be85ddf4efa2770e418df5ac0b2b/441_0_4410_3528/master/4410.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4a5f40806ffc70104005e3f5e2da82f"
-    },
-    {
-      "id": "3731c9774b94f1beb99d2a",
-      "title": "PR News | PR Firm News: Public Relations Global Network Launches PRGN Tech - Thu., Nov. 19, 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUFJSTBLV1JzZlNYOGpnM1Q2ZkVpZzhheGtpTWJmQ0tDRFJINUI3Ulp6akNrekpQVlYyZml0NHJBb1FEc1JRSzVqbE1KUE9fNGhPUUFpOF9nSmR5dmpOcXp1VW1JVkgtZ1habFYxcUllX1B0ZTdEOGg3VFpqWEVkQTRVVUJZbklEbjRETGxxUGhGbXFDc3ZkV1hPUVM2TEVvOU80UlNQMVRnR1gwUUVxdWdELTZUOFc3N0ptNnh4eng?oc=5",
-      "source": "O'Dwyer's PR News",
-      "published": "2026-11-19T19:17:32Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "048632a3702f8d7fa646a5",
-      "title": "Earnings Calendar and Analysis for This Week",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERWb3J6WkNFaktWLUdJSFc5NldRblBMcGd5ZDlUaGVHeHhpcXd6WndUR05lcW9sOWQ2RDY5TVUtVFNQSkFQRUs0QnhwWG5PemJVMU9aVVlVczFXdm9WY2o5aElhYUgtdFdSWnJxb0lZRUdHWW9CUF9MSnBzS3VlMTd5dUFULVdBQnBzZGRJSm9WY0ZwX2Mxc3RjcXFNQXNjVzN3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-19T19:14:22Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9e65fe05c5427068bc7db8",
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
-      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "source": "The Verge",
-      "published": "2026-11-19T19:12:30Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "0027e4a1d292e51621fcf4",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T19:10:45Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800"
-    },
-    {
-      "id": "d2b1ce8fd121b584ebd390",
-      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW91bDlWeXB6eW1vVC1rVWQzZlFvNmtrSHMxN1Y2THgzTDNDc3VDZGk0d2R3Y0pUOW1pVDdrTXVwcU5lck4tSGNrX1dTZ0pSQVEyc21wSUdFdFJVUldET2sxcEFzS2gxWGNHRFJvMVIzSC16UUpGOGV1bnNoMmJ2NmxWOUlWaUdZSW8xVGpia3NMVHYt0gGUAUFVX3lxTE43MzBKUVFtU0t4ZEM1cmV4b2J3Wk8wYUtRVkwydXlDS0MwcFpjLVBNVnFTVDQxUFpEZ1hkXzN6aGNEc1hwcE1LR09CektONnJscjRXZGNhRFpZeUNnUXhNaG50VF9CQ0ZabFExMzFNYUtpd3RLLUxSRmNldU80OE5WLTZ4a2dBXzF0ejQzNThoZTVCbHg?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-19T19:07:42Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "25193fd707f7640a817a4c",
-      "title": "What’s holding South Africa’s economy back? | Counting the Cost",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wenVxNDRQUm5OX0ZIaFVQdG5wM3BvYndQMGo5QmhlV0twZnpvVFpBZHJ3WlBOZEpuZVY0OUloMWx6QlBEcjF3empNQkhDOFp0X3pKaVhGbzZaX3ZLcUdCOHZveFdROUXSAVxBVV95cUxQdW5TemlKYm4zay1ScGg3NkxvR1VRR0RyLUwtMUFYbldZRUtPbkdTM1BDVTF3eWVEeTJ0UHZxTkhXRG5oUklyMmMzQnQxVGlDSWl2eS1Pa0NqeUpyMw?oc=5",
-      "source": "Modern Ghana",
-      "published": "2026-11-19T19:00:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "274bc3f474e6e4b47aa6d9",
-      "title": "TJC to buy majority stake in healthcare events firm HMP Global",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkdVcXk2OC1JVmZfaWMtSUNDU3dsN3BxcEt5ZndOOFZBUUI2al9BZVJBUkU5cXM2Tl9vdk54MzQ2VEpCalZFNk03YTlQZ2RuQnJMWVMxbktfMm5JRGZGTzFFUEZQaTFnWnZnRXl0WWw5cGZHLTJsVXFqT0tNckhMaFktdTdoQ3BzVDdLZF9OZ3ZheEtYMFV0VEFDTjM?oc=5",
-      "source": "Dealroom",
-      "published": "2026-11-19T18:52:48Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5420692ebed499fadb63d4",
-      "title": "Morrison Expands Middle East Footprint with Renewables Focus",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnU1M05IZG1ndTFfSUU1M2RfU2k2SEg0SnE0ZUdSc1NFWTNnZXdzZnZNV2N4S1VlQkNqNjZFaDRQOUx0TFo1dXZkY2tGSTlUekFGNDQ0ZWw2bmpaTFhuVXkxU3czeW9vbWZJRVFEV2hUNWVyYXBfV0J1TW5CaWZzZG4xaUNiaVEzM3JMTU9XMFZpOVk?oc=5",
-      "source": "UPPERNEWS",
-      "published": "2026-11-19T18:51:26Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5153b66bc2bff8b346f540",
-      "title": "APEC CEO Summit issues Shenzhen initiative calling for shared prosperity in Asia-Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOczBEdHdFN25LYmhFdjB4VU5GdlM1TWtGTGp0RjhyWjNoMm1qdEVseGFBaVpjcWdkelptdEVyd2hHVlRJZWVLM0Rzam8wbGpCc0tqX0h0RmstQkFDYk5IQXpxNF84OUg0Y0o4dXhiTkZOTGZyMF9JcmZQMThQeEt1SEZGbW1CVVkyRXFXbC1XNXluOEExWmd5M0MwZDZVREVQc1pTUVFWaVNhazZuNTNlbjBmRUtUSklVMHZn?oc=5",
-      "source": "Philippine News Agency",
-      "published": "2026-11-19T18:44:08Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6694afb330d2fbb9c892e6",
-      "title": "France's OVHcloud launches AI cloud products hosted in Europe",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-19T18:41:08Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "541004407d45f645efa6b1",
-      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-19T18:34:39Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a0bdb17605c147389312f1",
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "summary": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-      "source": "The Verge",
-      "published": "2026-11-19T18:33:08Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "606681afb07b6036613d0b",
-      "title": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-19T18:29:14Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
