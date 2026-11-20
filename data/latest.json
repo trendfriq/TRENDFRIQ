@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-20T04:34:36.421987Z",
+  "last_updated": "2026-11-20T05:39:05.920537Z",
   "articles": [
+    {
+      "id": "e82d380a21676abe5ff25d",
+      "title": "Race to be next UN secretary general exposes divisions among world powers",
+      "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers. If so, the setback will ",
+      "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+      "source": "The Guardian",
+      "published": "2026-11-20T05:00:24Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c1b6fe3cec08e941e8066b96ef89b92"
+    },
+    {
+      "id": "4fb5c2f96b6323dca2a0ec",
+      "title": "Barrett Business Services falls 3.90% in Thursday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2FUUVFsTFFQb2pqQXRlb1lZQ3U3QXkzZWw0WlhRU3hCVF94SkdWNS1KRGdjZ1dxQmRFc0U3NnUwM2g1WWRYWkM2d296R1dVUk1yQWp0VU4yNGo1NEZ4eUJKanNMbEgwR0lKUXlzZUhRMDJNMk9KM1lLc29wMVB2Qi1aYTZfejVXeTVYZWh5UUZEdw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T04:39:21Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5d830a8018231fbe64a05d",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T04:35:51Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+    },
     {
       "id": "aa6d63c034eefdf91aa841",
       "title": "Qatar revamps investment strategy after Kushner building bailout",
@@ -84,18 +120,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "5d830a8018231fbe64a05d",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T02:40:49Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
     },
     {
       "id": "0eb49abd22e57b9064dce1",
@@ -458,6 +482,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667"
     },
     {
+      "id": "5aebf622386bee88211e70",
+      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+      "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco As the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square a",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+      "source": "The Guardian",
+      "published": "2026-11-19T21:52:19Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845172603b994da30517509233cfa309"
+    },
+    {
       "id": "833ce87bca6dbf3d48cdb8",
       "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
       "summary": "",
@@ -490,6 +526,18 @@
       "published": "2026-11-19T21:40:04Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6b473112f5dd83a50e7625",
+      "title": "Midterm ‘Wave’ Election Makes a Splash at Public Affairs Conference",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlFPQVZxTEZyUUtweVk1WlFNRGJxa3l6alFRMHNkZk56Nl95TXppZ1JhQ0NSUGxuZ0haYy1LdHA2Zm92M3dDY3BLT2pick01cXBsY2g2LTktb2o4QWp4cEZ3dkJMcUpjRDVBekdHaGd1M0lBaWRWYUg3MDMwOUlLaXBkX29xaXlBaTFPRWtHMlVLZUZuUTF4cnEzWllEMDQ?oc=5",
+      "source": "CalChamber",
+      "published": "2026-11-19T21:35:00Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -559,6 +607,18 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajh4UGpRNjBmUlk0aFpzRXU5S296QkFGN1h1XzlmbjVtMmJDbU9FODlhd0JQdWlrNHB0R2ZpNV9UeGJMMXNyX19tbGhGZTFuWHNQVTZZckNuLWI3LWtLMnJ1U2hYS3lweVlmZmxDVG9VYWc1b0JvQUVUS25GekhuYU9rWXdWZm5JbVFQSjZ1QWpxYWc2MmU5VTBwaVk3QTlGYXJ3ME1IdnZMLVRDUHA4a0pR?oc=5",
       "source": "TradingView",
+      "published": "2026-11-19T21:15:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d122001808f8d96238a2d7",
+      "title": "Webull Reports Third Quarter 2026 Financial Results",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMmo5STROdjVOQVd5X0JLenYxd0poQk0yUzVkd1QwT2drbWtRbGdhdkQ4dVRBQnVMdzBUM1EwTzQ5WTM1ODl4bEM4bnhWb25GenYwVjRFWGdQUEdhX3pNREszU3pUSTdlY2dkaVRiRV9vaEY0YzZQOVZ3d1BLejdnWVpGNTRCZnhCaEc0MG5rNllBQ24zdTdCTmE3Y2VSTm1CZzlsbjNEVFNOS2s?oc=5",
+      "source": "PR Newswire",
       "published": "2026-11-19T21:15:00Z",
       "category": "Finance",
       "topic": "Global finance",
@@ -684,6 +744,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "793d10c8c62444febae3d1",
+      "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+      "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights The paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thursday as shares in their company started trading at a price ahead of expectations. The opening price of $111.50 (£85) per share valued the entrepreneurs’ stakes ",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+      "source": "The Guardian",
+      "published": "2026-11-19T20:05:13Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=592017e8e57e3d91e02a828cdc1c2b4c"
     },
     {
       "id": "c363e4ee1aa6f6ac6b5780",
@@ -1226,6 +1298,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801"
     },
     {
+      "id": "cd5642f16e0b2fcc5dbe71",
+      "title": "Anas Ammar To Join Forbes Middle East’s Building The Future Summit In Egypt",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVZwM0Q3THFKOTFORjd5dFFvVXFUb0VIbVJORUdIY05FTUo1ODRIRnA4bmVlX0NkcW5adXNxWmNwSGdHTGhQTDJTbHpCSW9Qb1BCbHN1NHlObkhobF82LTF4elRmSjlZNjlOQkVVS1hWZzNHQmZZcVRGZkI3LUcyN29qdmdNQTJJT0s4ZlpSVGd3TkZ5MnlNSWNDd0ZVUERPbnJSUlhubElKUUIwbjlkSjU1V01FZEttaHk3STBYbw?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-19T16:57:20Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "294f494c3d9f12c9110786",
       "title": "Anthropic starts trading on Wall Street",
       "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, [&#8230;]",
@@ -1298,6 +1382,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Microsoft-To-Do.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "491ba4862cfa7c3645449f",
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXUwX2NyM3FKYkJCN1JLZDQwMnJ0VDRuUzNFeU14Y0tLMWtreXlKMTdqRExxRUJHZ0RHWDNOQ2NMTEJhYlJLd2dPRm4tVExUSVVCR25rUDE1YVB6Skgtb0s0ZWs3WUtRZzV5NWRxRjBlVVp0UWRzZGNTUkFxMlNFZ202MlhISHfSAYwBQVVfeXFMT3p6czZoYjdmNkFQVmN2ZFhtNW1CUjRIRVVSY00wVVVZVWl4dFRtcy1vZl94ZS1FV3FTSnU2bHJ5dXE5MWN0Q21MbVdOaHRfdm94Y3VMVlBjTmhBSENfQ2NlaXBOSkF4Vzh4NFBTSGZFVWJzTEZFdktLTEpLbFkzdVNhTEdUenQwT3Nyd0w?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-19T16:28:06Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f76e15c6450ff67d52fa8d",
       "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
       "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
@@ -1344,102 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23617470/SNW_Ep104_MG__010746_RT.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "cb80674f9e2233d1c448dc",
-      "title": "Veridooh Expands US Leadership Team with 3 Senior Hires — LBB",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQbkoyd3V6djlzSXhkajhVTG9weUIwb1p0OUc1STlONE5OcHcyandVTk1jMWhlRHROSXJRRkxQcDJzZ0U2Rmhwd05xS3h0blp0UENPZmFmZGdXR1BibkQ5T0N6Rk9jU1A2bnhuckN2UQ?oc=5",
-      "source": "LBB - Little Black Book",
-      "published": "2026-11-19T16:14:53Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "81ada2409aa5927a632bf3",
-      "title": "JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage",
-      "summary": "JPMorgan Chase says its third-party vendors suffered a cyberattack, exposing marketing data like customer names and email addresses. The confirmation follows a report from Cybernews, which says a ransomware group leaked email addresses belonging to around 16,000 JPMorgan Chase customers. In a post about the attack, JPMorgan Chase says \"there is no connection",
-      "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
-      "source": "The Verge",
-      "published": "2026-11-19T16:14:23Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305014881.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d088af90eab61c6c8e2a00",
-      "title": "How South Korea exports the K-beauty ecosystem",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3F3VkIzaWxTU3NxMms2a21IMWJaX0hPc0lEWGFDZWl4UXZ1N0JkbFN2TXFrNnNpYTR4X2tzejZXRERzYjRzUWNIeUFGYndicFJVaC0xVnloMG9fMnhmMWFIWVlmU1hlY3N5U2J5VkxUSTlWaE1qZTN0YVQ4endNZlhSQUZzOXNLNktZR2luaUhsRzdkOE9zXw?oc=5",
-      "source": "Personal Care Insights",
-      "published": "2026-11-19T16:03:53Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "896a64a0686bcd721020b5",
-      "title": "The Verge’s 2026 fitness and wellness gift guide",
-      "summary": "We could all use a hand when it comes to being more mindful about our health and fitness. The holidays provide plenty of reasons to focus on wellness in body and mind, and a good gift can be just the thing to spur a new hobby or support healthy habits. With that in mind, we're [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
-      "source": "The Verge",
-      "published": "2026-11-19T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_FITNESS.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "787ec3ea015eb548f2dfe5",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-19T15:58:58Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
-    },
-    {
-      "id": "53861beef1c3cffc7788fb",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-      "source": "BBC",
-      "published": "2026-11-19T15:58:58Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1548d446c7c63613fa8ff5",
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T15:52:26Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
-    },
-    {
-      "id": "7758fc7c0dde86419ba85b",
-      "title": "Inside Hinde Group’s Investment Case for Mobility Global (MBGL)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3pNSnY2Zm93dkdwNGg0WVB4N2U4TURVWjJ5VkZUQ2YtZFZPWEYtbFNPUDNIOVhzY2NzaUxkdzdPRkd4RW1Mek5mM0NYWlN4NFI2ajJUSGI0eVhmRXdJY0FRUG16YW9NRUVUaHFkbm1Fcnp3T0F4SVpFLWJUN3BOUzlGTTdtQ1FQZVoxSU5KOWtzN0U0aGJnY2puX25zTlJP?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-19T15:51:29Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
