@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T02:33:34.834411Z",
+  "last_updated": "2026-11-20T03:24:58.010378Z",
   "articles": [
     {
       "id": "5ef06037f3faa4d55810ac",
@@ -7,7 +7,7 @@
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "published": "2026-11-20T02:13:05Z",
+      "published": "2026-11-20T02:54:40Z",
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
@@ -530,6 +530,18 @@
       "image": ""
     },
     {
+      "id": "9ea10c202aff446978c885",
+      "title": "The Founders Buffet: 9 startups showcase AI, logistics and other tech solutions at Ibadan investor demo night",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZNFVVa2xoMUVKVllaMkltcDY4YVFKRFNSY2lGUlB6TnNWM2pJSkNMVi1jS3lrTkZNdTJiSDAxa09qeXBGQ3dOSmRjZ3NyNHB0Um5DSTZiTlVLR2g4NHhSWFkwb0ZGYW80SnlacTBhM2NaQWlZQkhZUkdsSGFKQQ?oc=5",
+      "source": "Technext24.com",
+      "published": "2026-11-19T20:32:12Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "429d6ed968f7d488d6967d",
       "title": "Dothan Welcomes Five Farm Technology Startups",
       "summary": "",
@@ -678,6 +690,18 @@
       "title": "China-Africa economic, trade expo opens South Africa session",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2Q5YkdVWG1rdFhISUpfMkVNYW8tdXFvcmd2aWhDZ1ZVNUJpQzZKNGtzVC1wSFoySE00NUJ2c0NRWjhGY1BYRVYyZGVvVVYteWxXSXRkQ2ZDYnptYi1hMTdGaVpseG9Ebkl5N01leTN6NkdZR1ZGejZhYUJjMER1RTJOOXJtdw?oc=5",
+      "source": "Xinhua",
+      "published": "2026-11-19T19:29:30Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "97d8f470b8f897c47167dd",
+      "title": "China-Africa economic, trade expo opens South Africa session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tcVJudUtYWk9fSktHUGxNOFhSSnNCSzVlYkNMWHVyeklVdV9FamE1RTNGWTNlWm96elUzWHh5UzkwQmkwdUdqcExyYnpfUUU3SEhmR3pneDFuY1UtNEMyRFJxRUM1V0Ntb1dNQkFac3BId2Q5STlWZ1ZFMUE?oc=5",
       "source": "Xinhua",
       "published": "2026-11-19T19:29:30Z",
       "category": "World",
@@ -1416,30 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5040343f19b14d3a5aafc2c169a00b24"
-    },
-    {
-      "id": "987ad037dc99b84979ed4f",
-      "title": "What UGI (UGI) Said on Its Q4 Earnings Call",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUVEWG96Z0I3NWRWaXVBLXZkejNaX2tBeUpvalR1eFRtWEFtOGV3bjNPT3N3SXN1RzRQUkdDczhpMkR1MDlXWVJBQ2djV0J0bW9yV3liVnhEUllZZ3hoVk4yOC1PVFpvX19aSHdweVM3SGhtU1hZOGNLdnJuam43ZGI2MEFLLWFSbmdqanpLSHNJMms?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-19T15:14:30Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d8aef7a28b6717835f573d",
-      "title": "Who invests, who owns, who benefits: Africa Tech Festival 2026 day two puts Africa’s digital economy under the spotlight",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcW5qT1ZCcWRyWDBVSmJ4SE1jdHo4TURnVGdsLXVHeElKNEJlcXlBTS1HejZoLVJadVVmNDZvYWEtTGJDQkFtV1JVY2YxM05PZlhkbzRkeXZmbnlpc25JTGl4djVNWnluVl9VNUp6dkNiQUtMaGJ4THdlX1FZcFlVNXpadnoxSVNPbjVlUDhOLXVVb0pJYWlPUGJfMXlXS1V6WTU0aDVHVV9IZVZPVEFjSF9LTkF2RkNHbHlWV3UxSzJ6c3oyRVRIVi1wc01xSFFWdGU5ektoZkZScXNoX2tqb1kxalBja3VLdFhaWk9tUnZvZ9IB9wFBVV95cUxOaHNtMG8yd08yUjN6aWh5WUw2N29RaUgtT0hTQ19BRC1zQXQzMmdMWHUyNnNaQldiWU1OSk9vcVdvR1dHNmJPaUhGLVVic0VFTnZ5M0o5bVk4VF93VVFRNVgwMk0yS1lxUDFUUXR3UTJBZHlLeVliWW9wd1otS1VKd3hrcE45MTZkV2tPRUswV1RDbFQ1bjBLNmc1T1hCblJsNnZjdElMYXlnODlSUUZ0VUNQZ193VXo4TFdXenNkUHhMay1IUkQxSFg4WTBuMklpUzNHblZnRFdMV1RpbE1SZ0RNY2JMT0NUQ2pjOEQ0OVh0QXY0MmFj?oc=5",
-      "source": "boerse.de",
-      "published": "2026-11-19T15:14:03Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
