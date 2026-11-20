@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-20T01:35:58.948647Z",
+  "last_updated": "2026-11-20T02:33:34.834411Z",
   "articles": [
+    {
+      "id": "5ef06037f3faa4d55810ac",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T02:13:05Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg"
+    },
+    {
+      "id": "ca7def0bfe7375858eebeb",
+      "title": "Asian Shares Face Worst Week Since 2020 Amid AI Trade Gloom",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVlSOTN3cElDN05ITFR2TnJmUkJPMmx2cmhTRmtSZ2ZrckxkTk1nakhrYklIcEktMHJuT3IzOWd1a0JRWXpmZUVKeUxCMWVNRW45TVNqYUZxVE1LV3ktd1dBMldHT3pHVWlSRXN0Tnk3VWQtR3I5RlVma21YRDc5cWZYSWdFTXl3MnBScFpmMklxNHNTcjhUQ0ZuTXl1ZnB5WGZN?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T01:54:46Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "8288c457eabd2464774e38",
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -650,6 +674,18 @@
       "image": ""
     },
     {
+      "id": "b9ba2e69cac268a2d44580",
+      "title": "China-Africa economic, trade expo opens South Africa session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2Q5YkdVWG1rdFhISUpfMkVNYW8tdXFvcmd2aWhDZ1ZVNUJpQzZKNGtzVC1wSFoySE00NUJ2c0NRWjhGY1BYRVYyZGVvVVYteWxXSXRkQ2ZDYnptYi1hMTdGaVpseG9Ebkl5N01leTN6NkdZR1ZGejZhYUJjMER1RTJOOXJtdw?oc=5",
+      "source": "Xinhua",
+      "published": "2026-11-19T19:29:30Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e57a543a2158670b6b371b",
       "title": "Above the Noise: 10 things investors can be thankful for",
       "summary": "",
@@ -708,6 +744,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800"
+    },
+    {
+      "id": "d2b1ce8fd121b584ebd390",
+      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW91bDlWeXB6eW1vVC1rVWQzZlFvNmtrSHMxN1Y2THgzTDNDc3VDZGk0d2R3Y0pUOW1pVDdrTXVwcU5lck4tSGNrX1dTZ0pSQVEyc21wSUdFdFJVUldET2sxcEFzS2gxWGNHRFJvMVIzSC16UUpGOGV1bnNoMmJ2NmxWOUlWaUdZSW8xVGpia3NMVHYt0gGUAUFVX3lxTE43MzBKUVFtU0t4ZEM1cmV4b2J3Wk8wYUtRVkwydXlDS0MwcFpjLVBNVnFTVDQxUFpEZ1hkXzN6aGNEc1hwcE1LR09CektONnJscjRXZGNhRFpZeUNnUXhNaG50VF9CQ0ZabFExMzFNYUtpd3RLLUxSRmNldU80OE5WLTZ4a2dBXzF0ejQzNThoZTVCbHg?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-19T19:07:42Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "25193fd707f7640a817a4c",
@@ -1392,54 +1440,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "89f9ed00561b6ab6720993",
-      "title": "Who invests, who owns, who benefits: Africa Tech Festival 2026 day two puts Africa’s digital economy under the spotlight",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOclo2Uzk5bi1uRGhFTm9ucTViRTl1Y1VGb2dVcUp5WlF3SUFWNjJkcS1DS3ZjdkdRUjI2WnlmUGl2YjUwMkNJNFdWZlkyempZWnVtU3IzbEtqcXNvYWVrZDlrVUg0V0g3SHdyZVcxS0lERHdlREtNbmJWV0FaV19EUFBaR2s1eS00VU8yWVdWMFZSSEk4eXpOdlFVa0taTGQyZVpEdGRuV2ViTW53a3FzOXhtNU1Bb29RTlpCT29mUXN0ajhGZzhxVVpRMk5rY1NnM2lwelFqNlFRcWlOUnlFaWRFWnRMLThITEtqYkJXZXpjbnBkcHNwc1M1Ujg3Q0JS?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-19T15:14:03Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "41d2a7233457361d9ab4e3",
-      "title": "Bike24 Posts Record €107.7 Million Quarter, but Profit Margins Shrink Despite 30% Revenue Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa1kyNVhLV1JWOThiYzBYRkQ1SWVsc0N0UjZSbXYyRFRTYVUtWURvRUV2RUlXQlBmVHhXMjZrTmd3am1SRHYtOTlIQUY5d0Y3Y0cteEdmWWJEY3U2Mkp4d0dSS21xelZtNUVLWmd5R2ZacWIwTmRFMHhkb2FxNFE0WDZ1UWxBRG8?oc=5",
-      "source": "TodoMountainBike",
-      "published": "2026-11-19T15:12:12Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e9d7b6dac794abcd53b5f5",
-      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-      "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
-      "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
-      "source": "The Verge",
-      "published": "2026-11-19T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Jon-Favreau.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ddb4b8e8befa63e4944ce4",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T14:54:39Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024"
     }
   ],
   "countries": [
