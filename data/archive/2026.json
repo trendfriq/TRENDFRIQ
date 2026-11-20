@@ -1,5 +1,77 @@
 [
   {
+    "id": "53ba164e0140f69fcddb53",
+    "title": "Anthropic shares fall a day after blockbuster opening",
+    "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-20T15:16:52Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+  },
+  {
+    "id": "1942a91a9f55b1befc5ea2",
+    "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+    "summary": "In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against its Muslim minority. The ruling from the International Court of Justice determined that Facebook posts made by the country's militar",
+    "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+    "source": "The Verge",
+    "published": "2026-11-20T15:02:13Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b683079839bae5071bfaee",
+    "title": "Let’s talk about GTA VI",
+    "summary": "It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play. Thirteen years after GTA V, and eight years since Red Dead Redemption 2, Rockstar is back with its latest sprawling, extravagant open world. There's a lot to experience - and a lot to talk about. Perhaps [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+    "source": "The Verge",
+    "published": "2026-11-20T15:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "507fd81809a6d69133de5b",
+    "title": "Trump to hold press conference after meeting with Xi and Putin",
+    "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+    "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+    "source": "NPR",
+    "published": "2026-11-20T15:00:00Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4462x3301+0+0/resize/4462x3301!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F6b%2F46915cb347f38e28da875203fab6%2Fgettyimages-2305282124.jpg"
+  },
+  {
+    "id": "edcfe7bbf8cbb2efd8879d",
+    "title": "Global Trade Restrictions Rise as Businesses Adapt to a More Fragmented Economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmRWS3FSb2J0bmNuN0tRUzA1LTUtSG9LajV3UEdOaXY1OFBUckE4eXpYd3R6eU5ib0tVZGotUndMWkxHYUZ6U2hsNFRqemlsT18yNWtyQ19lQXpoNzNUNjlnb190NklhYm1TcTBZUklIR2QyZWF0dG5CTnVqWXJjcWdTbkxYZzF6Nl81bVVFOHNBWWhtNTF4Rml1cEdTdG5zNVlxUVpZaUEydlJ0Q3VaR185aGhidzZv?oc=5",
+    "source": "kalkine.ca",
+    "published": "2026-11-20T14:50:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9da83776370914409f13a4",
+    "title": "Siam Global House PCL falls 2.28% in Friday's session",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmlrbnNQWEh3YzNmaS1HX0N3UWdtOUV6REI3VHNiLXJkVHRZNzgwYURoWGc2dkxKYWphOFNYQ3JYNWtydnp1YXZ6LW1VeGM5VTRwdVZ4eGFvUm43WUF1dEFhODdzU1drTFUzTHlRdnViY0N5RmZiNnk5czUyaVM3MC1pZUFEU2dWclNaZ0tCdHlGQlE?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-20T14:33:53Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "d2e3cef1ee923536db1329",
     "title": "Finance",
     "summary": "",
@@ -60,6 +132,18 @@
     "image": ""
   },
   {
+    "id": "ea7fcc5b1d6a37b833d69a",
+    "title": "SocGen sees S&P 500 ending 2027 at 8,500 on AI, earnings support",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2FIOXdZMktjZnhMUzFFMVJmWWNzRzZTMVdrQ3Z5NW9LWVY4Z1BtSl95TGR2b2QzYkVLMVZmc2FodmIyckhwVXpoQ0plWmctRUw1a2Q2cERtOHhPTURvQ1l5NEV5OG9vRmlEb3AyX2s0cWk5UHV2dEpTTG5iSWwzVExvSnhaNl9JMkp0YTYyY2xVODVfM0Y2VE1GQnM?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-20T13:41:24Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a351be42d1ac90f29a1786",
     "title": "NIQ Global Intelligence: A Promising Investment Despite Debt Risks (NYSE:NIQ)",
     "summary": "",
@@ -116,6 +200,18 @@
     "published": "2026-11-20T13:15:55Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "be5cf4f5d5cec857939462",
+    "title": "Stoxx 600 heads for its worst week since March as Europe's chip stocks lead an AI retreat",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeDQzRmtlYUcwRTFKZ3BEV0pVNzlFcnpXdjRFNUtpZWpPdE44bmZfRmc5dU9WWlpfTFV1UTlpQmRiNTdBOFcwSmxVN0szcVBHT0ZNdjJESjUtM1NENDhseW1rU3IzY3IyTDBMbmV0bF9iUklNMEFXT1lUcEtiNXc?oc=5",
+    "source": "CEO경제신문",
+    "published": "2026-11-20T13:15:00Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -248,6 +344,30 @@
     "published": "2026-11-20T12:25:28Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d6a5b160167c4eaca07a65",
+    "title": "Aramco invests in Finland’s ROTOBOOST.. Will methane splitting become a new gateway to the hydrogen and advanced materials economy?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0JleFlvZldRbDNiX1pOZ1l4aXZFMVIzbzVTMkdocVhzZW01bTNvcGlkdzZXOVI0T1VUNE5ObU9uVDZvNTlza3U1bmZxZS1TdnJwNXBjdDlUM01BeDhYOWplR1dRTVZvdVppX3Nka1ZITkc5WTVldmZHMHBCRXlsNWZDS2o3SGpMVkdVcVVxOEI?oc=5",
+    "source": "entARABI",
+    "published": "2026-11-20T12:25:23Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4d5dfbe663ad8a4a500a37",
+    "title": "Innosuisse: The Complete Guide to Swiss Innovation Agency Funding and Grants",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10VDRlZFFFanBmOGFhRDdyLWpfTEVyY2p5cVVzenBFNFVNb1MzN3Nad0tEekluaHhDM2NLaDJISzU5TXlPSUZCMzhOaWU?oc=5",
+    "source": "CASRAI",
+    "published": "2026-11-20T12:18:36Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -694,6 +814,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg"
+  },
+  {
+    "id": "516f6f77312c9f17a0a4e7",
+    "title": "Orange Commits Additional €250 Million to Support Tech Startups in Europe, Africa and Middle East",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHdmRDE1NEMyUUs1bW1HVXhRRmZ6ZExNY3BUS2VZS1FjSkRXWDZHODlrb1hkSGZyWHVlQVd3RnBjakpDNFV6emxQR3R5WG15MnZpd0twSnAwM3VBc01DY1J4ZkNXeWVGbWxLUC1BV2J3YkppSXRLcUlHc054RGthRElOX0hVMC1xOFplb1V2NVpiV3dONzBLYVk2OGhWbFdzbmtVcXpQd0lIT0o2QWN6NXRMbHNxVVpoMXNCd01sWE5VRHB4?oc=5",
+    "source": "Tech In Africa",
+    "published": "2026-11-20T08:51:25Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "e0e27a855706370eea16f3",
@@ -1196,6 +1328,18 @@
     "published": "2026-11-20T03:51:40Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "4d56e3dece6817301da063",
+    "title": "Kristalina Georgieva: AI to become a key driver of the global economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTREdVhBN0s0QmZYdkRvVTVBbC1JNEFBUXFFd3hNWUVqbi0zUU1Cdmw3Z2piSVhvbmxHSTZsaXVFaTN5WWFfQzVjaGJrTUlXck1HUlB4QmRoNlpJV1RmcmxmUTlIM2xBZGVrQjZCU200dHVqOEVJQUl6WUl6QTVUVS0zTHNwd25BR0NnRExBQnpRT1VzbW1tVUtpMHVSUQ?oc=5",
+    "source": "BGNES",
+    "published": "2026-11-20T03:39:44Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -2780,6 +2924,18 @@
     "published": "2026-11-19T15:41:31Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8b2469cce012be9c8395a3",
+    "title": "Walmart quarterly net income down 19.5%, revenue up 5.2%",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkdvcl9XTFJtOWdxNVhfNzlNeGFqanJPMkQ0eTdGV0pxRm03d2wtR0R6blhRbGF0WURnUC15OFNOdnVZMGVkWGUxcEJkY0h0U3BWTUtlRHJMejFsdmI0SElkamdKb0JnUTJvWXJaN0pIV2xqYWtrMHZfZDI2eGlyX21MeVJvaENyZ3FCNkNnal8?oc=5",
+    "source": "Talk Business & Politics",
+    "published": "2026-11-19T15:41:07Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },

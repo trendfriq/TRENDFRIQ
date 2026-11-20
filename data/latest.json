@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-20T14:26:46.542710Z",
+  "last_updated": "2026-11-20T15:29:45.050904Z",
   "articles": [
+    {
+      "id": "53ba164e0140f69fcddb53",
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T15:16:52Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+      "id": "45dd2e1626cfb87e413fc2",
+      "title": "Anthropic shares slide as AI sell-off hits global markets - business live",
+      "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang . Rob Bonta , the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based com",
+      "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
+      "source": "The Guardian",
+      "published": "2026-11-20T15:15:20Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/c93a0b576d6221af2c2b9afbf95a6ac624c4982c/806_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=44b54d162cc9b2238e9bd34944076820"
+    },
+    {
+      "id": "1942a91a9f55b1befc5ea2",
+      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+      "summary": "In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against its Muslim minority. The ruling from the International Court of Justice determined that Facebook posts made by the country's militar",
+      "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+      "source": "The Verge",
+      "published": "2026-11-20T15:02:13Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b683079839bae5071bfaee",
+      "title": "Let’s talk about GTA VI",
+      "summary": "It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play. Thirteen years after GTA V, and eight years since Red Dead Redemption 2, Rockstar is back with its latest sprawling, extravagant open world. There's a lot to experience - and a lot to talk about. Perhaps [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+      "source": "The Verge",
+      "published": "2026-11-20T15:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "507fd81809a6d69133de5b",
+      "title": "Trump to hold press conference after meeting with Xi and Putin",
+      "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+      "source": "NPR",
+      "published": "2026-11-20T15:00:00Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4462x3301+0+0/resize/4462x3301!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F6b%2F46915cb347f38e28da875203fab6%2Fgettyimages-2305282124.jpg"
+    },
+    {
+      "id": "edcfe7bbf8cbb2efd8879d",
+      "title": "Global Trade Restrictions Rise as Businesses Adapt to a More Fragmented Economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmRWS3FSb2J0bmNuN0tRUzA1LTUtSG9LajV3UEdOaXY1OFBUckE4eXpYd3R6eU5ib0tVZGotUndMWkxHYUZ6U2hsNFRqemlsT18yNWtyQ19lQXpoNzNUNjlnb190NklhYm1TcTBZUklIR2QyZWF0dG5CTnVqWXJjcWdTbkxYZzF6Nl81bVVFOHNBWWhtNTF4Rml1cEdTdG5zNVlxUVpZaUEydlJ0Q3VaR185aGhidzZv?oc=5",
+      "source": "kalkine.ca",
+      "published": "2026-11-20T14:50:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e713f7c26de72e44ee8fb1",
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-20T14:47:23Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9da83776370914409f13a4",
+      "title": "Siam Global House PCL falls 2.28% in Friday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmlrbnNQWEh3YzNmaS1HX0N3UWdtOUV6REI3VHNiLXJkVHRZNzgwYURoWGc2dkxKYWphOFNYQ3JYNWtydnp1YXZ6LW1VeGM5VTRwdVZ4eGFvUm43WUF1dEFhODdzU1drTFUzTHlRdnViY0N5RmZiNnk5czUyaVM3MC1pZUFEU2dWclNaZ0tCdHlGQlE?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T14:33:53Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "d2e3cef1ee923536db1329",
       "title": "Finance",
@@ -51,8 +147,8 @@
     },
     {
       "id": "0d485e0dfc8d69ca836369",
-      "title": "Global stock markets slump as Anthropic’s record IPO fails to stem AI sell-off",
-      "summary": "Asian markets record their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets recorded their worst week since 2020, as shares in big chip companies fell on Friday. In Taiwan, s",
+      "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
+      "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares slumped at the start of trading on Friday, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. Shares in the frontier AI company, which floated on Thursday, fell by over 9% ",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "The Guardian",
       "published": "2026-11-20T13:53:13Z",
@@ -82,6 +178,18 @@
       "published": "2026-11-20T13:52:01Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ea7fcc5b1d6a37b833d69a",
+      "title": "SocGen sees S&P 500 ending 2027 at 8,500 on AI, earnings support",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2FIOXdZMktjZnhMUzFFMVJmWWNzRzZTMVdrQ3Z5NW9LWVY4Z1BtSl95TGR2b2QzYkVLMVZmc2FodmIyckhwVXpoQ0plWmctRUw1a2Q2cERtOHhPTURvQ1l5NEV5OG9vRmlEb3AyX2s0cWk5UHV2dEpTTG5iSWwzVExvSnhaNl9JMkp0YTYyY2xVODVfM0Y2VE1GQnM?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T13:41:24Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -134,18 +242,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675"
     },
     {
-      "id": "e713f7c26de72e44ee8fb1",
-      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-20T13:19:01Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "77cab6043ebe152c49eb10",
       "title": "Philippine Star. . 'WE YIELDED CONCRETE RESULTS' President Ferdinand \"Bongbong\" Marcos Jr. on Friday highlighted the key accomplishments of his participation in the 33rd Asia-Pacific Economic Cooperation (APEC) Economic ",
       "summary": "",
@@ -154,6 +250,18 @@
       "published": "2026-11-20T13:15:55Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "be5cf4f5d5cec857939462",
+      "title": "Stoxx 600 heads for its worst week since March as Europe's chip stocks lead an AI retreat",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeDQzRmtlYUcwRTFKZ3BEV0pVNzlFcnpXdjRFNUtpZWpPdE44bmZfRmc5dU9WWlpfTFV1UTlpQmRiNTdBOFcwSmxVN0szcVBHT0ZNdjJESjUtM1NENDhseW1rU3IzY3IyTDBMbmV0bF9iUklNMEFXT1lUcEtiNXc?oc=5",
+      "source": "CEO경제신문",
+      "published": "2026-11-20T13:15:00Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -228,18 +336,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "45dd2e1626cfb87e413fc2",
-      "title": "Anthropic shares fall in pre-market trade as AI rout hits global markets - business live",
-      "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang . Rob Bonta , the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based com",
-      "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
-      "source": "The Guardian",
-      "published": "2026-11-20T12:44:48Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/aeabbfb1da8193532a86e74e3483eb342ed18a23/0_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=dc821346f1e25b2aa00f02dc2af14a49"
     },
     {
       "id": "2827bf43df8d4fcf322e60",
@@ -322,6 +418,30 @@
       "published": "2026-11-20T12:25:28Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d6a5b160167c4eaca07a65",
+      "title": "Aramco invests in Finland’s ROTOBOOST.. Will methane splitting become a new gateway to the hydrogen and advanced materials economy?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0JleFlvZldRbDNiX1pOZ1l4aXZFMVIzbzVTMkdocVhzZW01bTNvcGlkdzZXOVI0T1VUNE5ObU9uVDZvNTlza3U1bmZxZS1TdnJwNXBjdDlUM01BeDhYOWplR1dRTVZvdVppX3Nka1ZITkc5WTVldmZHMHBCRXlsNWZDS2o3SGpMVkdVcVVxOEI?oc=5",
+      "source": "entARABI",
+      "published": "2026-11-20T12:25:23Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4d5dfbe663ad8a4a500a37",
+      "title": "Innosuisse: The Complete Guide to Swiss Innovation Agency Funding and Grants",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10VDRlZFFFanBmOGFhRDdyLWpfTEVyY2p5cVVzenBFNFVNb1MzN3Nad0tEekluaHhDM2NLaDJISzU5TXlPSUZCMzhOaWU?oc=5",
+      "source": "CASRAI",
+      "published": "2026-11-20T12:18:36Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -770,6 +890,18 @@
       "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=800d6c8c52ac392c0fcf3a581efa70c9"
     },
     {
+      "id": "516f6f77312c9f17a0a4e7",
+      "title": "Orange Commits Additional €250 Million to Support Tech Startups in Europe, Africa and Middle East",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHdmRDE1NEMyUUs1bW1HVXhRRmZ6ZExNY3BUS2VZS1FjSkRXWDZHODlrb1hkSGZyWHVlQVd3RnBjakpDNFV6emxQR3R5WG15MnZpd0twSnAwM3VBc01DY1J4ZkNXeWVGbWxLUC1BV2J3YkppSXRLcUlHc054RGthRElOX0hVMC1xOFplb1V2NVpiV3dONzBLYVk2OGhWbFdzbmtVcXpQd0lIT0o2QWN6NXRMbHNxVVpoMXNCd01sWE5VRHB4?oc=5",
+      "source": "Tech In Africa",
+      "published": "2026-11-20T08:51:25Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e0e27a855706370eea16f3",
       "title": "German-African Business Summit",
       "summary": "",
@@ -1142,6 +1274,18 @@
       "image": ""
     },
     {
+      "id": "e8c7468edd9574d2841ddd",
+      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VJZTNNUzNXdEdsUVUzZDZ4OERpNzVSOUxfM2I2ajdtVDlRWHhDdjBCN3B4blRpSl96RTNZaEtHeXVjZzFIOUJFYm42OFNmNmNoa19SSUVudTZKT1gwbFMxZ3Y5c25QYlgzMk1Id1E1RXhONEgyWEN1Z3g0bmoxcEo2VGQ?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-20T05:01:49Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e82d380a21676abe5ff25d",
       "title": "Race to be next UN secretary general exposes divisions among world powers",
       "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers. If so, the setback will ",
@@ -1164,18 +1308,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7937a44819082fb118fed6e8f1d12b3"
-    },
-    {
-      "id": "e8c7468edd9574d2841ddd",
-      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VJZTNNUzNXdEdsUVUzZDZ4OERpNzVSOUxfM2I2ajdtVDlRWHhDdjBCN3B4blRpSl96RTNZaEtHeXVjZzFIOUJFYm42OFNmNmNoa19SSUVudTZKT1gwbFMxZ3Y5c25QYlgzMk1Id1E1RXhONEgyWEN1Z3g0bmoxcEo2VGQ?oc=5",
-      "source": "Financial Times",
-      "published": "2026-11-20T05:00:17Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "e7eb2ef97b3f06feb1da04",
@@ -1274,6 +1406,18 @@
       "image": ""
     },
     {
+      "id": "4d56e3dece6817301da063",
+      "title": "Kristalina Georgieva: AI to become a key driver of the global economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTREdVhBN0s0QmZYdkRvVTVBbC1JNEFBUXFFd3hNWUVqbi0zUU1Cdmw3Z2piSVhvbmxHSTZsaXVFaTN5WWFfQzVjaGJrTUlXck1HUlB4QmRoNlpJV1RmcmxmUTlIM2xBZGVrQjZCU200dHVqOEVJQUl6WUl6QTVUVS0zTHNwd25BR0NnRExBQnpRT1VzbW1tVUtpMHVSUQ?oc=5",
+      "source": "BGNES",
+      "published": "2026-11-20T03:39:44Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "741d1721a6c3bf7cea0666",
       "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
       "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s much-anticipated IPO more than lived up to the hype. The market’s embrace of one ",
@@ -1296,150 +1440,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "527845e9c570a2c262f844",
-      "title": "The Gulf’s Two-Track Strategy: Global Investor And Geopolitical Power – Analysis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDFQR1VIc2VQaU9Na2VMdEdNYllWYmF6cFhqRC1VckNTcFlhT2JIOWFGVHBneU45dU5PTDZOV0NWWGVadlNlc2pjMlo2M3NFNWc1VmY2ckN4Rk1SUlV5T2xCQXVIYXFweEt0Wm80bjZwZVhrcE9mbU8wTnFCNUYzbDNUbGpKWnpfYm5lWEJva0dxMDFHc0lfcWxHZjhYYXM4akZxMDM4cVAxa3ZCS2NYQlY0dC1ILU0?oc=5",
-      "source": "Eurasia Review",
-      "published": "2026-11-20T02:46:56Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "06b2f5fc7766ee85b18065",
-      "title": "APEC economies should join hands to build Asia-Pacific community to prosper together: China Daily editorial",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWZVWjVVaGpkeFFpek1kZEE1SXJvVXJ3bzJWQ1k1eU9odWszNFczSVA3T2FlNnFsTXhMdmRxNHNsUDZtTl84bExvUEJXUVFyZkF1RHZyTzVyVVBHMzg5emdyV0psT0hBNmRwTXBySXBkUUtSdkRQdWRnN255Szd0aWQ2cDBWa0s3UGZLWmFmT3ZFUGNKWnRFY0xqNDFHMUJ0WS1qUzZjcnFWT1BvRFlhMVFERnp4NE9nR2REaHcxNkN4aTk2dE4waFYyalBhTHVweWp6N243eVhxRm4t?oc=5",
-      "source": "Khmer Times",
-      "published": "2026-11-20T02:36:10Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d5209ea44d3c5e9c59209b",
-      "title": "Xsolla Connects Players, Brands, and Video Game Audiences Through Rewarded Engagement",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdmdMQ29hbW9LbnBaOGFmSnlwUlZxdmVMcENsTnJPS2c4Q2dEVXZXN3o1OVowYjhhUHBCaDVsSVo5SFdYdDdtVG5va3ZpaTRMUFNxSk84YU9aclNfYkswUGpWd2lhRENIckdCS1VsbTZiTllWWjBNQ3laRExWcm9lZk1NRklMM1hLbGFHZW5TRU15Rk54cmlQX3lTT1FxeVNSdmFvUEFjQ2dxUTNrazZTREI5dTRVUVZ5NnVsVFln?oc=5",
-      "source": "ANTARA News",
-      "published": "2026-11-20T02:32:27Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0eb49abd22e57b9064dce1",
-      "title": "Gap Shares Rise Amid Old Navy Recovery Despite Slower Holiday Sales",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelRmbGhNOV9SX212ckVGUVFZQ0VmbzBJbndiTjhHamxMZVNOQ3BGa2V5a0thenA3OWV3b3lad05NcjZueHd3TzhKQ2xqcUtMU1I0UnpSMTczbl9hLXNMdG81NjkyblBwWl9xQ2FCNFV5UEVxVkVBQ3BTbzNMdU4zRnd4TzV1MHVqNE9VbE9LenpaSTFlUzlHS29HUjh3SDA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T01:56:24Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7fe4b6c1ddd6166d8908aa",
-      "title": "US army warns detonation of unstable explosives will create toxic plume",
-      "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T01:27:27Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/c0069740-e475-11f1-9a84-5bed4823e5ff.jpg"
-    },
-    {
-      "id": "5dd0928437232447b07dc8",
-      "title": "Artisan International Value Fund Q3 2026 Commentary (ARTKX)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzk2bElKSFlXQjVBczRwWGpudmo3N2d2b21Bd0syWUx5YmhuNzMtWjh3d2dhY2ctek1EYU5FdmE4dEJfS2xRaVB4SnhFWVoyRWc3RTB5b2tLTDNWUjVjeGtpM1ZvMDZhRTVZdTZCWG9xZHVhdE04bF9DNDhWUndHMlJ0XzB2Um5XeEpNMGVZanZNc0pHMzIw?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-20T01:15:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8288c457eabd2464774e38",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:56:01Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
-    },
-    {
-      "id": "92ca9ff247094edd5ced5d",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T00:50:24Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "8adaf4eb836bb9ce55e89b",
-      "title": "Elumelu rallies investors for West African economic integration",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlNYQUxjejh3ZTkwNFBwT2dtWHhGcFlfNjAweHJHdFpfNG5pcTVnUUVXcVB2ZGtpaGJYVGQ3VmowZE15ZkZtbDkwWTZzdG5PWUJpemJCTVJ0UlpPWm4zckdabEdsRE9ZcW9IY1hTQ3IybVNacDg3Z3M3bFNQME5MeVJaanFUUWlySVE?oc=5",
-      "source": "The Sun Nigeria",
-      "published": "2026-11-20T00:47:20Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "327354b7a28e2854b8fde8",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:43:50Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
-    },
-    {
-      "id": "550b81f7ebad66492965c9",
-      "title": "In India Inc’s record Q2 profit, top five make up a quarter",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW8xUGZSajl2UHgwdy1xM2ZiUi1veDI3Um9SWGVzNVQxNG1mSl92WGZjSGI5Ympxd3g3N2tWd0l6dTVuOUhfeG5uTTV5MUN2ek1HbkY5ejFLdVkteFJwOGVMVmZDMndGMnZWWXEzVHVwSkxSblVqcWxfVnh6MmJVdG1QWWNWektPNGsyay11MFkxOVFsWHBJUkNMb3ZMRlEyMVRxbG0yZUhIM2E1S0xGVDBTbGg2d0F2VGswaXVOblQ3bWcxZ09QdUdMa9IB0gFBVV95cUxOM0FuUHRCSzIybm1PVG4wWVRfMmkxbTA3QkxvZTRfVlNqMFZ5N2h2YkltelhOQ3IwbU9Cb29VYldsakR2d3N5VlowS3hxYWRxanVjY19MUlEyRWEzUXVfM2pId2RBNGk1Q05xQTJ1ajgzdFRLSU1WOWlaWVV1QkdyWUw5MUdtOW9HMm9oOWw5YnVWWC0zTVpJN2dVOVVmV3pMMHRyaFFPMGxoWGhvc1VXaWo4UzEwNWlLWWpHNVdSZHNudGhYZmE2UDFKMHE0VVQ4cUE?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-11-20T00:30:06Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "126a1d2c7faef337fba6a2",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:26:03Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Chenyu-Zhao.jpg?resize=1200,800"
     }
   ],
   "countries": [
