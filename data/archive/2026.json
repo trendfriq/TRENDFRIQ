@@ -1,5 +1,77 @@
 [
   {
+    "id": "c3f95a35d3ae9994a6f668",
+    "title": "US SEC Probes Nvidia's Accounting Amid AI Chip Export Scandal",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3hjQ2NESFNqZWFacHVSYTBLLWIwenBvMVJ2WUJnMmNsUWZFWFhhbXM1SlpLeDBxaWhKRW9HOHhLbGk4b3g3dldWZWdHY1NGSE9kdkg4T1hsdnYtRzFfRFRhTUxCYUpybFR1d0ptcVE3MmdsSlpNdVU4YmJVWkNUS2F2TnlaQ01SYzNwd25mV0tSUm9uNS1yU2Z6M1c?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-20T20:10:08Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "05d06a2ae37185a1550dd7",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source": "TechCrunch",
+    "published": "2026-11-20T19:53:41Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812"
+  },
+  {
+    "id": "d020b8aa67dc21540cb490",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-20T19:51:52Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+  },
+  {
+    "id": "d88d0288efc8318ccde325",
+    "title": "Gérard Depardieu and French author investigated over sexual allegations",
+    "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+    "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-20T19:45:20Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+    "id": "bb2fc70937be2d5b1381d1",
+    "title": "US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmJmUDJ0WXpXTnRmTzBXTHRuYW1OeWFSa2NTUmlzdWxfcE16LTlSckc2SURrSUtTMC1aV28tU2U3WEpCM2w3VmhUSXVDSkFEdEwyTnJUWW9pNnZKVHFMR2QzbC1Ib0FPX3hzbzl2cUdhb00xT0dwbTBYQUlJZUloR09TRXlQZl9pMzVkTGpwLW9ES2l4RXJ5UjBjbmhidw?oc=5",
+    "source": "Beinsure",
+    "published": "2026-11-20T19:38:31Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "580903835fa712d86c8cbe",
+    "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+    "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
+    "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+    "source": "The Verge",
+    "published": "2026-11-20T19:35:06Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "81e856d23e6ca9408619d4",
     "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
     "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
@@ -22,6 +94,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c04d6e21b0c2009a87972a",
+    "title": "GW Announces Inaugural OneGW Spark Grant Recipients",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHM2YTVDalBFWEFSQzUtby1TZ1VOYUt4S0hZMHdHRXBOT0M4VHk0U0ZTQ1llb2JwckM4RE00emI5bi1mb2pqXy1kQkJ1YVR0eEJHdUpuTFBOc3JhcjNRT2dzLU1wUXVEMmR0QzJsNXlEM08zNVlTZXV2VzNvbDNCQQ?oc=5",
+    "source": "GW Today",
+    "published": "2026-11-20T19:02:27Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "19df8f0cb63b63862b85e3",
@@ -56,6 +140,18 @@
     "published": "2026-11-20T18:45:48Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "299ad0f7d2e50e31032405",
+    "title": "Mirai launches Booking Center to boost direct sales for hotels",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTENaZXJ0cXpBXzR5Zk1RZUpOX0R3akt1OENiUi1yb2hvM1JmYXVQQTdLM3Q3TElycEtEUEhZX2hnNnRCMnB0cEVwd25XWndLdFBsZkxHSFVxR3VkbEhhWHBxa2RDRkxjWjE2Q3pZNmdtd0d0NG1Mdi1NTHptNy0tb0s5S3dqTllmSEF6S1Q4M3I3VkVSR2s1amlWVjdjdXRjZG4yMVlWUGRtREU?oc=5",
+    "source": "Travel2Latam",
+    "published": "2026-11-20T18:40:09Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -1380,6 +1476,18 @@
     "image": ""
   },
   {
+    "id": "bf74e873e4e2f6ca89d1a8",
+    "title": "Germany: Kids take to streets over school, climate and costs",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjEwUVJ0b19TckJZczFfaXFqOFhkTVNZd2lwaV9ma2JvcGFmbXV4NzJESk13ZXhaZHplcmRkWTluaWVjZUtMY05aWTZLNXVSWmFtT3hwTXM1RkFtVzZJRFlTRlhyeEhrbTBKZXF2WTFfM1NEc28tWm5USE12U2dDN2lWeS1oWloyVDQxclpGV04?oc=5",
+    "source": "DW.com",
+    "published": "2026-11-20T07:48:30Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e6285a20a2b4f021b8ed02",
     "title": "Alex Dadey advocates trans-generational African business champions",
     "summary": "",
@@ -1426,6 +1534,30 @@
     "topic": "BBC Business",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+    "id": "8b6bd6c38b98fb322cf198",
+    "title": "Nextil Launches New 20 Million Euro Offering to Fund Acquisitions",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEtlVERlQUkyNmJBTmxJTFh6OG11MktWWlEySEpNNUJXX3NwaVNqTmF0ZFZaTDBCYnF1YXdXRExKSnNWdTJnZGszQzJRWVA0azl2VzIzSV9vRlN3aWZ4akxVTFFuWFRGQjEwTUZLOC04U1hTMFVHVC1mMlZSMm1VNlRYenlQaXVLeTZJV1hiYWRJcFVScUpsdUc0N0tjTkJzSDNkVEJ6Mk85T1lKeFktdy04ZEVxZjZDa2o2ag?oc=5",
+    "source": "Modaes",
+    "published": "2026-11-20T07:30:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "28bfee3533ac292f8011b5",
+    "title": "China President Xi’s Keynote Speech at the APEC CEO Summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGdoWi1SaGxpZkpzNFM2QnhpNlFrWFZMWlNhYTlZNk9HVUZwQ28xT012RHBjMlotTGtYcTVZMVBWNV9oNTBPOE5rSHhYdGFidkIxTlBpeWxkVVgwczBBMGM3MWZ2VXBmd3RtaHRjdnc1alhMRUZoTUNhZkxQeFdsTzh3QVRGVE54Q1VBNDZzWW96ZllNc2w4aEJNNllkYjVNaGZCTFh1R3dvbVlqUF8tQUE5eG0wR1F4?oc=5",
+    "source": "Thailand Business News",
+    "published": "2026-11-20T07:27:54Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "d953676649d79e5d42a926",
@@ -3324,6 +3456,18 @@
     "image": ""
   },
   {
+    "id": "4394f0aae06879c4fc6617",
+    "title": "Google introduces new Gemini 4 AI model Neon",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFU4UnFoUHZwYk83OXZNZV9TeHhiWDJtemY5Uk1veWRZRDdLQzRQVTNiRXlwNUVvT2FnOHpkbEpFNkFKSjlBdW9rUTAzbXVOeHlMbnpoNy1FWWhhY3k5UHgxdFJXaG55SHlRbkZRc251N2oyNXZFS2hBakp0bWtYOGN5YmthRkdQcjdqYTVOUHRkMmF2LUFzRTR5SlBxNWZOMDBpSFA1dkF3VHRGQXFFSktrR3hDUnpaME5mQkN6WUplRjlz0gHEAUFVX3lxTE4wVThScWhQdnBiTzc5dk1lX1N4eGJYMm16ZjlSTW95ZFlEN0tDNFBVM2JFeXA1RW9PYWc4emRsSkU2QUpKOUF1b2tRMDNtdU54eUxuemg3LUVZaGFjeTlQeDF0UldobnlIeVFuRlFzbnU3ajI1dkVLaEFqSnRta1g4Y3lia2FGR1ByN2phNU5QdGQyYXYtQXNFNHlKUHE1Zk4wMGlIUDV2QXdUdEZBcUVKS2tHeENSelowTmZCQ3pZSmVGOXM?oc=5",
+    "source": "Deccan Herald",
+    "published": "2026-11-19T16:40:50Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "eb2f6d1f6a76ebefd136a4",
     "title": "Dutch watchdog tells people not to buy AI smart glasses",
     "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
@@ -4820,6 +4964,18 @@
     "published": "2026-11-19T10:00:00Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a2ed596f3be4ede69a8256",
+    "title": "Skills, housing and AI boost in economy wish list",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vc0ltdDBlWi1jdGkxWW9PMFZZUHlydWFqRmpBbEl0SFpaWk5fakNiNnBPSWk1LUxQZFZxMGNOVnZKdEdhZVJ1TlVaY1JSUTh4R2s0Nkg4QU5ybTA?oc=5",
+    "source": "BBC",
+    "published": "2026-11-19T09:55:37Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -6656,6 +6812,18 @@
     "published": "2026-11-18T19:38:40Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "57132b125251dc9519383a",
+    "title": "Egypt Nears $2.3B IMF Payout After Staff Deal On Final Reviews",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVm56ZUpJZUJjZno2NVU4RmpRYjVXb1hnY3ppV0ZfVkVxZjFDLUJjUmxQZzB2eEpaVTFiekxDOEpCZURsWlR4d1V4UzdMWGhmUzZjTURkQnJOTlptWXFYeXY0Y3RwRnZNb3NuVHJ6bHB4QVFkb05rLThjbWxHUUZMN01tdHdoM1BOSXprOGlJRHNEX0lUbS1YY095OG9YWm5kdm82eWV6OFhybXZhaldIZmh2RkQ?oc=5",
+    "source": "Forbes Middle East",
+    "published": "2026-11-18T19:35:21Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },

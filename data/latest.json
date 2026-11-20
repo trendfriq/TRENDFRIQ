@@ -1,10 +1,94 @@
 {
-  "last_updated": "2026-11-20T19:37:11.609603Z",
+  "last_updated": "2026-11-20T20:33:06.029855Z",
   "articles": [
     {
+      "id": "c3f95a35d3ae9994a6f668",
+      "title": "US SEC Probes Nvidia's Accounting Amid AI Chip Export Scandal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3hjQ2NESFNqZWFacHVSYTBLLWIwenBvMVJ2WUJnMmNsUWZFWFhhbXM1SlpLeDBxaWhKRW9HOHhLbGk4b3g3dldWZWdHY1NGSE9kdkg4T1hsdnYtRzFfRFRhTUxCYUpybFR1d0ptcVE3MmdsSlpNdVU4YmJVWkNUS2F2TnlaQ01SYzNwd25mV0tSUm9uNS1yU2Z6M1c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T20:10:08Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "53ba164e0140f69fcddb53",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T20:00:53Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+      "id": "05d06a2ae37185a1550dd7",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T19:53:41Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812"
+    },
+    {
+      "id": "d020b8aa67dc21540cb490",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T19:51:52Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+      "id": "d88d0288efc8318ccde325",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T19:45:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "bb2fc70937be2d5b1381d1",
+      "title": "US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmJmUDJ0WXpXTnRmTzBXTHRuYW1OeWFSa2NTUmlzdWxfcE16LTlSckc2SURrSUtTMC1aV28tU2U3WEpCM2w3VmhUSXVDSkFEdEwyTnJUWW9pNnZKVHFMR2QzbC1Ib0FPX3hzbzl2cUdhb00xT0dwbTBYQUlJZUloR09TRXlQZl9pMzVkTGpwLW9ES2l4RXJ5UjBjbmhidw?oc=5",
+      "source": "Beinsure",
+      "published": "2026-11-20T19:38:31Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "580903835fa712d86c8cbe",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "source": "The Verge",
+      "published": "2026-11-20T19:35:06Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "id": "81e856d23e6ca9408619d4",
-      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
       "published": "2026-11-20T19:32:08Z",
@@ -62,6 +146,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
     },
     {
+      "id": "c04d6e21b0c2009a87972a",
+      "title": "GW Announces Inaugural OneGW Spark Grant Recipients",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHM2YTVDalBFWEFSQzUtby1TZ1VOYUt4S0hZMHdHRXBOT0M4VHk0U0ZTQ1llb2JwckM4RE00emI5bi1mb2pqXy1kQkJ1YVR0eEJHdUpuTFBOc3JhcjNRT2dzLU1wUXVEMmR0QzJsNXlEM08zNVlTZXV2VzNvbDNCQQ?oc=5",
+      "source": "GW Today",
+      "published": "2026-11-20T19:02:27Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "19df8f0cb63b63862b85e3",
       "title": "Opinion: Canada shouldn’t abandon the U.S. We must launch a new North American century, together",
       "summary": "",
@@ -94,6 +190,18 @@
       "published": "2026-11-20T18:45:48Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "299ad0f7d2e50e31032405",
+      "title": "Mirai launches Booking Center to boost direct sales for hotels",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTENaZXJ0cXpBXzR5Zk1RZUpOX0R3akt1OENiUi1yb2hvM1JmYXVQQTdLM3Q3TElycEtEUEhZX2hnNnRCMnB0cEVwd25XWndLdFBsZkxHSFVxR3VkbEhhWHBxa2RDRkxjWjE2Q3pZNmdtd0d0NG1Mdi1NTHptNy0tb0s5S3dqTllmSEF6S1Q4M3I3VkVSR2s1amlWVjdjdXRjZG4yMVlWUGRtREU?oc=5",
+      "source": "Travel2Latam",
+      "published": "2026-11-20T18:40:09Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -180,18 +288,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639"
-    },
-    {
-      "id": "53ba164e0140f69fcddb53",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T17:36:29Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     },
     {
       "id": "8857f24439da6050ad624d",
@@ -304,7 +400,7 @@
     {
       "id": "0d485e0dfc8d69ca836369",
       "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-      "summary": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. As they dropped, the wid",
+      "summary": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. As they dropped, the wide",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "The Guardian",
       "published": "2026-11-20T16:26:07Z",
@@ -394,6 +490,18 @@
       "published": "2026-11-20T16:00:00Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "309da99d778f4d960017b3",
+      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T15:59:43Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -986,6 +1094,18 @@
       "image": ""
     },
     {
+      "id": "94782615941f7124a50cfc",
+      "title": "Global growth to be marginally higher in 2026 supported by tech-related investments: RBI Governor",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFJ2QVFNZUJVa1Rvb0NlWmhiYmNhNWNRMlVlYUNHSGY0c3UwcWlrYlVpRmR2RFI5dmdEUmprQ1NkUGlYUUpkdUtISTFYLWJPVVdXT1Y4bUt0ck5HN3NueF9QQUxobWhPMG92ZnpfdGVPUVNvYUpPXy04b05OS3B1X3preFlkbVMzWnY3LU4yU3VicmpKOUw2UV93UEZNZ05oOUlGaHQ4UUd2Y2c1cW1PTHlkVlF5WGE0WS13TmJNbw?oc=5",
+      "source": "DD News",
+      "published": "2026-11-20T11:47:29Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "06d6dd2a82295d8ace21b6",
       "title": "Hong Kong showcases its unique advantages, forges closer ties with regional economies during APEC China 2026",
       "summary": "",
@@ -1320,126 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705"
-    },
-    {
-      "id": "5a32a78ba8e4778098e910",
-      "title": "DOE Supports Quantum Software Trials By Ministry Of Economy, Trade And Industry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0dja0xlYzBVbEZvM21GT3RKbGU1RHBGN3MyclUzRkFQS2ozOHQyLXJIeElnM0p0eWo2WHIwWXFwcmpQM05BYnhlWmdlaGVhRVAxWTlySUZXVmZUQXV6VnlHaExDQVh3TXM5bHZtQXd3bWc1UjVqempOVHMxV2ZIVWdsbw?oc=5",
-      "source": "Quantum Zeitgeist",
-      "published": "2026-11-20T09:12:49Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bd265bb0e3677460494455",
-      "title": "Sloan Announces Strategic Partnership with Marlik, Advancing Its Global Growth Strategy Following Strategic Investment in Essel, India",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZGpNSE41YjZySHAyeXAxU0tHUW04ejJtdmVULWhxZjRZcnltU1lrT3pkX0xOZTRrMHJDaU9jdlpJZjQxVjFJdF8xQTlLUWI4Wm9Fc2VqcGh2N1RhYlRodkdYS25kVG9nWWN2ZjMyVjJESExfUUswUFE2alg0VW5oNk1sYWJVNExiQ1FIZEY2OGk3TlJ5MnZhRC1CTHFTZ0lTWElEVjlIUU1xRmhrQkRKeWdQQnA1R2pWYUVHMG5FdEZKN1RPUjNFOEo1YkZjMy1TeHlQdXVGTDB5ZjVaTG5PMk5vWnpJSk95QnpaZnhEQlJ3V1ZHRW12bWpaSG1qbjU4STVQOTZPMlIyWmhJcFM2bms2QlpCZVp2aVpmOWYwREVhMGJqUXVLZHA3Y21QN0lYZFhnZk41OTLSAb4CQVVfeXFMTWRUSndZTEtuWkJCVS1NSTVwVFJxNGJZRFVvaXlPR014R3I3VzRoVGVkLXdBTkhCUmhpLXFYdDctWVdUQU9VWUFmSDY5YlVqcDRUU0NOa251NGt0X19IanFFTW5XMnJhWWlReHE0Qm5HTXpxY0Vya2g2clJLdkxGUzgtelduaVAybzFoWXpPVG9JVWxXVlZRcGFzUGIyRTc3ekdJMFBaczgzZnVTaGNWR1BQWEVPMjlsTl9LUGdFbVBqcW1zVm94SHlXTjY4UEprclBveFRnaGh6bzA1OElUU0hKX2hXWlQ2SjZ1RER3enhERFlON0JxbXRtQ3JyazNfekd1THFaV3hlMTl3OW9FZElqaW80YXJYX3p6VkoyandRb2t2UXlBc1NRT0NZcThlaDVDelFuWFRGM3ZnVXJR?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-20T09:10:02Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "28a28effa0a5bf8ff389d4",
-      "title": "Mediterrania Capital Enters African Venture Market With $55M Fund For AI Startups",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGpoZVRGY1FXU3RVSDV2QWV2Vmd3Nkx4aGxEb0RQVGlEcTcwQ0RtSDJmdEI2a3FvSHF6dzUwNVVXNTQwRm5WM0MwWkpKUXN0bFBvRS1VSlJVd2N0cDMtR2c2d0ZhY1hLbHZ0QlFnclZ4bFNqbW92RFFIV0hQVklGdA?oc=5",
-      "source": "Tech Build Africa",
-      "published": "2026-11-20T09:07:55Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0db06934141301423b52e5",
-      "title": "What is govt doing to fix the economy?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXdBc2FWLTBSMEd4ODFSaE5LQ3dVRTJUOW0wUmFYeEJZTVNUcTdoVkV5NmRIRTVRWmRFdHhPMmRnb3FwZ1d2RDRCMGZTTU5qVnZQcHkwSjFNWXZQVzl4OU9naUNmOTFuX3BFTDJNaWd1T21kWno5Sk9CaURwVWh2R29YMWthLXJSOWZkb0g1VWJSWHFQZ0JhRg?oc=5",
-      "source": "Daily Monitor",
-      "published": "2026-11-20T09:07:33Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8dab8ed6d2dea69790b760",
-      "title": "EUROPEN and partners found initiative to unify circular economy action",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdnpReVlpX01YRm51SW1WZXVkSG1DemNpXzFNSEN6SWhud1VUX0hHUTkwNjlTU24xODhkcTNyMEZ5OW1VR3p5dXlkSGk1R0lCQTh5RENXLS03QmE4SFFTeXZHUm52UnYxVERyQ1U5SmdqOE14Z01EWGN6Wkd4RVFmRnJDSWctM3BTbE15Q3FMaXV3cl9vZ3FGT3dCcWJJZDBmSnZnVDd3?oc=5",
-      "source": "Packaging Europe",
-      "published": "2026-11-20T09:04:46Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "69465d17130aefc94ee137",
-      "title": "California’s coastal communities on alert as biggest waves in years hit state",
-      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into Ca",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "source": "The Guardian",
-      "published": "2026-11-20T09:03:20Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=800d6c8c52ac392c0fcf3a581efa70c9"
-    },
-    {
-      "id": "516f6f77312c9f17a0a4e7",
-      "title": "Orange Commits Additional €250 Million to Support Tech Startups in Europe, Africa and Middle East",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHdmRDE1NEMyUUs1bW1HVXhRRmZ6ZExNY3BUS2VZS1FjSkRXWDZHODlrb1hkSGZyWHVlQVd3RnBjakpDNFV6emxQR3R5WG15MnZpd0twSnAwM3VBc01DY1J4ZkNXeWVGbWxLUC1BV2J3YkppSXRLcUlHc054RGthRElOX0hVMC1xOFplb1V2NVpiV3dONzBLYVk2OGhWbFdzbmtVcXpQd0lIT0o2QWN6NXRMbHNxVVpoMXNCd01sWE5VRHB4?oc=5",
-      "source": "Tech In Africa",
-      "published": "2026-11-20T08:51:25Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e0e27a855706370eea16f3",
-      "title": "German-African Business Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHZ0ZpQV8ySF84aVJ1Ynd4d0UxLWZjT2xSUFVycTJ3ZmJxV3k2TGZhN0xGZEktRTJyek1OMWx5VjUwd3VEQXdnUGlXcjBVSl80RlgzUkwtQ0dOcjllYXJ1eVlCa2xHWlRReVNEWU1BMWVzbEZ2?oc=5",
-      "source": "GIZ",
-      "published": "2026-11-20T08:48:59Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "083bb22a383971dee9d05a",
-      "title": "Women in finance: Accelerators of invention",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVhiOG01c1lsTDRiWDF5UE9vTmIyMGJobmdaRU1sNGY1TXBXNXEyYnBDaVZ0YTFtVVFlRU96d1BTWDBXVkJ4RXpNOXc2SG1XNDE2RmFYdXA0Q2hTRjBqNE8tUGdTTlUyd0o3cW9SQlIwb1JCU01PRTl1MHpremlOUnczZHJxMFF6?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-20T08:31:36Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8905ab3748d6914842d1f0",
-      "title": "Sloan Announces Strategic Partnership with Marlik, Advancing Its Global Growth Strategy Following Strategic Investment in Essel, India",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZGpNSE41YjZySHAyeXAxU0tHUW04ejJtdmVULWhxZjRZcnltU1lrT3pkX0xOZTRrMHJDaU9jdlpJZjQxVjFJdF8xQTlLUWI4Wm9Fc2VqcGh2N1RhYlRodkdYS25kVG9nWWN2ZjMyVjJESExfUUswUFE2alg0VW5oNk1sYWJVNExiQ1FIZEY2OGk3TlJ5MnZhRC1CTHFTZ0lTWElEVjlIUU1xRmhrQkRKeWdQQnA1R2pWYUVHMG5FdEZKN1RPUjNFOEo1YkZjMy1TeHlQdXVGTDB5ZjVaTG5PMk5vWnpJSk95QnpaZnhEQlJ3V1ZHRW12bWpaSG1qbjU4STVQOTZPMlIyWmhJcFM2bms2QlpCZVp2aVpmOWYwREVhMGJqUXVLZHA3Y21QN0lYZFhnZk41OTI?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-20T08:05:27Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
