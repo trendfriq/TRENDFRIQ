@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-20T16:30:35.686102Z",
+  "last_updated": "2026-11-20T17:31:38.652839Z",
   "articles": [
+    {
+      "id": "46d9a9545aa3181e7580e2",
+      "title": "Africa’s $4 Trillion Capital Trap",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm1jajFWdFNxRXFqby04RlFCSEJndmNkUU53bmlNbDFLMklXTGdnV1B6dl9LNWI0c0RhSmlJRHQzMWt4b29fYnJlU0E0WnBHeUZLOFJJTEpyb0g5bi1WQVhsUFFuSGprZ1BSYnp2TEJWQVdrRnZDMWsxQnV1S1Z5QTIyak5zMGpuS05iVA?oc=5",
+      "source": "Global Finance Magazine",
+      "published": "2026-11-20T17:23:02Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "43a4486038a97226354e0d",
+      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
+      "source": "London Evening Standard",
+      "published": "2026-11-20T17:17:38Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5aceaeb1cb086060ed4ee8",
+      "title": "TxDOT Study: Midland's Two Airports Generate More Than $1.2 Billion in Annual Economic Activity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KeVpURmtVM2tkUTVTRDB5c3NoLThWeVR6QUV5Z3FiV01uQUdSOUU0WGU0UW1ObzRNMnhNTmFhVXZleG5iQmI4blFIN2dRX1BMUThHOU1NTUlGQ0lpNTlINVUzOHdTU2JhM0NvdGhnZDE5X2M?oc=5",
+      "source": "Avi-Go",
+      "published": "2026-11-20T17:08:03Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bd44af55928dfdcf49fe60",
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series [&#8230;]",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "source": "The Verge",
+      "published": "2026-11-20T17:05:52Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tecd1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b1ffe06b42b6644bebf4ce",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T16:54:29Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "50da3b38d638e680f25f7d",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-20T16:41:52Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg"
+    },
+    {
+      "id": "675650dffca0c9d459834f",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheav",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "published": "2026-11-20T16:34:13Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "53ba164e0140f69fcddb53",
       "title": "Anthropic shares fall a day after blockbuster opening",
@@ -20,7 +104,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "The Guardian",
       "published": "2026-11-20T16:26:07Z",
-      "category": "Economy",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840bb47424232ef8465116aa8eea49a5"
@@ -38,8 +122,20 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Boys-Noize-pls-cr-Ian-Buosi.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "c7b3b5e73ae6b05a2084bc",
+      "title": "Jordan in Europe’s New Economic Calculations… The Test of Turning Trust into Investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nOVoxMm42enFzYUM2QlFiSk5wNlJHMWRyNG5EWjFJYjY0UzQzOVRneFVaQnVrcWxfZUJseWNlam5SOVpPNTl5SXAta2swZw?oc=5",
+      "source": "Ammon News",
+      "published": "2026-11-20T16:21:52Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e3e5304b33344b3f52b1c3",
-      "title": "Bending Spoons buys Mailchimp for $3.68 billion",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
       "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
       "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
       "source": "TechCrunch",
@@ -48,6 +144,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800"
+    },
+    {
+      "id": "6b4567410006f97b279f19",
+      "title": "PE firm TJC to acquire majority stake in healthcare events company HMP Global",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblA5bUJHYTdsbW1mZU81ZHNiU2VNUXBhSjdReVg4SXotNWxDd1hLZnk4QXRoSEowb3hLeEljUkl4UHhoeVRZaVpld2p5MV9NVGNiemh3SEN0bnlDY0pSXzVCUW9PcjJ5WTVWVDVpQ2ozUnZhUUQzMW9wQ0x1QTFJWXVzcWFsYXRieUs2UFNPQnVBSjM0TmM5VDNjcTFLWDRyV0RCLWN6VnRWTGRtWGRr?oc=5",
+      "source": "Medical Marketing and Media",
+      "published": "2026-11-20T16:02:52Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1dd44ac28af8e887dfa5ae",
@@ -60,6 +168,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Minotaur_Still_5_MKProductions_CGCinema-scaled-1.avif?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "6bbc3f0a7d7c521676571b",
+      "title": "Trade reforms to boost Asean GDP by 4.3 percent – IMF",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNWtUMXlOMXpsU1hqMlMwOUxoZ21RMzhtS2IzbTVNTi1ab3BoYkswendFQ242QUlpLTMxc3dyeEZyOUEzbHh4bVMyVFQtNEN2LVpLQmZzbURmc2Z2RUxrTFZILXFJQkktbTBxVjRaYjRDdDRGenZmUy1vbGVFS0thN1ZMYko2RHZWRGpZdDZoa3Brck5hMHpBOWVjWEQ5UdIBpAFBVV95cUxNQ2R6OEZQbm1BQlNoSmVEbDBEbDA0M2o3ZS1abEdWR0xORTFHZTdvdlFMN0t1d0JVdUdQd0d6WEJBUVhoNnBleTlPSWI0V1hjeG9pYko3bUFxeWprS1JEcHpZX2hGZUNFT2xXMzM5VHp2bWdoM3pUbHdkcEFFblNYTm9ZM0Vla2JjY2tJLVMwVzRsVHZHaTNfSExsUm1ndEtobnN0ZQ?oc=5",
+      "source": "Philstar.com",
+      "published": "2026-11-20T16:00:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "08e02bb46220c500524f0c",
@@ -105,7 +225,7 @@
       "source": "Qatar news agency",
       "published": "2026-11-20T15:50:41Z",
       "category": "World",
-      "topic": "World affairs",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -123,7 +243,7 @@
     },
     {
       "id": "439932c18a544a527a432f",
-      "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
       "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
       "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
       "source": "TechCrunch",
@@ -254,6 +374,18 @@
       "image": ""
     },
     {
+      "id": "7b3b932a0a22da2f00c221",
+      "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+      "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedford, Massachusetts. Its crew had spent the past 12 days at sea, recording mammal sightings, monitoring",
+      "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+      "source": "The Guardian",
+      "published": "2026-11-20T14:00:31Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04e2553b4d4184d31c913019ce4a334a"
+    },
+    {
       "id": "7f2b67838909d50c91cc97",
       "title": "Hearts United Wins $110M Pinterest Media AOR in First Pitch Since Launch",
       "summary": "",
@@ -276,18 +408,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
-    },
-    {
-      "id": "b1ffe06b42b6644bebf4ce",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T13:52:04Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "ba0af2e9704498e24d06b7",
@@ -638,6 +758,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "46a9874c03310e70357055",
+      "title": "Revenue rose 169% at AmeriTrust, but it reported a C$4.2 million Q3 net loss.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR00zY2hLOUMtUDE2bTZ5R1AxMXl5OTFkbHI2c1RkaTFrd3FIMmlyVkYwTVJka2pFTWNOVmNTeDhwYU91RTZEeUIybnJRUHpnOURaZXpTUWNmakRGZlNxaVhKTU96S2RObXV5V2NoTFFiUnJGSTY2RVFNbmxRaG1fSjhNdFpvS3k0R2gwaUxUd19JRzJFZEdMQTJPWXFDc2FNX1JER21tS1RGUQ?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-20T12:00:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fab316322a970d0f1440fa",
       "title": "NCC Boss Tasks Africa On $2trn Digital Economy",
       "summary": "",
@@ -771,7 +903,7 @@
     },
     {
       "id": "0e5fc9b767a7b5122cc1fd",
-      "title": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
       "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.” A Cu",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
       "source": "The Guardian",
@@ -910,6 +1042,18 @@
       "published": "2026-11-20T09:43:02Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8982306b31ddcaddde6a07",
+      "title": "E-vapor maker RLX's Q3 revenue rose 69.7%, while gross margin fell to 23.3%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVJwTTg1TjN5TUpidGEySTV0ZzJxQkFwcXVrMkFLQVlacFZROWhYQ29ON1hZc2QxVzB1VjNkT2hWTjJxYzhQQTJvckFnd2oyWXZMX0oxV1BNanRoR0lBdUJJOElZWFFVUGRoZVBoclVkdmxzSVhpZjd6bXk4MzZlZzBBQVNJQTVueUdzZFhzYV9PdkFVY0NlRk85NWZ3em1wRzlaMVc2ZGgwUTV6dERWSlZVOEZWUWlJ?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-20T09:30:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -1296,150 +1440,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "d80bfc89e11374a83204b5",
-      "title": "“China’s Rapid Automotive Growth Puts Japan at Risk”: As the Global Market Shifts, After-Sales Capabilities Become Decisive Beyond Price Competition",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tejNSLXlTU0s0Nk5nYUNQNTRTVHkwNTh3T05ibnE2RXU2eExQdkFkanl3M1lvbHR1cmwxRDJ6N3gtUjdOZHpHRWpNMm5IdWUtMUhNa2pRYw?oc=5",
-      "source": "https://economy.ac/",
-      "published": "2026-11-20T06:12:14Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "80896434aa4b2160ade0cf",
-      "title": "Anthropic IPO Fails to Lift AI Sector Amid Volatile Markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUwtUE1YZVRFcVdBM092SU82eWRwNjh3NThwMi1HUWtsa3VPdkszbmhlLXV1VUt2enZ0NmVTWHNFZU5QM3NWVktnVjB2RHpJUTZud181czNIUHVPdnhwVnI0Njl2NkhrajdWbERUd3l6UVBMNGctQkNrVlRHM1N0Uy1mbTVYdjJDU0piazNRZ2o1elFtSENDZjhn?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T06:01:16Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4cbea02f2f1beed2530c4f",
-      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-      "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-20T06:00:33Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "71816d57ec189191fbfb76",
-      "title": "Oura Counsel Health Deal: A Bold $625M Bet on Smart Care",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15YTh6Szhlb042TlRzT1h0b25iUmZaNDNEeHdBSVBwV3ExRmtSdzdfV2NyVV81VllxZW54cWJHSUtGNnBoc2ExU1FZTmxmaWh5aEw5Ynp0YlJ4MjdESTRYY0ZEWFB4bWZJVXVDNkhwcw?oc=5",
-      "source": "Global Brands Magazine",
-      "published": "2026-11-20T05:55:31Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "125d87dc0055ae05caaabd",
-      "title": "Swedish agentic commerce startup Wilgot secures $3 million in seed funding round led by Industrifonden",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUtGR3FvVkppWTdGU25qbmZHM0pFamhkeFd0TWpDRTdoVS00VjRtdThCQmY4VWdVempyX3ZfVDNLY3JEdi1lSGNoSHhQUEFWSGhjdzAwaUpfeHBDSVZUdk1kN2toZDVXcnlPRlRVbjRwakVxZGVUVzRvTVNRemQ4WjdMenl1clI5dWE1WHJ3U1JhT2Fnc2lOT28yUXhEVmFuQjVxLWxBbmpZYjVIRG5IWGhUWWZ5ODNVTUU2cENlNWhJN3lWbDJiZEFKQW43SnliWWpiN2dma3VfTlUyUHJhVEhKVDN1QUlv?oc=5",
-      "source": "Retail Technology Innovation Hub",
-      "published": "2026-11-20T05:43:33Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "393a599b6fc5424f85dac2",
-      "title": "Pakistan eyes South African investment in mining, critical minerals",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdE9uVHBxYkNfdEUxSEtMaFVRaHBiZ3dZVWtlTUZIc0FVZHNpT2RuRXI5MUxDTC1VNVc3eW4tRzBjMDBlRGFQRkJyQVBmR0JKZGd4RUxCa1pjaV95VHFFa2piWC1EckpkM1lkQVNHeGhTbVNPUFdHU3BFb04zdmRTYzE4VmstWlJaU2Q0R1l4VlJ5Szc1TFpSZEZidnE1WUJSWVdqYnZLenlqQXRUeGc?oc=5",
-      "source": "Investify",
-      "published": "2026-11-20T05:37:26Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "41f14ffc4ac08e628189b6",
-      "title": "China-Africa economic, trade expo opens South Africa session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QelNreGtVSW9EQkFXbzVKZlR5d25EX0c2VC1lUTVESGhvWUcxV3ZoRHVzS2dGRFM5VFJscUtjVlhid3dFM2dBb1F0YlF3bnFVY016RDZMZ05WWXM1ZHZCb1dScw?oc=5",
-      "source": "People's Daily Online",
-      "published": "2026-11-20T05:27:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "591bcba615e969f9fccc53",
-      "title": "Asian American women feel the impact of Nvidia CEO affair scandal and 'spy' accusations",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWVOamFpVndxZXVzdzlRU3c1WXIxTFRjVWgySXAwYlJfMThCbEpKSkJ1UFN4OVRHQm5RNm9pWXhKZzRyaEJac2l5MDNlWHdWa3FaVFdXR0MwZ1QzUE55dEZtcWZhY0dQVlpwMnQ0RWxyeGVKU0NyRlc2YnhDekRSOU9yY194TVVYcWRPMGNyR19XYlJnYWxrQzdKT1piMUxZTzFGV2VPenNXc1FwdFptVjhrNmVuZGtscGxhQ2V3M25fY19WdlE2XzlOTHdoYmFBRl9LcndnYUI2eGp4S0E?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-20T05:17:41Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9a892121b46f8a73d6c460",
-      "title": "Meet the innovators exhibiting at Bengaluru Tech Summit 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDl0YVRTUU1yOXZJS0FpNnN2T3E2SEJEUV93ckI2a3Btem8xVHdjaGh0c1BEdEVMQS1udmJLdEZHdVFDT1l0X202d0RBdUtTZzYtTl9VVmFZTnVNSFpUYTZRTEFJelpuUHhMWVBpYlgyWTF6Z1NLdC1XWlFPUFZsc25Mckx3UjVVV0ppZk4yczM?oc=5",
-      "source": "YourStory.com",
-      "published": "2026-11-20T05:15:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d1eb2e926f15aafc02b53",
-      "title": "The $13.2 trillion water challenge: H.E. Abdulla Balalaa on financing the world’s future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdElpenl4cVBLRlh1Y0xkb1l3aWdXc09fa3RlWGFTXzFOTzFPYS1rdTgzNHU3VzBCZEV5TFlWY3lXNXhHX1pWUlBQQmhPdGtfWG90M3ZwbEFoMWxhMU91UXhVZ2lwTTYwc1RTVF9xeVRiUzJqMWdZOE9oUzhzYjFqbGU5SVpWMGRlWENPMTlpWjl5bGt5aFk0bzc5MXB6R3AyUzgtaE0xcmYwalN2dXY5U0RjZkVKZ1FhM0E?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-20T05:02:10Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e8c7468edd9574d2841ddd",
-      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VJZTNNUzNXdEdsUVUzZDZ4OERpNzVSOUxfM2I2ajdtVDlRWHhDdjBCN3B4blRpSl96RTNZaEtHeXVjZzFIOUJFYm42OFNmNmNoa19SSUVudTZKT1gwbFMxZ3Y5c25QYlgzMk1Id1E1RXhONEgyWEN1Z3g0bmoxcEo2VGQ?oc=5",
-      "source": "Financial Times",
-      "published": "2026-11-20T05:01:49Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e82d380a21676abe5ff25d",
-      "title": "Race to be next UN secretary general exposes divisions among world powers",
-      "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers. If so, the setback will ",
-      "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-      "source": "The Guardian",
-      "published": "2026-11-20T05:00:24Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c1b6fe3cec08e941e8066b96ef89b92"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
