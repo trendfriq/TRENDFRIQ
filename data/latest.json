@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-20T05:39:05.920537Z",
+  "last_updated": "2026-11-20T06:46:29.109073Z",
   "articles": [
+    {
+      "id": "80896434aa4b2160ade0cf",
+      "title": "Anthropic IPO Fails to Lift AI Sector Amid Volatile Markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUwtUE1YZVRFcVdBM092SU82eWRwNjh3NThwMi1HUWtsa3VPdkszbmhlLXV1VUt2enZ0NmVTWHNFZU5QM3NWVktnVjB2RHpJUTZud181czNIUHVPdnhwVnI0Njl2NkhrajdWbERUd3l6UVBMNGctQkNrVlRHM1N0Uy1mbTVYdjJDU0piazNRZ2o1elFtSENDZjhn?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T06:01:16Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4cbea02f2f1beed2530c4f",
+      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-20T06:00:33Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "125d87dc0055ae05caaabd",
+      "title": "Swedish agentic commerce startup Wilgot secures $3 million in seed funding round led by Industrifonden",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUtGR3FvVkppWTdGU25qbmZHM0pFamhkeFd0TWpDRTdoVS00VjRtdThCQmY4VWdVempyX3ZfVDNLY3JEdi1lSGNoSHhQUEFWSGhjdzAwaUpfeHBDSVZUdk1kN2toZDVXcnlPRlRVbjRwakVxZGVUVzRvTVNRemQ4WjdMenl1clI5dWE1WHJ3U1JhT2Fnc2lOT28yUXhEVmFuQjVxLWxBbmpZYjVIRG5IWGhUWWZ5ODNVTUU2cENlNWhJN3lWbDJiZEFKQW43SnliWWpiN2dma3VfTlUyUHJhVEhKVDN1QUlv?oc=5",
+      "source": "Retail Technology Innovation Hub",
+      "published": "2026-11-20T05:43:33Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "41f14ffc4ac08e628189b6",
+      "title": "China-Africa economic, trade expo opens South Africa session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QelNreGtVSW9EQkFXbzVKZlR5d25EX0c2VC1lUTVESGhvWUcxV3ZoRHVzS2dGRFM5VFJscUtjVlhid3dFM2dBb1F0YlF3bnFVY016RDZMZ05WWXM1ZHZCb1dScw?oc=5",
+      "source": "People's Daily Online",
+      "published": "2026-11-20T05:27:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "e82d380a21676abe5ff25d",
       "title": "Race to be next UN secretary general exposes divisions among world powers",
@@ -12,6 +60,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c1b6fe3cec08e941e8066b96ef89b92"
+    },
+    {
+      "id": "e8c7468edd9574d2841ddd",
+      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VJZTNNUzNXdEdsUVUzZDZ4OERpNzVSOUxfM2I2ajdtVDlRWHhDdjBCN3B4blRpSl96RTNZaEtHeXVjZzFIOUJFYm42OFNmNmNoa19SSUVudTZKT1gwbFMxZ3Y5c25QYlgzMk1Id1E1RXhONEgyWEN1Z3g0bmoxcEo2VGQ?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-20T05:00:17Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "4fb5c2f96b6323dca2a0ec",
@@ -99,7 +159,7 @@
     },
     {
       "id": "5ef06037f3faa4d55810ac",
-      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -243,8 +303,8 @@
     },
     {
       "id": "923a007fa0f3d1a776a499",
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
       "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-20T00:13:21Z",
@@ -336,6 +396,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "69d6b29d35c9d15982db2f",
+      "title": "Daimler Truck North America eyes Texas for massive plant",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHJlQVNCbTF2YU1BMEU1Z3BzeHpUM2RsQ3lHcnVNYnJwRWpTdXc0TmFPdTdZakNobXIwNzY1ZGE0bXdtMUg2WDVaenRKWnhUM3gtMnQxc3pOcWhVZ1FvckFLRkhaMHQ3bVdNS1VyNzExVjF0UGZtTVdndGlOM3FqZzZzVmtCcFpfMHc2Z3N5bzlCVXVQd2xBRWREV3pyNjU5Z0NvOEt5WQ?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-11-19T23:22:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "a178720431e75cf71a994b",
@@ -1084,7 +1156,7 @@
     {
       "id": "b5b4456068dd8b3b5f1d98",
       "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-      "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Business live – latest updates Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out ",
+      "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day ",
       "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
       "source": "The Guardian",
       "published": "2026-11-19T18:15:48Z",
@@ -1368,78 +1440,6 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg"
-    },
-    {
-      "id": "240fe3ae1b868673bfe9ce",
-      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "summary": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or worse, hide it behind some convoluted enterprise subscription. But against all odds, Microsoft was a good steward: The app [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-      "source": "The Verge",
-      "published": "2026-11-19T16:28:12Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Microsoft-To-Do.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "491ba4862cfa7c3645449f",
-      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXUwX2NyM3FKYkJCN1JLZDQwMnJ0VDRuUzNFeU14Y0tLMWtreXlKMTdqRExxRUJHZ0RHWDNOQ2NMTEJhYlJLd2dPRm4tVExUSVVCR25rUDE1YVB6Skgtb0s0ZWs3WUtRZzV5NWRxRjBlVVp0UWRzZGNTUkFxMlNFZ202MlhISHfSAYwBQVVfeXFMT3p6czZoYjdmNkFQVmN2ZFhtNW1CUjRIRVVSY00wVVVZVWl4dFRtcy1vZl94ZS1FV3FTSnU2bHJ5dXE5MWN0Q21MbVdOaHRfdm94Y3VMVlBjTmhBSENfQ2NlaXBOSkF4Vzh4NFBTSGZFVWJzTEZFdktLTEpLbFkzdVNhTEdUenQwT3Nyd0w?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-19T16:28:06Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f76e15c6450ff67d52fa8d",
-      "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
-      "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
-      "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
-      "source": "The Guardian",
-      "published": "2026-11-19T16:24:13Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/e5c40ff59ef47cd73480080f50cff6aee0a18c5f/115_0_3086_2469/master/3086.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42619ddfd913f1d2d06dc223557d2106"
-    },
-    {
-      "id": "30b1990d195d30632eb594",
-      "title": "The Stock Market Is Flashing a Warning Sign for Only the 6th Time in 156 Years, and History Is Clear What Direction Stocks Could Go Next",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR25Jb3ZpQmkzTlhoMFl6MkJMRkxZRUpobGRSc3VuSEt6TUszNU9qUmN2NWVaMjNuZzBCNENwaTZETHpBNmVrbjA1TFh6YzBaejdCVlkwcmwwSVJFZGZscVN2TzM1eXVMLVk4T2RhRzQ5Y1l1WW5TRlYzX09ld0dfT2RIMzdqVkFDOUVjRFNndktRZ2NIMVFWV0pvbzBuT3pH?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-19T16:20:02Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d708a4dbf97db5f26e8698",
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T16:19:41Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594"
-    },
-    {
-      "id": "6f0076bb9c0b59d4a18cd1",
-      "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
-      "summary": "Ahead of Black Friday, you can subscribe to Paramount Plus for just $2.99 per month for the first two months. After the introductory period, you can cancel your subscription or automatically renew at the then-current rate, which, as of now, is $8.99 per month for the ad-supported Essential plan or $13.99 per month for the [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
-      "source": "The Verge",
-      "published": "2026-11-19T16:15:01Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23617470/SNW_Ep104_MG__010746_RT.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
