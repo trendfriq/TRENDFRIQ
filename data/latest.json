@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-20T17:31:38.652839Z",
+  "last_updated": "2026-11-20T18:31:18.860997Z",
   "articles": [
+    {
+      "id": "96853c2bcb76b246ee84e9",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T17:54:37Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+      "id": "b489ac03011e847af2dfdc",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T17:49:48Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e5/live/f4ea50b0-e505-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "fc059eec5b023eb85950a1",
+      "title": "Chips can survive the space environment. Can their financing?",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T17:40:01Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639"
+    },
+    {
+      "id": "53ba164e0140f69fcddb53",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T17:36:29Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+      "id": "8857f24439da6050ad624d",
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a chance to [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-20T17:33:59Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "46d9a9545aa3181e7580e2",
       "title": "Africa’s $4 Trillion Capital Trap",
@@ -86,28 +146,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "53ba164e0140f69fcddb53",
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T16:27:47Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
       "id": "0d485e0dfc8d69ca836369",
       "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-      "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. Shares in the frontier AI company, which floate",
+      "summary": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. As they dropped, the wid",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "The Guardian",
       "published": "2026-11-20T16:26:07Z",
       "category": "Brands",
       "topic": "The Guardian",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840bb47424232ef8465116aa8eea49a5"
+      "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0"
     },
     {
       "id": "68c2e82b47836c24e20e36",
@@ -303,7 +351,7 @@
     },
     {
       "id": "507fd81809a6d69133de5b",
-      "title": "Trump to hold press conference after meeting with Xi and Putin",
+      "title": "Trump holds press conference after meeting with Xi and Putin",
       "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
       "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
       "source": "NPR",
@@ -311,7 +359,7 @@
       "category": "World",
       "topic": "NPR",
       "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4462x3301+0+0/resize/4462x3301!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F6b%2F46915cb347f38e28da875203fab6%2Fgettyimages-2305282124.jpg"
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/5742x3827!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg"
     },
     {
       "id": "edcfe7bbf8cbb2efd8879d",
@@ -911,7 +959,7 @@
       "category": "World",
       "topic": "The Guardian",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/f0631e7f0d066c593ed1ce2fa13d17cce80723ae/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4daa459d48d0ca0574c01437b26f0ae"
+      "image": "https://i.guim.co.uk/img/media/753c8bfdbccb0b49e67ae5dbfac970caa7c20394/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45d3388ff0289ade4e800d5054ccdef3"
     },
     {
       "id": "7065d4af3b02e64125f853",
@@ -1095,7 +1143,7 @@
     },
     {
       "id": "88264271f833195f59cac6",
-      "title": "The U.S. national cyber director is stepping down",
+      "title": "The US national cyber director is stepping down",
       "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
       "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
       "source": "TechCrunch",
@@ -1390,54 +1438,6 @@
       "published": "2026-11-20T06:56:47Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d3335cdf219828a048bb33",
-      "title": "Kristalina Georgieva Urges Tighter Policy as AI Lifts Inflation; IMF Forecast Credits Energy Most",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDh4R19IbUJScTJjT2paSy1tUGE4N3diX1dnZWJTWVlrYkQyd0tGTDdFVHBaZGJxOHhubVZReklMdFcyNGNvVjdJUnJ0SnM2NHBwcFhuWmtpLUNOUzY2MEEyVlMtN3RxaG5YS2ZGNm11SjZJZ2E5Z2JSNEdVLTVTZ3VodER2N0ZJZlBOdzd2MmNIWVVOOXVKX29nZmNIN3JiRmY5MGdxcGNPWjdRYUpHMEl3NGVrMmZLb3I3a0gzc3ctdVFsVGpLdVpOakZsb2JySk84YTFsMXNkdmNVUVZaa1VB?oc=5",
-      "source": "Tech Times",
-      "published": "2026-11-20T06:55:35Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c8cbc07c0aa7aeb67a2a8f",
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T06:32:17Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5d/live/2a0c8580-e4a0-11f1-a01e-f1ba573bc781.jpg"
-    },
-    {
-      "id": "59de283a69ef3db435b665",
-      "title": "Quarterly Earnings Review: Mixed Results as 53% of Companies Report Profit Growth in Sep-2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUDZ6cnFrSU5EVGRoVkhrSTF2QWNyVnF1dnlKVzB3c2pxNkw1NHFPbmF1b18tZ0tVSHI5N0puOTFfRk81YzRRWU5jdkV3NWgzcTBBeTREMUp3MGd6VlFwS09zM1EtTGZ5Qmo1dzVfZWFaeWpIX3MxYmg5N1lzbjNuOWxNYTZHanFvR1JYRUlqVWNCNklQOWptNGczQ0x0NWdqSktENXdaWEJuLTZZb1lBaVBfbVRHNGpndFoxVUhWVUxiSWlMSi1vV1B4Vnc0U29LeEdjZlBWS0MtTEVHMC13R0otM28?oc=5",
-      "source": "MarketsMojo",
-      "published": "2026-11-20T06:32:17Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "155a6cfeb41c2b341ed0ab",
-      "title": "A rare EU-UK summit as Andy Burnham seeks to mend Brexit damage",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOakJrVm1pS3hYNUxMc3pEbkNtZ09LM09WN19yTTV3Tk53ZU5nZFYzbXpMWHdDaElXWml3OERZanJfYjNjUW1rcUtZUHRWZHR6Qlk5bE91SW12bkhnRmNyLUVITklITXpFZmtFRTNtT0N6eGtfUVpzTm5aVEZhWm92a0Z3VGZLMllZdF8yV0JZSTNoSjBWMHpDUVNIOHhoQ0dzM3Y2bnpmd1loMkpSbTcwN2VNVUVlVEQ4ZEtranZzUHJjc0pkVGhUOVQwdWNlcVJWYkNqS1JydXUxVnc?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-20T06:17:41Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 21
+  "source_count": 10
 }
