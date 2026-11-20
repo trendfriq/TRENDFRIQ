@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-20T21:24:29.432230Z",
+  "last_updated": "2026-11-20T22:23:59.247182Z",
   "articles": [
+    {
+      "id": "ee7ac155aa6b0f0b24eb27",
+      "title": "Robinhood Markets falls 9.44% in Friday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW04RjRmV2ZWbGlTeUVqMF93V04zTjlSV01Qa09ONlhYTlNMUngwLXZpdlJEREM4TmhEczBMV0pSZEwyeFFyd01VSmtUVzk3ZFltZm8ydmp6X2lTa2pNWkhJY1pFTmNQUTJ2MUgzQkFfMUplZHNRVWRLMUJvZlRnS3czZmlKZ2c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T22:21:11Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b8e9fa21608855cfca266b",
+      "title": "EU Gives Partial Approval to Poland’s Final €12.7bn Recovery Payment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3NyeHJWOVZrMFA4TmFMYmxSR2VRWl9FQndyTE5CQkhFQzBLeG5yaHF6Q3Mxb3hxVV8zVU1ua3RfU1EwUGR6STRWZ0w5ZEtRUVhmazRBR2ZCRUtUWTY0N01HRi1xVnNrQWhaVGZrcHNsOXQxNnROTmdRdlpZdzhNeE9uajNoRGNCanRwMg?oc=5",
+      "source": "CEO Magazyn",
+      "published": "2026-11-20T22:00:34Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c520d2a1ddb57e76c867a9",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T21:57:07Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
+    },
+    {
+      "id": "0d485e0dfc8d69ca836369",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "The Guardian",
+      "published": "2026-11-20T21:38:17Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0"
+    },
+    {
+      "id": "64747c00c2093235abcbb8",
+      "title": "EXPERT COMMENT: Football's financial model gives certain clubs a clear advantage, new research finds",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW44a1hVM0hTRkdnUlQ0T292djlfdUdraWtDMlpKa0VLd3ByWGZ2dnNxQm15X3l3bkJmdkV1b3NzSzhSV3p0cHl2NENpTTNfZGJYV1hQWlBWM3lHLVBTR3JVNTItSTZhWFNCNHZEOHRla1BJb1RjcWxfNlFxdXhZMjBCMnVDc2VkUnpRT1N5YVAya0JlaTRJY3djeEE0V3VQcGhiRHpn?oc=5",
+      "source": "Loughborough University",
+      "published": "2026-11-20T21:37:57Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "401fb98f6d082662b3b40d",
+      "title": "Another day of survival for a family in Ukraine",
+      "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+      "source": "NPR",
+      "published": "2026-11-20T21:32:31Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
     {
       "id": "6ffbedc2adc10bf897945c",
       "title": "Alpek SAB de CV falls 3.14% in Friday's session",
@@ -15,7 +87,7 @@
     },
     {
       "id": "d9d43296365478917c08e4",
-      "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
       "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
       "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
       "source": "TechCrunch",
@@ -35,7 +107,7 @@
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "28a72b175fa002be3c86f6",
@@ -470,18 +542,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "0d485e0dfc8d69ca836369",
-      "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-      "summary": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. As they dropped, the wide",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "The Guardian",
-      "published": "2026-11-20T16:26:07Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0"
-    },
-    {
       "id": "68c2e82b47836c24e20e36",
       "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
       "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7LLVSION had been knocking around [&#8230;]",
@@ -502,6 +562,18 @@
       "published": "2026-11-20T16:21:52Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e38e30f73b7cf7452da60c",
+      "title": "American Express Elevates Jessica Ling as Chief Marketing Officer",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzJGQ2hJSVRMR19KU3BSWHZlUkxRWmVvcXRHQ0JSVVJuT2p1bmowUDh5cTNpMVlxclEyWk54Y0xyQWZ5QnA1eTZiX2pHZTVhc2Z2cHc0cGladEFXaGJjbTRBLWtmMDhsRmZtUENLQ0ZqMkZsS3h4V1lyakV1YXBhcnZxby1MbUs3Zy1zRER3?oc=5",
+      "source": "https://hrtoday.in/",
+      "published": "2026-11-20T16:20:15Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1298,6 +1370,18 @@
       "image": ""
     },
     {
+      "id": "8a266b1615f6467244a70e",
+      "title": "China's Shaanxi Province Seeks Hong Kong Investment to Boost Industry and Technology",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWlLUkJSSE9zU3otLVVGVDBMQU9MZDVUS2FybUpLWWh6OVBWVlNlWEh2RndZZEhSbUNweVJhWVh6U2dKd2JJbHpmU3lVeDlmY0NiMTl5dndGLTBNbkhQaHJnMEstOUNTdlM3NjRzd3NLQkRxS3VtOUtfZ2NQR3hLbURwWHBKNzZDYnZEYlljU0hPa1dpdWVKYUxiRktYaVA1MXBaMFgySDQ4VlBQbTFBZ2ZrQVJjQzItWkMwdV9ZcXVvWURCVjRzNzBQZHhwMTJIR3dmU2FyYWxxeC1vQnVaUUdyeXRpdWo5MEpzMDY5ZXHSAfABQVVfeXFMTzlpS1JCUkhPc1N6LS1VRlQwTEFPTGQ1VEthcm1KS1loejlQVlZTZVhIdkZ3WWRIUm1DcHlSYVlYelNnSndiSWx6ZlN5VXg5ZmNDYjE5eXZ3Ri0wTW5IUGhyZzBLLTlDU3ZTNzY0c3dzS0JEcUt1bTlLX2djUEd4S21EcFhwSjc2Q2J2RGJZY1NIT2tXaXVlSmFMYkZLWGlQNTFwWjBYMkg0OFZQUG0xQWdma0FSY0MyLVpDMHVfWXF1b1lEQlY0czcwUGR4cDEySEd3ZlNhcmFscXgtb0J1WlFHcnl0aXVqOTBKczA2OWVx?oc=5",
+      "source": "The Manila Times",
+      "published": "2026-11-20T11:15:10Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "824ee5ea45a3f1453b2239",
       "title": "Take Five: Shopping, chips and central banks",
       "summary": "",
@@ -1356,90 +1440,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "4530073cecc4311bccbea6",
-      "title": "RAM Expects Malaysia’s Economy To Moderate Between 4% And 5% In 2027, OPR 3%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNE9PQUdoWGFVcTVvM0lGLUVLeUpPNjNMSkt2bkw1LVRidWtLOUFJYmIyNFV3NWpjbzdFY2kyRC1uMXdUWEx4RFBXb2ZXV195WDQ3dWcyU2M2X1hiZHJ1enZmT3hmN2FUZFgwNnVGZE91QzFNVFY5aXFpS1hZcUdXdmRibnpBZm5XUVRHYWxsa3RpaFp3T0xkcTdsVXRxSE1GWTcwak9MSUc2YnRjTC1SQ3pwU3d4ZWM?oc=5",
-      "source": "BusinessToday Malaysia",
-      "published": "2026-11-20T10:28:51Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "63de86082a48e2c8ae6d47",
-      "title": "Abu Dhabi Finance Week 2026 unveils largest-ever partner-led programme, expanding investment and international cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUEdMdmVLUTZjU2M4bzFDOUJrUGI1a0luWkVkazUtYUdlUTN4LTMwY2R3X2hCamZwUFNzZXhZZUhlSGVBaEZBbHNMd2NLbk9LTUJGVXkwRmo3Yy13SWZCTHBRY2E5SU85U200dzlBUGRvUWpnWUFkcHktWGh2UFVUbHFyUnJJbkk4TEVSZUlFN1pxYXVPbngyUG9EYVJmNEVCV01vQUR1dDlldENDbFhhUmx5WVljRlRjZFVvNmpYU0h6dUxJeE52Z0trbkNhQWp4N2dpVzc3Ulo1Yk9zc3ZZSlVEanotQjhxaGtXdXVEZm1neGZqSkxUVHdB?oc=5",
-      "source": "مكتب أبوظبي الإعلامي",
-      "published": "2026-11-20T10:20:45Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ff5afed7ad5ce55282c2b8",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T10:16:19Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg"
-    },
-    {
-      "id": "a3d9febe56831522389db7",
-      "title": "Will AI break the internet? | Garrison Lovely",
-      "summary": "Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realm You’re not crazy to feel the world is coming apart at the seams. Within the last week, outages took down core services at Microsoft , United Airlines and JPMorgan Chase . On Friday, all US domestic departures were grounded for the se",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
-      "source": "The Guardian",
-      "published": "2026-11-20T10:00:31Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d0d3e01dd99c16399c8dbc88cf6f6b915811600d/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=14805c38b046ae51b0e40e89e9b20e15"
-    },
-    {
-      "id": "ef6cb01663a75a97fb86fc",
-      "title": "Protolabs Announces GCC in Hyderabad",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcklVRnVfZnlaTUoxbTVZdmFxSUIyZjVTODJ5eXZXaTZsRjRDTUJFMi1UelJGUzYzX3BHNXpXTlVzaGp4LWZ1Ml9CTC1BblZzendleW9PWE56UTV0QmEyaXZURGl0YjZSMFhKMDZnYnQtUW9OcXFMZllyWjFNZnA3MGppTk8yT2lfUVhmT3JR?oc=5",
-      "source": "Electronics For You BUSINESS",
-      "published": "2026-11-20T09:59:41Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8ed3b8e122b2245df6421b",
-      "title": "Korean Startup Picketing Launches v2 of Its AI Ad Platform on One Rule: The AI Proposes, the Business Owner Decides",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSXB0R2ZxOFl1TklWMWY2elhyRHh3S0M4b3pnUnVJdzVVSzRRN3JpN2VvU0NOVHluanowZTFlRktmc0JTV0dULUJJd2I5cS14ZVFna2RJZ3JfU3BYeTlGcG5uU1hxOHAwa1VZX09LNzNkUnFpRXV4RS1UeU9CWUJUa3YwUF96YjRKYUtsNFpSaWQtc0Vpcjl0blY5Y1RtdEdYM3VWOG1hdE13Y21ZdkhoRkNLMHo5SVdCZmRnYzFsUHA0SWxMQTI0Z0hJRUptcTVSMFplZzQ3Q2RWQmFRTmk4Z0tGWmNXS1JZX2hDUko3RWpMSHA5aWRscHkwVllyQQ?oc=5",
-      "source": "The Detroit News",
-      "published": "2026-11-20T09:47:02Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cf3caef10eb550cc6cbb9a",
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-20T09:44:56Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg"
     }
   ],
   "countries": [
