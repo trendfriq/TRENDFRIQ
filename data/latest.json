@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-20T00:20:32.712898Z",
+  "last_updated": "2026-11-20T01:35:58.948647Z",
   "articles": [
+    {
+      "id": "8288c457eabd2464774e38",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:56:01Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+    },
+    {
+      "id": "92ca9ff247094edd5ced5d",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-20T00:50:24Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "8adaf4eb836bb9ce55e89b",
+      "title": "Elumelu rallies investors for West African economic integration",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlNYQUxjejh3ZTkwNFBwT2dtWHhGcFlfNjAweHJHdFpfNG5pcTVnUUVXcVB2ZGtpaGJYVGQ3VmowZE15ZkZtbDkwWTZzdG5PWUJpemJCTVJ0UlpPWm4zckdabEdsRE9ZcW9IY1hTQ3IybVNacDg3Z3M3bFNQME5MeVJaanFUUWlySVE?oc=5",
+      "source": "The Sun Nigeria",
+      "published": "2026-11-20T00:48:14Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "327354b7a28e2854b8fde8",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:43:50Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
+    },
+    {
+      "id": "550b81f7ebad66492965c9",
+      "title": "In India Inc’s record Q2 profit, top five make up a quarter",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW8xUGZSajl2UHgwdy1xM2ZiUi1veDI3Um9SWGVzNVQxNG1mSl92WGZjSGI5Ympxd3g3N2tWd0l6dTVuOUhfeG5uTTV5MUN2ek1HbkY5ejFLdVkteFJwOGVMVmZDMndGMnZWWXEzVHVwSkxSblVqcWxfVnh6MmJVdG1QWWNWektPNGsyay11MFkxOVFsWHBJUkNMb3ZMRlEyMVRxbG0yZUhIM2E1S0xGVDBTbGg2d0F2VGswaXVOblQ3bWcxZ09QdUdMa9IB0gFBVV95cUxOM0FuUHRCSzIybm1PVG4wWVRfMmkxbTA3QkxvZTRfVlNqMFZ5N2h2YkltelhOQ3IwbU9Cb29VYldsakR2d3N5VlowS3hxYWRxanVjY19MUlEyRWEzUXVfM2pId2RBNGk1Q05xQTJ1ajgzdFRLSU1WOWlaWVV1QkdyWUw5MUdtOW9HMm9oOWw5YnVWWC0zTVpJN2dVOVVmV3pMMHRyaFFPMGxoWGhvc1VXaWo4UzEwNWlLWWpHNVdSZHNudGhYZmE2UDFKMHE0VVQ4cUE?oc=5",
+      "source": "The Indian Express",
+      "published": "2026-11-20T00:30:06Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "126a1d2c7faef337fba6a2",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:26:03Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601"
+    },
+    {
+      "id": "8cfc747fb5177f5ac20d8a",
+      "title": "SICIT Plant, TIF Audits, EU Trade: The Week in Agribusiness",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHhMOW1jVW85eXVDRTBuX0tTUXFub3NpR3JDdWNXd2dLOTZjWkN5azY5RnJaWmhzcnFlY0RmNzI2UUhtU2R6TExRYjFkb3h0VExTbjNMVUVxdjVRSHBEVFU0RTYxaGxKeE00XzI5cURPZGdRU21vcXlkVmdLeTFzN2hULVpXbjhjUDRRa1hKWFp3QVBjeU9Hd25Zbw?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-20T00:19:40Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "923a007fa0f3d1a776a499",
       "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
@@ -12,6 +96,30 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
+    },
+    {
+      "id": "741b86de2f3182a9c086d2",
+      "title": "Airbnb's divisive new house rules come into force",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-20T00:12:28Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg"
+    },
+    {
+      "id": "c470866a6d60f0365183ce",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-20T00:08:37Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a2/live/ef6d14f0-d93a-11f1-95ea-8df9a040b6bf.jpg"
     },
     {
       "id": "4bbafec6b8ea82af1d94f0",
@@ -290,18 +398,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
     },
     {
-      "id": "92ca9ff247094edd5ced5d",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-19T21:21:43Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
       "id": "b157739179d08bd25043e9",
       "title": "Icecure Medical US listing rises 24.08% on Wednesday close",
       "summary": "",
@@ -478,6 +574,18 @@
       "published": "2026-11-19T20:04:49Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "24ec67ff8838c0dee6d432",
+      "title": "Arva AI raises $20 mn Series A to automate banking decisions with AI agents",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13d3owcnJrdFpjRVQxMVBDOG9iS1phcFltbWRKYTlwaWY4b2FJdUxnak1mTlF3TGhPRXY4OHNoT2Vhd2VRMDRteU1FT1lWVVdaYm5CejM4RU02T0o1TVZUaHdkaVFhZw?oc=5",
+      "source": "Beinsure",
+      "published": "2026-11-19T20:02:57Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -1286,6 +1394,18 @@
       "image": ""
     },
     {
+      "id": "89f9ed00561b6ab6720993",
+      "title": "Who invests, who owns, who benefits: Africa Tech Festival 2026 day two puts Africa’s digital economy under the spotlight",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOclo2Uzk5bi1uRGhFTm9ucTViRTl1Y1VGb2dVcUp5WlF3SUFWNjJkcS1DS3ZjdkdRUjI2WnlmUGl2YjUwMkNJNFdWZlkyempZWnVtU3IzbEtqcXNvYWVrZDlrVUg0V0g3SHdyZVcxS0lERHdlREtNbmJWV0FaV19EUFBaR2s1eS00VU8yWVdWMFZSSEk4eXpOdlFVa0taTGQyZVpEdGRuV2ViTW53a3FzOXhtNU1Bb29RTlpCT29mUXN0ajhGZzhxVVpRMk5rY1NnM2lwelFqNlFRcWlOUnlFaWRFWnRMLThITEtqYkJXZXpjbnBkcHNwc1M1Ujg3Q0JS?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-19T15:14:03Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "41d2a7233457361d9ab4e3",
       "title": "Bike24 Posts Record €107.7 Million Quarter, but Profit Margins Shrink Despite 30% Revenue Growth",
       "summary": "",
@@ -1320,126 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024"
-    },
-    {
-      "id": "a877d9024fdc17fefb77f6",
-      "title": "Africa could win climate transition and still lose the economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRW5vMnkzM3VVYlh3VzlYa1NDQ0lmbnFqSmpOZy1Wemh0ZnYyNmZ2V0dUdVdILVBMRkw0N0NBamV1VDJ2b1RRVEVBOENiRkg3eHhpSW1JbDRiVWxrV0xYWERKNUpOYVJjMlJndTl1Ni0wVFJzUG5TVW5TQWhwd1c3TUlNQk55NUZYU1Vacmdn?oc=5",
-      "source": "KBC Digital",
-      "published": "2026-11-19T14:54:06Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "73bdd684bd1f1f5ffa6581",
-      "title": "Trump Announces Over $17B In Southeast Asia Deals With $12B Jet Sale",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2ZuUzhmdzBPMC1uYlpkMHd5YWJ3Sk5pQ0FhUHNXRzNLRDdWWWxMY3dUbXJxT0dXOS1pNDFvRFNKNGpoMkJMdlh5WjBObF9YQXdxLWx0Uy1tOXR6QWhXdjVoQVViM1EwcVJGVEpvYi1lSi0xSF9RenZsRjNINHU0ZVM2bmllSEZUTE9xUHZoaldYRVZUc0ktQnhjbEhoSTY3R2VIWktNWmR6RlVOeDlxVXJaM2d5Ympk?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-19T14:51:26Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e7793f9dd6cecb805b65df",
-      "title": "US Gas Exporters Sign More European Deals As EU Delays Methane Rules",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanE5YWdGTmVTM2FyWGswekQwWGloVm10QUZpa01NT2JobG5CWmFYUVJFVkJWZVVlYkM3aFdiRzN3Q3VJMThXNUJRLWhrNktiQUM5OHBfS2NaRVRJU0NycU5xOW5heXMzUVBNQldYQTRmcjRkM0VUZ0t2UkFodmNkMU1RT19laFhZMWdsYnA2dGRRMlgyMFRGaS1oSQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T14:49:46Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3c87552c35b038d5b24060",
-      "title": "Reasons Why Investors Can Consider Buying Zeta Global Stock Now",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREEwbnI0VlBiOEN3MnZyVVFvUXlxQ1ZBVW5CcjhNbkpyZ1I2aENCTnNSS0h2bWp5Z09Yc2RNci1uVXM1OXBkZ3dpYnNsT2VkanQ0emEzNDRRYzhVNzhwNGJiUFNXdUpnVHNYM2NqMVFXX3FpMEJzUWNzMWE4TXNrWXljdTVEVWcwYThwaVI2NjJ6LTN0OGU1Uk1sTkZWT3pLakhaNQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-19T14:43:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1925f6cce47778e1b2107d",
-      "title": "The Analogue 3D can now update itself over Wi-Fi",
-      "summary": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, the company's modernized version of the Nintendo 64. Although the console has had Wi-Fi [&#8230;]",
-      "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-      "source": "The Verge",
-      "published": "2026-11-19T14:32:33Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "60ff07a70f51c3692ee092",
-      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "source": "The Verge",
-      "published": "2026-11-19T14:25:37Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d68c24653f5d9d9616d6d3",
-      "title": "Jordan-EU Investment Panel Discusses Water Security, Economic Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcC13bWVhaVpGV1JoMFVnekZBZ1JicW1xeGFld09jUE5ScUF5TDktUm1nWUR4SzlhM0RfQzIxWDMydGhYdHRqaFo4bkd2ZWJOcXhYaUhRQS1nM0pfWWZCNkJxSDhYdGZrM2pyTkdYeG43a1RHc3hfVnBzVm1tRjlYWDhucm9sZ2YwRFpIa0ZBV0hVbG9rSkpyTDNIYlM?oc=5",
-      "source": "وكالة الانباء الاردنية",
-      "published": "2026-11-19T14:11:38Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "03d06febac31a1c611b869",
-      "title": "View United Real Estate Development Company SCJSC up 11.71% on Thursday",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUlpdTRGTEtoMGE3cWNRRmVtVmpTZmhqalV6T3B3U2EwWm9KdHN3YXc5d2tBQ1BfNlhMaFdZWTZ4b3ZKekxtUjRpQ216NFg3LWZHdWlQTlp5Rmd0LWdHOWZsdFFaa21saG5BRDkzN3NnUi1qX0FWT3ZkeFE4eU1hTlVVOGYyZHBsdjRwMGlJWlZzR2p1d2lDSmRRS0hOUVRLNzBvZWVPQmFDUWNaMjFoVGdZU2M4UQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-19T14:10:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e7c9f1298641a1fd8803cd",
-      "title": "International Business Leaders Say Xi’s Speech Boosts Confidence in Asia-Pacific Cooperation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzRsaVRFVFVFWUF4ZjdjcVRJMTJxNjA5QXl4YnlSZVAzMkd5U2dYZjB4dk5vNUFHdDJ4alZBRzEzWFNWN1hndGthTzdfb0V6LU85TGVPOC0xSUxCZzhsYV9qWG9aa1hIUlNMOFJCeDdWSWRUY2RRUlVJTWVKTXh1LWhhSi1TTEdjWG1OVXlod2tual82THFuVkdjUDV5dU1Ub2VEV2lQWWVGN2dsZDFDNm1FTGdkaUNHclE?oc=5",
-      "source": "UzDaily.uz",
-      "published": "2026-11-19T14:08:23Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "22e8b66de17c7432402be9",
-      "title": "Surge in Northern exporters targeting India as Mayoral mission boosts links with world’s fastest-growing major economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNktESk9rUTJoS05pM2xpUXU3Q2ZuUEFGSXljaE04dUpzSUxZZWk5VF9wMDFvTTNGOWZtX09rUWVsWUtvWkRCU2NmTTBteGQwaVJZb05sZFpCZVA2TWdOajBzZVMzRnZ6Y3UxdHdac19qSll6NXlZY3ZNcHRfeE1uRHpSRDlhODltdFdVRXF6SDFfT1dkb1lhTVRmcV9lNk1wcHNHTDYtenBfZ21XWFZxUEdrbHlIOERhOFpLWHpRcUl1ZDZoYnFNSS1BVWhYM1B3Z3NTLTZ4UjdCdkZ5ZkowM2p2eVlKUGRwcGpkaXhqeEJ5NHhnbWIw?oc=5",
-      "source": "Liverpool City Region Combined Authority",
-      "published": "2026-11-19T14:06:58Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
