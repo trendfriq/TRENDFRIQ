@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-20T20:33:06.029855Z",
+  "last_updated": "2026-11-20T21:24:29.432230Z",
   "articles": [
+    {
+      "id": "6ffbedc2adc10bf897945c",
+      "title": "Alpek SAB de CV falls 3.14% in Friday's session",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzRfQ3U1ejJ1QkU3SVU3SGhOdGZMUkVmenQ2dTBwY1dCRThCYUtQei04N2JwOXAyQVNfeFU4YjUtSGZ3SlduOFk4STE5NmZIM1ZVajJuNUphdjZOR2ZoN3hPVS1nbmNERDd3aHpUa3pUeDhzSkkyWkhtU21xdGxHR25ybWppcXB0ZWZN?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T21:04:16Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d9d43296365478917c08e4",
+      "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T20:58:29Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705"
+    },
+    {
+      "id": "d020b8aa67dc21540cb490",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T20:54:12Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+      "id": "28a72b175fa002be3c86f6",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave [&#8230;]",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "source": "The Verge",
+      "published": "2026-11-20T20:43:52Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "c3f95a35d3ae9994a6f668",
       "title": "US SEC Probes Nvidia's Accounting Amid AI Chip Export Scandal",
@@ -36,18 +84,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812"
-    },
-    {
-      "id": "d020b8aa67dc21540cb490",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T19:51:52Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
       "id": "d88d0288efc8318ccde325",
@@ -96,6 +132,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750"
+    },
+    {
+      "id": "739143146317ebde2a44c4",
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-20T19:31:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "96853c2bcb76b246ee84e9",
@@ -202,6 +250,18 @@
       "published": "2026-11-20T18:40:09Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "81c359d42c4ba083d754ea",
+      "title": "How to Play INTC Stock as Intel Launches Another Round of Layoffs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjNNWTlUNFh5WnF1WDlrYS1lUUp5WU5Pa29NUEd5cUxhZWMwM0NlNnBQVlN2T195M0h2LUtuc2FHTXlUaW9DZ1c4UXlKUW9LT1hETU9zb1ZTRVVLWmdtdVN3a3FweG85SXlOb0I3OS00cVl0aTkzTnlEQ2VHR0dqRVFyM1p1TzFzZllvVFVmTDBaYXJ0cjlpektFZ0NSNm5nYjVqMkEtZWE5OXl0M1E?oc=5",
+      "source": "Barchart.com",
+      "published": "2026-11-20T18:40:04Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -384,6 +444,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg"
+    },
+    {
+      "id": "2757835c499468ee852fce",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FbVBaOTVyeTBHOV95TnlpSkt2YUs3OHNxZ1hMZlRNVDItcTZPMjNOY3lQN3FheTJYUmx4bms3QmVfSGVYY1d4SUpXS2gwWFN6aGtldWcxUGZSSzR1V3c?oc=5",
+      "source": "BBC",
+      "published": "2026-11-20T16:41:52Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "675650dffca0c9d459834f",
@@ -1368,78 +1440,6 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg"
-    },
-    {
-      "id": "a39308b28704c1bbe8fca7",
-      "title": "Korean Startup Picketing Launches v2 of Its AI Ad Platform on One Rule: The AI Proposes, the Business Owner Decides",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc1NwUlhxNHdNU1hRNHlsVHZ0cXk1bjhXaUhMdzBVXzBoMi1HOVRwaHlVT2QwWUVZakR6Q1FjMDQ4M3FZRzRCMGlwcWxUYjBscFYycjY2TVRydnNfNDE4ZzBtUmJ6SlZXZXFNM2FiT1Z2T1hYSHUtdlp0RXd2OW1sZC1PWDVaZUs5aEU0aWxGLTUtTWNkMFg4bjN6UkJTSTlhOWM0N0NOWjVWXzFZXzFsbkRlTU9BYjNuaHlCSXl2N3ptd0J6YmhlZV81eHEtNWxSVElOdThKMkhBQmZ3MmRLWmZqcFlmelZQNkJkcWZ0YVBlblpZLVdjQVRn?oc=5",
-      "source": "The Columbus Dispatch",
-      "published": "2026-11-20T09:43:02Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8982306b31ddcaddde6a07",
-      "title": "E-vapor maker RLX's Q3 revenue rose 69.7%, while gross margin fell to 23.3%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVJwTTg1TjN5TUpidGEySTV0ZzJxQkFwcXVrMkFLQVlacFZROWhYQ29ON1hZc2QxVzB1VjNkT2hWTjJxYzhQQTJvckFnd2oyWXZMX0oxV1BNanRoR0lBdUJJOElZWFFVUGRoZVBoclVkdmxzSVhpZjd6bXk4MzZlZzBBQVNJQTVueUdzZFhzYV9PdkFVY0NlRk85NWZ3em1wRzlaMVc2ZGgwUTV6dERWSlZVOEZWUWlJ?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-20T09:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "27fc5802fd1bbae96633ea",
-      "title": "California investigates Nvidia over whether chip exports ended up in China",
-      "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into w",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "source": "The Guardian",
-      "published": "2026-11-20T09:18:30Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd"
-    },
-    {
-      "id": "3be4b520f042fee697f742",
-      "title": "China-Africa economic, trade expo opens South Africa session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xbVlwUHpRWjliVjJxMnlDWjFMTXp4LXRTZjdwREFnM01ZWkEwSDgyMmRpWEpKSnNjVE5oR1VfRVJhcDJyQ0t5Z3RwYXViUTQ0M016eUZkMA?oc=5",
-      "source": "Belt and Road Portal",
-      "published": "2026-11-20T09:17:07Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3e03a94e8a13ebf1919b22",
-      "title": "The U.K. and EU hold a rare summit to strengthen ties",
-      "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-      "source": "NPR",
-      "published": "2026-11-20T09:14:41Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5303x3535+0+0/resize/5303x3535!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2Fca%2F5e1352384fd6bdc90c42b50069e8%2Fap26316633592372.jpg"
-    },
-    {
-      "id": "88264271f833195f59cac6",
-      "title": "The US national cyber director is stepping down",
-      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
-      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T09:14:19Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705"
     }
   ],
   "countries": [
