@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-21T15:22:13.928302Z",
+  "last_updated": "2026-11-21T16:09:41.314312Z",
   "articles": [
+    {
+      "id": "53e893a48ca02ab2292951",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T16:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200"
+    },
+    {
+      "id": "e9b596cd9deb4e8af1c523",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In [&#8230;]",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "source": "The Verge",
+      "published": "2026-11-21T16:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "01820fe70fe74dad6484db",
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it&#8217;s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying family photos. If [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-21T16:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Alexa_Frame_JTuohy_0011.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "20a5f8b74f25ab4fa704f7",
+      "title": "Bitcoin Rises Over 2% to Surpass $60,000 After Recent Lows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DdmxFLWI5MllOMDZDWDJONU56WlpuY3hGUEtlS2N0R2NQYzlPa0E1SjhSUkF1endzdEZsTGRkOWliV0ZQZTNPVUZoSWJvdlBHM1lSQnpRbjJoN19mc0VDTU1zNU1PN3lzeThmeEZaWlV3SHp2WGk0?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-21T15:31:48Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "7e38a968ec4d4e65c4b7e7",
       "title": "Alaska, your next governor is a Wikipedia nerd",
@@ -24,6 +72,30 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "3298713995b153167b4788",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "published": "2026-11-21T15:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "85f686144b1fcd07bb32ff",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-21T14:55:28Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "e54ec07f73645f1c57481f",
@@ -124,7 +196,7 @@
     {
       "id": "cac4d486e46aeed2b2c3cb",
       "title": "International talks on controlling use of autonomous weapons collapse",
-      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons collapsed just before 5am on Saturday morning, after all night talks failed to overcome Russian objections. Despite an overw",
+      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am, after all night talks failed to overcome Russian objections. Despite an overwhelming majority of sta",
       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
       "source": "The Guardian",
       "published": "2026-11-21T13:15:29Z",
@@ -132,6 +204,30 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
+    },
+    {
+      "id": "d53e011b61eef9a5dd0ffd",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T13:15:21Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "c72d39b4d1f4c4f548b848",
+      "title": "Egypt highlights investment opportunities at Piraeus Summit - Economy - Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zLUszQXFucWJHNnpEQTRqWVpac1BSNnNYeGZtdll5ZGhZZ19GTlo2VDJIbnRBcXhXZmNzZUVtSmI4b1ZkTmlMak9lUDgyUGZMWGdzbnBVZk0?oc=5",
+      "source": "Ahram Online",
+      "published": "2026-11-21T13:02:28Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5ed776cdf9c2e9690d7dd7",
@@ -194,6 +290,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8565x5710+0+0/resize/8565x5710!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F26%2F578525af4450b59d88792c06e0da%2Fap26323821321779.jpg"
     },
     {
+      "id": "d3b516753e958eeff5cce2",
+      "title": "#Video_News :-Ethiopia, US discuss expanding trade and investment, advance cooperation on Bishoftu airport project watch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjhjYVlTWEgyem90UWEtMmxuQWtqMi1LUkk5RFVTOVlueHJFZUhtOXh5anZBT3c4eExGTDY3dDAweXFIOGZJLTBZbTZ4Ym1hYm4yd1ViWHU4Z1FXU0RpeVNvWFNqRHlCTHRrck5MX1VNb1RoRFJqaWJkdE9saUxGbl9GVmtFeFM1S09qR0hzbnNvTlpaYWFjTUNuRGZOVEZyQTVvcElhbTVEWUNNcFFhMjJTS2V5cU11aHJ6R3NObVpTS3VEeVVFcWhRUlR6Vk9kMHh4QS1rcm9QNW91VURv?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-21T12:28:58Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8e59042706a73eeaf82bf8",
       "title": "Harbinger is building the unsexy EVs that keep the economy moving",
       "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
@@ -254,14 +362,14 @@
       "image": ""
     },
     {
-      "id": "d3b516753e958eeff5cce2",
-      "title": "#Video_News :-Ethiopia, US discuss expanding trade and investment, advance cooperation on Bishoftu airport project watch",
+      "id": "90306a1943ff9536170e2a",
+      "title": "EU targets Big Tech with new tax to fund budget",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjhjYVlTWEgyem90UWEtMmxuQWtqMi1LUkk5RFVTOVlueHJFZUhtOXh5anZBT3c4eExGTDY3dDAweXFIOGZJLTBZbTZ4Ym1hYm4yd1ViWHU4Z1FXU0RpeVNvWFNqRHlCTHRrck5MX1VNb1RoRFJqaWJkdE9saUxGbl9GVmtFeFM1S09qR0hzbnNvTlpaYWFjTUNuRGZOVEZyQTVvcElhbTVEWUNNcFFhMjJTS2V5cU11aHJ6R3NObVpTS3VEeVVFcWhRUlR6Vk9kMHh4QS1rcm9QNW91VURv?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-21T11:07:32Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0pLalplTDdQbVlDSDZjczBSNkFOTHpiT2JmUXRhX3l2enFPd0UyY0F0QWdLX01ncGd2b2l5LUhXaWRaUFlzWk1jcVlKdUNjNlZnd2I5aUZ4RkZiVk0wX1dXX056MHJGcFllR24ycE1pZGFsbFRLaE9wb2V1YzZVam1vbjVDWThKcVFPNG1acWo3MU5nWGExS3luVVNFZHR3djF0TjFKVF9odDBTUjZpRdIBsAFBVV95cUxOX0pLalplTDdQbVlDSDZjczBSNkFOTHpiT2JmUXRhX3l2enFPd0UyY0F0QWdLX01ncGd2b2l5LUhXaWRaUFlzWk1jcVlKdUNjNlZnd2I5aUZ4RkZiVk0wX1dXX056MHJGcFllR24ycE1pZGFsbFRLaE9wb2V1YzZVam1vbjVDWThKcVFPNG1acWo3MU5nWGExS3luVVNFZHR3djF0TjFKVF9odDBTUjZpRQ?oc=5",
+      "source": "Gulf News",
+      "published": "2026-11-21T11:13:40Z",
       "category": "World",
-      "topic": "Africa",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -276,6 +384,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=931c27cb117e8218216b479384328691"
+    },
+    {
+      "id": "c520d2a1ddb57e76c867a9",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T10:26:36Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
     },
     {
       "id": "5c056732ef36bcf6497c35",
@@ -1010,18 +1130,6 @@
       "image": ""
     },
     {
-      "id": "c520d2a1ddb57e76c867a9",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T21:57:07Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
-    },
-    {
       "id": "5d685d000898c5680cf131",
       "title": "Mark Carney is turning Canada into ‘Singapore, North America’: KPMG",
       "summary": "",
@@ -1322,122 +1430,14 @@
       "image": ""
     },
     {
-      "id": "3afdf5a7b1a6fd8a2421ba",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "source": "The Verge",
-      "published": "2026-11-20T18:50:19Z",
+      "id": "b9965e31a21bde3dd4776d",
+      "title": "Farmers and startups talk face-to-face, get feedback and funding at Spur AgConverge 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDdISXJIaE5UOVJDMXJXZkppMFB5empzX0tTQ0Z4RU5nRGpaSE9nV2U4NjdoTWdyS09mbkJNN1FwNVFBckRaSUFZRzR4Q0hNLXBtQXRoMmpMSEM5SU14c1VwUFo2TERNZlJHaUVjQTl2eWFtck9POFcwTktLZV9GX0xmSnNaREZ1ak9mVEhpZ256UExiNTM1Nm9YeXlXcTF5Y1BVMXgtOENlUEZTV2Nid01pXzlqU2tiRl9ELWtib05XZElZMnc?oc=5",
+      "source": "Silicon Prairie News",
+      "published": "2026-11-20T19:00:00Z",
       "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "0418ed396d454d29accfcd",
-      "title": "'Regulations and New Opportunities': Xsolla Outlines Potential for Retention and User Acquisition",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjFkcU1BMHZDV1lEQzhXeWdRRnJ6aFIzUHBrQ1pON29zT0lwaTdyTU5XVXR2emxHV0VHZzJIYzMxWHNDX0dYLWxFeVBpVkl0cHc1ZkVoUFExdDlpVTJSZGdWTE1FOWtQVHk1SjNDdWVsaUtxaGRwR19sUGlWMnF0aHo5MVh3QXA1eUtSc21OZjJvUHRZeTVMX3AzWWpqakRSUFo4c1h6SDVEWjByeDRhMFZRWlNCd3dwRVBtUUpwRnFUenVzM01haUN2NUoxb1RURnpF?oc=5",
-      "source": "Inven Global",
-      "published": "2026-11-20T18:45:48Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "299ad0f7d2e50e31032405",
-      "title": "Mirai launches Booking Center to boost direct sales for hotels",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTENaZXJ0cXpBXzR5Zk1RZUpOX0R3akt1OENiUi1yb2hvM1JmYXVQQTdLM3Q3TElycEtEUEhZX2hnNnRCMnB0cEVwd25XWndLdFBsZkxHSFVxR3VkbEhhWHBxa2RDRkxjWjE2Q3pZNmdtd0d0NG1Mdi1NTHptNy0tb0s5S3dqTllmSEF6S1Q4M3I3VkVSR2s1amlWVjdjdXRjZG4yMVlWUGRtREU?oc=5",
-      "source": "Travel2Latam",
-      "published": "2026-11-20T18:40:09Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "81c359d42c4ba083d754ea",
-      "title": "How to Play INTC Stock as Intel Launches Another Round of Layoffs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjNNWTlUNFh5WnF1WDlrYS1lUUp5WU5Pa29NUEd5cUxhZWMwM0NlNnBQVlN2T195M0h2LUtuc2FHTXlUaW9DZ1c4UXlKUW9LT1hETU9zb1ZTRVVLWmdtdVN3a3FweG85SXlOb0I3OS00cVl0aTkzTnlEQ2VHR0dqRVFyM1p1TzFzZllvVFVmTDBaYXJ0cjlpektFZ0NSNm5nYjVqMkEtZWE5OXl0M1E?oc=5",
-      "source": "Barchart.com",
-      "published": "2026-11-20T18:40:04Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e39af07f160c8ff7bf3442",
-      "title": "Super-hot rock geothermal could end data center energy woes",
-      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T18:34:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/mazama-project-athena-rig-sunset.jpeg?resize=1200,675"
-    },
-    {
-      "id": "c24cd66ab6444d57103886",
-      "title": "What exactly is in the deal between the UK and the EU?",
-      "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations, leaks and late nights, the EU and UK have agreed a 12-page statement setting out the next steps in their relationship. What exactly have t",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-      "source": "The Guardian",
-      "published": "2026-11-20T18:19:53Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edc12ab359a5fb13b1ccca0444584bdd"
-    },
-    {
-      "id": "6438cfda6deb348e721bfc",
-      "title": "The EU reset is crucial for British business",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sOC0wLTB4amNST2pFa3NjOHpRQmtSb1Ria3QwU0xfdU4wRGNmY2xPZHExblVRenN2ZjgyOTBmSFdmaGVxMC1pWnlGdWhPQlNUdlNjcmRoeU5uZ0ptS3VKRXIxN0dqTTFWOTd1WDhLM0M?oc=5",
-      "source": "Financial Times",
-      "published": "2026-11-20T18:18:10Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e713f7c26de72e44ee8fb1",
-      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-20T18:16:04Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "502ba4456945bd31f3dcaf",
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-20T18:15:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "eeee709594dda494ebdf3f",
-      "title": "The Digital Divide in the Mediterranean: Different Speeds and a Fragmented Agenda",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMW05ZkxyQWJGbl9zYmtfMGdzbUxBLWt3VVBhU21ObXhRVGtuYWx2Y1YzenN3cEx4b0hpaFo3UTZUak1EcGFGejZOY3YxaG0xUlZXWkwyXy1zMUM5eUpFZ0Z2b3AyNkw5ZF9jUFo4LU42dnd0SHlGd1RCdVFMblB1MFFsbk1BeFdhQzIxdkxMcWlCTURrVEtPV1FYbjQ1TjZRZVRPR0JWN2xPQVAzaWtKOVZqeUtpYlExU1NoaXJDTm5DQVFfZEZF?oc=5",
-      "source": "ISPI",
-      "published": "2026-11-20T18:12:22Z",
-      "category": "World",
-      "topic": "Middle East",
+      "topic": "Technology",
       "country": "",
       "image": ""
     }
