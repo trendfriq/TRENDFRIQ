@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-21T17:05:43.437396Z",
+  "last_updated": "2026-11-21T17:47:07.772008Z",
   "articles": [
+    {
+      "id": "f057758653af9e0825a10b",
+      "title": "The FBI and USDA were reportedly hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [&#8230;]",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "The Verge",
+      "published": "2026-11-21T17:42:27Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "326c1e690d9a22d8420f76",
+      "title": "New to The Street Show #781 Premieres Tonight on Bloomberg Television with Roadzen, Robo.ai, PureCipher and American Fusion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmRZcWlsTXJqbnIxU09qclVKOE9NM0xhTmd1VzZ4SjRCc3RCeE1ncWg5dFVrMl9MQlpNSy1VYVctVlBmZFhvQURKZXRzWXJFRm9YdUEtRFNWNG9zSWxWNnVVd1R5eXdBdkVtYnRTOGhDOC1DSDFqLUU2Wk5RMkttc2hUY0hpWUo1alNubHg3WmpLd0tTalNVMlhOdHM5a2VQSVhkam1kWTlDM3M?oc=5",
+      "source": "www.newswire.com",
+      "published": "2026-11-21T17:30:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b8e2974d9a6701a11a5f3b",
+      "title": "Securitize posts $18.6M Q3 revenue, $66.3M net loss",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aTFdaZGtyUnppMkRjR0hSME16bDN4QmU0RG1mTFZ6UFNIN2VycWtsclpSbDVpekxhRHFScldUNzZsZjZUZnZ0dmpDUjJoSGx3Q1RBc0dqUEM0a3dGTlpIU3daWGQzX2xPMFI3S2MxeUVrSFJENHBibS1EYzRjQQ?oc=5",
+      "source": "CryptoRank",
+      "published": "2026-11-21T17:18:10Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "d15566b2aef3b460300ba5",
       "title": "Here are the top AI agents that can live in your text messages",
@@ -33,7 +69,7 @@
       "source": "russia's pivot to asia",
       "published": "2026-11-21T16:37:59Z",
       "category": "World",
-      "topic": "Americas",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -566,6 +602,18 @@
       "image": ""
     },
     {
+      "id": "5adaec9657f68cf8b1539c",
+      "title": "Design, data, delight: how to get your message across at tech business exhibitions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZvbWFCb1NSU2JOeUpRZGIteHFlZnJYQmZNeTJsLXlzMXRPWDNEUmR1YWp2SU1aS1RPRjZHX1JKR2JBSm92bUYyRk15YV9tQ01YRW13bFFNOHJkQTFSRXhPUHd5YlhtbzlaemtXcVI1cGUtYnVtNlRWcDZMWW1UTm9WbE4xdktNa1FGYU9HRzV4TFJxZ3ZncUVlSU1tVHpwMC1yaXVRdTdQeG14cXZz?oc=5",
+      "source": "YourStory.com",
+      "published": "2026-11-21T09:12:02Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "3f0d6908840c57e8e24db7",
       "title": "Qatar eyes broader economic growth from AI and digital transformation",
       "summary": "",
@@ -598,18 +646,6 @@
       "published": "2026-11-21T08:52:37Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5adaec9657f68cf8b1539c",
-      "title": "Design, data, delight: how to get your message across at tech business exhibitions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZvbWFCb1NSU2JOeUpRZGIteHFlZnJYQmZNeTJsLXlzMXRPWDNEUmR1YWp2SU1aS1RPRjZHX1JKR2JBSm92bUYyRk15YV9tQ01YRW13bFFNOHJkQTFSRXhPUHd5YlhtbzlaemtXcVI1cGUtYnVtNlRWcDZMWW1UTm9WbE4xdktNa1FGYU9HRzV4TFJxZ3ZncUVlSU1tVHpwMC1yaXVRdTdQeG14cXZz?oc=5",
-      "source": "YourStory.com",
-      "published": "2026-11-21T08:46:41Z",
-      "category": "Technology",
-      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -718,18 +754,6 @@
       "published": "2026-11-21T06:31:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "43a4486038a97226354e0d",
-      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
-      "source": "London Evening Standard",
-      "published": "2026-11-21T06:18:31Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1322,6 +1346,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "04c3a79462d9e9e0ab6c20",
+      "title": "Honoring Rappi, Banco do Brasil, and Leaders from Atlas Renewable Energy, LATAM Airlines",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnNyMDBJYVZCbklkaXVtZFVGTm9NZ25qZ1FsNHpsRVlPVzRJekxqOTFfUUhyN2RqMFBrSUNKd2p2enkxcF8zNDNnNi0tVnRLU2hxX2dtcTFTLWdiQVV5aVV0blhUaWZoMnIyOUhzSmZmWGxZWDJJa2lhcWppTGlUemdiQU5LV2RlblhjWjlCM2cwMEhHeU8tbGlTRWFheVVTOUhqd0lMOFpZaEpCdXFvUjNvMlNGTm92Q1N6S0Frb04xbUVmLXc?oc=5",
+      "source": "EIN News",
+      "published": "2026-11-20T20:37:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c3f95a35d3ae9994a6f668",
       "title": "US SEC Probes Nvidia's Accounting Amid AI Chip Export Scandal",
       "summary": "",
@@ -1404,42 +1440,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750"
-    },
-    {
-      "id": "739143146317ebde2a44c4",
-      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-20T19:31:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "96853c2bcb76b246ee84e9",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T19:27:49Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
-    },
-    {
-      "id": "7fb40abee5825fd2b5db3a",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-20T19:15:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 21
+  "source_count": 22
 }
