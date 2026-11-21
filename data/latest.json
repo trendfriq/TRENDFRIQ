@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-21T13:25:44.705837Z",
+  "last_updated": "2026-11-21T14:25:30.914937Z",
   "articles": [
+    {
+      "id": "f12e17e5c0d00f1e7ef09a",
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "source": "NPR",
+      "published": "2026-11-21T14:18:17Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2764+0+0/resize/4146x2764!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg"
+    },
+    {
+      "id": "0a3e8c674a4c46f69d72fa",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching [&#82",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "published": "2026-11-21T14:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b4c5c76b40d57bbf4c9526",
+      "title": "Grand Farm Innovation Campus: 590 Acres, 20 Firms",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkxcTRySFYzNkZwQUNkdjlWNEV0M0JiTjR4OWcwUEx5aVNkLXhYcDh3VFh2VUhSTDVpM0dVaWN1RFFwN3d2d1lfT2JTdF9qdDdfNm13Y2w3T0JPZzJEZmI4bFBZaDVDcGpJV3lNekZjYVc1TFVCUFRQQ3pfNEQzeTFkZ3A1RDNBR1BrMWtBc1hhUjYtNkdFcG9n?oc=5",
+      "source": "shattered.io",
+      "published": "2026-11-21T13:34:22Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "9faad946f4554f71eab29e",
       "title": "Saudi Arabia And UAE Advance Preventive Healthcare, Global Index Shows",
@@ -106,6 +142,18 @@
       "published": "2026-11-21T11:55:41Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "653f5b59560c177fa7156f",
+      "title": "Canada - Foreign Relations, Trade, Immigration",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZENTbjVLdHdEVzctYlB5c1NzUENIQmEwWTZjLW1GTjEwSW41NDNBeWVHbTFib1JydEFiaV9xYlNmZDlTWVNiUHM0d2twWmZ4UjN3NmNndHd3LXFOSDA3cVJqVURRUQ?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-21T11:39:33Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1376,8 +1424,8 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm1jajFWdFNxRXFqby04RlFCSEJndmNkUU53bmlNbDFLMklXTGdnV1B6dl9LNWI0c0RhSmlJRHQzMWt4b29fYnJlU0E0WnBHeUZLOFJJTEpyb0g5bi1WQVhsUFFuSGprZ1BSYnp2TEJWQVdrRnZDMWsxQnV1S1Z5QTIyak5zMGpuS05iVA?oc=5",
       "source": "Global Finance Magazine",
       "published": "2026-11-20T17:23:02Z",
-      "category": "Finance",
-      "topic": "Global finance",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1390,54 +1438,6 @@
       "published": "2026-11-20T17:08:03Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bd44af55928dfdcf49fe60",
-      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series [&#8230;]",
-      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-      "source": "The Verge",
-      "published": "2026-11-20T17:05:52Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tecd1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "522d9d98644fc72b50ec28",
-      "title": "Guangzhou Nansha: GBA’s strategic pivot for Asia-Pacific trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHNuZENRZXZ6d2tLN19wdWVkUy1SVGxsc1U2bVhRZUJnNC0tNEIzR09oZGdOeVdfWmQwT2t3RTlSejRwV0ZXMlllcWY3aVZlWHQ1ejR3Sk1EeFlLb0NiOXd5bElJU2xCdzRla2JxcnhXckthZnI1TjBwVnk1dXVPR25LZFNWNE1BMXM5RU80a0s?oc=5",
-      "source": "Macau Business",
-      "published": "2026-11-20T17:04:02Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "50da3b38d638e680f25f7d",
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-20T16:41:52Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg"
-    },
-    {
-      "id": "2757835c499468ee852fce",
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FbVBaOTVyeTBHOV95TnlpSkt2YUs3OHNxZ1hMZlRNVDItcTZPMjNOY3lQN3FheTJYUmx4bms3QmVfSGVYY1d4SUpXS2gwWFN6aGtldWcxUGZSSzR1V3c?oc=5",
-      "source": "BBC",
-      "published": "2026-11-20T16:41:52Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     }
