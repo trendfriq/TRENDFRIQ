@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-21T18:25:04.965016Z",
+  "last_updated": "2026-11-21T19:26:21.839493Z",
   "articles": [
+    {
+      "id": "a9bb7c6e29da205c76d258",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T19:20:22Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
+    },
+    {
+      "id": "fe589a0bc46f4b87fc5af7",
+      "title": "SpaceX posts $4.4 billion quarterly profit as Anthropic becomes its biggest customer",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42UlJDTnM2TEkzUEt1VWhFbmtybzdkaUtfTUEwSnpUc01oOEd4RGN1ZXR3NzdoSGNfd0VqR2JOQmpCR1ZSdkdaN1c3OHNwem5ENUxucUY1eXBlRmtBVXZrY0Q1bjJpa2ViQWd1UVpJZlJlOUl0QnhwTk5R?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-11-21T19:19:56Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e41fc8a711e07250969b08",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T18:44:53Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800"
+    },
     {
       "id": "5b76dfe3de30c0fc5f0467",
       "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
@@ -43,6 +79,18 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmRZcWlsTXJqbnIxU09qclVKOE9NM0xhTmd1VzZ4SjRCc3RCeE1ncWg5dFVrMl9MQlpNSy1VYVctVlBmZFhvQURKZXRzWXJFRm9YdUEtRFNWNG9zSWxWNnVVd1R5eXdBdkVtYnRTOGhDOC1DSDFqLUU2Wk5RMkttc2hUY0hpWUo1alNubHg3WmpLd0tTalNVMlhOdHM5a2VQSVhkam1kWTlDM3M?oc=5",
       "source": "Newswire",
+      "published": "2026-11-21T17:30:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fce1a436773b056c5b3f39",
+      "title": "New to The Street Show #781 Premieres Tonight on Bloomberg Television with Roadzen, Robo.ai, PureCipher and American Fusion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFF1SUFIc3kyN0tuaElJQ1p1WWNiRExmblh5azh3V3VVWS11SlltMGdxM3ZiSzNCSko0ZldwajFCdnhZOWxlRVFyZFMydGNBWUhVeTAxSm80SkRWcm1tOERuVnNyV1Bfa1RDQW03N2dlWklYcWViQXZkckNfNktyLW1zdkFlT2dLbm5VSVhSNEx4cTlxbkRPSlVyeTVUZnhCa0h4NUh1Znl0d1M0a3BCTGdGZjF4aEotbXVQdTROaTVyX0NiMWhFeEY4WlZubjVGTGNHZGNmd0NHaWptbkVhREpEeW9ycGNiamNpMWgwY1ZQcjNqb0ExOXg5cnhJb2ZZalZzYk5rdE41dFgy?oc=5",
+      "source": "TradingView",
       "published": "2026-11-21T17:30:00Z",
       "category": "World",
       "topic": "Americas",
@@ -758,6 +806,18 @@
       "image": ""
     },
     {
+      "id": "6afc0e55f14a9907836abb",
+      "title": "EU mulls tax on big tech to boost budget",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3JhU1BEWXpzX0VNMFVQMjZiWGhXQWlZVDUySkNqc2YzQTNvMHNGWUowbUZycDVHaE1uTXl5eVlsV1NyZGVRTkt0R2hxSHpZdjRpaUlObFNINXkxdWc1YW1odlBkRmd6N0w3bDllN2sxeUxUTTRJUTBQbmE5bW1ONm9LS08xeEx6QWJvVFotMlZrWDU2d2dzdFJHU2JCSkE?oc=5",
+      "source": "Al Arabiya English",
+      "published": "2026-11-21T07:27:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a46443d831c8326586a6a5",
       "title": "Cyprus cuts public debt by more than half, but Moody’s sees unfinished business",
       "summary": "",
@@ -802,6 +862,18 @@
       "published": "2026-11-21T04:52:14Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "aca8f7f15ec027ae274536",
+      "title": "Trump Wants Cheaper Credit, but US Inflation Was 3.6% in September: Fed’s Tough Call",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWlkUnIxNUhES0xTamg5X1FhZlg1RGJxSEQ4ZHdxTkM3RHJDaDhPN0lZU29US2pZOTdtZGVKTjdlMndTWWJKNTQ0SDFNVDBxNUNjeDdMQ3kzek9RekNZZ2hQTDBEMUlmODJ2TzZ5Um1HNURaWFRfdUJyZWFpaEpFTg?oc=5",
+      "source": "NiftyTrader",
+      "published": "2026-11-21T04:51:37Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1368,78 +1440,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "28a72b175fa002be3c86f6",
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave [&#8230;]",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "source": "The Verge",
-      "published": "2026-11-20T20:43:52Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "04c3a79462d9e9e0ab6c20",
-      "title": "Honoring Rappi, Banco do Brasil, and Leaders from Atlas Renewable Energy, LATAM Airlines",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnNyMDBJYVZCbklkaXVtZFVGTm9NZ25qZ1FsNHpsRVlPVzRJekxqOTFfUUhyN2RqMFBrSUNKd2p2enkxcF8zNDNnNi0tVnRLU2hxX2dtcTFTLWdiQVV5aVV0blhUaWZoMnIyOUhzSmZmWGxZWDJJa2lhcWppTGlUemdiQU5LV2RlblhjWjlCM2cwMEhHeU8tbGlTRWFheVVTOUhqd0lMOFpZaEpCdXFvUjNvMlNGTm92Q1N6S0Frb04xbUVmLXc?oc=5",
-      "source": "EIN News",
-      "published": "2026-11-20T20:37:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c3f95a35d3ae9994a6f668",
-      "title": "US SEC Probes Nvidia's Accounting Amid AI Chip Export Scandal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3hjQ2NESFNqZWFacHVSYTBLLWIwenBvMVJ2WUJnMmNsUWZFWFhhbXM1SlpLeDBxaWhKRW9HOHhLbGk4b3g3dldWZWdHY1NGSE9kdkg4T1hsdnYtRzFfRFRhTUxCYUpybFR1d0ptcVE3MmdsSlpNdVU4YmJVWkNUS2F2TnlaQ01SYzNwd25mV0tSUm9uNS1yU2Z6M1c?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T20:10:08Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "05d06a2ae37185a1550dd7",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T19:53:41Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812"
-    },
-    {
-      "id": "10525056736eb118c37da3",
-      "title": "energyRe Sells Portfolio of South Carolina Solar Projects to Enel Green Power North America",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU3ZCZ3FDZld5Y1p2dmxReEphMGsxcHZGVjlOMmplTDZXc2llTVg4cFVNMVhMMkdKQVVQRlVOTGFVdVBibGlvdkNwSWNaMWpyTDM0bEg3U2ROX2lyalNSN2VQRS03UEVDajlhaEFSQjMwdmRTWngzZmdDZVdXTHVwQm1NWEh6TldNUHUtZUg1bHEydUdRdDJDYmw0WUI0TEFFbEtVUld5UFMxdVRYaXR6ZnBGN2cyckFxMWhydmFtZzYycHZROGdQWXBJRG5pZWxKTU8zTmVwQTRRT1k?oc=5",
-      "source": "Greenville Business Magazine",
-      "published": "2026-11-20T19:51:33Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d88d0288efc8318ccde325",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T19:45:20Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
   "countries": [
