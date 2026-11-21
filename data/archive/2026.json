@@ -1,5 +1,65 @@
 [
   {
+    "id": "503ccb2268f6fc90b5bfdc",
+    "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+    "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+    "source": "NPR",
+    "published": "2026-11-21T22:01:42Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "411940f8e460fbd061f78a",
+    "title": "Highlights and challenges from covering an historic month in South America",
+    "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+    "source": "NPR",
+    "published": "2026-11-21T22:01:35Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "6734de109aeaa93379073b",
+    "title": "A grieving family in Lebanon returns to their village",
+    "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+    "source": "NPR",
+    "published": "2026-11-21T22:01:32Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "490042f26061ca852e150f",
+    "title": "Lock of former US President George Washington's hair sells for $4,000",
+    "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+    "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-21T22:01:19Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
+  },
+  {
+    "id": "69dbf907dcbbc0b629bf5c",
+    "title": "Amazon is complaining about NYC Council on shipping labels, too",
+    "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]",
+    "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+    "source": "The Verge",
+    "published": "2026-11-21T21:59:31Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "7289e21f33e265e97a8945",
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
     "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
