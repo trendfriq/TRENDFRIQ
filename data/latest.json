@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-21T20:17:43.428184Z",
+  "last_updated": "2026-11-21T21:00:25.126468Z",
   "articles": [
+    {
+      "id": "5551def0095f2a9b1f13f8",
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has convincingly said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American math",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "The Guardian",
+      "published": "2026-11-21T20:15:57Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a"
+    },
     {
       "id": "ec8e761e0eb8542f51eeee",
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -170,18 +182,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
     },
     {
-      "id": "5551def0095f2a9b1f13f8",
-      "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-      "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, ",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-      "source": "The Guardian",
-      "published": "2026-11-21T16:39:49Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a"
-    },
-    {
       "id": "900af72d7615ad44fa3963",
       "title": "APEC 2026: 75 Economic Outcomes, A US$20M Cooperation Fund & New Opportunities For Russian Trade, Investment & The Northern Sea Route: A Deep Dive Critical Analysis",
       "summary": "",
@@ -252,6 +252,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Alexa_Frame_JTuohy_0011.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "d3c631d600fad7bc315b45",
+      "title": "Global GDP Growth Expected to Ease to 2.7% in 2026, 2.8% in 2027 – Moody’s Analytics",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZnJXdUlvLXlFNGcyWnpIa2w5cXZ5Tml2U3FjSS1nSXVQY3VEdXhWZF9wbnBzOXZJVWpWMU5EcTJWX1dOMzNxbi0yNGJHNmgwQTFSNUx2MnVCZC11SXJkaDZxcTBnVW8xc1VmX1hKX0YxX1phdlFrV0tFTXJhNDVMc2pn?oc=5",
+      "source": "KuCoin",
+      "published": "2026-11-21T16:00:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "20a5f8b74f25ab4fa704f7",
@@ -339,7 +351,7 @@
     },
     {
       "id": "d45d7e724049a77984ab0a",
-      "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
       "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped Sónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun an",
       "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
       "source": "The Guardian",
@@ -1428,18 +1440,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "401fb98f6d082662b3b40d",
-      "title": "Another day of survival for a family in Ukraine",
-      "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
-      "source": "NPR",
-      "published": "2026-11-20T21:32:31Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
     }
   ],
   "countries": [
