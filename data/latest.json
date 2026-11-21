@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-21T03:36:50.970943Z",
+  "last_updated": "2026-11-21T04:35:51.872913Z",
   "articles": [
+    {
+      "id": "cabb56ce40a70fb270c7d6",
+      "title": "Bitcoin, cryptos plummet 9% with US tech selloff",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMlZBVFIzRS1Id2wzV0xzQXo0eGRnSENOSV9zN2Rzb1U5em1WMU03ZlpsOVVwbk5nbFlMVG1qeEZvRjNWcTdpUC02Y2ZodXdiSHJjQXNZU2s5cVdmQ3ZJUEhXdDJwU0RseS01clU5Nzl6UVBRa2UxOHlZYmF3RldBRjEtcDZ4ZGxiSVJ6MHFZb3Y?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-21T04:28:08Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "728117660118c50c2b189f",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T04:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800"
+    },
     {
       "id": "b1ffe06b42b6644bebf4ce",
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
@@ -26,6 +50,18 @@
       "image": ""
     },
     {
+      "id": "bd151e9b68d2f219c97439",
+      "title": "French giant deepens tech ties with 550 Indian startups, bets big on TN",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkFRLWpYMlN3MVNGU2tKY0QzVzAzb2YwbGNSNDRLRkRRazIyZmRCNnJTYk14WkV0cm52ZDM3RDRUdUpHWUtOQTFvN3ljYU9IM3hUNW5FT2dKSzVHQUNoMEpXeUVLV21VYmE5UndnUVVxM2ttdmttMGhTa2t6b2NsaEdIZkpxZzJySzNpV0QxMkRiWFREZVFYZFBtYVNQXy1aWktJN1F1SnZMejJTQjVsaWtaMkROcjkydG5TR1RIZWE3SERZeUNYVWhpZjcwZ9IB2wFBVV95cUxQd2hnbHNqb2dKT01FRkhjYWE0S3JJbFFaejNXWGpPRWk4dFh2ZG1HcmltcHhoXy1WVlB0dXZWWFRmZWFTX3hPdkp0V3VNSVEtZXJ2dW9ZNnB2VG52N2MzeXFLeU5nOVd6ejV4SUM0NWx5ekJpS3ZGZ3huM0xUOTlGd2tKMnE3VXR0Uy1ISGdqR2dfbENEZjJONl9hUldTSERxYkYtM3dxODBQSXkzQTV2SXNNR2xDTEZRb1U1ekZJUTRCaWRON0pqNXFoNmNva19VOVRjcWxQSzJfczA?oc=5",
+      "source": "The New Indian Express",
+      "published": "2026-11-21T01:02:54Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "23b6824f82dfecd03568ee",
       "title": "University of Richmond Distant Viewing Lab Releases DataReel AI Film Research Tool",
       "summary": "",
@@ -34,6 +70,18 @@
       "published": "2026-11-21T00:57:23Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a31b5d2018fe5544dd4f21",
+      "title": "ISHIR Joins Anthropic's Claude Partner Network, Strengthening Enterprise AI Adoption with Claude-Certified Engineers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM2N6dzd5bnFKQ1RqRzd1NGdJX2tZLXZvZlN4YkJNR3FxTjQ0eG1GRE1xWENFUVYxcTJzQi1WUDdObDE4N1hJQVhUNFcwOWVaX2g5TWJtaFNVeG9ROWw3cEo3WWJKUGxnd1J1UGZod2RUd0dBME9GdF9nY3FSeGZ3aTF3Y0h4dHhSRUlhN19BLVpBQnBpTGNOSUpVMDk0NER0OXNvZVIzVlZxdXZvRlRCdE05WGx0SU5fZFYzSTB5UElwMTJKMEdDOFAyNDRlUjFIMGNXWHVuQ2hncWN1b09CQ01BSmozU000c3dybjBn?oc=5",
+      "source": "Issuewire",
+      "published": "2026-11-21T00:45:20Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -1046,6 +1094,18 @@
       "image": ""
     },
     {
+      "id": "083f4f14fb9ac6893277cc",
+      "title": "AirAsia CEO says talks about opening Myanmar airline 'have stopped'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmFPMzBPXzRiNkxZYmVjVnpKS3JnM1hldWxFLUR0UnBBV1poVHZxdDF3NzFhUDVCbVZwR1lmUDZRTUdFYXhYai1NSFNLcDEyYm1rREdJVUxVU1RoQnVzRHEwSnhPUVhCNHBXbDE4dEhtcmN1ZlU4NHp5ZnpTQmZ5TmxpYXFaVHVfeXJuci1PUE9uaXBxclRpeThFeFFTeEFVSlBWcXVlU0UtUQ?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-20T14:22:08Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d2e3cef1ee923536db1329",
       "title": "Finance",
       "summary": "",
@@ -1250,6 +1310,18 @@
       "image": ""
     },
     {
+      "id": "a0aea9066596b7be3d456a",
+      "title": "Nice IPO, But the AI Trade Just Keeps Unwinding",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWRUcVotRWxlSTJrN2pEUV92LUxidmtlYTJjVzFEVEVMS3M3eW9SM25yeTE5bS1NVW5hYk1PVWZDM19LQm5XSzU5ODlFQldtalV5cXdqc2hZbUxUV19Jc0IybTRiRUJnSEppenhicGg3Sld0cUM3OWFGaWY4aWEzZXVTeXVBNlFfb0VXeVRKY3RrM0VhTXVIZ0t3bDVwR0o5Y1E?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-20T13:05:23Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "57f7a6cabf16791e141a98",
       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
@@ -1366,78 +1438,6 @@
       "published": "2026-11-20T12:30:00Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c432167a63d4fb57fbda3e",
-      "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-      "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government issued a warning to stock up in case of a disaster. The Office for National Statist",
-      "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-      "source": "The Guardian",
-      "published": "2026-11-20T12:28:12Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a1b45bf05672c9abaa6993b7d48ba4e"
-    },
-    {
-      "id": "49bae9f0a611b5991921d9",
-      "title": "Lagarde urges Europe to act before economic threats become crises",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3prMnpfanpVTTN2STRCeFZtZno1d3hmNWRSSUVzeklmTXE4Q0tkTkJPUmdvdlZxQTByZnN5VmdTZ3VVRXNUZFRycFIzdHdDWjY1QWwzVmFvcGlWZHFuM3JRQUxNaHdtZzBrRE5GaFJGdTdzVE5tOUxkSjJRZkhHU0kza0pNQl9Nb3d1MEREd28?oc=5",
-      "source": "PRESS Insider",
-      "published": "2026-11-20T12:25:28Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d6a5b160167c4eaca07a65",
-      "title": "Aramco invests in Finland’s ROTOBOOST.. Will methane splitting become a new gateway to the hydrogen and advanced materials economy?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0JleFlvZldRbDNiX1pOZ1l4aXZFMVIzbzVTMkdocVhzZW01bTNvcGlkdzZXOVI0T1VUNE5ObU9uVDZvNTlza3U1bmZxZS1TdnJwNXBjdDlUM01BeDhYOWplR1dRTVZvdVppX3Nka1ZITkc5WTVldmZHMHBCRXlsNWZDS2o3SGpMVkdVcVVxOEI?oc=5",
-      "source": "entARABI",
-      "published": "2026-11-20T12:25:23Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4d5dfbe663ad8a4a500a37",
-      "title": "Innosuisse: The Complete Guide to Swiss Innovation Agency Funding and Grants",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10VDRlZFFFanBmOGFhRDdyLWpfTEVyY2p5cVVzenBFNFVNb1MzN3Nad0tEekluaHhDM2NLaDJISzU5TXlPSUZCMzhOaWU?oc=5",
-      "source": "CASRAI",
-      "published": "2026-11-20T12:18:36Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e129d9d3d69ef12bf25d6c",
-      "title": "Chinese Tech Stocks Slide As New US Chip Curbs Threaten Cloud Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVRZaDJqbnpNZl8xbTVHd3c3Vk51U3ROc2tEUnF6Qy1iTlJkcWJZNXh4dmdRSkh5MGNjYmN4UXhMbnowNnR5T2duYXlwNVBOcVpEcENVak5nMF9xMEJLbTVVNDFFZDV2R0JXOWxzN1J1Y2thSmR4NHJFRkRHMDF0ajFBYzc4aUJ1V0VBSUYwa25JX09odmFkS2dXRU00ZVRmV3Z1RVduYVRXY2dSeHc?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-20T12:13:40Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0f52c07a356690908530c4",
-      "title": "GITEX GLOBAL 2026 brings the world’s tech leaders to Dubai as AI reshapes the global economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM1BiZ3U0U3hhZC00bHZIYTN0M3F0ZXRDbUJrNzctem1aRnVOZW1WSG1QWEZkRWhZQzZEU3cxV1NzTDdKb0dxNHUtdG9FalkzZ2dxTU43QlVmbS1PVUMxRFVsT0d6eTNPcFhLeFQ3aEVtLTdfTE1od0hxZlpwdndFUWR1ZmRoNUZ2T1pFVDFyWWpNampGR3VMN2I5cjNRRjkxdkpwRkZqc2s3SnQwcEMwSFdIUXM5UUcxdFdpYVlLQnk5SUJIa1FjN0pB?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-20T12:07:12Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
