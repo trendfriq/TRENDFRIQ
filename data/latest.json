@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-21T09:27:54.785111Z",
+  "last_updated": "2026-11-21T10:25:28.718796Z",
   "articles": [
+    {
+      "id": "5c056732ef36bcf6497c35",
+      "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFpLRklubVpoUExoM0FURUhBQ0F0R0dsNGZCMXAtR25rZUxIN0M0UU1zcTZqbnd5bVJ0X2FUYjh2ZHlMU0Q3UGVVcUFRc1UzcDNhSWI5djdhdjZNZm05S3htdlpuSWNfTzN1a0dtZzFEYW9WTnNEd0hYcHZVaVZVaGRFYUcyN2xfNk5IVl9OQ19Vdnk3SHVIVElHdkJ6X3d2aUFvX1FNdzBHV2xFeWlEQ0VNUElqWm5zcVZB?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-21T10:00:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e54ec07f73645f1c57481f",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T09:52:11Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
+    },
+    {
+      "id": "f145586c4d65f73b10ee71",
+      "title": "Chinese Embassy in Mexico slams US consul general's claims over Chinese investment near border, urges end to interference",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SbGJpYXBLazNzMU1Nb1FkbXc0R3NmaDFrQWlpT3JZSGN6Tnc4dUE5c0xsLTd4S29EczNyX2FKWXB0LV9qbk00MVdjZ0ZhOWx0YWJXV2d2ODZLVVZMLXdudmpR?oc=5",
+      "source": "Global Times",
+      "published": "2026-11-21T09:47:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "438962f752c0a47aa622ef",
+      "title": "Rejoining EU ‘on the table’ as UK strikes deals on trade and young people",
+      "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all options” would be examined in the process, after the prime ministe",
+      "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+      "source": "The Guardian",
+      "published": "2026-11-21T09:45:52Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a8ef665b3433b55dbebb6fb4abe465f1500c8ca9/367_0_2860_2288/master/2860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba8e07d06bc93de5e24b3211a43b2148"
+    },
+    {
+      "id": "8bd28aa954d3604bf83d4e",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T09:40:55Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
+    },
+    {
+      "id": "1c64d44e2f0cbfcc233579",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T09:34:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "34db4c24565b3ffd3f1350",
+      "title": "German media highlights significance of HH the Amir’s Visit to Germany and its role in strengthening strategic partnership between both countries | Gulf Times",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNd20yQkxXZldEaU03TkZGSW14RnAtY3NMdThON211ZF8xeVdLT0luMXNHczNoeWR0X09mZ3p4TkV4MGNqaUF5c29oWVExbVdDTnNSWkJ1QzdVNUJCdWhHX1ZpQkZfaHZHX1JqUkIwbGVac2tsQjR1ZktUcjZMUXN6SC0yTGFscnR1VnpSYXlEUVhwamV3YWdjWVhYZ3JmMjhXU0l4Rk1UN0dCazQwRWVEVWtyNlBkWXNIT2tZNGhmQ3Y5NDZILU1maEdFd1BRWjRVam02R1BsU0p4S3BYX0lJVU16UF9lOVE2MEM5WXFXc3R0SVpPNnh5clJHLTJDeDVXYU1xM1VYRlJUMFgtMnpQM1FaS1BiQWp2QWtrUtIBogJBVV95cUxNd01QVHg4UXBSc3NZQlc0TVFUa2Myd3hXSloyUnUya093Z1JHcl9TaTJxdlBsU015QTVLUTNQemR4dFcxZzlVWlhYdVVEUmYxbGlQcHhjcGtuV1hEd3phQTRCaDZVTVZBWHJUbXlNNW9ES0c1aXExMV9yeERvYVotYU03bTN5WUEzLTVxRmFmRXFVRjZnZ29CWkIzcnhJU3ltRjFSUGI0cWVOOXJrcHVhdmkzX1JwT3pycVZkZG83MVAwQlRPTGR2NWRYNFFwU0NBd0JrN04tTTVLNXRCSXRmMkJYNnhBam43UkFRdEptMTFXcU1SdXMzTmdCalFYZVFkZ3hiMEFWRW5xQ2w1VEtrcm5XclBfYTFkUEVWRVJ0UF81dw?oc=5",
+      "source": "Gulf Times",
+      "published": "2026-11-21T09:25:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3f0d6908840c57e8e24db7",
+      "title": "Qatar eyes broader economic growth from AI and digital transformation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0FvdUppMERXS3FhZHZoRjJaNGNEcy1fZkV3T1ZSRl9QMWRiamZVR0wyN29nNndhalJWSDhOd3FHSDlUZ0JET3hsOER4ZUpRcm1wQ2tqZldHcUc1WjVJRHFSeWNfR2s5YXNhR0IyNFNFUUpWZWYyS1EzQkdtaWdPc3R5STQyTHRTVlVvVmZ6M24yNXVKaFpiN290Yk5fbEptYmk4eDVZVWFnUGNVWEZtaUJ3ejB4M2tiT1E?oc=5",
+      "source": "The Peninsula Qatar",
+      "published": "2026-11-21T09:02:45Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "5adaec9657f68cf8b1539c",
       "title": "Design, data, delight: how to get your message across at tech business exhibitions",
@@ -74,18 +170,6 @@
       "image": ""
     },
     {
-      "id": "e54ec07f73645f1c57481f",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T07:31:05Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
-    },
-    {
       "id": "ee741c1123ad5885be6f00",
       "title": "EU mulls tax on big tech to boost budget",
       "summary": "",
@@ -134,18 +218,6 @@
       "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812"
     },
     {
-      "id": "8bd28aa954d3604bf83d4e",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T06:00:09Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
-    },
-    {
       "id": "81231055e0a0be4281ba98",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
@@ -166,6 +238,18 @@
       "published": "2026-11-21T04:28:08Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "60a7291fbaf6877d6039ed",
+      "title": "Tourism: Gulf Investors Strengthen Their Presence in Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0wtOFhvNlBEVWx0VEhnSnFLMW8zUklnZVYzLW5qTHpYZGtvTUZFa1VwQ25SMm5GTUYzeWUyd2RmQnNHVFJ4RE84eEJvRGdBYmhRejVHOUE5RUdKUnpHNkQ1cmsyWU1PV3k2aFItbVdfT0tFYThUNW9kcnFlem1MNlYzOG5OUXNWRElFUGZTN2lFS053?oc=5",
+      "source": "Africa News Agency",
+      "published": "2026-11-21T04:15:18Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1028,8 +1112,8 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm1jajFWdFNxRXFqby04RlFCSEJndmNkUU53bmlNbDFLMklXTGdnV1B6dl9LNWI0c0RhSmlJRHQzMWt4b29fYnJlU0E0WnBHeUZLOFJJTEpyb0g5bi1WQVhsUFFuSGprZ1BSYnp2TEJWQVdrRnZDMWsxQnV1S1Z5QTIyak5zMGpuS05iVA?oc=5",
       "source": "Global Finance Magazine",
       "published": "2026-11-20T17:23:02Z",
-      "category": "World",
-      "topic": "Africa",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -1356,90 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/c93a0b576d6221af2c2b9afbf95a6ac624c4982c/806_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=44b54d162cc9b2238e9bd34944076820"
-    },
-    {
-      "id": "1942a91a9f55b1befc5ea2",
-      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-      "summary": "In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against its Muslim minority. The ruling from the International Court of Justice determined that Facebook posts made by the country's militar",
-      "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
-      "source": "The Verge",
-      "published": "2026-11-20T15:02:13Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b683079839bae5071bfaee",
-      "title": "Let’s talk about GTA VI",
-      "summary": "It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play. Thirteen years after GTA V, and eight years since Red Dead Redemption 2, Rockstar is back with its latest sprawling, extravagant open world. There's a lot to experience - and a lot to talk about. Perhaps [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
-      "source": "The Verge",
-      "published": "2026-11-20T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "507fd81809a6d69133de5b",
-      "title": "Trump touts meeting with Xi and Putin but offers little results",
-      "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-      "source": "NPR",
-      "published": "2026-11-20T15:00:00Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/5742x3827!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg"
-    },
-    {
-      "id": "edcfe7bbf8cbb2efd8879d",
-      "title": "Global Trade Restrictions Rise as Businesses Adapt to a More Fragmented Economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmRWS3FSb2J0bmNuN0tRUzA1LTUtSG9LajV3UEdOaXY1OFBUckE4eXpYd3R6eU5ib0tVZGotUndMWkxHYUZ6U2hsNFRqemlsT18yNWtyQ19lQXpoNzNUNjlnb190NklhYm1TcTBZUklIR2QyZWF0dG5CTnVqWXJjcWdTbkxYZzF6Nl81bVVFOHNBWWhtNTF4Rml1cEdTdG5zNVlxUVpZaUEydlJ0Q3VaR185aGhidzZv?oc=5",
-      "source": "kalkine.ca",
-      "published": "2026-11-20T14:50:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9da83776370914409f13a4",
-      "title": "Siam Global House PCL falls 2.28% in Friday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmlrbnNQWEh3YzNmaS1HX0N3UWdtOUV6REI3VHNiLXJkVHRZNzgwYURoWGc2dkxKYWphOFNYQ3JYNWtydnp1YXZ6LW1VeGM5VTRwdVZ4eGFvUm43WUF1dEFhODdzU1drTFUzTHlRdnViY0N5RmZiNnk5czUyaVM3MC1pZUFEU2dWclNaZ0tCdHlGQlE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T14:33:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "083f4f14fb9ac6893277cc",
-      "title": "AirAsia CEO says talks about opening Myanmar airline 'have stopped'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmFPMzBPXzRiNkxZYmVjVnpKS3JnM1hldWxFLUR0UnBBV1poVHZxdDF3NzFhUDVCbVZwR1lmUDZRTUdFYXhYai1NSFNLcDEyYm1rREdJVUxVU1RoQnVzRHEwSnhPUVhCNHBXbDE4dEhtcmN1ZlU4NHp5ZnpTQmZ5TmxpYXFaVHVfeXJuci1PUE9uaXBxclRpeThFeFFTeEFVSlBWcXVlU0UtUQ?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-11-20T14:22:08Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d2e3cef1ee923536db1329",
-      "title": "Finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83bmVabEpWN0lld21nZk54dzBhZEhVTlBVVHdIdUNMak00M3VBUXNXQjdfMFNTeWZfTW10OEZvYWYzWXI0Rk9EVl8yY3lrMnlULWpwVFp6cFRRYkwzRzdYZDZHTUJnckZNSWxtSTNLOGptTzhqZXc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T14:17:21Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
