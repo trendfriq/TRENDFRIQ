@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-21T11:22:21.762803Z",
+  "last_updated": "2026-11-21T12:20:58.537671Z",
   "articles": [
+    {
+      "id": "8e59042706a73eeaf82bf8",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "source": "The Verge",
+      "published": "2026-11-21T12:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "37ef30d8fbbc897752be44",
+      "title": "Samuel Ubido thinks African startups are overlooking Gulf capital",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GY0g1OXMwZ05GSnZINjNleG1na1RTOFdWVnp1WGQxMTdwQU44UmM0a0xXbXc4T3VWRlh1R3dlbmdQRmNSNnZKQVZWQ2ZiNnNvck5wOVdITHZOTWpxS3hUbnV5bE8zZ2JXT2U5b3hn?oc=5",
+      "source": "TechCabal",
+      "published": "2026-11-21T11:55:41Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "714dcc77cc1a9fcdd65128",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T11:53:38Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg"
+    },
+    {
+      "id": "438962f752c0a47aa622ef",
+      "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+      "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all options” would be examined in the process, after the prime ministe",
+      "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+      "source": "The Guardian",
+      "published": "2026-11-21T11:33:01Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a8ef665b3433b55dbebb6fb4abe465f1500c8ca9/367_0_2860_2288/master/2860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba8e07d06bc93de5e24b3211a43b2148"
+    },
     {
       "id": "648429514624a0b509d119",
       "title": "French Presidency Calls EU Budget Proposal 'Very Disappointing'",
@@ -10,6 +58,18 @@
       "published": "2026-11-21T11:19:45Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d3b516753e958eeff5cce2",
+      "title": "#Video_News :-Ethiopia, US discuss expanding trade and investment, advance cooperation on Bishoftu airport project watch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjhjYVlTWEgyem90UWEtMmxuQWtqMi1LUkk5RFVTOVlueHJFZUhtOXh5anZBT3c4eExGTDY3dDAweXFIOGZJLTBZbTZ4Ym1hYm4yd1ViWHU4Z1FXU0RpeVNvWFNqRHlCTHRrck5MX1VNb1RoRFJqaWJkdE9saUxGbl9GVmtFeFM1S09qR0hzbnNvTlpaYWFjTUNuRGZOVEZyQTVvcElhbTVEWUNNcFFhMjJTS2V5cU11aHJ6R3NObVpTS3VEeVVFcWhRUlR6Vk9kMHh4QS1rcm9QNW91VURv?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-21T11:07:32Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -72,18 +132,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "438962f752c0a47aa622ef",
-      "title": "Rejoining EU ‘on the table’ as UK strikes deals on trade and young people",
-      "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all options” would be examined in the process, after the prime ministe",
-      "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-      "source": "The Guardian",
-      "published": "2026-11-21T09:45:52Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a8ef665b3433b55dbebb6fb4abe465f1500c8ca9/367_0_2860_2288/master/2860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba8e07d06bc93de5e24b3211a43b2148"
     },
     {
       "id": "8bd28aa954d3604bf83d4e",
@@ -152,6 +200,18 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0FvdUppMERXS3FhZHZoRjJaNGNEcy1fZkV3T1ZSRl9QMWRiamZVR0wyN29nNndhalJWSDhOd3FHSDlUZ0JET3hsOER4ZUpRcm1wQ2tqZldHcUc1WjVJRHFSeWNfR2s5YXNhR0IyNFNFUUpWZWYyS1EzQkdtaWdPc3R5STQyTHRTVlVvVmZ6M24yNXVKaFpiN290Yk5fbEptYmk4eDVZVWFnUGNVWEZtaUJ3ejB4M2tiT1E?oc=5",
       "source": "The Peninsula Qatar",
       "published": "2026-11-21T09:02:45Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "26d40a94c9428f9f31f3c0",
+      "title": "Qatar attends signing of San Francisco Declaration, Silicon Valley summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdG1xSGR5SXo4TGUxMVNhX3M1eGotZTVtMGtpeS12azNRLURGOU1tVkUwMFpLeTA1RXZMSFBoMEFzREhweUZXTi1NRzBMaDVzUTZXQWNoTWhabFdwNDJyOFNOZ0FOQ3paU1hINGI5N3hfUlJzbm94OUl0WEFyMmVYQ2NHcGg2VTcyVVdsYlJidVB4YlZXS0hYMjU3czRqbm5xN1J4Y01XRWNFRUhxQTIxNE14cjVCMllmUDlMc1Vn?oc=5",
+      "source": "The Peninsula Qatar",
+      "published": "2026-11-21T09:01:31Z",
       "category": "World",
       "topic": "Middle East",
       "country": "",
@@ -350,6 +410,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800"
     },
     {
+      "id": "bb58dc6ae70d0f0c0af8eb",
+      "title": "Xi calls for jointly building Asia-Pacific community to prosper together",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRUelhwa0pmdjZVRVRzOGRISjdlOFFCNXVHOHdrUU4wOER4Y3lvcmh4QjZkdkFOSU9qOWZzTlZvSE9ZWHNCTVdpdGRLLUxtRWYyenI5am05X3FFTklYYVNwcm11ZDZ2dFpiTHA3TzVzY3VYWmhaUFJyOUlscnAzdk1tdkx4VzJqTjVqMFBqUW9nS21SUGZNTmpXREQtQmF4SUE?oc=5",
+      "source": "Ghana News Agency",
+      "published": "2026-11-21T03:31:04Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b1ffe06b42b6644bebf4ce",
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
@@ -514,6 +586,18 @@
       "published": "2026-11-20T23:44:22Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7ce8935552e0abee5ce880",
+      "title": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-20T23:29:54Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -792,6 +876,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "ec014785aff0494ea4fa6e",
+      "title": "IonQ, Hewlett Packard Enterprise, Everpure, Infleqtion, and Super Micro shares plummet, what you need to know",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObklJMXpOeGZNLTkzRlZMd0xGX1pQUkFIYnBBd3VsLWxhLWs0SmI5Q2lCSlJ1V3J1aW1vNDZuVFZuZVhha0hoMmZKRmdxYThiSWQxWTB6UXllSlI2a0Mya2xNdXRqQmNlR1EtYTNxcUJfei00QURzVEE4SUE2bEJuYVBJM3lhRi1XMjVGbDFva3ZxWm9oYzRaT2tfd0w1OXQwUXlxaFYwVE8tcmloLUhJOFJmTDVVb0hCd0NxY2RlX1ktcmE5akYxNW5fc3RVRkdJcTZCblpCeUhZdWExSzE5MXB6RG1pM2ZjenFmLWUxU1lUNmxQYmF3?oc=5",
+      "source": "StockStory",
+      "published": "2026-11-20T20:49:14Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "28a72b175fa002be3c86f6",
@@ -1196,8 +1292,8 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm1jajFWdFNxRXFqby04RlFCSEJndmNkUU53bmlNbDFLMklXTGdnV1B6dl9LNWI0c0RhSmlJRHQzMWt4b29fYnJlU0E0WnBHeUZLOFJJTEpyb0g5bi1WQVhsUFFuSGprZ1BSYnp2TEJWQVdrRnZDMWsxQnV1S1Z5QTIyak5zMGpuS05iVA?oc=5",
       "source": "Global Finance Magazine",
       "published": "2026-11-20T17:23:02Z",
-      "category": "World",
-      "topic": "Africa",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -1344,102 +1440,6 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "6b4567410006f97b279f19",
-      "title": "PE firm TJC to acquire majority stake in healthcare events company HMP Global",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblA5bUJHYTdsbW1mZU81ZHNiU2VNUXBhSjdReVg4SXotNWxDd1hLZnk4QXRoSEowb3hLeEljUkl4UHhoeVRZaVpld2p5MV9NVGNiemh3SEN0bnlDY0pSXzVCUW9PcjJ5WTVWVDVpQ2ozUnZhUUQzMW9wQ0x1QTFJWXVzcWFsYXRieUs2UFNPQnVBSjM0TmM5VDNjcTFLWDRyV0RCLWN6VnRWTGRtWGRr?oc=5",
-      "source": "Medical Marketing and Media",
-      "published": "2026-11-20T16:02:52Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1dd44ac28af8e887dfa5ae",
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carrying on means an affair, which we deduce from a scene of her [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-      "source": "The Verge",
-      "published": "2026-11-20T16:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Minotaur_Still_5_MKProductions_CGCinema-scaled-1.avif?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6bbc3f0a7d7c521676571b",
-      "title": "Trade reforms to boost Asean GDP by 4.3 percent – IMF",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNWtUMXlOMXpsU1hqMlMwOUxoZ21RMzhtS2IzbTVNTi1ab3BoYkswendFQ242QUlpLTMxc3dyeEZyOUEzbHh4bVMyVFQtNEN2LVpLQmZzbURmc2Z2RUxrTFZILXFJQkktbTBxVjRaYjRDdDRGenZmUy1vbGVFS0thN1ZMYko2RHZWRGpZdDZoa3Brck5hMHpBOWVjWEQ5UdIBpAFBVV95cUxNQ2R6OEZQbm1BQlNoSmVEbDBEbDA0M2o3ZS1abEdWR0xORTFHZTdvdlFMN0t1d0JVdUdQd0d6WEJBUVhoNnBleTlPSWI0V1hjeG9pYko3bUFxeWprS1JEcHpZX2hGZUNFT2xXMzM5VHp2bWdoM3pUbHdkcEFFblNYTm9ZM0Vla2JjY2tJLVMwVzRsVHZHaTNfSExsUm1ndEtobnN0ZQ?oc=5",
-      "source": "Philstar.com",
-      "published": "2026-11-20T16:00:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9589d1293f9a9944d84962",
-      "title": "Trade office to enhance business ties with allies: foreign minister",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00S09BS0NuR1dFS3ZsNUwyQ1ZKWURfTHh3cnhpVUhHdEd4U3l1ekVmcEl2WHZtWGc3WHA4TVFfMmpyU2ZTUWtMRWxua2k3OUtxOWpxdS1CV1dYQWZ1blU1WHc1RE8xREZsRzNwQU02elhtRDNQeG5BNUhn?oc=5",
-      "source": "Taipei Times",
-      "published": "2026-11-20T16:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "309da99d778f4d960017b3",
-      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T15:59:43Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "08e02bb46220c500524f0c",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T15:55:16Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg"
-    },
-    {
-      "id": "5d3635131266ce9d6761cd",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-20T15:55:02Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg"
-    },
-    {
-      "id": "41ae633c6584dee9d5b17b",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low ",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "source": "The Verge",
-      "published": "2026-11-20T15:53:25Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
