@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-21T16:09:41.314312Z",
+  "last_updated": "2026-11-21T17:05:43.437396Z",
   "articles": [
+    {
+      "id": "d15566b2aef3b460300ba5",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T17:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
+    },
+    {
+      "id": "5551def0095f2a9b1f13f8",
+      "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+      "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, ",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "The Guardian",
+      "published": "2026-11-21T16:39:49Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a"
+    },
+    {
+      "id": "900af72d7615ad44fa3963",
+      "title": "APEC 2026: 75 Economic Outcomes, A US$20M Cooperation Fund & New Opportunities For Russian Trade, Investment & The Northern Sea Route: A Deep Dive Critical Analysis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdFI0dnRBLXlFc2dpU0c4dkJBTjROV29NaVF3bHNXRGJFNGdpZmpvUGxPTDdvVWUxYnFycGllQ0wzNDBDWHhBMVBjbEZhTUp2dHNQSWdsV2VWSEdCZnRNTy16TVZSdUNmbDFOZ1NlcHZBTU9qUTVJTlNWYklzSlNGLVBZSWx0ZTc2WlAyZUxCYUQ0RW1iRTBGMjlyMGNfTnZrdkNBQ3JQbURHaHE1WF85MUYyT1g2YUpIWGw1cHp3cXNoQWpxMkNHM1E4eWl0STc3Q19TLUtMc1QwZzQ3X3FkcHlWNDZOZ3JQRFBaNGZIUG0yZlVsS1o1MXNhZlJueENKWXplTVc0aGRIRUc0eGd3TnpuU3VFUQ?oc=5",
+      "source": "russia's pivot to asia",
+      "published": "2026-11-21T16:37:59Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cac4d486e46aeed2b2c3cb",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of stat",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "source": "The Guardian",
+      "published": "2026-11-21T16:36:11Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
+    },
+    {
+      "id": "1c64d44e2f0cbfcc233579",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T16:35:15Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+    },
     {
       "id": "53e893a48ca02ab2292951",
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
@@ -158,6 +218,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "a98444614dc04c05e75c7e",
+      "title": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHVGT2ZBUzhXT3BJMkJzY1BfWHF4XzJac1daQXo5SlA0SFpPNm16WDJmYlN2bGM3SlNxT3JDcTlJNlNoZG5pM2lfUHJXbEk1VDJaaTZaeEI3RTBxZ1dVR2pHOEJoTzFQV204dnhaLWMwSTVYQm9jejFjeHpKY0h0T193SkowSXJHLXBNcHFoQm9KR0hJaUJ2ZUo3MV80RE9GSjJhdW0taHk4cURiU1p6M0VrZlI5VDI0VGdr?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-21T13:42:55Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b4c5c76b40d57bbf4c9526",
       "title": "Grand Farm Innovation Campus: 590 Acres, 20 Firms",
       "summary": "",
@@ -192,18 +264,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "cac4d486e46aeed2b2c3cb",
-      "title": "International talks on controlling use of autonomous weapons collapse",
-      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am, after all night talks failed to overcome Russian objections. Despite an overwhelming majority of sta",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "source": "The Guardian",
-      "published": "2026-11-21T13:15:29Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
     },
     {
       "id": "d53e011b61eef9a5dd0ffd",
@@ -264,6 +324,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "69ce19d9975a926f44ffb5",
+      "title": "German media highlight Qatar's role in regional diplomacy and bilateral cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazNwMkIwVmZBZFQ0ZUxpRWVJa0hqNDA3a0hFaFRTanNsZDVQa3BGay1PYzRsYjZLVnJYcUtMd3hPTkZFa05vNHFUdUpEMzdHOUtibEQwN3dSd1RwSkh2a3VGQjkteWFfUTJFWGNNdU5TeHFlVU5tRG9DWEVhb3JSWGhqOVV1RmwxZTU4QnM2cVdvT1B3T21Ub19SQUtIaFVSQVE?oc=5",
+      "source": "ILoveQatar.net",
+      "published": "2026-11-21T12:43:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "fb1fe9310c16f81ff08919",
@@ -458,18 +530,6 @@
       "image": ""
     },
     {
-      "id": "1c64d44e2f0cbfcc233579",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T09:34:20Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
       "id": "34db4c24565b3ffd3f1350",
       "title": "German media highlights significance of HH the Amir’s Visit to Germany and its role in strengthening strategic partnership between both countries | Gulf Times",
       "summary": "",
@@ -566,6 +626,18 @@
       "image": ""
     },
     {
+      "id": "2abdc2ce7a0885883e8fdd",
+      "title": "Polish SME Loans Reach 59% of Corporate Portfolios",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VQWhNc09OeWNxMGxzZ1huYzcxQUFka1pldVNiN2hLWk94V3NLOFFpaEJqZ2M2aHJMNDhTRlNaRHhuX2szMlZ2amhOS3k0ekYtNXB2SDRpRTJTNy15RUlwQ3Y5YmN3QQ?oc=5",
+      "source": "CEO Magazyn",
+      "published": "2026-11-21T08:21:44Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9bc8a6e38b5a853ede9b2e",
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
@@ -610,18 +682,6 @@
       "published": "2026-11-21T08:00:00Z",
       "category": "Brands",
       "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a98444614dc04c05e75c7e",
-      "title": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHVGT2ZBUzhXT3BJMkJzY1BfWHF4XzJac1daQXo5SlA0SFpPNm16WDJmYlN2bGM3SlNxT3JDcTlJNlNoZG5pM2lfUHJXbEk1VDJaaTZaeEI3RTBxZ1dVR2pHOEJoTzFQV204dnhaLWMwSTVYQm9jejFjeHpKY0h0T193SkowSXJHLXBNcHFoQm9KR0hJaUJ2ZUo3MV80RE9GSjJhdW0taHk4cURiU1p6M0VrZlI5VDI0VGdr?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-21T07:32:29Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1130,6 +1190,18 @@
       "image": ""
     },
     {
+      "id": "9e027bb1763db07c33ea40",
+      "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlVLSmlNTnFYS3Ewc1RoTVhwMDNFT0FYY0lvcUFuelVqMUNHbi11d0lVN2gybFRwcjRHc0wtRENzN0h6dUVqMlhRUGl2MDdZck5rZV9CYzJBNHNWbEExN1dJMEZHdVZWUXZydmQ4VXIxenphZkI2WFh3NmtXMEVaRGwzS2lDZGpIbFVid3Y4Zzg?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-11-20T21:57:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5d685d000898c5680cf131",
       "title": "Mark Carney is turning Canada into ‘Singapore, North America’: KPMG",
       "summary": "",
@@ -1368,78 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "2827bf43df8d4fcf322e60",
-      "title": "What impact has Brexit had on the UK and EU economies?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERRT2h3VnpVb0xXN1RnZzVvMF9NYlBOMFRmWTlHTHFPUDRCQ1c0MnhSNzNGZE5hOW0zR05rX2JsOWpFX3dmY1czSTZPUnhZdlozMVFHVFZjRE5CN0w0a2dJenVfQ0tySENUUENLVjBYdC1TNzlLRVNBZkx6aGJFVE5aV21scHJhMFZz?oc=5",
-      "source": "The Guardian",
-      "published": "2026-11-20T19:12:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8543ddf4a52881252a171a",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T19:03:56Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
-    },
-    {
-      "id": "c04d6e21b0c2009a87972a",
-      "title": "GW Announces Inaugural OneGW Spark Grant Recipients",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHM2YTVDalBFWEFSQzUtby1TZ1VOYUt4S0hZMHdHRXBOT0M4VHk0U0ZTQ1llb2JwckM4RE00emI5bi1mb2pqXy1kQkJ1YVR0eEJHdUpuTFBOc3JhcjNRT2dzLU1wUXVEMmR0QzJsNXlEM08zNVlTZXV2VzNvbDNCQQ?oc=5",
-      "source": "GW Today",
-      "published": "2026-11-20T19:02:27Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "65bec229ca2f96b97469d1",
-      "title": "Will the UK-EU summit deal boost the economy?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JWkhXcnhCX1ZEa01EU1dvRHBOdWVwYlNyWEs2b3lBaEFtcnRMS1lNa1NHU0Z3VmdFWVphZ0ZwZ0RXUkRXWFNSRjBHbEFVc2R2MU9taTh6bk0?oc=5",
-      "source": "BBC",
-      "published": "2026-11-20T19:01:28Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "19df8f0cb63b63862b85e3",
-      "title": "Opinion: Canada shouldn’t abandon the U.S. We must launch a new North American century, together",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0dkV2REMFNlR1FQNV9RYnM1SXBmWjBzb0E2LUNGaUJ0ZjV2dG9lWEFQejZyNU4yc3JuVDUyNGFjQ05TQUdMMzNDMVQ5Sy1fOHZxQTlHTmVNY0FjS2h1V3NlQjZQdW92eklYd0xGVGJ3dEVQdktaWW4tRW1BUmp0S3hoeHZHTTNLOXN0ZmxtTGI2MDBJbEowdENxcl9pNVpUSExzZXprYWZzVk4yYklDbUU5U0JMZw?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-11-20T19:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b9965e31a21bde3dd4776d",
-      "title": "Farmers and startups talk face-to-face, get feedback and funding at Spur AgConverge 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDdISXJIaE5UOVJDMXJXZkppMFB5empzX0tTQ0Z4RU5nRGpaSE9nV2U4NjdoTWdyS09mbkJNN1FwNVFBckRaSUFZRzR4Q0hNLXBtQXRoMmpMSEM5SU14c1VwUFo2TERNZlJHaUVjQTl2eWFtck9POFcwTktLZV9GX0xmSnNaREZ1ak9mVEhpZ256UExiNTM1Nm9YeXlXcTF5Y1BVMXgtOENlUEZTV2Nid01pXzlqU2tiRl9ELWtib05XZElZMnc?oc=5",
-      "source": "Silicon Prairie News",
-      "published": "2026-11-20T19:00:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
