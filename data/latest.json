@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-21T23:15:24.763073Z",
+  "last_updated": "2026-11-21T23:56:22.455796Z",
   "articles": [
+    {
+      "id": "dad1a89c1ae97fbaf93430",
+      "title": "Qatar strengthens global tech, investment ties at US summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXdlVnJNTmlWbzB1amNVTnhOaWJ0Nm5IajFOLVU4dDNpdWxaVlB5aHhXTm9lbllkQThDOGxhVWFHQm1vY1hoa1hZZDVBVkhmSUN5ejVZYVJsVFVkVHZnVVlfYXlHZlRXMUxTWGpqcm1kLWFEMWhUWV84SENKSW5OblpVSXQ0bUktWFJiS2lhcHl4aHNZZVRaSlNRMTlwVTFnSmRSeTdlOG53SFA4VmNaR19B?oc=5",
+      "source": "Qatar Tribune",
+      "published": "2026-11-21T23:39:06Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d53e011b61eef9a5dd0ffd",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T23:31:17Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "6f0fe4ab3b1982b82f1ec6",
+      "title": "We Think Global Kids' (TSE:6189) Robust Earnings Are Conservative",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRndOTUVDX2g5Q2YwUmMtODNmMy1Ndjd4WHZQV1lNUEsyaDQ4NDJWWjdQeEtLcW9RQXhPWXBkYmhja1pEaXVxVkhTMElRMDBGZEF6c0EyUXBNMXhvbUFrZ25LX3Zpa2YwSXd1eHhaX3FDc1NST2ZHVkdNc2c4bEFwMTgwZEp4bkFFRFVIdmNWSUNlMW40Ui12Rm93SGpJU2d5cWp3VWNYRDdrSnlrVEhIVjlNNUFtNnhlTzhNVnFEejBtOU9ObXk2T3lINkVsOUV0a0dLb19ZX2g0dG_SAeABQVVfeXFMT21XRGg1UG5MZlhFVl81TG5DeDN1Yk5EQ2pFMERXbWJuWnJ0d2Vha2lVT3pBcm4zWC0tNFhJMnNoSElzbzVibGpMWVlnd1dtZW5jY1lHb3dDLWE1QkRIMnZuWWNneWlsTDRYQjQ0c3hHRVhKT2JKVDZ3c0VyRUxicFdDMm5qLVczSTBuay16ZzBleFA5TE1DTkdoaFRMbFRiSjBGVlV0U3NQN1lJQkpIVlBYTVJIZnNXNVQtNV9ud1FydmFlRTJQRzE0clBjbkxEeHM3cFhsNmEycXBDazB4c0M?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-21T23:24:11Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "a6c1ecc3f4375dd4c1cf34",
       "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
@@ -132,18 +168,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
-    },
-    {
-      "id": "d53e011b61eef9a5dd0ffd",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T21:05:29Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "7dd35e722de5f28c6d9777",
@@ -333,7 +357,7 @@
       "source": "russia's pivot to asia",
       "published": "2026-11-21T16:37:59Z",
       "category": "World",
-      "topic": "Americas",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -550,6 +574,18 @@
       "published": "2026-11-21T13:34:22Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2b9bc02c14805c1430002e",
+      "title": "Why investors are betting on the UAE capital markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLW94UEpLNlU5UFEwTzRVOEY0SUYyVnJxVGZGZVNDUmlxMnB0TkM1QVRhMFNyTEdZcVBwdEVSQW1wbTU4UjVSRklZelVhMTFUQnBOalVWNm5DN2Y3Ti05U3ZweXBHZDVKdTBFaVEzakExWVpYQnFFa3lfTjJYc2JGRllfcVBiZEdLc0VvLUducw?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-21T13:27:47Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -804,6 +840,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
+    },
+    {
+      "id": "7929a5eac1a6a1bc13eb1d",
+      "title": "META_TITLE_SECTORS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QejIxMThkdGVGUGhHWVlpYjVWcm1peDZwWll4MTZNR0ctREhlQmZYT1NRUjRSQU85VDhnbDV0aUlxUGY1VHB6RmdZcGdITWdLWWQwekExTGFDckNlYnVBNWdTaHNqOGdhVTBmanlPZ1VKLUs5S1JqeA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T10:08:06Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5c056732ef36bcf6497c35",
@@ -1392,54 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5edeaf13f200c4f950da4fc630d80c08"
-    },
-    {
-      "id": "7ce8935552e0abee5ce880",
-      "title": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-20T23:29:54Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d939cdb1b658d010dd5143",
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5",
-      "source": "BBC",
-      "published": "2026-11-20T23:28:17Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "df2857fa9871de85099c1b",
-      "title": "Event Recap: Exporters Recount How Georgia Resources, Relationships Helped Drive Global Sales",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3ZVT01VaEpiSUMxaGhyVGFUNUZEREQtYUszb2V0N0lWUWVkX3RKQmQ1T0dXTFZYcVljaGo2TUFKSzRJU3lDSE1oOFVYZXFRZE5vN1dXRmVzbHpHMUxkOFpBcG1aYmZHbzV4aVFFTTljd3I3azZnazJrMEVmSjM1WG5ieWpBTGVCaDJ2QkIyaVFXc0FINC1ybWJOZ3lwRDdJbElUVzVveHRfbGRmVzlwSEZvbW0wN2FkdjhDSUFYMA?oc=5",
-      "source": "Global Atlanta",
-      "published": "2026-11-20T23:21:44Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f1bb42fd1c541aea280d2f",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T23:08:57Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
     }
   ],
   "countries": [
