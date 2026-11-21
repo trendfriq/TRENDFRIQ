@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-21T04:35:51.872913Z",
+  "last_updated": "2026-11-21T05:34:09.127285Z",
   "articles": [
+    {
+      "id": "9bc8a6e38b5a853ede9b2e",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T05:15:41Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "81231055e0a0be4281ba98",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T04:34:00Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg"
+    },
     {
       "id": "cabb56ce40a70fb270c7d6",
       "title": "Bitcoin, cryptos plummet 9% with US tech selloff",
@@ -86,6 +110,18 @@
       "image": ""
     },
     {
+      "id": "43a4486038a97226354e0d",
+      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
+      "source": "London Evening Standard",
+      "published": "2026-11-21T00:18:31Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8a3642c6d9ad38a4d774d4",
       "title": "Week Ahead: US GDP, PCE Inflation & Fed Rate Outlook",
       "summary": "",
@@ -144,6 +180,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg"
+    },
+    {
+      "id": "e5da371fa4782201ec26d6",
+      "title": "The Gulf is betting billions on becoming the world’s AI engine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-20T23:44:22Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "df2857fa9871de85099c1b",
@@ -226,6 +274,18 @@
       "published": "2026-11-20T22:27:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e880c96f2c8a6ccfcbb32a",
+      "title": "Company CEO Update October 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQUlhTmNmaFowSExKeVFfc0lPcGhaaGlfZ3ZlNnNqbktENnhvVmNieWdGV3duZGhnVFVsemk0RVRMQk1kT19mdmJfQ2FqYVRIZ2hTZjktNVFvMmNJRHVVNU1TNDMtRkl4MGFkTDBsUDVuRUF4QzBqc2pvV3EzcWRjRndPTnJOZGYxbk1wYWhJRQ?oc=5",
+      "source": "New Orleans Tourism",
+      "published": "2026-11-20T22:22:00Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -728,20 +788,8 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm1jajFWdFNxRXFqby04RlFCSEJndmNkUU53bmlNbDFLMklXTGdnV1B6dl9LNWI0c0RhSmlJRHQzMWt4b29fYnJlU0E0WnBHeUZLOFJJTEpyb0g5bi1WQVhsUFFuSGprZ1BSYnp2TEJWQVdrRnZDMWsxQnV1S1Z5QTIyak5zMGpuS05iVA?oc=5",
       "source": "Global Finance Magazine",
       "published": "2026-11-20T17:23:02Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "43a4486038a97226354e0d",
-      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
-      "source": "London Evening Standard",
-      "published": "2026-11-20T17:18:38Z",
       "category": "World",
-      "topic": "Europe",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1390,54 +1438,6 @@
       "published": "2026-11-20T12:40:00Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6cff8075bf888c1ba5b97f",
-      "title": "Amex GBT Airfare Forecast 2027: Why Low Fares May Cost More",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0ZraExWd2F6Y1FlclYxbElFX0w3TGRiTmlGT0JCTGhUbERwcG13Z28xTmMzNUdwa0RCUmhzVzBObUw0UGd0VHMtTEViLXF4aEhDRFgxNk1FXzYxTWNOYnRCTkNRR2t3dEREU3E3Z2JPXzhqVkZ6cWlzRlllejNxUVA5Y2J1ZXdLTnAwemxQM05IOExZZE1WUHZIdw?oc=5",
-      "source": "FTN news",
-      "published": "2026-11-20T12:33:36Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ed1100462af701084c4059",
-      "title": "APEC tech in action: How could digital trade transform business across the Asia-Pacific?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTI1Tkdnd3ROM3ljVDdkdWtKcDZiSURyVWVVaXVSeXY5bndGRnpfZEJlWVd1Q0RzUGlwSmc0YzRsaGR5dm5XM1BWYzNzT2V4a2lNcGUtcEZEY2JqSkdNNm9maGdnNTgwenJFMWl2MDVTWDlCTWgtNTkwbHIxUHVIYmFybkxoTVJIaGwtV3FhSlBybDk1TXUtNmpBQUFhQ0FxMXpzaWtlbVVPMjFMMEVjdzhYRzdoblo1ZDZPMG5mbGRNQQ?oc=5",
-      "source": "CGTN",
-      "published": "2026-11-20T12:31:47Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "af7d30f58230f92314a9dd",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal p",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge",
-      "published": "2026-11-20T12:30:47Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "358e2ad5f192ad4de92209",
-      "title": "Can Asia-Pacific lead the way in a changing global economy?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzOHN6Ung3RHNmNXZLUHlCbWhha0J3TS1HYjN5T1cwTWdodnlFM3BhLThDektSOEI1ZnNlSS1VRkU1U0wyM1FrNEU1dDBmNl9tYzNwQmhFSkp0UU5OUXlyatIBXEFVX3lxTE84cEZFQjM5d0NHX2J6RGhYMUxraHBjTVBtREN2QlVCWHZaTDBydWJFd0g2ZWt5d3lSZ2QxOEljNmZPTVVaVnlibE95aTAzVFZwZGRROXNuVXQ4WVBC?oc=5",
-      "source": "Modern Ghana",
-      "published": "2026-11-20T12:30:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
