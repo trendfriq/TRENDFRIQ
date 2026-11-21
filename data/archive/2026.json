@@ -1,5 +1,41 @@
 [
   {
+    "id": "47de4a29b250ca717d7b13",
+    "title": "Can AI really help spot Black Friday deals? We put it to the test",
+    "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+    "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-21T00:06:11Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg"
+  },
+  {
+    "id": "8e748445a2262c424cd5ca",
+    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+    "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-21T00:01:39Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg"
+  },
+  {
+    "id": "df2857fa9871de85099c1b",
+    "title": "Event Recap: Exporters Recount How Georgia Resources, Relationships Helped Drive Global Sales",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3ZVT01VaEpiSUMxaGhyVGFUNUZEREQtYUszb2V0N0lWUWVkX3RKQmQ1T0dXTFZYcVljaGo2TUFKSzRJU3lDSE1oOFVYZXFRZE5vN1dXRmVzbHpHMUxkOFpBcG1aYmZHbzV4aVFFTTljd3I3azZnazJrMEVmSjM1WG5ieWpBTGVCaDJ2QkIyaVFXc0FINC1ybWJOZ3lwRDdJbElUVzVveHRfbGRmVzlwSEZvbW0wN2FkdjhDSUFYMA?oc=5",
+    "source": "Global Atlanta",
+    "published": "2026-11-20T23:21:44Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "f1bb42fd1c541aea280d2f",
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
@@ -40,6 +76,18 @@
     "title": "Robinhood Markets falls 9.44% in Friday's session",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW04RjRmV2ZWbGlTeUVqMF93V04zTjlSV01Qa09ONlhYTlNMUngwLXZpdlJEREM4TmhEczBMV0pSZEwyeFFyd01VSmtUVzk3ZFltZm8ydmp6X2lTa2pNWkhJY1pFTmNQUTJ2MUgzQkFfMUplZHNRVWRLMUJvZlRnS3czZmlKZ2c?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-20T22:21:11Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f7b55c9762a16873ac4bd8",
+    "title": "Cerebras Systems Inc. Class A Common Stock down 4.93% on Friday",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFyU3ZhWnRLYjN1VmlHVGw4WEFHdkFqY2Q1clJKeENmSFVBSUlQUTkxeGZGWi1TSlJacnFHaGZraWJnbzhzNmw0bnk2b2ZTNUY0RVFLOGxxTzFRRl9mS0N2RWtRUmQ2c0hTWGE2cWNEdzVHVUNsRGNadXFLRXFvMGFnS1FQWjJocmd6OThxaHVlbmQ1dlNJR2wxVHR5Qi11S05fREh2cw?oc=5",
     "source": "Global Banking & Finance Review",
     "published": "2026-11-20T22:21:11Z",
     "category": "Finance",
@@ -394,6 +442,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e5/live/f4ea50b0-e505-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+    "id": "8f5fa75e2af25477e600e7",
+    "title": "Andy Burnham: UK to explore even closer ties with EU after agreeing deal",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvbm8yWXlEX0ptd3ZoMTJucC1aNngzYURyTEYxM3RyOGRHRmpSTkxKM3Q0aEozTzVINTM4WEJNb3JUbmlhQlEteFFxS3lOYjZZckd5SE1xNDZkZms?oc=5",
+    "source": "BBC",
+    "published": "2026-11-20T17:49:48Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "fc059eec5b023eb85950a1",
@@ -1008,6 +1068,18 @@
     "image": ""
   },
   {
+    "id": "6cff8075bf888c1ba5b97f",
+    "title": "Amex GBT Airfare Forecast 2027: Why Low Fares May Cost More",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0ZraExWd2F6Y1FlclYxbElFX0w3TGRiTmlGT0JCTGhUbERwcG13Z28xTmMzNUdwa0RCUmhzVzBObUw0UGd0VHMtTEViLXF4aEhDRFgxNk1FXzYxTWNOYnRCTkNRR2t3dEREU3E3Z2JPXzhqVkZ6cWlzRlllejNxUVA5Y2J1ZXdLTnAwemxQM05IOExZZE1WUHZIdw?oc=5",
+    "source": "FTN news",
+    "published": "2026-11-20T12:33:36Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "ed1100462af701084c4059",
     "title": "APEC tech in action: How could digital trade transform business across the Asia-Pacific?",
     "summary": "",
@@ -1340,6 +1412,18 @@
     "published": "2026-11-20T10:37:11Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3c2323e5cdf108c7b711a5",
+    "title": "The figures that show Britain is better off without Europe",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUG1RVW0yY0EtQ3lmSXRLbFBPN0IzRDNMZzNuX2gtYjE1NEJ3R2x4WWpsQ1dhWE1TTnNsNFhtRnA3UTU2QklHd1JGVTZqNzUtSjJiWmVvbkZtNmw0enUzeDh4c3dCVTJsSVBZLWRIQnF6MzNxRDRlWWJDaHQ3NnI3eDhBb0t3VjlzWjRNcUI2VzQtTUt3TEV6a2wzZnFrNGZtOVR5cFVZLUhvZTg?oc=5",
+    "source": "The Telegraph",
+    "published": "2026-11-20T10:37:00Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -1950,6 +2034,18 @@
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tejNSLXlTU0s0Nk5nYUNQNTRTVHkwNTh3T05ibnE2RXU2eExQdkFkanl3M1lvbHR1cmwxRDJ6N3gtUjdOZHpHRWpNMm5IdWUtMUhNa2pRYw?oc=5",
     "source": "https://economy.ac/",
     "published": "2026-11-20T06:12:14Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "bd3f32f5d5450030a91acf",
+    "title": "U.S. Manufacturing Faces an Automation Transition as Labor Shortages Persist Despite More Factory Robots",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoUU1ycHJ0QmlERmstLW11OHBCYk1IUE8zeFEtUEliWXhWbjQ3WjBkbEdjNXpoNFZJR2VVVnRZR1RCdlJRbXJhMFJWY1R4My1nNEs5Tl9xVQ?oc=5",
+    "source": "https://economy.ac/",
+    "published": "2026-11-20T06:12:12Z",
     "category": "World",
     "topic": "Americas",
     "country": "",

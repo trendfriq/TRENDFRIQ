@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-20T23:23:52.181995Z",
+  "last_updated": "2026-11-21T00:23:58.034433Z",
   "articles": [
+    {
+      "id": "47de4a29b250ca717d7b13",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-21T00:06:11Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg"
+    },
+    {
+      "id": "8e748445a2262c424cd5ca",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T00:01:39Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg"
+    },
+    {
+      "id": "df2857fa9871de85099c1b",
+      "title": "Event Recap: Exporters Recount How Georgia Resources, Relationships Helped Drive Global Sales",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3ZVT01VaEpiSUMxaGhyVGFUNUZEREQtYUszb2V0N0lWUWVkX3RKQmQ1T0dXTFZYcVljaGo2TUFKSzRJU3lDSE1oOFVYZXFRZE5vN1dXRmVzbHpHMUxkOFpBcG1aYmZHbzV4aVFFTTljd3I3azZnazJrMEVmSjM1WG5ieWpBTGVCaDJ2QkIyaVFXc0FINC1ybWJOZ3lwRDdJbElUVzVveHRfbGRmVzlwSEZvbW0wN2FkdjhDSUFYMA?oc=5",
+      "source": "Global Atlanta",
+      "published": "2026-11-20T23:21:44Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "f1bb42fd1c541aea280d2f",
       "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
@@ -66,6 +102,18 @@
       "title": "Robinhood Markets falls 9.44% in Friday's session",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW04RjRmV2ZWbGlTeUVqMF93V04zTjlSV01Qa09ONlhYTlNMUngwLXZpdlJEREM4TmhEczBMV0pSZEwyeFFyd01VSmtUVzk3ZFltZm8ydmp6X2lTa2pNWkhJY1pFTmNQUTJ2MUgzQkFfMUplZHNRVWRLMUJvZlRnS3czZmlKZ2c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-20T22:21:11Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f7b55c9762a16873ac4bd8",
+      "title": "Cerebras Systems Inc. Class A Common Stock down 4.93% on Friday",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFyU3ZhWnRLYjN1VmlHVGw4WEFHdkFqY2Q1clJKeENmSFVBSUlQUTkxeGZGWi1TSlJacnFHaGZraWJnbzhzNmw0bnk2b2ZTNUY0RVFLOGxxTzFRRl9mS0N2RWtRUmQ2c0hTWGE2cWNEdzVHVUNsRGNadXFLRXFvMGFnS1FQWjJocmd6OThxaHVlbmQ1dlNJR2wxVHR5Qi11S05fREh2cw?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-20T22:21:11Z",
       "category": "Finance",
@@ -302,18 +350,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
-      "id": "43a4486038a97226354e0d",
-      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
-      "source": "London Evening Standard",
-      "published": "2026-11-20T19:18:31Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "7fb40abee5825fd2b5db3a",
       "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
       "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy [&#8230;]",
@@ -494,6 +530,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "id": "8f5fa75e2af25477e600e7",
+      "title": "Andy Burnham: UK to explore even closer ties with EU after agreeing deal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvbm8yWXlEX0ptd3ZoMTJucC1aNngzYURyTEYxM3RyOGRHRmpSTkxKM3Q0aEozTzVINTM4WEJNb3JUbmlhQlEteFFxS3lOYjZZckd5SE1xNDZkZms?oc=5",
+      "source": "BBC",
+      "published": "2026-11-20T17:49:48Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fc059eec5b023eb85950a1",
       "title": "Chips can survive the space environment — can their financing?",
       "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
@@ -518,6 +566,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "5a32a78ba8e4778098e910",
+      "title": "DOE Supports Quantum Software Trials By Ministry Of Economy, Trade And Industry",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0dja0xlYzBVbEZvM21GT3RKbGU1RHBGN3MyclUzRkFQS2ozOHQyLXJIeElnM0p0eWo2WHIwWXFwcmpQM05BYnhlWmdlaGVhRVAxWTlySUZXVmZUQXV6VnlHaExDQVh3TXM5bHZtQXd3bWc1UjVqempOVHMxV2ZIVWdsbw?oc=5",
+      "source": "Quantum Zeitgeist",
+      "published": "2026-11-20T17:29:08Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "46d9a9545aa3181e7580e2",
       "title": "Africa’s $4 Trillion Capital Trap",
       "summary": "",
@@ -526,6 +586,18 @@
       "published": "2026-11-20T17:23:02Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "43a4486038a97226354e0d",
+      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
+      "source": "London Evening Standard",
+      "published": "2026-11-20T17:18:38Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1142,6 +1214,18 @@
       "image": ""
     },
     {
+      "id": "6cff8075bf888c1ba5b97f",
+      "title": "Amex GBT Airfare Forecast 2027: Why Low Fares May Cost More",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0ZraExWd2F6Y1FlclYxbElFX0w3TGRiTmlGT0JCTGhUbERwcG13Z28xTmMzNUdwa0RCUmhzVzBObUw0UGd0VHMtTEViLXF4aEhDRFgxNk1FXzYxTWNOYnRCTkNRR2t3dEREU3E3Z2JPXzhqVkZ6cWlzRlllejNxUVA5Y2J1ZXdLTnAwemxQM05IOExZZE1WUHZIdw?oc=5",
+      "source": "FTN news",
+      "published": "2026-11-20T12:33:36Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ed1100462af701084c4059",
       "title": "APEC tech in action: How could digital trade transform business across the Asia-Pacific?",
       "summary": "",
@@ -1354,90 +1438,6 @@
       "published": "2026-11-20T11:38:22Z",
       "category": "Economy",
       "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2b52cc57283e2b72a45f76",
-      "title": "Take Five: Shopping, chips and central banks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWklrY0oyVWl6QVRlYWFVUjVyU1FLaWpKV1pjRkVPOWlYWU5Bci1qYjFmamx3WDVEeEgwZml1RzMtaWJDN3FSd054UlhERkd3Zzd5SjlJYlZwRlBEX1A2akJfX2ZLSWl1RERQT3VaaktrTlI1Q0VZZzdJdTlIejkxMXdrdHNMZ29Hdnc?oc=5",
-      "source": "93.3 The Drive",
-      "published": "2026-11-20T11:38:21Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c4d1dbbd05885ac48ea6f4",
-      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-      "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-      "source": "NPR",
-      "published": "2026-11-20T11:37:35Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5396x3597+0+0/resize/5396x3597!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F4f%2F895ab11541ccbf16687e335be256%2Fgettyimages-2305445208.jpg"
-    },
-    {
-      "id": "783c69e600b0a8a63911c0",
-      "title": "Mexico as a Listing Hub: Simplified Issuances and US Capital",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXRhMUItNDJBclhPMDFXQmhDWUlnV21Mb3FWakozRHNOSjhWQWlnMkdNV2xmZEczdzFPY19zaDk4QjhmXzlkclZ2dzhOdkdOMUFCaTN2Tno2OXpaOXNIZkZsdDc4LUkxTk8wVF9pUEhZWVhqdVVadDRYbFJBTFkwM3FKZkZrekdyYVZtYTNQbENMWTVOUkNvQS0xbw?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-20T11:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e9a9ba510802894ce89648",
-      "title": "Shopping, chips and central banks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXh3QTRTZW1RR1lQZXg1bHE2clBpUnkxNjljMjF0M0FXSWZSLVg3T3ZiQmxRYnI4THNORmJJZzU1TG9hbml1b1FvZFF6MGhjdUlNRmF2OXI3UDl2cURHVFJNV0JsNkd4aU54ZHBaQzEyZHcwTWxWOTNjbm1INXVQWTkzNWdvWEluejNfaA?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-20T11:26:42Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5c6b35c5b49481ef54f374",
-      "title": "ABS-CBN News. . WATCH: President Ferdinand Marcos Jr. reported on the outcomes of his participation in the 33rd APEC Economic Leaders Meeting in Shenzhen, China. | via Jervis Manahan, ABS-CBN News",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXYtN2ZVcmNlRWdTRGIwWGl1aHZlcklfQzZvcDJiZmpYXzZhVjZXRGpGc1RuSFhkN2t0UnZmSFZia3VDUzRCWld4MUZ4WXJMQ2UtZVZsOUlxZ2RIWXdYS0VqTVY1V0h5U2lwSWdDcWo0OUQwQUlobXB4TFJrckNYZlBkM2FScTBWNG5sY2JGTGJocW1XcUREMUpKVkxwQkhTTzdWZU8wdUc3Z19RaUs2X3VyOEUwQklOTVh0NUZLaEVybGhVVC1wbGstTFNVSVJud1JVT3VKemw?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-20T11:23:09Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d95b5aae4420cc5ffc1b4d",
-      "title": "ADFW 2026 unveils largest-ever partner-driven programme, headlined by L’IMAD",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEU5S09zSWc3TnUyc2RpbUhTYVdjQkp2cllDdXg2eklvZ2FCaDB1STlhOFQ3ZEJrdFBMQ1lWZXhZUS1YeU9oVi1qWjR5cFk0VUV0OG1tM25Sd2QwVmVVSUdQZU1BeVR0QmtIWkxvR2s1RG5DQ0ZRVnNwbE1tSF9KUXFZU0lmUXVWWWxzQk9YQ3Z4RmZvdV9yUHpKUnI3VEt3Rk9pclZ6aTlET1NjcGhCZkhlbXVSNld4Wmw2cDRURmQ1eDZXQThLX3JpLXRKbElrMmgzdkxIcw?oc=5",
-      "source": "Zawya",
-      "published": "2026-11-20T11:16:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8a266b1615f6467244a70e",
-      "title": "China's Shaanxi Province Seeks Hong Kong Investment to Boost Industry and Technology",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWlLUkJSSE9zU3otLVVGVDBMQU9MZDVUS2FybUpLWWh6OVBWVlNlWEh2RndZZEhSbUNweVJhWVh6U2dKd2JJbHpmU3lVeDlmY0NiMTl5dndGLTBNbkhQaHJnMEstOUNTdlM3NjRzd3NLQkRxS3VtOUtfZ2NQR3hLbURwWHBKNzZDYnZEYlljU0hPa1dpdWVKYUxiRktYaVA1MXBaMFgySDQ4VlBQbTFBZ2ZrQVJjQzItWkMwdV9ZcXVvWURCVjRzNzBQZHhwMTJIR3dmU2FyYWxxeC1vQnVaUUdyeXRpdWo5MEpzMDY5ZXHSAfABQVVfeXFMTzlpS1JCUkhPc1N6LS1VRlQwTEFPTGQ1VEthcm1KS1loejlQVlZTZVhIdkZ3WWRIUm1DcHlSYVlYelNnSndiSWx6ZlN5VXg5ZmNDYjE5eXZ3Ri0wTW5IUGhyZzBLLTlDU3ZTNzY0c3dzS0JEcUt1bTlLX2djUEd4S21EcFhwSjc2Q2J2RGJZY1NIT2tXaXVlSmFMYkZLWGlQNTFwWjBYMkg0OFZQUG0xQWdma0FSY0MyLVpDMHVfWXF1b1lEQlY0czcwUGR4cDEySEd3ZlNhcmFscXgtb0J1WlFHcnl0aXVqOTBKczA2OWVx?oc=5",
-      "source": "The Manila Times",
-      "published": "2026-11-20T11:15:10Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
