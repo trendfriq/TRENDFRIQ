@@ -1,10 +1,58 @@
 {
-  "last_updated": "2026-11-21T21:00:25.126468Z",
+  "last_updated": "2026-11-21T21:41:49.576569Z",
   "articles": [
+    {
+      "id": "7289e21f33e265e97a8945",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T21:37:10Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800"
+    },
+    {
+      "id": "8ed913cfa76c678b697520",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T21:07:42Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+    },
+    {
+      "id": "d53e011b61eef9a5dd0ffd",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-21T21:05:29Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "7dd35e722de5f28c6d9777",
+      "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdHalZYY2s3bHVEeENKX0g4T0M4WWxHV3lacDRlejl2b2E5VWNPd1AxbXhaaUVyNXBFLWlYZFlKTk93R3QzeFdVazI3ajljUFVLYnFpb1VVQmNrVlNvYTIyajhxM1JBbjYxTkhJMkhObEJGSVdRdmZDVzItblZFd1A4NHZaWTZiZWdFVVc4REI2RGF5UjlGWndXeDFha2k0MWdqRkE4X1ozQ1h5N0ZxZmVVTVFldC1VRi1keUdBQQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-21T21:00:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "5551def0095f2a9b1f13f8",
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has convincingly said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American math",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpög",
       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "source": "The Guardian",
       "published": "2026-11-21T20:15:57Z",
@@ -218,6 +266,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+      "id": "16fbbf2ec7e3c0543fb92b",
+      "title": "3TREES Sees Asia-Pacific Cooperation as a Win-Win Business Boost",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU2VCZG9LR2E1RFJoeUs4N25JUkhDNmhJWjlXc2Vid1E3Q2c1NFEzRGtJN3lTVUlpWlhxQjBfRjd0WDFzcW5kRWdwUGZZOThQNmgya1ZBbWVQQXI1YzZmcnZxVkxmU19IUndid2hpMHREejVzQWJPaWJRUU5QakEzSmZqVGZxVHlEWVpwZjFWU1pHT1pqMFROQ05POXhLd2FFZUJrNjBWSFVmd2hMUGlUN3ZNM05BZ0dyNVVQWg?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-11-21T16:08:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "53e893a48ca02ab2292951",
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
@@ -410,18 +470,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "id": "d53e011b61eef9a5dd0ffd",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T13:15:21Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
       "id": "c72d39b4d1f4c4f548b848",
       "title": "Egypt highlights investment opportunities at Piraeus Summit - Economy - Business",
       "summary": "",
@@ -430,6 +478,18 @@
       "published": "2026-11-21T13:02:28Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ffaff5f5b55e5b5f8db152",
+      "title": "Egypt highlights investment opportunities at Piraeus Summit - Economy - Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1g3dUhxbXZQMDc5LUJyOHhZcVdWaXJMTEM1X3RUS0l4azA3ZmNGMkNkT0RDU1Z6aFhrZXcybEltTDRSYXdNa0hqQ3JrdktzdFpRLU0wUXhnMFBSN2hmOE5fbEhNaXFOc0dJNVFaOGRHaEhfTl9NNzJlaVo1LWtOTktROHprdHhnT2JtVjkybldNRS15UEhqTzgycGhyZnBNNGlURlY3NnBwekQyUk5FSkdUSkszZk9fcUhKeFlCMW1ocGc?oc=5",
+      "source": "Ahram Online",
+      "published": "2026-11-21T13:02:28Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -694,18 +754,6 @@
       "published": "2026-11-21T09:17:42Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d425358df637b17654371",
-      "title": "BlackRock | Assets Under Management, History, & Influence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZlFtQzNhR2xleWw2Q2wySEJDc3ZabzUwMDR6cVE3QUVfTmp3SHpZNHdMZlVKcU5CYTBJZG5VYUFTbUswSkNVZVd1ZjdURkFGVjlucV9hN0N6UQ?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-21T09:14:56Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -994,6 +1042,18 @@
       "published": "2026-11-21T03:31:04Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bf49ac708a575b91da7f3a",
+      "title": "The Nasdaq shed over $4 trillion in a week, and after a \"Black Friday\" for global stock markets, investors are beginning to anticipate a rebound in the AI-related sector following its sharp sell-off.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3NxbUxyWlNyalZ5OE5yZTJjeG51b3ZySWNqQ2pkLUI1RmNJbHR3RHdCMy1pYTZ4cG9aZWhGVmRPV1k0M3hqNDV0ZkVFaHRkNXVEeWlBUENOYnZ5Mi1kY1Q5LWphSkhIMmZwbjJUN0JZOUlwVEFiU3VRam5ZdXBhZE4xZmNBb2p6WkRQUHhXUFNQdw?oc=5",
+      "source": "富途牛牛",
+      "published": "2026-11-21T03:21:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -1378,66 +1438,6 @@
       "published": "2026-11-20T22:00:34Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9e027bb1763db07c33ea40",
-      "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlVLSmlNTnFYS3Ewc1RoTVhwMDNFT0FYY0lvcUFuelVqMUNHbi11d0lVN2gybFRwcjRHc0wtRENzN0h6dUVqMlhRUGl2MDdZck5rZV9CYzJBNHNWbEExN1dJMEZHdVZWUXZydmQ4VXIxenphZkI2WFh3NmtXMEVaRGwzS2lDZGpIbFVid3Y4Zzg?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-11-20T21:57:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5d685d000898c5680cf131",
-      "title": "Mark Carney is turning Canada into ‘Singapore, North America’: KPMG",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkw4amFXOHI4Y19PUDZ2WFRjX08xZG5JX2RheDFFbEplM2YyOTU5X1dHTmZGb1BETUVxVDRoLTM1b2p3LVRBbnAtRE15VE9wYV8wczJua0pXa0dKaU9kdS1WQVZzX1JUZG0tVWpveVVXZXhoZ2FEMWlqQkJraEhGbXBFZktscElZbWhUYTVNU1VJSXBLRkVReUFkZ2ppcmZxR3hTbi1SNmZPeHMwckwzdkZWSHpYY3RHZFJXM0k3aWU0ZlpTQ3dHbTZSRnM?oc=5",
-      "source": "Investment Executive",
-      "published": "2026-11-20T21:46:33Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0d485e0dfc8d69ca836369",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-      "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "The Guardian",
-      "published": "2026-11-20T21:38:17Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0"
-    },
-    {
-      "id": "64747c00c2093235abcbb8",
-      "title": "EXPERT COMMENT: Football's financial model gives certain clubs a clear advantage, new research finds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW44a1hVM0hTRkdnUlQ0T292djlfdUdraWtDMlpKa0VLd3ByWGZ2dnNxQm15X3l3bkJmdkV1b3NzSzhSV3p0cHl2NENpTTNfZGJYV1hQWlBWM3lHLVBTR3JVNTItSTZhWFNCNHZEOHRla1BJb1RjcWxfNlFxdXhZMjBCMnVDc2VkUnpRT1N5YVAya0JlaTRJY3djeEE0V3VQcGhiRHpn?oc=5",
-      "source": "Loughborough University",
-      "published": "2026-11-20T21:37:57Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9e2d664cc9bb9521383e6f",
-      "title": "Q3 Music Earnings Roundup: Here’s What Every Company Made",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXF2RGZ1ZUR2dXFDLUVkYnNvZWhtY0tfQUVoZE10dm1pTF94ZExkMmFGMC1VWk8zV1NuMGRqX0ZqRjU1VXlycGtWX05XX2dheXRDc2FlZEhpQk5ENW1zUzBQMDMyaXY3dHlWZWpoNDFpa0R1LXJBbFRYNlNrb0Nic0dKQ09hSGQ1Y2VNOGJDY2tyTUE?oc=5",
-      "source": "Billboard",
-      "published": "2026-11-20T21:34:13Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
