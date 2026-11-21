@@ -1,5 +1,41 @@
 [
   {
+    "id": "7e38a968ec4d4e65c4b7e7",
+    "title": "Alaska, your next governor is a Wikipedia nerd",
+    "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+    "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+    "source": "TechCrunch",
+    "published": "2026-11-21T15:18:29Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304454647.jpg?resize=1200,800"
+  },
+  {
+    "id": "da752b147bcb71f98750fb",
+    "title": "The Reputation Leaders 100: India’s Most Influential Healthcare Communications Leaders – 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYmZwZHNIeXgzclhNNmVxOXBPMVV0YVRlUlN4aFJ3ZVVhQkRjQVRiY2ZfNGVNZTR0TVIwVGpLRzB4SExhTDR6YkpSVk1OLWN4cGY2QzQ1aWdJSVBXWnBYaXhfY2xKNXZkRm83NnluY2VzTFM3aS1iMHB5Mi1kR0NwWGk3ZkdmcVVVN0poVHFRQ2xhMGd4LUhwWEVUdFp0NXI2VWZiMUlFc3ZqZFAyODlicVczem1IS1BOMjBvcUZvV29BWUc3U2RhczQtREtVSDQ?oc=5",
+    "source": "Indian Startup Times",
+    "published": "2026-11-21T15:15:32Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d4f30554f1dab07223bf3e",
+    "title": "Billwin Industries Q2FY26 Results: Net profit falls 70% YoY to ₹9.61 lakh",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3A1U05wdk5IR05xTjlkWUV0ZkpLU25QTmRjUlZRVnY0Q3Z6ZzVWTmRKSkdZcnZ3bE9xeWE1Mmk0N29nc1VkTExaV3NfZW10akdqQWw4RXNlTkRnTmN0M0JmRHRuWTFzTm94em9WbTRLYkx0cW5icUpIMUNBNThYRFhNTDRldHJUT29sWUdDeUk5WUhsZDFqa0pFQWhMdHBaZ1FuOVBvaU9NOTllZmFtQW1uMWNUSHZxWW5wb2k2UXR4Zw?oc=5",
+    "source": "scanx.trade",
+    "published": "2026-11-21T14:51:41Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "f12e17e5c0d00f1e7ef09a",
     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
     "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
@@ -10,6 +46,18 @@
     "topic": "NPR",
     "country": "",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2764+0+0/resize/4146x2764!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg"
+  },
+  {
+    "id": "d45d7e724049a77984ab0a",
+    "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+    "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped Sónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun an",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+    "source": "The Guardian",
+    "published": "2026-11-21T14:00:01Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8845dd9368ddc195bbb4d2367f639ae"
   },
   {
     "id": "0a3e8c674a4c46f69d72fa",
@@ -58,6 +106,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
+  },
+  {
+    "id": "5ed776cdf9c2e9690d7dd7",
+    "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+    "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is takin",
+    "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+    "source": "The Guardian",
+    "published": "2026-11-21T13:00:01Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/4ccf3eba2b9600a32c8f0d9bd1554d5d4fe50e67/504_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b3df820c5581507ba81baa17bc0df23"
   },
   {
     "id": "6e64202f347e64030b9515",
@@ -264,6 +324,18 @@
     "image": ""
   },
   {
+    "id": "ed7c61baa34a7dad4276ad",
+    "title": "News: #Ethiopia, #US discuss expanding trade and investment, advance cooperation on #Bishoftu airport project Mitchell expressed the US Department of Commerce’s interest in strengthening commercial ties and encouraging g",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM0xNelVkRjktUkU4cWtqTDVXRG0wWlRQWEc5SVZKZDZVT3JkZ3NKd1kxWlU5dXVQUUFhdUVNdkZGQ3lBTUkwN0RXclRqcXpnZWVTWTNVU01jR2NtSkViclV1VG9RemtDdHc5c1hVb2E2cDVOZkdaYkpnWl92X0NPMjNYWXBjR1Z6RHRST2liNE1uYjdiOUp0OHUxTTRTUjJyM05sYUJldTZIVWp2YTJGTzVaTHU5dFVJQUpCQlUyUHc1TWx2WHJ6X0NJY2thLWNOVFFaUHlsLUQzdmNjczFj?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-21T09:17:42Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "3f0d6908840c57e8e24db7",
     "title": "Qatar eyes broader economic growth from AI and digital transformation",
     "summary": "",
@@ -284,6 +356,18 @@
     "published": "2026-11-21T09:01:31Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "67051ce612eccbfad2f9a3",
+    "title": "Shettima Hails Zenith Bank Founder Jim Ovia At 75, Says Nigeria Is Africa’s Best Investment Bet",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzAzRDZLcW40Z0t2Q0g4QW8xZUFFX2trUF90QkNpZkJZM1E5eV8tV2JENE5xeGg2V2dOU3ZUam5LUEU1Y1RFTE92QnZYWThUM00tYnJxTGpnLXdDUGloQUZzaDBSeTZEOUFZc1c2RWdrQXB4WHBGeEd4WHI0TllJNHVpbGd4b1dHTkZtTVBXNFdhakJGMndJdTZwSjg4S3YxeFU2R096S19ick9rbmJZNHE1bmhydw?oc=5",
+    "source": "Arise News",
+    "published": "2026-11-21T08:52:37Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
@@ -442,6 +526,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+    "id": "b3d0e4a9bf7e4ea55dffda",
+    "title": "India considers easing investment rules from neighbours, including China",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXJjbVlhNUxxbXJaR3pHbnoyV08yQzZEWUNSNUFnVWp5TGt1YmpxWXd2cDlPcmFjRnJlbDh4Vlp5dG5JdjVIeVFsN3ZUdl9CVVdVZElXWWFNbEZxYXpLTnotTVVWRHVMTDMtYlVha0g5eXhhWUNmYktndTM3dzROZHFxT3U2TU44eXRVMHRZY2FJc2hUbno3WU9RMW5ySGM3WkYwUnVRVWtLVldfVGhV?oc=5",
+    "source": "Yeni Safak English",
+    "published": "2026-11-21T04:52:14Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "81231055e0a0be4281ba98",
@@ -634,6 +730,18 @@
     "topic": "Americas",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "6701fc72f13b1f87186e31",
+    "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+    "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade. Judge Timothy Boyer of a state cou",
+    "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+    "source": "The Guardian",
+    "published": "2026-11-20T23:42:43Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5edeaf13f200c4f950da4fc630d80c08"
   },
   {
     "id": "d939cdb1b658d010dd5143",
@@ -1102,6 +1210,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edc12ab359a5fb13b1ccca0444584bdd"
+  },
+  {
+    "id": "6438cfda6deb348e721bfc",
+    "title": "The EU reset is crucial for British business",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sOC0wLTB4amNST2pFa3NjOHpRQmtSb1Ria3QwU0xfdU4wRGNmY2xPZHExblVRenN2ZjgyOTBmSFdmaGVxMC1pWnlGdWhPQlNUdlNjcmRoeU5uZ0ptS3VKRXIxN0dqTTFWOTd1WDhLM0M?oc=5",
+    "source": "Financial Times",
+    "published": "2026-11-20T18:18:10Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "502ba4456945bd31f3dcaf",
@@ -1944,6 +2064,18 @@
     "image": ""
   },
   {
+    "id": "40ac6b1d24c52ecd47133a",
+    "title": "Snapchat furthers creator offerings and English cricket star launches media company: Latest industry moves",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORjdvX1JtRlJlUTFxLU05Qml2VnhaWWQ5c0NBOFI2ME9yYkdGeXlWbUFFbGRwdlhkWFJmVEw2NHN3MVgzYnRjWExkcXpsWTJFLUtUc3lYNFhLT0xBVUNBN005Mm8xaEJJQVpUS3NEcmdSeTdGZHdyNWxSZzltcXhKWFVwN1hTMmdEN3AzUEd5VUF3NDhvY0VkTDI2NzgtcDI2NmQ5OHZsVTBUcGNxNFJzZElxZ3FoUUJMZzFUMG42ZS10YUZUU2NKcDhoZXRzeEEzYUMzSGJJV2tWZ2NFWkhZTlBMWjY4RVBBQnJTOVpXVVk?oc=5",
+    "source": "Performance Marketing World",
+    "published": "2026-11-20T12:37:31Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6cff8075bf888c1ba5b97f",
     "title": "Amex GBT Airfare Forecast 2027: Why Low Fares May Cost More",
     "summary": "",
@@ -2096,6 +2228,18 @@
     "published": "2026-11-20T11:53:25Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f308b6d4c1a65a7aed72e3",
+    "title": "Armenia’s GDP grew by 5.8% in the third quarter, reaching 3.4 trillion drams – official statistics",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM3VJYXdMWHVOSV9LVkpBaXhCclUwd0FhNGJsMTJma0hYd1YtbEc3dkRHZTdRQWpzRmFmUDVVNmxCZlZfWmFIZm5NS3FDcF9yU2VnSVFVUTV6OUcxLXpkSFRHM21MT3dkd0N6azlmMVljaGNEZTljLVNLa1VhSnREZTZLcWNiTEc1Ylo2WFBUb0dJTXJWZmZielM1aEwwWVRHRHVpY2tJaTV0MXpwZE0wS3VqM2VVMzdpOEoxOWRUTFFwWnctVmc?oc=5",
+    "source": "ARKA.am",
+    "published": "2026-11-20T11:52:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -6800,6 +6944,18 @@
     "published": "2026-11-19T08:00:00Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d431a5dbcff484577e3514",
+    "title": "Monthly Performance Review QQQ",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UNnZVQ0VDU19qVEtmUkVGdnVRbVhLYlRGOGVPYm13d01fbE41WUltVDk1WTc3TW5DT1o5U2FkTUVXOG9oRzNYeS1CRFNacVNUVmpQQjNsNXNoeFhTSldNUC04cXBVZVBsZkktM2YwNA?oc=5",
+    "source": "Invesco",
+    "published": "2026-11-19T08:00:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
