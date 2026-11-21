@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-21T00:23:58.034433Z",
+  "last_updated": "2026-11-21T01:50:20.632303Z",
   "articles": [
+    {
+      "id": "23b6824f82dfecd03568ee",
+      "title": "DataReel AI Film Research Tool Launched",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNak9ncnRyVGtJakN1VTItcHhSOGxYX2xMa2VNZ1I2Q1NzRTN3cTlPb05hT1Y3UXVhQ1FEMmc3eVp4aGhVdGdhMHVaeDBxTTdyUjNzdkZsWldWUmpzVTd3U2MzVkF0LW50UFdpNzZ5UWJrV1JVaE5ZdTVFTUt1b20zUlNDOFlfV3loeUhWMHJiNXBpdw?oc=5",
+      "source": "CASRAI",
+      "published": "2026-11-21T00:57:23Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8a3642c6d9ad38a4d774d4",
+      "title": "Week Ahead: US GDP, PCE Inflation & Fed Rate Outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGFOUE51WXJNSFhPYWJSRktSVS1YeVkwNFBabzlqUUhweEVsZ1BLZmVfOHlZMU1GSzRjY3V6aW5tN0p5M0ZBcnM4eVNtLTVyNTg3QVVWZnpKMnAwQ3N2d2lsbnBuM3ZxdkoyVGgydjFwWG1qS1p4X05kLVFtQlhnSjh1S1QwS0FnVmVubjFOSGVxa0tWQzluMmxsUlM5ejA?oc=5",
+      "source": "www.equiti.com",
+      "published": "2026-11-21T00:15:14Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "96c5d842a8364fbb687d5c",
+      "title": "3 Investment Bank Stocks Riding the Debt Boom in 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUJnTzF5RE9LZGJMNHV5bkFUb19RdlRBV3RtSGI2eEhKNnRHcjY0X29JOS1YMDJhSVhPbG9kN0FCeGdWSFlPNmZYRzFaWFJERWhpYXB0ZUtnR281WFltc3F0alFPdk9WdkMwWmVyOFpvQWwweW5oUVdqdHNZbksxQWJTSjNRRF9Pb2R6U0xaRnNseC1PbnFrOE1iV3A?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T00:14:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "47de4a29b250ca717d7b13",
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -12,6 +48,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg"
+    },
+    {
+      "id": "816826a2d24a389bfdab22",
+      "title": "Nvidia's Quarterly Revenue Tops $100 Billion; Anthropic Slips After Strong IPO Debut; AI Investment Enters Earnings-Validation Phase",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yR0czem92VEhaY0VPaV9LVHp0SHNLRWg1LXp2SUVuWEdZQ2htdzdMRmhsVFA2aEMyQzhnQjZpeURieDlqWFducTlBNTg1Y19ITXE0VUUwZEoxTTRRaDJJRTE1V2ZxdWZtZV9GUERCd3k3MkNiaHc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-21T00:05:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "8e748445a2262c424cd5ca",
@@ -48,6 +96,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "10e79a2a90a99de7b73489",
+      "title": "Government Fended Off Middle East Shock, but Couldn't Even Say “Energy Crisis” [Energy Odyssey] (21)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XRklvSWlmdmVnYXlhSkFOWWFUUFJmSGtjTVJsVWE0dUppY1dGRUs1SzlDWXVWZVhBRnBMbGpicVlkZzAta3NGTnNSMkQ2a3B6bGhUOHpGd2tlQ2hpRFlCSG84dnE?oc=5",
+      "source": "아시아경제",
+      "published": "2026-11-20T23:00:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5ef06037f3faa4d55810ac",
@@ -394,6 +454,18 @@
       "published": "2026-11-20T19:02:27Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "65bec229ca2f96b97469d1",
+      "title": "Will the UK-EU summit deal boost the economy?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JWkhXcnhCX1ZEa01EU1dvRHBOdWVwYlNyWEs2b3lBaEFtcnRMS1lNa1NHU0Z3VmdFWVphZ0ZwZ0RXUkRXWFNSRjBHbEFVc2R2MU9taTh6bk0?oc=5",
+      "source": "BBC",
+      "published": "2026-11-20T19:01:28Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1070,6 +1142,18 @@
       "image": ""
     },
     {
+      "id": "19b530379fcd717d2df847",
+      "title": "NIQ Global Intelligence: A Promising Investment Despite Debt Risks (NYSE:NIQ)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXNiSGtJNWc2Z1NPa3NOUnlrWTczbVAzcGdIVmpkeTgtX2ZEbU9ad3JzVjBkWjdxRVZVZndXeEl1WUJRX0p6X2RZWm1BMGJzMkZrVmhNR2xxM0RRQ1ktRndJRW5RYlE1aW82eGg2dld5VWN0ZjFUTVVueVJ6dktZdVNKa2otME5qdTk0MzVvbjIyUnJTTEVyZHNrUEJnNXRlOWVqSFpqSUs0QQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-20T13:40:17Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "32bf0c9eaa390a9327db53",
       "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
       "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
@@ -1356,90 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "46a9874c03310e70357055",
-      "title": "Revenue rose 169% at AmeriTrust, but it reported a C$4.2 million Q3 net loss.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR00zY2hLOUMtUDE2bTZ5R1AxMXl5OTFkbHI2c1RkaTFrd3FIMmlyVkYwTVJka2pFTWNOVmNTeDhwYU91RTZEeUIybnJRUHpnOURaZXpTUWNmakRGZlNxaVhKTU96S2RObXV5V2NoTFFiUnJGSTY2RVFNbmxRaG1fSjhNdFpvS3k0R2gwaUxUd19JRzJFZEdMQTJPWXFDc2FNX1JER21tS1RGUQ?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-20T12:00:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fab316322a970d0f1440fa",
-      "title": "NCC Boss Tasks Africa On $2trn Digital Economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jNS1mOWcwSTJ1R0ZXc0stR01fTUNVQjIwZjhDaHpNZVR0YXJDQkNsUVl4UVlOdlI4RlRXSVB4UExXWGR3LUZUZUFqYjczNnpiQU5tQmpna3QtVlp4U2hPWnNoVTFHbTZmTHJjVW1LN3E2eTFidEpaVA?oc=5",
-      "source": "The Whistler Newspaper",
-      "published": "2026-11-20T11:53:25Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "94782615941f7124a50cfc",
-      "title": "Global growth to be marginally higher in 2026 supported by tech-related investments: RBI Governor",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFJ2QVFNZUJVa1Rvb0NlWmhiYmNhNWNRMlVlYUNHSGY0c3UwcWlrYlVpRmR2RFI5dmdEUmprQ1NkUGlYUUpkdUtISTFYLWJPVVdXT1Y4bUt0ck5HN3NueF9QQUxobWhPMG92ZnpfdGVPUVNvYUpPXy04b05OS3B1X3preFlkbVMzWnY3LU4yU3VicmpKOUw2UV93UEZNZ05oOUlGaHQ4UUd2Y2c1cW1PTHlkVlF5WGE0WS13TmJNbw?oc=5",
-      "source": "DD News",
-      "published": "2026-11-20T11:47:29Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "06d6dd2a82295d8ace21b6",
-      "title": "Hong Kong showcases its unique advantages, forges closer ties with regional economies during APEC China 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaVVUXzVFOFFuRUZWOUwyTmVuR1VDS2JhLS1LWUk2Q3hVZl9tVjZBLTF3N0xJV1hzUlFCNEpIeEFqQlluVmdZbFMwQVRKTjROS2lDN0ktcnJ4MllLNFVlLXJUR3BGY21ORUtIYWEzd0twekRFTGNRS1Btd3hKRHg3X0VFWXZEMjM3bWRZa3drMVNCR19uNk02RTFOV1I0akFEOGx2TmZCNk9ueFVWcTV4M0tOdXlxeGEwUGR6ajlzbERvR3JuRFpKdWFPTVpfRUVjTTk0VmpzVXY1dmVKb2dQTWlJZkw2TDZmUFk4NDBFdWRqY1E?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-20T11:45:12Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "00d437fd04b97e66d99034",
-      "title": "Ramaphosa courts Silicon Valley investors as South Africa targets faster economic growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEFOUFBrYTdXMG1BLUo5YTBlRW5MakdaUXpmdzQ1WE94UXRVM2Z5cFFrTG1KdVRCbzBwZ2ttbkdDUS1PX05xX3ppczRwcHBjYWVDcHVWTjFvUGR0S2d2NmtNaVhGeXZsWXUxQWxwc0d3TkROMkxZWmF2M1lzYzJxb2dIdHEtd0g4TGxEcU14NGVlVUxQZXo1NVpJSEMwR053ZlZBekVDR0tRU1ZYcWtlQnRGRFU2NkhPZFRYeWptWG81Z2F2ekJXUA?oc=5",
-      "source": "South African Daily",
-      "published": "2026-11-20T11:44:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "db09a615486821d4e11551",
-      "title": "WuXi AppTec Co falls 2.49% in Friday's session",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObkZ3d3RpdzkwSnI1ZVdzdHM1bkstUEZ3R3M1V0tfRUpFcTVWSWdoN05FN0E5Rl84QWg3cTVHM1pNb25Cd0YzR1B5WjBXZE1JSDJza082MDZMcWx5aHhtRDF5LXoxZEZrT0lVZ1NvMWhKdlNhbExHZnZSMVM0X1ExYVB4VGdnTDMtMUE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-20T11:38:49Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6a8bbb0d6c47cae40a3e88",
-      "title": "Take Five: Shopping, chips and central banks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82aWtUeWY2RGFwY0dBZ1JMb2gtYUV0XzZVQm5CZkpJbmtuVG1UcG5KR3VqTE1MYUd6MnVLZm5QclhENnVMQnFHMGdlS0pjUXY1NTdFMGZqdHBORzA2c1ZKdFgwWXNHMjJqVjBsekhFNlI5WWhIaTc3ZFBLdw?oc=5",
-      "source": "KELO-AM",
-      "published": "2026-11-20T11:38:22Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
