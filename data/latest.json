@@ -1,10 +1,22 @@
 {
-  "last_updated": "2026-11-22T09:22:39.925727Z",
+  "last_updated": "2026-11-22T10:24:25.232128Z",
   "articles": [
+    {
+      "id": "1702b449ef0b09d7ee2123",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T09:20:45Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg"
+    },
     {
       "id": "eddbf49d13f44b73fcafe1",
       "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
-      "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross (ICRC) and rights groups warned that soon it will be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning",
+      "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning c",
       "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
       "source": "The Guardian",
       "published": "2026-11-22T09:00:22Z",
@@ -168,6 +180,30 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/4d3b2eefdc19be5ce451b348a00b741e730d6dbd/1327_0_6144_4918/master/6144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=742e1c0140c566ace0b2c60fd9f5a9da"
+    },
+    {
+      "id": "dc62efa3e552133449f101",
+      "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+      "summary": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationwide aviation shutdown since 9/11 . Reindorf, 70, had seen th",
+      "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+      "source": "The Guardian",
+      "published": "2026-11-22T06:00:19Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc4a06a36f029168cf89081de8277a0"
+    },
+    {
+      "id": "3d5e054fcafe7c1b2105a7",
+      "title": "Why Canada Joining The Nato Innovation Fund Changes Everythi",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNTVFN2T1NYTU9KU2ZyZWpUaUdDUkx5clNXOHZDc21SeVd6UUdKNWRtYVMwZTFYVmtySXFxV3N0clM3ZF81Vk9ueTdBT1pXZWdOa1RFUlZ5cVRtelBZQ1gxeC1ZRG9kM1RITk5fNFBPak5lUmg0ZG51T0lDaTU3WDYyRjNuTEN2VFBWbzJQUjd2S1YxQXVRMA?oc=5",
+      "source": "ИФЗ РАН",
+      "published": "2026-11-22T05:35:34Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
     },
     {
       "id": "520e56a219a4af173a969d",
@@ -744,6 +780,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
+    },
+    {
+      "id": "d92f7fd9ef597f14c007da",
+      "title": "Volkswagen to cut 100,000 jobs by end of decade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhfNlpDanlJVVFiX2FlOWotdUFRNUdVQmk3eWlGbWRzeDNLNlBKSUdtNkphMHEtUk1nTkN2RWxRbVVtWjJaMWJfV0ZFS2dNVVRCVjlTUGkycUNvdWtTUTlYS3BqV3JtQk5DYTE2TU1sdF95WEEzd0FmUVNvT2ZDeFpfcC1Ld9IBhgFBVV95cUxNdjRJZjg0RkpZbzlGTHdPWEF6WHFVOU1pRUk4dE1rcXdIWHlGcGlacnRyWEctc2U4UTNqMUdUQ3ZIbldrYmdyeHFHQzFTMmFsWHluNUFVV1FJRUlsZTBIaU5qTDVoMUFUcEQ0TFppZE5lM25DTzMwc05YU0s0LVh6cmVLYm1GUQ?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-21T16:30:38Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "16fbbf2ec7e3c0543fb92b",
@@ -1390,54 +1438,6 @@
       "published": "2026-11-21T08:52:37Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d1e4e55e3c105e23d3debb",
-      "title": "Cabinet says Taiwan stock plunge short-term, urges stabilization measures",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41a3ZQNXV1TVFlbDFaRmM0LXppcjdaeFNwZzBia3F4a3FvZFljUkRtelc1SHFKQW9KN1hYRXV2VVQzdnNOYkhHSTdrbV9IdG9MTjFYcVF5NA?oc=5",
-      "source": "Focus Taiwan",
-      "published": "2026-11-21T08:36:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2b186e2fcd946780ad7ae2",
-      "title": "CBK projects 1.5% non-oil GDP growth, S&P affirms Kuwait’s AA- credit rating",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam5HYmJlVE1yLWpnM0lVSGZrQzEzbkRkcy1oU09EWjQ1X2diTFdiVVlld0wtM29Ya08yQ1ZncVZReGRCV3hMZnhzamlkbEg4RXJCVEN5UXoxU3R1WjNmRF9GTzU0TWpwTmVMdGhWdFFWNTVrcVRsVlpBY2REZ3UxZTZNTVhna1pLYnFabWFLVHZoYUwwSFVhTWhrN1c?oc=5",
-      "source": "Times Kuwait",
-      "published": "2026-11-21T08:26:17Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2abdc2ce7a0885883e8fdd",
-      "title": "Polish SME Loans Reach 59% of Corporate Portfolios",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VQWhNc09OeWNxMGxzZ1huYzcxQUFka1pldVNiN2hLWk94V3NLOFFpaEJqZ2M2aHJMNDhTRlNaRHhuX2szMlZ2amhOS3k0ekYtNXB2SDRpRTJTNy15RUlwQ3Y5YmN3QQ?oc=5",
-      "source": "CEO Magazyn",
-      "published": "2026-11-21T08:21:44Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "40137ddf925c4bcef0eeda",
-      "title": "Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
-      "source": "Morningstar",
-      "published": "2026-11-21T08:16:08Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }

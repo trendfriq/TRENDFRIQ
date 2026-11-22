@@ -1,5 +1,17 @@
 [
   {
+    "id": "1702b449ef0b09d7ee2123",
+    "title": "South Korea education minister resigns over exam cheating scandal",
+    "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+    "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-22T09:20:45Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
     "id": "eddbf49d13f44b73fcafe1",
     "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
     "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross (ICRC) and rights groups warned that soon it will be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning",
@@ -142,6 +154,30 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/4d3b2eefdc19be5ce451b348a00b741e730d6dbd/1327_0_6144_4918/master/6144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=742e1c0140c566ace0b2c60fd9f5a9da"
+  },
+  {
+    "id": "dc62efa3e552133449f101",
+    "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+    "summary": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationwide aviation shutdown since 9/11 . Reindorf, 70, had seen th",
+    "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+    "source": "The Guardian",
+    "published": "2026-11-22T06:00:19Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc4a06a36f029168cf89081de8277a0"
+  },
+  {
+    "id": "3d5e054fcafe7c1b2105a7",
+    "title": "Why Canada Joining The Nato Innovation Fund Changes Everythi",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNTVFN2T1NYTU9KU2ZyZWpUaUdDUkx5clNXOHZDc21SeVd6UUdKNWRtYVMwZTFYVmtySXFxV3N0clM3ZF81Vk9ueTdBT1pXZWdOa1RFUlZ5cVRtelBZQ1gxeC1ZRG9kM1RITk5fNFBPak5lUmg0ZG51T0lDaTU3WDYyRjNuTEN2VFBWbzJQUjd2S1YxQXVRMA?oc=5",
+    "source": "ИФЗ РАН",
+    "published": "2026-11-22T05:35:34Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
   },
   {
     "id": "384d88b27801a300144f8b",
@@ -2076,6 +2112,18 @@
     "image": ""
   },
   {
+    "id": "52820c8e08099b9d707e81",
+    "title": "7 Up-and-Coming Stocks to Buy Now | Investing",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2Vybm5mOWpnUi1GNnh1RjE1d1FMaHIwTWdLZ1JjU1d4NGdNT1FPWTExR0h2WWNlcGs1cG5hYzYyOG9oRjdwRGhoVHNaRFUxNkpYSk9RTG9oa2ItUW1zSTZidE1PODdzSEV5N3FiZVNuRXozN0pvUkMxbHVrMkkxbDhsM2hkZw?oc=5",
+    "source": "US News Money",
+    "published": "2026-11-20T20:28:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "c3f95a35d3ae9994a6f668",
     "title": "US SEC Probes Nvidia's Accounting Amid AI Chip Export Scandal",
     "summary": "",
@@ -2504,6 +2552,18 @@
     "published": "2026-11-20T17:23:02Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9fe66b3ee450489ffc1526",
+    "title": "Google Cloud latest news and announcements",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw?oc=5",
+    "source": "Google Cloud",
+    "published": "2026-11-20T17:21:23Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -3126,6 +3186,18 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXNiSGtJNWc2Z1NPa3NOUnlrWTczbVAzcGdIVmpkeTgtX2ZEbU9ad3JzVjBkWjdxRVZVZndXeEl1WUJRX0p6X2RZWm1BMGJzMkZrVmhNR2xxM0RRQ1ktRndJRW5RYlE1aW82eGg2dld5VWN0ZjFUTVVueVJ6dktZdVNKa2otME5qdTk0MzVvbjIyUnJTTEVyZHNrUEJnNXRlOWVqSFpqSUs0QQ?oc=5",
     "source": "Seeking Alpha",
     "published": "2026-11-20T13:40:17Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "142f990da7abb7a8727452",
+    "title": "Budweiser Brewing Company APAC down 2.45% on Friday",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXFvUEZydzJLcXpMTDdnZWZiOTZKLUlEYk1LaVJoRXVhbUZvS1o3UzJvQzhiUlc5b2xtMTZUeWd4WkxRWF85RWt6UV9ob2xQeVRuTzV2NmdaeHJodGJkX2ZSSjlRVmFMd2NMQWJtQU9nV0Z1UktjR2pUYlpGUmlGTVdaZXZhRTBZcVh2NzRpX3FTOFNOelV3Ym5fSDY?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-20T13:35:39Z",
     "category": "Finance",
     "topic": "Global finance",
     "country": "",
@@ -7184,6 +7256,18 @@
     "published": "2026-11-19T14:03:42Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1d406cb63ebb9f54284363",
+    "title": "The World Ahead 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kb3VHZHdTeTBBeUEyVkpyem9STkxvUm1nMV9hYV93cHBsSkdhdUkzS05OMmo1Z3VVc1BzMS1KbDBCQ3cwMEVZdTY4YmVDNGhDN2U5R3YyaW5tZFhVcHotMEhMLUtraG93d0xkSUQwcG5uRnJDdTFFSDNFUXhiQQ?oc=5",
+    "source": "The Economist",
+    "published": "2026-11-19T14:01:02Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
