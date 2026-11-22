@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-22T19:37:55.654531Z",
+  "last_updated": "2026-11-22T20:30:20.518231Z",
   "articles": [
+    {
+      "id": "cb29a20e38ef835b166a4d",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T20:28:09Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "5040c295ce38a7bd3f7a0a",
+      "title": "MENA funding defies regional tensions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXllV0dSdmNiX2FLMTd2ME5YOFpFZ3N1c3psNXBTYXdiMHpVU0Z3dXN1NUhnV0gyZ2JqaVZZUVpVQng4ekJ2QWFVcmxhWjVMMEs2WFhNXzF1aDVxZ3MtVVVfYjZPNlpVMnVOLThubjlHMk43QjZSd2Uzd0lFSm95LQ?oc=5",
+      "source": "PressReader",
+      "published": "2026-11-22T19:47:40Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ff62d60b062ae30e7bdc16",
+      "title": "How much more air can come out of the AI trade?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1B3MFpHSFJDWUxxYU5xd3JUU3FBaVFUVEc2a290UEVlaXVNWDlMSUFCNXlqWUtKekMzc1NEZEtPODJvOHJ6anhFdnpYLXlpd3RHLWc0TGcwOThYbmJSb0t2M2V2bTNyNXkza0ZrM0sxOTQwbUxUMUFKVlB2Z2hpaUd3MEZSckFISXdWTWJnRnpMYXpEeFU1Q20wQm9tNWM1VFZ4bjZsOGM?oc=5",
+      "source": "The Economist",
+      "published": "2026-11-22T19:44:21Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0a3f026f3a8e88bda83580",
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "source": "The Guardian",
+      "published": "2026-11-22T19:34:59Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8e8b50f80c4d0b9b0893fe618c22bc9"
+    },
     {
       "id": "d7d054747cb24660cbfd48",
       "title": "Mastercard eyes bigger play in India's fast-growing B2B payments market: Anouska Ladds, Executive VP, Asia",
@@ -12,18 +60,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "cb29a20e38ef835b166a4d",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T19:26:54Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
     },
     {
       "id": "752a111ffa6e6cecd1b73e",
@@ -59,7 +95,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
     },
     {
       "id": "0a72272c8d43a3ceda33ea",
@@ -72,18 +108,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36f0900c0e04a98985b3b99d902cf06e"
-    },
-    {
-      "id": "9244314cba7baed73d5239",
-      "title": "Israel forecast to grow 4.5% amid war: What can Europe learn from its tech boom?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-22T18:36:04Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "7ca3eed99935d152b6174d",
@@ -100,7 +124,7 @@
     {
       "id": "e4dc3fa8f4ea0ce67434f8",
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
       "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-22T18:17:59Z",
@@ -290,6 +314,18 @@
       "image": ""
     },
     {
+      "id": "9244314cba7baed73d5239",
+      "title": "Israel's economy: How innovation is shaping growth amid conflict",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-22T17:11:40Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "70eecc407642e6be563ce1",
       "title": "TechCrunch Mobility: A/B testing robots vs. humans",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
@@ -458,6 +494,18 @@
       "image": ""
     },
     {
+      "id": "b38b6040bcf3553729aff3",
+      "title": "Hate Cramped Overnight Flights to Europe? This Airline’s Brand-New Premium Economy Cabin Could Be the Ultimate Sweet Spot",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0VOWW5jM1I5eTlBNVI1OXU0bENrQklObjNyRkE5ZXZPWXdsa1V0LXgyRHJTRXFUVEF4c0VsMTZzTEloSVlBSVJjZjhfbmNWbjBVSGdlejNnMUsyN3o3bU9ac04tNzRYZnFsbE82WVV3WGFkZHlKdTI5dHNHUGNZX21aN3pic1NTV3o4emk3SUZtMGdLbW5YSUZ3?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-22T15:10:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9dc96c937c8254f4c565d8",
       "title": "Can a TV be too large? An investigation",
       "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
@@ -523,7 +571,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0NnZjBrbHBCZ1JWeHV2TkdPTi1wV2pJYWI0WXhSVm9pd2lKQ2ZXaWdlcGxLWnZIV3RPMU5sN1dQai1ZclZPb3Jrby1oYUwxMmVueEJ6MWMyNU81MlYteXN5SmRKaUxiN1FxWF9naUdWOGJjekREQnBwV0MtMTlLSkJoSHVUNHVIX1RFOA?oc=5",
       "source": "UPPERNEWS",
-      "published": "2026-11-22T14:01:35Z",
+      "published": "2026-11-22T14:01:06Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -1310,6 +1358,18 @@
       "image": ""
     },
     {
+      "id": "15ee5f23fd781b257ce9bc",
+      "title": "Shinsegae's Categoric Ranks 13th Among Asia-Pacific's Top 100 Coffee Shops",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzVEbnFuTko4OFM4cWhSNXJKRHp0T04yYWdIR3VNU3hIZUtSdGRsQzU5Y2pwU0VDS3RMZTM4bTJGTzNhWV9tVF83LTFVZmFUNnRMWTdId0pfS3ZhM0JFeDUzSmh1a3RwODB5V3V5ZmdxeHhJUU9jaFozTVdEVndtRlAxSXZmSHk0U184ZXNKXzg5Sm0ybXEtMktLaVM0bk11S21PZw?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-22T02:11:30Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a98444614dc04c05e75c7e",
       "title": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
       "summary": "",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-22T00:25:55Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "75a2540f381293e722342c",
-      "title": "Influencer Marketing Agencies in Asia: 8 Firms by Market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWU1sZkRIQ0YxVk9BWnJBYlVJRENETXktNXZIRndBMUl6NFNLc003b0NWemF3ZXJoYWJobHhUTmxfZlpkazVHS1Y5Z2UwOTZvRnZzUGRXREktZHYzdng2TExKeGdzMFFjblhQZg?oc=5",
-      "source": "Everything-PR",
-      "published": "2026-11-22T00:21:39Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1c64d44e2f0cbfcc233579",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T00:10:44Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "8fb6792a24df18bc43b984",
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-22T00:04:07Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "fcc16b178278eda44211e8",
-      "title": "Stock market correction? This chief investment officer sees the S&P 500 soaring 45% to 10,000",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWMydm9FbVFNbEVhQVl6RHhuZnVYbzZ3UGE5clZSWWtHd0VnOWZvamxqbGMzVllwaXlqb09Za3FDaFhFMWFGYTN4ZktCSXF4TnNWN0J5VnJ1VFEtUmtIbVBYVVJtWkdxbGRUZ0tmREJtRkhlaVJ0dHlHcU16eEYwdTNvMUpkTEpHVjlqdzNoYk5TMHVtUHFwcjRVc3hGNEJx?oc=5",
-      "source": "Fortune",
-      "published": "2026-11-22T00:02:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "93ffff675aab7fa8082d6e",
-      "title": "AFIR Highlights Growing African Investment in Films with Global Reach",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3dUXy1leFRISm9TNmF6bXJOcTVWcDhOcWtFS2poeVVWUG14Nm1qc004LUxxWVVKTUlja2NLZjRwRG9GZWFoSnRxS1hOd3lMSV9jZ3Y5dW96dkRGSHZYaUtVOUhIaE8wMTAwQnk5aEQ1OUR4NkJZckxzUTdTaG94LVhGb0U0eWp0aWZGQ3ZLVkVCbGNyZTF5UzdMWkNpLXVYbkIzRVYydi1pa3hjS0E?oc=5",
-      "source": "THISDAYLIVE",
-      "published": "2026-11-22T00:01:02Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
