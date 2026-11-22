@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-22T07:35:54.284838Z",
+  "last_updated": "2026-11-22T08:29:31.786820Z",
   "articles": [
+    {
+      "id": "6fc3bb31bc34ec6a1dba1a",
+      "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+      "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement in Cuba for decades after slaver",
+      "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+      "source": "The Guardian",
+      "published": "2026-11-22T08:00:22Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=008006293af8e6c164a27aa2d78112dd"
+    },
     {
       "id": "ea9526b5723a2b32cbc459",
       "title": "MP criticises Guernsey and Jersey company ownership register plans",
@@ -75,8 +87,8 @@
     },
     {
       "id": "737a9facdd26faa145938d",
-      "title": "Dozens missing after fire at Indonesian factory",
-      "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
       "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-22T06:05:00Z",
@@ -204,6 +216,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "8fb6792a24df18bc43b984",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-22T00:04:07Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "dad1a89c1ae97fbaf93430",
@@ -1414,30 +1438,6 @@
       "published": "2026-11-21T07:27:00Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a46443d831c8326586a6a5",
-      "title": "Cyprus cuts public debt by more than half, but Moody’s sees unfinished business",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkU4ZnRxamUyc09mTXZZWExXazlCaXBjQnZRcVE3dnRxTnNHcENBZXhYWGZ5SzBkazA2eEpwX2c5TnBvQ2FDOTFTcU5wTXNNU0I0WGpzUXgzLXBwZnNvVm8zQnJkVEtsNkVUNEtGUlBydGVfSERFYUdvU01pTVhtcGMwVnFWaVJpWWxVdlpyQWhPdzNwT0cxZ2hnOTlHYUl3TlFnZ0pXN0MyVE5oVXFBS1FzdXdsODQ3MTctVFdSSjA?oc=5",
-      "source": "Knews, Kathimerini",
-      "published": "2026-11-21T07:12:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "205e8abf34baa436da5381",
-      "title": "3TREES Sees Asia-Pacific Cooperation as a Win-Win Business Boost",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1R5aUIwUDBUQ191ZW5qUVlLSGN4S3ZPc3NORFg1U1JNM19WV2Z4YldTeFB2V1ZjQ3ppTXpqaGktRS1GOTIxclRJRi1PMUpGVU5fZFBqOGcyRDhCaThubWs2dGFXZDhmQkUxQ0JyVEQ4aGZDYnFTMlpqNjdaVFNhZTBDc0VQNXNXa0JlVjI1Q21wNV8yZmxqU3ljczNaWkU5Q213?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-21T06:31:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
