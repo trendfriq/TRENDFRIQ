@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-21T23:56:22.455796Z",
+  "last_updated": "2026-11-22T01:03:43.918701Z",
   "articles": [
+    {
+      "id": "1c64d44e2f0cbfcc233579",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T00:10:44Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+    },
     {
       "id": "dad1a89c1ae97fbaf93430",
       "title": "Qatar strengthens global tech, investment ties at US summit",
@@ -50,6 +62,18 @@
       "image": ""
     },
     {
+      "id": "68a6c4275035d5f4fbaa47",
+      "title": "Nasdaq has its worst week since 2020; Dow, S&P 500 in correction",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-21T23:03:48Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a98444614dc04c05e75c7e",
       "title": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
       "summary": "",
@@ -58,6 +82,18 @@
       "published": "2026-11-21T22:50:59Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fdeb0fd82da26c50558c5a",
+      "title": "As the AI trade falters here’s where to find the next ‘winners’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdllIREtSdGNScUZRaGhDQ2JWVHQ4NFZVMTJXaFAwYTE4V3pCaG5tVTFNel9sU2JWVUFSdzlIZmNib0NYUDlZLUd1M1gzWFNyR3lDN04wYWx2SllteUJxX3FRbDVnMnZvbjFtc0NMYmNzbUJ2cjlncVdyMXp1OFg4V1ZfX1ZGZ2FSV3YxdEgxLS1oSUlIZEltczRCdGQzQlM0d3NJTEREOTc5Nk1JcG5aeHVzT3UzTmVTZ1NXbA?oc=5",
+      "source": "AFR",
+      "published": "2026-11-21T22:29:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -372,18 +408,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
-    },
-    {
-      "id": "1c64d44e2f0cbfcc233579",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T16:35:15Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "16fbbf2ec7e3c0543fb92b",
@@ -1416,30 +1440,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "e5da371fa4782201ec26d6",
-      "title": "The Gulf is betting billions on becoming the world’s AI engine",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-20T23:44:22Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6701fc72f13b1f87186e31",
-      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-      "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade. Judge Timothy Boyer of a state cou",
-      "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-      "source": "The Guardian",
-      "published": "2026-11-20T23:42:43Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5edeaf13f200c4f950da4fc630d80c08"
     }
   ],
   "countries": [
