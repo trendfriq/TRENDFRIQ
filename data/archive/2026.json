@@ -1,5 +1,53 @@
 [
   {
+    "id": "7d27fffa3906bd9ac7f942",
+    "title": "We haven’t seen the last of the major tech outages",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [&#8230;]",
+    "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "source": "The Verge",
+    "published": "2026-11-22T22:48:02Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7f4b2fc811956e5bd43dd9",
+    "title": "Ukraine war creeping inside NATO territory",
+    "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+    "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-creeping-inside-nato-territory",
+    "source": "NPR",
+    "published": "2026-11-22T22:40:22Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "4ac454f5423d6b0c50eab6",
+    "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+    "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+    "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+    "source": "NPR",
+    "published": "2026-11-22T22:39:47Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "be0580354be4465ee78487",
+    "title": "APEC leaders adopt Shenzhen Outlook to accelerate digital trade and strengthen Asia-Pacific supply chains",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY1pGODFMakJ3OEF5a0FEQ1pDanZfY0JRMkwwR0JPNkN5SEk1emNNRkdISGpBTjNUUmhsVENmNVFuUkprSW8xNGVpMzN1VU1oYVg4MXJxdnA4QkxSaTlhbFl3WUhMZ1BPbTFTcWZQbk9ueEp0cUJuazBMTi1LRGFRelhNZWkzOExDWE5jeUxKRV8zdzFMcXY0R3Z2M1NpLVF0dzdEWjBzUjFQZE5ZTXpYR0VCU1A2WjRTRXowNmh2Tmh4TTRCVVhTUmo5ZkRHdG1BX2t4eWo1ZkJfUnhqNDFPY0VqcmtPUEgybmxjV1dNY19LUQ?oc=5",
+    "source": "Thailand Business News",
+    "published": "2026-11-22T22:18:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "853e72f1953fb9f4d941aa",
     "title": "LG H&H's Operating Profit Rises, but Donations Fall 42.7%—Largest Reduction Among 250 Major Companies",
     "summary": "",
@@ -176,6 +224,18 @@
     "published": "2026-11-22T19:17:43Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a51d9aa37aba8e72744c94",
+    "title": "MetLife, Prudential and Aflac Raised Their Dividends. These 3 Insurers Offer Growing Income",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjl2bEhwRHZuVy1TWHZqSi1nZUdhdlVzZERwaHB2TE1uUEFvYzB5MGdzVlhXdnlJRlpWRXVIRFZhMjRINFc1TFpZa1hzeDJRdEo4RHR0VTUwLWRsNW1kcVJxT25SSkNjb2s1UnhBbWpVano0V1Iza3RLU2tmNDFLN2prNzFFVXQ0T0s3VVZUT3lhbGVRdlBwTmYzeDd3bGRNVWNqVkV4WGE0MWxlZGZFYk5ZY0xtM1NrNjZnbzZoaExKTG1yYjgwaWxiZXVPZw?oc=5",
+    "source": "24/7 Wall St.",
+    "published": "2026-11-22T19:07:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
@@ -1076,6 +1136,18 @@
     "published": "2026-11-22T10:47:15Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "68498c6e8fc7ed63fcfc4e",
+    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZdIBeEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZQ?oc=5",
+    "source": "MarkTechPost",
+    "published": "2026-11-22T10:36:17Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -3766,6 +3838,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750"
+  },
+  {
+    "id": "f810b4b2acd0f6d47ab203",
+    "title": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWZqYVN1ZTMtVDlFWjBUclI5SHd2T2tKUVFUOU85RDhsam84NDdwREpScWYtMVpCVEgtakV3bm1TR0R0S28xeGttTFFaQklabmVnMVBBdy1RRkxWWEVsVHY1YjJWM2NwNWJ2Mm1YcTZTRFhRdHpmNW5yUnFpTHNnMURmcWVjMXkwRHc1YXZzb0ZuZTktcmU4Z09TaGs?oc=5",
+    "source": "Take-Two Interactive Software, Inc.",
+    "published": "2026-11-20T19:31:41Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "a590727de7ff9044f6e30b",
@@ -6804,6 +6888,18 @@
     "image": ""
   },
   {
+    "id": "f9bdcb8e969ab2ba43f08f",
+    "title": "Xi faced Trump with weak economic hand",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXNJTmZCOGFUUjdaVU5xMWN2aHg2YndERUxNVFI3ZzBjNnlLU1hBZ2JsLUVfajNCLTB5ZVV4QklmRVFpRXEtckxRYmR4M1dMNFdfa1FmSGxzT09TVlNBTmJWbEl2SkVBRnlOMzluNktfLWpXOG1vYmVnUXh2ZnNKaG5fLXg3TFZxelE?oc=5",
+    "source": "Awani International",
+    "published": "2026-11-20T02:46:11Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5d830a8018231fbe64a05d",
     "title": "UK and EU to agree youth mobility scheme, BBC understands",
     "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
@@ -7066,6 +7162,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800"
+  },
+  {
+    "id": "5d3c8b564ce76a99990a8c",
+    "title": "International Business Leaders Say Xi’s Speech Boosts Confidence in Asia-Pacific Cooperation",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU3UzRkFrbEYxZ0dQYmw4R1NzOURFbkxCdjlzdkxfZnpJai01R0Z4U0o1X25WN3d6alBUYjR5UEw5SkViQ210Y29yM05ycUl3VnFoYjFmNFB5aGdpc25vNjkwejlsdkpYZ0dfUjRKY0o5OTdkNDJGbURoS1A5YmZmYWk2RUpmSTlrY2V4V1hVM1BCamVHdWxrWmxUQkJjYUswM0tZM1lDMWRRVE9HNTdwOUw5dktsa3UtZ3Q5a1RRLTFQbC1pcEZDYTYxVjVjd1NiNE9j?oc=5",
+    "source": "DagangNews",
+    "published": "2026-11-19T23:32:09Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
   },
   {
     "id": "efa02af5a4409db300f2e3",

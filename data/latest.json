@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-22T22:05:51.044231Z",
+  "last_updated": "2026-11-22T22:49:25.097202Z",
   "articles": [
+    {
+      "id": "7d27fffa3906bd9ac7f942",
+      "title": "We haven’t seen the last of the major tech outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [&#8230;]",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "published": "2026-11-22T22:48:02Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7f4b2fc811956e5bd43dd9",
+      "title": "Ukraine war creeping inside NATO territory",
+      "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-creeping-inside-nato-territory",
+      "source": "NPR",
+      "published": "2026-11-22T22:40:22Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "4ac454f5423d6b0c50eab6",
+      "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+      "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+      "source": "NPR",
+      "published": "2026-11-22T22:39:47Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "3a79b8d5c4b4253131a4f0",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T22:37:43Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
+    },
+    {
+      "id": "be0580354be4465ee78487",
+      "title": "APEC leaders adopt Shenzhen Outlook to accelerate digital trade and strengthen Asia-Pacific supply chains",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY1pGODFMakJ3OEF5a0FEQ1pDanZfY0JRMkwwR0JPNkN5SEk1emNNRkdISGpBTjNUUmhsVENmNVFuUkprSW8xNGVpMzN1VU1oYVg4MXJxdnA4QkxSaTlhbFl3WUhMZ1BPbTFTcWZQbk9ueEp0cUJuazBMTi1LRGFRelhNZWkzOExDWE5jeUxKRV8zdzFMcXY0R3Z2M1NpLVF0dzdEWjBzUjFQZE5ZTXpYR0VCU1A2WjRTRXowNmh2Tmh4TTRCVVhTUmo5ZkRHdG1BX2t4eWo1ZkJfUnhqNDFPY0VqcmtPUEgybmxjV1dNY19LUQ?oc=5",
+      "source": "Thailand Business News",
+      "published": "2026-11-22T22:18:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "853e72f1953fb9f4d941aa",
       "title": "LG H&H's Operating Profit Rises, but Donations Fall 42.7%—Largest Reduction Among 250 Major Companies",
@@ -242,6 +302,18 @@
       "image": ""
     },
     {
+      "id": "a51d9aa37aba8e72744c94",
+      "title": "MetLife, Prudential and Aflac Raised Their Dividends. These 3 Insurers Offer Growing Income",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjl2bEhwRHZuVy1TWHZqSi1nZUdhdlVzZERwaHB2TE1uUEFvYzB5MGdzVlhXdnlJRlpWRXVIRFZhMjRINFc1TFpZa1hzeDJRdEo4RHR0VTUwLWRsNW1kcVJxT25SSkNjb2s1UnhBbWpVano0V1Iza3RLU2tmNDFLN2prNzFFVXQ0T0s3VVZUT3lhbGVRdlBwTmYzeDd3bGRNVWNqVkV4WGE0MWxlZGZFYk5ZY0xtM1NrNjZnbzZoaExKTG1yYjgwaWxiZXVPZw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-22T19:07:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0162d4886027e7025e58b4",
       "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
       "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “j",
@@ -338,24 +410,12 @@
       "image": ""
     },
     {
-      "id": "3a79b8d5c4b4253131a4f0",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T17:57:43Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
-    },
-    {
       "id": "b9f6c66898d433803f8fe8",
       "title": "CIO Weekly - Markets have fallen sharply. Has the investment picture changed?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0FSM2JFNHlEeHR1T0gtNUNwQ1VZOFhiZldITGJiSWR4WXZIcEZjYXNlSHc2V19FUTNtMW5rLWdnWnQ0YzBMOTNEUjZPS1p5c01xSV9OSlhHM3BRYUNIdjVpYVp6ZTloMWVKYU9kTkI3LWs1VGRxRUYyWWlVSVBGRXh5d293SEMtRVlXN0JVNE5qWkU5aDBwaWN2VWloU3dIbDdTX3REVll1Wm8yamc?oc=5",
       "source": "Coutts",
-      "published": "2026-11-22T17:56:31Z",
+      "published": "2026-11-22T17:56:15Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -536,8 +596,8 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdHalZYY2s3bHVEeENKX0g4T0M4WWxHV3lacDRlejl2b2E5VWNPd1AxbXhaaUVyNXBFLWlYZFlKTk93R3QzeFdVazI3ajljUFVLYnFpb1VVQmNrVlNvYTIyajhxM1JBbjYxTkhJMkhObEJGSVdRdmZDVzItblZFd1A4NHZaWTZiZWdFVVc4REI2RGF5UjlGWndXeDFha2k0MWdqRkE4X1ozQ1h5N0ZxZmVVTVFldC1VRi1keUdBQQ?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-11-22T16:46:04Z",
-      "category": "Economy",
-      "topic": "Global economy",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1178,6 +1238,18 @@
       "image": ""
     },
     {
+      "id": "68498c6e8fc7ed63fcfc4e",
+      "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZdIBeEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-11-22T10:36:17Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a6f66af6e6b83970747987",
       "title": "German manufacturing companies may help close industrial investment gap in Nigeria- diplomat",
       "summary": "",
@@ -1366,78 +1438,6 @@
       "published": "2026-11-22T07:00:00Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d330ceccb98cdf15a365cd",
-      "title": "Shaping technological capabilities in the digital age.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xX0tJaWhvTm81d1BNUGEwek5heExfeXpWSF9sQ2RHb3UyOTZvRXU4ME5TNGJRZW5JeWlUUF9iQXJRa3F4R2taTnV5V21FUWItQmdVWS1ucVpKVElNbXlaaGh6NllIQk5KdzlyRVNaZTNHcWdEVzgtWFdUUEVuUQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-22T06:59:18Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9ffdefd4c55b070320d70b",
-      "title": "Dubai FinTech Summit 2026: Key deals and announcements shaping the future of finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYjNTRjlTTEJQTHN3RnZRMldGUVlqRXJrNjA1a0FDRjhEaFBfZW5QMFJsZlZCQzMxdUVTaGUxQWhOUHF3X2lSZjQtWWZfWUlYRDNMQ3hRRDE1cE9yc01hWVpnNmJPQzE4c1Z6WXo0bTNmUUVDaTJrMGhLLVRDbDJhRW5ZYnpHd2k5VUZCYUIxYnJCX0h0Y0pCQ29ReUF4bFZoQ3c2N3laOEdyckx1cGFvQlhVLW9QZw?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-22T06:58:12Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "384d88b27801a300144f8b",
-      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T06:54:06Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
-    },
-    {
-      "id": "5865e32ae8ea6051bb587f",
-      "title": "APEC Business Travel Card is Linking Zhongshan with Asia-Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWxlQlZPNXBNbHJiTHJocWg1bWJEdUk0WHpTMmhlMnFKZ1FaR2lieVhJNWg3SGVCVUV3Z1FrU0JoNXZaR25zelFKSXhtejMyOFBiVDZfVmU1VHFpTnQ2VjNzYmlmd3p4bXpDRVd1QWc5UGc4M1JhQXl5QUQ1d2tGYjludUlTMjdnempBZFdIMWRnS3VwQWpwMlRZdUJuTUU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-22T06:41:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dfd2b074131b7e353fa7ce",
-      "title": "APEC Business Travel Card is Linking Zhongshan with Asia-Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE11d3FubDFqc05TNG1BOXNETGFSaXNtS0hiWnhjMkJ1M1RkNDhhRGFLUXVmemxTdVNxTExKNzNtY2tFQkdhWmgwam44V2tZb1lzZHZGUFV4N3Vzb2VxSmdWdU1vVENPU0pEWF9WVVlMUDNVX0tFdk83aEtNZDNhQ0I1bDhaWWlWdU5qcWNlZC03OXpmN250SkNfczJLV0lHLVMwR1NkeEMza09ITjlJaw?oc=5",
-      "source": "Plataforma Media",
-      "published": "2026-11-22T06:41:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1433598454bb39392cf15e",
-      "title": "Hormuz stand-off puts Jordan in investment spotlight but progress remains slow",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZll1OHFUWDFiNWdiM2o1ZU9ublNHMUE2NjFZeHp6Z0lySDFXeXBIaWU5VnNpTEpJeWdjSUhIeklZRmFIWGE5emVReTBqZEdjZVdKVkd5UU1oN2V4SjE4enFlcUFHTzBRcjRxVjItNEp3RFZpU1IyMGFtSWZTczlKRw?oc=5",
-      "source": "The National",
-      "published": "2026-11-22T06:37:48Z",
-      "category": "World",
-      "topic": "Europe",
       "country": "",
       "image": ""
     }
