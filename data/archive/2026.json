@@ -1,5 +1,65 @@
 [
   {
+    "id": "ea9526b5723a2b32cbc459",
+    "title": "MP criticises Guernsey and Jersey company ownership register plans",
+    "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+    "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-22T07:22:05Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg"
+  },
+  {
+    "id": "f52c822b3d4b23835901d4",
+    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-22T07:12:41Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
+  },
+  {
+    "id": "d330ceccb98cdf15a365cd",
+    "title": "Shaping technological capabilities in the digital age.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xX0tJaWhvTm81d1BNUGEwek5heExfeXpWSF9sQ2RHb3UyOTZvRXU4ME5TNGJRZW5JeWlUUF9iQXJRa3F4R2taTnV5V21FUWItQmdVWS1ucVpKVElNbXlaaGh6NllIQk5KdzlyRVNaZTNHcWdEVzgtWFdUUEVuUQ?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-22T06:59:18Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5865e32ae8ea6051bb587f",
+    "title": "APEC Business Travel Card is Linking Zhongshan with Asia-Pacific",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWxlQlZPNXBNbHJiTHJocWg1bWJEdUk0WHpTMmhlMnFKZ1FaR2lieVhJNWg3SGVCVUV3Z1FrU0JoNXZaR25zelFKSXhtejMyOFBiVDZfVmU1VHFpTnQ2VjNzYmlmd3p4bXpDRVd1QWc5UGc4M1JhQXl5QUQ1d2tGYjludUlTMjdnempBZFdIMWRnS3VwQWpwMlRZdUJuTUU?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-22T06:41:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1433598454bb39392cf15e",
+    "title": "Hormuz standoff puts Jordan in investment spotlight but transformation remains gradual",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZll1OHFUWDFiNWdiM2o1ZU9ublNHMUE2NjFZeHp6Z0lySDFXeXBIaWU5VnNpTEpJeWdjSUhIeklZRmFIWGE5emVReTBqZEdjZVdKVkd5UU1oN2V4SjE4enFlcUFHTzBRcjRxVjItNEp3RFZpU1IyMGFtSWZTczlKRw?oc=5",
+    "source": "The National",
+    "published": "2026-11-22T06:33:45Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "737a9facdd26faa145938d",
     "title": "Dozens missing after fire at Indonesian factory",
     "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
@@ -10,6 +70,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
+  },
+  {
+    "id": "cc5e8f65eaaca95a6325d1",
+    "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+    "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland i",
+    "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+    "source": "The Guardian",
+    "published": "2026-11-22T06:00:21Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/4d3b2eefdc19be5ce451b348a00b741e730d6dbd/1327_0_6144_4918/master/6144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=742e1c0140c566ace0b2c60fd9f5a9da"
   },
   {
     "id": "384d88b27801a300144f8b",
@@ -80,6 +152,18 @@
     "published": "2026-11-22T01:25:00Z",
     "category": "Technology",
     "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "75a2540f381293e722342c",
+    "title": "Influencer Marketing Agencies in Asia: 8 Firms by Market",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWU1sZkRIQ0YxVk9BWnJBYlVJRENETXktNXZIRndBMUl6NFNLc003b0NWemF3ZXJoYWJobHhUTmxfZlpkazVHS1Y5Z2UwOTZvRnZzUGRXREktZHYzdng2TExKeGdzMFFjblhQZg?oc=5",
+    "source": "Everything-PR",
+    "published": "2026-11-22T00:21:39Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -282,6 +366,18 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjRQSlNwYm1LQUN4Sm1tYnJLaTBIMk80MmlvX3l4Q29UcWZlYklhWU1vTDVHOTlXSFBWYzFRaElNS08xNlRzWWZTdFFIcFVwR0pJb3hzeGozc1o2SWV3OHFUOFYwd2FTVFJ5MGtVbldjcTY0Q25wbjkyaFNUUWdIUdIBlAFBVV95cUxQUTRxSnIwMk42c3lTR1JZYnJtWVFQbEhVMnlSd2o4TTNMMVQteldETFl6QUlkOUY0V3BSZXM4LTU4MlpKbXI0eEZyMHFvRDl1SWozSFRVWmlxMWRJLXV6MjZiS3R3ZkJNMTd0MHlEeWw4bF8tcVpLanRVcEpYY3hfUkYzMFdSaG82ZF9uQ0VrV0dxTlNf?oc=5",
     "source": "Chosunbiz",
     "published": "2026-11-21T21:00:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c9f55606ccf47aad92fa55",
+    "title": "Quarterly Earnings Review: Sep-2026 Results Show Mixed Trends Across Market Caps",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmpLYklDX2ZfeFRUSHRReWM5T0lBRkt3QmRBZmRGLUdTS0prS0hlRTJDNkNYRXhxUk1vbEdpTDdZZF9fTnRMUmpXZk96Xzc2b0liZlRGQTNJcTExdjlkMlBEZksyLVg0a3BULW5ENnNiWTRqeWVlVk51akQtTmlVRFFFTVZ3cHhNY3ZleFFOT294VUZxcHZXZzQ4TGF6aGs3cURXQzZIS1NkMDZVeklSZTB1cTFGUUpPX1R0Wmw1V1N5VUt3X3JFeHFTdHV4eTJJTGFObA?oc=5",
+    "source": "MarketsMojo",
+    "published": "2026-11-21T20:26:45Z",
     "category": "Finance",
     "topic": "Corporate results",
     "country": "",
@@ -1088,6 +1184,18 @@
     "published": "2026-11-21T08:27:35Z",
     "category": "Technology",
     "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2b186e2fcd946780ad7ae2",
+    "title": "CBK projects 1.5% non-oil GDP growth, S&P affirms Kuwait’s AA- credit rating",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam5HYmJlVE1yLWpnM0lVSGZrQzEzbkRkcy1oU09EWjQ1X2diTFdiVVlld0wtM29Ya08yQ1ZncVZReGRCV3hMZnhzamlkbEg4RXJCVEN5UXoxU3R1WjNmRF9GTzU0TWpwTmVMdGhWdFFWNTVrcVRsVlpBY2REZ3UxZTZNTVhna1pLYnFabWFLVHZoYUwwSFVhTWhrN1c?oc=5",
+    "source": "Times Kuwait",
+    "published": "2026-11-21T08:26:17Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -2088,6 +2196,18 @@
     "image": ""
   },
   {
+    "id": "86449160a941d5a3a886a5",
+    "title": "'Regulation and New Opportunity' — Xsolla Outlines Potential for Retention and User Acquisition",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOV9RaUNfby1SakpUTVZnT3dSZWJKcE5KS3lmVW1SR0NManlqQVZUWUlwbHE2YlZCR0w4THBwM3lwWEJMN0lqdmQzOGc5ZFgydXc5NEMwYnlwTkJqcHNmYkJVVkdmcjZQMVNoQm40Uk9kRUNpUW9lcm50UmxydkFSSXpoSWhqOHJYak5RRFJlM3ExNEtfaUVpME56RHhKSnJTazdUcVZSTGdNRE5lQU9xZDZuV1Z5VktEcTBMNmNfaVV1bGxyNHBUZ1VwcmZHSm8?oc=5",
+    "source": "Inven Global",
+    "published": "2026-11-20T18:45:48Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "299ad0f7d2e50e31032405",
     "title": "Mirai launches Booking Center to boost direct sales for hotels",
     "summary": "",
@@ -2940,6 +3060,18 @@
     "image": ""
   },
   {
+    "id": "0e020d4ee2377156e8c536",
+    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-20T13:16:47Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "77cab6043ebe152c49eb10",
     "title": "Philippine Star. . 'WE YIELDED CONCRETE RESULTS' President Ferdinand \"Bongbong\" Marcos Jr. on Friday highlighted the key accomplishments of his participation in the 33rd Asia-Pacific Economic Cooperation (APEC) Economic ",
     "summary": "",
@@ -2996,6 +3128,18 @@
     "published": "2026-11-20T13:05:23Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "99d7bcd2f90a35cbb4564f",
+    "title": "Shark Tank India 6 Launches Content Creator Special for Entrepreneurs",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUdrYkp0bUJLVXBJSE1wZzVjaExxZXQzRjB4X2t3aE01enlfOXVoUlIxdTVqdlFLdEdrQkxwN3ExbmdnVVEzZk51LXpUbTNhb01ha0wzZEpUMk9NSHdXaUxLdkdWQmRDaHJfWXNiWUs3ZGVna2N3bWk2aUNIMzNWVTRfVjF5Uk0xX2drcE5uaWFWS0dKQ1FkN0xwVTFXUHhFV01IMnlOcHVmM3Z2VTgwS0xVNWNodVRhVTJSUdIBwgFBVV95cUxOOUwtejdIbWUyQ2tNeGd1WmZfdjhvM1l3MnoxSWVfaGZmQ3pzc3BNdFZLQk9LekxTRDJZYWJCNE5KRDRqWlhYai1oSXpKZUlDQmZJM3BJbGpqS0pKTWg1T1pMbkpjSDg1NGdUUm1yODVBTU9zVDhNSFV3cy1ZZzF3a1lxbTZ4YnNXd1ljcWlVbmRUZTJlVGNYQjlsT3dWNTNQSHlCdV9mS1JpREw0NGpoZzhGNnZtOXdpRnBsSER6T3VSUQ?oc=5",
+    "source": "Storyboard18",
+    "published": "2026-11-20T12:57:02Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -3168,6 +3312,18 @@
     "image": ""
   },
   {
+    "id": "16ac7cef130e302df9f331",
+    "title": "Can Asia-Pacific lead the way in a changing global economy?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84cEZFQjM5d0NHX2J6RGhYMUxraHBjTVBtREN2QlVCWHZaTDBydWJFd0g2ZWt5d3lSZ2QxOEljNmZPTVVaVnlibE95aTAzVFZwZGRROXNuVXQ4WVBC0gFcQVVfeXFMTzhwRkVCMzl3Q0dfYnpEaFgxTGtocGNNUG1EQ3ZCVUJYdlpMMHJ1YkV3SDZla3l3eVJnZDE4SWM2Zk9NVVpWeWJsT3lpMDNUVnBkZFE5c25VdDhZUEI?oc=5",
+    "source": "Modern Ghana",
+    "published": "2026-11-20T12:30:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "ffb392d79506d3b2650fd1",
     "title": "[Game Companies Q3 Review①] The Three Major Firms Sweep 85% of Operating Profit …Net profits continue to turn negative",
     "summary": "",
@@ -3200,6 +3356,18 @@
     "published": "2026-11-20T12:25:23Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "38af179c73893d8a0ac0f4",
+    "title": "Space NK names Leanne Rouse CMO",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YNW5fdFVncGVwRnJqeUJVQXg2OUhZUjFrdl9xZzQ2V2k0UWd5RzdtZTlvUkNXenRqOUJYU0JreWhWbVNRYS1aOXlOektVRWlUQ3p5eFhnLUN6bkhqQVZSYVkxR19MaDAxejFYOHpn?oc=5",
+    "source": "Cosmetics Business",
+    "published": "2026-11-20T12:19:59Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -5004,6 +5172,18 @@
     "image": ""
   },
   {
+    "id": "75015f674cb41fda815edd",
+    "title": "Larry Fink’s next major move could be an AI play — with deep-pocketed partners in the Middle East",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFQtRkE1a3FiUDhRQjV5X0ZhQmNkSWZmOXRIZktQMEp0VDVva2dGc21OTGdJOHJiSjJGcjhIbkJveERfNEF6WmFuaXhjMDhvNk1fZm43c3FLY0tnbFhpZGFWYnVJbVo3cHFzZDhQVUJHcUJzaUJhVkNpUGJ5Yk5zRUV0SjJsdnRkdGI4RXZnU3lsLU85?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-19T22:04:04Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "a16a060150c59a522d90c6",
     "title": "A brief history of Nvidia’s recent stock fluctuations",
     "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
@@ -5892,6 +6072,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/image.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "1cad4475555efa62bbad6a",
+    "title": "International Business Leaders Say Xi’s Speech Boosts Confidence in Asia-Pacific Cooperation",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaU1MOUlPcjJaa0pkbzBxR2dqOUJKNk1SakdMa0VlaXlYSkwzc1BrRWNTS2FGb1F3cEZESmdRbTNEaUd2SG53ZWgxUC1BQkY5ZElwVFYtZ1hMSlFXZWxfRnRwT2N1VkxzZW4tQUN3U1VSSm9TWkZQMExYYkVpdzNlcDV4WGZEamh3OVVfeEIwdjJ3UE1MeTlaZEZZMjFmTlFDZUN2dGJ4UkV5cVRnYzlvazJrd1FXeE1vZFpXVHJBWkdxZWItbWJWaVFmVjI1Z3F5a21ZcE9INmlyR0ZBT2pMbg?oc=5",
+    "source": "The Detroit News",
+    "published": "2026-11-19T17:53:28Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "570474397ad2b7afee41a0",
     "title": "11-19-26 Empire AI Supercomputing Center",
     "summary": "",
@@ -6384,6 +6576,18 @@
     "image": ""
   },
   {
+    "id": "d3f2c018c9aa85af910162",
+    "title": "Special Economic Zones: Lessons from South Africa's SEZs",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGhXZndCdTFsblFJcnpGZnFoSDVrcU9ybHJlaGtlZXBkaDk5LVc0V3hEV3V6T3JvRnc0cGJhMzA2U2FQd1lDYnh6akQyMnBCbjQ4MGtoT3UyYWU1UVZUSVNya3pPZVZ5T0hGOVk1cFByX0NZcUlkMnZqelZSNDVZckdDX00tclRnTkswcW03Z0VxTVBBTVJFbUcwQ1U?oc=5",
+    "source": "World Economic Forum",
+    "published": "2026-11-19T15:49:31Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "1cf90c8bb7017b86c3f6af",
     "title": "Brand as a Business Strategy: Making the Case to the C-Suite",
     "summary": "",
@@ -6608,6 +6812,18 @@
     "published": "2026-11-19T15:12:12Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a2533a68748c22d5059f75",
+    "title": "Apec leaders agree joint statement with pledges to boost trade, resilience",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWg3cTJVZEVrQU5ndDVjMS13dEF4ajFwa0c3MWM0ZTByVktvZHBnekZCd0RCX09GNlhWWVhSS0NxMVlPUWZvSVJmdU9FMHVnUHktckR6d0lvNG5ObTRVaXpIcHlzblJEcjlWY2ttLUZMVU12MmZma0VtUDhfNE91anE0MlV5VGtoWjdYaDlVSklzc0FWM3RzUGxvUVhFNXRvZFkzTWZFY1B3MUxwQjdaV25kWnV3UVdTS2hXanRiU2Raay1hYUdZQVlnUFZFbEZ3ZTNJddIB1AFBVV95cUxNRXVrY3Jvd1hfaFQzWlgtQ2lEOEFRWjQ2UGU1WG9COTQ1cUppMVZ3aWNnblBJal94QTFtZS1jMkgyQVB5WUxuWnNVcXkzb1A5UlNWQjVkM2ZQaUdjb3JERzBqbG1kd201MnFyN0JjZDFYOTJrUGpYNjNES1NrdzRsdHBvSE5lQkZxaldOR0NPUzBqSDhQeGItWFBRY3NFNklVVmpfejBIQ001bTh4Q25FNFRya3NGVTBaeG4zdWg0OXdqbTM1cGtmWlNCSVA4Z0hLTkk5VQ?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-19T15:03:13Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -6970,6 +7186,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a1ef06931b17-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "98d95e4c8be521bf433f89",
+    "title": "A Billionaire's Bet on Hollywood Puts Media and Space Stocks in Focus",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWZtVUdlV2M5V2I4MVFLODYtX0xuZjhMb2RFQ2lZYXR0MUYwRjZsNXZmODdUdkhOUWtoU1ZoUVR4d0VMa1lQbVpIMVh0SDRnekd4NTdHZVBZT3dKa3V1NzhrU1llSzlCa0dSanhETmEwcUU1aTFFNzhoSURldGF6ZXNXZWJKY0VRbmtNNy1nU2xhT1V4RXBXQ19GQ0hUZ1VQT2dIVGNMeWVyWnQ2RG93UWVFbjB5NERqNkROZW1vNDNhRkFDclBnRTh3?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-19T13:30:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
   },
   {
     "id": "49ac57286eff3b5c23821d",
@@ -7580,6 +7808,18 @@
     "published": "2026-11-19T11:15:33Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c5cddffd63875e877cd222",
+    "title": "Column: Making win-win cooperation deliver shared prosperity in the Asia-Pacific",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LV2JhT3pBNkQ4SGlYdmt6Z21wYVZ1LVBnSW43SzZmS2UyWXczeWExQ0xMdjBXYTd1Tm5jX0hFR2ZzZGxNcWpLeG9SREdfRVhXdFkydDZvek1Gb0MtUFFsbGtyUVpPc1RmcWFVeWloN1ViNm5jZWVBdmVRQks?oc=5",
+    "source": "Xinhua",
+    "published": "2026-11-19T11:15:30Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
