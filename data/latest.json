@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-22T11:21:08.053893Z",
+  "last_updated": "2026-11-22T12:03:13.993215Z",
   "articles": [
+    {
+      "id": "a9bb7c6e29da205c76d258",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T11:25:14Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf94/live/3bc66860-e665-11f1-8ebd-1d2173202734.jpg"
+    },
+    {
+      "id": "c57623b04f291e8755e02f",
+      "title": "The looming UK winter may spawn a double headache for Andy Burnham",
+      "summary": "‘Raising growth in every postcode’ has been the PM’s rallying cry but deep regional disparities and rising energy bills pose problems this winter Andy Burnham faces two, related problems: Britain faces deep regional disparities and it is entering the coldest months of the year with rising inflation. Since entering Downing Street, raising “growth in every pos",
+      "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+      "source": "The Guardian",
+      "published": "2026-11-22T11:24:22Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e94340538344906704731943219c4840f1228d48/68_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c8018ca26a4cbb027da0cb07c3623dc0"
+    },
     {
       "id": "0345029150e914c2219d83",
       "title": "Anthropic and SpaceX Spark IPO Disruption With Unusual Processes",
@@ -47,7 +71,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "eddbf49d13f44b73fcafe1",
@@ -672,18 +696,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "a9bb7c6e29da205c76d258",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T19:20:22Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
     },
     {
       "id": "fe589a0bc46f4b87fc5af7",
@@ -1424,18 +1436,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUxiZTU0bVNOMzVXc1hJTF9XTDlwd3JDMFFjMVE0VVVYNlpuTkF1WlhSdGFFMDNyRGNpSXZxNkt6T0V6Q3pIblF4NENiMVVuN09idlI0NUI1c1NXbURZZFRlMXZERGw2UTZ2cjZlU3dZbU82czQwR2s5NW44Y2ZpWnNFQU9maEFMZEdUSGRkZTZHMkFX?oc=5",
       "source": "3News",
       "published": "2026-11-21T09:40:01Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "34db4c24565b3ffd3f1350",
-      "title": "German media highlights significance of HH the Amir’s Visit to Germany and its role in strengthening strategic partnership between both countries | Gulf Times",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNd20yQkxXZldEaU03TkZGSW14RnAtY3NMdThON211ZF8xeVdLT0luMXNHczNoeWR0X09mZ3p4TkV4MGNqaUF5c29oWVExbVdDTnNSWkJ1QzdVNUJCdWhHX1ZpQkZfaHZHX1JqUkIwbGVac2tsQjR1ZktUcjZMUXN6SC0yTGFscnR1VnpSYXlEUVhwamV3YWdjWVhYZ3JmMjhXU0l4Rk1UN0dCazQwRWVEVWtyNlBkWXNIT2tZNGhmQ3Y5NDZILU1maEdFd1BRWjRVam02R1BsU0p4S3BYX0lJVU16UF9lOVE2MEM5WXFXc3R0SVpPNnh5clJHLTJDeDVXYU1xM1VYRlJUMFgtMnpQM1FaS1BiQWp2QWtrUtIBogJBVV95cUxNd01QVHg4UXBSc3NZQlc0TVFUa2Myd3hXSloyUnUya093Z1JHcl9TaTJxdlBsU015QTVLUTNQemR4dFcxZzlVWlhYdVVEUmYxbGlQcHhjcGtuV1hEd3phQTRCaDZVTVZBWHJUbXlNNW9ES0c1aXExMV9yeERvYVotYU03bTN5WUEzLTVxRmFmRXFVRjZnZ29CWkIzcnhJU3ltRjFSUGI0cWVOOXJrcHVhdmkzX1JwT3pycVZkZG83MVAwQlRPTGR2NWRYNFFwU0NBd0JrN04tTTVLNXRCSXRmMkJYNnhBam43UkFRdEptMTFXcU1SdXMzTmdCalFYZVFkZ3hiMEFWRW5xQ2w1VEtrcm5XclBfYTFkUEVWRVJ0UF81dw?oc=5",
-      "source": "Gulf Times",
-      "published": "2026-11-21T09:25:00Z",
       "category": "World",
       "topic": "Middle East",
       "country": "",
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
