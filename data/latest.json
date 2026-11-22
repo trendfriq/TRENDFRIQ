@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-22T20:30:20.518231Z",
+  "last_updated": "2026-11-22T21:21:34.638464Z",
   "articles": [
+    {
+      "id": "90468db0d5a9c8d3332bd7",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:14:07Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "id": "7aaba70f0b275b7f7ad6bc",
+      "title": "The best apps to make new friends right now",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800"
+    },
+    {
+      "id": "96ff8c4723ccb9476d36d3",
+      "title": "Clariant, CD&R in Talks to Acquire Ashland in $3.39B All-Cash Deal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEFfVFFCTkJ3OGdQa2NWYlpDOVM2M1BjLUdhcWlSNmoweWlvUkR0ZGFQY19OLXlXZGYtVkFQMkRDaEIxNEVkQUE5OVZlWHlCMEY2OXB4U0l0N2tYNGpRRDM0aWRNeWxIQXF5a2dRYk1RMHpNZmpMRjVidFkzVXE5T2xiRFQ2QlU1NUdEaVFFY1M2NGZFczZFeTNnd0FQQQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-22T20:50:39Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "cb29a20e38ef835b166a4d",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -12,6 +48,42 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "7e5383763bcf3b019d2cfd",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T20:26:24Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg"
+    },
+    {
+      "id": "0a3f026f3a8e88bda83580",
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "source": "The Guardian",
+      "published": "2026-11-22T20:23:36Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8e8b50f80c4d0b9b0893fe618c22bc9"
+    },
+    {
+      "id": "a2a9a91ff45adb8b6e604a",
+      "title": "Waterproof Card Reader Market To 2035: Cashless Payments and Durability Needs Fuel Expansion - News and Statistics",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTUlxVHN1cjJJWDAtNHlYUFZlSGF0djNxTGxDekdRMzNVZmotbk81X2pLMkh4RWtrYzFDOXhKNGF0SnU4NWtZVE4yQzhiUTV0bnN4UWEtMTgzdGRfTWswcEdIS3Faenp3aXlUZmxuWHFHS2NNN0RHSEVKZ2x3NktPdDBzLU5wOVNGWTRsbWNvTkhYZnpsU2lpdFkxa3ZfR0dPMmxnbmFNc2tSMTRfSmM3NFM0MlpIYzlHV0RBUkJ3MnNEdWRZcDRsTEhYQUdYckFoR2hQZElyS3RWeXFq?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-22T20:21:05Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5040c295ce38a7bd3f7a0a",
@@ -36,18 +108,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "0a3f026f3a8e88bda83580",
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "source": "The Guardian",
-      "published": "2026-11-22T19:34:59Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8e8b50f80c4d0b9b0893fe618c22bc9"
     },
     {
       "id": "d7d054747cb24660cbfd48",
@@ -88,7 +148,7 @@
     {
       "id": "4d2dfd34c10fd72ac5e509",
       "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-22T18:57:24Z",
@@ -264,6 +324,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fe6%2F705920be46a09bdd2b396ad5411b%2Fmoe01329.jpg"
+    },
+    {
+      "id": "f12e120534a49f9fd5d285",
+      "title": "Foreign Minister Tajani Visits Baku for High-Level Talks and Italy-Azerbaijan Business Forum",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZ2JSenFubjZCYkJZTUVIbDY4QVhoOVpZalRsTmMyOE0xNk5ZZ0xmbWQ1TmpaSXVZenFzMlh3Vkw2ZmxnaDNSemZBOXNsd29TWGt4ZFIzT1JIc2tYcTFSUnJpX3I0NVlPNTZtdHAzZXByT2YzdzBLM2ZFQ2lWYzBTbTU1S2hXdXJHUkx1Rzc2Q3FZbmMwaUZqdEw0QmducnZqR0gxeG5oQnluNm50U0JFSDc0OHlwaGJSVlFpTU5FMzQ2S0VXaWtGd2dQeGIydEdIQU13QkxjcTlObExqcjd2ZUF5MGVWN3pONTlBR1U2Vk1hNzJ6OWFQbVpoOGFuRjZ6dmpZOVh4VVU4Qi0wNkE4OVNJMzZFd1RQcVctME8wS20tQnZNQktvM2VrLXlYWVk5?oc=5",
+      "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "published": "2026-11-22T17:44:16Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "664c7d903ee6294a79b640",
@@ -470,6 +542,18 @@
       "image": ""
     },
     {
+      "id": "d652426e7654244e126363",
+      "title": "Korean AI Innovations Dominate 2027 CES Awards",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGR0Yl9GLTNlV0xGOHBlZlNkZG5iYXhkblZmMXcyRU1WdHB2VHNBRTZTOFo5cWVDcy0zbGo1MzlYc3NQTThTQW9hdDdYQUFsNjZ5dGJhWUNNRldrYVFEbHQxWklYazVDbkdmcXBkbGR4empqQ190Y2s2X1VBcHE5aXF3QlAwdmFx?oc=5",
+      "source": "조선일보",
+      "published": "2026-11-22T15:36:45Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9afcf3940f2d316c494856",
       "title": "Protesters storm Meta offices in India",
       "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta [&#8230;]",
@@ -526,6 +610,18 @@
       "published": "2026-11-22T14:34:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f7bb1be554d37d5f34d872",
+      "title": "Shenzhen unleashes tides of unity and consensus, Macau sails along with the winds of cooperation - Bian Lixin",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR3lKOE5aMkIycEo2OHdfQVlCQjlLanhzRW1uY1BZYmU2bWJxN1VLcnBxYUxMamp1N2N1bmRDbm5OV1lvaU1GSHZyT3dqU1gzdUl4cjVpQXh6TzB0QmU1WXFraDNneWwzdGR0dkZOMks3V01ZYktPbDM4QVB4eUNlQXBYUC1DdDVvOVNRbnJpaVJjY05Fc1FMdUJxOFpkR2FqNUdISTBCZ1c0aWk1TEdYXy1QdEtfY1UxS1dKUnlnak5XbWRxY0t5NXlOVno3QQ?oc=5",
+      "source": "Macau Business",
+      "published": "2026-11-22T14:30:42Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -682,6 +778,18 @@
       "published": "2026-11-22T13:45:13Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "60ef0b87c29e2389d22882",
+      "title": "Strong Earnings Prove No Match for the Crumbling AI Trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWdMSHNxSjRIMWY2c1JVckdnZFBHRG1XOThWbXFwQ25lT0ZaRTdTc1NKWkVrSHl2bTRPM241dkI2UHQtQWl5NHd3T3FHb3pnRXc4QmlLYzdQVEJRZmpNeDNUbldVU0dJSWppNXIyLVlwS0hJenlvY0VMQVBkbVdtcUlFcG9lWkFMUVd3M1QyYWdJbG9YX3cxWU5lNW0zbEdieWtydzFzVzdUbXls?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-22T13:30:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -1330,114 +1438,6 @@
       "published": "2026-11-22T03:14:27Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bb8897266c923dd9617d05",
-      "title": "AI Boom, Middle East Energy Risks, and Rates: Three Forces Shaping Global Markets and Thailand in 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeTN5cGZodFJCcE1zQXdiYnNSUFVndm9xdDFrN3RKM1czYnRkSTlQMGx3ckZOTWpPYnhZeVBiZUhwcHJlTlJtNzNGTGlSSnV0TlRPNXpHR25MTFdmWkhZRFF2OGRxSWtnYW0wXzA4V0NYdTE1Sm9WSWN4S1Z0R1ptTFpXZGVIaGNXNHRNdlhxMjNNNFZLajlleXVENk13TWtOVkRBLW9sWTRoYU8zNkoyTHBfZXFHN0xSM0JyYlE4OHVKTmNqQmppYnlSa2NoT2VKSkpsMzNQWUt2Nzd0Z1BXRi11SUw2Ykxo?oc=5",
-      "source": "Thailand Business News",
-      "published": "2026-11-22T03:07:31Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "160e1fce57bd0c96056ec9",
-      "title": "Inside Kenya’s booming Sh1 trillion shadow economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3ZOQzZvclNEbXhKMFFhRExwV2stRUxQbVlxNmtNQmZJbFJ2WXFJNW4xY3R3T3hqQXhiVTR1UzZwU2NnSkdjVjR6Mk8yc0ZIeXRmOGR6elltRVFjNm5lRmh5enM2Skx2eTFQcWRzOGw4NlY3SkFDUWJHTTRFVm9UcHR6bWZNTzhXRTBVSldQY3NNQnczRkMzZVd0NA?oc=5",
-      "source": "Daily Nation",
-      "published": "2026-11-22T03:00:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "15ee5f23fd781b257ce9bc",
-      "title": "Shinsegae's Categoric Ranks 13th Among Asia-Pacific's Top 100 Coffee Shops",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzVEbnFuTko4OFM4cWhSNXJKRHp0T04yYWdIR3VNU3hIZUtSdGRsQzU5Y2pwU0VDS3RMZTM4bTJGTzNhWV9tVF83LTFVZmFUNnRMWTdId0pfS3ZhM0JFeDUzSmh1a3RwODB5V3V5ZmdxeHhJUU9jaFozTVdEVndtRlAxSXZmSHk0U184ZXNKXzg5Sm0ybXEtMktLaVM0bk11S21PZw?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-22T02:11:30Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a98444614dc04c05e75c7e",
-      "title": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHVGT2ZBUzhXT3BJMkJzY1BfWHF4XzJac1daQXo5SlA0SFpPNm16WDJmYlN2bGM3SlNxT3JDcTlJNlNoZG5pM2lfUHJXbEk1VDJaaTZaeEI3RTBxZ1dVR2pHOEJoTzFQV204dnhaLWMwSTVYQm9jejFjeHpKY0h0T193SkowSXJHLXBNcHFoQm9KR0hJaUJ2ZUo3MV80RE9GSjJhdW0taHk4cURiU1p6M0VrZlI5VDI0VGdr?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-22T01:46:22Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d53e011b61eef9a5dd0ffd",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T01:25:03Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "b86f148d493b0f038de65c",
-      "title": "Nvidia and IBM to Use AI to Correct Quantum Computing Errors, Paving Way for Practical Drug and Materials Discovery",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5adzNmeF9MY2hBMm9LM1VrNDRaejZ5Z1RGdTJMRi1HQWNSdkZlZU1URVItT1ZwNEhqNC1VODVKYllROVA0YVFuaDBOWHBBbGd0T3MzVk9naUt6UTBnN2RDU0lWVFFodzBnYWNfMXVwN1k5aHBrV1E?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-22T01:25:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a63aff17f68deed9ef8ad0",
-      "title": "South Korean Corporate Giants Triple Operating Profit, Yet Donations Fall 2%... SK Hynix Cuts Giving by 120 Billion Won",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15eWdjaWZQcHpON2FwbHJQVXFpNWNxaGRTV0xLX3g5d2ZJR1VNZkhxT3BOSHl5c0dPaXNwWnVnQlRLeVN4Um1oU1dVZUdsN2MtYU5xSHdhcVBNeVVTbUctdzRLMVdaOFRxQnM2MFdxSS1pX2FLNEE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-22T00:35:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "86dcca639864e8fa54ad85",
-      "title": "CarMax Stock Forecast: Used-Car Demand Faces Major Q2 Earnings Test",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSkw5dExHbmpIZzVLOVloT1dCQzF3VHR6X2pHcEo5QVEzV0JCRlo5OENaOWlKSXJmSW9yaHVnbGJrVGV0cTVLaW5wOVc4VC1LTUwwRkhqMHhaQUUwN0UzWnlkdE10Wl9oRXlzWGNGdmdDeHVvRHh4bnB5ZUxKanIyLW5URlF3Vk1TcExWQXVTOVhQOHJScmZrTHQ0T1hPQlRzWmwtV29kbFFDQ1hVT2tsSWN2Tlo1aHhqRUlmbWdGWmQwcE9jUkE?oc=5",
-      "source": "TradingKey",
-      "published": "2026-11-22T00:31:56Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "87e4ceabf1605b69b5830f",
-      "title": "Portugal among fastest countries to start a business",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTR2RFJVajNYUDJhQzRSbzFMZzg1eExDWFlhLWpSTElmaU9aZHd4SUJiMHNMMkl6ZG00NkVJUXh5aDN3blBORTRxZGk2ZVB5VWlnX3J5eHZpWFl6Z1R4cTA4aHlQMGNBOHRUd2F6aFBuM1czcXFaYmpuTTF3UGFNd2ZfYXZpLWtNMm9hZC1jN29hNHVEMkVBVDBSSnF0UVBjUVFhSVBiTGdNNUpP?oc=5",
-      "source": "The Portugal News",
-      "published": "2026-11-22T00:25:55Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
