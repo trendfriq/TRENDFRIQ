@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-22T22:49:25.097202Z",
+  "last_updated": "2026-11-22T23:29:10.962703Z",
   "articles": [
+    {
+      "id": "264a85dd0a5f033c374f68",
+      "title": "Shenzhen-listed Yealink’s Singapore office targets India, South-east Asian markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMDNTdFRjZU5Db1Y4c1gzZm9lWENxVGZyb2wyZGNFYnZCc19ENHhnZTRtRUgzdzZGODlpUTUzZ1ZhaUxEUWFrQUgtTFFyc0tobG8tclpzdjRIcTNWc0JPbHVFNFRUNjF2N3l5MXQ5S1lhQ0ZJdk85UFdjcWJLWGFpRkx0YU5LMTdleEtwMVNzQjlJaVJuWk45cU9ucFRXaC0wdXdIY3g5cjktWUttdi1uTW5PbWZtOGNOaU5Ed0JlQ05vQW5yT3lLSlhTaktiUk1FRVBhcQ?oc=5",
+      "source": "The Business Times",
+      "published": "2026-11-22T23:00:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "7d27fffa3906bd9ac7f942",
       "title": "We haven’t seen the last of the major tech outages",
@@ -14,10 +26,34 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "9244314cba7baed73d5239",
+      "title": "Israel's economy: How innovation is shaping growth amid conflict",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-22T22:40:41Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7f4b2fc811956e5bd43dd9",
       "title": "Ukraine war creeping inside NATO territory",
       "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
       "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-creeping-inside-nato-territory",
+      "source": "NPR",
+      "published": "2026-11-22T22:40:22Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "491b65b25b820f308e5236",
+      "title": "Ukraine war spilling into NATO territory",
+      "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
       "source": "NPR",
       "published": "2026-11-22T22:40:22Z",
       "category": "World",
@@ -96,18 +132,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36f0900c0e04a98985b3b99d902cf06e"
-    },
-    {
-      "id": "9244314cba7baed73d5239",
-      "title": "Israel's economy: How innovation is shaping growth amid conflict",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-22T21:27:50Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "a107945cc9c74b6378174d",
@@ -314,6 +338,18 @@
       "image": ""
     },
     {
+      "id": "24982490c7462cbcd3a5be",
+      "title": "German Ministry of Economy to QNA: We Plan to Send Three Economic Delegations to Doha in 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRldLbVhFaTVVNTZ3Sld4aE40ekR0RXNkdGh4ckhsREI1OGtHS0NFeHh3bzRsN1lEUU5aSEJGTXdNbXZyS0xEaDRsSE5EQXNOWEJZTEVvS05zZ1JySXoxNTFoVXcwWVRPQk1Hbk9kUVJRWFRlVTE4aXY2TlFud0FIWWFjdzViM2dLeGN5YmRZMVlBcGFIbUNYenhWa0NSX0trcUR0eXpiTDUySjR3WlBTaV9xYmVlQzg2WHhfN0VOdFlJUVFSbm83eHVR?oc=5",
+      "source": "Fana News -",
+      "published": "2026-11-22T19:01:14Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0162d4886027e7025e58b4",
       "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
       "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “j",
@@ -336,6 +372,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
+    },
+    {
+      "id": "f1fbbc6067723c87d463a4",
+      "title": "India-EU trade deal likely to be signed on December 16",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFJ5TDFwR1E5WkJFZURtMVd2d056OXlzYVdFbjUtX1hwVUhxZ2ZkREU3Z3lKMTVoWTNETkJvNVNJbjJONVhVQm42Y0VULUU5ODRyT2pabGZoTGJpSENXYkQ2OWRybWNOVG1BblF3bmlGTW10NlhXVC1uVEpGRC1tckNuX1ZLZG5GNUF2Y29LUTVYQTNNX2ZfbDMyVFcyX0ItaHYzb0JHMl9oTTVqVS1pVzh6Z0hQbmxWTFR4cEtockIxNi1kbWVkTzVId0oxWXN2ZXI1UUFUbWtyZklo0gHWAUFVX3lxTE9iU3dqMDUxeFBJdlBPR0JrQXNSWnVYejZtbk04eHhlQjRaVlhvcEszU1FGTjVWX3BzQzRxdVFhZ3dPYU1DdUp2a3JXdXU3cF9zTkVUUjVKNmZoNHhmaG1oLVFMX2w4YjktNzBTYkhwVFB5V3ZOYS1TSkNQMGJpejluY0N2RldaTXBxMDhqbGhFc0FZcUxPLVVhaEdJVmZsZ2I4Y3d4S0YxYlZUcDc0Z1FOdGF6Tmc1QWtkNWpudTVCQWtJdW82WVNQYmFwVWJZNm9NTFEyMkE?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-22T18:42:58Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7ca3eed99935d152b6174d",
@@ -514,6 +562,18 @@
       "published": "2026-11-22T17:30:25Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f82b141918a005f48f55eb",
+      "title": "Double-digit growth in Turkish Airlines",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEtqWEJpOXAzSVRsRF9TUHJTTHh4VzdkT21rSV9XQk1xbE5GZmhHUWNHUUhOTHNNbDZkQUdDc0pUb1NNX3JfRG56WEk5R0pLbUFEbzNmTzNKd0NTSHBRbHBGOXpUODdiZmQyaUtYUmROQzk3ZWZmUjZTSjdDel94SUlhb3JLT2M?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-22T17:30:21Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -739,6 +799,18 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0VOWW5jM1I5eTlBNVI1OXU0bENrQklObjNyRkE5ZXZPWXdsa1V0LXgyRHJTRXFUVEF4c0VsMTZzTEloSVlBSVJjZjhfbmNWbjBVSGdlejNnMUsyN3o3bU9ac04tNzRYZnFsbE82WVV3WGFkZHlKdTI5dHNHUGNZX21aN3pic1NTV3o4emk3SUZtMGdLbW5YSUZ3?oc=5",
       "source": "Yahoo",
+      "published": "2026-11-22T15:10:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9b9f3629f17b8636b377ca",
+      "title": "Hate Cramped Overnight Flights to Europe? This Airline’s Brand-New Premium Economy Cabin Could Be the Ultimate Sweet Spot",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmVRS05sVHNtaXRfQXRUOWFxSDltekxLOGlCUmUzcFJuYVNmZjVhYjU2MzhzbHEzTDh6OFBZLTVpc3Jvb2JndjM5SmZBcjJaYzE3S05vX1NMZ01VNkFQaEVSeDhZSnFpckRIcHpoSjNFbVl2dlpubDBFcjZPMHg2U2RzUTJwenpp?oc=5",
+      "source": "AOL.com",
       "published": "2026-11-22T15:10:00Z",
       "category": "World",
       "topic": "Europe",
@@ -1366,78 +1438,6 @@
       "published": "2026-11-22T08:12:00Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b64d76c1e7ffb7a618c15f",
-      "title": "China's proposals deepen Asia-Pacific community building: Russian business figure",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMW16LWFPOF9mNGFYLTl6Sy1SbHhJbkFZem1Jd1Y2aUxVZ0VFRFc2Q1JfajhXbTJ0a0xFTWFfRUpaYUx2Mjd4dk5ad21CZFl1cnBEVFlXdl8zeTVqTHQtYzNYLTlDVFFncm1xOXJEUk90ZERwUnVvekpyUWx2cURqa1NMZkpnQXBmY3h2cjJIQ0RCa1JTdjZIZEdoY2xoMk15Z2liNWwzMUtXVW5fYktfYzVZa1hfc2lGODZ6RTNWMkRfbmtNWmRKWjhYSQ?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-22T08:04:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6fc3bb31bc34ec6a1dba1a",
-      "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-      "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement in Cuba for decades after slaver",
-      "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-      "source": "The Guardian",
-      "published": "2026-11-22T08:00:22Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=008006293af8e6c164a27aa2d78112dd"
-    },
-    {
-      "id": "b77d9a1753ba8178eec921",
-      "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
-      "summary": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities Prof Heather Wardle has dedicated 20 years to researching the harm caused by gambling. So the University of Glasgow social scientist was horrified to learn that her reputation and even her photograph had been hijacked by rogue casi",
-      "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
-      "source": "The Guardian",
-      "published": "2026-11-22T08:00:21Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/81fa0e7afc6590e31714844f8f2ff98575a33f17/0_0_2811_2248/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bed5187184aa76cbb60928ea19670ee0"
-    },
-    {
-      "id": "ea9526b5723a2b32cbc459",
-      "title": "MP criticises Guernsey and Jersey company ownership register plans",
-      "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-22T07:22:05Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg"
-    },
-    {
-      "id": "f52c822b3d4b23835901d4",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-22T07:12:41Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
-    },
-    {
-      "id": "8cdbf4050b214b6d791e00",
-      "title": "LILIAN SIMIYU | Why financing Africa’s small businesses requires more than money",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHRLNncyTnRTS3pwdC00by1Xb0VkLXlCMldOMWFYS2VPYnV6QjhOVXBJSU14QjJJOHRpcDBQMnJhNE1DQ25NTkJrazl4dFA4VkN6WmVHYkxOSDVtOU9BN0hHanczcHROeGZqXzRfUk13NkF5VjVzOElXeGdIXzVndVNFaFBHT0dDX2twbmlHbklPSFVHbEJ4eFQ0d25sc0dlOG4ycm9FTnEyNEFRYWdPSW1PNUxPcWx4OWdBcVk4SUliekd6QUJBZGw0S0c4cFE?oc=5",
-      "source": "Sowetan",
-      "published": "2026-11-22T07:00:00Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
