@@ -1,17 +1,77 @@
 {
-  "last_updated": "2026-11-22T16:22:10.498601Z",
+  "last_updated": "2026-11-22T17:09:02.103459Z",
   "articles": [
     {
+      "id": "70eecc407642e6be563ce1",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T17:06:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "0a72272c8d43a3ceda33ea",
+      "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said. There was no immediate claim of responsibility for the suspected strike, but i",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian",
+      "published": "2026-11-22T16:55:49Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36f0900c0e04a98985b3b99d902cf06e"
+    },
+    {
+      "id": "f29790fdfcaa866bf45386",
+      "title": "As Wall Street struggles, is India emerging as a new investment destination?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFdVekNJbEswbWdMN1oxblo1eTZ0aTR5aUNYYktabWg0R3dMc0lDWFIzNXNFU211Z3duY3lNTlFDR3R1aC1POW45bE9DZUhzbmlWLXdWNVlfNDl1Q3Bvd3ZIWXlpcnJMRnFyZ21yTEZVa21FVXhXcmRzYUxJSkJpRFNVQ1Q4Uk1NdENRRU1xUXBPZVJ4a3JQZQ?oc=5",
+      "source": "The American Bazaar",
+      "published": "2026-11-22T16:49:41Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f6f43aa541208f0668fd0e",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani styles, [",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "source": "The Verge",
+      "published": "2026-11-22T16:33:29Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "35cb6d5769c702625b29c1",
+      "title": "International climate talks end in disappointment",
+      "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "source": "NPR",
+      "published": "2026-11-22T16:33:22Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4074x2716+0+0/resize/4074x2716!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F99%2F06ba60a34fb4ba38b24264298650%2Fap26326503765925-1.jpg"
+    },
+    {
       "id": "cb29a20e38ef835b166a4d",
-      "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-      "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-22T16:05:25Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "b3756f0f3aa54f574dc9d2",
@@ -130,6 +190,18 @@
       "published": "2026-11-22T14:27:25Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6a35be43e9956f990b100c",
+      "title": "Above the Skyline: Pan Am’s First Boeing 707 Flight to Paris Changed Air Travel",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdEpfc3RrTnJ5aWEtYkRhVDlvZHRzaXk0MHNrdlBJV1k2LXNldVlRLWprZ09MVm9ZSWQ5bEZFQnZjTER4ZDZNSWxQM043UGZKR2Z1YUFIc25mR2N4UEwycUF4cHFMNFNHNGxyYVhCdEpKQl9VXzNSTkdmQUk2VUk3Q2hGUzZCcEdwUUgxRS1WLTVsOFQxb3hZY051TUVBaThQdkE?oc=5",
+      "source": "AirGuide Business",
+      "published": "2026-11-22T14:05:31Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -566,6 +638,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "id": "247a80fd34338f41b4f805",
+      "title": "Prime Minister and Minister of Foreign Affairs, Minister-President of North Rhine-Westphalia Open Qatar-Germany Economic Dialogue",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNdzVNNzlHck9RSXpuZXFBb0JRT25FSXAzaFZsUjN4OVYwQkRpLTEwYTBOem1nd25fal8wbWY3VC1HNGhMV2JjUy12d0tjR19KMUxPM1dDb1RQeHFkRjkweWl3VTVqMnZodmxxcnA0bzhrNkMwX212YU1pbHNjNV84eGZheFJDWlY3SmNDSGo4ZU1wZHI1b2hEVnY2SkV4YXUxWXR4RTI3WDU5ejg0S0U2YkdRbEFMUXRnb05GMmZNSmZNelVtQ0tlWXFtWUdSQ2x5ZXEwUHV2UmFWb1NfVlFZdm4yVFZQakI5ekJCcHBUZE52cmxneFNwb2hTMndlQ1I3elZVa2d6M1A5NFJtYjlZblVtTnpCUHRUZ3FMUWh2Wnp1WDFsdTBpd1ZnbDdTUQ?oc=5",
+      "source": "وزارة الخارجية القطرية",
+      "published": "2026-11-22T09:16:33Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "626bbf9dee78de38b4b83b",
       "title": "SOUTH OF THE 8TH PARALLEL | From Manila to Santiago: A Trade Bridge Two Centuries in the Making",
       "summary": "",
@@ -890,6 +974,18 @@
       "image": ""
     },
     {
+      "id": "a63aff17f68deed9ef8ad0",
+      "title": "South Korean Corporate Giants Triple Operating Profit, Yet Donations Fall 2%... SK Hynix Cuts Giving by 120 Billion Won",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15eWdjaWZQcHpON2FwbHJQVXFpNWNxaGRTV0xLX3g5d2ZJR1VNZkhxT3BOSHl5c0dPaXNwWnVnQlRLeVN4Um1oU1dVZUdsN2MtYU5xSHdhcVBNeVVTbUctdzRLMVdaOFRxQnM2MFdxSS1pX2FLNEE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-22T00:35:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "86dcca639864e8fa54ad85",
       "title": "CarMax Stock Forecast: Used-Car Demand Faces Major Q2 Earnings Test",
       "summary": "",
@@ -1178,6 +1274,18 @@
       "image": ""
     },
     {
+      "id": "20d6fe614e525bfb6b1b4f",
+      "title": "SCZONE seeks to deepen cooperation with Greek companies in industry, ports",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2E2M0VpQ1oyUngydW9wVkJKNmlBMmx1QV9MN0NDOUZ2SVF4YnhpTG1aSUZObUZ0amRIQy1xSDRZeFk4VkRWNVdQTzhmaTdKVFpHT2tqZXNjam1CbzNBMWlrTVlsT1Z2Nk4xVzh2Y1Jic3FucktYMk5DTHFISHA2Z1ZWdHpiUWtzQVRIOG4wdzBDZ2dsM0M2cDBIckNsaWprcldEM2NoMndWS1lkS2RBN2VR?oc=5",
+      "source": "Daily News Egypt",
+      "published": "2026-11-21T20:38:06Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2f4c4a774413d030e83e23",
       "title": "India a standout performer amidst sluggish global growth trends: Economic Affairs Secy tells WB committee",
       "summary": "",
@@ -1332,114 +1440,6 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg"
-    },
-    {
-      "id": "2681b8486e6260f1f09b24",
-      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leader",
-      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-      "source": "The Guardian",
-      "published": "2026-11-21T17:46:55Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b228975517691e02d9f2c13e8010a7ae"
-    },
-    {
-      "id": "f057758653af9e0825a10b",
-      "title": "The FBI and USDA were reportedly hacked",
-      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [&#8230;]",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "source": "The Verge",
-      "published": "2026-11-21T17:42:27Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "326c1e690d9a22d8420f76",
-      "title": "New to The Street Show #781 Premieres Tonight on Bloomberg Television with Roadzen, Robo.ai, PureCipher and American Fusion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmRZcWlsTXJqbnIxU09qclVKOE9NM0xhTmd1VzZ4SjRCc3RCeE1ncWg5dFVrMl9MQlpNSy1VYVctVlBmZFhvQURKZXRzWXJFRm9YdUEtRFNWNG9zSWxWNnVVd1R5eXdBdkVtYnRTOGhDOC1DSDFqLUU2Wk5RMkttc2hUY0hpWUo1alNubHg3WmpLd0tTalNVMlhOdHM5a2VQSVhkam1kWTlDM3M?oc=5",
-      "source": "Newswire",
-      "published": "2026-11-21T17:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fce1a436773b056c5b3f39",
-      "title": "New to The Street Show #781 Premieres Tonight on Bloomberg Television with Roadzen, Robo.ai, PureCipher and American Fusion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFF1SUFIc3kyN0tuaElJQ1p1WWNiRExmblh5azh3V3VVWS11SlltMGdxM3ZiSzNCSko0ZldwajFCdnhZOWxlRVFyZFMydGNBWUhVeTAxSm80SkRWcm1tOERuVnNyV1Bfa1RDQW03N2dlWklYcWViQXZkckNfNktyLW1zdkFlT2dLbm5VSVhSNEx4cTlxbkRPSlVyeTVUZnhCa0h4NUh1Znl0d1M0a3BCTGdGZjF4aEotbXVQdTROaTVyX0NiMWhFeEY4WlZubjVGTGNHZGNmd0NHaWptbkVhREpEeW9ycGNiamNpMWgwY1ZQcjNqb0ExOXg5cnhJb2ZZalZzYk5rdE41dFgy?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-21T17:30:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b8e2974d9a6701a11a5f3b",
-      "title": "Securitize posts $18.6M Q3 revenue, $66.3M net loss",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aTFdaZGtyUnppMkRjR0hSME16bDN4QmU0RG1mTFZ6UFNIN2VycWtsclpSbDVpekxhRHFScldUNzZsZjZUZnZ0dmpDUjJoSGx3Q1RBc0dqUEM0a3dGTlpIU3daWGQzX2xPMFI3S2MxeUVrSFJENHBibS1EYzRjQQ?oc=5",
-      "source": "CryptoRank",
-      "published": "2026-11-21T17:18:10Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d15566b2aef3b460300ba5",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T17:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
-    },
-    {
-      "id": "900af72d7615ad44fa3963",
-      "title": "APEC 2026: 75 Economic Outcomes, A US$20M Cooperation Fund & New Opportunities For Russian Trade, Investment & The Northern Sea Route: A Deep Dive Critical Analysis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdFI0dnRBLXlFc2dpU0c4dkJBTjROV29NaVF3bHNXRGJFNGdpZmpvUGxPTDdvVWUxYnFycGllQ0wzNDBDWHhBMVBjbEZhTUp2dHNQSWdsV2VWSEdCZnRNTy16TVZSdUNmbDFOZ1NlcHZBTU9qUTVJTlNWYklzSlNGLVBZSWx0ZTc2WlAyZUxCYUQ0RW1iRTBGMjlyMGNfTnZrdkNBQ3JQbURHaHE1WF85MUYyT1g2YUpIWGw1cHp3cXNoQWpxMkNHM1E4eWl0STc3Q19TLUtMc1QwZzQ3X3FkcHlWNDZOZ3JQRFBaNGZIUG0yZlVsS1o1MXNhZlJueENKWXplTVc0aGRIRUc0eGd3TnpuU3VFUQ?oc=5",
-      "source": "russia's pivot to asia",
-      "published": "2026-11-21T16:37:59Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cac4d486e46aeed2b2c3cb",
-      "title": "International UN talks on controlling use of autonomous weapons collapse",
-      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of stat",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "source": "The Guardian",
-      "published": "2026-11-21T16:36:11Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
-    },
-    {
-      "id": "d92f7fd9ef597f14c007da",
-      "title": "Volkswagen to cut 100,000 jobs by end of decade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhfNlpDanlJVVFiX2FlOWotdUFRNUdVQmk3eWlGbWRzeDNLNlBKSUdtNkphMHEtUk1nTkN2RWxRbVVtWjJaMWJfV0ZFS2dNVVRCVjlTUGkycUNvdWtTUTlYS3BqV3JtQk5DYTE2TU1sdF95WEEzd0FmUVNvT2ZDeFpfcC1Ld9IBhgFBVV95cUxNdjRJZjg0RkpZbzlGTHdPWEF6WHFVOU1pRUk4dE1rcXdIWHlGcGlacnRyWEctc2U4UTNqMUdUQ3ZIbldrYmdyeHFHQzFTMmFsWHluNUFVV1FJRUlsZTBIaU5qTDVoMUFUcEQ0TFppZE5lM25DTzMwc05YU0s0LVh6cmVLYm1GUQ?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-21T16:30:38Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
