@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-22T17:58:37.134880Z",
+  "last_updated": "2026-11-22T18:48:09.451408Z",
   "articles": [
+    {
+      "id": "9244314cba7baed73d5239",
+      "title": "Israel forecast to grow 4.5% amid war: What can Europe learn from its tech boom?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-22T18:36:04Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "333877c61c61fd5d3b8536",
+      "title": "German Ministry of Economy to QNA: We Plan to Send Three Economic Delegations to Doha in 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXE1R0w2cWU0Mjc0RmJTandEYk9LMDJjVFV6S1dCWXpreHV1YjFYdF85WFNDMUZPRFhDckctUlhNMjl4RVViWi0yUG11RFB1LVozdUdKcEtYbmF1OTFNWnY1Qkh1SXRpYVlTbk1raFNjSHk0MXl3UUthZW5mNjJsODllZ1hTOWZPajJXT0gySndOVG9GVmFkQlFlLWpHZldxX2tLVl9uNUxaMFB0Wl8zR0x5SmdtX0ZIUW9vWTB5emZGUlV3aW5uMkdmZS1fOXFGdGhUeHcwZw?oc=5",
+      "source": "Qatar news agency",
+      "published": "2026-11-22T18:10:51Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b51af88d58d8138dece563",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T18:08:43Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
+    {
+      "id": "72571c754af9ba72dd96fd",
+      "title": "The AI Gold Rush: Are Businesses Building the Future or Creating a New Bubble?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUduODQ1SnpWZmlFVjY2Q29FVHlHYTFVbUlKNWs2Nm5hV0FFTEhrV3RXYTR5aklGU2Nua0ZSaEtyV0M2NS0zUDl3N0lFVTZZdVRqUmlmN0diel9Uak9mRF9QUWhMR1hKOVpneWtXMlI0d0gxWS1oS1NsY0dMT19jVE5xMFRnRS1TdzF6cHE0M05naFhpd3UzVlVJdGVoejJmUVV3emFheVgzQQ?oc=5",
+      "source": "Andaman Chronicle",
+      "published": "2026-11-22T17:59:42Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "b9f6c66898d433803f8fe8",
       "title": "CIO Weekly - Markets have fallen sharply. Has the investment picture changed?",
@@ -10,6 +58,30 @@
       "published": "2026-11-22T17:56:31Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5551def0095f2a9b1f13f8",
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpög",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "The Guardian",
+      "published": "2026-11-22T17:55:27Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a"
+    },
+    {
+      "id": "aae77e307e38c735b3b58d",
+      "title": "Sponsored Commentary: Immigrant talent powers the American economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUk9XYXNuSEEyTmdDZWRyeHhBSF9XcnpROVkzMFo4cks4NlFPN0Mxem9ydEpHc0xKcHl5LTFKZ2poWjN3UXZJTEloY1NUbWtIdE5sUUwyU240NF96enNJZnFXbkxSMDRoOFU5TVRGWHdZSFVGemNhS2ZBOElpcWVzbHFod3JGekRqYWpSTmo1N1U?oc=5",
+      "source": "Ohio Capital Journal",
+      "published": "2026-11-22T17:50:25Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -104,18 +176,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0teVU2TGFVNm5NSWJXWlRXWVJ1clp6YzBScTlsVUREUHlhd0hPdnpVdE44Nmp3eE1nWWhLMFJVU1dJWDVveW1XNXFHNFNuOFpXYlBCQ1Y4MkdEd3dQVmx5U25NNV93SjlPdE9tdmVydW5sbGM?oc=5",
       "source": "Irish Examiner",
       "published": "2026-11-22T17:14:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9244314cba7baed73d5239",
-      "title": "Israel set to become world's 25th-largest economy: What can Europe learn from its tech boom?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-22T17:11:40Z",
       "category": "World",
       "topic": "Europe",
       "country": "",
@@ -656,7 +716,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
       "source": "The Guardian",
       "published": "2026-11-22T11:24:22Z",
-      "category": "Brands",
+      "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/e94340538344906704731943219c4840f1228d48/68_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c8018ca26a4cbb027da0cb07c3623dc0"
@@ -756,18 +816,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/33a5b500a62308f3c01515a3a29b8ff23a030773/0_365_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=463d6b649a2356adffff9756d54136d2"
-    },
-    {
-      "id": "77bb058c9e48d39179cbdf",
-      "title": "YouTube | History, Founders, Purchase, Google, Music, Videos, & Facts",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCc19RZFAxb2dXTGl6cEVpdHhNVWtLZVY1Z2x5NmMtWVVHV2VaMjMxVlh3c0trVF9rdnJoTWpwTVEtUGx1bkdVZFByWVhMVG9CMGc?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-22T10:49:56Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
     },
     {
       "id": "4636c2b6f3fac6fbdacbbe",
@@ -1250,6 +1298,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "id": "fcc16b178278eda44211e8",
+      "title": "Stock market correction? This chief investment officer sees the S&P 500 soaring 45% to 10,000",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWMydm9FbVFNbEVhQVl6RHhuZnVYbzZ3UGE5clZSWWtHd0VnOWZvamxqbGMzVllwaXlqb09Za3FDaFhFMWFGYTN4ZktCSXF4TnNWN0J5VnJ1VFEtUmtIbVBYVVJtWkdxbGRUZ0tmREJtRkhlaVJ0dHlHcU16eEYwdTNvMUpkTEpHVjlqdzNoYk5TMHVtUHFwcjRVc3hGNEJx?oc=5",
+      "source": "Fortune",
+      "published": "2026-11-22T00:02:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "93ffff675aab7fa8082d6e",
       "title": "AFIR Highlights Growing African Investment in Films with Global Reach",
       "summary": "",
@@ -1380,66 +1440,6 @@
       "topic": "NPR",
       "country": "",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "411940f8e460fbd061f78a",
-      "title": "Highlights and challenges from covering an historic month in South America",
-      "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-      "source": "NPR",
-      "published": "2026-11-21T22:01:35Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "6734de109aeaa93379073b",
-      "title": "A grieving family in Lebanon returns to their village",
-      "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-      "source": "NPR",
-      "published": "2026-11-21T22:01:32Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "490042f26061ca852e150f",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T22:01:19Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
-    },
-    {
-      "id": "69dbf907dcbbc0b629bf5c",
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "source": "The Verge",
-      "published": "2026-11-21T21:59:31Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ba6f27821d1811de98c592",
-      "title": "Prime Minister and Minister of Foreign Affairs, Minister-President of German State of North Rhine-Westphalia Witness Signing of Strategic Cooperation Agreement",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQd3I3QUhFcDFRY1JjYWhSeDVyTUVlM1JWbzE1MHVycWFRMmU5SFZQT3J0d1NjRU1NVUEzMXlOOTQtLWZWd2ZpZV9DNWRUWllkV3QwOTAzQXJYQXhzajhhOERSOWtSWXFZeVJrbENvQk1rVjFxdmhjTEVxNkUzME1WR1IzR25VNzEwWDNpS0w5UTdaMV9XRUY5bWZJTk5DYXZ2MGtUY2RVbHpSRFZPSWVXdlFGZzdWelNRN0xMeTI4bURHcFBCQTUyNFJ1SURSR21wT0RqUWtRQ1U3S0cyaVFfZG04cWQ4SllCM2dQVDJkMDFKNWJzeE1UR1VHclo0dHVEeEZBVlFUYW5IbVRoT3VLWnFjSzRCRUlwX0djV2JMMzZMUQ?oc=5",
-      "source": "Fana News -",
-      "published": "2026-11-21T21:50:48Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
