@@ -1,5 +1,17 @@
 [
   {
+    "id": "520e56a219a4af173a969d",
+    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+    "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams. The country has been gripped by fears of AI-as",
+    "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+    "source": "The Guardian",
+    "published": "2026-11-22T05:04:39Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f07b25c72631f8072873e52093f91c"
+  },
+  {
     "id": "bb8897266c923dd9617d05",
     "title": "AI Boom, Middle East Energy Risks, and Rates: Three Forces Shaping Global Markets and Thailand in 2027",
     "summary": "",
@@ -8,6 +20,18 @@
     "published": "2026-11-22T03:07:31Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b86f148d493b0f038de65c",
+    "title": "Nvidia and IBM to Use AI to Correct Quantum Computing Errors, Paving Way for Practical Drug and Materials Discovery",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5adzNmeF9MY2hBMm9LM1VrNDRaejZ5Z1RGdTJMRi1HQWNSdkZlZU1URVItT1ZwNEhqNC1VODVKYllROVA0YVFuaDBOWHBBbGd0T3MzVk9naUt6UTBnN2RDU0lWVFFodzBnYWNfMXVwN1k5aHBrV1E?oc=5",
+    "source": "BigGo Finance",
+    "published": "2026-11-22T01:25:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
@@ -42,6 +66,42 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFJuVXVmcDN0YlVUTXRrR3htQUY5bGtnWHJQbldKMXRITFZTYzJTbFNSOWkzdm45WWRUREsyYnZhM18tSWs5VU9iSFozOG1lZXZiamhDV1ZoT2RzLWVqdGNlVko4Q0VNSVZKRlpRblJIN1Uwb2J0aXlGOURyOGlqYUhkNUJRQmFEU1Jpbmt3MlBxejI4M1JTX3BNMA?oc=5",
     "source": "Global Banking & Finance Review",
     "published": "2026-11-21T23:07:10Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "28e1074a83404f819e26be",
+    "title": "Ethiopia, Oman, Türkiye and Indonesia elected to ICAO Council as membership expands from 36 to 40 states",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWGUtSGlRX1RWUjdFVks3T1ZNd0drcUhoQ2VwZTVYcEg0ODVWbzVFank2WW1GTWlMTUw4TEdHWnBRZEVsamw3dzRNZFpBbEpYZ3ZtMWs0UWtIM21LQ0kwejhDRldEN2dIWm1WWHhYR05ZVFk?oc=5",
+    "source": "Avi-Go",
+    "published": "2026-11-21T22:59:45Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "988a676578a9e2d85b54e4",
+    "title": "Global Net Lease: 3 Key Takeaways for Long-Term Investors",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnFxQWxSZl9zRTJQUHVBWXdnSmRibWptMk5pcjFMSUIzS1g5Y1l4cUZSbVdaZjFRSDZuc1VJTnkzWXhtN2RxOGdYRmR6R0Z2b3gxVnRVVFFZWVl3cXZCZ3RKeHA5bGVHc2VnZUc5UzNadTcxb2pUclpIM2pMcVdoNGdMaUswX3N4ckRvNW1fQ18?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-21T22:33:27Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2a6026aa8400b2daec2273",
+    "title": "Colliers International: 3 Key Takeaways for Long-Term Investors",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzFWTjBlVkhQWl9KVHVQSXYtM21ZQ21fSGZyNGRTdm9nNUM3MW56c2xZNGdLd29McThGZEtpTFVlbkdHN3ZvcW5hZzFFTDhGdWsycnQyY3RPbldib0ZkUTdEeVVJdmpJc3FGUko0STQtaVFpOTVtbGVpWWZkX3RIOUpkMVRIQmhoQ015NEY2bkVwdjU1Nm95LVFocU96bnJkbUE?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-21T22:33:07Z",
     "category": "Finance",
     "topic": "Global finance",
     "country": "",
@@ -234,6 +294,18 @@
     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMlpBMUdsclJFXzZWWFJzbFp5OS1wSnp5aUVTWXpUZ2JwZE51bjVLN21BbE9tUWo4Y3dJbUlDdjNaZHl2b3hvWXFFUUJIOHB0ZVlQOVNaWGJOYl9zSmxSQXhENjgxaGVuR0JVQVhDQkNCd2pLNzg2WlMwY1hXZ1JRYndUOGI3OVJuSVpxMnNqUDIxOWl0OGpzX2xPVFc3c2VMSWR1TEd1XzVCdkN5bl80X2FuMjJncTVmWnZtWW9OS2dBX250U21CSG91WnpBZlZGSS11S19mNEZrU1c4ekluMUhsTnhaM3h4VUlDYW85STY5dDhhc2ZPOEY0b0RYWUw1dEE?oc=5",
     "source": "USA Today",
     "published": "2026-11-21T18:19:05Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "85b1624124f059664171fe",
+    "title": "World Governments Summit Dialogue for Latin America and the Caribbean explores stronger cooperation in shaping the future",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQnBsb2NoaDBUNjIwaHV6OUsyYnNXM3g1Y1k2QXBrdy1iSDdIa2FFY1l3SDIweXprNjU3LVFKaTNpYVdjbWwwak5FQUdXbnVOMUFjQ2J5OXgwNzExODR6WVBHdW9kQnNjdlBuTjZUQ3V6c3c0QU4xZGxzY1h6N0ZQdVNsV1ladGhHR0NoeWgydEFVVmI1aXBKV2sxWEtFVG1hU0xudHcwaVROa0hObnd1OVZlV1ROT1l4Z2V5akgtNXpjbXRXWlZ3T1ZkaUYxOXJfalBBTlhXelNvTzBxcE1GUHFTNGQybUgwbmlWajUtSmZjTl9KY3Rnb1VsbUx0UWg0NTZvVl9fMEdyWDRVRkZyaHJwRWxMZw?oc=5",
+    "source": "Zawya",
+    "published": "2026-11-21T18:16:00Z",
     "category": "World",
     "topic": "Americas",
     "country": "",
@@ -720,6 +792,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg"
   },
   {
+    "id": "be962f21b712705094f78e",
+    "title": "African and Japanese Partners Explore Finance and Guarantees for Investment in Africa",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUNkbW53LV9JQmFoQkNPZ1VrdWdKbWZ0bDQxMmozdkxjZmxlbThpdTUySlRtbGwwanF5ZGpfUl9HQ3NYM3kwN1Fzb29pdE1RTURRcTlCOUVUd2JxcXNhWGlyNHVhWGpTTmpOeGtyQnBJeW1Da2VKRHBKZ29SbkJEOXBwSDFHbFJzM05ZenlFT0EyOG5kYUR3VHhGWXBXZ0E2WjNhcGhXX3FwVFBmT1VDZ2hWNHJVMnZGVnRiMFZEZVFvMjFKbS1QU2xKLVRFdUJMYXAwS0F30gHbAUFVX3lxTE1Ea0pwbjJOYXlFWWJKZUhuYkxnNVJMdFYwR0V1LTdVOUcwUnFaV2pjQXZPcjdLbXltZ2lrSGhkLVN3SzZzT0JUdWtnVHplX1F1bnl3YmpsMDJfYXRDTWx1WTBtU1FKQU56ckJ4akcwajY4Yk1SNjY2VVFPQ2dYSmlYZ2JzLW15akpvYUo1OWNEeHJLb1RnMFlCQzNORVFPdE9VRjMzNF85TzkxSFBOZm9IQnJUOFVKTmF2cWRlTnQyUHU2VjR6NV94TV9iQ1hwWTVZVjB4MEd0Mm82UQ?oc=5",
+    "source": "Devdiscourse",
+    "published": "2026-11-21T11:22:35Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "648429514624a0b509d119",
     "title": "French Presidency Calls EU Budget Proposal 'Very Disappointing'",
     "summary": "",
@@ -960,6 +1044,18 @@
     "image": ""
   },
   {
+    "id": "40137ddf925c4bcef0eeda",
+    "title": "Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-21T08:16:08Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "c04736f66c046ddc6f3590",
     "title": "Trafalgar Square Christmas tree felled in Norway",
     "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
@@ -992,6 +1088,18 @@
     "published": "2026-11-21T08:00:00Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5cd6a7cc0cc9ea6a65ab57",
+    "title": "Ghana, US Virgin Islands explore new trade and investment opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2dYazlKY3NUaXZESmRQWTZ5eHRRUG9IY3Q2ekdjRU15TDJYUW5qOTNoWFNjRV83R1hQNVcyWGZhaE54c2puOWxVd3N3TGU0bWkwWU9qRXlxeTd6RURZblluRVBua2dGV1NmVng0NEMxZ3VObXdKSTdheXE3dGlzM2YtcWthbEdKMU5QS1lXU0hYZWoyTmszMjY4LTBvbGc5c09VZjFBQXMwRF8tcU1JWFZjcXFUNjQ?oc=5",
+    "source": "Ghana Business News",
+    "published": "2026-11-21T07:52:52Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
@@ -1150,6 +1258,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg"
+  },
+  {
+    "id": "d9c12d02cd04495cb0e384",
+    "title": "Social Policy in an Age of Uncertainty: European and Global Perspectives",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ19LREYyTzEyUmZlMzBQMFBuNWs4VU5VRHRGd29BX1JPS0dubEpraDdrb3NMWm9vcUQ2QlltdzhoWDVjZTVCM3B0R2RScmhtUkhlSEZZbFU2NTNNUXVKOXN2UVE4Vk9mMzVNQWFsVW1VLWh5U2V2b21ERUVxTG9Yb1ZacXJkSHZwX1FFU2duOUxWZHppLTNwRG9kaFZvMlpBLVFtWGxSUnU0X0QzSnVOc21R?oc=5",
+    "source": "Sciences Po",
+    "published": "2026-11-21T04:30:56Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "cabb56ce40a70fb270c7d6",
@@ -1366,6 +1486,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5edeaf13f200c4f950da4fc630d80c08"
+  },
+  {
+    "id": "2139627b07f5c24598d154",
+    "title": "19-month low: Canadian retail sales offer the Loonie some respite",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFdpNlN5YWRDb2VzS0NPNkk3THJGTkxuS2FJY0U3LWtzY05VVjNiNllQaU1zNXN4V3RoWGxnenBQTEMtSS1qam5xaFNnTk5VbUZlNEI3OG9KUG9NNHBocUw5eHNMSS1PeVRKRXo2bWtscGY2RVVUN2pkVmtKTzlmY3FkVzRDYUcyTkdxYURta2lJYUVFaTVCbzRRZC1BVG9lZzFSMHk5UUFfbXZrLTBzaUlxVVNkZGZHTmNHOEZ5SF81WnBYWXAyWFV3?oc=5",
+    "source": "www.tmgm.com",
+    "published": "2026-11-20T23:41:13Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
   },
   {
     "id": "d939cdb1b658d010dd5143",
@@ -3432,6 +3564,18 @@
     "image": ""
   },
   {
+    "id": "3e7859b7b8c11673d63eab",
+    "title": "Cyprus sends its biggest startup delegation to Helsinki",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWMxSWI2LW43dnhncTEwUWdRWFZ4aldpamk2OVZjQ3hkbmdyRVMxQm01dUdaVVNQa0x5LXFiMGtDTU42MWtOT3p3YUdQWC1iSGs0UkxFWlg5SDUyN1FRMlJObERaQjdxakdFVkhMTEdiU2xaZE1HZ2JreDA4ZE1fRC1URzZKOXR6NXRPWHFFVkhWUV9G?oc=5",
+    "source": "Cyprus Mail",
+    "published": "2026-11-20T09:52:26Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "00d437fd04b97e66d99034",
     "title": "Ramaphosa courts Silicon Valley investors as South Africa targets faster economic growth",
     "summary": "",
@@ -4680,6 +4824,18 @@
     "image": ""
   },
   {
+    "id": "af23b12be42aead91a083b",
+    "title": "Africa’s data gap is growth opportunity",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wSlpJRlFwcVFrYmhOcTQ0VEhQTmRlNHl4d0hkZ05PX1h2c1ZLZkJWeGFkcTNzdHJBZkdKc3J1NHA5YWRtTnYxRkdSeGFYVEXSAVdBVV95cUxOdkxFajE0R2FRczEwbWhYaHEwTlE0cGlZS05TWWtXb3JMOHlSY19DYk5xUlhWaV82cHF5ZEtobFRBOUJtcTFIY2JjcjZBUVFCbEZORG5uM0U?oc=5",
+    "source": "Gadget",
+    "published": "2026-11-19T22:50:00Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "fbc93b31b43bde95e4a43f",
     "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
     "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
@@ -4810,6 +4966,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667"
+  },
+  {
+    "id": "4fb0364843700ca816034c",
+    "title": "EU Opening Doors to Export Market Access for Jamaican Businesses",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXBUM0lHT0E4UGtLR0VaT3paQTVzYTB0XzRyVUM5a1RQcUxBOXpnNWoxUmtOQ0hrYkpCbHdjZnJFVE1LOVcxX05nYWh0bFRQdU1jUzhPSlZwdlVCT09oZFFqdXpPZlR0MlNraS1xTzdZNWNVcE5uVVJ0cjdWSlMwZ1czcmloakd4M0IzZA?oc=5",
+    "source": "Jamaica Information Service",
+    "published": "2026-11-19T21:53:57Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "4228c1b346b83edac14416",
@@ -8045,6 +8213,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkV0YzZ2NXF3c0h1amtXQTQyYnNCRmxTdG52cmwwamtGcXljeWMwV3Bpdmhic0lqU2x2dUZraEI5d0ctc0pqd1p4NjZhM3NxRGZpdlF0ZzJKNVNzc0NzZTNfSjFVMmZYSmJiNVlwMWV2QUV3dzZEbVBCMzdCYkVJSmQxdnZKU2R0NEJiV0pFS2lSdnpPYnp4SDI2MVVuY3RpX2dIVW9Nc3VtYXk3aGV3TlNRd3R1VVF1eWwtYw?oc=5",
     "source": "Singapore Economic Development Board (EDB)",
+    "published": "2026-11-19T08:00:00Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9e899ead61e1b29b7e076e",
+    "title": "Best Tech Events in Europe 2026: Dates, Prices & Guide",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YaTFvQkU2Tnp6Qnc3VmJsdlJQU1F0Rjdub2VIdWVOMGVPTW9ZN1NqNHdEVFdtZ3VRNnAyZ0gxeGwtVlJEV3VQZVNZSXpoWEY0eW1yUlNJTndVZkgxaFpVWERKQVBvOW9H?oc=5",
+    "source": "Bleap",
     "published": "2026-11-19T08:00:00Z",
     "category": "Technology",
     "topic": "Technology",

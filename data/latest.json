@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-22T04:17:49.177275Z",
+  "last_updated": "2026-11-22T05:18:45.120111Z",
   "articles": [
+    {
+      "id": "520e56a219a4af173a969d",
+      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+      "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams. The country has been gripped by fears of AI-as",
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "source": "The Guardian",
+      "published": "2026-11-22T05:04:39Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f07b25c72631f8072873e52093f91c"
+    },
     {
       "id": "bb8897266c923dd9617d05",
       "title": "AI Boom, Middle East Energy Risks, and Rates: Three Forces Shaping Global Markets and Thailand in 2027",
@@ -36,6 +48,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "b86f148d493b0f038de65c",
+      "title": "Nvidia and IBM to Use AI to Correct Quantum Computing Errors, Paving Way for Practical Drug and Materials Discovery",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5adzNmeF9MY2hBMm9LM1VrNDRaejZ5Z1RGdTJMRi1HQWNSdkZlZU1URVItT1ZwNEhqNC1VODVKYllROVA0YVFuaDBOWHBBbGd0T3MzVk9naUt6UTBnN2RDU0lWVFFodzBnYWNfMXVwN1k5aHBrV1E?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-22T01:25:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1c64d44e2f0cbfcc233579",
@@ -94,6 +118,42 @@
       "published": "2026-11-21T23:03:48Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "28e1074a83404f819e26be",
+      "title": "Ethiopia, Oman, Türkiye and Indonesia elected to ICAO Council as membership expands from 36 to 40 states",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWGUtSGlRX1RWUjdFVks3T1ZNd0drcUhoQ2VwZTVYcEg0ODVWbzVFank2WW1GTWlMTUw4TEdHWnBRZEVsamw3dzRNZFpBbEpYZ3ZtMWs0UWtIM21LQ0kwejhDRldEN2dIWm1WWHhYR05ZVFk?oc=5",
+      "source": "Avi-Go",
+      "published": "2026-11-21T22:59:45Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "988a676578a9e2d85b54e4",
+      "title": "Global Net Lease: 3 Key Takeaways for Long-Term Investors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnFxQWxSZl9zRTJQUHVBWXdnSmRibWptMk5pcjFMSUIzS1g5Y1l4cUZSbVdaZjFRSDZuc1VJTnkzWXhtN2RxOGdYRmR6R0Z2b3gxVnRVVFFZWVl3cXZCZ3RKeHA5bGVHc2VnZUc5UzNadTcxb2pUclpIM2pMcVdoNGdMaUswX3N4ckRvNW1fQ18?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T22:33:27Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2a6026aa8400b2daec2273",
+      "title": "Colliers International: 3 Key Takeaways for Long-Term Investors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzFWTjBlVkhQWl9KVHVQSXYtM21ZQ21fSGZyNGRTdm9nNUM3MW56c2xZNGdLd29McThGZEtpTFVlbkdHN3ZvcW5hZzFFTDhGdWsycnQyY3RPbldib0ZkUTdEeVVJdmpJc3FGUko0STQtaVFpOTVtbGVpWWZkX3RIOUpkMVRIQmhoQ015NEY2bkVwdjU1Nm95LVFocU96bnJkbUE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T22:33:07Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -222,7 +282,7 @@
       "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdHalZYY2s3bHVEeENKX0g4T0M4WWxHV3lacDRlejl2b2E5VWNPd1AxbXhaaUVyNXBFLWlYZFlKTk93R3QzeFdVazI3ajljUFVLYnFpb1VVQmNrVlNvYTIyajhxM1JBbjYxTkhJMkhObEJGSVdRdmZDVzItblZFd1A4NHZaWTZiZWdFVVc4REI2RGF5UjlGWndXeDFha2k0MWdqRkE4X1ozQ1h5N0ZxZmVVTVFldC1VRi1keUdBQQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published": "2026-11-21T21:00:00Z",
       "category": "Economy",
       "topic": "Global economy",
@@ -326,6 +386,18 @@
       "image": ""
     },
     {
+      "id": "85b1624124f059664171fe",
+      "title": "World Governments Summit Dialogue for Latin America and the Caribbean explores stronger cooperation in shaping the future",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQnBsb2NoaDBUNjIwaHV6OUsyYnNXM3g1Y1k2QXBrdy1iSDdIa2FFY1l3SDIweXprNjU3LVFKaTNpYVdjbWwwak5FQUdXbnVOMUFjQ2J5OXgwNzExODR6WVBHdW9kQnNjdlBuTjZUQ3V6c3c0QU4xZGxzY1h6N0ZQdVNsV1ladGhHR0NoeWgydEFVVmI1aXBKV2sxWEtFVG1hU0xudHcwaVROa0hObnd1OVZlV1ROT1l4Z2V5akgtNXpjbXRXWlZ3T1ZkaUYxOXJfalBBTlhXelNvTzBxcE1GUHFTNGQybUgwbmlWajUtSmZjTl9KY3Rnb1VsbUx0UWg0NTZvVl9fMEdyWDRVRkZyaHJwRWxMZw?oc=5",
+      "source": "Zawya",
+      "published": "2026-11-21T18:16:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5b76dfe3de30c0fc5f0467",
       "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
       "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
@@ -417,7 +489,7 @@
       "source": "russia's pivot to asia",
       "published": "2026-11-21T16:37:59Z",
       "category": "World",
-      "topic": "Americas",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -818,6 +890,18 @@
       "image": "https://i.guim.co.uk/img/media/a8ef665b3433b55dbebb6fb4abe465f1500c8ca9/367_0_2860_2288/master/2860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba8e07d06bc93de5e24b3211a43b2148"
     },
     {
+      "id": "be962f21b712705094f78e",
+      "title": "African and Japanese Partners Explore Finance and Guarantees for Investment in Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUNkbW53LV9JQmFoQkNPZ1VrdWdKbWZ0bDQxMmozdkxjZmxlbThpdTUySlRtbGwwanF5ZGpfUl9HQ3NYM3kwN1Fzb29pdE1RTURRcTlCOUVUd2JxcXNhWGlyNHVhWGpTTmpOeGtyQnBJeW1Da2VKRHBKZ29SbkJEOXBwSDFHbFJzM05ZenlFT0EyOG5kYUR3VHhGWXBXZ0E2WjNhcGhXX3FwVFBmT1VDZ2hWNHJVMnZGVnRiMFZEZVFvMjFKbS1QU2xKLVRFdUJMYXAwS0F30gHbAUFVX3lxTE1Ea0pwbjJOYXlFWWJKZUhuYkxnNVJMdFYwR0V1LTdVOUcwUnFaV2pjQXZPcjdLbXltZ2lrSGhkLVN3SzZzT0JUdWtnVHplX1F1bnl3YmpsMDJfYXRDTWx1WTBtU1FKQU56ckJ4akcwajY4Yk1SNjY2VVFPQ2dYSmlYZ2JzLW15akpvYUo1OWNEeHJLb1RnMFlCQzNORVFPdE9VRjMzNF85TzkxSFBOZm9IQnJUOFVKTmF2cWRlTnQyUHU2VjR6NV94TV9iQ1hwWTVZVjB4MEd0Mm82UQ?oc=5",
+      "source": "Devdiscourse",
+      "published": "2026-11-21T11:22:35Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "648429514624a0b509d119",
       "title": "French Presidency Calls EU Budget Proposal 'Very Disappointing'",
       "summary": "",
@@ -918,7 +1002,7 @@
       "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFpLRklubVpoUExoM0FURUhBQ0F0R0dsNGZCMXAtR25rZUxIN0M0UU1zcTZqbnd5bVJ0X2FUYjh2ZHlMU0Q3UGVVcUFRc1UzcDNhSWI5djdhdjZNZm05S3htdlpuSWNfTzN1a0dtZzFEYW9WTnNEd0hYcHZVaVZVaGRFYUcyN2xfNk5IVl9OQ19Vdnk3SHVIVElHdkJ6X3d2aUFvX1FNdzBHV2xFeWlEQ0VNUElqWm5zcVZB?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published": "2026-11-21T10:00:00Z",
       "category": "Economy",
       "topic": "Global economy",
@@ -1070,6 +1154,18 @@
       "image": ""
     },
     {
+      "id": "40137ddf925c4bcef0eeda",
+      "title": "Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
+      "source": "Morningstar",
+      "published": "2026-11-21T08:16:08Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9bc8a6e38b5a853ede9b2e",
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
@@ -1114,6 +1210,18 @@
       "published": "2026-11-21T08:00:00Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5cd6a7cc0cc9ea6a65ab57",
+      "title": "Ghana, US Virgin Islands explore new trade and investment opportunities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2dYazlKY3NUaXZESmRQWTZ5eHRRUG9IY3Q2ekdjRU15TDJYUW5qOTNoWFNjRV83R1hQNVcyWGZhaE54c2puOWxVd3N3TGU0bWkwWU9qRXlxeTd6RURZblluRVBua2dGV1NmVng0NEMxZ3VObXdKSTdheXE3dGlzM2YtcWthbEdKMU5QS1lXU0hYZWoyTmszMjY4LTBvbGc5c09VZjFBQXMwRF8tcU1JWFZjcXFUNjQ?oc=5",
+      "source": "Ghana Business News",
+      "published": "2026-11-21T07:52:52Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1238,6 +1346,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg"
     },
     {
+      "id": "d9c12d02cd04495cb0e384",
+      "title": "Social Policy in an Age of Uncertainty: European and Global Perspectives",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ19LREYyTzEyUmZlMzBQMFBuNWs4VU5VRHRGd29BX1JPS0dubEpraDdrb3NMWm9vcUQ2QlltdzhoWDVjZTVCM3B0R2RScmhtUkhlSEZZbFU2NTNNUXVKOXN2UVE4Vk9mMzVNQWFsVW1VLWh5U2V2b21ERUVxTG9Yb1ZacXJkSHZwX1FFU2duOUxWZHppLTNwRG9kaFZvMlpBLVFtWGxSUnU0X0QzSnVOc21R?oc=5",
+      "source": "Sciences Po",
+      "published": "2026-11-21T04:30:56Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "cabb56ce40a70fb270c7d6",
       "title": "Bitcoin, cryptos plummet 9% with US tech selloff",
       "summary": "",
@@ -1320,126 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "94f989ef3caed2ffa84767",
-      "title": "Radical New Cancer Diagnostic Wins Startup Competition at Medica",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGNNM3JtYXhoNjZXYWcwekRTWFJVdnc5WWRHOTZUckhQbTlqU0IxWmpadkdzLVZfQVRQME5RRGJ5TmN5UU11Wnd5ZlRyZk5zdHh2LWYwZE1xandKS19MZTZIeVFIa1JRZVJaOEhUVGRyUTVtcVByRXFTUjBoSUswMzg2ZHNtel82SzItVXlfd0xweW11cHB3dnRmUDhWNTNJZmtscXBaN1M?oc=5",
-      "source": "Medical Product Outsourcing",
-      "published": "2026-11-21T01:55:13Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bc1cfe89c50d081d5298ec",
-      "title": "Smart Glasses for the Blind Takes Top Prize at Innovation World Cup",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVZaeVYxVVlEbTJ6UFQyOG9BdXRXWmVCWktnTnFzS2NjMFluQS1DS2RZWmRpd094bWc5N0dkTXJXN0NJN1NnQ1hEV0hHdU9VNktvbWRrZGJpNXFvelFyYXRRd2FIRFlURFRiTXdpS01EX2tYbjE3WlFjaXUyRUZYT0lVWjlZbkZwUlROLW9kWHY0VjJGRk9ramVLNW80bndZNFVuMmpocw?oc=5",
-      "source": "Medical Product Outsourcing",
-      "published": "2026-11-21T01:36:57Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bd151e9b68d2f219c97439",
-      "title": "French giant deepens tech ties with 550 Indian startups, bets big on TN",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkFRLWpYMlN3MVNGU2tKY0QzVzAzb2YwbGNSNDRLRkRRazIyZmRCNnJTYk14WkV0cm52ZDM3RDRUdUpHWUtOQTFvN3ljYU9IM3hUNW5FT2dKSzVHQUNoMEpXeUVLV21VYmE5UndnUVVxM2ttdmttMGhTa2t6b2NsaEdIZkpxZzJySzNpV0QxMkRiWFREZVFYZFBtYVNQXy1aWktJN1F1SnZMejJTQjVsaWtaMkROcjkydG5TR1RIZWE3SERZeUNYVWhpZjcwZ9IB2wFBVV95cUxQd2hnbHNqb2dKT01FRkhjYWE0S3JJbFFaejNXWGpPRWk4dFh2ZG1HcmltcHhoXy1WVlB0dXZWWFRmZWFTX3hPdkp0V3VNSVEtZXJ2dW9ZNnB2VG52N2MzeXFLeU5nOVd6ejV4SUM0NWx5ekJpS3ZGZ3huM0xUOTlGd2tKMnE3VXR0Uy1ISGdqR2dfbENEZjJONl9hUldTSERxYkYtM3dxODBQSXkzQTV2SXNNR2xDTEZRb1U1ekZJUTRCaWRON0pqNXFoNmNva19VOVRjcWxQSzJfczA?oc=5",
-      "source": "The New Indian Express",
-      "published": "2026-11-21T01:02:54Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "23b6824f82dfecd03568ee",
-      "title": "University of Richmond Distant Viewing Lab Releases DataReel AI Film Research Tool",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNak9ncnRyVGtJakN1VTItcHhSOGxYX2xMa2VNZ1I2Q1NzRTN3cTlPb05hT1Y3UXVhQ1FEMmc3eVp4aGhVdGdhMHVaeDBxTTdyUjNzdkZsWldWUmpzVTd3U2MzVkF0LW50UFdpNzZ5UWJrV1JVaE5ZdTVFTUt1b20zUlNDOFlfV3loeUhWMHJiNXBpdw?oc=5",
-      "source": "CASRAI",
-      "published": "2026-11-21T00:57:23Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a31b5d2018fe5544dd4f21",
-      "title": "ISHIR Joins Anthropic's Claude Partner Network, Strengthening Enterprise AI Adoption with Claude-Certified Engineers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM2N6dzd5bnFKQ1RqRzd1NGdJX2tZLXZvZlN4YkJNR3FxTjQ0eG1GRE1xWENFUVYxcTJzQi1WUDdObDE4N1hJQVhUNFcwOWVaX2g5TWJtaFNVeG9ROWw3cEo3WWJKUGxnd1J1UGZod2RUd0dBME9GdF9nY3FSeGZ3aTF3Y0h4dHhSRUlhN19BLVpBQnBpTGNOSUpVMDk0NER0OXNvZVIzVlZxdXZvRlRCdE05WGx0SU5fZFYzSTB5UElwMTJKMEdDOFAyNDRlUjFIMGNXWHVuQ2hncWN1b09CQ01BSmozU000c3dybjBn?oc=5",
-      "source": "Issuewire",
-      "published": "2026-11-21T00:45:20Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8a3642c6d9ad38a4d774d4",
-      "title": "Week Ahead: US GDP, PCE Inflation & Fed Rate Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGFOUE51WXJNSFhPYWJSRktSVS1YeVkwNFBabzlqUUhweEVsZ1BLZmVfOHlZMU1GSzRjY3V6aW5tN0p5M0ZBcnM4eVNtLTVyNTg3QVVWZnpKMnAwQ3N2d2lsbnBuM3ZxdkoyVGgydjFwWG1qS1p4X05kLVFtQlhnSjh1S1QwS0FnVmVubjFOSGVxa0tWQzluMmxsUlM5ejA?oc=5",
-      "source": "www.equiti.com",
-      "published": "2026-11-21T00:15:14Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "96c5d842a8364fbb687d5c",
-      "title": "3 Investment Bank Stocks Riding the Debt Boom in 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUJnTzF5RE9LZGJMNHV5bkFUb19RdlRBV3RtSGI2eEhKNnRHcjY0X29JOS1YMDJhSVhPbG9kN0FCeGdWSFlPNmZYRzFaWFJERWhpYXB0ZUtnR281WFltc3F0alFPdk9WdkMwWmVyOFpvQWwweW5oUVdqdHNZbksxQWJTSjNRRF9Pb2R6U0xaRnNseC1PbnFrOE1iV3A?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-21T00:14:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "47de4a29b250ca717d7b13",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-21T00:06:11Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg"
-    },
-    {
-      "id": "816826a2d24a389bfdab22",
-      "title": "Nvidia's Quarterly Revenue Tops $100 Billion; Anthropic Slips After Strong IPO Debut; AI Investment Enters Earnings-Validation Phase",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yR0czem92VEhaY0VPaV9LVHp0SHNLRWg1LXp2SUVuWEdZQ2htdzdMRmhsVFA2aEMyQzhnQjZpeURieDlqWFducTlBNTg1Y19ITXE0VUUwZEoxTTRRaDJJRTE1V2ZxdWZtZV9GUERCd3k3MkNiaHc?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-21T00:05:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8e748445a2262c424cd5ca",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T00:01:39Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg"
     }
   ],
   "countries": [
