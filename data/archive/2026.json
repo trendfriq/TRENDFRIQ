@@ -1,5 +1,101 @@
 [
   {
+    "id": "b9f6c66898d433803f8fe8",
+    "title": "CIO Weekly - Markets have fallen sharply. Has the investment picture changed?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0FSM2JFNHlEeHR1T0gtNUNwQ1VZOFhiZldITGJiSWR4WXZIcEZjYXNlSHc2V19FUTNtMW5rLWdnWnQ0YzBMOTNEUjZPS1p5c01xSV9OSlhHM3BRYUNIdjVpYVp6ZTloMWVKYU9kTkI3LWs1VGRxRUYyWWlVSVBGRXh5d293SEMtRVlXN0JVNE5qWkU5aDBwaWN2VWloU3dIbDdTX3REVll1Wm8yamc?oc=5",
+    "source": "Coutts",
+    "published": "2026-11-22T17:56:31Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "fe90f3ab50830c925e56a8",
+    "title": "New type of globalization vital to a world with shared future",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NVFg4UlZDYVhKTk83R3EwSUNMa3oydlJ2bVRTa3JJX1BMSWhPNGs0U0RjNHBfNGhEOFNEbFZTVi1CN0ZKczdDNGNCbU10RG1vWHp0MEtnTHo?oc=5",
+    "source": "chinadailyhk",
+    "published": "2026-11-22T17:47:59Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a3c4e1668af85726456bcc",
+    "title": "Delta flights in and out of Atlanta delayed due to system outage",
+    "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at [&#8230;]",
+    "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+    "source": "The Verge",
+    "published": "2026-11-22T17:46:44Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3834fdac8899f73eb1ccfd",
+    "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+    "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+    "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+    "source": "NPR",
+    "published": "2026-11-22T17:44:52Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fe6%2F705920be46a09bdd2b396ad5411b%2Fmoe01329.jpg"
+  },
+  {
+    "id": "664c7d903ee6294a79b640",
+    "title": "Uber says it will improve conditions for UK drivers",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdsajA4dHo1S0JzSzhUSExEb3R1amlTbE13UHJ0a19rb3NzQmZ4ODkwMWhLeFBlb2FYMURNcVJDd0FuMVBRRV8yYklEaHR6a3Y3VVJadkhKbG5ZTlUxb2lUS0x3UXg3a2V2elg5TC1oNm16ZkQxVjFLQ0JNSmhkZHNVNjZuazJzYm1PSXNKUUtzLTR1REdj?oc=5",
+    "source": "Yeni Safak English",
+    "published": "2026-11-22T17:30:25Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "28c764e2cf8a36efd027de",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [&#8230;]",
+    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "source": "The Verge",
+    "published": "2026-11-22T17:25:20Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3c66cddc638df754c7e56c",
+    "title": "Europe's power market is flashing a warning to its economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0teVU2TGFVNm5NSWJXWlRXWVJ1clp6YzBScTlsVUREUHlhd0hPdnpVdE44Nmp3eE1nWWhLMFJVU1dJWDVveW1XNXFHNFNuOFpXYlBCQ1Y4MkdEd3dQVmx5U25NNV93SjlPdE9tdmVydW5sbGM?oc=5",
+    "source": "Irish Examiner",
+    "published": "2026-11-22T17:14:00Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9244314cba7baed73d5239",
+    "title": "Israel set to become world's 25th-largest economy: What can Europe learn from its tech boom?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
+    "source": "Euronews.com",
+    "published": "2026-11-22T17:11:40Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "70eecc407642e6be563ce1",
     "title": "TechCrunch Mobility: A/B testing robots vs. humans",
     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
@@ -10,6 +106,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800"
+  },
+  {
+    "id": "3bca3cc3786597675352ea",
+    "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+    "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+    "source": "The Verge",
+    "published": "2026-11-22T17:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "0a72272c8d43a3ceda33ea",
@@ -94,6 +202,30 @@
     "topic": "Middle East",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "e52fe8b218dc8e2333fc56",
+    "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+    "summary": "District court in the Hague finds Chinese carmaker infringed on intellectual property of Jaguar Land Rover Chinese carmaker BYD has been banned from selling its “Defender clone” vehicle in the EU by a court in the Netherlands, after Jaguar Land Rover (JLR) brought a case saying it infringed intellectual property rights. JLR launched legal action over the sev",
+    "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+    "source": "The Guardian",
+    "published": "2026-11-22T15:43:47Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/34ec5c756f42808400033b1a33ec6a6c23e267be/625_0_6228_4985/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=882ea75d273796c7bf697131cc66d4b9"
+  },
+  {
+    "id": "623d499cd4f320e93a8b6e",
+    "title": "UK taxpayers held more that £1tn in offshore tax havens, latest HMRC data shows",
+    "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losses to the public purse. HM Revenue and Customs (HMRC) data, obtained by the TaxWa",
+    "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+    "source": "The Guardian",
+    "published": "2026-11-22T15:43:01Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/800ce1d542712fe94a187f06f577b17799e2d1b6/15_0_1992_1594/master/1992.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29f847e65d19613195b7d2fd06329464"
   },
   {
     "id": "5692a2ebd8cc876dc356bf",
@@ -384,6 +516,18 @@
     "image": ""
   },
   {
+    "id": "dfecba890b0052310f0b3b",
+    "title": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-22T12:22:12Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6aa751fd2c2631f0b09041",
     "title": "3 US Market Infrastructure Stocks Facing An AI Pricing Test",
     "summary": "",
@@ -406,6 +550,18 @@
     "topic": "Asia Pacific",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "41233461afdce8f0053cc5",
+    "title": "Cloned number plate victims in England and Wales to get new reporting tool",
+    "summary": "Police launch initiative after steep rise in criminals using method to evade detection and avoid paying penalties Sandra Yarwood has a file “about 2in thick” of paperwork relating to the 32 driving fines she received this summer after her car’s number plate was cloned. Yarwood’s black Volkswagen Golf did not move from outside her London home while she was on",
+    "url": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+    "source": "The Guardian",
+    "published": "2026-11-22T11:59:28Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/01f2a7c8812c3e7155003a8cba98fa1d1d276816/618_0_4150_3321/master/4150.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd077153dc91b5bbf534f0e1959b1ca7"
   },
   {
     "id": "3978e4b48f71bfedde1e73",
@@ -516,6 +672,30 @@
     "image": "https://i.guim.co.uk/img/media/8c42154ecfc0d97946047de44f3951732b270f97/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97bd4065fd791ea322ea6c6201afcb24"
   },
   {
+    "id": "f60d900b670ecc41753d7b",
+    "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+    "summary": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China Howard Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump , is emerging as Democrats’ prime target when the party takes control of Congress in January. Lutnick is resisting calls to resign amid a bipartisan outcry over his ro",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+    "source": "The Guardian",
+    "published": "2026-11-22T11:00:26Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/26a7d259410d67ec0543bc2520e6b3eb08d24ccb/977_0_6479_5186/master/6479.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6fd3365a9d5606b46542dccefceb11d"
+  },
+  {
+    "id": "9fca7a9ef1e0d7bb963af8",
+    "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+    "summary": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long British producers have broadly welcomed the UK’s deal with the EU, designed to remove the vast majority of physical checks on food, plants and animal products. The sanitary and phytosanitary (SPS) deal is expected to benefit Britain’s food exporters an",
+    "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+    "source": "The Guardian",
+    "published": "2026-11-22T11:00:24Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/33a5b500a62308f3c01515a3a29b8ff23a030773/0_365_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=463d6b649a2356adffff9756d54136d2"
+  },
+  {
     "id": "4636c2b6f3fac6fbdacbbe",
     "title": "Warren County Airport in Ohio Reports $16–27M+ Annual Economic Impact and Over $3M in Private Hangar Investment in 2026",
     "summary": "",
@@ -538,6 +718,18 @@
     "topic": "Africa",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "72588558ec79bf1820d09c",
+    "title": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
+    "summary": "Last week’s Milburn review contained telling phrases, but the core problem is not Neets: it’s what capitalism as we know it has done to employment Everyday pride and contentment. That’s what work should give us. In 15-plus years of speaking to ordinary people and politicians about the UK’s serial woes and crises, one thing has revealed itself to me time and ",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/22/work-respect-pay-crisis-neets-milburn-review",
+    "source": "The Guardian",
+    "published": "2026-11-22T10:00:24Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/e99c4064df5af1c4d381edc987f8d7c0f2950483/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2fda944032c4ef89902345a01b1f3858"
   },
   {
     "id": "9cad7af512145b1625a783",
@@ -658,6 +850,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=008006293af8e6c164a27aa2d78112dd"
+  },
+  {
+    "id": "b77d9a1753ba8178eec921",
+    "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+    "summary": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities Prof Heather Wardle has dedicated 20 years to researching the harm caused by gambling. So the University of Glasgow social scientist was horrified to learn that her reputation and even her photograph had been hijacked by rogue casi",
+    "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
+    "source": "The Guardian",
+    "published": "2026-11-22T08:00:21Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/81fa0e7afc6590e31714844f8f2ff98575a33f17/0_0_2811_2248/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bed5187184aa76cbb60928ea19670ee0"
   },
   {
     "id": "ea9526b5723a2b32cbc459",
@@ -1258,6 +1462,18 @@
     "topic": "Corporate results",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "167b007612a95db1ff1bc1",
+    "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+    "summary": "New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing world Climate talks reached a standstill on Saturday night in Turkey as some countries mulled whether to force a showdown with Saudi Arabia and its allies over the global need to phase out fossil fuels. The co-conveners of the Cop31 UN climate ",
+    "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+    "source": "The Guardian",
+    "published": "2026-11-21T19:43:52Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/e77ce2c4221d9b8e5f5d098b1cd4a32802931e6a/0_0_5594_4477/master/5594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2913dcf655704788eaff841f0c1067b5"
   },
   {
     "id": "a9bb7c6e29da205c76d258",
@@ -6358,6 +6574,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
+  },
+  {
+    "id": "5d75dadc8f28360b49c6af",
+    "title": "How Virtual Cells Could Transform Medicine",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96alR0UGdHdEs5VjdQb1RubTVlMklNY2FTLVVTLWpvWU9xSVVtNktQRFZZeUNTLXVxVU41VlFMclhMN1RqeUxvVlNZbDBrSENpY1JiVHFuSnVnRUlYZFd5T3o1dFRaWkp0eEZocDloN3h0SFQyeDVmSDhn?oc=5",
+    "source": "The New York Times",
+    "published": "2026-11-19T23:03:31Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "29497fc898ffdf1afd0fd5",

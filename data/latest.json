@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-22T17:09:02.103459Z",
+  "last_updated": "2026-11-22T17:58:37.134880Z",
   "articles": [
+    {
+      "id": "b9f6c66898d433803f8fe8",
+      "title": "CIO Weekly - Markets have fallen sharply. Has the investment picture changed?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0FSM2JFNHlEeHR1T0gtNUNwQ1VZOFhiZldITGJiSWR4WXZIcEZjYXNlSHc2V19FUTNtMW5rLWdnWnQ0YzBMOTNEUjZPS1p5c01xSV9OSlhHM3BRYUNIdjVpYVp6ZTloMWVKYU9kTkI3LWs1VGRxRUYyWWlVSVBGRXh5d293SEMtRVlXN0JVNE5qWkU5aDBwaWN2VWloU3dIbDdTX3REVll1Wm8yamc?oc=5",
+      "source": "Coutts",
+      "published": "2026-11-22T17:56:31Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fe90f3ab50830c925e56a8",
+      "title": "New type of globalization vital to a world with shared future",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NVFg4UlZDYVhKTk83R3EwSUNMa3oydlJ2bVRTa3JJX1BMSWhPNGs0U0RjNHBfNGhEOFNEbFZTVi1CN0ZKczdDNGNCbU10RG1vWHp0MEtnTHo?oc=5",
+      "source": "chinadailyhk",
+      "published": "2026-11-22T17:47:59Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a3c4e1668af85726456bcc",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "source": "The Verge",
+      "published": "2026-11-22T17:46:44Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3834fdac8899f73eb1ccfd",
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "source": "NPR",
+      "published": "2026-11-22T17:44:52Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fe6%2F705920be46a09bdd2b396ad5411b%2Fmoe01329.jpg"
+    },
+    {
+      "id": "664c7d903ee6294a79b640",
+      "title": "Uber says it will improve conditions for UK drivers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdsajA4dHo1S0JzSzhUSExEb3R1amlTbE13UHJ0a19rb3NzQmZ4ODkwMWhLeFBlb2FYMURNcVJDd0FuMVBRRV8yYklEaHR6a3Y3VVJadkhKbG5ZTlUxb2lUS0x3UXg3a2V2elg5TC1oNm16ZkQxVjFLQ0JNSmhkZHNVNjZuazJzYm1PSXNKUUtzLTR1REdj?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-22T17:30:25Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "28c764e2cf8a36efd027de",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [&#8230;]",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "published": "2026-11-22T17:25:20Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "a9bb7c6e29da205c76d258",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T17:18:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
+    },
+    {
+      "id": "cb29a20e38ef835b166a4d",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T17:16:47Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+      "id": "3c66cddc638df754c7e56c",
+      "title": "Europe's power market is flashing a warning to its economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0teVU2TGFVNm5NSWJXWlRXWVJ1clp6YzBScTlsVUREUHlhd0hPdnpVdE44Nmp3eE1nWWhLMFJVU1dJWDVveW1XNXFHNFNuOFpXYlBCQ1Y4MkdEd3dQVmx5U25NNV93SjlPdE9tdmVydW5sbGM?oc=5",
+      "source": "Irish Examiner",
+      "published": "2026-11-22T17:14:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9244314cba7baed73d5239",
+      "title": "Israel set to become world's 25th-largest economy: What can Europe learn from its tech boom?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-22T17:11:40Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "70eecc407642e6be563ce1",
       "title": "TechCrunch Mobility: A/B testing robots vs. humans",
@@ -12,6 +132,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "3bca3cc3786597675352ea",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-22T17:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "0a72272c8d43a3ceda33ea",
@@ -38,6 +170,18 @@
       "image": ""
     },
     {
+      "id": "7dd35e722de5f28c6d9777",
+      "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdHalZYY2s3bHVEeENKX0g4T0M4WWxHV3lacDRlejl2b2E5VWNPd1AxbXhaaUVyNXBFLWlYZFlKTk93R3QzeFdVazI3ajljUFVLYnFpb1VVQmNrVlNvYTIyajhxM1JBbjYxTkhJMkhObEJGSVdRdmZDVzItblZFd1A4NHZaWTZiZWdFVVc4REI2RGF5UjlGWndXeDFha2k0MWdqRkE4X1ozQ1h5N0ZxZmVVTVFldC1VRi1keUdBQQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-22T16:46:04Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f6f43aa541208f0668fd0e",
       "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
       "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani styles, [",
@@ -51,8 +195,8 @@
     },
     {
       "id": "35cb6d5769c702625b29c1",
-      "title": "International climate talks end in disappointment",
-      "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
+      "title": "Climate change talks fall apart in final hours over fossil fuels",
+      "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
       "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
       "source": "NPR",
       "published": "2026-11-22T16:33:22Z",
@@ -60,18 +204,6 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4074x2716+0+0/resize/4074x2716!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F99%2F06ba60a34fb4ba38b24264298650%2Fap26326503765925-1.jpg"
-    },
-    {
-      "id": "cb29a20e38ef835b166a4d",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T16:05:25Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "b3756f0f3aa54f574dc9d2",
@@ -98,6 +230,30 @@
       "image": ""
     },
     {
+      "id": "e52fe8b218dc8e2333fc56",
+      "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+      "summary": "District court in the Hague finds Chinese carmaker infringed on intellectual property of Jaguar Land Rover Chinese carmaker BYD has been banned from selling its “Defender clone” vehicle in the EU by a court in the Netherlands, after Jaguar Land Rover (JLR) brought a case saying it infringed intellectual property rights. JLR launched legal action over the sev",
+      "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+      "source": "The Guardian",
+      "published": "2026-11-22T15:43:47Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/34ec5c756f42808400033b1a33ec6a6c23e267be/625_0_6228_4985/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=882ea75d273796c7bf697131cc66d4b9"
+    },
+    {
+      "id": "623d499cd4f320e93a8b6e",
+      "title": "UK taxpayers held more that £1tn in offshore tax havens, latest HMRC data shows",
+      "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losses to the public purse. HM Revenue and Customs (HMRC) data, obtained by the TaxWa",
+      "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+      "source": "The Guardian",
+      "published": "2026-11-22T15:43:01Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/800ce1d542712fe94a187f06f577b17799e2d1b6/15_0_1992_1594/master/1992.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29f847e65d19613195b7d2fd06329464"
+    },
+    {
       "id": "5692a2ebd8cc876dc356bf",
       "title": "Asian countries take steps to aid stock markets after AI rout",
       "summary": "",
@@ -118,18 +274,6 @@
       "published": "2026-11-22T15:41:30Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7dd35e722de5f28c6d9777",
-      "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdHalZYY2s3bHVEeENKX0g4T0M4WWxHV3lacDRlejl2b2E5VWNPd1AxbXhaaUVyNXBFLWlYZFlKTk93R3QzeFdVazI3ajljUFVLYnFpb1VVQmNrVlNvYTIyajhxM1JBbjYxTkhJMkhObEJGSVdRdmZDVzItblZFd1A4NHZaWTZiZWdFVVc4REI2RGF5UjlGWndXeDFha2k0MWdqRkE4X1ozQ1h5N0ZxZmVVTVFldC1VRi1keUdBQQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-22T15:24:11Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -422,12 +566,24 @@
       "image": ""
     },
     {
+      "id": "dfecba890b0052310f0b3b",
+      "title": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-22T12:22:12Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "520e56a219a4af173a969d",
       "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
       "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sund",
       "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
       "source": "The Guardian",
-      "published": "2026-11-22T12:12:08Z",
+      "published": "2026-11-22T12:12:07Z",
       "category": "Technology",
       "topic": "The Guardian",
       "country": "",
@@ -458,6 +614,18 @@
       "image": ""
     },
     {
+      "id": "41233461afdce8f0053cc5",
+      "title": "Cloned number plate victims in England and Wales to get new reporting tool",
+      "summary": "Police launch initiative after steep rise in criminals using method to evade detection and avoid paying penalties Sandra Yarwood has a file “about 2in thick” of paperwork relating to the 32 driving fines she received this summer after her car’s number plate was cloned. Yarwood’s black Volkswagen Golf did not move from outside her London home while she was on",
+      "url": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+      "source": "The Guardian",
+      "published": "2026-11-22T11:59:28Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/01f2a7c8812c3e7155003a8cba98fa1d1d276816/618_0_4150_3321/master/4150.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd077153dc91b5bbf534f0e1959b1ca7"
+    },
+    {
       "id": "3978e4b48f71bfedde1e73",
       "title": "Week Ahead: US PCE inflation, China profits, and Meituan earnings test battered markets",
       "summary": "",
@@ -482,25 +650,13 @@
       "image": ""
     },
     {
-      "id": "a9bb7c6e29da205c76d258",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T11:25:14Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
-    },
-    {
       "id": "c57623b04f291e8755e02f",
       "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
       "summary": "‘Raising growth in every postcode’ has been the PM’s rallying cry but deep regional disparities and rising energy bills pose problems this winter Andy Burnham faces two, related problems: Britain faces deep regional disparities and it is entering the coldest months of the year with rising inflation. Since entering Downing Street, raising “growth in every pos",
       "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
       "source": "The Guardian",
       "published": "2026-11-22T11:24:22Z",
-      "category": "Economy",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/e94340538344906704731943219c4840f1228d48/68_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c8018ca26a4cbb027da0cb07c3623dc0"
@@ -578,6 +734,30 @@
       "image": "https://i.guim.co.uk/img/media/8c42154ecfc0d97946047de44f3951732b270f97/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97bd4065fd791ea322ea6c6201afcb24"
     },
     {
+      "id": "f60d900b670ecc41753d7b",
+      "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+      "summary": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China Howard Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump , is emerging as Democrats’ prime target when the party takes control of Congress in January. Lutnick is resisting calls to resign amid a bipartisan outcry over his ro",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+      "source": "The Guardian",
+      "published": "2026-11-22T11:00:26Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/26a7d259410d67ec0543bc2520e6b3eb08d24ccb/977_0_6479_5186/master/6479.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6fd3365a9d5606b46542dccefceb11d"
+    },
+    {
+      "id": "9fca7a9ef1e0d7bb963af8",
+      "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+      "summary": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long British producers have broadly welcomed the UK’s deal with the EU, designed to remove the vast majority of physical checks on food, plants and animal products. The sanitary and phytosanitary (SPS) deal is expected to benefit Britain’s food exporters an",
+      "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+      "source": "The Guardian",
+      "published": "2026-11-22T11:00:24Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/33a5b500a62308f3c01515a3a29b8ff23a030773/0_365_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=463d6b649a2356adffff9756d54136d2"
+    },
+    {
       "id": "77bb058c9e48d39179cbdf",
       "title": "YouTube | History, Founders, Purchase, Google, Music, Videos, & Facts",
       "summary": "",
@@ -612,6 +792,18 @@
       "topic": "Africa",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "72588558ec79bf1820d09c",
+      "title": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
+      "summary": "Last week’s Milburn review contained telling phrases, but the core problem is not Neets: it’s what capitalism as we know it has done to employment Everyday pride and contentment. That’s what work should give us. In 15-plus years of speaking to ordinary people and politicians about the UK’s serial woes and crises, one thing has revealed itself to me time and ",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/work-respect-pay-crisis-neets-milburn-review",
+      "source": "The Guardian",
+      "published": "2026-11-22T10:00:24Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e99c4064df5af1c4d381edc987f8d7c0f2950483/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2fda944032c4ef89902345a01b1f3858"
     },
     {
       "id": "9cad7af512145b1625a783",
@@ -732,6 +924,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=008006293af8e6c164a27aa2d78112dd"
+    },
+    {
+      "id": "b77d9a1753ba8178eec921",
+      "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+      "summary": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities Prof Heather Wardle has dedicated 20 years to researching the harm caused by gambling. So the University of Glasgow social scientist was horrified to learn that her reputation and even her photograph had been hijacked by rogue casi",
+      "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
+      "source": "The Guardian",
+      "published": "2026-11-22T08:00:21Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/81fa0e7afc6590e31714844f8f2ff98575a33f17/0_0_2811_2248/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bed5187184aa76cbb60928ea19670ee0"
     },
     {
       "id": "ea9526b5723a2b32cbc459",
@@ -1236,210 +1440,6 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "7289e21f33e265e97a8945",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T21:37:10Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800"
-    },
-    {
-      "id": "8ed913cfa76c678b697520",
-      "title": "A tale of two Nvidias",
-      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T21:07:42Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
-    },
-    {
-      "id": "a9bab3aabb3466ab34c918",
-      "title": "Korean asset managers' profits jump 85% as earnings gap widens",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjRQSlNwYm1LQUN4Sm1tYnJLaTBIMk80MmlvX3l4Q29UcWZlYklhWU1vTDVHOTlXSFBWYzFRaElNS08xNlRzWWZTdFFIcFVwR0pJb3hzeGozc1o2SWV3OHFUOFYwd2FTVFJ5MGtVbldjcTY0Q25wbjkyaFNUUWdIUdIBlAFBVV95cUxQUTRxSnIwMk42c3lTR1JZYnJtWVFQbEhVMnlSd2o4TTNMMVQteldETFl6QUlkOUY0V3BSZXM4LTU4MlpKbXI0eEZyMHFvRDl1SWozSFRVWmlxMWRJLXV6MjZiS3R3ZkJNMTd0MHlEeWw4bF8tcVpLanRVcEpYY3hfUkYzMFdSaG82ZF9uQ0VrV0dxTlNf?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-21T21:00:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "20d6fe614e525bfb6b1b4f",
-      "title": "SCZONE seeks to deepen cooperation with Greek companies in industry, ports",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2E2M0VpQ1oyUngydW9wVkJKNmlBMmx1QV9MN0NDOUZ2SVF4YnhpTG1aSUZObUZ0amRIQy1xSDRZeFk4VkRWNVdQTzhmaTdKVFpHT2tqZXNjam1CbzNBMWlrTVlsT1Z2Nk4xVzh2Y1Jic3FucktYMk5DTHFISHA2Z1ZWdHpiUWtzQVRIOG4wdzBDZ2dsM0M2cDBIckNsaWprcldEM2NoMndWS1lkS2RBN2VR?oc=5",
-      "source": "Daily News Egypt",
-      "published": "2026-11-21T20:38:06Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2f4c4a774413d030e83e23",
-      "title": "India a standout performer amidst sluggish global growth trends: Economic Affairs Secy tells WB committee",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZmVVNi1vdHdtRlA1Rlhlel95VUFtSVdELVQ0MnNBQzZtcksxdGlWbTJxVkozV1AwbE54UlZ1cmx4RnVJRnVoVWZoMGZKdUFPdDUxRFJzV2Q4ZnJ3NEFMTzhzM2VZZWNYYUFxT3VGWTZ5TVZDRkpPWHg3MlE0SnBfQUFCUTJpaFhhLVNwVkpnNnZYNlJiQi1QOVg5dWhRRElvZVRGazhuamFvWFR4VUZXZi1xX3RkRlFFN1Q1WURXemxpN1F6VUdNdkpxZnZPUmVnRFJUSUY0M1owakp6c3IyeHprel9mVkxrY2dBYWhDTmY2UWM4UTdmSV9veEM3SDRhbHh1OEs1LVdoclZGZlRz0gGKAkFVX3lxTFBQRWw5aXVCdkJaY01XZXFQTEt3WWRiRVE1RXFnYnlmcTFfalFHYTFkbEdDcDlEOVVmM0VHZXMzQ3VzMlI4R2QycmRCU2VSSzc4U1JvNnhjcEc4ZzV5RE1RcHRBWHhSSmtlVUktU1pFMTJyQ3pXalhKTVE3Zkx3UXFUMGdfRURSR3JybUFOWGl4N1YzQy1FTlNrdVYzckJLNHJrRmFmZ0xwVWgzSzJXOThjMU1vbnZqMzJEeFVHdTFyT2ROS2kxMFIwc1VCQzhubTgyS0xMZHZfZUFwTl93bndsTGFyZTB3T2V6aGo5aGR1blRsUFJSS0JXaE1hOVlZSkZ3cFdKQ3FGMGJn?oc=5",
-      "source": "ET Government",
-      "published": "2026-11-21T20:27:37Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c9f55606ccf47aad92fa55",
-      "title": "Quarterly Earnings Review: Sep-2026 Results Show Mixed Trends Across Market Caps",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmpLYklDX2ZfeFRUSHRReWM5T0lBRkt3QmRBZmRGLUdTS0prS0hlRTJDNkNYRXhxUk1vbEdpTDdZZF9fTnRMUmpXZk96Xzc2b0liZlRGQTNJcTExdjlkMlBEZksyLVg0a3BULW5ENnNiWTRqeWVlVk51akQtTmlVRFFFTVZ3cHhNY3ZleFFOT294VUZxcHZXZzQ4TGF6aGs3cURXQzZIS1NkMDZVeklSZTB1cTFGUUpPX1R0Wmw1V1N5VUt3X3JFeHFTdHV4eTJJTGFObA?oc=5",
-      "source": "MarketsMojo",
-      "published": "2026-11-21T20:26:45Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5551def0095f2a9b1f13f8",
-      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpög",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-      "source": "The Guardian",
-      "published": "2026-11-21T20:15:57Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a"
-    },
-    {
-      "id": "afd1a1c6a39ec6190cdf9a",
-      "title": "UAE’s AIREV secures Singapore investment to scale agentic AI in finance and healthcare",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnZNaGdYQy1CZEtwR3djdFlCVGRxY1ZBTU82VkZBd0pZa3Nod19LRnhJbzZHTmJaeG9PUFAxbm5mNTlWY2Y4cENzRHRmNjFQa2tiNlpucDdVdmQyU3lQcktmOFBJNzhPb0J3QTZBbFZudGZkc2JnV1Vnd2NhN01QZVJkUGFhVU0xWUo4SUo5bW9ULUgyU1RDMV8zRGlSMUtKNFBXcTJ0eVpkVl9lUDVfWXhBd2pRamhV?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-21T20:06:45Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ec8e761e0eb8542f51eeee",
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "source": "The Verge",
-      "published": "2026-11-21T20:03:37Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "09124c187ac813ce9c2e7b",
-      "title": "NC Q3 2026 Earnings Report: MMORPGs Continue To Drive NC's Revenue Growth As Company Expands Into New Genres",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXVLWGFsM3Zxb0RxSTNOcXdBMmxIUzByOVhfc3JPcVNVZzhGM0dSTGpVSGp5YTd3SDM2Z3NlSEhiQkxUZS1LM1ZhN3RHZ212U1ptUmhWNV9jcHN2LXdueE5uaHFQZUM4S24walpENEF3YnVHWDc3UTlWZWFLc1Z3Skhfd2s2RDJyUktqT2xaWENNdS14R3NIUGZNTEl3SDk2QXl2a2p0cktiOFZHY0E3MDRnREJwQXVwdkctT3ZINnlPOGQ3cU5jSElFRGRfWWFXVWNWQ1pVMHRLUUI1QWfSAeoBQVVfeXFMTllEN29ydklJNVBfbHEzemxqY2hnNjJOVGM3OV9mYWJPNGUtU0tmejE1T3k1TERORG5ONmViMllkb2xobjExYTgxTXBQenRwY0NEV0pxVXBiRlY1N3lweEtUXzN6dUhFY3ZXYU1qbE11UHVFeWhoekI5OGdSb2xtWU5IV3R2MXU4NHFhQzN2bVZDZzJkeUhlVm82MWlzOEpUZmQ5LXJyQVlCd0xEZTJmNmcwZlJiY3BJc18zb3dBVkZGMUNnR1BRUXd2ODRxZmN4SXZYNTBOOWh5OUFMNmtmSENnVl92OHVEOHpB?oc=5",
-      "source": "MMORPG.com",
-      "published": "2026-11-21T20:00:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cb59a668564561c0508d55",
-      "title": "NC Q3 2026 Earnings Report: MMORPGs Continue To Drive NC's Revenue Growth As Company Expands Into New Genres",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWUQ3b3J2SUk1UF9scTN6bGpjaGc2Mk5UYzc5X2ZhYk80ZS1TS2Z6MTVPeTVMRE5Ebk42ZWIyWWRvbGhuMTFhODFNcFB6dHBjQ0RXSnFVcGJGVjU3eXB4S1RfM3p1SEVjdldhTWpsTXVQdUV5aGh6Qjk4Z1JvbG1ZTkhXdHYxdTg0cWFDM3ZtVkNnMmR5SGVWbzYxaXM4SlRmZDktcnJBWUJ3TERlMmY2ZzBmUmJjcElzXzNvd0FWRkYxQ2dHUFFRd3Y4NHFmY3hJdlg1ME45aHk5QUw2a2ZIQ2dWX3Y4dUQ4ekHSAeoBQVVfeXFMTllEN29ydklJNVBfbHEzemxqY2hnNjJOVGM3OV9mYWJPNGUtU0tmejE1T3k1TERORG5ONmViMllkb2xobjExYTgxTXBQenRwY0NEV0pxVXBiRlY1N3lweEtUXzN6dUhFY3ZXYU1qbE11UHVFeWhoekI5OGdSb2xtWU5IV3R2MXU4NHFhQzN2bVZDZzJkeUhlVm82MWlzOEpUZmQ5LXJyQVlCd0xEZTJmNmcwZlJiY3BJc18zb3dBVkZGMUNnR1BRUXd2ODRxZmN4SXZYNTBOOWh5OUFMNmtmSENnVl92OHVEOHpB?oc=5",
-      "source": "MMORPG.com",
-      "published": "2026-11-21T20:00:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fe589a0bc46f4b87fc5af7",
-      "title": "SpaceX posts $4.4 billion quarterly profit as Anthropic becomes its biggest customer",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42UlJDTnM2TEkzUEt1VWhFbmtybzdkaUtfTUEwSnpUc01oOEd4RGN1ZXR3NzdoSGNfd0VqR2JOQmpCR1ZSdkdaN1c3OHNwem5ENUxucUY1eXBlRmtBVXZrY0Q1bjJpa2ViQWd1UVpJZlJlOUl0QnhwTk5R?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-11-21T19:19:56Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eefa24b34e240ee4b68228",
-      "title": "The World: End of Unipolarity or Dawn of a More Turbulent Global Order?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYl9mU1dhTmlxLTZzZld6SWhNX1A5TWRfV2tNOGNqR2prdEhxLXpOc1FUS2czUXNzWTNlQUtZT3Vwa0NaU1RWaDFGMzBnT0FwMWEwcmxCbE84VndDa3RKRVNLY3lUbzNITElZVmNWdFIwUUY1YUhGbDFXMHlaWnZrdWJIUWVJRHI2VThmS091VmdlMEFPZXV5MDFTRUJNYTA?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published": "2026-11-21T18:48:28Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e41fc8a711e07250969b08",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T18:44:53Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800"
-    },
-    {
-      "id": "3680983db63771bfa98ff6",
-      "title": "New to The Street Show #781 Premieres Tonight on Bloomberg Television with Roadzen, Robo.ai, PureCipher and American Fusion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMlpBMUdsclJFXzZWWFJzbFp5OS1wSnp5aUVTWXpUZ2JwZE51bjVLN21BbE9tUWo4Y3dJbUlDdjNaZHl2b3hvWXFFUUJIOHB0ZVlQOVNaWGJOYl9zSmxSQXhENjgxaGVuR0JVQVhDQkNCd2pLNzg2WlMwY1hXZ1JRYndUOGI3OVJuSVpxMnNqUDIxOWl0OGpzX2xPVFc3c2VMSWR1TEd1XzVCdkN5bl80X2FuMjJncTVmWnZtWW9OS2dBX250U21CSG91WnpBZlZGSS11S19mNEZrU1c4ekluMUhsTnhaM3h4VUlDYW85STY5dDhhc2ZPOEY0b0RYWUw1dEE?oc=5",
-      "source": "USA Today",
-      "published": "2026-11-21T18:19:05Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "85b1624124f059664171fe",
-      "title": "World Governments Summit Dialogue for Latin America and the Caribbean explores stronger cooperation in shaping the future",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQnBsb2NoaDBUNjIwaHV6OUsyYnNXM3g1Y1k2QXBrdy1iSDdIa2FFY1l3SDIweXprNjU3LVFKaTNpYVdjbWwwak5FQUdXbnVOMUFjQ2J5OXgwNzExODR6WVBHdW9kQnNjdlBuTjZUQ3V6c3c0QU4xZGxzY1h6N0ZQdVNsV1ladGhHR0NoeWgydEFVVmI1aXBKV2sxWEtFVG1hU0xudHcwaVROa0hObnd1OVZlV1ROT1l4Z2V5akgtNXpjbXRXWlZ3T1ZkaUYxOXJfalBBTlhXelNvTzBxcE1GUHFTNGQybUgwbmlWajUtSmZjTl9KY3Rnb1VsbUx0UWg0NTZvVl9fMEdyWDRVRkZyaHJwRWxMZw?oc=5",
-      "source": "Zawya",
-      "published": "2026-11-21T18:16:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5b76dfe3de30c0fc5f0467",
-      "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-      "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-      "source": "NPR",
-      "published": "2026-11-21T18:08:55Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg"
     }
   ],
   "countries": [
