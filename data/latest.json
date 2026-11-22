@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-22T01:03:43.918701Z",
+  "last_updated": "2026-11-22T02:11:07.668751Z",
   "articles": [
+    {
+      "id": "a98444614dc04c05e75c7e",
+      "title": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHVGT2ZBUzhXT3BJMkJzY1BfWHF4XzJac1daQXo5SlA0SFpPNm16WDJmYlN2bGM3SlNxT3JDcTlJNlNoZG5pM2lfUHJXbEk1VDJaaTZaeEI3RTBxZ1dVR2pHOEJoTzFQV204dnhaLWMwSTVYQm9jejFjeHpKY0h0T193SkowSXJHLXBNcHFoQm9KR0hJaUJ2ZUo3MV80RE9GSjJhdW0taHk4cURiU1p6M0VrZlI5VDI0VGdr?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-22T01:46:22Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d53e011b61eef9a5dd0ffd",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-22T01:25:03Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
     {
       "id": "1c64d44e2f0cbfcc233579",
       "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -24,18 +48,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "d53e011b61eef9a5dd0ffd",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-21T23:31:17Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "6f0fe4ab3b1982b82f1ec6",
@@ -70,18 +82,6 @@
       "published": "2026-11-21T23:03:48Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a98444614dc04c05e75c7e",
-      "title": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHVGT2ZBUzhXT3BJMkJzY1BfWHF4XzJac1daQXo5SlA0SFpPNm16WDJmYlN2bGM3SlNxT3JDcTlJNlNoZG5pM2lfUHJXbEk1VDJaaTZaeEI3RTBxZ1dVR2pHOEJoTzFQV204dnhaLWMwSTVYQm9jejFjeHpKY0h0T193SkowSXJHLXBNcHFoQm9KR0hJaUJ2ZUo3MV80RE9GSjJhdW0taHk4cURiU1p6M0VrZlI5VDI0VGdr?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-21T22:50:59Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -242,6 +242,18 @@
       "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a"
     },
     {
+      "id": "afd1a1c6a39ec6190cdf9a",
+      "title": "UAE’s AIREV secures Singapore investment to scale agentic AI in finance and healthcare",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnZNaGdYQy1CZEtwR3djdFlCVGRxY1ZBTU82VkZBd0pZa3Nod19LRnhJbzZHTmJaeG9PUFAxbm5mNTlWY2Y4cENzRHRmNjFQa2tiNlpucDdVdmQyU3lQcktmOFBJNzhPb0J3QTZBbFZudGZkc2JnV1Vnd2NhN01QZVJkUGFhVU0xWUo4SUo5bW9ULUgyU1RDMV8zRGlSMUtKNFBXcTJ0eVpkVl9lUDVfWXhBd2pRamhV?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-21T20:06:45Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ec8e761e0eb8542f51eeee",
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
       "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway",
@@ -303,7 +315,7 @@
     },
     {
       "id": "5b76dfe3de30c0fc5f0467",
-      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+      "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
       "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
       "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
       "source": "NPR",
@@ -554,6 +566,18 @@
       "image": ""
     },
     {
+      "id": "0592637fbbd881edbd481f",
+      "title": "Why Do You Drive Investment to the Dead End? | by Shi Young Suh | Market Strategist | Nov, 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHI4akJaSjVuaW9WeFc1V3RIVmU3MXRCRGdoUkhNY1hwSHZvcHdlMHRETlJ2MUtvMHRMVEh0MFFYLU5iWVpFaGZPUzY1NVVjSG51anBTekdNeVF1SThwbzQ1bkhCUjNkdXk1akVGMXZ5RE9JdzhpbDBpMXN4VHhmd0tsR2ZDbEN0cFpraXZSam4xS19sdHExYWlB?oc=5",
+      "source": "DataDrivenInvestor",
+      "published": "2026-11-21T14:42:39Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f12e17e5c0d00f1e7ef09a",
       "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
       "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
@@ -734,18 +758,6 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8565x5710+0+0/resize/8565x5710!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F26%2F578525af4450b59d88792c06e0da%2Fap26323821321779.jpg"
     },
     {
-      "id": "43a4486038a97226354e0d",
-      "title": "EU deal will bring £17bn economic boost a year, says Burnham",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pnbVM1VEZpM2NWZk5ZNUFsdm1KM1NSME1mLWRVbGtaY1VkMnZ3bE55c0pWLWtRWEZDSVlrQkR0cjNrOGRtbGlBcHVkNkVNSXVLV0FWdkFDZ2t0SGxXM2k5a3E1d1NHelNxLWFYZmkwRXVBM184aEM1OFRpUVZiTnh0bVR0WGtEbVdoRk1xRnMzRTJnXzNRWHJKRzN4dDZTZnRGOVZEajhNUEpyc3RRM1NkRWZ4WTdxbjNUVF9iazRKeVJ5Y0gwMGJmV3NCVW8?oc=5",
-      "source": "London Evening Standard",
-      "published": "2026-11-21T12:18:31Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "8e59042706a73eeaf82bf8",
       "title": "Harbinger is building the unsexy EVs that keep the economy moving",
       "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
@@ -810,6 +822,18 @@
       "title": "EU targets Big Tech with new tax to fund budget",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0pLalplTDdQbVlDSDZjczBSNkFOTHpiT2JmUXRhX3l2enFPd0UyY0F0QWdLX01ncGd2b2l5LUhXaWRaUFlzWk1jcVlKdUNjNlZnd2I5aUZ4RkZiVk0wX1dXX056MHJGcFllR24ycE1pZGFsbFRLaE9wb2V1YzZVam1vbjVDWThKcVFPNG1acWo3MU5nWGExS3luVVNFZHR3djF0TjFKVF9odDBTUjZpRdIBsAFBVV95cUxOX0pLalplTDdQbVlDSDZjczBSNkFOTHpiT2JmUXRhX3l2enFPd0UyY0F0QWdLX01ncGd2b2l5LUhXaWRaUFlzWk1jcVlKdUNjNlZnd2I5aUZ4RkZiVk0wX1dXX056MHJGcFllR24ycE1pZGFsbFRLaE9wb2V1YzZVam1vbjVDWThKcVFPNG1acWo3MU5nWGExS3luVVNFZHR3djF0TjFKVF9odDBTUjZpRQ?oc=5",
+      "source": "Gulf News",
+      "published": "2026-11-21T11:13:40Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4bccf03e6c2386b07b85a5",
+      "title": "EU targets Big Tech with new tax to fund budget",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnRQUDZvRGNfdGtsYV95OFZHV0QwOEsza05GY2ZnRHdIWlFsbFdHb2Q1LXpKemFJVVUzc2tLcVY1Y05iY01BVHA0MEx4VFJFa0RQWXJBZHFTSEFLSlNvaGRKTmVLTnY4UmpoblNFNUZ1SlNpSF9lZnVQcm1hZGRkejh3WnNYX3VyNEdRZ0hUWkdxQ2I3a0lIeWFITEt5d9IBsAFBVV95cUxOX0pLalplTDdQbVlDSDZjczBSNkFOTHpiT2JmUXRhX3l2enFPd0UyY0F0QWdLX01ncGd2b2l5LUhXaWRaUFlzWk1jcVlKdUNjNlZnd2I5aUZ4RkZiVk0wX1dXX056MHJGcFllR24ycE1pZGFsbFRLaE9wb2V1YzZVam1vbjVDWThKcVFPNG1acWo3MU5nWGExS3luVVNFZHR3djF0TjFKVF9odDBTUjZpRQ?oc=5",
       "source": "Gulf News",
       "published": "2026-11-21T11:13:40Z",
       "category": "World",
@@ -1412,30 +1436,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW91bDlWeXB6eW1vVC1rVWQzZlFvNmtrSHMxN1Y2THgzTDNDc3VDZGk0d2R3Y0pUOW1pVDdrTXVwcU5lck4tSGNrX1dTZ0pSQVEyc21wSUdFdFJVUldET2sxcEFzS2gxWGNHRFJvMVIzSC16UUpGOGV1bnNoMmJ2NmxWOUlWaUdZSW8xVGpia3NMVHYt0gGUAUFVX3lxTE43MzBKUVFtU0t4ZEM1cmV4b2J3Wk8wYUtRVkwydXlDS0MwcFpjLVBNVnFTVDQxUFpEZ1hkXzN6aGNEc1hwcE1LR09CektONnJscjRXZGNhRFpZeUNnUXhNaG50VF9CQ0ZabFExMzFNYUtpd3RLLUxSRmNldU80OE5WLTZ4a2dBXzF0ejQzNThoZTVCbHg?oc=5",
       "source": "DW.com",
       "published": "2026-11-21T00:01:24Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d597fbdadcb51f1c1e496",
-      "title": "European shares post worst week in over a year as AI trade unravels",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmY0YVFMZGlwQ3FOSjBXTHRnNUgyenZNaFp6eVJvT3g5R2wwRjFxWjRqeHA5a1pkZzVnODZoeEJnMEV4Sy16RUFjdEp0VkotY0F5ZzByYlJKSzRic1daa1ZHdjFTUXppZGtiN1FKSl9mY0hKWURkRjUwSktycnFGVWpDdlI5RGZGZUNrcE9pb1pVZ1pTdWVlUU1tMEJNb2N0OFBuME9LQkl3MFZSazR6X0ZXS19VcXdGTTZTVEhxeHdJc1NLUmU4N1lkNVFsRVlUdC04?oc=5",
-      "source": "The Business Times",
-      "published": "2026-11-20T23:55:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0d787e8c6f61a01f78819c",
-      "title": "Costa Rica strengthens its position as a meetings and events destination",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnlMWHE1c21xVmJVX3pWU1BaUHFmU0lQcWdiZFktcVdyZmNNNnFIcWxpMWdrLTJMUlpRdWFYeWdTTE5jU1h4TFdpbjUybUpueVp6aGpOVGQ5ZE15SHdxZ1g0VHg2UGhsM1lxODczQ2kyRHpoNjZCc0JWMjMtMUp2ZkJJU29HY0h4cWI5ZFloaGlvbng4WWVTYmp0dlVaYWJWeEhDelhaXzBjbGJnYmpkWk1jZWktUXI0?oc=5",
-      "source": "Travel2Latam",
-      "published": "2026-11-20T23:54:59Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
