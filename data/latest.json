@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-23T15:49:03.593552Z",
+  "last_updated": "2026-11-23T16:42:52.639974Z",
   "articles": [
+    {
+      "id": "79c3fac607e157536f7c63",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T16:39:10Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024"
+    },
+    {
+      "id": "1100af5b02a1190fac5471",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T16:20:11Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/crowdstrike-2162041873.jpg?resize=1200,800"
+    },
+    {
+      "id": "54b870a4c86e13f83ce329",
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken [&#8230;]",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "source": "The Verge",
+      "published": "2026-11-23T16:14:04Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3b5fce3baff0040faec167",
+      "title": "Nvidia shares surge 33% on Jensen Huang‘s return, adding $1tn to company’s value – business live",
+      "summary": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidia’s CEO US Politics Live: Trump says he spoke to Nvidia board directly about Jensen Huang Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits wa",
+      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-23T16:13:25Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/170c53dae32ff033a36f686b5d20fe6b904fdae5/297_0_5407_4326/master/5407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e15b40afec8caa81c0f43a46863968e"
+    },
+    {
+      "id": "9194ddb079718aecbab352",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-23T16:12:35Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
+    },
+    {
+      "id": "817b9255ada53982705f04",
+      "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
+      "summary": "Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did. I’m a little jealous that you have the opportunity to save $70 on the monitor I’ve been using [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-23T16:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "00916c7a76a8c68ab29af4",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-23T15:49:52Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg"
+    },
     {
       "id": "cb29a20e38ef835b166a4d",
       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
@@ -38,21 +122,9 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799"
     },
     {
-      "id": "3b5fce3baff0040faec167",
-      "title": "Nvidia shares surge 33% on Jensen Huang‘s return, adding $1tn to company’s value – business live",
-      "summary": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidia’s CEO Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits warning this morning. Full year completions were 1,353, at the bottom end of the Gro",
-      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-23T15:25:27Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1292861c990b05812c2703f3392a56ce"
-    },
-    {
       "id": "833a072f63c18c6f1a0c8f",
       "title": "Jensen Huang reinstated as Nvidia CEO",
-      "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal after his dramatic resignation after reports of extramarital affairs including with an alleged Chinese spy. Nvidia shares surged o",
+      "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates US politics – live updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal after his dramatic resignation after reports of extramarital affairs including with an alleged Chinese ",
       "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
       "source": "The Guardian",
       "published": "2026-11-23T15:23:21Z",
@@ -60,18 +132,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ac8b45c5da69dd6156f105b4d58e460"
-    },
-    {
-      "id": "9194ddb079718aecbab352",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-23T15:15:48Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
     },
     {
       "id": "1a8285a3e8013227a08c8d",
@@ -88,7 +148,7 @@
     {
       "id": "5876b76a766d77a51f482e",
       "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
       "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
       "source": "TechCrunch",
       "published": "2026-11-23T15:04:01Z",
@@ -327,7 +387,7 @@
     },
     {
       "id": "1a67c979a6d70941b80bd7",
-      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
       "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
       "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -495,7 +555,7 @@
     },
     {
       "id": "c3f0c850050ebaf6cc0d88",
-      "title": "Flights and train services cancelled in Belgium due to strike",
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
       "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
       "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-23T09:32:42Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7e83a8dbcbe91017c76e6a",
-      "title": "Global Air Cargo Rates Rise for Seventh Straight Week to $3.49",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmgwTzQxT0g0UERKM2dpLVpxNTJNZW1lX2lmWTlVRjBDczQ1Q2RySGNUWDlxUW5IaDBzM084QkdBNzJ6WVFxZlVrX3pBZDl1cU5Yd1YyOEVGN3RnUExPSHgzRkVUaHZyQ1JlMWRFdEV2OGJPOWJjMGVRNnVpQTlYLUx1M1lEWmh6UjFicm9pSVpnaFZtajY1NQ?oc=5",
-      "source": "Global Trade Magazine",
-      "published": "2026-11-23T09:23:11Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5dd22fbd175eda6ccaf9e8",
-      "title": "Asian stock markets tumble as AI bubble fears mount",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T09:21:03Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5245ca8db0923a7b1c9dd5",
-      "title": "India, Vietnam to lead Asia-Pacific growth in 2027 as China slows: S&P",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWFNZejhYN3VocjBSbi1SM1NNdDNPN3NUMl8zZFFGLXNxQjlsVDY1NTgwUUZQMTV5UHRqVUFzdmZYZmU2NnNFcTRnYkJzMnJEUzBSVlhrT1pwODQ4aEhFdWRSNDgzZjI2eVR3SmwwSF9FMV9XejIyeFJXZENCbWJ1QzVZUWhuQlc4YUJ3dnhlNlJOdWtVTVprTUpLdWZvcW5uU1JjYngydVNmMzFEWE5WYXhNb3VxZ0FnTi1PSTRReWxiTWlndWtodjNwLUN4SjcxUTNVRk1jTEFkam5oSDIwNkxMaGRSUzkzMUtHNVBPaGZhTkprOHBuNEZQZm5iOGdSOHFPalNHX1FCVHdUQjBIb09OSjlUV0VsYjJjRWR5bk42UldpUHBaNlY1aFh0SmhpRmdaeDNySmTSAe4BQVVfeXFMT0NIb1hlcDBKMk5VZzR3TXBaVFRTWFJ3RFlzZHVHd1pHU1RDMURmSEZWQnN1Q0RYVzVWMTBTWXp2VlpNeDhmNmI5VnV0dHdraVpkREd1dnVtTDVaRXV2WE40bkJOUlRYRjduUUNSdWxvTU90Nk1ycWsyUmVnVm5weUFyNDNTcGc2aTRVbzljSTR2WGVnel9wR1RhaDI2a2hQYmxaMEUySEdOaHR0RFlzNkZJNEN6aDdOejZlV1BfSm80MGNCVnRLR0JUT3Z5YjUwYkJjQXdnVGNsT1lTWmkyQ1ZoaDVMeHNUVEVJNUMyQQ?oc=5",
-      "source": "The Times of India",
-      "published": "2026-11-23T09:15:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4df7d2d125311f09d108ff",
-      "title": "India, Vietnam to lead Asia-Pacific growth in 2027 as China slows: S&P",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS3NuM0RCajFkdFNUWVYzS1BoVnNhbWRJaHRmSENPSXRuTjhIdm1CMldYcmFaeGpvX0E0ZHpmTURCWFo5SkR5dk9LRFM4Tk5CUjhScUE2ZHBPbkdBQUpWdEtLRnAwWFlSZF9IUWlubEJJS0JuYUhNUGhiVk9wVXdWS01ZNk9nV1lUb2hwQldYV0NGN01EZ184VWVoVnhfZHllek5BOGVjMHdBdUZkNlRQWmtYQ1Y4d3BLMFIyMDNMVXpLYXZPVzRmSktwZDhiWG0zZjVLajhtUXBiRmFrWDhrNmZUUXZKdlNS0gHuAUFVX3lxTE9DSG9YZXAwSjJOVWc0d01wWlRUU1hSd0RZc2R1R3daR1NUQzFEZkhGVkJzdUNEWFc1VjEwU1l6dlZaTXg4ZjZiOVZ1dHR3a2laZERHdXZ1bUw1WkV1dlhONG5CTlJUWEY3blFDUnVsb01PdDZNcnFrMlJlZ1ZucHlBcjQzU3BnNmk0VW85Y0k0dlhlZ3pfcEdUYWgyNmtoUGJsWjBFMkhHTmh0dERZczZGSTRDemg3Tno2ZVdQX0pvNDBjQlZ0S0dCVE92eWI1MGJCY0F3Z1RjbE9ZU1ppMkNWaGg1THhzVFRFSTVDMkE?oc=5",
-      "source": "The Times of India",
-      "published": "2026-11-23T09:15:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8b977969e4bb2e6098eb77",
-      "title": "Week Ahead: Markets look to inflation data and Fed expectations for direction amid AI sell-off",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2NpQzhaZm01NjNvZE03WkVoS2Z0WFQxX2EtMFJmRUUxVUJHX3VVcmVYX3Y5d1JlYzkzUXJwbmhEUVhTOGRadlR6U2w4WVpQV2dkQm1QTHFVYzNvc1k2NXZTUVF3dmFGQjBhcmFqR3VWbnU4Zm9Ua3YzaE5paUR2SWl0OTIzRkdfR2w3SXNVMmJndVJVVWpQR08yWWttbnlzNXhjREZmc3RzMnhRb0hMM0tGZGhKRWo2cmlBaXFLVUVmYk1WNVFycXNR?oc=5",
-      "source": "www.tmgm.com",
-      "published": "2026-11-23T09:08:33Z",
-      "category": "Economy",
-      "topic": "Global economy",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
