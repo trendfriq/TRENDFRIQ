@@ -1,17 +1,173 @@
 {
-  "last_updated": "2026-11-23T20:36:21.417625Z",
+  "last_updated": "2026-11-23T21:29:08.437121Z",
   "articles": [
     {
+      "id": "bcef4e5640ff9cf531aff0",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T21:25:42Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800"
+    },
+    {
+      "id": "9922b80c8a024b75648501",
+      "title": "Anthropic Launches Claude Ship to Review, Fix and Approve PRs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTndkM2tKUkNuci1IeVhFNUNoQnprcW4tUUIwRnZFSGJZOEEwcXVURmswZHpTV2xhYlkteHdaVTg3alRvQnA2U3dlMy0zX0NQU0VSa2VyTEo3Rm53cngybzMwUWVnN20zbXN1cXVkVjR3c0tiQWlXbUpiejZBb1FYbTlKUDZNZUJhYmc?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-23T21:25:02Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "90dea8d2d19230c9eba11b",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-23T21:23:42Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
+    },
+    {
+      "id": "b00512207c45fb77d893d3",
+      "title": "Results on two sewage-treatment bids are expected in Q4 for CDT Environmental.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHhKSm9zd1Q5cXJsemthdE1ZT2V4MEdwMUVBQlBmNGxtLUkwemZsRTZYQklNTEN3bGJoOEVEOEpaRnVNS29PMGxjYnNXTXJBVlVsMnc0Y3hVTG44UWZKQTVEYzVVMDlCRnBBZzI2elNPemR5UFhrc2hzLS1nY25MVmNERlBuRzVNUk4wcjBHcEdNaERfb2R5WmpvbVBySmkzVTlGNHdRVUgxVnJTcTV5SXJXeGw3S3NDaFhz?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-23T21:15:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "3b5fce3baff0040faec167",
-      "title": "Nvidia shares surge more than 30% on Jensen Huang‘s return, adding $1tn to company value – business live",
-      "summary": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidia’s CEO US reactions to Jensen Huang return – US politics live Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits warning this morning. Full ye",
+      "title": "Nvidia’s value jumped by $950bn as shares close at $165.05 after surprise return of CEO Jensen Huang – live",
+      "summary": "New value still half a trillion dollars lower than before affair was revealed; Trump hails Huang as a ‘great patriot and national treasure’ US reactions to Jensen Huang return – US politics live Jensen Huang reinstated as Nvidia CEO Timeline: fall and comeback of Jensen Huang Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record lo",
       "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-23T20:22:40Z",
+      "published": "2026-11-23T21:10:31Z",
       "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/170c53dae32ff033a36f686b5d20fe6b904fdae5/297_0_5407_4326/master/5407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e15b40afec8caa81c0f43a46863968e"
+    },
+    {
+      "id": "b6aa410db677fb56592177",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees [&#8230",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge",
+      "published": "2026-11-23T21:09:37Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7b98594188dc07d1fd81f8",
+      "title": "EIC: SEC Form 497AD filed by Eagle Point Income Company",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTlHQXdMdXcta2FBMHEtZUhVZ1M4SkZNTlQzSTBtcnJqY3dEWEl0OHEybVJ4VU5wVXdRZWMxWW4xTWtwQ21kaWRxY0gyZU9xRTRXdE5fWThLSW5VY0I3aFdXSk5DUVNScGpQTkdCRTAxRFprRTJqSlBHWXpKdEl6QzVxck5ua3FBU2xCbXRKRTJjaml4dTZEbg?oc=5",
+      "source": "Quantisnow",
+      "published": "2026-11-23T21:05:45Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "78ae7f74773282cf1208e4",
+      "title": "US set to add chip firm Megaspeed to trade blacklist amid ties to Nvidia espionage investigation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwb1pxRDlYekFUbVpRdnA0eHdjV3Zrd2JvdHZoSFNjeW9nLTdyRzF2cGExbEZ5bU53MVBOX1h2M2xzTGhkMG12aE1SY2JMSW9ybThwdW93NmdYSGx0eGhBTTZjQ1FfaS1BQVNDdw?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-11-23T20:58:04Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a5308ba62a5f2de2373c11",
+      "title": "Apple renews Ted Lasso for season 5",
+      "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut. [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "source": "The Verge",
+      "published": "2026-11-23T20:56:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7e72a0425cad032cf979e1",
+      "title": "Here are Cincinnati’s tech startups to watch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiLVlUZGF0UXB0alp6dlNqRjNIMjM1aE10bWF4dHk5ZkNsRW9xZTNwOGJWNFE2RndzSFI3dkVhNFZEOElVOVJLeXFIaTBxV2tqZUNuU0hFeTlpUEtRZXU2cDRLcDd0QQ?oc=5",
+      "source": "University of Cincinnati",
+      "published": "2026-11-23T20:53:20Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8b0993be5d17e9fa32a2f6",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-23T20:48:35Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "60172596ae0cf41d4f3350",
+      "title": "Big Tech's tax payments drop to 12.3% of profit, Fair Tax report finds",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZEanRZMUllM1c4d3BaUmVsNzNfUXQ0UDFKMjNzaFVDSldCdjgxSVBwaF9OUWh5R3A0cG9XMFFXaHIxVjdEQldQam5wWW5RT3BnZXN0bnZfSDkxbThzd3VjTHNjWnVPZ3dOTVRVTy01UVgwRzRXSzJHMW1fbE93QXA0eThUakZkam9FWlZn?oc=5",
+      "source": "PPC Land",
+      "published": "2026-11-23T20:45:44Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e0eefaba30315faeffdd63",
+      "title": "Nvidia CEO Jensen Huang's Return Sparks AI Market Rally",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXp1eFd0VlBnVnh0bUk4WjVyMEd6MlBqaHZzN1JRV29uQzhxclduTFpRUmFEbkZPVjdiT1ZsMDhLY3k3SXlOQ09FZzhfOTc1aXZqeDh2dTU4VW4yTk5vWnNBdHlzZGdlWmxMTWktOUJpNjJtMElWMWF2SU4tNmdLaGpNTWJoWGpVZGJPX0tLMHRxekZRdjhzNw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-23T20:40:19Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "19cceeec9c2ac703c1540c",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T20:38:53Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
     },
     {
       "id": "6545db87281ad58ecc44f7",
@@ -28,7 +184,7 @@
     {
       "id": "72c65d25e7ff950d52289f",
       "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
-      "summary": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the co-founder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as CEO [&#8230;]",
+      "summary": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as CEO [&#8230;]",
       "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
       "source": "The Verge",
       "published": "2026-11-23T19:58:27Z",
@@ -40,7 +196,7 @@
     {
       "id": "ba7fe03235f718d9453a98",
       "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife [&#8230;]",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife [&#8230;]",
       "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
       "source": "The Verge",
       "published": "2026-11-23T19:57:18Z",
@@ -146,6 +302,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-2.08.20-PM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "585dce8c12155d9fdb16e9",
+      "title": "Opinion | The streets of Europe lay bare the biggest economic risk",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd09GUTNnd0NGM2VsMEZQVnZ3bHowcGZsRFFSWHMtUzBHNmU4TEdHdXdMU2w0cEF5WUFDUENUa3RXWTRIU1Q0RmV4T3dyeGNyOHJpNXdxWVQ1NF8yOUF5Zm5RRGFtNVBaSFNGeGs2a0JZbE9nNW5kVFY2dEFXWm1XOVFBMDFFTGlQY1dtWV9qLXVVNDNNMURneQ?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-23T19:15:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "50419d3a895fb0e44a48b4",
       "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
       "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
@@ -218,6 +386,18 @@
       "image": ""
     },
     {
+      "id": "aeba0d0368b9ac78cff082",
+      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-23T19:06:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f878ab62338f7472bd88c6",
       "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
       "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new dev",
@@ -244,7 +424,7 @@
     {
       "id": "833a072f63c18c6f1a0c8f",
       "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-      "summary": "Chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates US politics – live updates Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of director",
+      "summary": "Chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s boar",
       "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
       "source": "The Guardian",
       "published": "2026-11-23T18:51:56Z",
@@ -314,6 +494,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "739c886035050f75c3f624",
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXRFOVpPQ1FxaTlVS0hfVGV5Tl91TzVUWldXTVgwVmI3eHRoYXhYbmllLUFobHhSWThOaXRTSVRDRkJ2ZTdsRDRHSElWRmU0SUFiQTU3VXk5V0pyREk0VFMwWUdFdTdUd2tCcEdNQmprZjFoM0VuUDNJNi1DYjdoc3FjV1RCZGxqRjdqX1MxQmtsZ9IBlwFBVV95cUxNdXhERGZiakd4c2ZlSnQ4UGZwNVVjUjNqTUhtNEozUXRUTVdkR09DeExjRllITG0tU0s3V05uYmwtQ1RPc2d4S2cxWTBjVW5rWk1RQVh3bEZLNms0NjFiZ2F2ZnBWYmJtTzFhYXhGVWVfcWFLN1liaEVfSEh2aGNvZGpyMzhEQ2VfT1Bzejl3TXpVdUNDSkU0?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T18:25:46Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c75e73b8830d72c3a19945",
       "title": "Digitec 2026 Closes in Yerevan, Bringing the Global AI Conversation to Armenia",
       "summary": "",
@@ -370,6 +562,18 @@
       "published": "2026-11-23T18:11:08Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b2bb3d9f80f2833188db94",
+      "title": "Brazil cuts 2027 GDP forecast, raises inflation outlook but remains more upbeat than market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NGSHRRdkdpQUdLUFBrcVo1cnVvblJveUwzNnJxSzhMaGJVQklVSS1kOGk0ZlAyQ2dONkNhNkJQMnBoX08wQ04zZkt1SVJmVllnLVgyQkFIRTh3LS1zUlRqdTVoQmczVkRMVGJYV3MxT0lEaDYtbVBNWUJzR2Z2bS1FSjFhNVJlTmFZZmlTT0FCT0E3YzU1MGJn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-23T18:07:21Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -432,18 +636,6 @@
       "topic": "Africa",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "90dea8d2d19230c9eba11b",
-      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-23T17:42:37Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
     },
     {
       "id": "0d191d4866f059ada05325",
@@ -626,6 +818,18 @@
       "image": ""
     },
     {
+      "id": "810bb5c290deb55a4de9f1",
+      "title": "From data centres to $20b Anthropic gain: Inside Abu Dhabi's AI investments",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOVM3T2FFMVNBRVF4eVFzdEFDRF9ZZFhRdndBM1FBMjgydW56R0N0TVQ1LXlWcWZ0QWlSOXFOb1V3eGFmSlJKSy1Xako3WmdPX09lbEZQRHQ1TkZ4dXc0bldfb1JaRjRwRnhPS1E4dGxYQnlfZmFzcjZ0d25DUlBkNGY1UjVnV1gxd09zY2hsQkpHMndoN1lqQXMyWVdJR0lhdXM4dV9JbnZEN2FHYkV30gG_AUFVX3lxTE1LUEI3S3NTbkNrNmhLalhfWjdwUVdWZTJNVzRoV25JY1U1cWt4cjNtSVFmTHBMbG40WFpkcE9NSDI0Y1NmYWxTRUNJNFBJR0NPWDA2MWw2d0tSVVd4QlhFT2ZjS2o5REQySm1pRENHUWN3a1NCclJ4VDhjTkE3QlZvUnpsUVN1SGhyeHpHMWhkWS16TmlTUnZnY2V3NHpqdzF1VzVHTlRDcW5uTDNmRTR6TFF4dkRhcktPRkNoQTJ3?oc=5",
+      "source": "Gulf News",
+      "published": "2026-11-23T17:08:22Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5721a4c40a70dd4079dbb5",
       "title": "Aviation Growth, Predictive Logistics, And SME Scaling Take Center Stage At Future Growth Nexus Summit",
       "summary": "",
@@ -764,8 +968,8 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
       "source": "BlackRock",
       "published": "2026-11-23T16:26:20Z",
-      "category": "World",
-      "topic": "Americas",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -795,7 +999,7 @@
     },
     {
       "id": "ce15e8e5d8164321a43e2f",
-      "title": "Nvidia Reinstates Jensen Huang as CEO After Trump, Investor Pressure",
+      "title": "Nvidia's Jensen Huang Reinstated as CEO After Trump Intervention",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTmxTZWd0TGdOZENBRnJJT2xXbFVpZWp3T05RQXlzYktKb2FKSExwZVo2aXBtODVIY2xVUS1qcnozSGw0OW9FS3J3WVp3a1lYeUdxZ05ySnNwTGRSOERMU0FrUnVneno4dVQyMFJuclp5dGdLS2ZKNEJIbGkyME1tdw?oc=5",
       "source": "Global Banking & Finance Review",
@@ -828,6 +1032,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
+    },
+    {
+      "id": "19416a09fbef0ba656e138",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Q0hCQWtPOXlJaUtKb3FiNG1MYjZLNUdkTjg3SDRzTnRyNzZNdGZmWXNHMEp3MlZmS2VVWWdDSnVHTGlpV1ZYYnhNTWN6V2tCYlRjZV9ydThjczA?oc=5",
+      "source": "BBC",
+      "published": "2026-11-23T16:12:35Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "9d65e06542d9b0e8ee250f",
@@ -910,6 +1126,18 @@
       "published": "2026-11-23T15:48:35Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "39fdfabadfe3561fc36351",
+      "title": "Coupang celebrates America’s Small Business Saturday with global reach",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeUVvLU11Qno3ajVMUm0xTVUxc0ZLdnQzdVN1blQ2MkM0My1WQjZoRWJUaEVGS0JpVHVqekdYOC0zZ1JNdkxSMFo4eXJSZmh5eE1XYkJMSWo3emFSSW5BaFVSclNqNlZDZUVIQWJzdG9heEtFUmFkZmJfQmFrZ0RKZXlFTDdydw?oc=5",
+      "source": "Coupang, Inc.",
+      "published": "2026-11-23T15:45:19Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1011,7 +1239,7 @@
     },
     {
       "id": "c8d2dbba3a2ed8ce3af5a3",
-      "title": "University Names Inaugural Chief Marketing and Communications Officer",
+      "title": "University Names Inaugural Chief Communications and Marketing Officer",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zanRXNDNBVjVHMndCUVFxMVlkRWZsQW8zRU9OcEtpR2kySEN1aFYyQW9UaHNXQlhucllnM09ma2xrMlRHRTljTGQzeHZZVDZHUWlXLXNFeEszUVlvckZaZktCSUtZUHpHeVJMTA?oc=5",
       "source": "North Carolina A&T University",
@@ -1154,18 +1382,6 @@
       "image": ""
     },
     {
-      "id": "d02b4590b4aad10276ddc2",
-      "title": "A Front Seat to Innovation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tUndXZ090UHd6Rzh3NXk3N1pnR3ZZOGIwS3RTb2lrSjVWb1hnTkdQSC1halBkd2ZGRjktWXdOcVhFckpJU1dkbUhQUVZ5TGxpX3FOdDdyQU1ueFdOWGlESjNWU1FxR2M?oc=5",
-      "source": "Colby News",
-      "published": "2026-11-23T14:43:18Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "10ed8c9647ecbbfb2cb00d",
       "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
       "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
@@ -1176,6 +1392,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200"
+    },
+    {
+      "id": "d02b4590b4aad10276ddc2",
+      "title": "A Front Seat to Innovation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tUndXZ090UHd6Rzh3NXk3N1pnR3ZZOGIwS3RTb2lrSjVWb1hnTkdQSC1halBkd2ZGRjktWXdOcVhFckpJU1dkbUhQUVZ5TGxpX3FOdDdyQU1ueFdOWGlESjNWU1FxR2M?oc=5",
+      "source": "Colby News",
+      "published": "2026-11-23T14:43:00Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ffc915da73e01ee8213073",
@@ -1212,234 +1440,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "e88ffbf1713c8ea596b871",
-      "title": "Openness, dialogue key to economic stability, China and EU agree",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzI4VGg0dVlsN2tkbElqTmsyMzg5YVN0S0xkYkpVVHJPYXdzdFFwYnl2dG5nRUhCQjRUWTF1cFlDTE1nN0RFWUNJRDgtMmxBTGN3bnY5bG1LVnJEZ2tQUk1pR0NidlJhVkF2VUVDVlRBRUF5OTQ5S2hUZGlBeGhudVFB?oc=5",
-      "source": "China Daily Global Edition",
-      "published": "2026-11-23T14:35:28Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e32a50f7f65d26b122eb9d",
-      "title": "Openness, dialogue key to economic stability, China and EU agree",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBidFc0YUVBUHBUS0l6aUdUTU5vajItdGtnVXh3ZU1MQ3hBRVF0TUhfMGlpSnR2TUNYUUoxVzJBVG5kT195NERtU21fUUZndE5NYm5XbnlYUzZ5ZjBjNjNqcVZvVUltRlRYczZPc3MwNm1EZmRQOXI2ZC1WQkl1Zw?oc=5",
-      "source": "China Daily",
-      "published": "2026-11-23T14:35:28Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "434b206c0b71b139c1bfb1",
-      "title": "Latin America Could Hold Some of the Best Investments, According to Maurice Obstfeld",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ25Xd3FTSnFQN3JSQW5QVDNhelF0ZDhWRFZWT3NxUVh1eWw1U19mb2ttUThhWU1zVFRQWVpIU3c3NUt5Z3JoQng5V1VxTFVXS2J1XzRPQ0dWSE1tOU5RMWpNOXBOVlp1NmJaYkRkMmNzMjRnMHN2aGhuLUJvNEJzME02aURxNFFmUG5wMDNpaG9ZN0JMbFR0anljUjhEdEUxa2ZTLTBXZnlIUHhFWjZxQ3pITVFaTDNZWml3aUZiYzQ3UFQxaTlfTA?oc=5",
-      "source": "Funds Society",
-      "published": "2026-11-23T14:31:36Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fc825cf2d04d72b0721cd1",
-      "title": "Badenoch: Rejoining EU won’t fix Britain’s economic woes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWjdoMmRMdWJxZ09rV0Jyc3YwMVpta3BVTXlWTlJWeGo0NFhad092blZLaC1mZksxTnNIRnp4dVozTmdWdlVlb0Vha0JFMHFnZUpjWGZxMU1jTFQyMXZwTmM3dWNZbTB4YUVPUl8yRVpacDF5R0hBRnN5LWozZE1pZUxNbDQ5SFhObGF6TjRick5lYTdkRXc?oc=5",
-      "source": "POLITICO.eu",
-      "published": "2026-11-23T14:31:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "282d32a2619eb97fcbcb90",
-      "title": "Texas Instruments vs. Lam Research: Which Chip Stock Is a Better Buy?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPODRHbWdaMjdVaUl4QlhFNk1BZk9LUk1sd0c0TTdIVTZsaUNiVFZ2TGNTZExHTFl0bWlkWE1pUHZvQTRkbl8zZTNGM1dfSEtvWHhHSW8wNFF5SUJBVV9vMlBLbFdNa214T1p3REJUS1cxUWNqUnZEZnBqR0l6Z1ZzaWgyWWZ6UXpHMndrc0prLVE3NE1rZ3dZUTBPeENhMHdRVXlNdmZwc1VZZDBTbWxlV2JPTzd1VjJ2TURNYzZ3cDhUemg3dU1qeVB0TUoyUlZHYTRkNVFhV3FHbUFJU29fVkN4clE?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-11-23T14:30:12Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1a67c979a6d70941b80bd7",
-      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
-      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T14:26:33Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
-    },
-    {
-      "id": "0affd11db18d863015bf6b",
-      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T14:21:59Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
-    },
-    {
-      "id": "f45bef56dee2678acfd858",
-      "title": "Havas Miami and Republica Havas Launch Cultural Intelligence Model to Turn Audience Data into Human Understanding",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTG1ja0Vxa2NSbDEzbTh4V1pPRnFqX21WS3lScElUYWVRZHNrVEdYZHpjbTVVc19EcWVyTktvZy1vS1Z3Rno5VW1DZVZYRWtjV1JQUHNTV19JZm5UQ1Rvem9vYnU1OEppSDBDeVhYSzJOcUtqaEZJOFpkV0VfQWkzdXl5YXAzVVQwOWN4cERJS0dHZnY2eUFNYTk4X3B4TF9YRWFnSFNCX1ZRMTk4M3JyM0lLVnc0ZXY0S3d4Z0VzMzlFNjdER1ozdFZQblJjZ1dMMkhBMXpRQlk0VzJxcjY0Ml9UYS1na2o4eVdkVjU3R05RdlBlSFAwSktQR2s4dzA?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-23T14:15:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "358fa63863f86bd6bbe4e0",
-      "title": "INL Computing Facility becomes DOE-NE user facility, launches Arco",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXpGYWZGQ3pSbVhOLTVzTGt1b0Q0TjVodnI3amRSdGtQbHlTSEtZbjk0NzNUeEtlVjBWLTlRNkdTcFAwR3FDb1hyS3k1bjY1Nl9KaE55NlptcGJGbzhQOVVYZjVjdlkxY2dqOUoxbUxqOTcxTldNZFYxckx3UURBNHQ2MXJBWlJ5ekpla2R5VGtqeno5REcwNUdzQWJ5Ym9iRmxjcXFn?oc=5",
-      "source": "American Nuclear Society",
-      "published": "2026-11-23T14:14:34Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c328ea74568362345b3f42",
-      "title": "Stock markets suffered their biggest drop since 2020: how much did companies lose?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTEtnaHJsNmJsXzVqQi02b3RhWktXX0NhTmVZOVA0LWZnTnNOVFBFSWtWY0Nqa0FNanhuWXAza2RDLTdJdWg3Z3B3MGlRWUR3dUdGbncyUmJBdW5vRF9SN3oza0ZFalZ6VU5hTjVucENhZUl2LVZKNk1saWlubm54ZGE2NTFBR1hhdGFjSEVRalNkT1dWN2JzS1RFR2VudzdIVEY2VTJKS0pzYUh6Z1J1eXBEblg1dE01YU5qd0JZOWF4b09SSHQ3QV91M1JQVDZSTVk5QlNCVzVxYTFxWElXWGRXaXQxTkQxT3dBYnlaWQ?oc=5",
-      "source": "UA.NEWS",
-      "published": "2026-11-23T14:14:12Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d98f7951be9034dbf773c5",
-      "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
-      "summary": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old wireframe graphics for a live, overhead camera angle that lets drivers see and tap to influence what the car plans to do [&#8230;]",
-      "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
-      "source": "The Verge",
-      "published": "2026-11-23T14:12:28Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c2c96bd84b3ba5dfacc313",
-      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-23T14:08:50Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "id": "c7f77d61bc293b723ebe9d",
-      "title": "Kalshi hires GTA VI streamer after more than 33,000 apply for job",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkozZVZ6SDRfbldIZUNWM0pidk5HeUl5S0xSRHp2bS0tVVozSjMzb2tqSzhYdGJJVHpyWDBoQ0tFRnRQYy1kbXpLeUZjZW1Ddml1dFZBTFM2NkFkRzVMRW1aOVg3amFSTXlhRHhXbWI3UWNIRFlRcW8tcm1xOEdWY0RqNVpDQQ?oc=5",
-      "source": "PRESS Insider",
-      "published": "2026-11-23T14:05:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b402ef5d9c827e24554f7b",
-      "title": "Amazon Acquires Decart's AI Optimization Tech for Chip Push",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGpCWVZWdnlsczJaOHFhWXlFeUFoanFISzRRekM5WFYtaTVra01DRk9aQlNJN0NVd3NBN1JnYnpsejdORi1sOVNyV2VBbkZYZEZiRzhudkhNZ2Q4WUdvdmoxSnczVkdrRXctMVRmNmhsZFNTbEQ4VFBPZGNnSVZ6X25HdkVmM1dNX3ZSLVYtSERZdVVHeEZF?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-11-23T14:04:56Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "be62e5d01d737fee053453",
-      "title": "US Arrears Cause Budget Crisis for Chemical Weapons Watchdog OPCW",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb3R5STN0cHRxdnlSWWFfQmtJWmlua0toSkhDZDZVVzk4dG5nbFNDcWNiWnhxOGY1UUVDRFV1UEZlZ0x2SklwVUJRNktYSUF0RUFQSG5SbzhhbFZJZWZXOU4xdnVTNXBxOFNJQWxyM3NVaThkaVVQaHUtbXU3Y08tdmgxaUJpc1JnMElrc3FGY2tQQkFZaTJ0Tkd6SWdSUQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-23T14:04:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1edc217fe1ccf60b8a3341",
-      "title": "Jensen Huang is back as Nvidia’s CEO",
-      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor and ability to lead NVIDIA.\" In its statement, the board [&#8230;]",
-      "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-      "source": "The Verge",
-      "published": "2026-11-23T14:04:24Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_05.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a116f33653670b075bc183",
-      "title": "Lumivero Launches POLI To Model Portfolio Decisions Before Organizations Commit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSWM5ZUNrMFVaUkoyMk9hNFp5Wm5hQlBXZ0wxMDNPT3BlQkJ6ZnhNT0lGRjd0SlJZQ2k5LVhvWndlVms2b2tQcXBiemxmQkMtaHhJanprRkVPeGpxRXJsY0hDVjRzUmJfR3F6RUNZY1FWdGJ1d3NySjhhcFFSbXRsVmdKc2Y3cmR5bHdCNkktRWRWblNYeTFTVnlTTENOQXBY?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-11-23T14:02:14Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "31053907af7022862ab647",
-      "title": "Uber now lets you book rides that record the drive by default",
-      "summary": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
-      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T14:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
-    },
-    {
-      "id": "cf251ecd1376210049c271",
-      "title": "Blade Runner 2099 is an inventive twist on a cyberpunk classic",
-      "summary": "In an age of streaming shows designed to appeal to distracted viewers, Blade Runner 2099 can feel like a welcome anachronism. The Amazon series is slow and methodical, just like the movies it follows, as it delves deep into moral ambiguity. It is very Blade Runner, in that it both feels true to the films [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1039095/blade-runner-2099-review",
-      "source": "The Verge",
-      "published": "2026-11-23T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
   "countries": [
