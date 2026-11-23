@@ -1,6 +1,210 @@
 {
-  "last_updated": "2026-11-23T14:48:13.642861Z",
+  "last_updated": "2026-11-23T15:49:03.593552Z",
   "articles": [
+    {
+      "id": "cb29a20e38ef835b166a4d",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-23T15:41:23Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "90dea8d2d19230c9eba11b",
+      "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-23T15:39:41Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "51e551e855adcaf8d8e8f1",
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T15:29:49Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799"
+    },
+    {
+      "id": "3b5fce3baff0040faec167",
+      "title": "Nvidia shares surge 33% on Jensen Huang‘s return, adding $1tn to company’s value – business live",
+      "summary": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidia’s CEO Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits warning this morning. Full year completions were 1,353, at the bottom end of the Gro",
+      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-23T15:25:27Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1292861c990b05812c2703f3392a56ce"
+    },
+    {
+      "id": "833a072f63c18c6f1a0c8f",
+      "title": "Jensen Huang reinstated as Nvidia CEO",
+      "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal after his dramatic resignation after reports of extramarital affairs including with an alleged Chinese spy. Nvidia shares surged o",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "source": "The Guardian",
+      "published": "2026-11-23T15:23:21Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ac8b45c5da69dd6156f105b4d58e460"
+    },
+    {
+      "id": "9194ddb079718aecbab352",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-23T15:15:48Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
+    },
+    {
+      "id": "1a8285a3e8013227a08c8d",
+      "title": "NASDAQ rallies as Huang returns to Nvidia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FTEdlc0hUdjdFYVFXMkhZMURGME1TYlRnWGdWcjhRU0pxUmZzQnFDUDQ3dDNLSDByOHJMME51STNnbjl1NUtPeEhqQkxrdDYzZ1ZYbEVrczk?oc=5",
+      "source": "BBC",
+      "published": "2026-11-23T15:13:42Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5876b76a766d77a51f482e",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T15:04:01Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024"
+    },
+    {
+      "id": "cf432a7fcb921d42f6b74d",
+      "title": "Service Corporation International stock hits 52-week low at $68.41",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVg0Wm1UeU45bFRkWmdCdVc5NHV2SnVBTGFmQjBPZFhEVWxNU1VNaTBmOGlSd0Q5M0F3ZU9Zb0FXamFOM2R4alpOc0Vaa3gyMHNjaTJ4X1BKa2JrblM0MEtWQzJYU1dTclBTcHlSOHlsUW1INDBfVC1qbmMwd2VhYnZ2T2RtVHFaNVFOMHZ3amlZVzh1b1RxdW1BY0s0MHdhemlHaW11dXNFd3g1Wkk4amFxRFp5VGxJdkh0SA?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-23T15:03:36Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c8d2dbba3a2ed8ce3af5a3",
+      "title": "University Names Inaugural Chief Marketing and Communications Officer",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zanRXNDNBVjVHMndCUVFxMVlkRWZsQW8zRU9OcEtpR2kySEN1aFYyQW9UaHNXQlhucllnM09ma2xrMlRHRTljTGQzeHZZVDZHUWlXLXNFeEszUVlvckZaZktCSUtZUHpHeVJMTA?oc=5",
+      "source": "North Carolina A&T University",
+      "published": "2026-11-23T15:02:12Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7c7af34bb6b58b31fa451a",
+      "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
+      "summary": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal events. The best price that we’ve previously seen was $169, which is what they’re currently [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-23T15:00:44Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "f777f25da2e5b805235bb6",
+      "title": "The Verge’s favorite holiday gifts that cost $50 or less",
+      "summary": "You've got $50 to spend on a friend or loved one this shopping season, and you're not sure what to spend it on. First off, that's actually really generous of you. While this price tier can sometimes be challenging to shop for - caught between affordable accessories and big-ticket items - there's plenty of gold [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026",
+      "source": "The Verge",
+      "published": "2026-11-23T15:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-50.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5460e2430eb2185db37780",
+      "title": "How one router caused the worst ground stop since 9/11",
+      "summary": "Today I’m talking with Darryl Campbell, a freelance journalist, aviation expert, and author of the book Fatal Abstraction: Why the Managerial Class Loses Control of Software. Darryl covers aviation and the FAA, and earlier this month, when the US suffered a sudden nationwide ground stop on air travel, Darryl was all over the story. He [&#8230;]",
+      "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
+      "source": "The Verge",
+      "published": "2026-11-23T15:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FAA_dcd.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "c21768189b7cd32039ba59",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-23T14:54:03Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg"
+    },
+    {
+      "id": "19b7736dd1390c91e86872",
+      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+      "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and sell",
+      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+      "source": "The Guardian",
+      "published": "2026-11-23T14:51:45Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=903b42340126d0d94e1683341d3637cd"
+    },
+    {
+      "id": "63c6aa721cad17c6c07001",
+      "title": "US Dairy Exports Set to Top $10 Billion as International Demand Climbs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmg0WFhsQllkU1BWX2lSeEJERkMwWlFITG1TQzZkMnZNN01Uamx3NWZFV0U1ZkJBSm96RWdibHlZVXIza3FTc193dFlrSjZJQjFuVExRZXRsWWczSzlwWjlzV3NwRi1YWVlDY0NxTmVpT0wzN1VKeXRQaFNxWk9rc0R6ZHVfdTVyaXdYUGg3cnI1RzBtWVAzdW1RZVR5eHVMbG5ZOHh4NmFlaTYzUnRZM3RRcU5sZzA1?oc=5",
+      "source": "Farms.com",
+      "published": "2026-11-23T14:47:45Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6e5274e0a6d033ee894c5c",
+      "title": "Ahmed bin Saeed inaugurates Future Growth Nexus Summit in Dubai",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmpmM0t1TU42MWtTalg3cFlvYXl0aTUtRUxtSmJKd0p0bXRGUGVKWURsX214VEM5eC1jaG5wVTZlbExiZ2lqZ0ZBMDRfZElmVk1QQlNQV1hkS3dCYTdGVE1OZC0wWjlrbmdoWmVmZ1Y0QzVRTTVzcXVqZ0k1UlRTQU9XdkpjeEZxY1N1d2N3?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-11-23T14:47:44Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "d02b4590b4aad10276ddc2",
       "title": "A Front Seat to Innovation",
@@ -24,6 +228,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200"
+    },
+    {
+      "id": "ffc915da73e01ee8213073",
+      "title": "Afreximbank calls for greater investment in factoring to unlock US$300 billion small and medium-sized enterprise (SME) financing gap in Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNOUo3eW5uUHZzOFp0TTQtUkVwZy1mZ0laYUVPVmgtT2JzeHF3c0lxOWUzU3QzYTZIcU1BWFVaSEc3eGVaYVNBNG9vQkZZVHY0X2UzYVl4THptXzVrQzFCejI4alZ5ZDN3ZnYxOFdXVnF3aTBOZFBIYXItLVFlMFE1ZEF3enFtLTQ1cm5wakF3SDB6N2xHYlh1NFB4dlBOUXNad04xaEc1d0N3YlRzV1JnTWtJakdTdmk4eVBSVVRqRUZfNFAxeG9NTWNRSFlGdmJYOWd0TzQxUHB3eUI0NnlzSUFTMi1Jbk5vbmZWLXBMYjh6b29RTVBpdjduVUEyS1VoNzVpTXhFYXdwOTZxalh3VnJwa25yWUxrdDFzNGNjQlF4ZC0yaWRYUnhSSXByam5XdlE?oc=5",
+      "source": "Zawya",
+      "published": "2026-11-23T14:41:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "7f1e5edccceac14ef99f6a",
@@ -62,6 +278,18 @@
       "image": ""
     },
     {
+      "id": "e32a50f7f65d26b122eb9d",
+      "title": "Openness, dialogue key to economic stability, China and EU agree",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBidFc0YUVBUHBUS0l6aUdUTU5vajItdGtnVXh3ZU1MQ3hBRVF0TUhfMGlpSnR2TUNYUUoxVzJBVG5kT195NERtU21fUUZndE5NYm5XbnlYUzZ5ZjBjNjNqcVZvVUltRlRYczZPc3MwNm1EZmRQOXI2ZC1WQkl1Zw?oc=5",
+      "source": "China Daily",
+      "published": "2026-11-23T14:35:28Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "434b206c0b71b139c1bfb1",
       "title": "Latin America Could Hold Some of the Best Investments, According to Maurice Obstfeld",
       "summary": "",
@@ -86,6 +314,18 @@
       "image": ""
     },
     {
+      "id": "282d32a2619eb97fcbcb90",
+      "title": "Texas Instruments vs. Lam Research: Which Chip Stock Is a Better Buy?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPODRHbWdaMjdVaUl4QlhFNk1BZk9LUk1sd0c0TTdIVTZsaUNiVFZ2TGNTZExHTFl0bWlkWE1pUHZvQTRkbl8zZTNGM1dfSEtvWHhHSW8wNFF5SUJBVV9vMlBLbFdNa214T1p3REJUS1cxUWNqUnZEZnBqR0l6Z1ZzaWgyWWZ6UXpHMndrc0prLVE3NE1rZ3dZUTBPeENhMHdRVXlNdmZwc1VZZDBTbWxlV2JPTzd1VjJ2TURNYzZ3cDhUemg3dU1qeVB0TUoyUlZHYTRkNVFhV3FHbUFJU29fVkN4clE?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-23T14:30:12Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1a67c979a6d70941b80bd7",
       "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
       "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
@@ -98,18 +338,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
     },
     {
-      "id": "3b5fce3baff0040faec167",
-      "title": "Nvidia stock surges after Jensen Huang rehired as CEO – business live",
-      "summary": "Rolling coverage of the latest economic and financial news, as Donald Trump welcomes shock reinstatement of Jensen Huang to run Nvidia Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits warning this morning. Full year completions were 1,353, at the bottom end of the Group’s previous guidan",
-      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-23T14:23:58Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f4a5e76cefbce997df2eb1a1983e3562d06167cf/107_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4650f82dd634742c4222e1203bd2ee02"
-    },
-    {
       "id": "0affd11db18d863015bf6b",
       "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
       "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
@@ -120,18 +348,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
-    },
-    {
-      "id": "833a072f63c18c6f1a0c8f",
-      "title": "Jensen Huang reinstated as Nvidia CEO",
-      "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates Nvidia has said it is reinstating Jensen Huang as chief executive, effective immediately, just weeks after his dramatic resignation after reports of extramarital affairs including with an alleged Chinese spy",
-      "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-      "source": "The Guardian",
-      "published": "2026-11-23T14:15:27Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ac8b45c5da69dd6156f105b4d58e460"
     },
     {
       "id": "f45bef56dee2678acfd858",
@@ -170,18 +386,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "ce15e8e5d8164321a43e2f",
-      "title": "Nvidia Reinstates Jensen Huang as CEO, Shares Surge Over 25%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTmxTZWd0TGdOZENBRnJJT2xXbFVpZWp3T05RQXlzYktKb2FKSExwZVo2aXBtODVIY2xVUS1qcnozSGw0OW9FS3J3WVp3a1lYeUdxZ05ySnNwTGRSOERMU0FrUnVneno4dVQyMFJuclp5dGdLS2ZKNEJIbGkyME1tdw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-23T14:11:50Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "c2c96bd84b3ba5dfacc313",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
       "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
@@ -192,6 +396,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "ce15e8e5d8164321a43e2f",
+      "title": "Nvidia Reinstates Jensen Huang as CEO, Shares Surge Over 25%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTmxTZWd0TGdOZENBRnJJT2xXbFVpZWp3T05RQXlzYktKb2FKSExwZVo2aXBtODVIY2xVUS1qcnozSGw0OW9FS3J3WVp3a1lYeUdxZ05ySnNwTGRSOERMU0FrUnVneno4dVQyMFJuclp5dGdLS2ZKNEJIbGkyME1tdw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-23T14:07:27Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c7f77d61bc293b723ebe9d",
@@ -290,18 +506,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg"
     },
     {
-      "id": "c21768189b7cd32039ba59",
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T13:26:36Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg"
-    },
-    {
       "id": "ecdb6ac64fed74177c8b24",
       "title": "Google expands support for Indian startups with AI-focused Momentum push",
       "summary": "",
@@ -386,18 +590,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Motorola-Moto-Tag-3-.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "19b7736dd1390c91e86872",
-      "title": "Falling markets: will I lose money, and is there anything I can do?",
-      "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and selling off technology stocks. Last week, the AI",
-      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-      "source": "The Guardian",
-      "published": "2026-11-23T13:08:46Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=903b42340126d0d94e1683341d3637cd"
-    },
-    {
       "id": "e37f1a032b1c9343fc9543",
       "title": "CrowdStrike Beats Q3 Earnings and Revenue Estimates",
       "summary": "",
@@ -470,6 +662,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/01.-Odyssey-G6_Front.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "729234c904fd3c4f93b3a9",
+      "title": "Research Solutions to Join KnowledgeWorks Global Ltd., a CJK Group Company in All-Cash Acquisition",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSUgzMFNGMzAxZDU4NGRSRDVGZC1wR2d3Zy05TEJTR180QkliUTV0TWJCZ2VVbWJQZG41RGNOcTdpbGVfTXFjWk9YNlg1V2xfUV95V0c2SU1xdnllbk82Y091Qmw3eUVQVmRmU1NzbDZ3ZFVpSS1XMTZQSHA4ejJ2NHdLWGdYSFF6X2hQY011blJubi1wa29jb3lhSElBbVVOU0pHQVplZk1GTVpLRWJlbDBocXFqRFQ5MHNPVmREc2FBekkxdG81eXBaUDBsQWN0VWI4dXVWN1lMUGhWOGJEOWd0bmtJX1A5V2VUNWJ3?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-23T13:00:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8232c3562e4c06a8cfc88a",
       "title": "Italy Considers Limiting Exit Tax to Wealthy Moving to Tax Havens",
       "summary": "",
@@ -514,6 +718,18 @@
       "published": "2026-11-23T12:37:25Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d766dcf1e8b1afe7cf12f7",
+      "title": "Oduwole: Nigeria’s reforms lay foundation for stronger investment flows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVBYZTBGOGpSYVFKU0czbE5BSGlPdUR3RjQyQUdlSUxDNTNMT1VoOXRFckJ3QXhnT3FJbXV2WHBidFZVOWUwUHh3bF9VV0pNdDViZFA0RDR0WDJhclJ1WnltbXNLUE1LQlUtdlgyMTUwNkRNLU5CdFFHYmtRb2gxSThnMURNeXp5TmJZMmgwQ2EyYlRONWF0aDY3ZERTa1QxZm50b1I3V0FLLVRhelhHSGw3Yzk0d3M?oc=5",
+      "source": "CNBC Africa",
+      "published": "2026-11-23T12:35:44Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -626,6 +842,18 @@
       "image": ""
     },
     {
+      "id": "054f437d4fd6ecc22d4d11",
+      "title": "Sponsored Opinion: Immigrant talent powers the American economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW1UNVlUbWRfNWYzYmlFUXRQVDRYTGxWbTN5Y0U3RlhHc29oaGZ0cUljdXNCTG4xUFROdFRfRzAwOHIyWmZROWhOVElHV2dCQjY3NlBic3EtTjV4dlEyTUs5SzQxSVA3RHFfeGpfN2xOZjhFZ1BPRVlPeU9MVmRnSVZFVnFhX3RvTVloTA?oc=5",
+      "source": "Kansas Reflector",
+      "published": "2026-11-23T12:03:31Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a9273cb2c5856190627106",
       "title": "Tailscale, one of Canada’s fastest-growing tech companies, set to accelerate on AI demand",
       "summary": "",
@@ -720,18 +948,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "cb29a20e38ef835b166a4d",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T11:40:01Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png"
     },
     {
       "id": "8b4920ae0958e32774769c",
@@ -928,7 +1144,7 @@
     {
       "id": "599ec3a9c12f02c6cc12b6",
       "title": "Meta Muse can do your Black Friday shopping at Walmart",
-      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without [&#8230;]",
+      "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your [&#8230;]",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
       "source": "The Verge",
       "published": "2026-11-23T11:00:00Z",
@@ -1222,222 +1438,6 @@
       "published": "2026-11-23T09:08:33Z",
       "category": "Economy",
       "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "89292ae4517c9886175d38",
-      "title": "US envoy highlights Syria's energy potential as US, European ties expand",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfVTA1RkcwOUhfekxGOS1nWXduVWhpU2hrVVRkQ3F6MFY2UGRUZzltdDhmeW9xNk9lYzY1cFBISnZWNnJXT01VOHhDR2c2X0pQRko1eVduUzg3UVlF?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-23T09:08:20Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ba1436bb2655281482c465",
-      "title": "SADC Needs One Shared Economic Vision to Unlock Regional Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWpYanBGM21Eck54TV9SYjVpN1ptb2loQnF0SjV0R0k2TUpFQkxTTWlPVDVYdmpwVTdfMHhTWEVlX1ZfQmtSZFIwMlYzbDVjRXk2Z21hTjhDaXdhTXY3WmdEX21SV1pKTXhTc0R5VHBnN0ZvUk9OSHQ5NHBtRzZmbFlyVDBPb2ttSFNBY1c5SXJDX0loSXJJTC04X20?oc=5",
-      "source": "Farmers Review Africa",
-      "published": "2026-11-23T09:06:45Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2f9f45f073d74c655ed87e",
-      "title": "G6 reaches 1,607 hotels in North America",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9id3ktSnpOZFhaQktkQWxIYTVlUzdtSmVlRmNXdk5hRWFTeXp3X3ZzWU5kMWk1bTBmSUM4RDlCVnFBelV3LVcwWGNvQklFal9sdG03bW1JdFFzZUpLWmZFdHJqd25Ta2VVQlNsV29ZanJDa3QxcVRBRTlMdlNkdw?oc=5",
-      "source": "Asian Hospitality",
-      "published": "2026-11-23T09:05:29Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5e321d03b5f64404b54521",
-      "title": "SignalPulse: Weekly Signals, Startups & Deals To Watch Alert",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMWVtZ1puYXJqQ0VtaGszR1I5cTlpUGJfNUw5Y3VEa293RzhkbTZPM3FVLUZwZUF6UmNDNVlnTkQyM1l1enp0ZFNpYkdjVDBwTGExazhiUEVTbEFzSXVuOHowc3FxMm5NVG9lQk1YTGljT0VabW9VN2FFNHVjSW5YdThSUG95eEFmUEdTdGVrcFlfWjlJSGN5dE10cHRzS0hVeXN4ZXc5UGwwWXhEckZTVkhJN1FIenVMdnp0U1JkYk00d2lPQkNpTm5tTmlaUkQya1hyNk5n?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-11-23T09:04:35Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ac97a2bd93c467b808dc9a",
-      "title": "Oman targets $3.9 billion GDP boost from digital economy by 2030",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGxzcTloVzFnZHNNTi0yU3NCTFZuUzZfX2JvaHFlU0VsM1Q0WVFyeE50RTYtR1FBaFhkeGt0Wm5Pb2w1RFN4Wl93c1NaUUc1Zk9fMkRyWmRQbTd0WEkwRWlJNk15TEtqTjBUXzBSa1V2UHZETFhOd2lUX3cxOF9XdEFJaTI0S09HdFlhXzdySjFZSktvS09YVlF2WQ?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-23T09:04:08Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "48d3955f81efbc7af15617",
-      "title": "The Department of Foreign Affairs said it extended for another year a policy allowing Chinese tourists and business visitors to enter the Philippines visa-free and stay for up to 14 days. Link to the full story in the co",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVY4NmI1d2ZvTUtoYnNqSFVNVUZlWjBRUzNBQTN6Und4UENhRTZZWnBpbzgwZXIxa2ZGQW44QjlQRW5pUTZQUmJkV1RfVWZOeXNhcGtFTFpERWtxZGgtckNtYVlkRXFBSVdrYlloNVJGZXpubmhfeW1pLWZ6cHJBQi1BWkxoaktaV3YtNTY0VDBBalBKeEY0R0dwaUFTNnBRTjFSR1ZyY0k1SHZ2VUQyc3JwMTdUdGdxNUJnQjcxeXhpUHBrcTZiWWdsWDYtV2VPdU5CZHNUbw?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-23T09:03:04Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a4a76c81765dda7acae2bd",
-      "title": "Bubble CiTea passes 40 brand tie-ups with Pokémon launch",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDRFMWgzQkNIWmJMbjNVbll3X1hCTXlLS1JuOHFnRFl0OHQ3eGo4MjBsWnl4Y1puQnpac3J6cjB5SjU0SlI0Tzg1b3JuNnkyQk5SMWRMb2FNVTNUbWkwQVBtZG1zczFfcnVKX1dFTTI3LVR1akwtR1BJX2hRTXk1SHZZenBOMXUwaE1oY05OSEVTcmk4YVktdHdEc0c0aklZMUtUT3RHdmtFZFhlUkMxY3dn?oc=5",
-      "source": "L’Express Franchise",
-      "published": "2026-11-23T09:02:39Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5a5537414c71490cad2388",
-      "title": "Partners Group Shareholders Approve Split of Troubled SICAV Fund",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUUtX3hNQUJYSkZ1Rl8zOFFGeXlQUkItX3VLXzU0R3lHNUZhbkpIcGw3OERoY21VWThOSk9nT1NLNVZCWGdqNFZHaGRId0R6RVc1LS10UkxLRlhDS0RzTGZYVTRvMW5zbDFxdWNfYzZ1a1ZaR0d3Q1E4UU42OEpRcGpNZUIxd044?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-23T09:01:49Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0857f2782e2d6c20959bf3",
-      "title": "Finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRnhwSHloRnl4X1J3MFBXMjZGV0dJTTdSb2FpdHk5ZElZOFhDT05EVC1LSTAtRjBJbTdXQU1KQVZiTzlpZVpzX0k0ckpfVUFnUUNILXJ2VDVEVlRiaHJYUzNlcHE0MjNSWG8tWng0OWZ6NGFFWnc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-23T08:57:38Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "476e3de4bfff99a8379921",
-      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-      "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T08:53:01Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1f/live/ec9cfdb0-e71f-11f1-914b-6d226d813a52.jpg"
-    },
-    {
-      "id": "bb9a39dd4d8fc0874836de",
-      "title": "Future Growth Nexus Summit Explores UAE Trade Growth And AI Innovation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlM3WW9BSEJFcFBvTGs2alpqV2l0dHFtR25aUVUtME1PR2Qxa2hWcGJ5cm5mRkFzZkFHUUFPeWtWZDNxenRoWm13c1gwQmE3UTRsS01weVhsUkhfOGh4eVhsSXdhQ2xybjR3aVJ4VmduLU4xRTlVUm5BR2xzUm9YbW90MF9fLUZGVWxySjNnb3NMSzQxdi1HMGYweDBaRl9udG56Y2lnelkxQVZNMHhfU3c4Y0xvMHk2OTJ1T3Q3bi1WaW0tMlhZWHlGcE43aGU5V1E?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-23T08:52:42Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8bb496e934a97a4886eb7b",
-      "title": "Future Growth Nexus Summit Explores UAE Trade Growth And AI Innovation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1h5Ym9pMThCODZZNl9kUDU1MWJYVkloWkhQeC1sZmYtV3I1TFg5bG5jc1lEcDBaaWpVUEFlazRNekUzTVVEVXRkX1l1OUlvQzlqbmZ5aUlnN1hDTUJkSjV6RXNfd1JBbS1SM0s5MmFXaGloclozLUpxNmtlSHNta18wRjBHc1ZTY2wtRlFTangzLXpXazhRRjVxVTI2Q1ZYbk9FS1FkRWkyT204Sy1fUFRvXzFJS2ljSXRGaUl4aTQtX3B0X2sySGxSd3E?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-23T08:52:42Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d03637db74946138e457c",
-      "title": "Beyond the €3 customs duty: making e-commerce safer and fairer",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3A0RkZZV2FFeTU2ZTNabTgzWjBuRVJmVm1tM19oa0N5WmZZS3EyWDZ4VEZoaFBMSUVlb0NleVpKYkFkLVZ0QlpWVUlZaGtSQVJJT1VLcDZTQ0xuVVVmb0lhRXprbzRrcXI2YzZoX2VHQ0ZCc2REckNTLTRiWEJSdEhrNlo?oc=5",
-      "source": "Eunews",
-      "published": "2026-11-23T08:48:09Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "18b0da2b95795674ad95b0",
-      "title": "S&P warns Asia-Pacific's credit buffers are thinning as risks mount",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGJLZTFieC1UUVBvVFVib2JLVDBMd0ZRVjlLaXVxckdtT19KRDYweGJtLXRTbnhWTmJuQmhZSFhETFBCcnVlRHhZRDFEQV8xcE5MeFMxX2hmZWpuMktCcWlZc1VzUzZPTHlNaEdLaDRLb0pzSU40Wk1IR3hOYlJ2QndBY1ctMy1NVGJqSThuUWlGNWRCTE9EQjJkZ09BWk5BOVFVR1pTeVBfVW5jN1ZUWllTbEtONTRCdno1V3RjSlhSUmtwUFFwZw?oc=5",
-      "source": "The Star",
-      "published": "2026-11-23T08:46:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "af9f5edddfbf6c1a921dc6",
-      "title": "MiQ opens King's Cross HQ in London expansion push",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUJxSVl1d2dMQUNnTzdpUkF1SVBMTzg4SG55Mkg4ZHAxdlU1SndqTmNlZF80SThZQVFxQWY5Vk9jbksyWjRTdDdMcmRhbDYyQXNwVEx4LVdYeGM1eEgwMlBFeEx3UUpBbndkTFNvb3k3QldaQ0l3TlFSMzRvanNSal9oNnc?oc=5",
-      "source": "IT Brief UK",
-      "published": "2026-11-23T08:45:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "76dc4ef35813878594cb5b",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T08:41:08Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg"
-    },
-    {
-      "id": "7c89e1974ba5190ad124f8",
-      "title": "India, Vietnam to lead Asia-Pacific growth in 2027; China slowdown to weigh on regional outlook: S&P Global",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMjFaeWh5d0RjRWJRRkFHdDlGN3lxTy1ZVXlKYVNoOFVhRllKcDlZcjhBRk56N3Z6aE5VTjFOTnJaYW91MGN5bDEtSXRVZGgzdGFIMGF2aVlxLU5kRVZVYlJEYjhpcENjMVpVcVdxQ3dkMElJVjNRbk1MeFZqOThyUHU4bUN2WkdqMTVLV3Y2NWxpaWZOamFYcUppekJxUHc3SkZzWF93WXRzaUc4WEJOZTVXTll6ZFpndlFBWGtWVnlHalNzLXh2TVNscElBaDZtcHVQSHAweUNsZzFWUWE4OVM3ZlVCLWlqbUttV01R?oc=5",
-      "source": "ANI News",
-      "published": "2026-11-23T08:41:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0c6dc5fc901e5b4be362c8",
-      "title": "Saudi Real Estate Firms Earn $1.1 Billion Despite Mixed Results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFpkS0dCdHV0aHItdjBsU2s2NktEVHBjcUZYb2phTnpZRVFxZGJPZVNkSDN1aUxGR0x1dVNRaElwWURSR2RScVI0WU1WWVZJaWZGSFpxdExjSzNSczBBZVFvYzNzU0I0VG45SjhxZGNSTmlnQm40MGJEbmZOYTFxYUk2MFctajhsY2tTTERvYm5NV3dQLUdhekJITmFyQXB5TnZrVHJtYTI?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published": "2026-11-23T08:40:59Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
