@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-22T23:29:10.962703Z",
+  "last_updated": "2026-11-23T00:19:20.754067Z",
   "articles": [
+    {
+      "id": "b012e00cfe69fdac01d3ab",
+      "title": "New LATAM A321XLR Premium Business suites from 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWVLSnRVdmRxRU1ibldCcHVtRWI2NGdWLTVndExXb3BUbTNrMVd0OEQwRnN1eTIyQWFvNENvZ25ycGRfMUlBVTd3RmhneDdDQjM5YnZWWVI3Rm80MDR1bmQ5a2hPbzQxQmZLNGt2ZEJtSFJ1azdVdnozTjBfbWRFNWhR?oc=5",
+      "source": "Karryon",
+      "published": "2026-11-23T00:14:42Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f798c636c11a7938f921a4",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uX24yRlJuUGQzV2xNVzd4Rmt3b0oxbl8zajhpSEUzdUczX1JZSXNrVHNXOVBGT1ZGVnROODJITUZoMUxMNDk1MmVPQWtzaGVja0dXQjRoTU9HTFE?oc=5",
+      "source": "BBC",
+      "published": "2026-11-23T00:08:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6352bd0d59b48f2b0e31c6",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-23T00:08:00Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg"
+    },
+    {
+      "id": "fa9ce60332ae7086ada053",
+      "title": "IMF warns global inflation may hit 4.7%, urges countries to tighten policies",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjhWUUFwS3dQX3F4OHlwSXctUEJkMENYQjRWVENoSTdLQ2ROWDRNMWVydmhOT0xISHdEZXdoVTZPSjNpdkdFOEFkQjdteGRpMDdpY0wwUDJLSmkzXzl1a0Z4dVJleXFHTG5wVjBSbm0wWmVTT3Z5TTItVVZBTm4yVjUzOVl4bV9ldy1CUl9VNnVoS0RYaXJtSg?oc=5",
+      "source": "The Sun Nigeria",
+      "published": "2026-11-23T00:05:38Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ea4a6f618532f78942b906",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-23T00:05:29Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "70107a9874b6460f7d2165",
+      "title": "Indonesia's IEU-CEPA Deal to Scrap Tariffs on Over 90 Percent of Traded Goods",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDBnbmFKY0tibFg2VGhXYnNkME1UaFlOZ1hKVVVwYTljMGpndjdiaS1CU1lyNl9nR3M1bndTSTlpUW5oMUlKUkROcGdBUndHLXpWaGhoTkpfWDNYQ2N2MngzdjNUV2VjektlMGdNclRxSV94UVZxNjBmQ0hBT3NVODFhbkwtYTVoSWRzaWVxMWZvWDZNMk5rRkVOZm54VDVRQnRUSkNDMUZFTFhFeUE?oc=5",
+      "source": "Tempo.co English",
+      "published": "2026-11-22T23:49:18Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "67d358895a55ea8dd68b6e",
+      "title": "US Futures Rebound While Asia Markets Brace for AI Selloff",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcm1fZHBLSXUzdWo4ck1sTFlkZXFOVG5Lb0hYM2RnbEJSVVlBc2psbm80WGpnT3VTTV9PbUd6NHV4VjdLUkFtNUVxLUNCMi1hS2lDTUNxUTdfMkNhYU5lLV9ZdGFfa09KUUVvQnJ2X2d4OXBhV0lucHR0NTFSajg1cEtqeF82VTRpbE5yZG1Vdm9pb2dMTm56S0Fn?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-22T23:46:49Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "264a85dd0a5f033c374f68",
       "title": "Shenzhen-listed Yealink’s Singapore office targets India, South-east Asian markets",
@@ -24,18 +108,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9244314cba7baed73d5239",
-      "title": "Israel's economy: How innovation is shaping growth amid conflict",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-22T22:40:41Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "7f4b2fc811956e5bd43dd9",
@@ -84,6 +156,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
+    },
+    {
+      "id": "f4fcc04f6b7c26a377524f",
+      "title": "The Morning Catch-Up: ASX set for further losses after $169 billion market wipeout as Wall Street enters correction",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQR2R6cVk1SnpReGxaT0NqN2E2b3VFakdId2lJSVhlVWVxSUJTZXNCR1RucmpwUWFPeGlyLVpaXy1mQ0dLejVCdzhXWlVaS1JXNUpXcW5SR2VMQldDdzItWFpRemRZQldtb2Z5cEVpZlFnOWh2ZW95SWM4ZnFPVXAzbzhIaXpJc2h0ZU02NGdyZkhVSC1YZjlVbG9JRmZsWEViZDMtMWc2aVdaWTVuWnY4WDFBeXpoODR0X1R0WnZPUlZ5WHNQb1pxR0tPMFVhbmZvYktLTjc1YVNZanhXODlFclEtVE1Xdnl2dGx4aTVPT2kxX3F3eHBFOEE1T19kaW5oZEV2ZWp6Ym1fbURPMGQ1alR3?oc=5",
+      "source": "Proactive financial news",
+      "published": "2026-11-22T22:21:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "be0580354be4465ee78487",
@@ -608,6 +692,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0teVU2TGFVNm5NSWJXWlRXWVJ1clp6YzBScTlsVUREUHlhd0hPdnpVdE44Nmp3eE1nWWhLMFJVU1dJWDVveW1XNXFHNFNuOFpXYlBCQ1Y4MkdEd3dQVmx5U25NNV93SjlPdE9tdmVydW5sbGM?oc=5",
       "source": "Irish Examiner",
       "published": "2026-11-22T17:14:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9244314cba7baed73d5239",
+      "title": "Israel's economy: How innovation is shaping growth amid conflict",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-22T17:11:40Z",
       "category": "World",
       "topic": "Europe",
       "country": "",
@@ -1344,102 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/e99c4064df5af1c4d381edc987f8d7c0f2950483/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2fda944032c4ef89902345a01b1f3858"
-    },
-    {
-      "id": "9cad7af512145b1625a783",
-      "title": "German manufacturing companies may help close industrial investment gap in Nigeria- diplomat",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFg3SzVJMzBGRWU3al9aMnJqRmNQUXRXSTBLZTFDVGFOYTBYS0R3aG4wcG5vQXN0RkZ1NnlZdU1FVHhxQmJWS3lBSnp2aE5JVGtmRjBNdWh2OS1kdDgxSTFUbEVhSTdVR09sX3RHVWlBOTFKV0w5THNEMmpsZTBjQXZmOElWWndLam01dUZJRXpHekllbnJETVkxMUdwTFlPYlRuWUhKLXctUzQ4ZFppYmUtRkViLUUzZ1N3aHFTU3Jpcm5vWmFqaksxQzU?oc=5",
-      "source": "Business News Nigeria",
-      "published": "2026-11-22T09:46:13Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1702b449ef0b09d7ee2123",
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-22T09:20:45Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "247a80fd34338f41b4f805",
-      "title": "Prime Minister and Minister of Foreign Affairs, Minister-President of North Rhine-Westphalia Open Qatar-Germany Economic Dialogue",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNdzVNNzlHck9RSXpuZXFBb0JRT25FSXAzaFZsUjN4OVYwQkRpLTEwYTBOem1nd25fal8wbWY3VC1HNGhMV2JjUy12d0tjR19KMUxPM1dDb1RQeHFkRjkweWl3VTVqMnZodmxxcnA0bzhrNkMwX212YU1pbHNjNV84eGZheFJDWlY3SmNDSGo4ZU1wZHI1b2hEVnY2SkV4YXUxWXR4RTI3WDU5ejg0S0U2YkdRbEFMUXRnb05GMmZNSmZNelVtQ0tlWXFtWUdSQ2x5ZXEwUHV2UmFWb1NfVlFZdm4yVFZQakI5ekJCcHBUZE52cmxneFNwb2hTMndlQ1I3elZVa2d6M1A5NFJtYjlZblVtTnpCUHRUZ3FMUWh2Wnp1WDFsdTBpd1ZnbDdTUQ?oc=5",
-      "source": "وزارة الخارجية القطرية",
-      "published": "2026-11-22T09:16:33Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "626bbf9dee78de38b4b83b",
-      "title": "SOUTH OF THE 8TH PARALLEL | From Manila to Santiago: A Trade Bridge Two Centuries in the Making",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY3BJTUUtNHBYcDF4eDVwSER1aXhseGxNQll1Z004SXRDc3phWjBrdFZMTGZmNmg3a2JZSGpDbFBzMWN4NG8wRVM3alo5QmMtMkRqUlRLWHBGSDljR3NFMGhPSDQtYWxXNHpEMjVmY3kzYmJRSlg0dTFXTmRYcHllYmR6Qk40ZzlSdkt1M3VKVnhOdVdHbDZ4UFFDdnZOZWE4a0NvdG1mN3JfNF9XME53M3VyQmltYUNLeTJVR0VrWElKUUYxWS1IZlNTWXlNekk?oc=5",
-      "source": "MindaNews",
-      "published": "2026-11-22T09:02:34Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eddbf49d13f44b73fcafe1",
-      "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
-      "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning c",
-      "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
-      "source": "The Guardian",
-      "published": "2026-11-22T09:00:22Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/e83253eef2712121e66a9774fee97fca01778307/875_229_5546_4437/master/5546.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fed7b574b96e4a1e100b44bc63bbd86"
-    },
-    {
-      "id": "53c54504af80c17d519b90",
-      "title": "Faith in AI Trade Wavers as $80.6 Billion Selloff Warning Sparks Retail Panic",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fYlRiNlBrVmE0cXFvdk9qUXRMOWhpXzVOMHZPRmFjdnhGdE9nbXNkZko3VEsySElKaHA1c0lvc0ZNYUlvUGxTTDVBVTctYnJ0eUVPSA?oc=5",
-      "source": "bloomingbit",
-      "published": "2026-11-22T08:58:33Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ef81665314b2db5c4969ce",
-      "title": "SNB Vice Chairman: Watching Inflation Effects, Supports UBS Regulation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORldfWnVPa080QmhMbFJ5LThCWUxIaXdCWjRYNEczSjd5MUNmOW1Oa3hvSk9RelUzTUdHckR4bzFxbDBKWGdqZFRxZDVrXzl6MWxvX0hRaFRaLVRSZ1lsTmhlcl92LXpJMVpJWUU5MVMxSVZtdzBoX3NVcVVoTWhuUHlTMGU0WlN0Yi1fYjhha0JJVHIwcUp6RG9uV0E5QQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-22T08:31:50Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c491cacc8d51a09fe8de71",
-      "title": "Leveraging APEC 2026 outcomes,expanding cooperation towards APEC Vietnam 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2l5QkRaUjctMGhhLTZ6Um9IdUVfSTY3X0xIbWQtWTRKSk95Rk9NRnM4Y1Zxa3FCMUxTUWtMRVVRZDlhdGt1RDg5OWdzc0N0eTVIbk8ySUVzUTEybk4zU0t6RkFQZUJTSl9wck1zUzlNR21hajM4VWZuWUhFU3JyTHJ2WFFCX29lTHgwLW5iLVVnMUlrQ05aWkVYRlV2OVhBS1dOMkFtSQ?oc=5",
-      "source": "Vietnam Economic Times",
-      "published": "2026-11-22T08:12:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [

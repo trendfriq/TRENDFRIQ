@@ -1,5 +1,89 @@
 [
   {
+    "id": "b012e00cfe69fdac01d3ab",
+    "title": "New LATAM A321XLR Premium Business suites from 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWVLSnRVdmRxRU1ibldCcHVtRWI2NGdWLTVndExXb3BUbTNrMVd0OEQwRnN1eTIyQWFvNENvZ25ycGRfMUlBVTd3RmhneDdDQjM5YnZWWVI3Rm80MDR1bmQ5a2hPbzQxQmZLNGt2ZEJtSFJ1azdVdnozTjBfbWRFNWhR?oc=5",
+    "source": "Karryon",
+    "published": "2026-11-23T00:14:42Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f798c636c11a7938f921a4",
+    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uX24yRlJuUGQzV2xNVzd4Rmt3b0oxbl8zajhpSEUzdUczX1JZSXNrVHNXOVBGT1ZGVnROODJITUZoMUxMNDk1MmVPQWtzaGVja0dXQjRoTU9HTFE?oc=5",
+    "source": "BBC",
+    "published": "2026-11-23T00:08:00Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6352bd0d59b48f2b0e31c6",
+    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+    "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-23T00:08:00Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg"
+  },
+  {
+    "id": "fa9ce60332ae7086ada053",
+    "title": "IMF warns global inflation may hit 4.7%, urges countries to tighten policies",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjhWUUFwS3dQX3F4OHlwSXctUEJkMENYQjRWVENoSTdLQ2ROWDRNMWVydmhOT0xISHdEZXdoVTZPSjNpdkdFOEFkQjdteGRpMDdpY0wwUDJLSmkzXzl1a0Z4dVJleXFHTG5wVjBSbm0wWmVTT3Z5TTItVVZBTm4yVjUzOVl4bV9ldy1CUl9VNnVoS0RYaXJtSg?oc=5",
+    "source": "The Sun Nigeria",
+    "published": "2026-11-23T00:05:38Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ea4a6f618532f78942b906",
+    "title": "Energy bills will soar - here's how you can ease the pain",
+    "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+    "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-23T00:05:29Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg"
+  },
+  {
+    "id": "70107a9874b6460f7d2165",
+    "title": "Indonesia's IEU-CEPA Deal to Scrap Tariffs on Over 90 Percent of Traded Goods",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDBnbmFKY0tibFg2VGhXYnNkME1UaFlOZ1hKVVVwYTljMGpndjdiaS1CU1lyNl9nR3M1bndTSTlpUW5oMUlKUkROcGdBUndHLXpWaGhoTkpfWDNYQ2N2MngzdjNUV2VjektlMGdNclRxSV94UVZxNjBmQ0hBT3NVODFhbkwtYTVoSWRzaWVxMWZvWDZNMk5rRkVOZm54VDVRQnRUSkNDMUZFTFhFeUE?oc=5",
+    "source": "Tempo.co English",
+    "published": "2026-11-22T23:49:18Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "67d358895a55ea8dd68b6e",
+    "title": "US Futures Rebound While Asia Markets Brace for AI Selloff",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcm1fZHBLSXUzdWo4ck1sTFlkZXFOVG5Lb0hYM2RnbEJSVVlBc2psbm80WGpnT3VTTV9PbUd6NHV4VjdLUkFtNUVxLUNCMi1hS2lDTUNxUTdfMkNhYU5lLV9ZdGFfa09KUUVvQnJ2X2d4OXBhV0lucHR0NTFSajg1cEtqeF82VTRpbE5yZG1Vdm9pb2dMTm56S0Fn?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-22T23:46:49Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "264a85dd0a5f033c374f68",
     "title": "Shenzhen-listed Yealink’s Singapore office targets India, South-east Asian markets",
     "summary": "",
@@ -58,6 +142,18 @@
     "topic": "NPR",
     "country": "",
     "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "f4fcc04f6b7c26a377524f",
+    "title": "The Morning Catch-Up: ASX set for further losses after $169 billion market wipeout as Wall Street enters correction",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQR2R6cVk1SnpReGxaT0NqN2E2b3VFakdId2lJSVhlVWVxSUJTZXNCR1RucmpwUWFPeGlyLVpaXy1mQ0dLejVCdzhXWlVaS1JXNUpXcW5SR2VMQldDdzItWFpRemRZQldtb2Z5cEVpZlFnOWh2ZW95SWM4ZnFPVXAzbzhIaXpJc2h0ZU02NGdyZkhVSC1YZjlVbG9JRmZsWEViZDMtMWc2aVdaWTVuWnY4WDFBeXpoODR0X1R0WnZPUlZ5WHNQb1pxR0tPMFVhbmZvYktLTjc1YVNZanhXODlFclEtVE1Xdnl2dGx4aTVPT2kxX3F3eHBFOEE1T19kaW5oZEV2ZWp6Ym1fbURPMGQ1alR3?oc=5",
+    "source": "Proactive financial news",
+    "published": "2026-11-22T22:21:00Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "be0580354be4465ee78487",
@@ -4508,6 +4604,18 @@
     "published": "2026-11-20T16:00:00Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "cc2798ba0b0bccc06fe880",
+    "title": "Nvidia launches desk-side DGX Spark cluster for researchers",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTFqVXJPOTlEV2RTZ19TbzE5NkRCOW9JaU81UWVaa3BtX2x0SG9HVjdZXzlaNFVsNWVLblNKcVoxdVlFZkNxYXNNTTlLZ0VCaTZOdEFsbnZ0UnhuQjJXeFpibDNmaXBod3hhNmFFcnRyVXFxQXR2WVR3anRPd2hVSmVsZUt6N1F1SGxNdDl6ZkE?oc=5",
+    "source": "IT Brief UK",
+    "published": "2026-11-20T16:00:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
     "country": "",
     "image": ""
   },
