@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-23T19:49:24.530774Z",
+  "last_updated": "2026-11-23T20:36:21.417625Z",
   "articles": [
+    {
+      "id": "3b5fce3baff0040faec167",
+      "title": "Nvidia shares surge more than 30% on Jensen Huang‘s return, adding $1tn to company value – business live",
+      "summary": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidia’s CEO US reactions to Jensen Huang return – US politics live Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits warning this morning. Full ye",
+      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-23T20:22:40Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/170c53dae32ff033a36f686b5d20fe6b904fdae5/297_0_5407_4326/master/5407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e15b40afec8caa81c0f43a46863968e"
+    },
+    {
+      "id": "6545db87281ad58ecc44f7",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "source": "The Verge",
+      "published": "2026-11-23T20:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "72c65d25e7ff950d52289f",
+      "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+      "summary": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the co-founder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as CEO [&#8230;]",
+      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+      "source": "The Verge",
+      "published": "2026-11-23T19:58:27Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-3.06.15-PM.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ba7fe03235f718d9453a98",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife [&#8230;]",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "source": "The Verge",
+      "published": "2026-11-23T19:57:18Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "63315e503b95e895689e3e",
+      "title": "ZMD Motors Plans Inventev Acquisition to Expand Electric Work Truck Capabilities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkE3OUNDOEZHZFh6QWY0ekstYzRSa3d2TU55YW9fNFJqcW11OE8tRU9DWjNhMmJDYlRtZjVsYV9LOG90SG5uSU5Id21XNGRxQ3QzOUFiN1J5TmZ4Tm5ubjZfZGlNX3hCd1BTWWdxamg5MzE2SnZUcXZVaXRUem9Cb3AteHpqTGFtcVVNeGVnMU5zdlBPcldhQ2Y5bUs2clBwWkNiS1lxdVpSb3pyNmlpempsenZoaVBK?oc=5",
+      "source": "Work Truck Online",
+      "published": "2026-11-23T19:41:38Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "357aee899bf00d655308e7",
       "title": "HBO Max is offering one of the best Black Friday deals we’ve seen this year",
@@ -40,7 +100,7 @@
     {
       "id": "20bb58c8d5c855d343fc65",
       "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-      "summary": "Politicians on both side of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
       "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
       "source": "TechCrunch",
       "published": "2026-11-23T19:31:41Z",
@@ -48,6 +108,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
+    },
+    {
+      "id": "d84ed05160896abf974645",
+      "title": "Trump Sees Nvidia's Huang as Key to US Open-Weight AI Models",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlpLXzNmVzJ2TGlMTDlIRllsR2d2b1VYU0NneFN1YzZnQ1VRdFZBWFMwNUIwUVgydVRtTmxkSlphc2tpM1AzRmg1QzBsSkZQWVoyRE9jSWpWU3FQNDNia0QtajNFZmE4ZkpUMjg0MVZEaWh4X0p1RURYNTVXYXd2WmRyaTNVMTBCenJaS1hfSkdWdDZEMDhtdTYtSHA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-23T19:24:53Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2d3e2276e202e9fe4f3058",
@@ -98,6 +170,18 @@
       "image": ""
     },
     {
+      "id": "5e758695ecb4320ecbb064",
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuc25zRC1BX1dfTUlVb1dOR252a3luVjRBTVBlZk5qYkhUWTFOeWVyS1RRV3BhaFdYVkdGb3dpTVEyNWFvQUxzYzZLaVBITENOa2phcEprQ0JRdkk?oc=5",
+      "source": "BBC",
+      "published": "2026-11-23T19:13:49Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "abf39997284c1111472bdc",
       "title": "UN General Assembly Adopts, by Consensus, Landmark UAE-tabled Resolution Establishing Regular Water Conferences Every Three Years",
       "summary": "",
@@ -106,6 +190,18 @@
       "published": "2026-11-23T19:12:25Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "75971aa9ae7af9cb87fe60",
+      "title": "Michelin announces $28 million investment in Norwood plant",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnE2RmdRanRrQS1KcVBlN3ZmbUx0Q2xuTXEycDd2dUgtVm9Cc29zMDB1UlE2UFdlZERfNXNpNXo2ejdCVTA2ZHMtYUJSNmljN0VtS0xNTzhqT3VKVEtUSW9VbHpCUWw4cEl5djR2aDYwSl9yN1FYNzgzY250OWxLUUg5UzR3V3VnZHVBNDlTMEc1ZC1Lc0xWbkhMU1gyeG1l?oc=5",
+      "source": "Stanly News Journal",
+      "published": "2026-11-23T19:12:11Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -132,18 +228,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3b5fce3baff0040faec167",
-      "title": "Nvidia shares surge more than 30% on Jensen Huang‘s return, adding $1tn to company value – business live",
-      "summary": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidia’s CEO US reactions to Jensen Huang return – US politics live Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits warning this morning. Full ye",
-      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-23T19:04:26Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/170c53dae32ff033a36f686b5d20fe6b904fdae5/297_0_5407_4326/master/5407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e15b40afec8caa81c0f43a46863968e"
     },
     {
       "id": "47e46bb37ae4a97a89ec39",
@@ -496,7 +580,7 @@
     {
       "id": "aa1274f91f4aee0bc16007",
       "title": "Meta throws out its net-zero goal — its competitors should be furious",
-      "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
       "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
       "source": "TechCrunch",
       "published": "2026-11-23T17:13:45Z",
@@ -1356,90 +1440,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a26ca4259452f5a91d78ab",
-      "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
-      "summary": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glasses” has been swift and severe. Smartglasses such as Meta’s Ray-Bans, which have built-in cameras, microphones, and AI assistants, have been ",
-      "url": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
-      "source": "The Guardian",
-      "published": "2026-11-23T13:55:40Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/157cb03ca11449508590bbb8b23daca70b5a59ce/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0dd61c840ea846c96d4a529a47242a2"
-    },
-    {
-      "id": "1df1e371118473ff5f5f34",
-      "title": "Ahmed Bin Saeed Inaugurates Future Growth Nexus Summit In Dubai",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUFUQW5oQjBHaGdQUDg1VVNBU3JQTkRqbnlHR3k0ZlVjSXU3RjBIaE5vWUhwT0s2TVZ6alBTRk93QnAwU2lLTG1BMGE3azRxcGhuQ0pEUDdYQ3ExNXdRcXhsMUhZTkxaNUxZeTZfVXVObUZKVWpQM19ZZ3V0UE1remtfSnFzVG9aREVreFRnV0ZrSGlnYnhrZk1wM3NiZUF0aFNGMVJ3?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-23T13:52:53Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "593cf9abec850ebad9992b",
-      "title": "India pledges $1.6bn to Nepal in reset of ties",
-      "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T13:39:30Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg"
-    },
-    {
-      "id": "b2a48c9fd2e5e362cdcb9b",
-      "title": "Ecer.com Announced the Launch of EcerClaw",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsU0tfYVo2bi1tWkV6bnp5dzFCR0VBZHRBTnZMQmtqMGhVNXNrbi1TWG5waW9YU3hpTXdVQm9XYURtdklrN1RqUmx4WUZLUWw0NHdmWEc5ZzAwNVpFUnl5NHJoNGlveDhyWnptbHNOOVJCU0xpdHZSZG5n?oc=5",
-      "source": "MarTech Cube",
-      "published": "2026-11-23T13:39:12Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c3f0c850050ebaf6cc0d88",
-      "title": "Flights cancelled in Belgium due to cost-of-living strike",
-      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T13:34:02Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg"
-    },
-    {
-      "id": "ecdb6ac64fed74177c8b24",
-      "title": "Google expands support for Indian startups with AI-focused Momentum push",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeVpQQW8yZWlsSTVXcEhFcXdNcF83MzFQdjBrdTFLX0VENEZlS3E3SW5SWlh5SHkyaE52Q3ZzYXZ2dnhOd2gwcWx3WXhIRF9vZnFjRF9TVDE5cFhsMnp3VFRDOGs5MnEwd3ZjVXJkVEQwZ3RqeHduaXlKSzBiTWdDRlRoRVluTFhBb1QydmZoSC1oeXRXY2xvZV9BU2VEa3Q0ZldYRmxUcTE0Z2YyN3JZZHM3XzNHTy1XUk5ZTVpqNnRMVi1FdXE1LVlKRWU4cl9zRkpJd3diOFRYMHRpZ2ZWSUxnUV_SAeoBQVVfeXFMUEM5N2piczgxU0xucVJ2ODlJWS1oWFRqUlBUckJ0MldmdGQ3LU02UFVtRkRySkFUVGxxTnFkZnBZQnZBY1FnRFJQTUVfblV4TzNVa2ZoQk1nR1FxRHZOV2VyNDh0V1JHSTRKYkpsOEwwTXlNVUhyNENBTWhFR01ROGhnUDY5X01zZnZaX042VEtCdHFUam9GYVI5eURkOHlVNlVYSGVuVVhrX193VkNtMEJPci1KU1dBQXQ1MUVQZ3VjWHNQNmJNeW04RzE5V3hKbEVsUTlEMnpUY2xHdk10LWJJakYwVDhodGFn?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-23T13:21:21Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "89a22c5c973fa7b5fd7aea",
-      "title": "Pip assessments need 'fundamental overhaul', report to say",
-      "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-23T13:20:32Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
   "countries": [

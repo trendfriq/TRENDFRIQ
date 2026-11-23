@@ -1,5 +1,53 @@
 [
   {
+    "id": "6545db87281ad58ecc44f7",
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "source": "The Verge",
+    "published": "2026-11-23T20:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "72c65d25e7ff950d52289f",
+    "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+    "summary": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the co-founder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as CEO [&#8230;]",
+    "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+    "source": "The Verge",
+    "published": "2026-11-23T19:58:27Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-3.06.15-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ba7fe03235f718d9453a98",
+    "title": "How Jensen Huang ended up as Nvidia CEO again",
+    "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife [&#8230;]",
+    "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+    "source": "The Verge",
+    "published": "2026-11-23T19:57:18Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "63315e503b95e895689e3e",
+    "title": "ZMD Motors Plans Inventev Acquisition to Expand Electric Work Truck Capabilities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkE3OUNDOEZHZFh6QWY0ekstYzRSa3d2TU55YW9fNFJqcW11OE8tRU9DWjNhMmJDYlRtZjVsYV9LOG90SG5uSU5Id21XNGRxQ3QzOUFiN1J5TmZ4Tm5ubjZfZGlNX3hCd1BTWWdxamg5MzE2SnZUcXZVaXRUem9Cb3AteHpqTGFtcVVNeGVnMU5zdlBPcldhQ2Y5bUs2clBwWkNiS1lxdVpSb3pyNmlpempsenZoaVBK?oc=5",
+    "source": "Work Truck Online",
+    "published": "2026-11-23T19:41:38Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "357aee899bf00d655308e7",
     "title": "HBO Max is offering one of the best Black Friday deals we’ve seen this year",
     "summary": "If you&#8217;ve been meaning to catch up on Lanterns or the latest season of The Gilded Age, Thanksgiving weekend is the perfect time to do so. And thanks to HBO Max&#8217;s new Black Friday deal, new and returning subscribers can now watch both shows for less. The streaming service is currently offering a 50 percent [&#8230;]",
@@ -46,6 +94,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
+  },
+  {
+    "id": "d84ed05160896abf974645",
+    "title": "Trump Sees Nvidia's Huang as Key to US Open-Weight AI Models",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlpLXzNmVzJ2TGlMTDlIRllsR2d2b1VYU0NneFN1YzZnQ1VRdFZBWFMwNUIwUVgydVRtTmxkSlphc2tpM1AzRmg1QzBsSkZQWVoyRE9jSWpWU3FQNDNia0QtajNFZmE4ZkpUMjg0MVZEaWh4X0p1RURYNTVXYXd2WmRyaTNVMTBCenJaS1hfSkdWdDZEMDhtdTYtSHA?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-23T19:24:53Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "2d3e2276e202e9fe4f3058",
@@ -96,6 +156,18 @@
     "image": ""
   },
   {
+    "id": "5e758695ecb4320ecbb064",
+    "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuc25zRC1BX1dfTUlVb1dOR252a3luVjRBTVBlZk5qYkhUWTFOeWVyS1RRV3BhaFdYVkdGb3dpTVEyNWFvQUxzYzZLaVBITENOa2phcEprQ0JRdkk?oc=5",
+    "source": "BBC",
+    "published": "2026-11-23T19:13:49Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "abf39997284c1111472bdc",
     "title": "UN General Assembly Adopts, by Consensus, Landmark UAE-tabled Resolution Establishing Regular Water Conferences Every Three Years",
     "summary": "",
@@ -104,6 +176,18 @@
     "published": "2026-11-23T19:12:25Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "75971aa9ae7af9cb87fe60",
+    "title": "Michelin announces $28 million investment in Norwood plant",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnE2RmdRanRrQS1KcVBlN3ZmbUx0Q2xuTXEycDd2dUgtVm9Cc29zMDB1UlE2UFdlZERfNXNpNXo2ejdCVTA2ZHMtYUJSNmljN0VtS0xNTzhqT3VKVEtUSW9VbHpCUWw4cEl5djR2aDYwSl9yN1FYNzgzY250OWxLUUg5UzR3V3VnZHVBNDlTMEc1ZC1Lc0xWbkhMU1gyeG1l?oc=5",
+    "source": "Stanly News Journal",
+    "published": "2026-11-23T19:12:11Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -1246,6 +1330,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg"
+  },
+  {
+    "id": "43ff0d8ee93bcfa6d3d1b6",
+    "title": "European gas surges as cold snap threatens tight winter supplies | Sing Yee Ong & Mary Hui | Bloomberg News",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaG9zUEhuOHhZX3E2NXkxLTNwVEozeVB3SE5jendMSjJ0RE9uVmpkRlM2ZHRlY0hUbmZjcFJyODVucGR2Q2JQdXZDZGNHNjA5V2Z6UFRKRFdCaFVISFNac0FYYk5Vc0xISzQ0Yk1La0tJSTNWanRBMVlhWkFDTWFYYWtCZVU1UDUxcUZPNFVleDNlYzZqVFg5WDcxbDdCQ1YyWVUxaURUbEpmQQ?oc=5",
+    "source": "BusinessMirror",
+    "published": "2026-11-23T13:32:47Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "c21768189b7cd32039ba59",
@@ -2820,6 +2916,18 @@
     "image": ""
   },
   {
+    "id": "d52935b94af4456acff2f4",
+    "title": "Sarvam AI Token Factory launch spotlights India’s AI inference market",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHJ2Q3Z1cEgtTklYcUZYV1ZQMUlTcS1hQVJndDZHZWxtVHZNWnJVZDRRYmRUQjdySjlTYVAyZlViRV9KMkVBZXY2Ulc5TXpCdmI2RGRRTnQ3TVZuelQ5UHhVSGNnYjl2TU9BT2dXYVlad19KbmJmUi1UNWZUWDI1bFkwUGxIRjhCOC1TUTc2cDU2NlBpdTBSUDVBSHhmSmVxLUdmdWRiSW9nZw?oc=5",
+    "source": "TechGig",
+    "published": "2026-11-23T07:13:11Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "38cea551d2b3197ffa2748",
     "title": "Ant Group’s AI App Afu Open Sources Medical and Health AI Model Family",
     "summary": "",
@@ -2993,6 +3101,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVjZpQ1NSTDEzSUI1ZWo1UVkxVDAxdmtkVy15RmV5S3hRNVJMRi14Mk03clNnZXc0LUZmRmF6VkFsRVZBblEtSEQ1VFFRbXVnZi1mbnlTNTZpUDBZVF80bVNVTkNxMXFHYnY4YU8yYmcwRE9RZlp3aEQzTjNxNXMyT3otbVJmWHl1aFlySDRXMVBTY3RwVWZIbmlHajk2SEIwOHdiVUxkc3ZUV3EybUZ1cXpNYXlUNGx3YmRIemM3NnMzaWFHSVIwM1JLaE9adjlvZnk0RkxoLWZmN2Noalc5N2c5bVZsMWE4Vmd2eDJEbldIZw?oc=5",
     "source": "STT Info",
+    "published": "2026-11-23T06:30:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "07863aecdf166689d019a1",
+    "title": "Bureau Veritas Acquires Topo Solutions to Enhance Its AI-Powered Supply Chain Intelligence Offering",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeFVpZm9QeUhFdDBtYkRXODlEeDQ5VGh1dFc2ZnNFckdIQXVmVjFTSk1PYVFCdzBpTHhsNHZGRm9jNUxiaGlLQzRkYlJmZS1CTkFyTVJOTm9VaEFIYmtBX0VZRTZJY1lZdGtnbElBRU52S3RucmxQczM3QnpGRHlJeGpYWnZkTHBoU2NJU3hIcVU3TFRnamhXMVB3WGdZLUdzWmYxNUp3dElQREF0UmdDOUFMNzlLSUYzWkd4Tkc1YXhKRkJMOUdTY1pPaWRXWExyMm92eXFPYXhyYUZ5UjN6d25ycVYwdUNqem5pcHc4NzJ0ZzhNc1JsZDlzdl8?oc=5",
+    "source": "Via TT",
     "published": "2026-11-23T06:30:00Z",
     "category": "Brands",
     "topic": "Brands & business",
@@ -5098,6 +5218,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/01f2a7c8812c3e7155003a8cba98fa1d1d276816/618_0_4150_3321/master/4150.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd077153dc91b5bbf534f0e1959b1ca7"
+  },
+  {
+    "id": "d86938445948e9192111fe",
+    "title": "Oman’s digital economy contributes 9% to GDP",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWlIUDg5blJPQnVuS1Z3Zy1vd0RFY3VVc3NlSkNtX3c2RF8wd2pNVWpiR3BKMHdEbTdnVzJRekpCRVFLZU1zTUhCY2VxRl9DbkFrSXZDdjRzbTlfZW5mNDRMblJKWVJHbGlPZVRfVjkyX2RsaVJ5d2JXNWdsbmVMUElabXVXWTNxRkNaLQ?oc=5",
+    "source": "Arab News",
+    "published": "2026-11-22T11:54:37Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "c8e362eb47533edfb9d1f4",
