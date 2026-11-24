@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-24T21:41:24.342433Z",
+  "last_updated": "2026-11-24T22:42:29.107024Z",
   "articles": [
+    {
+      "id": "f507ee893942088988657b",
+      "title": "5 Tools That Help SaaS Startups Turn Email Subscribers Into Customers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWxfdkVUVnRfRnU5V3gya2ZseXdSVzZZZFNBQXc1NmdLM1ZFNnVXeEZvY2FMbTFoQ1RWYzZocGdPVU14Wllub1NybDdWbW10NEI4VUFpVS1zOHEyazJvaDNqZm1PWU9WcTdudXowV2lVbG54bTlxZEtGQjlCaFRtZWl0M1RIRUpnaDl5cTEtamQ0Nm10TVAxYWNR?oc=5",
+      "source": "quasa.io",
+      "published": "2026-11-24T22:29:23Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3f66369c8927dc1a5f3b57",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T22:27:52Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800"
+    },
+    {
+      "id": "762ce6d7fedd6d19f35349",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-24T22:24:23Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+      "id": "c8eac803e623f9c2d25cc8",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, according to reports from NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and [&#8230;]",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "source": "The Verge",
+      "published": "2026-11-24T22:23:27Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "51526959fd76ab404dd81c",
+      "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+      "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldw",
+      "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+      "source": "The Guardian",
+      "published": "2026-11-24T22:05:21Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc808307b5e3f691453f80b7c9300755"
+    },
+    {
+      "id": "a919734a680de1b27cada5",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:48:27Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "id": "9d1dc0a136002f6c22bcc8",
+      "title": "HP stock reverses course after hours despite quarterly results beat, dividend bump",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaERld1NLd2EzNUJRRV9mWGtLVWN4ZVhIeUlxcEV0a0VaMmhIWVdjWThzMENXVGs4c3MtSE1ZbTJFYlhlb3pkR2U5UmFCWlp3Q3NaalBMTzNqY3NVR0d4RU5oTFBVTnF1RTZsWnIzSzBZcFVGQm9hbnRCU1dvRmEwQ2JKc1RYTnZfSjJ2eTlTYWd2d3JGZHNlbE10TQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T21:45:54Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "115c5e781cf113c734df81",
+      "title": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T21:45:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "6cd9634b07ace6f4b22375",
       "title": "GTA VI PC recompilation project shut down by Take-Two",
@@ -38,22 +134,22 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
     },
     {
-      "id": "762ce6d7fedd6d19f35349",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-24T21:32:34Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
-    },
-    {
       "id": "02e2692513a2ac78ccf7b0",
       "title": "Top In-App Advertising Platforms (2026)",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5VXc3Q29YLTFYcXdHX0U4LTlEd2syS0wyUDRLVHZxU0JhZm1pelNHT1ZSYXNfdy1WcmNzdURpQTM0OTJkdWdKYlNTQm93RjkxaUpMQnZlMmdaamF0OVhhd1B2ME0?oc=5",
+      "source": "Business of Apps",
+      "published": "2026-11-24T21:25:08Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b07c161c6e5e1d200fd64a",
+      "title": "CPI Advertising Networks (2026)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LVXJHQlZYWXRxcFZPb3lmcWp4dzZNd3pwVHpNdlhMTjhLaXE3Y3BtR01kVFhUZXZFUXpyQ2lLZkJqZkdkSXBPNHdtb0JFNU9vMzNlWlZZS1lpX002ZXgtVw?oc=5",
       "source": "Business of Apps",
       "published": "2026-11-24T21:25:08Z",
       "category": "Brands",
@@ -70,6 +166,18 @@
       "published": "2026-11-24T21:23:58Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e02bed0b325c0fdff2dd3f",
+      "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTlCZ0VGckQ0c1JxcEZFME0yOFlNWXRhc3hZZFZFaEJHc042bXhSN2ZkNFJvQ25takthSGRLaVFwQjg1YlFLUGwtREhYVE1OUm5JYU10NTJNbFlZQ3ZyYmVBWG0yWVFKdXpxQWRTajl1anNzWmgyRmRob0pKNUNaTzF1SEMzX0J3aExDRmpDXy1WSDlfa04zVkROZW9OWHZRd0VvQkZ2N1FhbkcxY1BYOFQ5WQ?oc=5",
+      "source": "EU Reporter",
+      "published": "2026-11-24T21:22:43Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -96,6 +204,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "13354f8e661d4c4bd3f344",
+      "title": "Finance App Engagement Outpaces Installs in 2026: Adjust Global Insights Report",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzRUb1lTemxTZ0NDWmdoYWFETzY1NjlFbE1OdUhOV0RuaU8xTUJ1eThUdGtfVXBMS0VnV1gtTnowXzc2bFZIQnJ2WXplc050SGp1dXYwWi0xRWhMcEkzM3VESHQ0RWhfNDB4R0lfeHJJbGtSYVB3OEdXMFQ5bW9EcTR6aGlzcnVVUWxqSG4xRTRpeDZMRGJOdnFtVU9rN3NHNUFJRDRjRURraXFiRzY0SlVNZw?oc=5",
+      "source": "FF News",
+      "published": "2026-11-24T21:15:59Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2db777f1e5accc2701db6f",
@@ -158,6 +278,18 @@
       "image": ""
     },
     {
+      "id": "8e6fd53c9190c57a72dd0f",
+      "title": "Morolong: Reindustrialisation key to jobs, investment and inclusive economic growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN25TLUtzQ0ZPSEgtcFlpZFIyaWxjSUpxRFhpQ0xsbDMxUjZBQUZBMEg0U2NlU18ySVdkZjdySWJoQWRjT0hOWWJMNjNBUkpzRjA4QWM2cUh2YzdIa3VweHV2VHBTaWdzRkJ3WGtGZGlxWU1Da2NtdkpjV283dEVoU21mS2dLVDRIVUpUcVl2SHY3SmhVcm50YUcwQTRicjlsXzJ1Z2VVUTVHY2dPTFc4M1k3ZTVEODN4cVd3U0RrMA?oc=5",
+      "source": "South African Daily",
+      "published": "2026-11-24T20:58:54Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "17be8468b47252bd6653e3",
       "title": "National Security vs. the Stock Market",
       "summary": "",
@@ -180,6 +312,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=949179d57a8b9b15a085a25a39162ebd"
+    },
+    {
+      "id": "f7eead25b3ae8fe1e0d60d",
+      "title": "Why the US-China Truce Holds, for Now",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
+      "source": "The US-China Business Council",
+      "published": "2026-11-24T20:31:18Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2faf2fedd6b84aa69fd67c",
@@ -266,14 +410,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "8e6fd53c9190c57a72dd0f",
-      "title": "Morolong: Reindustrialisation key to jobs, investment and inclusive economic growth",
+      "id": "9f59eefe1617368334d920",
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN25TLUtzQ0ZPSEgtcFlpZFIyaWxjSUpxRFhpQ0xsbDMxUjZBQUZBMEg0U2NlU18ySVdkZjdySWJoQWRjT0hOWWJMNjNBUkpzRjA4QWM2cUh2YzdIa3VweHV2VHBTaWdzRkJ3WGtGZGlxWU1Da2NtdkpjV283dEVoU21mS2dLVDRIVUpUcVl2SHY3SmhVcm50YUcwQTRicjlsXzJ1Z2VVUTVHY2dPTFc4M1k3ZTVEODN4cVd3U0RrMA?oc=5",
-      "source": "South African Daily",
-      "published": "2026-11-24T19:57:05Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T19:54:59Z",
       "category": "World",
-      "topic": "Africa",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -310,6 +454,18 @@
       "published": "2026-11-24T19:13:52Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9f5a13f67e620f1af948c5",
+      "title": "Argentina economic activity declines 1.20% in September",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeF9MUVJZWUtjWkZmT0xrbjg4bUczUHF2VVJWZnZCcF9KTGZ6OV9ibGNXWjBrSk95c2FBOWlBSGFqdllHRzFiNjIyeXNIMlZfdS1udEI4QnV0aldwVmdpMHRlMXRWSjNBMkVZeHhlZThsZmUxRmhFQm1FNnVxd0UtSTE5ZEFVaUtTZnFzQnZoVEo4MlJ1Y21oWWxwdU42YWVEd2dTcnhQa3hLakQtQ2dVYS1xc1ZRU3hfLUlJQW12ODZhbi1EeU05VmF2OVgycGdaQkpEcUZzNTBwOWdaMl95WENqNmxqNk1LdXc?oc=5",
+      "source": "The Lufkin Daily News",
+      "published": "2026-11-24T19:11:40Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -458,18 +614,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800"
     },
     {
-      "id": "51526959fd76ab404dd81c",
-      "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-      "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldw",
-      "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-      "source": "The Guardian",
-      "published": "2026-11-24T18:00:24Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc808307b5e3f691453f80b7c9300755"
-    },
-    {
       "id": "547fb526a993b4fb0136f0",
       "title": "Mahama, Steinmeier rally German investors to tap Africa’s investment opportunities",
       "summary": "",
@@ -578,6 +722,18 @@
       "image": ""
     },
     {
+      "id": "6afcb8b7041c1d5d5f682e",
+      "title": "A Region Trapped between Republican War and Democratic Withdrawal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjFFaVd1emdTcGNwM1otRVlvdUFIRkRzdGRSaW1tbElkZVpQRWFLSms4WWRER2xUallSTks5Q2Jkc1poejRtV0FFajV5Sjh3M0RaYkRoRHBxcU1QWUNBMURYZEtwRngtQVVCQVk3SHpqOGc2NXRaWHY4WjZlVWNsUEVXTDg3WkdFeUZ5S18tZ0M3ZUE4WUJreGk3bHFlckdo?oc=5",
+      "source": "Middle East Council on Global Affairs",
+      "published": "2026-11-24T17:08:07Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1bacfc6abde8051b52d960",
       "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
       "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
@@ -610,6 +766,18 @@
       "published": "2026-11-24T16:58:40Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ba2f254cb73bd11320883f",
+      "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2xBdHctNDVmckhqTjVBMEJLSHowZ0h0U3JjdHVSTW5kckxQbmpnV1hsLVd0WVBtcE1jNGtJOXZtbUFXVkhvT2RCc1QxOHJaMEwyd29SbnE5dUtpVXc2RmMyelRUa1JtY3M5bmNkR05WRjUxVVdzc2NGMGJnbU9vZkJfNXY0OUU2QnZYUTlhN3dCYnVyYzBMU3pRMkwwR012Y2cxeHpuejJrV2dkb2RNYVJ1c2FpSTFzSkR4b1VNdjhGQ3BxLTBWc19CMzFQZ0RQX2ctTVFtdVU1YUctdkRtREJwajNOSWVOMDF2VTBLTmo?oc=5",
+      "source": "StreetInsider",
+      "published": "2026-11-24T16:50:57Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -722,18 +890,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "f7eead25b3ae8fe1e0d60d",
-      "title": "Why the US-China Truce Holds, for Now",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
-      "source": "The US-China Business Council",
-      "published": "2026-11-24T16:27:43Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "d7d928cc05d2d4f38cdb92",
       "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
       "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy The tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X. “Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley l",
@@ -794,6 +950,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "e38e30f73b7cf7452da60c",
+      "title": "American Express Elevates Jessica Ling as Chief Marketing Officer",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzJGQ2hJSVRMR19KU3BSWHZlUkxRWmVvcXRHQ0JSVVJuT2p1bmowUDh5cTNpMVlxclEyWk54Y0xyQWZ5QnA1eTZiX2pHZTVhc2Z2cHc0cGladEFXaGJjbTRBLWtmMDhsRmZtUENLQ0ZqMkZsS3h4V1lyakV1YXBhcnZxby1MbUs3Zy1zRER3?oc=5",
+      "source": "https://hrtoday.in/",
+      "published": "2026-11-24T16:03:35Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "22cc1bf342d89ca2fde4a9",
       "title": "Pinterest will now let parents limit the AI-generated content their teens see",
       "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
@@ -842,18 +1010,6 @@
       "image": ""
     },
     {
-      "id": "9f59eefe1617368334d920",
-      "title": "Trump’s Nvidia Move Heralds a New Front in Economic Intervention",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-24T15:59:07Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "352ca41f41cfcf5a0a29d5",
       "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
       "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
@@ -890,18 +1046,6 @@
       "image": ""
     },
     {
-      "id": "ba2f254cb73bd11320883f",
-      "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2xBdHctNDVmckhqTjVBMEJLSHowZ0h0U3JjdHVSTW5kckxQbmpnV1hsLVd0WVBtcE1jNGtJOXZtbUFXVkhvT2RCc1QxOHJaMEwyd29SbnE5dUtpVXc2RmMyelRUa1JtY3M5bmNkR05WRjUxVVdzc2NGMGJnbU9vZkJfNXY0OUU2QnZYUTlhN3dCYnVyYzBMU3pRMkwwR012Y2cxeHpuejJrV2dkb2RNYVJ1c2FpSTFzSkR4b1VNdjhGQ3BxLTBWc19CMzFQZ0RQX2ctTVFtdVU1YUctdkRtREJwajNOSWVOMDF2VTBLTmo?oc=5",
-      "source": "StreetInsider",
-      "published": "2026-11-24T15:46:20Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "c6150876df02e32b761ed4",
       "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration",
       "summary": "",
@@ -922,6 +1066,18 @@
       "published": "2026-11-24T15:44:00Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "173d50f7ef9b3aa22a0b63",
+      "title": "Italy and Azerbaijan developing 'ambitious' business, Tajani says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDJmdExXVHZzeVlCTVd1a0xqUVFuaVF1UDlWZG5wdzhpSnlmMGNKRWRiV2hsOE54MVJVLXBuS043Sjc1WHZuUmJpN3hsQ3RqNGE5cm9LN1F6aDI0N0FzcVcySUZTWVdwZXp1bHlFMzUwbTZPeFozRW41QXBCbXYxZjlIWlZldVc1cnF2NEVQa1hQNHdadzVSem8zRmJWTGxvTy1pelAydUtRdzI5U19PY1I1aVZiRks0QzZPNlFFX200VzA?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-24T15:40:54Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1282,162 +1438,6 @@
       "published": "2026-11-24T14:03:00Z",
       "category": "Brands",
       "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5072b807cc6b568f2cf6d2",
-      "title": "Efekta Convenes Global Leaders in Athens to Explore How AI Can Transform Education, Empower Teachers and Expand Economic Opportunity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjl5NGNsZWplVDNEd2tLakVGMFMyenlxb2VrNHBxRE5xa1A0b3FnWkhTRzdNb0Z5RXZVTUl1Vzhyb2FrUWJBUHdpQkJHZkZkNkEtbllOenZRLXJhZ3RvWnlhekZtWEhzSFkzNTRVc0JaM2gtbFJGcWctaGgtQy1yVkM4Q2xIU1g0b2pFTThVQUF3Z2NnZVZQZE5rejFSbEhxR2ZJ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-24T14:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6b3a7bb8d0563192ec907e",
-      "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
-      "summary": "Three weeks ago, Bambu Lab introduced the state of the art in home printing tech at $2,499 - now, you can get many of its fancy new features for less than half the price. Like that bigger H3C, the new $1,149 Bambu P3C can also swap between materials on the fly, mix different colors to [&#8230;]",
-      "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
-      "source": "The Verge",
-      "published": "2026-11-24T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/KV.jpg?quality=90&strip=all&crop=11.782117505974,5.2563716547388,81.791662183126,88.1517735134"
-    },
-    {
-      "id": "419d871b2754df212cfb9b",
-      "title": "3,167% Revenue Surge Can't Hide AI Company's Financial Trouble - Brand Engagement Network (NASDAQ:BNAI)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0ZSUk5nYUpxZEwtMDhjNTVjQ25ZY0JWakRJX1NoLVVzUWpQNlUwWFRMTVhrUm1aOXBWZkFTNUlEeThPT0dfdDNVQW1pUF95d1JZc1NyMGlmZ2RLREpGTTNYbkFLemEyX3JSRlRiTGw2MW9ndmI1SmdqMnUxWndtUE9XcG9vUFZnaDBoWTFtejNHa0RSSUs3THJVZGphcDVwTVk4akpOb1ZST1J0Mi1aa0tUZXlqangxOEpsQy0tbl8?oc=5",
-      "source": "Benzinga",
-      "published": "2026-11-24T13:58:45Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a95f0fc0ccc6247742fff6",
-      "title": "Mondelez International, Inc. (MDLZ) Stock Price, News, Quote & History",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3NWxwazRCSkdzTFR1NjlUZWprMzR4akhmeXQzRloyMTFtY1lXN25yVGlVVGpVTlQ3M2U2ODRhVVVaS1BqcTZBOU45ZFVVUkJxcWc?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-24T13:47:12Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "92f4c8ed6aaa1076bb05fd",
-      "title": "Mali: The women powering the economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTTlwcktwVkl2YjFXQXNHODh5MGJHX18wN0VZMTFUSTJmYVJpM3NseUljYTJSTl94Yjk0U2kxclFXNE9nVjNSZWFmZUNjcTRfa1lvT0Y5MGh4aUVJTjVlalVXZERWTmV0XzR3ME9mUU1ETDlLVGRsWmMwenpJOVVDaw?oc=5",
-      "source": "The Africa Report",
-      "published": "2026-11-24T13:38:10Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "13e106216370eb8cf07bf5",
-      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-      "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
-      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T13:29:53Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GTC-2024-Jensen-Huang-TechCrunch-Haje-Kamps.jpg?resize=1200,675"
-    },
-    {
-      "id": "0bf6f50836a978b7d4077b",
-      "title": "Indonesia puts ‘skin in the game’ to lure Chinese tech amid US rivalry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZF91T1pxYTV3R3otb1FVZ0FtbmpRNkZINkNaXzB6ZVZzU1N5XzZwdzlMZTRzQkYzelhWYS1jcGNjY2VGcC1DZlIyc1Q3Q0h1UDFTYkx2SDNzS1pGNm9ZNV9udC01QkE1d3FOdEtXcGNHQ0VfX0NudEFzNU51OEprV2RvenFyM0kxYjFjb2pOeTB6bmFWOG1YZmVWQjY3anFnU080S1k4X2JGU1AyV3lEWmdVTmVWVFE5MzZDWTUyZ1dWQ0FQbF81V2t5WkRlUk9PVnJTU1QtcGV4OHVBaFNSWl93?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-24T13:26:16Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9a97c847144c84efe9153d",
-      "title": "Indonesia puts ‘skin in the game’ to lure Chinese tech amid US rivalry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0RXeG1LUVprOW1sNTdlMkdQNmlUVDU4SFBraUxFaTdhZkh4dGc2RlVnLWR2RUlYWml6dlp0OU5wWjJRQlZfNng5Tnc3aGRPeldkUVNfQ0pmY0RTSTltWWl5alpKM0d6UWV1U3ZMb3RjNVFROF9saW15YUpYc1M0bmlVLXFGMjRTUDdaMmZVS00xNHRNWUkyMlpVVU5rVDhkS3haN2dNODllSEcwTS1zLXNibWhoNE9uM0FlV0FYdk0wVmh6Y3c?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-24T13:26:16Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b6537b212fae7a24124e68",
-      "title": "Indonesia puts ‘skin in the game’ to lure Chinese tech amid US rivalry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHNic1dyM0g5LWdhVjdTVnJvZXNjN05GRE1LOFVvUUp0YlRZZE9JdWY0US1PS0poSFRnSDVRMUhIT0wyY2V1NjVLd0MtWlJ0SFB5V2xLRHEwZkw3Z1o3alRhU1ZJU202bUNrUGdvNjc1bnBKaG1XaC00dHJzV1hndjB6b21Fd1RKSmc4MGIyYnhXamVWQ01NMkZOeWNNSXd2V0dzd2pRME5jdmxMa1VUY09GeHNXQdIBtgFBVV95cUxPaWxoNTdXbVhUYVljVUhHZ00wMnVWY0NTbnJ5eGVkUnA4ZVBtRDRKUWVrQW5FS3ktWmZ6aTRacTd1RzhON1lnaUdVOFFaaDBUME9ya2VVNDBlVHNmTzg1aG93TzBvUThQc2doVjdfMVZWbUphZ3p0b04xTUR0eU5IWEZFckJDb215UXoyMDBtd013M05BR2ZNczZCT202UlFHM0h2dnQwWml1ZVExYXpQc1dwTXlTZw?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-24T13:26:16Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c560969cf6b6183d3cca6f",
-      "title": "Tomra Explores Funding Options for Plastics Recycling Expansion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemw0bDV5TXJlUEQxN29fWC0tTXB6QUhjdGFBaEFtZjFkQml2YW5mOEE2dXIzQ0RzTzJEU1g5SVFiRFhJdTRBcklHYUstZ0QzVG9TVnZuLWlfaHhZQzl0VERWUGdVYlFtUG9tczgzOTh5d3JWOURQTmJpaUhJaFRlS3A2ajN4N3E2RlBRbGlmQi12X3ZVVjFzbFU5cS1xLVU?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T13:24:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "63e574cdb9c49851151492",
-      "title": "Experts warn against protectionism, call for pragmatic China-EU engagement",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VNUMtQU9sRkg5Vm9zUVhZUWluWUtBZE1PZmI2Z1VIR3pfdTd2em5EWUEwcEJDbHZRS1lGeHltMXpfRDJrVXBQdFNSMll0RzF4WmFCV1NfOFdQU3dxdHNlOVBxOEsydw?oc=5",
-      "source": "Guangdong News",
-      "published": "2026-11-24T13:23:01Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c3268c56cdaf14c32ffc10",
-      "title": "CIBC plans new capital markets presence in Abu Dhabi",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXB2R0lzNVYyQ2otTDRZNkp6NWw0UlQ3aXQyeUwxRGZxZWhKb1V1UTRRN1JmZzNHSTJKRG9zVEEyRkdwdnlPa2ViVG1XNFlwbDJWNGJvbEZnSnd3U1lSR2JxTzVqNV9PaXRwYmpHclNZbmdSamtZd2FKVlU4YngwbGo3ZS1zV0k4ODNLcDJ3WndyQ3RHZDhkdkw5UF8tTFRRUG9VdDFiVXZqOHpVWFZtZzFEZTlwdw?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-24T13:17:44Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "99a550a2eff98e755b46c2",
-      "title": "Swiss Lawmakers Endorse 90% CET1 Capital Plan for UBS Subsidiaries",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmxSLV9JOXBHXzZpNTFRMmtwOWRRc084Q0dPUTNJODJaY2h6eGJrVEs0UU02ZTN2aFg3a0dGY0pVX25PSnFHS2VjZ3VRNkhjdzdtN3BJMEFHcFEwaURpZ09YM2l3UTNyUktiZGJUaXFzMnhqdjRUM2ZfRVdnR0NaZkhSbHViNS1YUkFDVmlBWE95d29DZ0w0RHFSYzg2QQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T13:14:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }
