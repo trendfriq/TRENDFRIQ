@@ -1,5 +1,89 @@
 [
   {
+    "id": "b68502d162ee9e06f7de31",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "source": "TechCrunch",
+    "published": "2026-11-24T18:30:42Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594"
+  },
+  {
+    "id": "a4e986911abd23a3edb86c",
+    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+    "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+    "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-24T18:21:43Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg"
+  },
+  {
+    "id": "ee49075fab924212ef4028",
+    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+    "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+    "source": "The Verge",
+    "published": "2026-11-24T18:15:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100"
+  },
+  {
+    "id": "75a3a86ed42c87797de443",
+    "title": "Armed men take hostages at supermarket in one of Colombia’s top tourist destinations",
+    "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding an unknown number of people hostage, Colombian police said. Footage shared on social media showed dozens of people rus",
+    "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+    "source": "The Guardian",
+    "published": "2026-11-24T18:08:04Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
+  },
+  {
+    "id": "a15f266d5fa6e5a5fe678e",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "source": "TechCrunch",
+    "published": "2026-11-24T18:02:59Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800"
+  },
+  {
+    "id": "51526959fd76ab404dd81c",
+    "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+    "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldw",
+    "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+    "source": "The Guardian",
+    "published": "2026-11-24T18:00:24Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc808307b5e3f691453f80b7c9300755"
+  },
+  {
+    "id": "a547ac10f3b5288e24f675",
+    "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+    "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+    "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+    "source": "TechCrunch",
+    "published": "2026-11-24T17:44:34Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-app-store-GettyImages-2262056893.jpg?w=1024"
+  },
+  {
     "id": "db581e66bbd07e6d6103bc",
     "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
     "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of the best we’ve tested for up to 60 percent [&#8230;]",
@@ -36,6 +120,18 @@
     "image": ""
   },
   {
+    "id": "7b809222669d99525a7f7b",
+    "title": "Two tech companies tried to reinvent the e-bike. Why DJI's Amflow soared while Rivian's ALSO floundered",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd2phMjdGcGQ2Vjg4V1JELXpwUElyaTVwMkFKakdrZG9aaUpfWTgxT3dYQTNyODctSkhDdTIwOEZ0WkZTdU5pcmtQSzk4QnlNZkdYbHVGTFZJdy11YzRmX0I1S1g0X29NaXdITVhnM2E1ZUN0cUQ4enQ2UTF5LTdZdW5fZVpaOWlIUTVXbmdxQjFHN1ZIOWVFZ2VTT1RXUko4R3Y5QTlpUk9QUmxHUVBpTzRRVFRQRTlzc2VuOTFBYUpjYmJnRmNaaHhqMjE?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-24T17:19:00Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "09e62d6e11167de49a84f0",
     "title": "Tidal will start banning AI-generated music next month",
     "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
@@ -46,6 +142,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9b3e5bb6883339f0999d2f",
+    "title": "Earnings call transcript: MS&AD Insurance misses Q2 2026 EPS, raises profit outlook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUd5NkJ6aTA5SDNRZEZtUFdLS1g4ZVBPeEg0VXVYZVpCVWkwRnlBMXJycldyU1dsa1Fwd0M5T0wxTS1KdHhFMGN5ZFR4a1o0MHZGVDdQSFBmZFZ3NXlZVlNiYUdKRy1ibnpaQ2JUTWhfZl9sbkNMZ1JzRjVzU1c5WjUwR3plSzlNUnltcjkyYm9nUmJpX2VzTTNEZEx0V01ZMGlmeENZX3dqV21nbXRZZGdEQ25VTGNSVXA1QzBfdUIyWkJTN2pKcHBQN1JDb0FpTm9DZEFWMVo?oc=5",
+    "source": "Investing.com UK",
+    "published": "2026-11-24T17:10:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "2a1422ea57bb08bb754c14",
@@ -94,6 +202,18 @@
     "topic": "Asia Pacific",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "a77a44f3631df5681de09a",
+    "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+    "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+    "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-24T16:49:07Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg"
   },
   {
     "id": "022f717aafc7a3a3d2acfb",
@@ -168,6 +288,18 @@
     "image": ""
   },
   {
+    "id": "d7d928cc05d2d4f38cdb92",
+    "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
+    "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy The tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X. “Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley l",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+    "source": "The Guardian",
+    "published": "2026-11-24T16:27:41Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/37b2869f7bd05de287d811e35f9d87f7014da37e/848_0_5407_4326/master/5407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ed7c540f9bb509e6e84c8e3da1e428f"
+  },
+  {
     "id": "5907c01600c34dc2c70ef8",
     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
     "summary": "",
@@ -240,6 +372,18 @@
     "image": "https://i.guim.co.uk/img/media/10e1ca6b5f3fb26e97a3db600a8ac46bde25afdf/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d967ddbbdcdd3343f93e5180396f1db"
   },
   {
+    "id": "c79231b9e808d610f739fa",
+    "title": "South Africa’s investment rate fell below 15% in 2024, IRR says",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFVxX2ZUU1B5YVhfTWRad1hEVWUyUVFvU2ZDNndDd1g5Y3hESmVNWXJfSHIwNTFaQTZRWmVnaGNmOXFtMGtpM2lfaXJQbTJjTktUM3ctVG5ncVFwUjhsdGg1ZklSSEp3NHA1YkZlc051NDNLb0VHU0N2TkhIX2ZJOU0tX1hCUDdFM2RCbUppdEEwRndtSk1yRkRUQ1JwUFN5d2RRM2xXMA?oc=5",
+    "source": "thenational.co.za",
+    "published": "2026-11-24T16:00:00Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "9f59eefe1617368334d920",
     "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
     "summary": "",
@@ -293,6 +437,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWng4TGlsS1h0RjNIZG5FcWpNblBMenVNZTJ1NHZQeHhJd0VpSGk3S2xsa1A1dll6OHNYMlJNbEl6YlBQMnNTYU9LNEg0RExQX3cybm9mYTJLbjRkMzJHWUU1R2xKR0JpYXZNR3ZkYk1ENEhVWW5seTJBSjMtb2hXUmFRTkJmbWk3aWhSbWFn?oc=5",
     "source": "Yahoo Finance UK",
+    "published": "2026-11-24T15:44:00Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1a212b5455d7805fb28aaa",
+    "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNjRsZ0puVzdnLTFTeENQM1RsdW5wZEpNRGo0bGlYNTVKWEdMWFZ6anhlVmh0OHBhOXAxbHFteVgyR1NRTmdERXk1eS1jdHRHSGZ4VWxjYm9YcmVEd1hkVU5LX0lNc0V2TW5BSERLRS15YXV2RXdOb21pR19ibkRiUFNuc1JOSnczUmsyMHQwNGlORVZ5QjNTY0hDSFJ0dVE1VEdRcDVSTUF3aUFVamJ3Wm9kanZ2NmVDSGx0SjVOQmtpOEw2ZDRBRjUzam1NejVoa1BaSENuQzRKTU51a0hBQi1pREFTU2lrdERHV0loQzh6a0lRQXI5UkJvRWNsNmFtRjU3QThOSzN4Z0RiQ0RJNVZfUEdyZ0JxY29LbnRtRldtdG8?oc=5",
+    "source": "WBOC TV",
     "published": "2026-11-24T15:44:00Z",
     "category": "Technology",
     "topic": "Technology",
@@ -416,6 +572,18 @@
     "published": "2026-11-24T15:00:39Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e938aa47e856335eec7fcf",
+    "title": "Cboe Launches KPI Binary Options, a New Way to Trade the Numbers Behind Earnings",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSkN2ZG5qTkFfTWNuTnZEUUxtNDNtalRLaTZIMUZkc0NiX1lHaHB1WmZBbWxlV2Jjc3FoZjU4aDVLdU9UWGlES1FZUnFETXBra2Q3cmRGZ3VjNC1aV2ZSM1VaazZGeWR3cmJUX01CSS0tMVdrTzc2ZERRUW5QVC1kNWtleW1iTUxwVzY3ZTNlbnVUQ0FoSEw3YTZvSmZ6NWh1MXRxVXpjR2lNRFZIS0xTWWpmN0N0OENOUGU3d2pMMmYybDJMOWthY3gyTHI5eExDOGt0M3ZPcw?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-24T15:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -864,6 +1032,18 @@
     "image": ""
   },
   {
+    "id": "de19b87a4e96f3915110b1",
+    "title": "Maximus Q4 Earnings & Revenues Beat Estimates, Stock Gains 7.9%",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajl5WlhVQkhsdFlCLTdwdkFUUWVxNTJyWW5XN2U5cnVPb2gycm1jMGtaOENCMGpwMXFoTG1Za3BaQmc1TFNXUzRYcnVuWlZ3VUp5NWxScXNHdlJXNVp3bmlDbm93N0JBSTBRTU9ub1k5X01qSk9qa3duc1gxbDdwT24zOTE5TzVIQVA4LW1Sb052eTNnX0ZTcFl5M0ptaGY5ZEtaLUszQlpPcm9yNDFGUFhXM2Y5dw?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-24T12:06:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "94cc459eb575f5d21f2a61",
     "title": "Fitch issues neutral outlook for global sovereigns in 2027 amid flat GDP growth",
     "summary": "",
@@ -892,6 +1072,18 @@
     "title": "Amber International Holding Limited to Report Third Quarter 2026 Financial Results and Host Earnings Call on December 1, 2026",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZWlxdVYxa2JxOUlzeVNsZFdrMGFPckI4TGRXMF82MmNwQmN4dTJYNGljVS0wZG01S2pnbWpsZ3hjcmp3QzluZy13bGEwSC1KLS1mRnZ4eVd2UndiejQxYXZNb21WZlZfbEVCQmZkT2tleko1OGYteko1ZzVyTk9uM292dzFsa0VLM2tDaXNyY2RsVXRjejRBWEdZeFZhTkZOZk1RSk5hOHVXOXV4czRUbnlIOVRJWHBqU0tnN1FaVGZ2dFJWWkVzY2g4SnZ4WkFzZlphc05BRDJkNi1iMHhPTE02WXlrN3RXOHNuRkMySmJtZGVQRkliXzY0dWVfcm5jZVJxNDVMOUhiR05wcUg5WmtjQQ?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-24T12:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e10e99461e412f568cb642",
+    "title": "Amber International Holding Limited to Report Third Quarter 2026 Financial Results and Host Earnings Call on December 1, 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMnZoZXR3R2ZuU1hFWDZzVUFkZW1aalBYbUNSSkgzN1AwWFpmaVNoMWlGSlRJNEM3SnRIR2c2Rjlsbm80Wlh6VEJIMjh6VWt4SmtiSXNYSzQycVRJRktQZkpabmRtTDlodUllZTR4OGxhZnhjZUxMei0tbFo4Ry1HdHhZS3hKM2VzbjM3UUlDRFBldXZsVkppdlQwUEpoQTQwblZQS1VLV3kwN19tQk1ZNG1IZkN3LVRpSEMtRUxVTE03bTMyOWdRVmhTVGN2TkppbC1NUzVMMnJjMzhkWmRWbTBhX2R1NmhwSFNENWtsQW11aFBzUWNsTk5iMHByRjBlMllweXhPakYzZXhydXlfTm5Taw?oc=5",
     "source": "TradingView",
     "published": "2026-11-24T12:00:00Z",
     "category": "Finance",
@@ -994,6 +1186,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg"
+  },
+  {
+    "id": "72346051b77c59f0738e5f",
+    "title": "China launches AI research platform to help scientists investigate weather and climate",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZbXhIUXVwUzRuMkpIcjladWRDWVhDeG8tMEVKQkhoUktIQjU0U05NbDQybzgxUXJfNDRITHA5MkFSSDZCamQxSkxTd0xjOENPZGZjeGlyN2RfQmxfVDFVQVBR?oc=5",
+    "source": "Global Times",
+    "published": "2026-11-24T11:43:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "7d7f4d8307ee3c66b9f08c",
@@ -1412,6 +1616,18 @@
     "published": "2026-11-24T09:46:39Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a497c1017f2cf124ce61a8",
+    "title": "Mumbai Enters Asia-Pacific's Top 10 Property Markets. Here's What Helped",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWZNTllSSjk0aUdsN2RYM3FOTEVTdDdaSk1vd25oaFBYcFlSbk0zNjFfN21LRDN1bmNaNzhIX0w5dDdnUEo0ZFlUTG5XYkpOOHNqM3Vwc0tWdlI4NkhXR29CcTYxOVZSTUQ5VFB2ZW1DcElYVVVPb1ZfZTBIZml3U0FoR010TENxc1Z3UEFZTmFhTXJrZEFDUF9uV0R2WElqSHlzX1JmNi1id2tpSi1qUU5adUw5R1dYekow0gHDAUFVX3lxTFBGbUZXbFFUYkJQMmpKQlF1a3FWTzRNU1ZoZ1IxWlN6enQ5TTNEbUJpYlZuQjlSQzlSSXhHVktqQVVaQ2FMTXNDQXl0YnIwak9OZVAzMjhyUzJ0YV9rVlJBRFRncjc3eEFlNHFjdUtDODVMdUdObTg2Zjg0MzlwTzNqS3gyanB1d0tMeTdXMU1OZzVEaFJHejFubWhmY1M4SGx3THZFTWYyWlUyakxGUzlFQUxDU3N2RzlXN3F3d3FLN2tVWQ?oc=5",
+    "source": "NDTV",
+    "published": "2026-11-24T09:44:36Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -6924,6 +7140,18 @@
     "image": ""
   },
   {
+    "id": "123f183192fb2dd7bc6d5e",
+    "title": "Middle East Economy Watch - November 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTlA5cDBkelgySjNoczlyeTFvNElHR2tpdFU5aEhNRkRWaGpvRkN4dk9XXzlVOWNSVmdLSTFXWC02NnpLMDRnYURlZVVlejZNLVhtRUFsWlV3NEx2SEJCd2FIci1pcHFVZGdRSWUyVEg1TUFKS3N4R0IwYmxYS2VCZnpYOTZDcGliVjlZ?oc=5",
+    "source": "PwC",
+    "published": "2026-11-23T08:00:00Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "ee8bb370f8b19d7998b560",
     "title": "Momentum: Deepening Google’s commitment to India’s startups",
     "summary": "",
@@ -9860,6 +10088,18 @@
     "published": "2026-11-22T08:00:00Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "73c254dad28fdce59556e9",
+    "title": "Company earnings calendar",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhY0U4b2lvWHJNTUlKTzgyMHBUSUFoalBKWE1YM1NOeldnX3Y3SnRSaWU3UjZKeVRTa2UyazIzOHhaaEVtcWlHOEF2eVhjdGMtM21lQkZSa3ZpM2c?oc=5",
+    "source": "Yahoo Finance UK",
+    "published": "2026-11-22T08:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
