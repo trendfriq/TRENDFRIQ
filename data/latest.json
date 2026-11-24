@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-24T03:59:27.589177Z",
+  "last_updated": "2026-11-24T05:08:16.576626Z",
   "articles": [
+    {
+      "id": "25d043b118adad46fcdfb8",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-24T04:36:31Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
     {
       "id": "75b573c973cb26a5627b85",
       "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
@@ -24,6 +36,18 @@
       "topic": "Africa",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "8a11be66dc0b8ac7441343",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T02:15:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg"
     },
     {
       "id": "d6c7aaa7b81c7da64db45a",
@@ -132,18 +156,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "25d043b118adad46fcdfb8",
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-24T01:11:54Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
     },
     {
       "id": "5dfc30a24690a517313590",
@@ -1426,18 +1438,6 @@
       "published": "2026-11-23T18:22:53Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d5699331fd366d2ecd06ea",
-      "title": "African governments urged to create enabling environment for investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnFCUHdUTVY5TFFncHZyZVg4NWE3S09WbTgtYmdLM2hrTXlUaWFOcUdSMDhDNGd6TWJibFJjSE1VcHB2ZjZXM2MxZC0zOTdYZV9WV1ZCc0RiYTg5TDZhUXpLYmlDY3NoUU94cDV1eEhmYVBtTDRuTGtvd2QtQnZYLUQzN3FYQkViVlhsSHBBNDVyb0pManVvY3cwejRYdDd4?oc=5",
-      "source": "Ghana News Agency",
-      "published": "2026-11-23T18:22:33Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
