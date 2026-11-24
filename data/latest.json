@@ -1,17 +1,77 @@
 {
-  "last_updated": "2026-11-24T07:44:50.678959Z",
+  "last_updated": "2026-11-24T08:49:20.584891Z",
   "articles": [
     {
       "id": "d27c313a3612fa928e7fdb",
       "title": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
-      "summary": "Rolling coverage of the latest economic and financial news Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return as Nvidia’s CEO could, perhaps surprisingly, be painful for US borrowers. That’s because America’s central bank is more likely to raise interest rates if they’re not facing a bursting AI bubble. With fears",
+      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ",
       "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T07:28:49Z",
+      "published": "2026-11-24T08:45:45Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=153a51d289fd16cd48268ed59b19e1de"
+    },
+    {
+      "id": "ff6c6aedbd710a87e341b9",
+      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T08:35:41Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
+    },
+    {
+      "id": "78a9c299792c7c992e2023",
+      "title": "New book highlights investment opportunities in Africa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAySk5Ja2tBemxXVy1qMkw0VXlsZDQ5UlNDcTFvTTNZbFRDRnIxSDQ3UFJNb1dYZS0tb00wVWNJRGdtX25mSHZja3p5RVItYWtVbWdrb1cyclRUTmlsSzlwWnJRenVCTjVoR3k4cVVIcmVTLVEwcUtxNG1LS2ZnZw?oc=5",
+      "source": "China Daily",
+      "published": "2026-11-24T08:29:49Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5d6d1bd41f63e96df8fd9a",
+      "title": "Opinion: Biotech’s fear of global expansion is overblown, risks destroying asset value",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeG9Wb0owUW5ob3FaRWxwSm9WdlVCd2RhV0N6UTV0VE1zMmNnUnBQNGxjdkljaEdOLWQ1R3VKbXpwYmtBOTlMSXdFLTVjMk9mZ3FxTlVDZWlrSGhZOWhnaUtJVDdaY3IwVEtQbjdvN0l6NWhJM2xlOGxncXdWWVlTVGNBR0IzaFpxLUNxQm9aeEFlQ25EZ1hmWklRN3poVFUxWWRIQXR5SllqTVBhUWNVMW1iVGJzREhF?oc=5",
+      "source": "BioSpace",
+      "published": "2026-11-24T08:20:57Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f2588a118a57de257c9aab",
+      "title": "Jensen Huang is back – Is it time to buy AI stocks again?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFNLaXZKR0thNlVnT0E1T3VFOHd3aF9YdHVOU1RyMnhPRWtTaUdCNW1iTTVBVUZZNV85VndaYzNJZ3llNEJjN2lkMHBWQ2F1RDN6ZmFzZy13aEtJdXJhbHliZ291MC1pRWVEXzJKWkdnNjJaNmhTUWs5eHJnRGZzRk45QnM5dEZ6TFVORzVOd3I0emlfUG50R2xqNExqQQ?oc=5",
+      "source": "FXStreet",
+      "published": "2026-11-24T08:19:57Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9f9c8e6150f42265240971",
+      "title": "UP Fintech Holding Limited Reports Unaudited Third Quarter 2026 Financial Results",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdjR2dzFHS3lhWjVEeWNUZk10bUpqNnhxaWpJcFllcG9lQlZxeWVQcFVqMG9wdDV4b1FTdWtqVzhUUklmby0wWmE2TjdKNG51Y2JUS3VzM2swNWpiMUR0R0RZRUZsTG8xRGNONEtJWmlvX1BuenNZaU94LUxuQmVCT25zTzVrZ3pWb2hfaG1tTVJuemNrd050MTVTY2M4ZjV5b2RCMV9UbzRkaEhkTnZ4QlZYYWw2ZnhhWE5ULWhPLUpKcE01TFZueGJ6VDhJbGJnSlFGN2kyRDEySE92T2xQTW1JX3dfMHRyX1RKNk53Y2FGbVVuU05mbUhSNjM2MThYaG1kUFBQS21lb05Ld3FjUW5SVQ?oc=5",
+      "source": "mykxlg.com",
+      "published": "2026-11-24T08:00:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1d77decefece7233fa3570",
@@ -74,6 +134,18 @@
       "image": ""
     },
     {
+      "id": "ed4718421380908280db9b",
+      "title": "Sanofi Acquires US Drugmaker Insmed in $41 Billion Deal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDl2S2haQ1BnQ2MzaW8ySndraEl5Vm1wbXhER3YyNzUzbDI0R2xlZGFpdnEyM1VQODd2SmRhQjV6N1FUZG5GRjVKSVFOU3J2TEtydGRUMmluYmM3LS0wZ1FTS04yOExvTzN0OWZQMndpRFI5ZVNrMHc3QmJmV2w1Q1dPbl8?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-24T06:47:39Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "3f86b2806a370b0a06c221",
       "title": "India-EU free trade pact to open new opportunities for trade, investment: German state leader",
       "summary": "",
@@ -84,6 +156,18 @@
       "topic": "Europe",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "b1d82f5106d46801c847a0",
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T06:23:01Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg"
     },
     {
       "id": "e8918fdd5d929c9eac0ff0",
@@ -120,6 +204,18 @@
       "topic": "Africa",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "834d96917f63ecc549fe52",
+      "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+      "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Want to avoid the Christmas shopping hordes? Then let your AI agent do it. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on their apps – and the high street. Muse has been a hit in the US and is",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+      "source": "The Guardian",
+      "published": "2026-11-24T06:00:07Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/54771ca72dfba09d32535c72c90ff667400f9d2e/405_0_3242_2593/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5e9c7811f9e60cccfe93b4fd3ed7a56"
     },
     {
       "id": "84343938fb07038a30400b",
@@ -210,6 +306,18 @@
       "title": "Umbro appoints Absurd for launch of new global website built on Umbraco Cloud platform",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUFzRzhhZkQtXzBzQ2VGLU0wWXR4YVdXNTRTd1l4WDUtaVpWOGZzcHBwb19uUkw2cW12ZnFVQWtDeWFiUmd3UWl2bkdJM0NJeUJZRy0tOW15QVM2T1EzcVJrei1zU3M3dDBBR0lkeDdWMFYtM3BzWEF4NU80NlV2b0dHSUtSXzdXTlhhLXZaZzRUVl9TWFNCQklIQ0NobGFBMGFieGEtRGpjVTBwbG5kQWxJbUt1RnY2Y1V6dkhUYVRKbTY0N1hOZjI2dUNUMDJfVE8taTVnSzdxUQ?oc=5",
+      "source": "Retail Technology Innovation Hub",
+      "published": "2026-11-24T05:23:22Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "979ef46515f550f57835fa",
+      "title": "Umbro appoints Absurd for launch of new global website built on Umbraco Cloud platform",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUx1X0JlQl9zVnhPaWItcVk2WlA5VXpPYlQ4WFVOVmlhV2VOQUZ1azVxSFdsMmZJQ0d1Q1lDRWFXdUhObmdJRzY5U1pKczNldWREakFrZk9aZUNoclM1M3Jvbk1DbEU1dDVrUmtiUnQ0YnJVTmg3MFNBMWtfOWMwaFI5QnBLemhDZm1TYXdQY2htTEEyWGQxUnNwU0FNZE5BYWVhSlMtcjVfWTZVTFIwZFZXSElNN0g3VlVFNDhnMDdZNGlFQ0ZwdV93YkM4YUY1aHNwSA?oc=5",
       "source": "Retail Technology Innovation Hub",
       "published": "2026-11-24T05:23:22Z",
       "category": "Brands",
@@ -310,6 +418,18 @@
       "published": "2026-11-24T04:05:31Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9bcf267f4c27fe2d7ee03d",
+      "title": "AHK report: Business expectations in Africa exceed the global average",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWZiUlF5ZFo1U1lwQzdzQnFlZW04N0JtUWdsRFhScms2Q0VFYmxmNi1sSnpQcEFBMG9EZ0pSbFc0ZUlMMlFDMFVXZmRhcnBoQWo4M1Q2b2V6RWgzaThHS0IyV1RuWTZmZXBSN1FTdnpETVNDdEpYaXhOOFF5ZVVGZVRPLXR0Sk81bl84SmxqdXg0NC15NnNZa21ZSWxoSEwtTWd0emhR?oc=5",
+      "source": "Table.Briefings",
+      "published": "2026-11-24T04:01:28Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -446,6 +566,18 @@
       "image": ""
     },
     {
+      "id": "be027ecdd9ea153ce4efba",
+      "title": "Ramaphosa's AI investment push faces power, water and policy hurdles",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHZ1SUphQW1maEZibUhZck9FYnpVM2p5N2liV01nZElBbXBwMG5QN1AxblZGenJnX2FnaVNkTVBKUTR2ZEJwQ0JEOG56eXlHSEV0bTlLNDJrQmJWZGpVVmpjS3N0QUhfSWhfLTdqa0t2TXU0S0k0WTVLRFl6NEVfWFp5TUxza05NVXVfdmFSTER5cmFvS3E5R01HZzJNSDBteGotbkkxbnNxZ1lzVVc4?oc=5",
+      "source": "thenational.co.za",
+      "published": "2026-11-24T02:00:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2b2997f00b214f16003397",
       "title": "Nvidia CEO Jensen Huang Exonerated Amid Scandal, Stock Surges",
       "summary": "",
@@ -496,14 +628,14 @@
     {
       "id": "efda50d063378404bb94cb",
       "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
-      "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Jensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most valuable chip company, following a whiplash series of events that involved a romantic affair with a",
+      "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Jensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s mos",
       "url": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
       "source": "The Guardian",
       "published": "2026-11-24T01:34:39Z",
       "category": "Technology",
       "topic": "The Guardian",
       "country": "",
-      "image": "https://i.guim.co.uk/img/media/acc6b55b5a2588de1743b839ccdd4877f7978618/463_0_4821_3856/master/4821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebd7127b427e17404d8c469674ed1309"
+      "image": "https://i.guim.co.uk/img/media/b36866e4597343306435e9e2317bfaf812bcaa9d/0_608_1536_1228/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48ee1fde1b01d9b118b6d121d18dfa7a"
     },
     {
       "id": "157327e9e0ce4b00584ff0",
@@ -696,6 +828,30 @@
       "topic": "Europe",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "e0eefaba30315faeffdd63",
+      "title": "Nvidia CEO Jensen Huang’s Return Sparks Relief Across AI Markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXp1eFd0VlBnVnh0bUk4WjVyMEd6MlBqaHZzN1JRV29uQzhxclduTFpRUmFEbkZPVjdiT1ZsMDhLY3k3SXlOQ09FZzhfOTc1aXZqeDh2dTU4VW4yTk5vWnNBdHlzZGdlWmxMTWktOUJpNjJtMElWMWF2SU4tNmdLaGpNTWJoWGpVZGJPX0tLMHRxekZRdjhzNw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-24T00:19:25Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f53d7a9d4f31c892a618b6",
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-24T00:11:08Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg"
     },
     {
       "id": "0ff2877103f30dc0bf7bf2",
@@ -1282,162 +1438,6 @@
       "published": "2026-11-23T21:25:02Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d5d2228e02af8ab1fc7d70",
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T21:24:47Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
-    },
-    {
-      "id": "3b5fce3baff0040faec167",
-      "title": "Nvidia’s value jumped by $950bn as shares close at $165.05 after surprise return of CEO Jensen Huang – as it happened",
-      "summary": "New value still half a trillion dollars lower than before affair was revealed; Trump hails Huang as a ‘great patriot and national treasure’ US reactions to Jensen Huang return – US politics live Jensen Huang reinstated as Nvidia CEO Timeline: fall and comeback of Jensen Huang Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record lo",
-      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-23T21:24:07Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/170c53dae32ff033a36f686b5d20fe6b904fdae5/297_0_5407_4326/master/5407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e15b40afec8caa81c0f43a46863968e"
-    },
-    {
-      "id": "90dea8d2d19230c9eba11b",
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-23T21:23:42Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
-    },
-    {
-      "id": "aeba0d0368b9ac78cff082",
-      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-23T21:23:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "540e86aeb55497a9daaf20",
-      "title": "Canadian Solar US shares fall 24.94% on Friday to close at USD 6.02",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYk93NTdWOThLSUtjZ2RfWGVPYlJPdXJENUJFNm9ucEdnWVJGSzJyUmRwWEV1d2ZPcExoMkhnZ2gtUDNUQU11OE5MSFV3eXo4b2EyaFhvNUxGYzNYS2JHcVhoZGFNT19kdUtsdnFzUjVaYVVMTm56dHNPUWxqMkRVQ3BpM3IyZkZmMVlKMVFlOU9yS2VobXdXZWhQNW4xdVdwazB2ZXVSSmtSdVVwNk9rMDhkRmpreEJWdnV6cUVB?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-23T21:19:49Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b00512207c45fb77d893d3",
-      "title": "Results on two sewage-treatment bids are expected in Q4 for CDT Environmental.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHhKSm9zd1Q5cXJsemthdE1ZT2V4MEdwMUVBQlBmNGxtLUkwemZsRTZYQklNTEN3bGJoOEVEOEpaRnVNS29PMGxjYnNXTXJBVlVsMnc0Y3hVTG44UWZKQTVEYzVVMDlCRnBBZzI2elNPemR5UFhrc2hzLS1nY25MVmNERlBuRzVNUk4wcjBHcEdNaERfb2R5WmpvbVBySmkzVTlGNHdRVUgxVnJTcTV5SXJXeGw3S3NDaFhz?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-23T21:15:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "247d7825e100c474288558",
-      "title": "A crypto trading site reopened in October. In Q4, it will let people trade time on AI computers.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFI3VEtOVUVVSl8zT2tIMldNZlgzNjJON3FsdU1jT2FBWURYaF84UTUtaDc2bnpBaGRKMG5Ua01CZU5URXRITDI1Z0RRVUxSVGN6dVl0N3NtVFNjaHZreVg2RHBsSHlqa3JseUx2Uk9jc3lQQnNkYk0tbTB3QmQ3a2dsTHBoRlpKcjBjcy1ueXk1NEVtV1dmS28xcVQ1WkgwbUhZ?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-23T21:15:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b6aa410db677fb56592177",
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees [&#8230",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "source": "The Verge",
-      "published": "2026-11-23T21:09:37Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "7b98594188dc07d1fd81f8",
-      "title": "EIC: SEC Form 497AD filed by Eagle Point Income Company",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTlHQXdMdXcta2FBMHEtZUhVZ1M4SkZNTlQzSTBtcnJqY3dEWEl0OHEybVJ4VU5wVXdRZWMxWW4xTWtwQ21kaWRxY0gyZU9xRTRXdE5fWThLSW5VY0I3aFdXSk5DUVNScGpQTkdCRTAxRFprRTJqSlBHWXpKdEl6QzVxck5ua3FBU2xCbXRKRTJjaml4dTZEbg?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-23T21:05:45Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a018fd9455af90d0efc7cd",
-      "title": "PennantPark's investments lost $87.8 million in value on paper over the year.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQandEOUhKMW5IM3RDMGo2TkstVzRyVGpfZnFKVDctWnVBSDMwSzVna3hreWVhZENfeHdJZ2tZN21aWWM4ZDdnb05tTlFHLTdmcGpDVVgtNjduNk5jM1RodXpqUlNnRnlVMVhpWFM4SnN0RjlZdDRVelVVWEpRSUg3dV82LV8zS1A3cHdDNlhFS2haWUlEX0ZsMzBCblBYNTNUdXpHLVN6dkx2bmViamt6WkU2NDUyOGduaTN3eVd6bw?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-23T21:05:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ad724bcf8f7740f095376b",
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-23T21:03:34Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg"
-    },
-    {
-      "id": "71c33793694beb1c9d1679",
-      "title": "Brazil and Norway seek closer economic ties",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakp2SWtTdml1U185dER2ZE9LVFZyeHp5RXowbk5GSWMyZy1GaVd1TFYzbll4T0dDZkxMejVnbU9HZlBRaDd3ZENTcUxrd0xQSWYtZTdDbkJPUWpRSUdzS0VOVDhBZE5GYVZ6Uzdxc1hxNWVGNERYSlRGR3ljTVRwR0hmaE52Q3FFTFBTMHVyVU5wcU5CXzR6R0o1ZkZoanFNbjN0MEpRQzQ1QjZMbEFBQVZYWkxIOVlpTEHSAcgBQVVfeXFMUFRWd0xXVml0T2RRVHBXY0ZfV3pFSkZtWmsyM3VVQnZJbGhfVW9GMDV0SEJjTFM2RVpiTVA3NE11THhTNXVYSHg5SlhXNmFjeG1GVDFoU2dkU1NmRFFJWFhPRjNieTZZdExVZXNSeDczRzdvT0JVT0o1R3I3MWQyNzNBOVJsZ2pwOEJBLXZiYlUxQS0xdWJfRGhQdDdMT0JuQkNFNGlSX2NMcWFQNE1MV3JoWDBPMk9yb1JuRE1IZzFLOTVDS0xOYUE?oc=5",
-      "source": "Valor International",
-      "published": "2026-11-23T21:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "78ae7f74773282cf1208e4",
-      "title": "US set to add chip firm Megaspeed to trade blacklist amid ties to Nvidia espionage investigation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwb1pxRDlYekFUbVpRdnA0eHdjV3Zrd2JvdHZoSFNjeW9nLTdyRzF2cGExbEZ5bU53MVBOX1h2M2xzTGhkMG12aE1SY2JMSW9ybThwdW93NmdYSGx0eGhBTTZjQ1FfaS1BQVNDdw?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-23T20:58:04Z",
-      "category": "Technology",
-      "topic": "Technology",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 21
+  "source_count": 22
 }
