@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-24T18:39:13.821141Z",
+  "last_updated": "2026-11-24T19:48:25.272873Z",
   "articles": [
+    {
+      "id": "61dd2509c83a0880bea5e9",
+      "title": "Machine Learning Predicts Customer Cannibalization Across Expanding Restaurant Chains",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0szNDIySlhyWG92Vi1yQ3UzYzV4ZnlxM0lmZ0YtTnJVbnR1REczc1ZsRV9NQXBTajRIN25xY29KbnpfTWd6UDgwSkM0blo0U3BJenVXbXpJUUZCd2pMWFdRdTBJTl92dy1Wc0M0R3M3RkhjM2tYbDFSaGR4Vnl4SER5ZTdJN0NUeWVkVmJVNDFuR0stX3ZpeWR4U3kteUdlNjVSNWlISktGZTFwTHJJ?oc=5",
+      "source": "Bioengineer.org",
+      "published": "2026-11-24T19:28:54Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2aba674bdc007e83dae457",
+      "title": "Hailey Bieber’s DealBook Interview on the rhode Sale Sparks Debate",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iUmhWNWVPaDNhOGF5QmMzS1lXTk1kNERfQ1pTcU9ncThSRXA3S0xDdzF1UDhjcTlZT0RmSnBoQWtScGd6cmVKWEx2SlR2c0lEM004aEhUZ2IxVHRwaGxUU25NZUZHd25FcHlNODNzdldrZw?oc=5",
+      "source": "Oui Speak Fashion",
+      "published": "2026-11-24T19:13:52Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "03d1b8471517e4668e7b03",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T19:10:31Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg"
+    },
+    {
+      "id": "e7758d71e2578ec2102776",
+      "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+      "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since 1950 as the island reels from a severe economic crisis, the head of the World Health Organization (WHO) said on Tuesday. On a visit to Havana, WHO chief Tedros Adhanom Ghebreyesus",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
+      "source": "The Guardian",
+      "published": "2026-11-24T19:07:26Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/3b11d19a0b33be33833eb4b1d5b03400462e0fcb/799_0_4001_3200/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad284543c4f669ea1e5e7aeae35ce6ba"
+    },
+    {
+      "id": "efae3036b058be02051384",
+      "title": "Sahara Pushes African-Led Investment in Energy Infrastructure at SIREXE 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHNoMGFtLWYwbTA2Qmt1NHZmR3lYMjZMTGNvWUwyOGVZdkxDemY3TTV3YmNfQU5rel9sZ29fUHBJRU1jczNueS1TcE5FZW5vVGl4M3dFSkdYLWhpaTg5c1JENXFCUnZEUnF0YWtFbk03NUx6WWpHU2UwN0QwSzJ1ZDltVlJYVVVlTUE4dUhxd1lmemFxOWFEOXhhMFNRVFVo?oc=5",
+      "source": "Techeconomy",
+      "published": "2026-11-24T19:04:27Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9b5e3b4b01429c066a4e4b",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "source": "The Verge",
+      "published": "2026-11-24T19:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "2a1422ea57bb08bb754c14",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-24T18:55:59Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "243c10f90999f16074d1aa",
+      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+      "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you don't have to toggle it manually [&#8230;]",
+      "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+      "source": "The Verge",
+      "published": "2026-11-24T18:44:57Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "75a3a86ed42c87797de443",
+      "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
+      "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding 25 people hostage, the president, Abelardo de la Espriella, said on Tuesday. De la Espriella, said the men were “commo",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "source": "The Guardian",
+      "published": "2026-11-24T18:36:08Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
+    },
+    {
+      "id": "6da6ae6cc61678fde38261",
+      "title": "US preparing to raise tariffs on China, EU and a dozen other countries",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1hGZllMX3hJd0QyV3k3aVJ1eVhYMnY4M3JLQzN4blkwdDM0YzJGRjRfNENEdlc3akt5dDdFSk1ZTVczNjlxdGtyNkJ5QmZidFFLbDM2OWs3QzdrbDZJVmthNkZQRS03di0tYlJ1dVVsYmNkeW1jVEp2d0doN0IzTTJVYVVjakVQYXBoNzUwQUhKeEROWlVvOEtFVm53MV9STUZkSHVuUFdNeE5aWlZpODBRRHg3UnNheVVqbjhTVVowNDBNUzhodjlKRVJDd9IB4gFBVV95cUxQX1VXTW5NVHdydjFTb3BEVzNtVWlNNW9HUGJYTHhSVjhsQzFnRmVNS0JqUTJuTUxBVk5mQkZhV2NMOG5BX3Fiek82X0VHQlFDbUVjOFR3OEVhWXRMZEN0YVIzWEJ3QU9ySmNZSTZkV3I2TTF1Z2J1eV9iSWFMbENUWkhfLW4xcHpaeU9sbjVsYnBGOFRka29iZjRfa21EWEZVdFpnUVJfclAyWWsxNi1LWG50dmJqVFR4S2ZRdmdUdmVWNk9PM3czZ3VzcTJlOU9OWTZHekZFZGRJSF9VTENHbjhn?oc=5",
+      "source": "EL PAÍS English",
+      "published": "2026-11-24T18:33:06Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "b68502d162ee9e06f7de31",
       "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
@@ -38,18 +158,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100"
     },
     {
-      "id": "75a3a86ed42c87797de443",
-      "title": "Armed men take hostages at supermarket in one of Colombia’s top tourist destinations",
-      "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding an unknown number of people hostage, Colombian police said. Footage shared on social media showed dozens of people rus",
-      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-      "source": "The Guardian",
-      "published": "2026-11-24T18:08:04Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
-    },
-    {
       "id": "4acc4486706bb1659549a4",
       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
@@ -80,7 +188,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
       "source": "The Guardian",
       "published": "2026-11-24T18:00:24Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc808307b5e3f691453f80b7c9300755"
@@ -120,6 +228,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/harbinger.jpeg?resize=1200,799"
+    },
+    {
+      "id": "bf1b838f2f055510f5136e",
+      "title": "Earnings call transcript: MS&AD Insurance misses Q2 2026 EPS, raises profit outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcFJPVE1vSmhuRjN1cy1kQmRTTjRHUkxScUxfblV0NjBHUTFwVzBTYTFXdTh1NGZhQlBmenRGc3U0eDNXbWZhMmhQSVZxRjJiRnphdzllZXNZMnF6QmRfaE81UUpOMTdPaURmZWNmNTBlWFNlQnFfQUF0WWl4OWw3TmhaZnEyOTNRNEtIYVhENTJScU1zM053M1h3SThmaGRjSm5qekoxLTBxLXpiTWxvSHhjRGp6aUVkX1pRV1hqZU1UZ0hZTllQbWwtdXhQUVdGdFE?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-24T17:23:33Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "91e2fc67136eabb9a94710",
@@ -168,30 +288,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "9f59eefe1617368334d920",
-      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-24T17:05:38Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2a1422ea57bb08bb754c14",
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-24T17:04:20Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg"
     },
     {
       "id": "1bacfc6abde8051b52d960",
@@ -434,6 +530,18 @@
       "image": ""
     },
     {
+      "id": "9f59eefe1617368334d920",
+      "title": "Trump’s Nvidia Move Heralds a New Front in Economic Intervention",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T15:59:07Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "352ca41f41cfcf5a0a29d5",
       "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
       "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
@@ -456,6 +564,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f7c7a4259811c68a004457f6d25ca50e32b5e090/432_0_1350_1080/master/1350.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=234c5a70711afcfbe5bf4dd15f90891b"
+    },
+    {
+      "id": "913d80e52ec9ae88c2971f",
+      "title": "German president calls for more investment at Africa business summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXpONVdIb2ZsZUt6UW0yNG9XNXBfanNPZEFwM1VWTndIRG9aQjBoMFl6aDJJeDc0R2NqS1BERE1GcUIzQ3lPVE1ydEtER1huTmpsMk1Zdy1EM1pMSU93LXY3NDl5WjY0NXJQRV9OV1hMb3hyRFlGdnBzRHlGZmdlZFFqR3NOZ2dnaEVhZXBSTVZ6VVVYVkdqWGlNZzZ2VThucnQ5Q3FB?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T15:48:22Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ba2f254cb73bd11320883f",
@@ -514,6 +634,18 @@
       "published": "2026-11-24T15:39:27Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "154244e8aefb45486e4a60",
+      "title": "Humanaut Launches PSA Spoof Campaign To Promote Crunchmaster Crackers Brand",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW1aVF9KNzZTbTAyLUFRbXIxdDBueDNpVTh4NmI2TjNoYXdvOHNCSmJZeHVfTW5MdjYxbU9La3hlWVVRa2YyaHpCVFl4bld4bklWY3lPRVlFeDYxajA4d0N6RnE3Q0VpaEF2VHJuZElCREpoTV9uTXhuX0JoSER5c2ZVMzdLR055eUU3dVg3NERjVGgzNXAyR2R2bERUOHkyX1FaT3RJUDFUQ0FlWEg2SC1jb0g?oc=5",
+      "source": "citybiz",
+      "published": "2026-11-24T15:39:06Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -602,6 +734,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "id": "a636b5e703449255b0ba06",
+      "title": "China urges Britain to support free trade, provide favourable business environment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclc1azl6eF9Wc1BMMjFVNEpDZFZ4eDJXRE1ubk9NVnkzYnRWQ0JYQVV2a1ZrdV9xUk5seDdQUUZXVUwzbHFsa2NJSGYwT0VNeEFTUnB5dkQ1bENGS1c0aFBWMXc2Z19TZFVjQy1rb2xXZWNrOEQ3c243a1k2TlBFT1l3?oc=5",
+      "source": "Tacoma News Tribune",
+      "published": "2026-11-24T15:16:07Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e175d14b24fc3f82e00fbb",
       "title": "Wyze’s new window feeder records birds from a camera inside your home",
       "summary": "A year ago, Wyze introduced a $35 security camera that stuck to the inside of a window so you could keep an eye on what was happening outside your home without a complicated installation. Today the company announced its new Window Bird Cam, which expands on that idea by pairing a similar window-mounted camera with [&#8230;]",
@@ -612,6 +756,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "a86a6edbec048d792ea9d2",
+      "title": "Largest US-based port terminal operator appoints Maersk veteran as CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3pRTm8wWkllMC0ydVVpMW80QXZuUHJhcGQwTEdHQVV4WWRTcnJtcXllWE9SWHF3VG91ckdURjZIaVQ0RXpES3FxbUpmYWZlZVdnaHQwSFQwcFlqTGpYY21qMkNBN3ZrQlJEWmlLdjkyNmRjVTdveEJDcDhUcjJKckVtSHVOSWllU0I1cVhPV3c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T15:07:12Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d8131801956055552ee65b",
@@ -684,6 +840,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/8abb1b7af3336437d7b77914b83f5a5515682536/1362_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d24c4ffd1ddfb1d35b8e6b887bb86cca"
+    },
+    {
+      "id": "d6656ef4b1cbebf54dabab",
+      "title": "Zacks Industry Outlook Highlights Citigroup and BGC",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXMtQ2lhZHZUenZlU3dQNE1Tc0YyYWhTczBMY1F1Qk5jeExDZ21VMk92b0xzSXZYUWFQZmZLbWkyaVJ3dUViQ1Z0bS0wUmVrRk90ZExFdktic2xJU09kRWJEZEdBSC1aSW1vNWdiVlJ2cmN3UHc0NlFOamtBbXBJWkpBZmdhcHNienZNMEZSTFVRa1RpeXB6WFRfNE96RFBXWmVJT01Lb2VUNVU?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-24T14:45:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ae599e48b6862906bdecc2",
@@ -948,6 +1116,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ca/live/b659c4e0-e7fb-11f1-ab60-79086b6495b8.jpg"
+    },
+    {
+      "id": "f9422bc8650f730e39a04a",
+      "title": "ChatGPT Ads Reach a $1B Run Rate: Should Businesses Test Them?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHF4TjBCamdYTXhHdGI3TmZlLUdtWDJyeWFpajBNLUxINXhZeEIzdmtXX2t3UkJYTl92X2MtMmJxRGhMZVFfdndXemhJV0c3MXV2Z2tERmVaUXBNUWhHWlZOOVdiWWQ0QnlZY25xN2pFNHd2T19sYlpkUUxoaUpPTXBIMEEyVW1neC02YWg5cFJNY2JWMFlSZkRwRGtxZWY1c2lr?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-24T13:02:39Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "168dc9e0fda6e685b93a00",
@@ -1260,186 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c0/live/f8f77110-e811-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "72346051b77c59f0738e5f",
-      "title": "China launches AI research platform to help scientists investigate weather and climate",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZbXhIUXVwUzRuMkpIcjladWRDWVhDeG8tMEVKQkhoUktIQjU0U05NbDQybzgxUXJfNDRITHA5MkFSSDZCamQxSkxTd0xjOENPZGZjeGlyN2RfQmxfVDFVQVBR?oc=5",
-      "source": "Global Times",
-      "published": "2026-11-24T11:43:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7d7f4d8307ee3c66b9f08c",
-      "title": "Egypt seeks more Greek industrial investment, eyes regional export hub role - Economy - Business",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PWktmWHZvd1c2OU50b1M3ZmtRYlM2TDZNZG1CSUNOblJHem5WVTB4azd2aG9jaC1JWS03SWp4aEotYWE4U0o1TGhpcGtTelZkcmZObmVYSTk?oc=5",
-      "source": "Ahram Online",
-      "published": "2026-11-24T11:41:28Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0b4e71bd35044ffc76e378",
-      "title": "Wall Street Wants a 23-hour Trading Day, Is the Back Office Ready?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDdjZmVSblROLVVWa0xqQ0szdUthQ3Uza1dqZTk4NUtNeEVUQUozc3A5dG9sQzN2dXV6RHNGTkM1YUNCcHAwWW5qRTRPMVloQWxKNThaVFgybEIyVHFPM3l6c2c4eWUtdXdrMmtzUEdORHpmN1VjLW1mZlFjTk1YYXppYkViZU8tMnRJUmh1ZWVJYThz?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-24T11:36:37Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d0008a1ba95be0df99e7ae",
-      "title": "German Economy Minister Urges Industry to Embrace AI Opportunities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOak0yRlU5LXJJNk45RFA4MlEtMWxmVk1raEpoQldqR180OWlad3BwWm5DOU8tSWxzdVFfVkt2RDgyNWxMNFUtOHRCVW9uaXhQdU9seWRwWG9oOFdreDNURTA5aDNkR2VkTGJiYmxXX1VWMXR5TWtDVkhYV0RadHROYTZkNE9taHB4R01EX1Nzak9nOU41V2txcXlkTmJSNExNaHc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T11:34:50Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c40e84ca42194cee665215",
-      "title": "Medtronic posts mixed quarterly results, maintains annual forecast",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHJYSV85S1FoX00xUXY4YV9TaElORU5oWWUtOGdhODhMNmhVZTQtRTFhdHc0cjU5bU53cXh3VGQ5dWhHYWdmNld2XzdhWGU3LUxlWG81QXAyMjZrNmpBbUNLUVpVUkhaWFREckxISzB1OHhnbDJUUHN6dmZlU1VnWjd2RlpaNFkzR294NXgtOTk0Z3NyM2ZMRk9CZ0RKdWlsTVE?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-24T11:33:16Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0e4372a546972c6f4c4bc2",
-      "title": "Nvidia Board's Huang Reinstatement Raises Independence Concerns",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeGlWdGxCelQyakh0Y1pPb0VFS2xzT2NxNkd1MzJEVU5GWGsyTVAxODJYSUZ2em5mWTZSSzRyc1hlRmhJcnBHYlJLMHVxb19fQ2o5ekZPaDJxVjBlcm1hLU1iWDlQbG9Welp0QjlHdnFFRmN5TFZxcXdCOHdCTHp4aXJ3UElxNExucGpnVHZNWWFOMW8?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T11:17:39Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4e84c92e11dc562a514b2b",
-      "title": "Gulf’s early AI investments are starting to pay off, says Amazon’s Ronaldo Mouchawar",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlhSb1pMbGRqMWV1Sm9zbkNQdmYtY0M4LUhHTXVGWHR6SUZSZldoQldEcnhSMXc3aTdBNG1TbUZSaG8ySDN1UU5nYzVtZDQ3UWZtZ05IckY0NDBOVUVxY2dlbzJRVzJIc0ZBWDlYZW5RUUdRN3NZRTE0UE5NMkV3YmZyblN2aWRlRHZrXw?oc=5",
-      "source": "Arabian Business",
-      "published": "2026-11-24T11:11:45Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1d0e3400ffceba623b703d",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T11:10:57Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg"
-    },
-    {
-      "id": "9fcd9fcaf7fd475c9b0cf9",
-      "title": "Mirziyoyev's Jordan visit signals deeper economic engagement with Middle East",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSbmJjTjZKZVRMbEVEeWNTVmkwSGVNWE1ieUdVV19mUm5STmtxZ0d6LTR2dGctTTlvMzc2eTBpMmdvc3c3TW5KdndaVklZU1BScU41bDdsVGNXRlBGYW5B?oc=5",
-      "source": "Trend News Agency",
-      "published": "2026-11-24T11:02:24Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "73aad3be019cb905ab143f",
-      "title": "US school bus drivers decline amid low pay and poor work conditions",
-      "summary": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds The number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report. The total number of school bus drivers is down 1",
-      "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
-      "source": "The Guardian",
-      "published": "2026-11-24T11:00:45Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/412afdba3882cd3b1d06808302acfc40643b1a58/369_0_3706_2965/master/3706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fe338912e03f5e889c462e39f5cfa45"
-    },
-    {
-      "id": "1d425358df637b17654371",
-      "title": "BlackRock | Assets Under Management, History, & Influence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZlFtQzNhR2xleWw2Q2wySEJDc3ZabzUwMDR6cVE3QUVfTmp3SHpZNHdMZlVKcU5CYTBJZG5VYUFTbUswSkNVZVd1ZjdURkFGVjlucV9hN0N6UQ?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-24T11:00:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f7ef0f4308b0f1504658e5",
-      "title": "IKEA India revenue rises 14% to ₹2,100 crore in FY26; eyes FY29 profit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLXdzQ09HQlhySUVqa1BvX19NSEIzVTA3SDRIZjVfYjNldkQyclhmTDVOVTlNX25JWDJhcmxYVEs2TlppUTd2UjJOU1JORTBXM0ZOYWk5LWpqZE50OUxDT1UxZ1BhcHRMZC1VZG5KX1lvTlpwb0dMMWNBbjAtdkFKT3FOQXhUUTc4TFVLaDVtZXB5N2JrUVdDR3p5YlJpdGJnYkZ5U19Jd3pycjNLQTlWT2IwenFGYkhlX0dQUE9ZSm53UWxtMlV5X0dKM194SFlwQ1BRa3ZSMkhHQWNoNENvTDlHNNIB6AFBVV95cUxNeDV2Z1luTml5THVncTN1WkI5bEcwSlNuenJwU2JLdHRiVGVEd2hvUUlIQTloTXFnRmdLSjMwRjJLMFM5N3dRYTZSTklOZ0oyQnpXdS1UcDlzdG5VWEg5dGVKNERjeHZNQ0xHZDJxM2tCNmxmQlVJU3dBdEVQYmRkVFJzdGxiVm9QWkxGZE1oWlM4Qy1XbUxZWXBPM01Gb3diQkprMXY2MWtnSGsxTTRRWFRqUFAxRzhQWVNMYmdnRXFMY3RTTkR4RGN5RFJRSkNyTTJKSjlrTm9pMWMzOHVITVlRbnR2RlFs?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-24T10:59:42Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "780443208f48f7c5803527",
-      "title": "EU to impose cap on Chinese hybrid EV imports next month",
-      "summary": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey Business live – latest updates The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turkey, South Ko",
-      "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-      "source": "The Guardian",
-      "published": "2026-11-24T10:59:40Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f26a7381bbc6cf8a79f020124a3427b"
-    },
-    {
-      "id": "8a11be66dc0b8ac7441343",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T10:58:51Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "ed57d16e3be58d814d855c",
-      "title": "German business morale rises again in November",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3BubGNuTkFwUXY4ai11MGJwY1R2SGV1c1MwZC1JajVyV0hFMHF0SlFVU0xPU2R1RWt0QjZmSFY1bnF2czBpY0g0U3BjZm81MmFhVGZSZmtFZzNxd3Y1aWNrMEktNDJLdGJPc0RCZVRPcm9ab0p6UEMxaFZRQUVyalBRNEtWMnVwOWlkYUV0VEhSZDJHX0otaA?oc=5",
-      "source": "France 24",
-      "published": "2026-11-24T10:57:16Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
