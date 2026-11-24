@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T11:59:07.088595Z",
+  "last_updated": "2026-11-24T13:17:11.007860Z",
   "articles": [
     {
       "id": "d27c313a3612fa928e7fdb",
@@ -7,11 +7,155 @@
       "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Huang’s return to Nvidia, despite concerns over his conduct and",
       "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T11:57:39Z",
-      "category": "Economy",
+      "published": "2026-11-24T12:50:42Z",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=153a51d289fd16cd48268ed59b19e1de"
+    },
+    {
+      "id": "1e142ea4637026729125a9",
+      "title": "CortexSpark Ventures Targets ₹1,000 Cr for Deeptech Startups",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEY9IBmAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEYw?oc=5",
+      "source": "CIOL",
+      "published": "2026-11-24T12:46:24Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "04d463bcde637a48f9a6ca",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T12:45:43Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
+    },
+    {
+      "id": "a1a89606270c2f70ad4c1a",
+      "title": "Gulf Business UAE–India Gateway Summit 2026 announces agenda and speakers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDR5N2xKVWRHdXZaX0E2R1VNZV9CSXhSRzZwbW82TFhVUW0ycnlCcUNLZEIyUzlfOTJOcHEwRUlNbGdrV3p5TUtjMXVEN1dtTGN0azlXQ1d6NVVCOWRoSVMxT0FaRWt1R0xxQ3hQN2JLXy1zUVZqQWNncEduMkMzM0ItcEVSN3dtQVNkU0ZTSEtNQzdwd0VnMnh6VkdYVVhaNEJWYlFnLUNwQUFCMVl1R1RUZXQ?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-24T12:29:06Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e8a823548b9b67b06dcb62",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T12:12:48Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "4d2f94a40e7bcf8c53d0db",
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "source": "NPR",
+      "published": "2026-11-24T12:12:25Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6866x3862+0+358/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Ff5%2Fec09f1504997badcbe36cefe13f6%2Fgettyimages-2306041239.jpg"
+    },
+    {
+      "id": "94cc459eb575f5d21f2a61",
+      "title": "Fitch issues neutral outlook for global sovereigns in 2027 amid flat GDP growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaldwQ0F6OW5hTHFjRHZXZDNTd1hoYlM1TjJoZEowSS1CTzZSZXFPWHlXYlI5LVAyZjBxdE81cFVTRUozWWVGVmk3Wmc3WndqQUZLaENHLXAwUWNvTHhqR2kxWDYxOEl4YXdwRzVHbDZZcm1neC1GM2QwQmlTekRkM2ZPcElxYWxJRWhxUWwyN1F1djBXRHU2bXJ6a0tBLW85U1ZVX1BVYUR0UWs?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-11-24T12:01:05Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "22881d482ca2ead56c8719",
+      "title": "Iowa employers fear $103K H-1B visa fee will worsen worker shortage",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmotTzZsd0VicVhHck5oZHhqbWdFZGlKVVNYTUd0ZmNveTJMUHBTT3hSaC1UcW5jR3pPMHJzUmMxV3pfdTRfV3dIdkt6V1gwQ2wteGk2NGw4aDJ6OHRhRE1TdFB5RDNSbzNLeTBvd3lqUUx0bFJ5ajlnMGpta0F0MmNXaG5yUDlEWmw2WFJxTUgwUHBmQS1zb1RGb2U3QS1zbktOeEMtLVRsN3hyaVIyeEJVWHpNMjd6WERmRjU4LW0?oc=5",
+      "source": "The Des Moines Register",
+      "published": "2026-11-24T12:01:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ee3f022af62f4e2ea69389",
+      "title": "Why politics is key to tackling the climate crisis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2g4bXl1ZmFPNGFQLS1MYnFGLWF4bHV1bjRCOEh1MnhKcGJuWUR6dTVhSGZYaTdScTBvUGYxTzdpV1Y2Rl9xdlpYUVV2MlF1SEtHN0pPRGw3TFZMalRNaGZ2d2c1QUtvdEw5NlJWd2RVcTFQS3lubG16OW9QYzNqZjBrQkU1WHhHSmF1WGdJUEN6eUIwbVhB?oc=5",
+      "source": "The London School of Economics and Political Science",
+      "published": "2026-11-24T11:54:16Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "eacdc7231af59391a4e0be",
+      "title": "EU corporate profit share falls to 39.8%, its lowest since 2012",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rRjBDSEtlcXJUOHpuTnY5R0xIMG5MX3Q0Uk9QWUt5OEdPSjZFQzYtUmZWUUEwWlVJRFExamVRdUctNWdmSVcyQS1jeTFaNkdkMm9JU2ItalN2d2ZXRDVueVlmTS1RSlI2elZ6M09QRWNTUQ?oc=5",
+      "source": "CEO Magazyn",
+      "published": "2026-11-24T11:51:36Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c8564e8e0331c461b3b39b",
+      "title": "Brazil can leverage resources to grow if it plays cards right, Spektor says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONkpaWk5kVWdvejRfSFctdGstZ25zNlJucWFqNlJKdVd3NHJaeHF5UmVGQmg0Y2hkNU12RXNEN2QtZVMwQ3pFb2oxLWVVc2F2RzZabVBVd0EweXg1THpCaTVPSTVQT2E3Nnp1cHVmdmFiVUxwdjNRb1Roa3h3MVNvNm8xUEtjU1NaVHpEV0oyQnhabzRjUTREcjhjdlNxSjNWWk1OZzVUU0NYOE5YLUp0c3ZfTXhURmlCV0hOV2p1X2NuYm5jZkRPcXJGdkUwYkw4dWNwUDNScG4zRVFsckhKOFZDd9IB8gFBVV95cUxOUWUtOEFTaldWcjA0RzM2d29uekU2SVR4LVBjVWRjQzZvUjZBLVRzd0dYbllTVWxzc3k5d1ZGQXhieU9BSzlNTTR0Q2xQc3JfN0wtQmN1a1pXRjBleGlUTW51WjVFamJ3ZElOOW9NMFJWWkd1REQ5TjZvUXJfWFhmOU1Gdl9Vbnl5QjdnQ3ZCYUlOcUFETGQ2UGc5NE9PMFRHbHpFXzMyZDY2M1g4cWJjWmFCT0Z6bEdJV2VFbTRVRUp0UUdzejdwdHpKbG93SlN3QUk3SC1qdmVkZ3BYYzNHY3BmMGdOaU1wYzJsVC15OTJJUQ?oc=5",
+      "source": "Valor International",
+      "published": "2026-11-24T11:51:34Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "97ca949d84ebe55e86aa0b",
+      "title": "Egypt seeks more Greek industrial investment, eyes regional export hub role - Economy - Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDBSV09VUnZOWS1SWTgtQlVRZDR1RjVwZ2F6b2x2VEhVY19Bc3kyVXlqWV9VNGRrdXFvWUxsZnA4ZENIWWZxUm56MnZkTFdGdlZtbTNJQnZES2RJTjNySUlkT1JZX0hmZzBVd0FjQnJyYmZRTFV4M2tVOE9UdWhFazVNZHVOS0dpTllLd1dTQ1ZidkJPQks3RE00dXA0bmZ3YUlyVktjakdXSDc4cDhfZ0kxNEMtQQ?oc=5",
+      "source": "Ahram Online",
+      "published": "2026-11-24T11:46:22Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "95409503e917c1fbc22111",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T11:45:52Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg"
     },
     {
       "id": "7d7f4d8307ee3c66b9f08c",
@@ -62,6 +206,30 @@
       "image": ""
     },
     {
+      "id": "1d0e3400ffceba623b703d",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T11:10:57Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg"
+    },
+    {
+      "id": "780443208f48f7c5803527",
+      "title": "EU to impose cap on Chinese hybrid EV imports next month",
+      "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey Business live – latest updates The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc without facing a tariff, the European Commission has announced. The quotas will also apply to ",
+      "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+      "source": "The Guardian",
+      "published": "2026-11-24T10:59:40Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f26a7381bbc6cf8a79f020124a3427b"
+    },
+    {
       "id": "8a11be66dc0b8ac7441343",
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
@@ -98,11 +266,23 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
     },
     {
+      "id": "5dfc30a24690a517313590",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLU9yX2djdGRQV01hM0llUENSZ0U3a1YzQU1WdWx5Z0dMMVJGUFduWkhJTjBxOHVVeE9SN1lyaE1sNjdJYWVENzhrRUJ2cXNUZEZHaUpRUHE0UXM?oc=5",
+      "source": "BBC",
+      "published": "2026-11-24T10:53:37Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1b4e589be04eedf34f69e8",
       "title": "Representatives of European regions and local communities gather in Dublin to accelerate adaptation to climate change",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa3p4TG9xZHhIeXg2ODhzUEFBbHE4NVkzdDVOZmZvWDQzM0RqcUFGOFlJY0lyakR5Skc5ZUkzWWhTQzF1S3JhS3Z1V1hBSFNwY0Ztd2VxR1RFemZxUUp0Q0luSS1jSkhaTWZrcGEtRkwtNTNncXFrdWNmcE1HWGdULTJjVkg1ZzhGd3BMOThJbWI4dGtRdTdtTXpBbVRBcnNsc2pPS2UtR3dHd1hoenh0Y0p4UmFudWlIekxNdDE2Wm0wb3VmQmx2c0ctZzZFNlBfazJUc0wySnZpX1dPVGhzZTRNRFJNUjZCSXFiek9LUWFrU25EbVlZag?oc=5",
-      "source": "climate.ec.europa.eu",
+      "source": "CINEA",
       "published": "2026-11-24T10:51:05Z",
       "category": "World",
       "topic": "Europe",
@@ -146,6 +326,18 @@
       "image": ""
     },
     {
+      "id": "de787a76cf9df1b88a746f",
+      "title": "Veteran Entertainment, Media & Brand Execs Join Forces To Launch The Unlabelled Alliance",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0hDRGw5bFJvdW1LMEgxb2F6Uzk1VWp4ZHpUZ2h6Z3lTR1lZRVlRWHZsYjFvLUpXZlpYa0FJY25LRi1qUVFtamFhbFBrQ2gyWkllclhlSk5QQnFwYm9ObUtiRHNiVF9IQ3NBbkhPZ1Z4S3pyeHpFakc3V2I3NGRWc214b2RkVER1VG1FeUZhdVo?oc=5",
+      "source": "Deadline",
+      "published": "2026-11-24T10:34:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "91e25f72720d3892841076",
       "title": "France to Build Rare Earths Stockpile, Promote Joint Mineral Buying",
       "summary": "",
@@ -178,6 +370,30 @@
       "published": "2026-11-24T10:22:46Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3d3af18b89de67adf4d8ed",
+      "title": "Saudi real estate firms earn $1.1bn despite mixed results",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGF5MzVVQUFJNTk3VGVuRGpyN0M4V3F3V3Q4VWthQl85bDA1NW5iQ3ZPbXZFbk5YZklqa1dCamxKNVo0Z1Q1b2VrY0xmM3FmOEZFeHdyVENEM2VyMHdtaXpDYWoxaF9oN1hmZFFFdFBLVnNMVXB2QnFqNlg4bEhZaU5CenpZWUlOYmpZamdmU0RhVGJXR2c3cDB5aWZJQQ?oc=5",
+      "source": "Arab News",
+      "published": "2026-11-24T10:19:13Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b86f6b76a1869944f32c32",
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "2026-11-24T10:16:27Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -218,6 +434,18 @@
       "image": ""
     },
     {
+      "id": "b214d753728a2a9004a3d7",
+      "title": "Profit share of EU businesses down 4 years in a row",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BSWZDaU4xTWxZT3ZMbGp3NExfT0N3S1dNUWM3dFEwcURzc2lCcWJKZkVpN1FESWQ0SFFFOFAxV0lLbnhHLWZ4T0dfMGRTcmZRZXRCS3J1OENCNENaUWhfYTJaVUE0cXFLakdmVFg4ejJTWENnb19DYXZlbk92QQ?oc=5",
+      "source": "European Commission",
+      "published": "2026-11-24T10:04:41Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "53ddc3f079419d18944e47",
       "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
       "summary": "Lawmakers from both parties are demanding answers about the Nvidia CEO’s reinstatement and the administration’s handling of national security risks Jensen Huang’s reinstatement as Nvidia’s chief executive is “exhibit A” of the “political corruption and rot at the heart of the Trump administration’s big tech and AI policy”, Chris Van Hollen, the Maryland Demo",
@@ -254,6 +482,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F33%2F4980a8d646518ec071c574926f4b%2Ffuzzy-plants.jpg"
     },
     {
+      "id": "6860da5e4c219163011871",
+      "title": "A $4 trillion finance gap holds back North African small businesses",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMmtTSzJrR2VaTlZWbGxHS1c1SEJPYnFyeGlhR3BBdmtWTHg1UVNDRGd4ckhBaDZyTnFsdGVSTmxBdG1DNHVvS2xfSnJPOHQwWTJmTjBVS0c4Z2hHYXRCaVcxdWpzbEc3T0FMenBOU1dlOFZCNWRFekNSSGp3TTJlMm1rOTVET256WmYzY0dPMno3RlB6eGVNMC1BZmJ4XzhvQXIzNmJjdkd4U2xCZDBJclQ4ZmF2MWlrVUE?oc=5",
+      "source": "Channel Africa",
+      "published": "2026-11-24T09:59:18Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ed7b23b1d2c0c61d6080c3",
       "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
       "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
@@ -286,18 +526,6 @@
       "published": "2026-11-24T09:50:15Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5dfc30a24690a517313590",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLU9yX2djdGRQV01hM0llUENSZ0U3a1YzQU1WdWx5Z0dMMVJGUFduWkhJTjBxOHVVeE9SN1lyaE1sNjdJYWVENzhrRUJ2cXNUZEZHaUpRUHE0UXM?oc=5",
-      "source": "BBC",
-      "published": "2026-11-24T09:42:54Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -358,6 +586,18 @@
       "published": "2026-11-24T09:27:32Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cf112c87a4ddb74f244c7f",
+      "title": "Experian plc (EXPGY) Stock Price, News, Quote & History",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mZUFqem5WWkZnMGhLeGxHRDc0bmlPZTc5Sm5GWVVKUzdHdWZKYVFkNG1EX1RkaG1OVEYxSExxT2M5Q3hKS055ekFHY2pzSTBjOGl3?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-24T09:23:32Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -518,18 +758,6 @@
       "image": ""
     },
     {
-      "id": "b86f6b76a1869944f32c32",
-      "title": "Weekly market commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published": "2026-11-24T08:14:35Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "156960d26c684ed3767806",
       "title": "Africa Moves To Leverage Intellectual Property For Economic Growth",
       "summary": "",
@@ -540,6 +768,18 @@
       "topic": "Africa",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "1aef64a14ae860d088d49f",
+      "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
+      "summary": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interes",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
+      "source": "The Guardian",
+      "published": "2026-11-24T08:00:11Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d844a14d51a19b981eda6ef5f7aec75"
     },
     {
       "id": "9f9c8e6150f42265240971",
@@ -760,7 +1000,7 @@
     {
       "id": "834d96917f63ecc549fe52",
       "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
-      "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Want to avoid the Christmas shopping hordes? Then let your AI agent do it. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on their apps – and the high street. Muse has been a hit in the US and is",
+      "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do it. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on their ",
       "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
       "source": "The Guardian",
       "published": "2026-11-24T06:00:07Z",
@@ -850,6 +1090,18 @@
       "published": "2026-11-24T05:31:15Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6490077c12a6ae419174bb",
+      "title": "Standard Chartered, JCDecaux Transport launch branded Skylife Work Hubs under ‘Now’s Your Time for Wealth’ campaign",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc2dydnlFbUU3emlQV2pSYWZjdmNfQ0pGUXlPR0N5SXphU3ZMV1d3aVJxOU1DVlVPTV9MVVZsM1FuSGw4cnFPejNkNEpSSHVLSG9QNEo3X1J1RWpTQkc0dThLcTRUYTlfbGpfNFc2aXFlUkdyQUZ3S2YwZzZwZ3dGZWhwQWZVdVBwOGRlWm00Vkh6QUFIU3piRkNsZXNwQk1OWHRvd3BOSE5Nb3REdkIwai1CUlRkaHBwbDUzYmxYRU1YNWNPSmFFNUsxalJZV290STUxVi1B?oc=5",
+      "source": "marketech apac",
+      "published": "2026-11-24T05:31:13Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1094,6 +1346,18 @@
       "image": ""
     },
     {
+      "id": "c1bf9dc0011a104c688af5",
+      "title": "D2C Is Easy to Launch. But Can You Scale It Profitably?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNXNUS3RyaTRaX01ySDlQS0M2bHo4aFNBS2ZoTGtPNTUwZUtETDJYcS0wQm1Kdi1UV3pDYWROTWN2WC1xbzJIdUtYeWl3b2lFU2hYS3ZxS25ScVBNOXhvWllsd2xRVmRETHJObWFSUTRBd3l0ZmJ0aEJhTVFSQ2x3T2lqeVpUV29xNDlmZWJQQ2VYR2ZyUlhrbDd0UUE4MmEyazNnNF9ZM3Z6ckpCc3lIbmx0NDBDMFhjVDdZOU1lT05qNjJsSjRuR0VSRdIBywFBVV95cUxNNXNUS3RyaTRaX01ySDlQS0M2bHo4aFNBS2ZoTGtPNTUwZUtETDJYcS0wQm1Kdi1UV3pDYWROTWN2WC1xbzJIdUtYeWl3b2lFU2hYS3ZxS25ScVBNOXhvWllsd2xRVmRETHJObWFSUTRBd3l0ZmJ0aEJhTVFSQ2x3T2lqeVpUV29xNDlmZWJQQ2VYR2ZyUlhrbDd0UUE4MmEyazNnNF9ZM3Z6ckpCc3lIbmx0NDBDMFhjVDdZOU1lT05qNjJsSjRuR0VSRQ?oc=5",
+      "source": "ET BrandEquity",
+      "published": "2026-11-24T02:54:42Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1329b58a4dbedf29bf451a",
       "title": "Singapore raises 2026 growth forecast after 6.1% Q3 expansion",
       "summary": "",
@@ -1176,270 +1440,6 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "6bfece86fdc2e574f6b067",
-      "title": "Asian Stocks Surge as Nvidia CEO Return Fuels AI Trade Rally",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUJRTk1YZFBXUE0wdW1sNEJMS20zZ1JXMmdmcGgzbGpzMEZ1dTFXTHhwbHVMZVJubXRCNkxpYXZFV1ROdndmS01IU2RuQVFSUU9MVjBpakFja0JHcDdZd29VQXVBQ1EzemZ6SUk4LUFSVU01VE4yVGlQVElyRXpNaHVWT0RDaUJOcHZwVFNhUXZxdjlZX2xjZ0ZGVDlkZw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T01:37:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "efda50d063378404bb94cb",
-      "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
-      "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Jensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s mos",
-      "url": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
-      "source": "The Guardian",
-      "published": "2026-11-24T01:34:39Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b36866e4597343306435e9e2317bfaf812bcaa9d/0_608_1536_1228/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48ee1fde1b01d9b118b6d121d18dfa7a"
-    },
-    {
-      "id": "157327e9e0ce4b00584ff0",
-      "title": "Revamped blueprint to boost Sino-ASEAN trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2VhSTNWTDJZa1FaY25fQVFWSFRxOEQ5VDA0S3ZhREhEcEt2elZLTHlwRi1Ta3B6VFJhTFBKeEFGazEyNHZTZFN6QTNGdUtVdkFTZ0xtUEdielVLRTNLa2FadVRYLUZjYVFTc3hrUFBhZDRQU3RZYzVLcWplb1ZXdlVB?oc=5",
-      "source": "China Daily Global Edition",
-      "published": "2026-11-24T01:26:58Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "695d39cbecc668423642ff",
-      "title": "Revamped blueprint to boost Sino-ASEAN trade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PbmpoSUY4dWF1MUtwZ3RyMnp0Q1NmQlJpMk9FZmUwaW92RkFmckdfU1ZhNHlaYXlqcFlFVHd0T2NBLUhzVzFSVzdaYTJ5bEVsU2J5S0pROHpGdXZUMlVFVFNXODFTb1lFTFNRd1VnQl9fSjdiY0Myc2NRZXBOQQ?oc=5",
-      "source": "China Daily",
-      "published": "2026-11-24T01:26:58Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "efc2858895871fd1fd6936",
-      "title": "Dollar Climbs as AI Euphoria Spurs Fed Hike Expectations",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS21ZRXJyR2IxZVF3WUtZRjBpVVVxWXFaRmE2WUNPN1lXLUtSczQxMHVQSlVwc1ZzYTdNejdrWUJTVExPZEpxRTZlQVZDeDVOelNfaTQxZHAzTF85d3VTVmdvSUtpT3RzZl9hT0dUNEhXY3I5ZmV0Um5WdEZKZXBOUlM4OVpZOWo5TVRVald0LWk4Y3BOXzZFV2lB?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T01:19:53Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a7f54a704a5030a9f27c4f",
-      "title": "Amex Air Monitor 2027 foresees strong demand cushioning price hikes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TUkx5QTR3ZDFzTGxGOXlXT1RnMHVEUmNnRWx6bGh2SU84RC13UDJnTmVMYzJiWndHOHdtejE4dmtpcG5XSTNFSm9KaENGNWhKNGNpam5zWFlwTUpCek1oUVRuNm1aeUJtWS1SLQ?oc=5",
-      "source": "TravelMole",
-      "published": "2026-11-24T01:19:24Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "742d69db6ba395965215ff",
-      "title": "Equipping the industry to turn instinct into evidence and evidence into budget",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDcxQ2xPZ2JHVVhtRjdjV3J5X0hBZ2hGd1I2Q3JtaUFPRjRUc0NnX1dRbEJrVHV4OWdzYWw2ZnN0YmNwMXFSel9rRndRQ2d5ZV9SR0dUWE8yVEMwN0lSU3ZGVE5hTnd4RDl5Y2U0dVNJcmxzZWZpcDAzSEZMNzdVMnZERWZkX0g3cDIxc2plbUpLaFV3QW0tNzJoQVFhV3lDc0E?oc=5",
-      "source": "Conference & Meetings World",
-      "published": "2026-11-24T00:57:06Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "59513dc090c5f428db01f9",
-      "title": "Nvidia and Jensen Huang: US Federal & State Probes Explained",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNThjcFVSLTJrblhrRUhtZ3lqX3F3SEgxdEFWU0FBZUhzbGx4WGFNQXczbGFZYjVyNDVKTWdycnpZTU42bUd5SFpaNGJyZzhDU29TX0ZYSzNSNThqckpnakhULVR5Si1RVy1IOFhWdWNVZzNqZWNQUXMwZC00VEhlaklOUl8zUlQ5aTZhUFNOTTd4NWdYMUNkU2lmQnJlX1FVS1E?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T00:52:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "aafdb905c926444248ec67",
-      "title": "Singapore 2026 growth outlook remains firm, official says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2MyeUtCMzloSVFJUXVsYXpkRkxBOVRqMnliOGZVZGdvOGFqRmg3OFpyQ09CZjdITjhNbjJjUTJBMlhkSVEwX2dKTVNTb0puTWhfMElQSjgwYVhmUVFHeFQ3bFNsdkZKREF2Ni1SMmNHOHNNRkJnTldZa1J4ekFBODhtX3pVa1FES2ktMGlOdlNuSlFZZHFGZ0VBYkxmNzRWb1VMVzJBci1NUQ?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-11-24T00:48:07Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "97bb984e99581ca9a571b9",
-      "title": "Banxico rate cut reduces carry trade appeal as Mexican Peso holds steady",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTVY4SzNPVEMwR1puNHdYNEpKZC1LNW1yR1lubVdYQUdONHc3RklHX0JsdDRuX0hieDdLUnYyemVoWmtjSHlOc212cTBaQUxoTlJ6aldmNTc5cVpOT09rcjgtUVMyenJiYnZobFZFVjA2czFnZmxLVmVYOFFIcnB6aFhGandGUDVQVllaMjZXT04zSDYxV2tRRk00eDFwbjRRWUZJZkZvNzktTkFMRk54UDlFTjhiTjR0TlVnLUd1dVMwWDhuWVd0V2pWUEtITjA?oc=5",
-      "source": "www.tmgm.com",
-      "published": "2026-11-24T00:42:13Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f66115e3331ed7ddcf5815",
-      "title": "Symbotic's 12% jump came hours before results that left its backlog slightly lower",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM19pTjMtNzBucjc3VUs0MVl1bTl2YVk5N3hJeGVZYVQtLVcwOEk3SnVhUG1wTGhLNW1XRWRrRDBHOVJmRVp2SlBxVTE5WHFldERMNzNwakNfdDlhRXpFM01leUgzdEV2Ymd6SmxQd0hnRWxmMldSbVJYUXBtRDBCY3B3QjctbkZqZy1HV25Nb0V0bjdHNkV5akZ6cjA1UDdzdlNwMktCQ0lBd2x4SFc2amVybF9uWUwt?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-24T00:40:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "92676b6bc2ed6476b13ba2",
-      "title": "Cisco and OpenAI Launch Shirudo eBPF Tool to Shield Linux and Agentic AI Systems Without Reboots",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0haRTR1QXp5ZkRoM0g1Q3RoeVVlMGVRY2lQYlVBVkpvUDh3dUc0SUNOcjdFQWhlZ3dRTFpiRjRkZEl2X3M3ZjNYY3pydjhqbVdXMWJUalJONkhWTGNkQm1iTlJIeXV2anZQS3R5MnFQQ0dUQzZBRlRrVjJNWmsxb01uQklYdG52Z281eURRTEQ?oc=5",
-      "source": "CASRAI",
-      "published": "2026-11-24T00:32:46Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e37b4bf2b0b1d1f9889738",
-      "title": "A Legacy of Excellence: Asia Pacific Enterprise Awards 2026 Celebrates the Philippines' Leading Business Leaders and Enterprises",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQblZmb1k0OVg2WGZ5SzRoMENmdjFFMVVvRTU4enVzV2diZDJiTlEwRTJaSlRkMnpSc2dnak45NDdrQ3NoLUtQZHlPYTRVck50ekwxdFdtdWk2Tzd4TWlvOXd0RmRGUkhVdWloR0luamlxdzIyN2xBNEpwbWMzYnpLeW16d09fc0FDTGRqWUdZU25jTVRBN0czQkUxMUdZbVFTMmthYUxUbUFFUWJtNHdTT0V1MDkwQkV6X1lHTDlUcnVhdTdmdUdrd3BXVWh6S1VBblE1QVJ0XzkyZ0J1RFNVczdQTDFha3NjNXlRVzUzZWx6YTAzLWhrVHh1bjhGaW5NRXIw?oc=5",
-      "source": "Thailand Business News",
-      "published": "2026-11-24T00:30:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d116c3d9f1d390741d8251",
-      "title": "The shake-up facing renters as a new kind of landlord emerges",
-      "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-24T00:28:48Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "e000e454f6b288cbd948ac",
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T00:23:25Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfc/live/c3bcfc70-e6ce-11f1-a9db-c39c38a2d17c.jpg"
-    },
-    {
-      "id": "6f6e6987193acaac0c09fe",
-      "title": "How Is BioSyent (TSXV:RX) Building Its Next Growth Platform?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckljUGQtM3EtcjNZbXBYa3VpUnVpZmVMV0hTLS04MkpFOGxRcEpvajdiZGRYWmRfUTlieTA2QmQ2MHhRYmVvSVFBdkJIc2ZDVnRYZ21MdnR3NG9vNWlOVHhHNmZVYTdnc1RpMDktNW1sNERBejFWOEV0TDI4MWpJbW9ja293RkhrUENGSHRScmxxNUYtSnNocXVZbUJsRkplT05sYg?oc=5",
-      "source": "Kalkine Media",
-      "published": "2026-11-24T00:23:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "36a94fd2c9ae46683c8d9a",
-      "title": "EIOPA to track investments and payouts after Solvency II capital reform",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TVByMlc0RG1DUXoxNTRPUTdoZEJlLTBiS2pTNHNCdHQ0RjdWMVB1Z1NlYzF5YXp4YWdYb1lsSWJzTDVBV0Vidi1zNGt2eFpRTUdRWjlLTDJMTHhmbDZVZDN5UGhPMC1oZ0JGSXlTQ1ViMjFncGtmRjU1SzdHdw?oc=5",
-      "source": "CEO Magazyn",
-      "published": "2026-11-24T00:20:40Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e0eefaba30315faeffdd63",
-      "title": "Nvidia CEO Jensen Huang’s Return Sparks Relief Across AI Markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXp1eFd0VlBnVnh0bUk4WjVyMEd6MlBqaHZzN1JRV29uQzhxclduTFpRUmFEbkZPVjdiT1ZsMDhLY3k3SXlOQ09FZzhfOTc1aXZqeDh2dTU4VW4yTk5vWnNBdHlzZGdlWmxMTWktOUJpNjJtMElWMWF2SU4tNmdLaGpNTWJoWGpVZGJPX0tLMHRxekZRdjhzNw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T00:19:25Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f53d7a9d4f31c892a618b6",
-      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-24T00:11:08Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg"
-    },
-    {
-      "id": "0ff2877103f30dc0bf7bf2",
-      "title": "Google alternative Kagi launches an email service",
-      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230;]",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "source": "The Verge",
-      "published": "2026-11-24T00:02:52Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "07c00c267ad94f2675363c",
-      "title": "Deborah Scherer Helps to Recruit More Global Companies to Columbus",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGo5UkpHRkhTNDFsc1lUMldLSlgzSzdQZlJmTEtCUTlXQkZ5VmRucm1xR2pFTlZYaFlwWkZPNDNhd3BBeTJKVkE3UmthSjhnMkkzdDFibjZ6aU9GeEw2Q2xDUGVTUmZGWmp1ekZGWlkwb01FVm1fdHgtb0NmVHBnX2R3?oc=5",
-      "source": "Centre Daily Times",
-      "published": "2026-11-24T00:01:06Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1799c0a1447805d68e19ed",
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-24T00:01:04Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 20
 }
