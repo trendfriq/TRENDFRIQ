@@ -1,5 +1,77 @@
 [
   {
+    "id": "2faf2fedd6b84aa69fd67c",
+    "title": "TikTok is down",
+    "summary": "TikTok is experiencing some issues right now, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes won't load in the For You feed on my iPhone, and search results occasionally don't show up as expected in the app on iOS or Android, or on the web. Even trying [&#8230;]",
+    "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+    "source": "The Verge",
+    "published": "2026-11-24T20:27:27Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "80e2a13ab4b5d9afe076c9",
+    "title": "Will I get the £100 energy payment and when will I receive it?",
+    "summary": "Here is what you need to know about the payment that millions will receive from January.",
+    "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-24T20:16:24Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg"
+  },
+  {
+    "id": "936a4a6fe18baffcfa50d1",
+    "title": "Apple Outperforms Big Tech as AAPL Stock Nears $360 - Strong Earnings Offset Competition and Foldable iPhone Concerns",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMUFiSTNISXNxRTl0ZlZZMFRhX2ZKV1BUQ0RMQk13YW5DNndtbnFZRmNCUEpoVTF3RVpHU1AzSUJtWHJRRFVHeU9Ga3E0Yjk0NVhIQVdTaXJEcTVnMURhNTY2eGZBSnBOaFlTWVZISmFRME9LOXZfQ0hiSkp2LU82NXdBSmNWUzRob04tZll2ck5lVXBxLV9NUlhWeUN2SlRvSGlVVXkzUHNJSzY4bUxHWUpjYnNGYURPX05WdGVCVEEwNUo0VlFncEpkNU9rR1VacmVwd2ZRZFB6ZmgzR3hETS1Ld1dXRmJ0YnFfT3Jn?oc=5",
+    "source": "FXLeaders",
+    "published": "2026-11-24T20:15:49Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "99bf7a0cfbc2b477f4563c",
+    "title": "23/5 Trading: What It Means for Investor Relations",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrOXpLdFExSlRHZWdrMmYzOWhvaWdQNHF5aWgtWkZxMzltWnhxQi1SZFFHRElfZ3Q5Z0hXbERFYl81R0E2T1FxdlBJRFJ4d3AyS3BWMDY4eFYtZS05WUlwVk1MUlhQd3pkN19ub1B1b1M2TW8?oc=5",
+    "source": "Business Wire",
+    "published": "2026-11-24T20:04:44Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "555529a69b5d605cd29919",
+    "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+    "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+    "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+    "source": "The Verge",
+    "published": "2026-11-24T20:02:03Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9e03187aa2d7946d57c8cd",
+    "title": "The clock is running out for America’s most contentious spying law",
+    "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National ",
+    "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+    "source": "The Verge",
+    "published": "2026-11-24T20:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "61dd2509c83a0880bea5e9",
     "title": "Machine Learning Predicts Customer Cannibalization Across Expanding Restaurant Chains",
     "summary": "",
@@ -8,6 +80,18 @@
     "published": "2026-11-24T19:28:54Z",
     "category": "Technology",
     "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9f7dc2be88ab7914183623",
+    "title": "Despite warnings from the US, Canada and China, South Africa beats Australia and the US in an $11.6 trillion industry, but a North American country clinches gold",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNUZmNlFFNV9WTmkyN2dNWUM3NGxRR0hZcE1pRUhzWU1NQ0xjamVWRDhZMjlmdzd0dmNuOU9wdWtlZTQtUW1feTVqR0xoMXlTblV1X0hfUkZOelNYbVJaY1ZFNXI3X2hkcmFBc01pSElFczhVWWNrNGxERmx3UERjcXBXMmZOb1hFRHNnVE8ya2FiWXVDeWk0Qm1Ka1lseEg2SDRiWjR6eGZaX2p5Y2hYMHBOTnZHME9URnBGQVdSc213aUdLS25QVUE1THdQQTFMZ2JtNzJZMTh3UQ?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-11-24T19:26:35Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -82,6 +166,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a7b2edf9f0d7dbe1eea225",
+    "title": "ZenaTech (NASDAQ: ZENA) Highlights $14M Contracted Revenue Backlog and Recent Infrastructure Contract Wins",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTW9kOFNRSHNIVHFOYnFFUmZOWnVtZDlTS1N4RFNWT0lBQlEyTDRQWEpQUmtfN1hVSE5SdGx6Yi0yWW9pSkdQMjZNcEtMUjJ0OUItNVVVcEk0bkpmN1lmNEFsUjM4Tzktb2R1VDlBVkRTWHdDeHhSWk5RLXhyczZXWUE0NlZJNDFwOHRRR3NmczdGQzczNXZNM1RROG84SmMtX3lwZGtGS3B5U1pBOFlZTnd5LVlPaGxYZkF1RVBxZXRYMGQ5bGZhQzctVXgzazJQSW5IM3UxNnNLS1lGWkN0b3lpNC10RjZweUE?oc=5",
+    "source": "USA Today",
+    "published": "2026-11-24T18:44:25Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
   },
   {
     "id": "6da6ae6cc61678fde38261",
@@ -166,6 +262,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc808307b5e3f691453f80b7c9300755"
+  },
+  {
+    "id": "547fb526a993b4fb0136f0",
+    "title": "Mahama, Steinmeier rally German investors to tap Africa’s investment opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ21OcldGTFpvZ2dCMGk0bFVkeEhwR25qSFMxWWU4cEdwakNWYVpwX0JyaFl4TEMzS3hhaUI4elR3Y216V2dGZnRIYmJadzJHck1pTC1TVkYtdTRWc21RMWpRalJFQ2Y0NUdHMzlTVGQxN3BJTXBpZkV4bjVPaS0xRHJ4NlJBZjAtNUVBaDU1aEFuaENjOFdYTTRMOXozYmZLMm5aS3Jwemk0bnNo?oc=5",
+    "source": "Ghana News Agency",
+    "published": "2026-11-24T17:50:06Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
   },
   {
     "id": "a547ac10f3b5288e24f675",
@@ -346,6 +454,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/uber-nuro-Driverless-Image-.jpg?resize=1200,675"
+  },
+  {
+    "id": "0fe862075d4361c62b1752",
+    "title": "The EU is allocating €490,000 to promote eco-innovations and the development of ‘green’ businesses in Moldova",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUlSUHdWY2c5Y3djc2dVOW1rLUtSeXJaOVZVNWl1TUFtMDVRMFd2eUVFWWdkazdvci1aOVBYeXN2NXlQV0FpakQ2RlVHZlRFUkliUk5GVkoyMlBIVkkyeFpXdER5eDRadUM2TlVER182TFFORzBwQU9ER2tBTVhXQ0k1d1pENWdIM0pkXzVUY3pVWnNOOUE0QVdObzZleVhwcmtKWVVNRGdPLUpVbmFlNTkyWTNoVWZFMkFpeDBnSWRJSmpxX2dDNGlWalJJMnc3SGhV?oc=5",
+    "source": "logos-pres.md",
+    "published": "2026-11-24T16:37:38Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "382477c959ea42f31a5aea",
@@ -838,6 +958,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/2af8dc339680254d727ae111d98215911e512776/312_0_2916_2333/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e39dffc5641134909935e68de4bb2d3f"
+  },
+  {
+    "id": "6ec2498ed76784cb0394c2",
+    "title": "November Belgian business confidence falls to the lowest of the year",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnlob3hWVzRNQ25VNloyNjk3U0hvQ2RkWDk3T3lqWHg1TTMwbzJuQ3V1NlJGbVJFZ3NVN09fcUh3eW5TZHpGRWV2NUVmd1N5bDdLY2lsT29RVHhmVFVuejJhWVhNZDRaSWp1RDhBTjFsaGRZVFZSRG1SR0lfampxQ0VYZHcxekFpNlpSUjBabkI2cHAzaWNsdFNCaFBWQUVlN3c?oc=5",
+    "source": "investingLive",
+    "published": "2026-11-24T14:18:03Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
   },
   {
     "id": "de467baed6b62c3c4f5f0c",
@@ -4846,6 +4978,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "42ab079516ad6e9e287b61",
+    "title": "AI and spies: a timeline of the Nvidia scandal",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DbGQ0WmdhQjNpTWtWTzZBNG53WnV0UXd4Z0ZqQlNEbXJUTlJmaE1fSXRNb0d0TXlueFpiTnkwUUNIN19GejdyWjFnaTRGcGdoUFpRejlZSEN0X3FxZHJvN2hnWEc2LThvd0tLR3RR?oc=5",
+    "source": "AFP.com",
+    "published": "2026-11-23T16:10:10Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "564a07590df6a01377862e",
