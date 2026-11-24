@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-23T23:27:02.905324Z",
+  "last_updated": "2026-11-24T00:24:33.252107Z",
   "articles": [
+    {
+      "id": "0ff2877103f30dc0bf7bf2",
+      "title": "Google alternative Kagi launches an email service",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230;]",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "The Verge",
+      "published": "2026-11-24T00:02:52Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "1799c0a1447805d68e19ed",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-24T00:01:04Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg"
+    },
+    {
+      "id": "80bcb499a131fccf7929c1",
+      "title": "Chinese CEO: ‘Cooperation’ vital for growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUE2MHd2V0pmTXBQTXBfNWdtbjdFcHhCUTJuT2JsTlVOamctQ0RsMVNOVXViLUVZYkV5OE5pNTU2SDFSUTlOOXVZNmtWcTBZUjZnOW1EcjFLLW54YnVhdFZuUy1DTXFXSm1MRVFyQzVJakl3aDNxQjFYN3A3WXBfSUpBaEdYdklRWFhGYjRDTkF5eHpEZjc5NXVhWWl1dGRObExV?oc=5",
+      "source": "The Star",
+      "published": "2026-11-23T23:44:40Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3d9aacd017bc0073630d17",
+      "title": "Jakarta eyes US$3bil export boost from EU deal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWV0eXB2TEd0ZTZxTDh2MzNKdm5oanZ5cHFBb2picEhKUExLeENqcndzOFZOa01UYmhoUkZ6am9pNk5LNS0xQWVEbGhoM3c3YkxNcVNoUnVid2hrdndocVhwbkc1a0xEOC1oTE1kd1FyU2lHMVZWVnhKY0E1cFhsVm50LThPbTVMYUZZYkpnWUxFVGNCN0piZkRzemRNYktacURpUmRrQ2xJZw?oc=5",
+      "source": "The Star",
+      "published": "2026-11-23T23:34:38Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "d42171599ff148708470b4",
       "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
@@ -12,6 +60,30 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "a50266300c606d13d5f7e7",
+      "title": "BPA to Build Europe Logistics Hub Behind Croatia's Rijeka Port",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUR5cU1BMXlKR2pUNjJGVnh4UzJSeGlIRjJLU0QwVVYzTUZGVk9pZlRZai01SnNaV2ZfaWFZNjl0TTNVTGRmVUxOMXBjellMS3BqMi1KelhtRlNnUmoxNEp0S2JHb281aDNtcS0zQkZJdU5HSlY0MWVOaEREMXdKREFxQ25jT2F1YTI0eE44dkl5bkFsblota2t0U0FMZEU?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-23T23:21:37Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b8db15ba02cd7abbe51f77",
+      "title": "Baja California Seeks Better Coordination of Aerospace Talent",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1EwQlV4dkY4X3pPVGkya1R2WFFZUGd2QmJGeU1VbEdJN1h4UnUzQkpDQTRQdi1xU0M2V05xQ3BybnpYcms1ZzFrVzdWbFBTMFdER3lJUWRLaFk2T29VXzk5dEdCZWQyQkgzS0VzNHVMN1o0ODJDSFFPMTY2MVNlMHBRVUJnOXhXMVl6dHhmUVIySWROd1ZqR0pIeVRyb1B5UW9J?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-23T23:20:07Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "66403463587777bcb1001d",
@@ -38,6 +110,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "25d043b118adad46fcdfb8",
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-23T23:10:27Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
       "id": "de22efa4f979e1245f6ab7",
       "title": "Russian incursions into NATO territory are increasing",
       "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
@@ -48,6 +132,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "097fc2fa1fc16eac6c537c",
+      "title": "Symbotic (NASDAQ:SYM) Q4 Revenue In Line, EPS Beats as Guidance Tracks Near Consensus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0ljRU5ZZDFZMDVOU0ZSVnlvWUc5TW14eG50S0RDT0M4eGtYZWc2b3d0Nlp2WWR1eS1uQnFRaFpqeUt5Q2NxSEw3VFloUFZVOVZGSExsRzFyVWNkNjFURlk0N3NfU3dZeU50TGVvUTFEMHZDbW1wYV91ZjB4dEFNOW9LSkpCcjNXZFZPUG1ZQVBmdS0teGFpdEVRNGozOTh0dDUxSzJYazhlU0hndEhpQkQ4Q1hzM1JRQ2M2UGxOQTJKYzhUOXFfLUNfOWo?oc=5",
+      "source": "ChartMill",
+      "published": "2026-11-23T23:08:21Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "3e3d5a4bd74c60af3fe961",
@@ -66,6 +162,18 @@
       "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmVfYmNmU0k5enRsakl5VVJxMURhT3hFNnA5czVPcF9FUVY4MUFaaE5uVTBvVXBRN3RJZTRCZVNKWGJGc2tLQW5yWTNSSmlnVWx2cUM3OHJEcHBEYThhZGRwbnktYjBTVzFRMFczVGVYSkRQbUFNYWFUb0g2dm1vN3ZxUlA0Q0hqb1dMeFZWMFJTMDEwOV9XRDdIdmlRVi1veURiTFNiOFdfQV81UlA5Y2FB?oc=5",
+      "source": "Audacy",
+      "published": "2026-11-23T23:04:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "210f82863f7e02ea0beee2",
+      "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFllY1ZxSHNMMHNfNnlHRElhblBuRWhIZ2Y0TXFxdzFzZVQ3WkJZU0FBajh0Mmd2dmxGWkdmMl9ZWGdKNkxpdUV0R2J3eVV0ZEtoeEYyQzNSdHRad1BvVVgyZEJNT0VWN3p4VTFLYkdEd2NHbnc2T24tbXlLTTVRMEVtOXU5WkpuaEZrQzY4RndaMU5aTHVieVUwMjVMWUZ4djVaTDE5cFE2MWlpeG9rdU5zaEZsV1UtOGc?oc=5",
       "source": "Audacy",
       "published": "2026-11-23T23:04:00Z",
       "category": "World",
@@ -108,6 +216,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ladybird-screenshot.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "b86f6b76a1869944f32c32",
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "2026-11-23T22:34:28Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "885addabdabb75282a419e",
@@ -252,6 +372,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+    },
+    {
+      "id": "0ade0c6454bd1378a4d0f9",
+      "title": "Amentum Holdings (AMTM) Q4 Earnings Top Estimates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmthQ0g1M0FCOWt5UnpxQUpURFVsWTh2XzVCR1BIazVBVU5qQnBVdFRUMW5nVnlrMHFPTDFFRHlYSzhERE1pcXZiTGN1NFY4dGdYdXVFdzFONzl2VW5MdXlJM1ljaVRLWUJRSnZ0dlNTYldUVXppemJBVzEzMjVkNWU1ZUVUbHNvcWxaeXpWdk9xOExCTF9xenlDMzNpWDQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-23T21:45:02Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "8e84e3770e7a447788e8af",
@@ -494,6 +626,18 @@
       "image": ""
     },
     {
+      "id": "2197cf6992992da1ddc43c",
+      "title": "New EUIPO research shows trade marks can help forecast economic trends",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ3NEbldCRnY5ZE85WkljMDhkOW1mQmVsODJibWxTeW5zN2dEWmVCb3ZraVhVX00ycHNxVzRCM1BJMF9jVWlYZTRvN0twTVZBR3BMeHdtRWR0NzFiUHlGc2ZCbjY3TkxkZDU1ajBJWnh0Z3FVeDdRelA2OVU2RVdvN0RlcjNnRGgzS3BuaUZkaWptRjdOV3NQUDk0bTBDS19OYzYzbjhPOWVLQQ?oc=5",
+      "source": "EUIPO",
+      "published": "2026-11-23T20:42:23Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "e0eefaba30315faeffdd63",
       "title": "Nvidia CEO Jensen Huang's Return Sparks AI Market Rally",
       "summary": "",
@@ -516,6 +660,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
+    },
+    {
+      "id": "b5dbaf55fc8761a86ff341",
+      "title": "Data Centers Flood Black Communities Without Residents Having a Say",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNlhUeE1lVm82cGRiak4zVWNiZVBIdHl6Q3htY2EzQVBkSV91bm1xTTBZUGk2LS04aUttOHNpWndCVFQycHpFb2ZPbU5UeUpDdlZlYzBUNHktOE4xUUhEdVEwaWFDNnROQ2Z3RUdqMjdvZUpaWWRlcTd4S1hNRGtxRTZFRWwyaHZZaWRkQkl2NTJ6ME1jWkVNRXh6SUUxRlZMNjZYSGlnOU5GeWdXdFlVRW5xWlkwTnA2Rno5UlU0NF9HbmZfdm9IdUtNVUUtelNXbUtqQmpNZ29kd1pvNG9NbzhJUjh3aEpkRmhtNnlmYzY?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-23T20:35:53Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d06aefceadaf7ddb57d16c",
@@ -698,18 +854,6 @@
       "image": ""
     },
     {
-      "id": "5e758695ecb4320ecbb064",
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuc25zRC1BX1dfTUlVb1dOR252a3luVjRBTVBlZk5qYkhUWTFOeWVyS1RRV3BhaFdYVkdGb3dpTVEyNWFvQUxzYzZLaVBITENOa2phcEprQ0JRdkk?oc=5",
-      "source": "BBC",
-      "published": "2026-11-23T19:13:49Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "abf39997284c1111472bdc",
       "title": "UN General Assembly Adopts, by Consensus, Landmark UAE-tabled Resolution Establishing Regular Water Conferences Every Three Years",
       "summary": "",
@@ -782,6 +926,18 @@
       "image": ""
     },
     {
+      "id": "5e758695ecb4320ecbb064",
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuc25zRC1BX1dfTUlVb1dOR252a3luVjRBTVBlZk5qYkhUWTFOeWVyS1RRV3BhaFdYVkdGb3dpTVEyNWFvQUxzYzZLaVBITENOa2phcEprQ0JRdkk?oc=5",
+      "source": "BBC",
+      "published": "2026-11-23T18:43:49Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "49a5349bc6d77cc28ffbf1",
       "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
       "summary": "",
@@ -790,18 +946,6 @@
       "published": "2026-11-23T18:43:00Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "31408dbd5bde109468544d",
-      "title": "Small Agency Roundup",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aVV9tODBBUGRFVmhxMGNKSEFPMWJ3NjAwNDZNZzFTTW5meE5fTWVwUVdONE9ORXAyTVpFTFpPUHAwMW9uYzRwNmZnN1pyQWN5T1dFak1GMjVOT2VTVlFxX2FaQWlENFlZOEhr?oc=5",
-      "source": "PRWeek",
-      "published": "2026-11-23T18:40:33Z",
-      "category": "Brands",
-      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1018,6 +1162,18 @@
       "published": "2026-11-23T17:57:25Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "31408dbd5bde109468544d",
+      "title": "Small Agency Roundup",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aVV9tODBBUGRFVmhxMGNKSEFPMWJ3NjAwNDZNZzFTTW5meE5fTWVwUVdONE9ORXAyTVpFTFpPUHAwMW9uYzRwNmZnN1pyQWN5T1dFak1GMjVOT2VTVlFxX2FaQWlENFlZOEhr?oc=5",
+      "source": "PRWeek",
+      "published": "2026-11-23T17:57:19Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -1284,162 +1440,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "456ea29d13d5b840409f59",
-      "title": "India-EU FTA to create fresh opportunities for trade, investment, economic cooperation: Olaf Lies",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNzlqbV82aVVlc19uRHdMbDhVV0NHMWZUd0xRZVllSHBUdnRYUGtNLTM1UDZFQnVJR1NycUphZVNDcFVDYk0taVlkTnAwdGNXajhsN1J4c25wck0wZFZYUnhURzctd3U5Z2dOZ1U0RlJhWnQ5TGFkWlBPX1VWNzhYbWxyU0ViREgtQ0tzdGxFN2tpZTFnQjhqa0VYOE1TeW9JR3lxX1BVR3lUdjVfVzk2OGNJWHpFQ2VTZmhDd3Zvc3dYRmxNY0FoVzIyRkRxY2FPc3hldXpDc3g4WDhPaVVtVw?oc=5",
-      "source": "ANI News",
-      "published": "2026-11-23T16:59:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3e04281a8147d9d15cdaab",
-      "title": "Jensen Huang isn’t out of the woods yet",
-      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T16:57:40Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
-    },
-    {
-      "id": "bcfc241ef9d40e6675319a",
-      "title": "Capstone Achieves Two Consecutive Quarters of Positive Operating Income for First Time Since 2024",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmpLaHN5RE40WWw3V0RmbWNwam1fNHRrSHphMTZPUGlGRlFJd3dYeXlFdmhPRTQ1bWM1cnJFZUJtQ0o3TVpyNzc4R1ljdlRHd1V0bTZlczQ5d3QzZXNwQkZHTlJfTkJiVVJGMDNHSUtOeExIaWxQYm1wRzNqdmdBTkhhUllCeTdtU3Jlc3FFR0wwckE0Nm1SSmFzdmJtcG5mWjgxVWhXT0VfQ3p3MFVDRVUxeFZVbjEteGc?oc=5",
-      "source": "Quantisnow",
-      "published": "2026-11-23T16:53:34Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6e7821eaa49cc7e63a19f8",
-      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-      "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centuries-long relationship rooted in the transatlantic slave trade. Barbados says the new partnership be",
-      "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-      "source": "The Guardian",
-      "published": "2026-11-23T16:53:13Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab6951d4cf5c8305be3e08db3a762fe9"
-    },
-    {
-      "id": "18d0c01ab8e41ca21c898f",
-      "title": "inCruises Reports Nearly 30% YoY Global Booking Growth, Doubles Forward Reservations and Expands Cruise Demand Across 126 Countries",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnZTalFjOTlKV1BKT2Rzc2NKdm9lSWNzRTlKa2I2RUIyNWVrNXhiNENoeUFMWDdnamNUQWFBSTlSSU9nOUVHV0J0MnJRaFR3SE9OOWRheGRSNnc1eVlPeG1uRFo3VkxxNXU1RGYycncxdjBWX2VvLUtRQjhLM1hkaEs1dXlBUkpEZDl3UUV3dkFDMk16OHc1OGtrT1VnVnh3VGhqQU5fUWJRX0VYWXVoY1d0azNzNFN0c0VneXhYb3hTYjh4NEhRUFZSQk5zQWxtWHF5Umh0bktBOXNjZTFJQl95WWJZWGlObHZNVQ?oc=5",
-      "source": "Macau Business",
-      "published": "2026-11-23T16:52:59Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0e3b5efa8271e4e80397ae",
-      "title": "Bank of Israel holds rates as Wall Street rout rattles markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83MlFib0EwdXJYWmxvc0pXZWdQU3AtOHBzMDVSX0xQSFFlQVRJN3d3RmpEM2p0N09yUEo2SlNlaDZHRDRQRDJ1NjdDVzhaRUN6NHR2dFpMSTM4ZkVGU1ZWSHVB?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-11-23T16:48:55Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "81111cc6b54022c8336c86",
-      "title": "How to turn research discoveries into profitable companies",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdU0xRXQ4bjFrcG04RGg3Y3BmaHVQak5ER0EyTDlnWFphcnNVeTRNem9wb3ROV1l5b1lxZzEwMGJIQmNEZW9XRTdOd2FhZWxkZzNPQjNLWGdBYWo4ckVrWGtqVEI4LTJXendJa3pjbE1vdWg3cXo3VnVtZVV0NE93N0x2UFliVUY4S05BRDZxUnJub09uLU9BXw?oc=5",
-      "source": "University Affairs",
-      "published": "2026-11-23T16:44:14Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2b9bc02c14805c1430002e",
-      "title": "Why investors are betting on the UAE capital markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLW94UEpLNlU5UFEwTzRVOEY0SUYyVnJxVGZGZVNDUmlxMnB0TkM1QVRhMFNyTEdZcVBwdEVSQW1wbTU4UjVSRklZelVhMTFUQnBOalVWNm5DN2Y3Ti05U3ZweXBHZDVKdTBFaVEzakExWVpYQnFFa3lfTjJYc2JGRllfcVBiZEdLc0VvLUducw?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-23T16:39:39Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "79c3fac607e157536f7c63",
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T16:39:10Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024"
-    },
-    {
-      "id": "f5ab5067ad25840d0a1dee",
-      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, [&#8230;]",
-      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-      "source": "The Verge",
-      "published": "2026-11-23T16:30:11Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b86f6b76a1869944f32c32",
-      "title": "Weekly market commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published": "2026-11-23T16:26:20Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6ec683f571f9c07b0959d9",
-      "title": "APF Canada Welcomes Marwa Abdou as Inaugural Chief Economist",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QTWxQZzhmQWJYS21GSExSakNTb0t4dU9uQjN5RDhXQXJIcjBIcnFEWThfX1FmVHhFOVJLUlVBcEFmdHFmc1Bsc0xwcWhHcm1GTllwYzVKMkk2elNFWVlxcFNB?oc=5",
-      "source": "Asia Pacific Foundation of Canada",
-      "published": "2026-11-23T16:24:58Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1100af5b02a1190fac5471",
-      "title": "CrowdStrike to acquire Zscaler for $44 billion",
-      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
-      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T16:20:11Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/crowdstrike-2162041873.jpg?resize=1200,800"
     }
   ],
   "countries": [

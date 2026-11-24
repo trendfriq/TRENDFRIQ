@@ -1,5 +1,53 @@
 [
   {
+    "id": "0ff2877103f30dc0bf7bf2",
+    "title": "Google alternative Kagi launches an email service",
+    "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230;]",
+    "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+    "source": "The Verge",
+    "published": "2026-11-24T00:02:52Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1799c0a1447805d68e19ed",
+    "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+    "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+    "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-24T00:01:04Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg"
+  },
+  {
+    "id": "80bcb499a131fccf7929c1",
+    "title": "Chinese CEO: ‘Cooperation’ vital for growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUE2MHd2V0pmTXBQTXBfNWdtbjdFcHhCUTJuT2JsTlVOamctQ0RsMVNOVXViLUVZYkV5OE5pNTU2SDFSUTlOOXVZNmtWcTBZUjZnOW1EcjFLLW54YnVhdFZuUy1DTXFXSm1MRVFyQzVJakl3aDNxQjFYN3A3WXBfSUpBaEdYdklRWFhGYjRDTkF5eHpEZjc5NXVhWWl1dGRObExV?oc=5",
+    "source": "The Star",
+    "published": "2026-11-23T23:44:40Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3d9aacd017bc0073630d17",
+    "title": "Jakarta eyes US$3bil export boost from EU deal",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWV0eXB2TEd0ZTZxTDh2MzNKdm5oanZ5cHFBb2picEhKUExLeENqcndzOFZOa01UYmhoUkZ6am9pNk5LNS0xQWVEbGhoM3c3YkxNcVNoUnVid2hrdndocVhwbkc1a0xEOC1oTE1kd1FyU2lHMVZWVnhKY0E1cFhsVm50LThPbTVMYUZZYkpnWUxFVGNCN0piZkRzemRNYktacURpUmRrQ2xJZw?oc=5",
+    "source": "The Star",
+    "published": "2026-11-23T23:34:38Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "d42171599ff148708470b4",
     "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
     "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release [&#8230;]",
@@ -10,6 +58,30 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a50266300c606d13d5f7e7",
+    "title": "BPA to Build Europe Logistics Hub Behind Croatia's Rijeka Port",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUR5cU1BMXlKR2pUNjJGVnh4UzJSeGlIRjJLU0QwVVYzTUZGVk9pZlRZai01SnNaV2ZfaWFZNjl0TTNVTGRmVUxOMXBjellMS3BqMi1KelhtRlNnUmoxNEp0S2JHb281aDNtcS0zQkZJdU5HSlY0MWVOaEREMXdKREFxQ25jT2F1YTI0eE44dkl5bkFsblota2t0U0FMZEU?oc=5",
+    "source": "Seoul Economic Daily",
+    "published": "2026-11-23T23:21:37Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b8db15ba02cd7abbe51f77",
+    "title": "Baja California Seeks Better Coordination of Aerospace Talent",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1EwQlV4dkY4X3pPVGkya1R2WFFZUGd2QmJGeU1VbEdJN1h4UnUzQkpDQTRQdi1xU0M2V05xQ3BybnpYcms1ZzFrVzdWbFBTMFdER3lJUWRLaFk2T29VXzk5dEdCZWQyQkgzS0VzNHVMN1o0ODJDSFFPMTY2MVNlMHBRVUJnOXhXMVl6dHhmUVIySWROd1ZqR0pIeVRyb1B5UW9J?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-23T23:20:07Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "b8bb9b15845ecf137424a2",
@@ -24,6 +96,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "25d043b118adad46fcdfb8",
+    "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-23T23:10:27Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+  },
+  {
     "id": "de22efa4f979e1245f6ab7",
     "title": "Russian incursions into NATO territory are increasing",
     "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
@@ -34,6 +118,18 @@
     "topic": "NPR",
     "country": "",
     "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+  },
+  {
+    "id": "097fc2fa1fc16eac6c537c",
+    "title": "Symbotic (NASDAQ:SYM) Q4 Revenue In Line, EPS Beats as Guidance Tracks Near Consensus",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0ljRU5ZZDFZMDVOU0ZSVnlvWUc5TW14eG50S0RDT0M4eGtYZWc2b3d0Nlp2WWR1eS1uQnFRaFpqeUt5Q2NxSEw3VFloUFZVOVZGSExsRzFyVWNkNjFURlk0N3NfU3dZeU50TGVvUTFEMHZDbW1wYV91ZjB4dEFNOW9LSkpCcjNXZFZPUG1ZQVBmdS0teGFpdEVRNGozOTh0dDUxSzJYazhlU0hndEhpQkQ4Q1hzM1JRQ2M2UGxOQTJKYzhUOXFfLUNfOWo?oc=5",
+    "source": "ChartMill",
+    "published": "2026-11-23T23:08:21Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "3e3d5a4bd74c60af3fe961",
@@ -52,6 +148,18 @@
     "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmVfYmNmU0k5enRsakl5VVJxMURhT3hFNnA5czVPcF9FUVY4MUFaaE5uVTBvVXBRN3RJZTRCZVNKWGJGc2tLQW5yWTNSSmlnVWx2cUM3OHJEcHBEYThhZGRwbnktYjBTVzFRMFczVGVYSkRQbUFNYWFUb0g2dm1vN3ZxUlA0Q0hqb1dMeFZWMFJTMDEwOV9XRDdIdmlRVi1veURiTFNiOFdfQV81UlA5Y2FB?oc=5",
+    "source": "Audacy",
+    "published": "2026-11-23T23:04:00Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "210f82863f7e02ea0beee2",
+    "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFllY1ZxSHNMMHNfNnlHRElhblBuRWhIZ2Y0TXFxdzFzZVQ3WkJZU0FBajh0Mmd2dmxGWkdmMl9ZWGdKNkxpdUV0R2J3eVV0ZEtoeEYyQzNSdHRad1BvVVgyZEJNT0VWN3p4VTFLYkdEd2NHbnc2T24tbXlLTTVRMEVtOXU5WkpuaEZrQzY4RndaMU5aTHVieVUwMjVMWUZ4djVaTDE5cFE2MWlpeG9rdU5zaEZsV1UtOGc?oc=5",
     "source": "Audacy",
     "published": "2026-11-23T23:04:00Z",
     "category": "World",
@@ -226,6 +334,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+  },
+  {
+    "id": "0ade0c6454bd1378a4d0f9",
+    "title": "Amentum Holdings (AMTM) Q4 Earnings Top Estimates",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmthQ0g1M0FCOWt5UnpxQUpURFVsWTh2XzVCR1BIazVBVU5qQnBVdFRUMW5nVnlrMHFPTDFFRHlYSzhERE1pcXZiTGN1NFY4dGdYdXVFdzFONzl2VW5MdXlJM1ljaVRLWUJRSnZ0dlNTYldUVXppemJBVzEzMjVkNWU1ZUVUbHNvcWxaeXpWdk9xOExCTF9xenlDMzNpWDQ?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-23T21:45:02Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "1b74fa1276a1faf4f1821e",
@@ -420,6 +540,18 @@
     "image": ""
   },
   {
+    "id": "2197cf6992992da1ddc43c",
+    "title": "New EUIPO research shows trade marks can help forecast economic trends",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ3NEbldCRnY5ZE85WkljMDhkOW1mQmVsODJibWxTeW5zN2dEWmVCb3ZraVhVX00ycHNxVzRCM1BJMF9jVWlYZTRvN0twTVZBR3BMeHdtRWR0NzFiUHlGc2ZCbjY3TkxkZDU1ajBJWnh0Z3FVeDdRelA2OVU2RVdvN0RlcjNnRGgzS3BuaUZkaWptRjdOV3NQUDk0bTBDS19OYzYzbjhPOWVLQQ?oc=5",
+    "source": "EUIPO",
+    "published": "2026-11-23T20:42:23Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "e0eefaba30315faeffdd63",
     "title": "Nvidia CEO Jensen Huang's Return Sparks AI Market Rally",
     "summary": "",
@@ -442,6 +574,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
+  },
+  {
+    "id": "b5dbaf55fc8761a86ff341",
+    "title": "Data Centers Flood Black Communities Without Residents Having a Say",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNlhUeE1lVm82cGRiak4zVWNiZVBIdHl6Q3htY2EzQVBkSV91bm1xTTBZUGk2LS04aUttOHNpWndCVFQycHpFb2ZPbU5UeUpDdlZlYzBUNHktOE4xUUhEdVEwaWFDNnROQ2Z3RUdqMjdvZUpaWWRlcTd4S1hNRGtxRTZFRWwyaHZZaWRkQkl2NTJ6ME1jWkVNRXh6SUUxRlZMNjZYSGlnOU5GeWdXdFlVRW5xWlkwTnA2Rno5UlU0NF9HbmZfdm9IdUtNVUUtelNXbUtqQmpNZ29kd1pvNG9NbzhJUjh3aEpkRmhtNnlmYzY?oc=5",
+    "source": "The Washington Post",
+    "published": "2026-11-23T20:35:53Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "d06aefceadaf7ddb57d16c",
@@ -1330,6 +1474,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "dabaf8cbb1147a0ac93d0d",
+    "title": "General Motors Company (GM) Stock Price, News, Quote & History",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CSUxWbzJ3X296QUx6WERrQUVJWTVHMW5SRVY1QlhaTVZtZmtDR0FRT2xrMjFBNjJTeDNNaV9OVGhEbHVQY2RjSUVFMA?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-23T16:03:04Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "9d65e06542d9b0e8ee250f",
@@ -2448,6 +2604,18 @@
     "image": ""
   },
   {
+    "id": "1020c3cde9048cf7fd6162",
+    "title": "5 Best Dividend Stocks Of 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uT01UX0JOXzF1dld3Um5YbGZDVDNXT09IM0hmcWJFZzJTRFgwTy1tU01kckRXWm9rNENOT284VWcwWGhVRXdxZG5mS01MVlo4QlVodGhLeFViT3k2N3EySTV2dWJGdHNLcFJPOE5wbw?oc=5",
+    "source": "Forbes",
+    "published": "2026-11-23T12:32:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "0e2fda46781daba6d669ed",
     "title": "Texas Instruments vs. Lam Research: Which Chip Stock Is a Better Buy?",
     "summary": "",
@@ -2516,6 +2684,18 @@
     "published": "2026-11-23T12:16:57Z",
     "category": "Technology",
     "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "242d844bc67d4a9f856ae8",
+    "title": "Economic trends in CESEE EU member states",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2gybmlKME5lLTRrU0dGdzVsRFhIZkM2R1BLMWlvNmw5Q0p3Rmh1TlBGcEMtaU5oTTN6ZElfWHdjdmczeTdwVGZSeEVvY2NlZ2pxZENQZWRqUXhoTld4bXo4R3Z1YktLNTF3U3g0d0ZNNHcxMk5IT29HbndDLUlHaU5uSEJJblBlWDBZQmxETEN4cWZTRFNfb2lxQ1Jxd1N3WndsYkIzR2RXQ3VlRlhRd3ByRQ?oc=5",
+    "source": "Oesterreichische Nationalbank",
+    "published": "2026-11-23T12:11:40Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -4104,6 +4284,18 @@
     "image": ""
   },
   {
+    "id": "54797156bae86aefb2576c",
+    "title": "Japanese Insurers Rethink Their Asia Playbook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42QnVfTG9FLW5mX1lybEdrTFpCd1dTRnJQOFdDdE9RWGlaS3RYVEtUdlBtOTlFUU9TdzJvczNrWTh6UkY2N1ZsQkVmRzNnVW10TUwyc1h0QmZfTGIxcjdrdnlRREtrOE9HZ2IyMEUwU0VUTFQ4bVF4b241d1luV1U?oc=5",
+    "source": "Global Finance Magazine",
+    "published": "2026-11-23T06:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "b1817f20330748b526642d",
     "title": "How will the world change after the China-US-Russia summit?",
     "summary": "",
@@ -4376,6 +4568,18 @@
     "published": "2026-11-23T03:37:04Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "36bf1ef999798079073ca2",
+    "title": "Investment banking & brokerage stocks Q3 highlights: PJT",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzhLMFI1WGFZN3UtWVk3TlZqLTYxYkVZMTg0ZFA0S3NkSGFwS3RqS252QnBJMmJYV1hhMVdYclhIWTRkV1BYNUtWbUk2aTlvZldxR3dPb05sN3dzeXdhNWNxSGNjRzZqbGxzUzVwNmxUT1BOYzBoY3NnZXlQMktDTW5VUUtIYi02M1M4Yi1hNEM3dGtqcUxYaW1hSS1MckJBcmo2NE9EVGhDXzBVaWUzR2FuTkE?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-23T03:34:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -7364,6 +7568,18 @@
     "published": "2026-11-21T17:18:10Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e1e8a75e401dd3079ebcfc",
+    "title": "Mt Eden prison contract loss spurs Serco's Asia Pacific earnings drop",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMnh2VDdQZVR5YmhibUtNOWFQVk5NRGp2RFBlckUxSkJjYVhZcmpwZGdNNW43cDBOeFhub3NXaXF0RGxHV3piU1BvclN6YmNpOWgzRUl0WW8wRjZjbTcxSUxBRUxHcDBGLW1COURjTmJkQ2RmbElCa1lwSUo3MWNyaFRPQnNEc1pQLS1OVmRaaFBGT0hnYVc2ZE9KWFdPVVp5U0hGbUM2djFDQmhIS3RQRG1kamk1a3ZvQkdEcG5FRTRYcWVhLWhPaGloV2o?oc=5",
+    "source": "BusinessDesk",
+    "published": "2026-11-21T17:12:32Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
