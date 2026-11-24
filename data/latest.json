@@ -1,17 +1,89 @@
 {
-  "last_updated": "2026-11-24T10:57:18.194748Z",
+  "last_updated": "2026-11-24T11:59:07.088595Z",
   "articles": [
     {
       "id": "d27c313a3612fa928e7fdb",
       "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ",
+      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Huang’s return to Nvidia, despite concerns over his conduct and",
       "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T10:55:19Z",
+      "published": "2026-11-24T11:57:39Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=153a51d289fd16cd48268ed59b19e1de"
+    },
+    {
+      "id": "7d7f4d8307ee3c66b9f08c",
+      "title": "Egypt seeks more Greek industrial investment, eyes regional export hub role - Economy - Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PWktmWHZvd1c2OU50b1M3ZmtRYlM2TDZNZG1CSUNOblJHem5WVTB4azd2aG9jaC1JWS03SWp4aEotYWE4U0o1TGhpcGtTelZkcmZObmVYSTk?oc=5",
+      "source": "Ahram Online",
+      "published": "2026-11-24T11:41:28Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "61d0074ff6f24ab99ca55e",
+      "title": "Medtronic Posts Mixed Q2 Results, Maintains Annual Forecast",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQW8yeDktOEk5dG1MZmtSWENlSUhZa3ZRRl9DVVpaWXIxZy15Y0ZOZ0lWMk9MZ1hrTXR3eHBDZk9vV0FZVW1PTjZvTFhOVGtlVUQ3ZGI0WGJKR3NTVDlLUm1hbWxlcGd0bXdfdzRWTTVueGVLSFNqeVRTdWdPZ2pFM05iM2g5Q3BaVGt2YVVUY1N4NUxRVi1XUFZvTDljZw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-24T11:39:50Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0b4e71bd35044ffc76e378",
+      "title": "Wall Street Wants a 23-hour Trading Day, Is the Back Office Ready?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDdjZmVSblROLVVWa0xqQ0szdUthQ3Uza1dqZTk4NUtNeEVUQUozc3A5dG9sQzN2dXV6RHNGTkM1YUNCcHAwWW5qRTRPMVloQWxKNThaVFgybEIyVHFPM3l6c2c4eWUtdXdrMmtzUEdORHpmN1VjLW1mZlFjTk1YYXppYkViZU8tMnRJUmh1ZWVJYThz?oc=5",
+      "source": "Quantisnow",
+      "published": "2026-11-24T11:36:37Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4e84c92e11dc562a514b2b",
+      "title": "Gulf’s early AI investments are starting to pay off, says Amazon’s Ronaldo Mouchawar",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlhSb1pMbGRqMWV1Sm9zbkNQdmYtY0M4LUhHTXVGWHR6SUZSZldoQldEcnhSMXc3aTdBNG1TbUZSaG8ySDN1UU5nYzVtZDQ3UWZtZ05IckY0NDBOVUVxY2dlbzJRVzJIc0ZBWDlYZW5RUUdRN3NZRTE0UE5NMkV3YmZyblN2aWRlRHZrXw?oc=5",
+      "source": "Arabian Business",
+      "published": "2026-11-24T11:11:45Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8a11be66dc0b8ac7441343",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T10:58:51Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "ed57d16e3be58d814d855c",
+      "title": "German business morale rises again in November",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3BubGNuTkFwUXY4ai11MGJwY1R2SGV1c1MwZC1JajVyV0hFMHF0SlFVU0xPU2R1RWt0QjZmSFY1bnF2czBpY0g0U3BjZm81MmFhVGZSZmtFZzNxd3Y1aWNrMEktNDJLdGJPc0RCZVRPcm9ab0p6UEMxaFZRQUVyalBRNEtWMnVwOWlkYUV0VEhSZDJHX0otaA?oc=5",
+      "source": "France 24",
+      "published": "2026-11-24T10:57:16Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "25d043b118adad46fcdfb8",
@@ -24,6 +96,30 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
+      "id": "1b4e589be04eedf34f69e8",
+      "title": "Representatives of European regions and local communities gather in Dublin to accelerate adaptation to climate change",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa3p4TG9xZHhIeXg2ODhzUEFBbHE4NVkzdDVOZmZvWDQzM0RqcUFGOFlJY0lyakR5Skc5ZUkzWWhTQzF1S3JhS3Z1V1hBSFNwY0Ztd2VxR1RFemZxUUp0Q0luSS1jSkhaTWZrcGEtRkwtNTNncXFrdWNmcE1HWGdULTJjVkg1ZzhGd3BMOThJbWI4dGtRdTdtTXpBbVRBcnNsc2pPS2UtR3dHd1hoenh0Y0p4UmFudWlIekxNdDE2Wm0wb3VmQmx2c0ctZzZFNlBfazJUc0wySnZpX1dPVGhzZTRNRFJNUjZCSXFiek9LUWFrU25EbVlZag?oc=5",
+      "source": "climate.ec.europa.eu",
+      "published": "2026-11-24T10:51:05Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0e380e226e566a55b13b33",
+      "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzQzaW8ybWpocDRMUXdIRU1XWXk5TmZEa0F4VG10U19qamdObWdpMDFKeFNsdWMtRlI2RDRxUDllUm9WaTEyVlc3MllMZWZueVRIWGtVTTZJdVhyQm1DbnVaNU1YMkRhbHdKQUxRT3FOQ2dXOXR4LXlnNXBNVkpKeE9hQlRzbHhLbWJHdlMydHllMGJMamNCVm04TWwxUUtRTXhhQUZoY3ZONURYVHFpdDliWWRONGR1NHfSAb8BQVVfeXFMTUtjTm5TTXAxUTFsSERQWTlKQ1c2NDd0NVJDa1dBTm1fSEJyZ2hGZTRJX29YamI4TFB1TUJiY0hoTjQtWk41aUpObzFGX0E5QVBCNFZUNzFyNHh6c2JkcU90MWxXZVE3WnpZOFdlR2VCU1MwemJvTGVOZTJLLXZUY201N0hVc0RhYjUyejluZ0U5UDhZZ2MyeU1MbXh6RkpJSUx5dmtub2F5bW9GZFF1Z0JJQTVOeGNvLXk0cHhMam8?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T10:49:39Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ff6c6aedbd710a87e341b9",
@@ -86,14 +182,14 @@
       "image": ""
     },
     {
-      "id": "b86f6b76a1869944f32c32",
-      "title": "Weekly market commentary",
+      "id": "a8e5111ec17a30dccb79e8",
+      "title": "Wall Street Futures Stabilise Following Nvidia Rebound as Fed Policy and Technology Earnings Remain in Focus: Dow Jones, S&P, Nasdaq",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published": "2026-11-24T10:16:27Z",
-      "category": "World",
-      "topic": "Americas",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcXpWc285eGNLSXcxM3pIeWcyYVc1cklwc3V4NkEtRUlUT2k4ZWFnVHdHRVNzLVR1Y1JVeHBreGJ1Tmd6SmVKQ2U1YWxlclFHZFF0VDlyS19PMF9KVHNCVEZ1VVBrQzZ6dmoyQlN3RXkta0xXVlVHTjlTN0lKb2p2d1VXM3VkMjBZOEtTVDU5NE8yZw?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-11-24T10:15:36Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -374,6 +470,18 @@
       "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d371a0004e0bee9a09bfd9ada713138"
     },
     {
+      "id": "919fcde4be27bbb096ce3c",
+      "title": "RBI Rate Hike in December 2026: Impact on India’s GDP Growth, Inflation and Stock Market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KWGY3V3JXOEhRalZhZnVhWkxJd2ZJSURPNkpxU29Hc1lJSHZpcTZvUjBOUmc2VDg2LUczelFmNjZmU3RtT2pCNXdyYTlmWHVzV3lOSnh4RDJCaExzWTlrVHJkNkxtMFhyc0R6VS1XajVCN2xxZGhPQmZn?oc=5",
+      "source": "Alice Blue",
+      "published": "2026-11-24T08:25:19Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5d6d1bd41f63e96df8fd9a",
       "title": "Opinion: Biotech’s fear of global expansion is overblown, risks destroying asset value",
       "summary": "",
@@ -404,6 +512,18 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFNLaXZKR0thNlVnT0E1T3VFOHd3aF9YdHVOU1RyMnhPRWtTaUdCNW1iTTVBVUZZNV85VndaYzNJZ3llNEJjN2lkMHBWQ2F1RDN6ZmFzZy13aEtJdXJhbHliZ291MC1pRWVEXzJKWkdnNjJaNmhTUWs5eHJnRGZzRk45QnM5dEZ6TFVORzVOd3I0emlfUG50R2xqNExqQQ?oc=5",
       "source": "FXStreet",
       "published": "2026-11-24T08:19:57Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b86f6b76a1869944f32c32",
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "2026-11-24T08:14:35Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -938,18 +1058,6 @@
       "image": ""
     },
     {
-      "id": "0e380e226e566a55b13b33",
-      "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzQzaW8ybWpocDRMUXdIRU1XWXk5TmZEa0F4VG10U19qamdObWdpMDFKeFNsdWMtRlI2RDRxUDllUm9WaTEyVlc3MllMZWZueVRIWGtVTTZJdVhyQm1DbnVaNU1YMkRhbHdKQUxRT3FOQ2dXOXR4LXlnNXBNVkpKeE9hQlRzbHhLbWJHdlMydHllMGJMamNCVm04TWwxUUtRTXhhQUZoY3ZONURYVHFpdDliWWRONGR1NHfSAb8BQVVfeXFMTUtjTm5TTXAxUTFsSERQWTlKQ1c2NDd0NVJDa1dBTm1fSEJyZ2hGZTRJX29YamI4TFB1TUJiY0hoTjQtWk41aUpObzFGX0E5QVBCNFZUNzFyNHh6c2JkcU90MWxXZVE3WnpZOFdlR2VCU1MwemJvTGVOZTJLLXZUY201N0hVc0RhYjUyejluZ0U5UDhZZ2MyeU1MbXh6RkpJSUx5dmtub2F5bW9GZFF1Z0JJQTVOeGNvLXk0cHhMam8?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T03:40:04Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "67a89972503948feda49fd",
       "title": "Market correction manageable: SinoPac",
       "summary": "",
@@ -1008,18 +1116,6 @@
       "topic": "Africa",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "8a11be66dc0b8ac7441343",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T02:15:59Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "d6c7aaa7b81c7da64db45a",
@@ -1239,7 +1335,7 @@
     },
     {
       "id": "d116c3d9f1d390741d8251",
-      "title": "Why the rise of the corporate landlord could lead to a two-tier rental market",
+      "title": "The shake-up facing renters as a new kind of landlord emerges",
       "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
       "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -1344,102 +1440,6 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg"
-    },
-    {
-      "id": "a0f9bfe1c515dba4f23d9f",
-      "title": "Gator Capital Management Q3 2026 Investor Letter (GATRX)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaVVpVDZGdFo1eUdrM2RZSjJROWM0SS1OYS1kcS1Ocko5SWZwbU94dmRaLWRuS0ZCRkVIVHk4Snh5bEtlMkpCWFJmSThMZWhDR3pXWGtKVmNCaUd3dzNzRG5tYnVjMHZrNFJ6aVh5MHM3VVV3c2o1WnJwb2N3ZWsydWFmZlFsb2FBV2s4TnRialVNM0E?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-24T00:00:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "80bcb499a131fccf7929c1",
-      "title": "Chinese CEO: ‘Cooperation’ vital for growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUE2MHd2V0pmTXBQTXBfNWdtbjdFcHhCUTJuT2JsTlVOamctQ0RsMVNOVXViLUVZYkV5OE5pNTU2SDFSUTlOOXVZNmtWcTBZUjZnOW1EcjFLLW54YnVhdFZuUy1DTXFXSm1MRVFyQzVJakl3aDNxQjFYN3A3WXBfSUpBaEdYdklRWFhGYjRDTkF5eHpEZjc5NXVhWWl1dGRObExV?oc=5",
-      "source": "The Star",
-      "published": "2026-11-23T23:44:40Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3d9aacd017bc0073630d17",
-      "title": "Jakarta eyes US$3bil export boost from EU deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWV0eXB2TEd0ZTZxTDh2MzNKdm5oanZ5cHFBb2picEhKUExLeENqcndzOFZOa01UYmhoUkZ6am9pNk5LNS0xQWVEbGhoM3c3YkxNcVNoUnVid2hrdndocVhwbkc1a0xEOC1oTE1kd1FyU2lHMVZWVnhKY0E1cFhsVm50LThPbTVMYUZZYkpnWUxFVGNCN0piZkRzemRNYktacURpUmRrQ2xJZw?oc=5",
-      "source": "The Star",
-      "published": "2026-11-23T23:34:38Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f4e5724ce2cb7fa50e6fe3",
-      "title": "SEGG Media reports strong Q2 momentum across Veloce and Quadrant",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2NEckxaTlh0TWVhRWdPMUZvbXJoQ2Y2M3RJTFVHVFN3OXIyXzhEcFB3MEdNaGNUTkh6NmwzTHBVajRaajNkN09ZRl9rZl9SUnMxaGk5TVVtU29iNG5ZRGRKQVd2NzlSN1V2c0hnSGVBNWcxWjQwcEhCQ19SOWRnRDVWTEhaZThqbUFuQjZ4M21rTTg2MURNbFJZUEVwM0JUcjZUZjNPRWF1cGUzZUNybWhTNnd2M19neUlnejBR?oc=5",
-      "source": "scanx.trade",
-      "published": "2026-11-23T23:31:23Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d42171599ff148708470b4",
-      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release [&#8230;]",
-      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-      "source": "The Verge",
-      "published": "2026-11-23T23:25:01Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a50266300c606d13d5f7e7",
-      "title": "BPA to Build Europe Logistics Hub Behind Croatia's Rijeka Port",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUR5cU1BMXlKR2pUNjJGVnh4UzJSeGlIRjJLU0QwVVYzTUZGVk9pZlRZai01SnNaV2ZfaWFZNjl0TTNVTGRmVUxOMXBjellMS3BqMi1KelhtRlNnUmoxNEp0S2JHb281aDNtcS0zQkZJdU5HSlY0MWVOaEREMXdKREFxQ25jT2F1YTI0eE44dkl5bkFsblota2t0U0FMZEU?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-23T23:21:37Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b8db15ba02cd7abbe51f77",
-      "title": "Baja California Seeks Better Coordination of Aerospace Talent",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1EwQlV4dkY4X3pPVGkya1R2WFFZUGd2QmJGeU1VbEdJN1h4UnUzQkpDQTRQdi1xU0M2V05xQ3BybnpYcms1ZzFrVzdWbFBTMFdER3lJUWRLaFk2T29VXzk5dEdCZWQyQkgzS0VzNHVMN1o0ODJDSFFPMTY2MVNlMHBRVUJnOXhXMVl6dHhmUVIySWROd1ZqR0pIeVRyb1B5UW9J?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-23T23:20:07Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "66403463587777bcb1001d",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-23T23:16:08Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
     }
   ],
   "countries": [
