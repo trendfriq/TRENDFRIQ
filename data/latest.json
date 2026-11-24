@@ -1,17 +1,101 @@
 {
-  "last_updated": "2026-11-24T08:49:20.584891Z",
+  "last_updated": "2026-11-24T09:52:25.903765Z",
   "articles": [
     {
+      "id": "25d043b118adad46fcdfb8",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-24T09:42:54Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
       "id": "d27c313a3612fa928e7fdb",
-      "title": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
+      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
       "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ",
       "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T08:45:45Z",
+      "published": "2026-11-24T09:39:35Z",
       "category": "Economy",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=153a51d289fd16cd48268ed59b19e1de"
+    },
+    {
+      "id": "217d643100a86d27339793",
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-24T09:33:00Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg"
+    },
+    {
+      "id": "445aae494df70c9780418e",
+      "title": "BMR president Mujtaba: ‘Next chapter is about adding value’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORndBYkxxSnVNVXYycURpT1h2ZDZwakFxaWZFLVhTNzU3YTFxSHJ1OENXWE0zR3RXZ1JyQlEzX3pRb2FXM2tXZkluMERibEw2TDV1cEU5cW5MNkMxNTZhZk44ZFZ1a2h0b3ZINk1CNm9jLWxha1JVbXZCQWRsb19lX3R6OGJNTEZoRWNuVnZ6cmlTcHduSkRBRldqd1pGTl9NTmo3ZlBuQ0tESXFHWURZUG51VlRpZmJZ?oc=5",
+      "source": "Recycling International",
+      "published": "2026-11-24T09:32:30Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3af0db92938c8f49feb4cb",
+      "title": "UT Health San Antonio $2M CPRIT Cancer AI Grant",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0t4Q3htNEdUV29JSHhlRHRBYm5VdzJicFlxMGpJVjJmRGhHLWVMMjFOdDc5UkdZZ1hjMnVKUUNaNzY1UU5OdlFvUXpVMXdDWEl4VTg2V1B5dXFxZ1RpUnV6djBQVExVNTliYVAxWFc5NHVFNEJhLXhTdUE0bkxCTnJYY0llMTJCbTRpNG9yYTVaRDN0T1lqN25hNTdfT3VmdUFB?oc=5",
+      "source": "CASRAI",
+      "published": "2026-11-24T09:07:37Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "75422706f8f70a3ce12e51",
+      "title": "How Schneider Electric is Electrifying Europe’s Future",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanVlVE5Jekh1MTdpc2NtR3Vta0RoTTlyTERjSGxtcVZ0NFdmd3UwbkticVdvUVVySnpBX2xhUGNHcjFGY2Jna05uWXJyU3hmZENHWF9UXzdrVnEyRndYTHdCdUlIRnJhd2hleHM3QVJHblpkeVhMZkptRks2dFEwRExnR2U2THdZcjZmb2tDYTFYZ3Nkd3hSTmNkSQ?oc=5",
+      "source": "Energy Digital Magazine",
+      "published": "2026-11-24T09:05:08Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d62ed26bb384c9afa4fb17",
+      "title": "Dell Q3 Earnings Preview: AI Server Revenue Expected to Reach $85 Billion, Wall Street Sees Up to $700",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTEg5dUVueW92OGJkRUF4c0dpdWZIdlBsNWNCdkZ3bkFMcWRiOUxaTklyd1pHNHdVanpsTGdJMVhzS2xhSWdLaDRsdGxpTFJNaV9Tb2x4dVQwWGRyc3BwQjU1RFJudlZhUDJrLVVpQnRFSlFmQkpxMXctOXpZN0JFUFcxclJuT1hJODhqeWNiWHRwSm1tZm9kOXVlR1d3ZFhvNVA4XzU4WUVwWURhTFJ3b3NCdjcwcUk?oc=5",
+      "source": "TradingKey",
+      "published": "2026-11-24T08:57:09Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4e456bff9e090ed938895f",
+      "title": "EU and Mauritania Agree on a New Protocol for Sustainable Fisheries and Cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZzlNS2NqdFNoS1dhcHVrZ0tscFBlTXZqOXppMDBCRTRVUGExZ3FJSEFQQUtKUG5KZVFyVEYwY3pWN2pEVEhHOUZocXF3RUtHLVVKMWM0eXFXSUJnMHFOYW5rRzFqRHIwbEhxbVVrWFBISTgyeWo4NGl0c01VdkNyX0hZaHNYQjMtRnFmSktLUjlSeHl3MUZ5Sjk2dWdmRndrUEN4MDZ5VUtSZ2hHV0pZUTBDWThZOHVNa3FaeXBHcG1tRk9tZ3BaWXlsUjFTWHhCcUhUTHlJUU5Vc2tfdWZzSGRKZ2NZNy14T1ZQbQ?oc=5",
+      "source": "Atalayar",
+      "published": "2026-11-24T08:45:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "ff6c6aedbd710a87e341b9",
@@ -38,6 +122,18 @@
       "image": ""
     },
     {
+      "id": "d9d1341cac103b26b63547",
+      "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+      "summary": "Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang ",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "source": "The Guardian",
+      "published": "2026-11-24T08:28:00Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d371a0004e0bee9a09bfd9ada713138"
+    },
+    {
       "id": "5d6d1bd41f63e96df8fd9a",
       "title": "Opinion: Biotech’s fear of global expansion is overblown, risks destroying asset value",
       "summary": "",
@@ -62,6 +158,30 @@
       "image": ""
     },
     {
+      "id": "b86f6b76a1869944f32c32",
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "2026-11-24T08:14:35Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "156960d26c684ed3767806",
+      "title": "Africa Moves To Leverage Intellectual Property For Economic Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KRDV5LVR5M01hMWg0VXlHbVJXcDNuaUxqY1JOQi0xeFJvUnRsU3NPNzlyREVEc2F5aGpHYXBjNXZjZw?oc=5",
+      "source": "News Agency of Nigeria",
+      "published": "2026-11-24T08:14:03Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9f9c8e6150f42265240971",
       "title": "UP Fintech Holding Limited Reports Unaudited Third Quarter 2026 Financial Results",
       "summary": "",
@@ -70,6 +190,30 @@
       "published": "2026-11-24T08:00:00Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d2b1ce8fd121b584ebd390",
+      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW91bDlWeXB6eW1vVC1rVWQzZlFvNmtrSHMxN1Y2THgzTDNDc3VDZGk0d2R3Y0pUOW1pVDdrTXVwcU5lck4tSGNrX1dTZ0pSQVEyc21wSUdFdFJVUldET2sxcEFzS2gxWGNHRFJvMVIzSC16UUpGOGV1bnNoMmJ2NmxWOUlWaUdZSW8xVGpia3NMVHYt0gGUAUFVX3lxTE43MzBKUVFtU0t4ZEM1cmV4b2J3Wk8wYUtRVkwydXlDS0MwcFpjLVBNVnFTVDQxUFpEZ1hkXzN6aGNEc1hwcE1LR09CektONnJscjRXZGNhRFpZeUNnUXhNaG50VF9CQ0ZabFExMzFNYUtpd3RLLUxSRmNldU80OE5WLTZ4a2dBXzF0ejQzNThoZTVCbHg?oc=5",
+      "source": "DW.com",
+      "published": "2026-11-24T07:40:13Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e38e30f73b7cf7452da60c",
+      "title": "American Express Elevates Jessica Ling as Chief Marketing Officer",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzJGQ2hJSVRMR19KU3BSWHZlUkxRWmVvcXRHQ0JSVVJuT2p1bmowUDh5cTNpMVlxclEyWk54Y0xyQWZ5QnA1eTZiX2pHZTVhc2Z2cHc0cGladEFXaGJjbTRBLWtmMDhsRmZtUENLQ0ZqMkZsS3h4V1lyakV1YXBhcnZxby1MbUs3Zy1zRER3?oc=5",
+      "source": "https://hrtoday.in/",
+      "published": "2026-11-24T07:30:57Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -87,7 +231,7 @@
     },
     {
       "id": "c2d8990c4b9f1e11991705",
-      "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
       "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
       "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -168,6 +312,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg"
+    },
+    {
+      "id": "f3acfef35d74766290195c",
+      "title": "European Earnings Boom Challenges Wall Street Amid Profit Surge",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlV1Z0pHTjlUUGIwNWVrdVRsZVJKYjRuZkFISXBjdUxZaVZlUHJETFZSZjNuMUM5bUVyNWJnV3hyY0hSQWJFbEFGNDQyQWZSdzlRZmhTU0w3MzRoR3VsOVFSR2pSUmZOSnJjZGI2dWdXSmpqZ3B2djFIVGZZandWZmk3SkxkcE9MandKb2FRYjd1UjVicHVXUEt2ZFRmQVlfY2c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-24T06:15:19Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "e8918fdd5d929c9eac0ff0",
@@ -290,6 +446,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg"
     },
     {
+      "id": "aeba0d0368b9ac78cff082",
+      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T05:31:15Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "49641a1ac4a1e6bc991757",
       "title": "Global Markets Brace for \"Jobs Week\" as US Labor Data Takes Center Stage Amidst Geopolitical and Policy Uncertainty",
       "summary": "",
@@ -374,18 +542,6 @@
       "image": ""
     },
     {
-      "id": "25d043b118adad46fcdfb8",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-24T04:36:31Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
-    },
-    {
       "id": "5dfc30a24690a517313590",
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "summary": "",
@@ -406,6 +562,18 @@
       "published": "2026-11-24T04:09:43Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1780c43b0b819bd15ea91c",
+      "title": "Thailand’s OECD Membership Push Hinges on Reform Implementation and Two-Way Engagement",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lUDhBdHYyc3ZIcVVfRE5SQ1RuMXVCYVNaUVkwM3JoSG5tUjd5Z0h3cGozU2l2NkxZaUMwMWhMeklPQWNFRTJyajlzYU5iWDlhdDlGZTJLUHFETm05VDlONGpWeG5aWU0?oc=5",
+      "source": "Nation Thailand",
+      "published": "2026-11-24T04:07:00Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -526,6 +694,18 @@
       "published": "2026-11-24T02:54:42Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1329b58a4dbedf29bf451a",
+      "title": "Singapore raises 2026 growth forecast after 6.1% Q3 expansion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblBHZV9GU3lTNGFTSGI1VkRkSkJjdHJyTlhWM3hLb21XbW1pWWp5U0w1Uk5RT2hyQW5aTTduRFk2NEp4Wm9VVm50eFNzT0k1VVJTN0oxWllCeW0tVEQwSkN3dmtnLUdFQmdWQWFJNTlxSmc5bERxbXFwTGdkcWpvX0NoTFNuRWlMS2NQVV90b1doemM?oc=5",
+      "source": "KELO-AM",
+      "published": "2026-11-24T02:40:18Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -770,28 +950,16 @@
       "image": ""
     },
     {
-      "id": "b86f6b76a1869944f32c32",
-      "title": "Weekly market commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published": "2026-11-24T00:29:20Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "d116c3d9f1d390741d8251",
-      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-      "summary": "Increasing numbers of corporate landlords could usher in big changes for renters",
+      "title": "Why the rise of the corporate landlord could lead to a two-tier rental market",
+      "summary": "Companies building flats that they then rent out could usher in big changes for renters",
       "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "published": "2026-11-24T00:28:48Z",
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "e000e454f6b288cbd948ac",
@@ -1268,174 +1436,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyNU9PRVFOOUt1SmJmREZ1Tk9ZMml0R2VjTlNIdjZZR29obVNZeFlXem9qdF83Q2hYRlh1bkRmSk9aTEh1VGg4blIwWjd1eHZWQklfejF1eVJ6bTRWUU40TV91RmtyUzkwSkZaTDlTcm9ZX3BYRWc?oc=5",
       "source": "planadviser",
       "published": "2026-11-23T22:07:29Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a72cc3aa1f3d17c03694ea",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T22:05:50Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
-    },
-    {
-      "id": "eea6d4f773cb5b5a86399e",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T22:02:05Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675"
-    },
-    {
-      "id": "7a0203c9290de7b05c7007",
-      "title": "G20 factory investment plans fall to pandemic-era levels, OECD and UNCTAD find",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFTjVGRlNCYmJkYm5iVW1PdjZYaVFsVlZhX3poZUh5Y1c2ZE5KMlVVaGUyRTJVS1JfaW9sSVBIWEVDbVQzcUdZUjZ5VWpLSldvSzRDSkprWXBUak9LU0NFdGY3bXNPWjBWUTJMcm5UTQ?oc=5",
-      "source": "CEO Magazyn",
-      "published": "2026-11-23T21:59:30Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "53fe371e261eebc20b849a",
-      "title": "Clariant, CD&R in Talks to Acquire Ashland – Finance News Update",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFFBRkpVWl9laW15dFNIQ25BcFY1Uzg1UHlVNWZpckZCTjhaMWR6V0tSdmFTblc4UFpsZVh6aFhMVnJib1pBQU1uRVlHMFBVT1V1Vjl6SzZiRjcwS2FBZEQ2QW1ySVFza2VWMnlVVjcyMVNEZ1VkbnRCNWJINXBhSUdnWExLSlR5amc2WlB5dWl4VU94UnM0UVR4N2NjeUc0WFE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-23T21:57:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bf7bd88dd0f7ede07832ca",
-      "title": "Chile and Finland forge new partnership to boost business opportunities in Mining, Clean Energy and Technology",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa0lrUjF2QWh2dUFCTGMyWXNTa0dFYjRBMl9XZ3pJN05zMUlUUFlyLUpzSkFDNWw3M3VKbkwwQmVBYXNtbkpoVzJXcHotMmRIOXpTTDBoSHFQSEpLejBEY1VkY3BaYklwMDJvdVdadkNpc1ZycHBMeDd2SndrLVUtX29MSW9yLWFhWHVvZ2VaR3d1VHluTHljME5ZbDgwUGpueE9fU3ZraFVSeWZCN2w2cjhCd1h2QURjVllUV3MyMENhOXJnYklJSjd6TEl3aUsweGhR?oc=5",
-      "source": "EntrepreNerd",
-      "published": "2026-11-23T21:54:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d4f79d2af1d5e9d7875753",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T21:47:41Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
-    },
-    {
-      "id": "0ade0c6454bd1378a4d0f9",
-      "title": "Amentum Holdings (AMTM) Q4 Earnings Top Estimates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmthQ0g1M0FCOWt5UnpxQUpURFVsWTh2XzVCR1BIazVBVU5qQnBVdFRUMW5nVnlrMHFPTDFFRHlYSzhERE1pcXZiTGN1NFY4dGdYdXVFdzFONzl2VW5MdXlJM1ljaVRLWUJRSnZ0dlNTYldUVXppemJBVzEzMjVkNWU1ZUVUbHNvcWxaeXpWdk9xOExCTF9xenlDMzNpWDQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-23T21:45:02Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8e84e3770e7a447788e8af",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-23T21:36:48Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "dff598fa660d3fe99302b9",
-      "title": "Cboe Global Markets, Inc. (CBOE) Stock Price, News, Quote & History",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04bGQ3MVg1MTR6NldneVcyWXZJSl9WTHhMTjVtZE93azV2cENQNEgwRmd6R1FNdHFzWWFMUDdkZFRIU0s5ekN2WmV2R3M2REYzU3c?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-23T21:30:50Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1b74fa1276a1faf4f1821e",
-      "title": "About $611 million in new charters and extensions lifted Danaos' contracted revenue backlog to $5 billion.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYi0zYTR2c294MEs4a00wTnVpQWdmSk9HYldxTy1qcFF1S2w4ZlNvTTg0NE5kcDZtRnROVFZwTFFicWpZcS1pY2IxQ2VWX1lSdHRFOTBENnlubGw3YS1lcW5lTi1lRFVfanlFb0E0SThNUkY4Mk1aR0RzMU9kdXo0SDd4emRhVG5vUkZONDFQRDZYQmRtV1VYOW94QjdIY3k0dXdEcDNiOHdBVHdXVmNWX0FMUVFUNGFKYnF3MjcxZw?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-23T21:30:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "824719c35b0a6f0a256533",
-      "title": "Warner And Sony’s Earnings Reveal What Lies Ahead For The Music Business: Surging Profits",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYjladEJqQmxJQm1uc2p6QVA5TzBwOTZLNUpFY1RQdFBoVV9lUkI3b3UtY1ZCUkR6dFF6WlppcldpVHRFSExjaVkxWnM0bHB2bndWdjBRR0d0S0d0N3NzRTlsazZMdjUxT05Fb3hpOU1VMXBjdTFnV2tCcGpQTVR6M1dWU0JFZnoyOGZ0VjBWTGtkSFZvVm40cVpVU3RxWXJnNkRYOHh1VTdLbVdTMU40T2Rrb2xHbXpnYVAtZHFNNGZnZDFpRWVuMXFpd0llOWRmLUtQS3dqZXluR2VjdUZVMQ?oc=5",
-      "source": "Forbes",
-      "published": "2026-11-23T21:28:52Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "841fb2773c925e80a63781",
-      "title": "World’s Best SME Banks 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16SXVtVjhESWZKQ3VqNFhCOVkxN3lwRkw1WUtBLUZINC1nckdweGZOdEdhT1MyZ2VvalY4VFJWYXJRZXJjVFpMb0dxZkpKSk93MTJEQm9PWldGT3hPSVhIcGotcw?oc=5",
-      "source": "Global Finance Magazine",
-      "published": "2026-11-23T21:27:27Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bcef4e5640ff9cf531aff0",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T21:25:42Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800"
-    },
-    {
-      "id": "9922b80c8a024b75648501",
-      "title": "Anthropic Launches Claude Ship to Review, Fix and Approve PRs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTndkM2tKUkNuci1IeVhFNUNoQnprcW4tUUIwRnZFSGJZOEEwcXVURmswZHpTV2xhYlkteHdaVTg3alRvQnA2U3dlMy0zX0NQU0VSa2VyTEo3Rm53cngybzMwUWVnN20zbXN1cXVkVjR3c0tiQWlXbUpiejZBb1FYbTlKUDZNZUJhYmc?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-23T21:25:02Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
       "country": "",
