@@ -1,10 +1,190 @@
 {
-  "last_updated": "2026-11-24T20:38:03.797111Z",
+  "last_updated": "2026-11-24T21:41:24.342433Z",
   "articles": [
     {
+      "id": "6cd9634b07ace6f4b22375",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build [&#8230;]",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "source": "The Verge",
+      "published": "2026-11-24T21:39:14Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ddf5f5e1e3a03a64600ecc",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:33:29Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024"
+    },
+    {
+      "id": "a18f6caa7fc18d5b78fd68",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:32:38Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+    },
+    {
+      "id": "762ce6d7fedd6d19f35349",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-24T21:32:34Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+      "id": "02e2692513a2ac78ccf7b0",
+      "title": "Top In-App Advertising Platforms (2026)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5VXc3Q29YLTFYcXdHX0U4LTlEd2syS0wyUDRLVHZxU0JhZm1pelNHT1ZSYXNfdy1WcmNzdURpQTM0OTJkdWdKYlNTQm93RjkxaUpMQnZlMmdaamF0OVhhd1B2ME0?oc=5",
+      "source": "Business of Apps",
+      "published": "2026-11-24T21:25:08Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "46fbda15a24211f635d1e5",
+      "title": "States urged to act on EU policy priorities and control public finances",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazJGcHpMUzZneWVKcVlQYUsxYmRtaHNkcENWV2lNVldYWDZXNEdiYkpVeVZJUWMzZXVBSU1uNnlNVnZzY21HOTlJVWE0LWlNUVFfb1JTRzZNdlV3Y29hMDhYYTZIQWJEVjZXN2l4Wl9zVkNfUXoxUVg5SmFLZjNJSDhQOEk5WGpZWWR1VXdNQXp1VmxORGdiN0JhVUFCYmtMRUg0UGYxUTdwQU0?oc=5",
+      "source": "EUbusiness.com",
+      "published": "2026-11-24T21:23:58Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9fd8a5bde39c37e2783d01",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:19:52Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675"
+    },
+    {
+      "id": "2a1422ea57bb08bb754c14",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-24T21:19:42Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "2db777f1e5accc2701db6f",
+      "title": "Netskrt raises US$10M to expand video delivery network",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTJTbl9pSi1IWTdYMkpvNHZmM01JVG53VFFVMlpsTm92ZDRNdjFNbng3SnFSRTRQeXJHTWprSHVhampCQ1VfaDhaOGFiS1YyYmFSQXgwajdyRHhLRlVwbHIteHRTYU1ieVIwcmFnQTd2T2VyNGF2NzFlQkRlYWhoRjZQOHJlTGt4X0x6aWN1MnhKZGp2Z2VGaWlQaTNfVnZIMGk0MlhXelJfcnFyVkE?oc=5",
+      "source": "Business in Vancouver",
+      "published": "2026-11-24T21:11:14Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0b13fcdeacb74b876a02d3",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "source": "The Verge",
+      "published": "2026-11-24T21:09:59Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "47053c4a00f48e4b0e434d",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:09:04Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800"
+    },
+    {
+      "id": "75a3a86ed42c87797de443",
+      "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+      "summary": "President says 15 people released and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men have been holding people hostage in a supermarket since early Tuesday morning in Cartagena, one of Colombia’s most popular tourist cities. The country’s president, Abelardo de la Espriella, said 30 people had initially been taken hos",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "source": "The Guardian",
+      "published": "2026-11-24T21:06:37Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
+    },
+    {
+      "id": "3934ad9964c8ebd430655b",
+      "title": "A $6.6 billion, 20-year lease is in place for CleanSpark's Georgia project. Its first hall is planned for November 2027.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1FpZ2lZcldwZXFGekxFTHdHOGF5VFNldzlmT2VRcnBTRGF2YjNiczdubVdkVUlLTGw1RVowTDZUTENoTXM1V0dkOFIxa2tsUmFFQ0V4WWdWcTF2amp6Um9XMm0xZDltaXl2TUpXbkpkNW1hZTNtUlItVTZiZWdCUUxVV3owR2JYLXJBdlU2dW5rM1BpYW9BTWtYSXlVRnQ2QjU0aGl0eXhOLTdtU2ZzZUx6TVIyZw?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-24T21:05:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "17be8468b47252bd6653e3",
+      "title": "National Security vs. the Stock Market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T20:56:04Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c18f5a8804513b9ffd5685",
+      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+      "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+      "source": "The Guardian",
+      "published": "2026-11-24T20:32:02Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=949179d57a8b9b15a085a25a39162ebd"
+    },
+    {
       "id": "2faf2fedd6b84aa69fd67c",
-      "title": "TikTok is down",
-      "summary": "TikTok is experiencing some issues right now, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes won't load in the For You feed on my iPhone, and search results occasionally don't show up as expected in the app on iOS or Android, or on the web. Even trying [&#8230;]",
+      "title": "TikTok was down",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying [&#8230;]",
       "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
       "source": "The Verge",
       "published": "2026-11-24T20:27:27Z",
@@ -32,6 +212,18 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMUFiSTNISXNxRTl0ZlZZMFRhX2ZKV1BUQ0RMQk13YW5DNndtbnFZRmNCUEpoVTF3RVpHU1AzSUJtWHJRRFVHeU9Ga3E0Yjk0NVhIQVdTaXJEcTVnMURhNTY2eGZBSnBOaFlTWVZISmFRME9LOXZfQ0hiSkp2LU82NXdBSmNWUzRob04tZll2ck5lVXBxLV9NUlhWeUN2SlRvSGlVVXkzUHNJSzY4bUxHWUpjYnNGYURPX05WdGVCVEEwNUo0VlFncEpkNU9rR1VacmVwd2ZRZFB6ZmgzR3hETS1Ld1dXRmJ0YnFfT3Jn?oc=5",
       "source": "FXLeaders",
       "published": "2026-11-24T20:15:49Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3bdeff6b37c0bc884d6d3e",
+      "title": "J.M. Smucker Beats Quarterly Estimates as Coffee Profit Nearly Doubles, Lifts FY27 EPS Guidance",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ydUJqMlE4RkVfR2VSSE9PXy1uVloza0l1ajRfeG82RVlhby1mZ0huNW13QnFCbzlhSFVOajAxa0dfT1ZrODljekVUQWN0cERFOFV6Sjk1cU9OR1phR2l1ZHUxMndvVW4tQV91YXdJZjcxUVF0bGc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-24T20:05:00Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -72,6 +264,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "8e6fd53c9190c57a72dd0f",
+      "title": "Morolong: Reindustrialisation key to jobs, investment and inclusive economic growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN25TLUtzQ0ZPSEgtcFlpZFIyaWxjSUpxRFhpQ0xsbDMxUjZBQUZBMEg0U2NlU18ySVdkZjdySWJoQWRjT0hOWWJMNjNBUkpzRjA4QWM2cUh2YzdIa3VweHV2VHBTaWdzRkJ3WGtGZGlxWU1Da2NtdkpjV283dEVoU21mS2dLVDRIVUpUcVl2SHY3SmhVcm50YUcwQTRicjlsXzJ1Z2VVUTVHY2dPTFc4M1k3ZTVEODN4cVd3U0RrMA?oc=5",
+      "source": "South African Daily",
+      "published": "2026-11-24T19:57:05Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "61dd2509c83a0880bea5e9",
@@ -158,18 +362,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "2a1422ea57bb08bb754c14",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-24T18:55:59Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
-    },
-    {
       "id": "243c10f90999f16074d1aa",
       "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
       "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you don't have to toggle it manually [&#8230;]",
@@ -192,18 +384,6 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "75a3a86ed42c87797de443",
-      "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
-      "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding 25 people hostage, the president, Abelardo de la Espriella, said on Tuesday. De la Espriella, said the men were “commo",
-      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-      "source": "The Guardian",
-      "published": "2026-11-24T18:36:08Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
     },
     {
       "id": "6da6ae6cc61678fde38261",
@@ -626,6 +806,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800"
     },
     {
+      "id": "e6cacb6ed73863122ffbde",
+      "title": "Beyond using AI: SDSU launches engineering degrees to prepare next generation of innovators",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtBaHBBVWN4OU9VWHkzT3BRc1ZxYTJ2UEFKU19keVJpU0NFTXdINGlpNVh6Y2tmdkdxeVdjRjExNE1IUWpLcXYxN1hSUjdPVEFyU1VmUzZsTnFxZ2RtRDZ4VENqeHRLckNhbnpWSnlrajQxTUxLQXRpa0lMRG9JTGw4YnA2aDZxOTR5djN3T3FzZTRWR0ZtaHVDRi10NEZwLVYxMmlIYW1HUHFwa09hYThqdzBpQjJUWlZpeGlR?oc=5",
+      "source": "South Dakota State University",
+      "published": "2026-11-24T16:01:07Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7491f5c45d84e077375d3f",
       "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
       "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Ma",
@@ -878,6 +1070,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "5ebce050aeaba2c55d5846",
+      "title": "North American economy airfares could rise up to 4.3% in 2027, Amex GBT says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWMtWjFzNS1SLUdrenFuWFNRRjRDbklmcGc1RUJITGJId2d1MFZMUzNscl92VkpsLWJ1VVdldFlOUGwzYWkzYTd1bGN3OUl4SW5MYzB0Sm5WN19Bdy1hYlJMRXBWdzBsWkljTlpGdHFmS0ZGczlsOFZDN2plTGlTTERiT0VobXVmb0RiMTRXVlVQYzNNc05NOXczN1pZOWNXNHNB?oc=5",
+      "source": "Pax News",
+      "published": "2026-11-24T15:07:19Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a86a6edbec048d792ea9d2",
       "title": "Largest US-based port terminal operator appoints Maersk veteran as CEO",
       "summary": "",
@@ -898,18 +1102,6 @@
       "published": "2026-11-24T15:03:43Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ebce050aeaba2c55d5846",
-      "title": "North American economy airfares could rise up to 4.3% in 2027, Amex GBT says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWMtWjFzNS1SLUdrenFuWFNRRjRDbklmcGc1RUJITGJId2d1MFZMUzNscl92VkpsLWJ1VVdldFlOUGwzYWkzYTd1bGN3OUl4SW5MYzB0Sm5WN19Bdy1hYlJMRXBWdzBsWkljTlpGdHFmS0ZGczlsOFZDN2plTGlTTERiT0VobXVmb0RiMTRXVlVQYzNNc05NOXczN1pZOWNXNHNB?oc=5",
-      "source": "Pax News",
-      "published": "2026-11-24T15:02:39Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1130,6 +1322,18 @@
       "image": ""
     },
     {
+      "id": "a95f0fc0ccc6247742fff6",
+      "title": "Mondelez International, Inc. (MDLZ) Stock Price, News, Quote & History",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3NWxwazRCSkdzTFR1NjlUZWprMzR4akhmeXQzRloyMTFtY1lXN25yVGlVVGpVTlQ3M2U2ODRhVVVaS1BqcTZBOU45ZFVVUkJxcWc?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-24T13:47:12Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "92f4c8ed6aaa1076bb05fd",
       "title": "Mali: The women powering the economy",
       "summary": "",
@@ -1234,210 +1438,6 @@
       "published": "2026-11-24T13:14:53Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b4ca89cb58d43161fe9431",
-      "title": "World Cup drove profits surge, says Marston's",
-      "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-      "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-24T13:03:20Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ca/live/b659c4e0-e7fb-11f1-ab60-79086b6495b8.jpg"
-    },
-    {
-      "id": "f9422bc8650f730e39a04a",
-      "title": "ChatGPT Ads Reach a $1B Run Rate: Should Businesses Test Them?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHF4TjBCamdYTXhHdGI3TmZlLUdtWDJyeWFpajBNLUxINXhZeEIzdmtXX2t3UkJYTl92X2MtMmJxRGhMZVFfdndXemhJV0c3MXV2Z2tERmVaUXBNUWhHWlZOOVdiWWQ0QnlZY25xN2pFNHd2T19sYlpkUUxoaUpPTXBIMEEyVW1neC02YWg5cFJNY2JWMFlSZkRwRGtxZWY1c2lr?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T13:02:39Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "168dc9e0fda6e685b93a00",
-      "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
-      "summary": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First announced in July 2025, this three-way alliance represents Uber's aggressive comeback in autonomous ride-hailing, after havi",
-      "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
-      "source": "The Verge",
-      "published": "2026-11-24T13:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Driverless-Image-2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "fccb7b4253442eeaf1b571",
-      "title": "UAE tech spending shifts as companies demand returns on AI investments, says Lenovo official",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQllnbjNIWUdhT0gxNHk0Y0dlcXU2UnI4bGh4eW5pMkFYSWFGSVhTblNEOFRZU3NkNWRidHRZOUZrSXVkT3ZuYnQ4a1NXMTNpUkYtTFZ2NGdoVWZwYVVCclFDVlF5cDd4dGZ2Q3c2VWpJM1h3LUxlaUE2aFdCc0laaFR6Q1pCc0Qyc2p3b3pPTHZjVHlUeGlPUFpCZzhLTlZMOVhTUG9WTG91N2hFSnR6bkswU0x2c3Q1OHNfeC1jWG92RTdIMEkwUGUxV3N1T0NISXI0QmNoNmzSAesBQVVfeXFMTzRxaU9zVXNYcjVSQ0NRSWFMLVN3M0xZNnJRY3RxUTI2ZnRueF9yVzVNM1JhYnk0cGV5d2hEdDROSENrRnlfakl2ampyeXBIWTFtWDJzd2JQUEJ4ODItOE1hTnJkR2NYR1RaNV9wX3J3MG9ob2w1ZjA2NUEyUlNYRUtVUXhDTmZRTFlCMWNwMWV6WGprVlF2TURiblByWW1XTmtjcGNPN180U3pad0hUZUFsQmt0ZjNiVjY0YXZueTdRbGtKU1BjbGd2LTFaV2tnSklUTG45TUxENVkySHU1M1gzSDZrLVNzeHVqSQ?oc=5",
-      "source": "Gulf News",
-      "published": "2026-11-24T12:56:02Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "70f9cd09238989d223cf20",
-      "title": "UAE tech spending shifts as companies demand returns on AI investments, says Lenovo official",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNHFpT3NVc1hyNVJDQ1FJYUwtU3czTFk2clFjdHFRMjZmdG54X3JXNU0zUmFieTRwZXl3aER0NE5IQ2tGeV9qSXZqanJ5cEhZMW1YMnN3YlBQQng4Mi04TWFOcmRHY1hHVFo1X3Bfcncwb2hvbDVmMDY1QTJSU1hFS1VReENOZlFMWUIxY3AxZXpYamtWUXZNRGJuUHJZbVdOa2NwY083XzRTelp3SFRlQWxCa3RmM2JWNjRhdm55N1Fsa0pTUGNsZ3YtMVpXa2dKSVRMbjlNTEQ1WTJIdTUzWDNINmstU3N4dWpJ0gHrAUFVX3lxTE80cWlPc1VzWHI1UkNDUUlhTC1TdzNMWTZyUWN0cVEyNmZ0bnhfclc1TTNSYWJ5NHBleXdoRHQ0TkhDa0Z5X2pJdmpqcnlwSFkxbVgyc3diUFBCeDgyLThNYU5yZEdjWEdUWjVfcF9ydzBvaG9sNWYwNjVBMlJTWEVLVVF4Q05mUUxZQjFjcDFlelhqa1ZRdk1EYm5QclltV05rY3BjTzdfNFN6WndIVGVBbEJrdGYzYlY2NGF2bnk3UWxrSlNQY2xndi0xWldrZ0pJVExuOU1MRDVZMkh1NTNYM0g2ay1Tc3h1akk?oc=5",
-      "source": "Gulf News",
-      "published": "2026-11-24T12:56:02Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1e142ea4637026729125a9",
-      "title": "CortexSpark Ventures Targets ₹1,000 Cr for Deeptech Startups",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEY9IBmAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEYw?oc=5",
-      "source": "CIOL",
-      "published": "2026-11-24T12:46:24Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "04d463bcde637a48f9a6ca",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T12:45:43Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
-    },
-    {
-      "id": "923c41191ae5c1d2580def",
-      "title": "Brazil seeks primary surplus of 1.5% of GDP by 2030",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdU45SUdETmp2NndnVkRQOU5kTkpjR3BfaWt0c0RCWTZmMTE2LWpUZmRpbXFxQXlvSUtXdEpaSUNsc0htMGFISHVSZU5CUGo4TGRRV3ZVSEhqaXJtLVZidHFsTExFMXhHX1ZYU01sXzB2YzBaWG5yd3ktc1V6bFp6bFIzVDNlXzQtOVBoSFpCaGFSSlVKdm50bk16RlNHRFh3a19faE5PQmZCUjNnM2FZMWZLSUJreWhBR09QUWk5SnB6V2prQ1RHQS1ScmQ1aVnSAc8BQVVfeXFMTnVOOUlHRE5qdjZ3Z1ZEUDlOZE5KY0dwX2lrdHNEQlk2ZjExNi1qVGZkaW1xcUF5b0lLV3RKWklDbHNIbTBhSEh1UmVOQlBqOExkUVd2VUhIamlybS1WYnRxbExMRTF4R19WWFNNbF8wdmMwWlhucnd5LXNVemxaemxSM1QzZV80LTlQaEhaQmhhUkpVSnZudG5NekZTR0RYd2tfX2hOT0JmQlIzZzNhWTFmS0lCa3loQUdPUFFpOUpweldqa0NUR0EtUnJkNWlZ?oc=5",
-      "source": "Valor International",
-      "published": "2026-11-24T12:42:11Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "90ad4038ba870ae2cde3c2",
-      "title": "DC looks to strengthen global business ties with new initiative",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1JiZmgtTDNUdzhPc0t6SXhzYlJ2MENucTdnSDhxLWw5TjRjZkhQZVptVlMzWEJJNEoxdUswSHNPV1hhTEgwNTZrbmJUeVAwckEwUFZsaVJ1dEhlZ3pMcDBtZ1E4aVJaYmNBelBMNVpFYVBJbHpuT0lWM3ZSbUxNN1hkTTNiSGVSclM5TDFXbjdjT00?oc=5",
-      "source": "Washington Diplomat",
-      "published": "2026-11-24T12:41:21Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a1a89606270c2f70ad4c1a",
-      "title": "Gulf Business UAE–India Gateway Summit 2026 announces agenda and speakers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDR5N2xKVWRHdXZaX0E2R1VNZV9CSXhSRzZwbW82TFhVUW0ycnlCcUNLZEIyUzlfOTJOcHEwRUlNbGdrV3p5TUtjMXVEN1dtTGN0azlXQ1d6NVVCOWRoSVMxT0FaRWt1R0xxQ3hQN2JLXy1zUVZqQWNncEduMkMzM0ItcEVSN3dtQVNkU0ZTSEtNQzdwd0VnMnh6VkdYVVhaNEJWYlFnLUNwQUFCMVl1R1RUZXQ?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-24T12:29:06Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "eeb3baa22910632c8d33fa",
-      "title": "Gulf Business UAE–India Gateway Summit 2026 announces agenda and speakers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOG5pYThURGtHaUN0Sjlib21veHJKTVZjdGk5UjlYSFFHbUtCdEVhc2g2b1g3ai1MTUVZd1VpNWx4VnlDdnh4UkJ4OVhaR1V0OTljYXpvVjZHY2VtbDJUWWtVVHBoUWtJb2ViY2piZ1pUVWV6MjdYeHF3bG1XZ09od1UzZ3Z1NXY3M2FvRzIwWWZPY09WOVYxbXE2R1pVZWktcm9Ddk1RNDJ2THNFd25FaEZUYw?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-24T12:29:06Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d04a08e97d57f8789164d2",
-      "title": "Spotify Down: Thousands Report Issues, Downdetector Shows Outage",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPczAtbTRGbkYtUEdSR2lUd0dmekdWRHdaYURndWwwbmt2bGhZVEQ4WVQ3VktIVWxvMXIxM3ZZbnhqcE1CaTlCeFVDeU1Cb0Z5VE5BT1l1RTNHWWk4QnMxYlNONHEtRXhEYlpsbkYyR204MnFmRE1pYkhGVTJTTXFEdXNVVEFqYzFGMzZGNTFtVGVudw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T12:15:14Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f313fdfbc267fa23672da1",
-      "title": "Analog Devices (ADI) Q4 Earnings and Revenues Top Estimates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1ZvblBOOUpaZW1WNzdUMGtSSDV2d3FFckI5V2lyeHRmdHA3OUN0NG9fVlo1RW4zOHNlU3F2Q3FGQkM3ZHdZdFBXaWxrWTVZQ3lkWjBMYnVKS3p1YTJLV21vQ2JiZ3ZYYWtuaC1Nd0xueGp1MWVDeU15dmFUaWo5UUlVbkYzekJkSl9uQnpvaHZuWGFxaDhDeS1IRQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-24T12:15:02Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4d2f94a40e7bcf8c53d0db",
-      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-      "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-      "source": "NPR",
-      "published": "2026-11-24T12:12:25Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6866x3862+0+358/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Ff5%2Fec09f1504997badcbe36cefe13f6%2Fgettyimages-2306041239.jpg"
-    },
-    {
-      "id": "5ab717cb7273f52cc5ecbd",
-      "title": "Nvidia Shares Drop as Investors Weigh Risks of Jensen Huang's Return",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlZQYnN5ODFSaDJuWk53NE9sajA1OHJ1VFR5OG1sdDhyY3d6eHVDeS04T1FPVmVNTHFnYWRsdE9zWXJRYlZGU0VZMzlVNFRHUTROeXBQdmNnNnZxLXBVeC1mdVJzMGRQemJtNEltS2U0RG1jXzMwbS1nM0s2NVZ4djJmbXJPejZNRXYyVk9TWldUMGR5UkUwT2FvQQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T12:07:39Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "de19b87a4e96f3915110b1",
-      "title": "Maximus Q4 Earnings & Revenues Beat Estimates, Stock Gains 7.9%",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajl5WlhVQkhsdFlCLTdwdkFUUWVxNTJyWW5XN2U5cnVPb2gycm1jMGtaOENCMGpwMXFoTG1Za3BaQmc1TFNXUzRYcnVuWlZ3VUp5NWxScXNHdlJXNVp3bmlDbm93N0JBSTBRTU9ub1k5X01qSk9qa3duc1gxbDdwT24zOTE5TzVIQVA4LW1Sb052eTNnX0ZTcFl5M0ptaGY5ZEtaLUszQlpPcm9yNDFGUFhXM2Y5dw?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-24T12:06:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "94cc459eb575f5d21f2a61",
-      "title": "Fitch issues neutral outlook for global sovereigns in 2027 amid flat GDP growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaldwQ0F6OW5hTHFjRHZXZDNTd1hoYlM1TjJoZEowSS1CTzZSZXFPWHlXYlI5LVAyZjBxdE81cFVTRUozWWVGVmk3Wmc3WndqQUZLaENHLXAwUWNvTHhqR2kxWDYxOEl4YXdwRzVHbDZZcm1neC1GM2QwQmlTekRkM2ZPcElxYWxJRWhxUWwyN1F1djBXRHU2bXJ6a0tBLW85U1ZVX1BVYUR0UWs?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-11-24T12:01:05Z",
-      "category": "Economy",
-      "topic": "Global economy",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 21
+  "source_count": 22
 }
