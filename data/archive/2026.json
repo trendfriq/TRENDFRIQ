@@ -1,5 +1,65 @@
 [
   {
+    "id": "9ed88987e3d50e1ec702df",
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T18:49:52Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200"
+  },
+  {
+    "id": "8b23f29d590b586f5e61e5",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T18:11:46Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800"
+  },
+  {
+    "id": "4f570faddc68b16cdd8fc9",
+    "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+    "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it&#8217;s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+    "source": "The Verge",
+    "published": "2026-11-25T18:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3c4e73d43c4012fdc394e0",
+    "title": "The loneliest peptide party in New York",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There [&#8230;]",
+    "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+    "source": "The Verge",
+    "published": "2026-11-25T18:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9aa3d6ea65a1020ead68a6",
+    "title": "Swiss Government Urges Respect for 15% Tariff Cap in US Trade Deal",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzgySlgyNFFuNGRoRzZRVHRXYkVXOWdfMWwzbE5seUg1XzYtZ05tS293dGx2bjdfQUFVTVBUVVpjSHoyVks0WG90U2FrNnBPQnN2Ymw4ZEljOVlOZHlBekpiTFd0ZVZJZFFndHZ5SjRhM0c3TGdPU2VHTFZyTVdxV2I5UDJkVkp6NlF3SElNMEc2RUs3QnZKbQ?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-25T17:57:10Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "17929128d139e3d01b2200",
     "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
     "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
@@ -34,6 +94,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675"
+  },
+  {
+    "id": "c642a9bb5164691a81066d",
+    "title": "Deere Misses As Large-Ag Trough Call Meets A Flat Fiscal 2027 Profit Outlook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUR3ZWJUdnBON1k1RTRoNURzaTBFZkgzRWx5RTZnT1Vad2ctVk9qQVV2bUNtT04tQTRBTjBBNkRZaUJrVWs3UnpWcTlnT3JNbzZRNTBnd0stTTZVbUc5X3AxY2s3NDhISGxsbVdMZDdKV2hCTkd0NzJGb3ZsYUU2UzFnR016NlBxWWR5SEttd2tSdzE0akI0ZkozdF9TY01iUG5Ga2l4Zk9RVFk?oc=5",
+    "source": "Finviz",
+    "published": "2026-11-25T17:32:29Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "42cd4506e23baf082e0cb5",
@@ -126,6 +198,30 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXhVRkhwTXVHVDNDUWk3dXp5ekZWdjRXU01vcjh0Y2RzTHFQTHBpTzFvVVRaNnFvbFpvZ0V2dzE2UlBuZnNCbXlZZW9FY211VEY3TU13SzZKM0FTQXUyV05uSWxVUnVxazA0bElGQzE4TzZRMHQyQ0NGOVl5emRSVlZ5SHFWMWVzYjBiSERXLWNadVBFZVF2Uw?oc=5",
     "source": "China Briefing",
     "published": "2026-11-25T16:45:02Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1948fca9bbe107ced6c36d",
+    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+    "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+    "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-25T16:42:11Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "id": "616278c53a22f1fbdebb09",
+    "title": "Mexico’s FDI Hits Record as New Investment Falls 42%",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYzU1c0ZrTWU2aWl1Q1RiWWxVNGpqdEpCQVhBdVRpVVhCNVNpbllIakhIeV9jckR2X0FtS2VmYm9JYnB2NG01cmZWYTZ6X29OWnRQSjUwOE5USnVlU2NIaFB6MVIzc1hWSy1mQnFnaWYzRjV2enBkbEdyV19uS3FwSThuV2djWjIzOVFoZDlMWHVoZlgzWlJFaTNCVTBFWG5WSjJr?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-25T16:29:39Z",
     "category": "World",
     "topic": "Americas",
     "country": "",
@@ -670,6 +766,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/flipkart-ceo-kalyan-krishnamurthy.jpg?resize=1200,800"
+  },
+  {
+    "id": "57fb93cdb18a83ba7f2f27",
+    "title": "Ahmed bin Saeed inaugurates 2nd Middle East Edition of “DOERS Summit Dubai 2026\"",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0o1eFVscEs1RndPNWQwVTk0eDFpa0JkaDZHSE00d2pPbk5GQlZaRWFPdERsaDdfaVZjTVhGNFd5ejhhLVVyM0ljRzNpSXRfTkJuZ1MwZjVVcFJ2NlRHb2ItTTRyMkNMakxpVU5la0x5dWxIdFBrZUNUTHBYTWtHS3VNYjNGVzFXOE9VMFRuMURDMWNzcXNrRm0yTmEyLXV2VHFxNWxJWQ?oc=5",
+    "source": "Government of Dubai Media Office",
+    "published": "2026-11-25T13:06:40Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "e6636cd37ae12587cd5a47",
@@ -4700,6 +4808,18 @@
     "published": "2026-11-24T12:29:06Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "790f7455ad2b1cb4976cc0",
+    "title": "China's opening-up fuels growth across Asia-Pacific",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FcUF0bkFuQU9mUlZNeXFvbjZubnhCSi13anAtMlVfSm9aYnVObnBZUVNQQUxtOHhRT1pwLXVKYnNlNndnaFZvTnRtWXBlRllscm1ZZmJn?oc=5",
+    "source": "chinadailyhk",
+    "published": "2026-11-24T12:24:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
