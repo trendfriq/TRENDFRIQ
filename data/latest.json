@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-25T19:58:19.179043Z",
+  "last_updated": "2026-11-25T20:57:25.592848Z",
   "articles": [
+    {
+      "id": "cecacbdc275020c7eec6bd",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T20:56:44Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801"
+    },
+    {
+      "id": "fcba5c9d7e3f7593e60a3b",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T20:43:58Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "993a4a76b8db31f9284e72",
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [&#8230;]",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "source": "The Verge",
+      "published": "2026-11-25T20:31:48Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "d4cc56dec42331549cf083",
+      "title": "All hostages rescued after Colombian security forces storm supermarket, police says",
+      "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, ",
+      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "source": "The Guardian",
+      "published": "2026-11-25T20:20:23Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf4e54bf6a462f4c6c2d5ad8521e41aa"
+    },
+    {
+      "id": "4e045cef4403869d86223a",
+      "title": "3 Income Stocks For Higher Rates Including BlackRock Stock",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZTFFLUJvU2N6S3lUeDZKOTA4bnhycEdpNHN5TEdMTUxXME92UFhUMEpFXzFYVGdKbFlqaWJ6WVZLcERJWXI1TXh0WGdNMmNLZzVMclJaNUE1R09VUlEySHFxS1JJMkNIdEg0R0d4OWRZNFZjSDFvVXVUUnJNVEh1ZzN3UVFiY2UtWkkycFBEaFFXalg4Mm9NX2kyWVFDTjRmeEUyZFVrT01ZZzFDVEVvby1mTjJ5eHZMRThheEZSTGtVQ0pudkRpQlJiN0RVbWU4blRBZW1OSzRfVm83a01qTDdlRGnSAeoBQVVfeXFMT09tZkFHbEs5Z1NUejZrUTJ3VS1sWjA5T3BTQko5LVMxQURzbDZ6VXVCN3JxOTBjS0ZaVmQ3bWU5amxEcEI5NVoyclNXWHZBUWlGSlpaN21EYlpBZXE2SjBoazRvMjZDUG9oNEVxQ3pkRGtIQlZfSWNkN3YyX2FqUXV4dktxNHNBMmJlVlNxYVBUdDVDNW9vT0dPS21ibF9MT2RSUXFtYjl4VFF6Nnd1ZVhGSUlOMGFUNWZFbHc2bmk4Q21FaDRrZFdxN05SLWh5R1VLVm8zMkFZY01vOG5OUldHN0ZUTG83M1Vn?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-25T20:12:44Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fb19c642f1b7558434080e",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T20:03:27Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800"
+    },
+    {
+      "id": "875f93d4f61775b7c8483e",
+      "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+      "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand , in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built ",
+      "url": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+      "source": "The Guardian",
+      "published": "2026-11-25T19:57:49Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/791b8933a92292555c629c4bcc1e8056243c898c/0_94_3742_2993/master/3742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ff2f5a3479dafefd1edb7fe9cf4817d"
+    },
     {
       "id": "74d99a307b5dcf28e29d1f",
       "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
@@ -72,6 +156,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
+    },
+    {
+      "id": "da4eda492f54c053130403",
+      "title": "Inflation Rate Surges To 4.9% As Middle East War Casts Long Shadow",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YLS15VHFYT2l6S2JOYXc0cVR5WkhOdDBSS0JVeXMzMF9rWHd5MmNET3NfQ19rNmUyQk93S0Z0SFVPdTRya1VmMkkwVHkteTVkeDZ4TlJIcVpmbVRKb1QySkdlZ2l5UzU4cERIMVpQNjdNeVZfdDNtdk9B?oc=5",
+      "source": "Forbes",
+      "published": "2026-11-25T19:38:11Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0eb775f636214d226a2af0",
@@ -146,30 +242,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
     },
     {
-      "id": "fcba5c9d7e3f7593e60a3b",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-25T18:29:42Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "d4cc56dec42331549cf083",
-      "title": "All hostages rescued after Colombian security forces storm supermarket",
-      "summary": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-ri",
-      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-      "source": "The Guardian",
-      "published": "2026-11-25T18:20:20Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf4e54bf6a462f4c6c2d5ad8521e41aa"
-    },
-    {
       "id": "8b23f29d590b586f5e61e5",
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
@@ -218,6 +290,18 @@
       "image": ""
     },
     {
+      "id": "ffd9de7c4f3388d6e59790",
+      "title": "The NBA is seeking €10 billion to build basketball arenas in Europe",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0ZubTFtai1wcE1vWElPSkEtWHRVOVVnMWc1U0NjYVVMdi1JQUZiWlU2ckp4cks3akhOX010RFpKSkppaEhLQ1FaMUI4bDJCRThRSzJGNEpZcjFqOFY3SHYxdW1SM0tpN2NVMDM1NWRXT2NuX29iWnNtVE53YkNXNmp5Rmp4VTdzOEhtNWl4Qy1yeTJMRWNPX0Q0bjhRZUk?oc=5",
+      "source": "logos-pres.md",
+      "published": "2026-11-25T17:54:38Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "42b954009353f086b60c45",
       "title": "US stocks fall further as fears over AI intensify",
       "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
@@ -228,6 +312,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "2c58628ef9af9e2574b169",
+      "title": "US stocks fall further as fears over AI intensify",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+      "source": "BBC",
+      "published": "2026-11-25T17:48:09Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "17929128d139e3d01b2200",
@@ -346,6 +442,18 @@
       "published": "2026-11-25T17:04:45Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "11636d826b71e4199c3d99",
+      "title": "Delfin Heirs Consider Pact to Cut Stake, Retain Company Control",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0VIdV9ibUNCWGhSUW1HcDNXRG5jOHQwbm5kd1NMTm9FdV9Kd2ZtcEljekdNcGlVMTZpRERBdnNteDZGY2VrRHgxcWNMVmVnQVRKNjhpckJybkE4d2VHUms2VElQMDlpZGNiaXBEQzczb0RfbklwaGhxSmpyeTJfRnBERHlhdVh6MEFSWm5QNU9peDJ3R2wzNGY4dGlWdw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-25T17:02:42Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -494,18 +602,6 @@
       "image": ""
     },
     {
-      "id": "2c58628ef9af9e2574b169",
-      "title": "US stocks fall further as fears over AI intensify",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
-      "source": "BBC",
-      "published": "2026-11-25T16:07:26Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "927dd6b10beb1b9592b8a7",
       "title": "Nothing offers a full look at its AI earbuds and charging case",
       "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you [&#8230;]",
@@ -550,18 +646,6 @@
       "published": "2026-11-25T15:41:28Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "11636d826b71e4199c3d99",
-      "title": "Del Vecchio heir: Delfin pact could let family cut stake, retain control",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0VIdV9ibUNCWGhSUW1HcDNXRG5jOHQwbm5kd1NMTm9FdV9Kd2ZtcEljekdNcGlVMTZpRERBdnNteDZGY2VrRHgxcWNMVmVnQVRKNjhpckJybkE4d2VHUms2VElQMDlpZGNiaXBEQzczb0RfbklwaGhxSmpyeTJfRnBERHlhdVh6MEFSWm5QNU9peDJ3R2wzNGY4dGlWdw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-25T15:37:42Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -746,6 +830,18 @@
       "image": ""
     },
     {
+      "id": "407e4bff5a98fd1dab8cbf",
+      "title": "Earnings call transcript: Strauss Group posts stronger profit in Q3 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczVhRy1VSFQydXp6YkRhU1RkRFRHdUdjWlBNcXdxRzNsVTR6d05xUVBoX0JGOEFhRG5CLTlIZlp1OXRTNXQ1MHNWbWdtU3c4aTJ6UFJxdzRtN1B1bUZFWlBRRFVPRzhBaVRGdjV0MFFJbzQ3REI0MG1pbnRTLWMxdFZoWFJKd3ZGRDZKSDZTS0swWUx3NEYtaEJ3SGlkYXRyTGtNa3lMVGRkNE5HRkZhLVVwVjhpOVVoU0UwMFgta2EzRzB2dVE?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-25T14:48:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5d6d58571fb0b25a9d5da3",
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
       "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
@@ -792,6 +888,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/8d5d1a88c3c00b18cf7c9e43ce0e749b6e007d08/588_0_4375_3500/master/4375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4815c35d34c258f9942bc20bd48ec99b"
+    },
+    {
+      "id": "17b6239ef6eca0fb2b5b51",
+      "title": "October Capital’s Frank Baker is a dealmaker to watch; One Rock, Prelude lead recent food and beverage deals",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWHFDLUJmOEw2SklYRkxOTTYyRjY4U3RUV1d0X1gyQW5OallONERuZUJ3R3lSSXh1TDE0c1dyYUJDZ0dEMjBsRFR0WC0wWTdRWTdLekhTT2xJRDhXWmFVM2l0UWltQUROd2lBSmMzMGc1dVgtVnVaM0FORjFWUWFJQ1FaTVItNmlGbFBTU3oxcUZYaUFjTTIwUlFfclpNNlhfNkdQQnlLNF9GV2o1S08xb1hleW5aVEt1b21nckpSbHRPWTVkNjFpQWtQX3ppVVl1RGpDQ3RmRlBrWmh6WldJZjNvQQ?oc=5",
+      "source": "PEI Private Equity",
+      "published": "2026-11-25T14:31:01Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "018a70def01636e8f28b0c",
@@ -1118,6 +1226,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "3c31244a13ae6b3be50496",
+      "title": "MeitY Secy Krishnan launches Chariot-1 Foundation Models to advance India’s sovereign AI capabilities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYzRNcml3WVNHRGhGdDV0SVdHRzZvS1lCaXFWa2kwZ29OZ0NpdDllVWFCWjlCNVQtTVh6dDhGLWtpazVHcEhMU2NJSUR5T01xS3FoNmFkdVBSNUNYUXBDRTVTb0d0NnVDSjBBWWNSdUhSaXhzSTl6Zi0tbnpfUFc1Y2FDRmxvY0NVbG04RWhUWHdmeG5ZYVQyWDNWcDVnSm1IOEYxUEhWeVF6RmpUQmsxLXJhZTVpaDFLVVRRQm1DMWczU3lxcTZ2MF9uZVBxNG5vREpfMnAyUkFKbVpMeTctekNQLTZRTFlXQ1Qzb3U2TVR0YWNZeHRPUGxXR1h2ZmZRRVhHNtIBigJBVV95cUxOem1kMnQxbjBQamJjSDhIVm9YR1gzbGN2dFhjNFBCNTVxeDdDbGJHRnhiZUp0Sk1ZanJLRmlDbmh4cGdwMWl3NFFDNHVBYzl0ZWZmc011MURScng1OUk2aFM5ckk0MXRkSHN3Y2U3TGMtaE55QndNSEx0WmtXZ0ZKV2lCanBreXVpYzRJX2k4bDdrWUxDUGJ4Tk1wRFczd2lSOFdzb0tCa1U0UklPQ0VSMFIzYmt6eEFaYlFITjNycVdpTDFkWU96VF9ocktsR2plNm80NnVrNUNlZ3RPNkoxUFRjTk9MWVplbXdIbGoyNzJid0s4RnlsaldodUs5UEo3R2ZLelFERXFUQQ?oc=5",
+      "source": "ET Enterprise AI",
+      "published": "2026-11-25T12:54:29Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2c18933b97f57811eaf942",
       "title": "Adesina urges Tinubu to lead $50bn mobilisation for Africa’s space economy",
       "summary": "",
@@ -1318,126 +1438,6 @@
       "published": "2026-11-25T12:07:00Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0fccbeda4b63505897a7fc",
-      "title": "AfDB and EBRD set out a shared vision for a stronger partnership across Africa",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUlmZzNacHBuNFNwNHhJR095aU1VMy14N2VsQVU0STZxNTR5Skx1UXFyVExLMVA2cWJibzIycVhfOUR0ZkVWbEd2ZGZja1JoYmxBZk9hMHNTY041aEJuelNBdFgxSmdtMXZOX29GU09qcFlRTFQ5ZUtvdVB2c3B4Mk9teWxIMkUxelV4bmdiRV9ydlhvSjh4SXhndHdVM3FkbzVV?oc=5",
-      "source": "African Development Bank Group",
-      "published": "2026-11-25T12:02:47Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "390ddf1883f929e1f0c2f7",
-      "title": "French presidential candidates face Christian entrepreneurs on social and economic issues",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzJqX25GcFpFbFlPTlpEZlZueHdFZEk5Q3NWb2Y0c1N4aW9KOGM1VlZIckdSTHNueVlrNmhrMGFQQjE2YXNOTGo4dDBtcG1mM29uQ2REZ2dlb0dTRDZWZG1yTVk5dmtOZGRvZXRuR0NTQkN4dGdrc2NoX0FYdDY3bmk1RWJCNkxpX3lOc2h4N05sMFlTcFBxTFZMX0FfdndXdmtxQ2tIVC14dEJUUnJodlloVlF6UEFmS3Z4VzVLRzZEcG4yRlE?oc=5",
-      "source": "EWTN News",
-      "published": "2026-11-25T12:00:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e60a4b00bb73328eb81441",
-      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-      "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-      "source": "NPR",
-      "published": "2026-11-25T11:50:05Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg"
-    },
-    {
-      "id": "3426f741354e7c4d94fbf8",
-      "title": "3 More Stocks to Buy After Earnings",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21QaDlQTTVfZjZLNDFwSWpuTFFPVFJsZE52b3kxeGhQNk9kdUF6OEQ3UGU5S192azM5WVZaSjhEeHZIMmJxT04xVGdUU3ZESEhPdmJkUmJlWWltWGNoUzc0azdOa2UtZkFZcmJQbFN1eE5KbHNONG1ubDJXRXkzY0Rn?oc=5",
-      "source": "Morningstar",
-      "published": "2026-11-25T11:49:49Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f2bb73d90cebb6cd52c2a4",
-      "title": "Deere forecasts fiscal 2027 net income of $4.50 billion to $5.25 billion as North American large-ag demand starts to improve",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWkF1YktIcjVGZllpZ2pfUGZrRjNRRmhOSm0tUmg3Z2ZkRzJvZ3BjM0dOQmIyUkU1TEJIX2NrSU1uOEtuLWc4V3VDODdEaGFpMmo3Ql9oQ0pEMFI5OC1BcjJfWldIbU1IQTFtSjhfVDdqTTdWdnpsTzNuZEZIMkNqbjB4c2tLT3d5ZUtSWTUtLTc5WktTeWpzcEplellNNkZ3Q1NJNzY3VmRwM1lyTGdZZ0UwUHRxTGxRd0pMVVJJa1BVaEMxSEplQ2NIRHlKbjgwai03T21abGs?oc=5",
-      "source": "MLQ.ai",
-      "published": "2026-11-25T11:42:52Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ce5fdddbecc8e384cbd29e",
-      "title": "American Airlines, Alaska Airlines join other carriers in raising bag fees amid rising fuel prices, Iran war",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzdINm9iZWtRUTg0NU0wWGpEcFpTYjdndmpMWno3cVhIbXRNX3M4ZGpHdUp1V1J1dkpnS1dYN1RZYlpkR0FteTJ6UE5fUFFGdHp3ZTI1SGhUZmRxcGhlMXhYNjRHSmV5NFBTTDl2YWxvYU1USno5THFrRjhtZUJKZHUyaFBROWFjMXhxZmplVzBHdEVuMnhVekprR1JzN3JkaG1ZdTFHaTRqWnZUMlHSAbMBQVVfeXFMUDBTbUlGOHNwWHo1aHRrLVN0LWxKR0RpZmpNSDVtZFh4YkZtTUFaRGh2R21CSFFXV3hqRUh3VlJMRG1hNENMZklKYVBMWmFBa3ZLbUNvcGI5UFY3XzJEWENyVXQ1UmxHOUFKMDdIbDlFV2R0UnZ1TWs2RjVNaTh4ZFRFYUdCS240bnY1NTVEWjM1M1BvZ3ZsTFZiYUMyMmtOMHdoODBGbElsNkt5bkotNVR0Nms?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-25T11:38:43Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e5e60fce3e317ab44e5fb6",
-      "title": "Adesina urges President Tinubu to lead $50bn Africa space investment drive",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2h4QzRobGtrcTBhYnBUTERnbV93ZENkOHo5ZmU3ekg5NTZubUJuM3E3REVqQzdlYWhocEpnZEt6U2tJTmJDb3AtSDdLOGdCdFFQNWtwVDBXc0xXMzBxSk5WNlVLX2t5Wk5MeTl2YzkzQ0NtQVR4aVhJOEtOMlNmZ1FSYkZva2FBZTFGMVh3ckltWGNYY1JJOW5LSW5yei1WV0gtS0ZJRC1CRWdNdTJiQ0p3?oc=5",
-      "source": "Apex News Exclusive",
-      "published": "2026-11-25T11:30:50Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "80f76a72c17a65de4d2590",
-      "title": "COP31’s electrification push, and more top energy stories",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3Etdnp5Nk1sNlFKY1VIZTJ5elZwWkZaZElrZUJmeThpWnZTOEo3OFJvMWtJSWozY2dCZl92NU5FYzZic2ZRN3FoRWhJbGRFaEZ6QjFGUzJmLVE2UF9HQ191X19tdjI1NG94bUhDUXNNclM0N1VpZmFFRWJ3MDdydXZ1NEpjLUwyTWU3aHpocnFpeS1rQloxNWxHSQ?oc=5",
-      "source": "World Economic Forum",
-      "published": "2026-11-25T11:29:22Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6d26c82acb7988d2599e6d",
-      "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
-      "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no connection and where he killed himself. Kishanth Peramalya was part of a group that set sail from India ",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
-      "source": "The Guardian",
-      "published": "2026-11-25T11:28:05Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/9e08eeab0ec12cf5f7ba59ef8c7028f6affd5184/104_0_1840_1472/master/1840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1347674c6fcab3b97ba19eb216aa105f"
-    },
-    {
-      "id": "1f5b122183e4dfd470e5c9",
-      "title": "Market Movers blog: Markets wobble on dip in Nvidia and TSMC as Huang comeback euphoria ebbs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-      "source": "Investment Week",
-      "published": "2026-11-25T11:22:06Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }

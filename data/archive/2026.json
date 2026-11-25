@@ -1,5 +1,65 @@
 [
   {
+    "id": "cecacbdc275020c7eec6bd",
+    "title": "FCC approves SpaceX plan to put AI data centers in space",
+    "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+    "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T20:56:44Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801"
+  },
+  {
+    "id": "993a4a76b8db31f9284e72",
+    "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+    "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [&#8230;]",
+    "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+    "source": "The Verge",
+    "published": "2026-11-25T20:31:48Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "4e045cef4403869d86223a",
+    "title": "3 Income Stocks For Higher Rates Including BlackRock Stock",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZTFFLUJvU2N6S3lUeDZKOTA4bnhycEdpNHN5TEdMTUxXME92UFhUMEpFXzFYVGdKbFlqaWJ6WVZLcERJWXI1TXh0WGdNMmNLZzVMclJaNUE1R09VUlEySHFxS1JJMkNIdEg0R0d4OWRZNFZjSDFvVXVUUnJNVEh1ZzN3UVFiY2UtWkkycFBEaFFXalg4Mm9NX2kyWVFDTjRmeEUyZFVrT01ZZzFDVEVvby1mTjJ5eHZMRThheEZSTGtVQ0pudkRpQlJiN0RVbWU4blRBZW1OSzRfVm83a01qTDdlRGnSAeoBQVVfeXFMT09tZkFHbEs5Z1NUejZrUTJ3VS1sWjA5T3BTQko5LVMxQURzbDZ6VXVCN3JxOTBjS0ZaVmQ3bWU5amxEcEI5NVoyclNXWHZBUWlGSlpaN21EYlpBZXE2SjBoazRvMjZDUG9oNEVxQ3pkRGtIQlZfSWNkN3YyX2FqUXV4dktxNHNBMmJlVlNxYVBUdDVDNW9vT0dPS21ibF9MT2RSUXFtYjl4VFF6Nnd1ZVhGSUlOMGFUNWZFbHc2bmk4Q21FaDRrZFdxN05SLWh5R1VLVm8zMkFZY01vOG5OUldHN0ZUTG83M1Vn?oc=5",
+    "source": "Simply Wall St",
+    "published": "2026-11-25T20:12:44Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "fb19c642f1b7558434080e",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T20:03:27Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800"
+  },
+  {
+    "id": "875f93d4f61775b7c8483e",
+    "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+    "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand , in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built ",
+    "url": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+    "source": "The Guardian",
+    "published": "2026-11-25T19:57:49Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/791b8933a92292555c629c4bcc1e8056243c898c/0_94_3742_2993/master/3742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ff2f5a3479dafefd1edb7fe9cf4817d"
+  },
+  {
     "id": "74d99a307b5dcf28e29d1f",
     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
     "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
@@ -70,6 +130,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
+  },
+  {
+    "id": "da4eda492f54c053130403",
+    "title": "Inflation Rate Surges To 4.9% As Middle East War Casts Long Shadow",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YLS15VHFYT2l6S2JOYXc0cVR5WkhOdDBSS0JVeXMzMF9rWHd5MmNET3NfQ19rNmUyQk93S0Z0SFVPdTRya1VmMkkwVHkteTVkeDZ4TlJIcVpmbVRKb1QySkdlZ2l5UzU4cERIMVpQNjdNeVZfdDNtdk9B?oc=5",
+    "source": "Forbes",
+    "published": "2026-11-25T19:38:11Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
   },
   {
     "id": "0eb775f636214d226a2af0",
@@ -176,6 +248,18 @@
     "published": "2026-11-25T17:57:10Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ffd9de7c4f3388d6e59790",
+    "title": "The NBA is seeking €10 billion to build basketball arenas in Europe",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0ZubTFtai1wcE1vWElPSkEtWHRVOVVnMWc1U0NjYVVMdi1JQUZiWlU2ckp4cks3akhOX010RFpKSkppaEhLQ1FaMUI4bDJCRThRSzJGNEpZcjFqOFY3SHYxdW1SM0tpN2NVMDM1NWRXT2NuX29iWnNtVE53YkNXNmp5Rmp4VTdzOEhtNWl4Qy1yeTJMRWNPX0Q0bjhRZUk?oc=5",
+    "source": "logos-pres.md",
+    "published": "2026-11-25T17:54:38Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -648,6 +732,18 @@
     "image": ""
   },
   {
+    "id": "407e4bff5a98fd1dab8cbf",
+    "title": "Earnings call transcript: Strauss Group posts stronger profit in Q3 2026",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczVhRy1VSFQydXp6YkRhU1RkRFRHdUdjWlBNcXdxRzNsVTR6d05xUVBoX0JGOEFhRG5CLTlIZlp1OXRTNXQ1MHNWbWdtU3c4aTJ6UFJxdzRtN1B1bUZFWlBRRFVPRzhBaVRGdjV0MFFJbzQ3REI0MG1pbnRTLWMxdFZoWFJKd3ZGRDZKSDZTS0swWUx3NEYtaEJ3SGlkYXRyTGtNa3lMVGRkNE5HRkZhLVVwVjhpOVVoU0UwMFgta2EzRzB2dVE?oc=5",
+    "source": "Investing.com",
+    "published": "2026-11-25T14:48:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5d6d58571fb0b25a9d5da3",
     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
     "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
@@ -694,6 +790,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/8d5d1a88c3c00b18cf7c9e43ce0e749b6e007d08/588_0_4375_3500/master/4375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4815c35d34c258f9942bc20bd48ec99b"
+  },
+  {
+    "id": "17b6239ef6eca0fb2b5b51",
+    "title": "October Capital’s Frank Baker is a dealmaker to watch; One Rock, Prelude lead recent food and beverage deals",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWHFDLUJmOEw2SklYRkxOTTYyRjY4U3RUV1d0X1gyQW5OallONERuZUJ3R3lSSXh1TDE0c1dyYUJDZ0dEMjBsRFR0WC0wWTdRWTdLekhTT2xJRDhXWmFVM2l0UWltQUROd2lBSmMzMGc1dVgtVnVaM0FORjFWUWFJQ1FaTVItNmlGbFBTU3oxcUZYaUFjTTIwUlFfclpNNlhfNkdQQnlLNF9GV2o1S08xb1hleW5aVEt1b21nckpSbHRPWTVkNjFpQWtQX3ppVVl1RGpDQ3RmRlBrWmh6WldJZjNvQQ?oc=5",
+    "source": "PEI Private Equity",
+    "published": "2026-11-25T14:31:01Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
   },
   {
     "id": "018a70def01636e8f28b0c",
@@ -982,6 +1090,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3c31244a13ae6b3be50496",
+    "title": "MeitY Secy Krishnan launches Chariot-1 Foundation Models to advance India’s sovereign AI capabilities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYzRNcml3WVNHRGhGdDV0SVdHRzZvS1lCaXFWa2kwZ29OZ0NpdDllVWFCWjlCNVQtTVh6dDhGLWtpazVHcEhMU2NJSUR5T01xS3FoNmFkdVBSNUNYUXBDRTVTb0d0NnVDSjBBWWNSdUhSaXhzSTl6Zi0tbnpfUFc1Y2FDRmxvY0NVbG04RWhUWHdmeG5ZYVQyWDNWcDVnSm1IOEYxUEhWeVF6RmpUQmsxLXJhZTVpaDFLVVRRQm1DMWczU3lxcTZ2MF9uZVBxNG5vREpfMnAyUkFKbVpMeTctekNQLTZRTFlXQ1Qzb3U2TVR0YWNZeHRPUGxXR1h2ZmZRRVhHNtIBigJBVV95cUxOem1kMnQxbjBQamJjSDhIVm9YR1gzbGN2dFhjNFBCNTVxeDdDbGJHRnhiZUp0Sk1ZanJLRmlDbmh4cGdwMWl3NFFDNHVBYzl0ZWZmc011MURScng1OUk2aFM5ckk0MXRkSHN3Y2U3TGMtaE55QndNSEx0WmtXZ0ZKV2lCanBreXVpYzRJX2k4bDdrWUxDUGJ4Tk1wRFczd2lSOFdzb0tCa1U0UklPQ0VSMFIzYmt6eEFaYlFITjNycVdpTDFkWU96VF9ocktsR2plNm80NnVrNUNlZ3RPNkoxUFRjTk9MWVplbXdIbGoyNzJid0s4RnlsaldodUs5UEo3R2ZLelFERXFUQQ?oc=5",
+    "source": "ET Enterprise AI",
+    "published": "2026-11-25T12:54:29Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
   },
   {
     "id": "2c18933b97f57811eaf942",
@@ -1908,6 +2028,18 @@
     "image": ""
   },
   {
+    "id": "d3cdd11910c3f825a196d1",
+    "title": "Lychee ice wine and other unexpected hits of Shenzhen’s Apec summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNktQelc3NmNmcFJUOVhGbFR3UHdlblBNWDRuR0dkQkxRYnhVUjYtdUx4S3AzdFpReWpQaS1ReFlSYVp0U2NKUGJCdmxnTURvV0lZeTRrVUJ5RnpnUnVZYjR0QmRSU2ZUMlBvcjMxa3pHMHVVMmVPQklWZFRoakNEREFlb29CX3Bic2lfQXQ2d2s2RXpCOXNONmJ6Q3c3SGZwMHA2VWdYTHhqUVNiTGJ1QVVjTWxfVm9tS0FlVXVueElzZ9IBwgFBVV95cUxQNktQelc3NmNmcFJUOVhGbFR3UHdlblBNWDRuR0dkQkxRYnhVUjYtdUx4S3AzdFpReWpQaS1ReFlSYVp0U2NKUGJCdmxnTURvV0lZeTRrVUJ5RnpnUnVZYjR0QmRSU2ZUMlBvcjMxa3pHMHVVMmVPQklWZFRoakNEREFlb29CX3Bic2lfQXQ2d2s2RXpCOXNONmJ6Q3c3SGZwMHA2VWdYTHhqUVNiTGJ1QVVjTWxfVm9tS0FlVXVueElzZw?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-25T08:00:13Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "194709b30f68b40b9cd56b",
     "title": "naoo Play: Early Usage and Acquisition Data Point to a Scalable Business Model",
     "summary": "",
@@ -2062,6 +2194,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/87e75a9e8fcfa797fd2a9d4b195d62ca54837f53/375_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04356bf86688d99aa30cc4f969b270dc"
+  },
+  {
+    "id": "1074f38d15cd8c5c7ae94c",
+    "title": "Xiaomi shares jump more than 8% after third-quarter results as record phone prices offset a 57% profit drop",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONk5QZ3JUbW1yeEV6ZlZiVUFrdlZ0WlllTXpCd3pQM0pEM2FBTXBrdjc4elNmcTZCc1FFTWN1NThNMUVva0wyQ1UyVDl4aG1Ba3NKSDVzV1B1bXFGTXk1WmJZUUFjRjFJci1kdGREQnlQalpaelU0VGxNRnVqY0V6b3FTX1h3RjVzS3pCMGxuTEJCbTc0WE1wRFhlVzJJdERi?oc=5",
+    "source": "MLQ.ai",
+    "published": "2026-11-25T06:58:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
   },
   {
     "id": "ae73e3da95b80a3c40c00e",
@@ -11372,6 +11516,18 @@
     "published": "2026-11-23T08:00:00Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e5a1128b5160ea63802079",
+    "title": "L&T Finance (NSEI:LTF) Stock Forecast & Analyst Predictions",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRm9oUjhaQUNLUGh3NHdHb0FYNWtnNjdBM2ZZY1lPRUxvM0tsakVrVk9FdlYxVkQtYi1KcFg2MXp1S2Juc0NkR2dwcEtmdkgzWlJuUFdnekZvakl6Q0t2UE9LWnFqM21XaW9FcGhLSFBMekhhWnB2STJvajhOLVhnbUx0d212TGh4ZURJeVFYVzM?oc=5",
+    "source": "Simply Wall St",
+    "published": "2026-11-23T08:00:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
     "country": "",
     "image": ""
   },
