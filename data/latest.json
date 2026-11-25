@@ -1,13 +1,157 @@
 {
-  "last_updated": "2026-11-25T00:28:09.219466Z",
+  "last_updated": "2026-11-25T01:56:43.413821Z",
   "articles": [
+    {
+      "id": "6611bae14ca2c46d96e3a8",
+      "title": "Innovation, AI boosting foreign companies",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVNzak1WbkNIVmJRRmVFN2xBU08zaEdUUXI1Y3dMdXU1T1hTUlczNXFsdEpPZmVJN2tNb2o5Vi13cHh1VHNGM04xOGE0R1lySzJnNDVfeHhCNENwRzFMazNhNGNkcFZFbnZMVmtzcVNBV3g4OWlmZkFaZWFrNDNONA?oc=5",
+      "source": "China Daily Global Edition",
+      "published": "2026-11-25T01:38:13Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e1c04a29e712d1b974acd0",
+      "title": "US Dollar Awaits Fed Data, Aussie Surges on Inflation News",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHA3M3puc0xlelpIaFdBWW1xYVNGTFhibE5iLVlkWjBrSlZ4dU9DX3hLSFRvOXJYZDBKOGplMi1RdE1XclYyTEJKU1JILVowSHhBNmt3ZTlRTkZ0R0t0US1kdWJuVEU4bXdnV1pLeXltRmZmcjFZOFJIN25WRGtlMmFVRDNTMXZicjlrMVhPSl9FeXVCRUY1OFN1aTQzeHM?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-25T01:29:54Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "762ce6d7fedd6d19f35349",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-25T01:11:57Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+      "id": "912dcc7ffb345aa14cdf1c",
+      "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T01:03:05Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "b260aefcebf2b187e43774",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the [",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "source": "The Verge",
+      "published": "2026-11-25T01:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "c54919b1426fc03e1a8421",
+      "title": "EU economic outlook: Weathering the shock but eroding fiscal buffers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHNTb1hmQmVtczBNUlFTRmVPeEZGT0VKbk5pZ0lYVXZ6ZEVBcm00cWh0MGEtU01BbHFYMDVoa0hoUTdyUTE0RzhEVWVJTXczMUtrVnRva1YydEwyai1FajRFT2gwVUE3c05XMldUbUlVSFhuNmlTSlhnODUxQVYteUJxWHFURm1uSEhVRWRoaGkzdTBa?oc=5",
+      "source": "CEPR",
+      "published": "2026-11-25T00:58:17Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "be54e905a796b4cee0cd01",
+      "title": "US preparing to unveil new tariffs on global trading partners",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T00:38:01Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg"
+    },
+    {
+      "id": "3267b6051ed13edd2e7a43",
+      "title": "Why tiny cars are taking off across Europe",
+      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-25T00:34:05Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "b1db65a692ce60efc8bbcb",
+      "title": "What will the energy cap changes mean for my bills?",
+      "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T00:33:25Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "id": "88ab6f2dc35843e69a529c",
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T00:30:52Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "42887a31417738a7d599f4",
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T00:29:58Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg"
+    },
+    {
+      "id": "fc694270483996775cb31d",
+      "title": "AI startup name ideas to inspire your brand",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hWHowMzNaWGJlazEwTzZSR3dJd0pUbVFJZk9Kd3B2RTNPb1RZUHctZGtFQzhTN2htZWkwcmdWR09pOFR6SnNhOWxpU0k1dmFpVGhRLWtETWtZV2U2RzJnNDlBLUNzQTUzb0kxaXJB?oc=5",
+      "source": "Hostinger",
+      "published": "2026-11-25T00:26:06Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "15207321a7190f953a6aed",
       "title": "A Doll Exhibition Made Varket Rethink Its Game-First Creator Tools",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DZzVUSHE2a0xiTHlnalRaQ1BObWp5NF91TXJtek1TS0c0VktXdFVSa3BhazFPakRmYzN0UHBNMlUwbVN3VW9QTmtuc3ZvT284ekFfd2hnc05pSG8wcDBvVEVrcEdETTBFYVc5a0RWZXIxemkxUW9FM1ln?oc=5",
       "source": "KoreaTechDesk",
-      "published": "2026-11-25T00:25:17Z",
+      "published": "2026-11-25T00:24:53Z",
       "category": "Technology",
       "topic": "Technology",
       "country": "",
@@ -40,7 +184,7 @@
     {
       "id": "c23a6a86a20a0a6e81dd05",
       "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-      "summary": "The New York Post says that, in an exclusive interview, the President said that pardoning the Nvidia co-founder is \"an option,\" but not one that he thought he would need to use.",
+      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
       "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
       "source": "TechCrunch",
       "published": "2026-11-25T00:10:27Z",
@@ -48,18 +192,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832"
-    },
-    {
-      "id": "42887a31417738a7d599f4",
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
-      "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-25T00:03:37Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg"
     },
     {
       "id": "508b4d65dc568ac7499f3b",
@@ -158,6 +290,18 @@
       "image": ""
     },
     {
+      "id": "44e2309e40d665d614c0a6",
+      "title": "Together AI Launches Preemptible GPU Compute at Half On-Demand Rates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd20yblBDejMtbldlNEpwQUhPQW0wbXhSSVRiNXlQanZId0RpdkNWS0UtZ2pvRDhQOWR4S0lRa185UUNnVXROSFdkdmdlUTlfTUdpaFYxN1J6N2RDQXhqeDBKMmZPLXRDMnlPNV9CQWNtTjlNVEI1Nnh3NkFOdzZhSmVQNl95WUQtRUowX0E5WnZwTFBs?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-24T23:20:06Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a4707405e2ca0b252bd19d",
       "title": "Dubai’s AI ambitions hinge on getting the infrastructure right",
       "summary": "",
@@ -192,18 +336,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800"
-    },
-    {
-      "id": "762ce6d7fedd6d19f35349",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-24T22:24:23Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
     {
       "id": "c8eac803e623f9c2d25cc8",
@@ -434,6 +566,18 @@
       "image": ""
     },
     {
+      "id": "3728247a45c1ab309bb77a",
+      "title": "Netskrt raises US$10M to expand video delivery network",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcUtPQjNJUDZfcnN6X1F4WUNfZmdRdUVjUERJOHkzSm9ranRIWk1uTEpyUk1HdjgwUjVvZC12aUdHUkdlMHVxQW55V09OcUM0bHlOWEhqd0R1a05DZXFVMTRQcmZ1M0FvRlhzcG00TGZPWFJVRFdPb1ZTTFNlTmJlRXRaMkZaUnNqckVOTlJ3SlRNX0lnME53YmJfNmN3YTQ?oc=5",
+      "source": "Business in Vancouver",
+      "published": "2026-11-24T21:11:14Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0b13fcdeacb74b876a02d3",
       "title": "The Verge’s 2026 holiday gift guide for moms",
       "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've [&#8230;]",
@@ -482,6 +626,18 @@
       "image": ""
     },
     {
+      "id": "17be8468b47252bd6653e3",
+      "title": "National Security vs. the Stock Market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T20:56:04Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a3c0fb58aa19d1d678610e",
       "title": "Questions? We've Got Answers: Addressing Issues Impacting the Economic and Financial Outlook",
       "summary": "",
@@ -490,18 +646,6 @@
       "published": "2026-11-24T20:52:53Z",
       "category": "Economy",
       "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "17be8468b47252bd6653e3",
-      "title": "National Security vs. the Stock Market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-24T20:40:47Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -650,6 +794,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "9f59eefe1617368334d920",
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T19:54:59Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "54428d0382d179ace29ad5",
       "title": "MAMA earnings",
       "summary": "",
@@ -667,7 +823,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0szNDIySlhyWG92Vi1yQ3UzYzV4ZnlxM0lmZ0YtTnJVbnR1REczc1ZsRV9NQXBTajRIN25xY29KbnpfTWd6UDgwSkM0blo0U3BJenVXbXpJUUZCd2pMWFdRdTBJTl92dy1Wc0M0R3M3RkhjM2tYbDFSaGR4Vnl4SER5ZTdJN0NUeWVkVmJVNDFuR0stX3ZpeWR4U3kteUdlNjVSNWlISktGZTFwTHJJ?oc=5",
       "source": "Bioengineer.org",
-      "published": "2026-11-24T19:28:54Z",
+      "published": "2026-11-24T19:33:25Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
       "country": "",
@@ -732,6 +888,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/3b11d19a0b33be33833eb4b1d5b03400462e0fcb/799_0_4001_3200/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad284543c4f669ea1e5e7aeae35ce6ba"
+    },
+    {
+      "id": "ace51623676ed922db4076",
+      "title": "Infleqtion Q3 2026 Earnings: Revenue Dynamics, Backlog Acceleration, and Government Contract Wins",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3lLNEhKQm5fanNtY0lidjdpbUJHNDFOd1pycTdaZVFCREdub2x5c2N0STJ5RXRMeUtxSm9mMzJUdHpDcklFeGhYc3lXZ3VyTmpYUjdxSHNqc2hENDZ2aHZqRWZtMHVFRllTalFJbzhQa3JoWUJGVk1BMUJqMHFqYl9yWkE3OXJRV1gtWE94SDNVNDFoUnBUN084U1p0VlBRSjdvQW1QUlMzb1VxOEJjUUl4ODVwZTNrXzBENXVuWFQ4NDI3MVNj0gHHAUFVX3lxTFBzeUs0SEpCbl9qc21jSWJ2N2ltQkc0MU53WnJxN1plUUJER25vbHlzY3RJMnlFdEx5S3FKb2YzMlR0ekNySUV4aFhzeVdndXJOalhSN3FIc2pzaEQ0NnZodmpFZm0wdUVGWVNqUUlvOFBrcmhZQkZWTUExQmowcWpiX3JaQTc5clFXWC1YT3hIM1U0MWhScFQ3TzhTWnRWUFFKN29BbVBSUzNvVXE4QmNRSXg4NXBlM2tfMEQ1dW5YVDg0MjcxU2M?oc=5",
+      "source": "AlphaStreet",
+      "published": "2026-11-24T19:04:48Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "efae3036b058be02051384",
@@ -1270,174 +1438,6 @@
       "published": "2026-11-24T16:00:00Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9f59eefe1617368334d920",
-      "title": "Trump’s Nvidia Move Heralds a New Front in Economic Intervention",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-24T15:59:07Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "352ca41f41cfcf5a0a29d5",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T15:51:07Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754"
-    },
-    {
-      "id": "a2a5f362045689a61d9e35",
-      "title": "Nvidia stock cools after Huang’s return-driven surge",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjJVOFZYSk5kbjVGWlFnUFNjQzMwcDFRZkROWkdjYlQ4dllhYjNFS2ZaT0JKUDdxV2h5ZVc0UHhQUGhFSXFUdFFScXR5eEZsMG1aRVBNbm95dldZRWdhQXRFdXNHRkszc3luSWhZcG05dS1PTFJEejIxQ2prazVzdHNwSjJWeDZNM3lKSzR4SHNqYzA4X29tMTFjM0HSAaIBQVVfeXFMT24xTXNMOG9Hc0xRVGVIejZzblEtRXVkNEoyYkhzODVkUlc3MkdQcmtsaWtGRUp1X056ZXVZU1VRazY4YUdKMW9ONm1Ock9MS0ZfcmthdlBrUnpSZm9JeVpVNVlYQUtYU3FIVVQzUEhhdzFiVGZCSV8zcm9YSnBuWkRjLUhkMlNMa091MThydF9iUjI1OTFfcHd0R0NDVTByeFpR?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T15:50:16Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "72b6ffe2b8245cbbdeac5c",
-      "title": "Fact-checking the '£750m a week' cost to rejoin the EU – video",
-      "summary": "In response to Andy Burnham wanting to forge closer ties with the European Union, a campaign group called Stay Out has launched, made up of Brexit supporters who claim it will cost the UK £750m a week to rejoin the bloc. Some of their assumptions are questionable, however, and their sums do not factor in what Brexit continues to cost us. The Guardian's Bruss",
-      "url": "https://www.theguardian.com/politics/video/2026/nov/24/fact-checking-750m-a-week-cost-to-rejoin-eu-video",
-      "source": "The Guardian",
-      "published": "2026-11-24T15:49:10Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f7c7a4259811c68a004457f6d25ca50e32b5e090/432_0_1350_1080/master/1350.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=234c5a70711afcfbe5bf4dd15f90891b"
-    },
-    {
-      "id": "913d80e52ec9ae88c2971f",
-      "title": "German president calls for more investment at Africa business summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXpONVdIb2ZsZUt6UW0yNG9XNXBfanNPZEFwM1VWTndIRG9aQjBoMFl6aDJJeDc0R2NqS1BERE1GcUIzQ3lPVE1ydEtER1huTmpsMk1Zdy1EM1pMSU93LXY3NDl5WjY0NXJQRV9OV1hMb3hyRFlGdnBzRHlGZmdlZFFqR3NOZ2dnaEVhZXBSTVZ6VVVYVkdqWGlNZzZ2VThucnQ5Q3FB?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-24T15:48:22Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c6150876df02e32b761ed4",
-      "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWng4TGlsS1h0RjNIZG5FcWpNblBMenVNZTJ1NHZQeHhJd0VpSGk3S2xsa1A1dll6OHNYMlJNbEl6YlBQMnNTYU9LNEg0RExQX3cybm9mYTJLbjRkMzJHWUU1R2xKR0JpYXZNR3ZkYk1ENEhVWW5seTJBSjMtb2hXUmFRTkJmbWk3aWhSbWFn?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-11-24T15:44:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1a212b5455d7805fb28aaa",
-      "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNjRsZ0puVzdnLTFTeENQM1RsdW5wZEpNRGo0bGlYNTVKWEdMWFZ6anhlVmh0OHBhOXAxbHFteVgyR1NRTmdERXk1eS1jdHRHSGZ4VWxjYm9YcmVEd1hkVU5LX0lNc0V2TW5BSERLRS15YXV2RXdOb21pR19ibkRiUFNuc1JOSnczUmsyMHQwNGlORVZ5QjNTY0hDSFJ0dVE1VEdRcDVSTUF3aUFVamJ3Wm9kanZ2NmVDSGx0SjVOQmtpOEw2ZDRBRjUzam1NejVoa1BaSENuQzRKTU51a0hBQi1pREFTU2lrdERHV0loQzh6a0lRQXI5UkJvRWNsNmFtRjU3QThOSzN4Z0RiQ0RJNVZfUEdyZ0JxY29LbnRtRldtdG8?oc=5",
-      "source": "WBOC TV",
-      "published": "2026-11-24T15:44:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "173d50f7ef9b3aa22a0b63",
-      "title": "Italy and Azerbaijan developing 'ambitious' business, Tajani says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDJmdExXVHZzeVlCTVd1a0xqUVFuaVF1UDlWZG5wdzhpSnlmMGNKRWRiV2hsOE54MVJVLXBuS043Sjc1WHZuUmJpN3hsQ3RqNGE5cm9LN1F6aDI0N0FzcVcySUZTWVdwZXp1bHlFMzUwbTZPeFozRW41QXBCbXYxZjlIWlZldVc1cnF2NEVQa1hQNHdadzVSem8zRmJWTGxvTy1pelAydUtRdzI5U19PY1I1aVZiRks0QzZPNlFFX200VzA?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-24T15:40:54Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "61d0074ff6f24ab99ca55e",
-      "title": "Medtronic Misses Quarterly Revenue Forecast After Diabetes Spinoff",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQW8yeDktOEk5dG1MZmtSWENlSUhZa3ZRRl9DVVpaWXIxZy15Y0ZOZ0lWMk9MZ1hrTXR3eHBDZk9vV0FZVW1PTjZvTFhOVGtlVUQ3ZGI0WGJKR3NTVDlLUm1hbWxlcGd0bXdfdzRWTTVueGVLSFNqeVRTdWdPZ2pFM05iM2g5Q3BaVGt2YVVUY1N4NUxRVi1XUFZvTDljZw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-24T15:40:07Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f67d9e2e7db2ba27065433",
-      "title": "Danforth: Inflation in Montenegro will reach nine percent next year",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1lLbzl4RlE4bkduVWtsbnY5RW5qZmZSazEwZ2ZodlUyV1RJeC1aYXZsMmVhY2g2TU1pb2o4WS1wRnA2SXdISUNqbzdxSzJiWUZ0dFlsMXFlSTNlMExIQ2JadjFxMDNJUlRZQjBOS2d0NVU4UmQ0VmxRelMyc1JKNUJ2V1FnTkExNGVhdFFwWHg1NVZ2a0RDM191Ti1neElMVklINkx1WkN5cHVaZkVzS3dB0gGgAUFVX3lxTE53X2Ztd1NHdzNBaGNFNEJ2WWZNZFF0SjRfSGJ4RGJhUW84dTFjYmdsZVRhbnpLYUhJbkdLcnlCZUxHOFdtcjQ4SkloN0VRbm50RU8xQ1RmVExZcVlxRmZzd21uTTI5NDlOR1Z3YWt0X19xS01hdUtHOVNya2ZuSzdQZEVUUUVXcW4zMVlCSnZvbkt5M2NMaU1TWG9UdnlLMXU?oc=5",
-      "source": "vijesti.me",
-      "published": "2026-11-24T15:39:27Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "154244e8aefb45486e4a60",
-      "title": "Humanaut Launches PSA Spoof Campaign To Promote Crunchmaster Crackers Brand",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW1aVF9KNzZTbTAyLUFRbXIxdDBueDNpVTh4NmI2TjNoYXdvOHNCSmJZeHVfTW5MdjYxbU9La3hlWVVRa2YyaHpCVFl4bld4bklWY3lPRVlFeDYxajA4d0N6RnE3Q0VpaEF2VHJuZElCREpoTV9uTXhuX0JoSER5c2ZVMzdLR055eUU3dVg3NERjVGgzNXAyR2R2bERUOHkyX1FaT3RJUDFUQ0FlWEg2SC1jb0g?oc=5",
-      "source": "citybiz",
-      "published": "2026-11-24T15:39:06Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d27c313a3612fa928e7fdb",
-      "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened",
-      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? The AI doomsday threat: Distinguishing facts from fear Jensen Huang’s return to ",
-      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-24T15:36:28Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=153a51d289fd16cd48268ed59b19e1de"
-    },
-    {
-      "id": "e8a823548b9b67b06dcb62",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T15:35:53Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "124174b692561d2c2b3194",
-      "title": "Scotiabank, CIBC launch new offices abroad",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0xqaUJhbHNSenJWdnF2UWx0VTZFYTN5TVJLbWhNTncydWVnZnFqR0d5dWlTZ19uZFpFZlI2U1U5bm8ybVNQSzdtM1NMM0VNVC1MVW53akhSalJsTHIzb3BwU245NzhhU0NNM243ak9CcV84SlNjekRMbVN3TXpNdC0zOTdveXVlODdiNXF0azJfV2Iwbnc?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-11-24T15:27:11Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }
