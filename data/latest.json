@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-25T20:57:25.592848Z",
+  "last_updated": "2026-11-25T21:57:59.692472Z",
   "articles": [
+    {
+      "id": "c91a30b4e6522b01bf534e",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "published": "2026-11-25T21:51:26Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375,3.7218027238494,93.788122558594,91.658221639303"
+    },
+    {
+      "id": "9756bf661ceb259a44bb69",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T21:51:17Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "42b954009353f086b60c45",
+      "title": "US stocks fall further as fears over AI intensify",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T21:43:18Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "fcba5c9d7e3f7593e60a3b",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T21:31:10Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "1c6024d18fe8d709ef3ddd",
+      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T21:25:14Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "25b2d2d7a6e19234885cf2",
+      "title": "Egypt’s Finance and ICT Ministries Launch AI Hackathon to Engage Startups in Government Innovation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NEpCZDVPT3dMcjlfaG5saFlLbU9QMzR1by1SeWp3SERWM05JWWJUZUJMMHROTmVkNExfekNueXpKMC1aQks1dlYwaW1rVVNDRlc5TlhwWjA1Zw?oc=5",
+      "source": "mof.gov.eg",
+      "published": "2026-11-25T21:15:27Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d129f172af888a08d13e8c",
+      "title": "HP Inc Stock (HPQ) Closed Up by 11.49% on Nov 25: What Signal Does It Send?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjJYenBtUHBIUmFpWlJabTR2VFM0LTZLdW5sVGtITnhTOWUtMFJfRGE4ZWFQWHFsdUI4SElUVzZuVks5NkhjcW03WjlTLVc2MUQyQks0eTkyMWdYMDljZy1SbkN1UHhMd2Q2b25UQlc3TXJ4TjQwLVB2blBzdUdiWU1lWllyalMzSHc?oc=5",
+      "source": "TradingKey",
+      "published": "2026-11-25T21:15:26Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "cecacbdc275020c7eec6bd",
       "title": "FCC approves SpaceX plan to put AI data centers in space",
@@ -12,18 +96,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801"
-    },
-    {
-      "id": "fcba5c9d7e3f7593e60a3b",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-25T20:43:58Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "993a4a76b8db31f9284e72",
@@ -39,7 +111,7 @@
     },
     {
       "id": "d4cc56dec42331549cf083",
-      "title": "All hostages rescued after Colombian security forces storm supermarket, police says",
+      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
       "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, ",
       "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
       "source": "The Guardian",
@@ -48,6 +120,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf4e54bf6a462f4c6c2d5ad8521e41aa"
+    },
+    {
+      "id": "742afb4c0c06129dc9db14",
+      "title": "Foreign investors urged to invest in Turkey",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWpNVjVqTnlkZ2FvSXNMVXNRaTJjUDg4LWtYTnF5MVB6ZFFhX21URG1wZ1lSY1NjUGlIZndNbWZuUktEZjRpa1gzNTh4TnZUMTBROGw0UGptMTlmNFJBRmlsSGNlbDhwWW04d19xem42MnJiU0hjZWlZZV9qZXRCZUlESkxIemtOSVRFeg?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-25T20:12:50Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "4e045cef4403869d86223a",
@@ -182,18 +266,6 @@
       "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83c604134ee13025218688505d66317e"
     },
     {
-      "id": "9756bf661ceb259a44bb69",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-25T19:19:06Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "id": "45d5ef88f5d57d952cd68b",
       "title": "Ahmed bin Saeed inaugurates second Middle East edition of 'DOERS Summit Dubai'",
       "summary": "",
@@ -302,18 +374,6 @@
       "image": ""
     },
     {
-      "id": "42b954009353f086b60c45",
-      "title": "US stocks fall further as fears over AI intensify",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-25T17:48:09Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
       "id": "2c58628ef9af9e2574b169",
       "title": "US stocks fall further as fears over AI intensify",
       "summary": "",
@@ -321,7 +381,7 @@
       "source": "BBC",
       "published": "2026-11-25T17:48:09Z",
       "category": "World",
-      "topic": "World affairs",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -530,6 +590,18 @@
       "image": ""
     },
     {
+      "id": "ef9807cc0777a36b78cc0f",
+      "title": "Stakeholders Seek Investment In Africa’s $25bn Space Economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb1cwUU5HY0xVZHlpT2luUHlwRVBXREVDT0pjR25WQTdXOUtMbWlLWjZFT25zTFhLbHB3SF91aXBZaktfTU5xNHlWRmRleGw0UHJSaWhUbHNLaGtMZWlGby1jS1BOaGJuSXBCejQ1MXJtcDNzaWxTclN3bHgwRjZrSGU1TE4?oc=5",
+      "source": "News Agency of Nigeria",
+      "published": "2026-11-25T16:46:30Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ab887a6039d725a68373de",
       "title": "What Drove China’s Record Outbound Investment (ODI)? (Part I: Flows, Stock, and Trends)",
       "summary": "",
@@ -616,7 +688,7 @@
     {
       "id": "e57eaf5d28507d8a83b02d",
       "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-      "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US stock market continued Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October. The tech-heavy Nasdaq index was down over 4% Wednesday morning, while the S&a",
+      "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US tech stocks continued Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October. The tech-heavy Nasdaq index was down over 4% Wednesday morning, while the S&am",
       "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
       "source": "The Guardian",
       "published": "2026-11-25T15:46:15Z",
@@ -624,6 +696,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a10800e04b1fe8bbe505f3b2eea0512f"
+    },
+    {
+      "id": "edace181ba8247b2e1f1b5",
+      "title": "Rethinking relations between the EU and the Global South",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDJHMmZnU1N6aUIySzVhYnlsd0JLMDBxSDc0OVd1Ykg4bVI1Zm5DMnBweGJyR1JubkdhbVFTMXFsVmh2X2RyNGNEbVlURHFOSWdzX29pS2ZndnF0d0s1azR0a3R3U1N5VEJ6WXZpUGwzRzFYZ0d3VkFraHNxTDBJTnA0U2hnUUhNMlJiUTJFVk91ZXhUaXNtTGdoY19hTHNaRDZIZ21fdHVPQUxpTWc?oc=5",
+      "source": "Real Instituto Elcano",
+      "published": "2026-11-25T15:46:01Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "3e500e04dfa2ba493c9c60",
@@ -636,18 +720,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg"
-    },
-    {
-      "id": "edace181ba8247b2e1f1b5",
-      "title": "Rethinking relations between the EU and the Global South",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDJHMmZnU1N6aUIySzVhYnlsd0JLMDBxSDc0OVd1Ykg4bVI1Zm5DMnBweGJyR1JubkdhbVFTMXFsVmh2X2RyNGNEbVlURHFOSWdzX29pS2ZndnF0d0s1azR0a3R3U1N5VEJ6WXZpUGwzRzFYZ0d3VkFraHNxTDBJTnA0U2hnUUhNMlJiUTJFVk91ZXhUaXNtTGdoY19hTHNaRDZIZ21fdHVPQUxpTWc?oc=5",
-      "source": "Real Instituto Elcano",
-      "published": "2026-11-25T15:41:28Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
     },
     {
       "id": "de021846239e75cc6a9a0e",
@@ -898,6 +970,18 @@
       "published": "2026-11-25T14:31:01Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "77be06fb5692deae487c1b",
+      "title": "Stefan Leuenhofer – State Secretary at the Ministry of Economic Affairs and Energy during Kenya-Germany Business Roundtable, State House, Nairobi.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNlFPQi1aU2FLcEtFQnNTMm1RSHpJYktuNlBqRGh3ZWRaMXcwZTFfQzgzREdYUDRDRGJxWFM1SlRPZGhzQm1zY1JHdXZRLVQ2R1M2R1dpdlBGZkctUG9KaUh2Z3JiQ1dYbm5naFNBRVUwNUFsYXU1eW54blhYcU04clh1U1Y2QjdxYllKWDhvejctLWpQR3VEQjdzbVNYS0pDSFlNRzg1YkVmMXhnVEJpaUl3RkdPSFNpTXBUNDhxM1huRmdSa3VCbHI5RHVoTWVnX0x2d3NuaTVHaXRrVGE4?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-25T14:30:31Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1356,90 +1440,6 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x4875+0+446/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F14%2Fc41a211243cca4495a4be2641da4%2Fgettyimages-2306544716.jpg"
-    },
-    {
-      "id": "88ab6f2dc35843e69a529c",
-      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-      "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-25T12:12:11Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "14a06581f2a758ee89fa84",
-      "title": "United Financial Investments PLC Named Fastest Growing Securities Brokerage Jordan 2026 at Global Banking & Finance Review Awards",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN0pCZXJuUi1FX0tRUldfRUU5Z2FYUmJla0gyNWZqWFROWjBuWkFhbk96M3I4MmpwdGhaVlE2bThYOFpnczViNVZlMGp5b29DRS1rMTZMYWVYOTNLb3JTcTJoQURyWTlKdzFEUWlGUEowbURuRmVDaW9mRjY4LVAtOUtrd0RwQ05pbHV2cE9JT0k3SVZrT0RLS2RnVXRHSWt4TWY4TVhLYlYwWkFnSUw3YklJU2RpaG5Nckg0YmY4SDNzNHQ3ZkVqZDJDdnRWdXQ2X0RQVm1EcUg4Y3FENXk2Z1FfYktzemNoVlMyM0hkcFBwRDhGOUNuajJhbFE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-25T12:12:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3e583ba45a82ef3cb7db79",
-      "title": "Bangladesh garment workers win 36% minimum wage rise after protests",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWpJVDQtZXMwOVZkckVyRXU5NGZTRk5mRk9HX21VRktWVkZnSmZERWxZek9Cc2dVdkdhVkpkWGdLQ0M3WHNYX01zUUI5bFRJc2lCWnNxQTBYaEpBUnlvdlBIbHVOakVUY1pOTl9GRVVNT2xRY0R0ckVyUTZwb3lGZkRyZExndDdXeUM2eGJTWGVLNWQwMElvb3p1dVZLYmVROGliTGpFeGNIdnZ2eC0yM3R2QVpRMkd0dVBoN3FsN0VuZ9IBwgFBVV95cUxNLWpJVDQtZXMwOVZkckVyRXU5NGZTRk5mRk9HX21VRktWVkZnSmZERWxZek9Cc2dVdkdhVkpkWGdLQ0M3WHNYX01zUUI5bFRJc2lCWnNxQTBYaEpBUnlvdlBIbHVOakVUY1pOTl9GRVVNT2xRY0R0ckVyUTZwb3lGZkRyZExndDdXeUM2eGJTWGVLNWQwMElvb3p1dVZLYmVROGliTGpFeGNIdnZ2eC0yM3R2QVpRMkd0dVBoN3FsN0VuZw?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-25T12:11:56Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f895cd0eaf60ba2e33c9c9",
-      "title": "Dell Raises AI Server Revenue Guidance to $78 Billion as Q3 Earnings Beat Expectations",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92ejhqSXBmdjRoWTZ6MmpHM0NDY0JCM1BKdmxtWFhDTm1QMzFwdGlKcEVCUnRTQ0xuQWRfSTJwWFBJOEo0Zl9vTFNCY1M2UHZMczJWODEzejV0cUgtZzd2ZXEyU2lkS285eGx1T0Zn?oc=5",
-      "source": "KuCoin",
-      "published": "2026-11-25T12:11:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "766050012f9f2d9f4c9966",
-      "title": "Polestar's quarterly loss widens to $403 million as sales mix, pr",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnhSXzBvd3d0VnhHTVdMcnVrN3ZkV3E0WGRCOXNMUVpFZjJidDlxUEZUaUtHb3VoeHFyOENsSC1qT21rcmRoX2llc24yNFhvOGMyZUlxNDVnR3dQM2E5bU5kZnYwLU1IQjlrMlN5X2VsR0QxSzI1MEVRUTUzRmZWQjVuSmU3Q0JHTV9HNkloVWlrUzhWWHN6a3Z3?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-25T12:07:39Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9a96fc7cb39f9fd7fea46e",
-      "title": "Creator Agency Influencer Hires Former McCann and SuperAwesome Executives as CMO and COO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1JidDRkRGNoTVlPcy1ocmxzN0k0Qk5ndjBYbklHRnlMRmFGbXJsZEp2TXVCbzhobTlhU2tyUkQ1bkFDckRhNHpjTWpleXpqTHFTZEtzeXlJZ3N3OXBEUGFDMFJyR1BOTVprR0tGZTRtRHdzMzNwZmRJTXFXZzA5b3JYVF9EZ3hSLVg4bk43dzc2Q0RvRWVoUTU2VXBiSVdmeEJUdW5oZnRRTEJvMkJwVHI5NU9OV1o4ckpn?oc=5",
-      "source": "Net Influencer",
-      "published": "2026-11-25T12:07:17Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "33c58266685583ab543d85",
-      "title": "Google devices boss Rick Osterloh gives ‘dead wrong’ reply to 3-month-old post on Google DeepMind",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQYjJKR0k3Z3JNU1NXTVVUTFZZdE5lczhLMndoTDlsZklGUFlPRlRvM21FaUJOZEtaUmlMQ0lzWkQ2cjc3dzhTYi1ZbTlVOXQ0RkNzR2dyR2c5bnd1eEQ5TnJiOVNHTXFXMFpRRXRvMDE5WGNaRlZrSnhRTDZPcTdoVS14dGRlOWY3VU9Celp5ajlGNndPNHZsVnJWR1dUREw2b1VKeWYybG1aVW9UTHN5RURWSWNhZmYxTkRfNkxhaXdHU2pYUl9MSmVGSFFEZ254dnRfaUlidVFKV3lRWk53SkdnU2pSZ2tiVDdEejNYdEFSdk1STmYybjgwaHdkdkNFOVVV0gGIAkFVX3lxTE5uMk02ZzdQRUFYOEhldkJVZl9IZE1MeUxQUzNXRFZXaWNUZU5YQ3BQd0V5UERQeVVRV2FkUkNzU004SDRBQWRUYUxEa01XWGdIei0xYm5sNU5udEthSGJqcnE0b2h4VVEwXzh1QVhmUWdiZnpjZ252Tmk2UzB3MlRZXy02S0NBNTR4RG9IT1J6LTVNT1hyWnRKTGxEWi1xUWZHZExyc0hNMHhILVJ1cHlOYmlBbVZ2ZHlCRzVwYkdJM1hmeWZMQ3BJUzJfamIyZTdFZGxXc1lsQXJ0TXZfaFF2V2Q1VXZiTUpCV1hrS29QQXktQ0pmQkd4TUhuUHNrdGJaektpWm1HNw?oc=5",
-      "source": "The Times of India",
-      "published": "2026-11-25T12:07:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
