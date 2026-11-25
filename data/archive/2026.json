@@ -1,5 +1,137 @@
 [
   {
+    "id": "b50e46d04304c43411e6d3",
+    "title": "EA adds AI-generated John Motson to FC 27 video game",
+    "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+    "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-25T10:11:34Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg"
+  },
+  {
+    "id": "58957c3acc4b07d3232e3a",
+    "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+    "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+    "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-11-25T10:03:12Z",
+    "category": "Technology",
+    "topic": "BBC Technology",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg"
+  },
+  {
+    "id": "9824a53e3b00e7a773816d",
+    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+    "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+    "source": "NPR",
+    "published": "2026-11-25T09:44:13Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2667x1778+0+0/resize/2667x1778!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F04%2Fc2d2c607448da009076d8f5d01e4%2Fap26328447661060.jpg"
+  },
+  {
+    "id": "8e8cc7c94e9d7f633a7620",
+    "title": "CUT launches AI water quality assessment and forecasting project",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3dRVWh3d0JYUVdHQVNfQ2Y1V04zQkZOSWt0MXpMbTNib2hIZ29sbzVoTll2UndmU01hQnM5RE50b3lLQXdacHBzRHptX2pkYlZfQ05vZWdtemJSZFVmTko3eTZOS2kzaEV1bVFNakRhZW8wYzVKMGQwOUw2RVFDLTloaUhFWVZLMVdTcFpoZHFTMFpkcjZPWEowTy0xSWdYemVXbA?oc=5",
+    "source": "Cyprus Business News",
+    "published": "2026-11-25T09:29:47Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2bb03e7914e310fd8cebdb",
+    "title": "Developments in the international financial and monetary markets on the morning of November 25th.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWstbFViZlFsUkRGY29ydnNrdXhWQmtIMEg0VTNrMGkwcmR5M2hRdjNFVmVTMUNVZDFUcFlid21odzBMMVBmVjFvVG56ZU9iaHN6Mk1JcTdhajhIVlR4M1ZVVFdud1dSNWwyZjNGbFR6cWI5aGdmckdJSTVKOU5OY2FrVWFLR2g3R2lZ?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-25T09:24:26Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5e5b53aaeff9fc9931610b",
+    "title": "Europe Plans €50 Billion Tech Fund to Lead Quantum Technology",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tGYVpmOVhSel9aejNMQlpnU2lBeTV6eWx5MXdScU51ZV9RUXdFRkJ2QmRPQkQ0cmVyLTM3b1M3aXVwcGtCSWdGZlRNbHVQN0FVX3FNNEM2Ri1xSHpLaHNPTkhNZ1ZDcGNFTHhodWlDMXQtZXBrNTQxcEg4akwzQklaNjMtR0RTS0hfeTFLZmpfbVltWUdlRVBXNEF6dw?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-25T09:22:42Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ee375cf46f3ded076dd0b1",
+    "title": "AI Medical Imaging Test: 4 Universities, Nov. 23 Study",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemJ4U2poN0tVWHQwY1FxN3R0ckt0RGtXTXhCV2xOUTJiam9idHI2Z2pFUjlDeVpqNU5RdnVpbUQ0Njc2dzNjY1YxU0VoSEtxUU5HTmlSa2xtWXlKSDNOazAyTmZ0X3Y3U2pIazJGMmhiYUozYzZNckZTaDVHNVgtSjAybHBRUEpxQTYxWFNJblhaSGF6ZlJZOEMyb2drZw?oc=5",
+    "source": "shattered.io",
+    "published": "2026-11-25T09:19:59Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "067efa4b4471da4fd401fb",
+    "title": "RGP Appoints Prem Goyal CBE and David Buckley as Strategic Advisors...",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDZLZ3REaXZOdUxIekk3ZGdJV2k4U2wxTWRHbV9tRXB2eWdQMlhWOEdHeU1hanpBNXFTNm9FUEdPT1BnQnRiSE41cVhmQmFSdkU5TWNKZlZsQzRkYzNuOGFueTNVR1NjU1BJbHotemRvUDdQRmFKZTFoVDN5cGRHYlk4MVdaMUdnZjQ5ZEFoandWN2lXbTBzSHBLYjhlcklTZVdV?oc=5",
+    "source": "Quantisnow",
+    "published": "2026-11-25T09:06:27Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "5ac0475c349a424a381925",
+    "title": "Africa targets $500m in green investments",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3ZWMjg1VjJPTi1VWk53ZTViNXhfVi1KeXlDcXIyUkg0R3lNaUhtX3hUTmZrVGRkWVR5SmZGR0d0QUhCc29PNmowTVF3ZDBxOVhEbDFjWUlRbWczbGpHNkQtOTVFTVBvR1c1czJUbHd0Y1lRRnV4Q1RPcEFRWThMeDkxYVk?oc=5",
+    "source": "CAJ News Africa",
+    "published": "2026-11-25T09:05:34Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6f128fe6206135e22c1ac4",
+    "title": "Africa’s Green Economy Summit unveils over $500 million in investment opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1dzQ2ZtNHJGRXRvT25iTlR0bDczcFpsam5uSVUtMWxVY2x6VnhoVTY2cmxoMkhXYXRxTjF5SFF2a0V3ZFZwZWlXXzVDS2pJNUhRY3QxM2tpM19xeVdyLVlscFRkV3NRU0FCakNwTDgxaTZ5dlZPRzlVT2t5VHVBZXRMaVMyVFNtdWU0Sl9PNkVPcDlrS2dfRTdHY2hzUzVjYThzZC1UOUJnNVJ2WFQtRjBXZlpQM1I2X1B6czFxR01WNzA?oc=5",
+    "source": "thenational.co.za",
+    "published": "2026-11-25T09:00:00Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "7a5d9a010559bd556e526b",
+    "title": "36Kr Global Event | 2026 Dubai Airport Freezone Beijing Exchange Conference Successfully Held – Unlock New Overseas Expansion Opportunities for Chinese Enterprises in the Middle East",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldm1pNWVObl83RjJ0b1hHaThiYmxrcV8yemhVTUJPVWNLRlZLTnM4cjl6WHNSZXpoUjJFLVFjTFhIcGJ1Z25VNnowY3hmS0syNEdF?oc=5",
+    "source": "eu.36kr.com",
+    "published": "2026-11-25T08:53:01Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6754b2175d3b31515e9349",
     "title": "AI and brand growth top priorities for CMOs in 2027",
     "summary": "",
@@ -30,6 +162,18 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN3N4S2gxc1IxWWR6cjVxd3hlY3VrMXRrdTFjQUZveUhaV1RLM0NpYWZpOXk5NE1peWl5VXlvMDFwS0dyMXlHQTlTb2VIZnBFQVBwQktKei1pWlVhTUVPYTgtQ3Y0enFTYmJUX0FTUG91XzNsaGgzLXpvZGRpaUxzRFlZMWJWRFdZelM5VTFJZWpiX2FUWU5IVDdmamI3YU42RUFJSnBQaHYtT3B6MWJ2Q1NWajRmTDJvUVgtZTlnanhQZHQtTmdoMk9pemFKdFBvWVAyWmVXbmM?oc=5",
     "source": "The Columbus Dispatch",
     "published": "2026-11-25T08:43:08Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "3ef326259dbc7d6d18d1b0",
+    "title": "U.S.–Vietnam Dairy Collaboration Opens New Opportunities for Global Nutrition Development",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEtHaFg3c3VYYkQ1OFlxNktoWmtmVHFKQVV4VzNDdWlCei0zRnFtZGVmZ0NsYl9SeVdKZmRSeGpMTWZXLTZsaUFLaW1uM3VtQVlsdy0tSER2S3dFYWg2TU5GZVZFZ0c5TmVQeTJjZFBYTVpPSlYzb2ZGVmh1ZWZGelJQRmdpVnZfbjQ2ZmNzN3cxSlhsU25vTGxVTWpOcjhTYlpIMVZ4LUZwY0ZPNS1KNzFTSEpjRjBIblB6eTZBMHpzMEtCWkZXdUZiaFZEbkVqX2pheFJPZ0FFQTE3?oc=5",
+    "source": "The Detroit News",
+    "published": "2026-11-25T08:37:04Z",
     "category": "Brands",
     "topic": "Brands & business",
     "country": "",
@@ -92,6 +236,18 @@
     "published": "2026-11-25T08:00:13Z",
     "category": "World",
     "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "194709b30f68b40b9cd56b",
+    "title": "naoo Play: Early Usage and Acquisition Data Point to a Scalable Business Model",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRmtZYllLRUJwanJIN19TNVRzV2tNeTNCdUcyUGxKSkRhV1BWLTVYbjBlNkNtc1IwZ0ZGUDNqazFaUTJNSEgyVTVFWXdKZE5ZX2FyaFMwemhqOWxNOHJDQ0ZYUWdHMlBqdUFHVm1OYkJ3LS16WkVURm13TkgzM2xYNHFBa1prMHdJVUtWcjRLSHpqRVBVZE5UT21zOUw1NjYwdWU5V1Jyd29GZFc4TUpZR3plZGxPaVlUaDJaOUR6SnZ2dlc4NndTZHZkOA?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-25T08:00:03Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -240,6 +396,18 @@
     "image": ""
   },
   {
+    "id": "5dc3448bc4dd21e9db7439",
+    "title": "Spain's economy has grown under Sánchez, but many voters aren't feeling it. 5 charts explain why",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUQ0R3NfUURGRTR5Mk9wWU5tYUVoek1rakxpbWYtUzBTOXBHc2xUdEVNWDRKWkE0Q1N6MzZJWXhGLUZ3R0l5b2xyM0RGb291WmZxSV9mSGFMOUg0bmpzV1Y4STR0eUdWUF9TWHlyTXV3ZnVwN3dKai0zMjhhOC1JY25hMDhrRllsZVVpSVNtREotckRsbnhTTTFwUU1WSnlYOVHSAacBQVVfeXFMTW9rcWZET0MtVkwydUtxTlMtaDFlTF9ZY0hEQ2hCcDM0X2J5MThzSDZXTVpCNlBXbmtEbWtyQzVmcVQ5Z085WlZWZnV2d1RNUnYxMjFpZFB3RlY2a09ZbnV2cWkwV3d0a0ZhSHBwQ1prLWl2QktWYllZMHBGcUVGQ3l3TjdkZGZQWkluZE5QNS1PejV5YkQ2RmlpdERUeldUcmttcm56bTg?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "2026-11-25T06:23:05Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6cd45e2d2b78eb32e04a91",
     "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
     "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
@@ -250,6 +418,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png"
+  },
+  {
+    "id": "7efff12193c495191ac3ce",
+    "title": "China-linked battery projects could receive UK funding despite security warnings",
+    "summary": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlist A string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems. Ofgem, Great Britain’s energy regulator, published a provisional ",
+    "url": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
+    "source": "The Guardian",
+    "published": "2026-11-25T06:00:07Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/d6d3b60ad460057409bbc390fe470277522fd6bd/560_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43998559bcf63e8b71dee70be16d780c"
   },
   {
     "id": "ae067b3fc530d97c536235",
@@ -574,6 +754,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg"
+  },
+  {
+    "id": "eb3bdaf8a84f37da4ff90d",
+    "title": "I asked AI if it was OK to use AI to write an obituary. The answer surprised me | Anna Spargo-Ryan",
+    "summary": "Victorian Liberal leader Jess Wilson’s tribute to Molly Meldrum contained heaps of the right words. But they were written by something that can’t feel I know how this will sound but when my nanna died the second thought I had, after utter devastation, was: “This is a writer’s dream.” She was 101. That is so many years old. I wrote the eulogy to end all eulog",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/25/jess-wilson-molly-meldrum-tribute-ai-ethics-obituary",
+    "source": "The Guardian",
+    "published": "2026-11-25T01:00:01Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/f3c83be0e5415a34561d49dc0d5206b7ca0cc88f/16_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2ce00b7814541369575f9918e632ef3e"
   },
   {
     "id": "b260aefcebf2b187e43774",
@@ -1198,6 +1390,18 @@
     "topic": "Corporate results",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "da04ad40ce2f609badbf82",
+    "title": "China’s Huawei convicted of stealing US trade secrets",
+    "summary": "US attorney general Todd Blanche says ‘No person or company is above the law’ after tech giant found guilty on 10 of 12 criminal counts Chinese telecommunications equipment maker Huawei was convicted on Tuesday in a sprawling US criminal case on charges that it stole ⁠trade secrets from US companies and deceived banks about ⁠its business in Iran. Huawei, the",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
+    "source": "The Guardian",
+    "published": "2026-11-24T21:11:44Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/c705226e3d7b0501675e456628ff5a522b977f05/651_0_3257_2606/master/3257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c3cf7958c06bb24dd2ccdf0b4f31159"
   },
   {
     "id": "2db777f1e5accc2701db6f",
@@ -2036,6 +2240,18 @@
     "published": "2026-11-24T16:22:08Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "bc7a97fb4c9474709fbce0",
+    "title": "Africa’s most industrialised country secures another foothold in North America’s car industry as Chinese auto parts giant picks Moroccan factory to manufacture Nissan components",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcUt1YUM3eDdSNFBSdk1ZSHBPaHF6bEU5VG5jeVp1WEw1MWlxZ3p2dllQT0w1aVhGWThUTFUwV0lldXFob0RSNzIyQ19ldmk1TGsyTjVrdUF4UHVzYjJ1OUdKdzRFdWVCQ09sUndtOHV5WUR3UVJReGNBWGUyTmRETXRTcXB6a2x2My1Yc1Q1N2ROS2kydWRxVU9SQ2tqUjF6MU5ua2hWUEhlaXpOZlZqcXZRQlBhekFGYjNTLW9FcVhGbHNJV2I4TUNDMzJfekJSZm9xM0dB?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-11-24T16:12:16Z",
+    "category": "World",
+    "topic": "Americas",
     "country": "",
     "image": ""
   },
@@ -3236,6 +3452,18 @@
     "published": "2026-11-24T10:57:16Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "0324769dd44c915fe7da72",
+    "title": "Marsh warns AI payoff gap, energy costs and geopolitics will squeeze Asia-Pacific insurers in 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ0dySlA0RHFZQmxJTU1WTTJtRDRPbjVvb3NOQmR1ajVrVXpsMWNDbWh2NkJET3BnbHJkUVZIdEtMdk1WUTFLdnJzc0QyanlQLXhqSGdlTDMwWGV2WFZDNHdMY3FNZ2dRaUFIbWhaVmVBM3RYNFNzLUZqbDdhbEdpWEtWaTRVQXBpdWozSXlBWVRfM0kxb2ZhWDhqb3IydmFId25UdnA5N3NfVzVPSFJteU9IVGExMW8wNmxwcGJHY1M3SG5DVG1tZVNzQVgyTVRhUmwtN0pJSXEzLTZPbWdyYkNDUXhPMzByckJHNGJaWXNWc3BIYno2VThXckZuZw?oc=5",
+    "source": "Insurance Business",
+    "published": "2026-11-24T10:52:51Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
