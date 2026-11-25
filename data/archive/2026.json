@@ -1,5 +1,125 @@
 [
   {
+    "id": "74d99a307b5dcf28e29d1f",
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T19:54:57Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+  },
+  {
+    "id": "b6100b41d82114b18fc35f",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+    "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T19:54:52Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
+  },
+  {
+    "id": "70b9acbfbf9a7e478cb330",
+    "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+    "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+    "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T19:54:32Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800"
+  },
+  {
+    "id": "2fc73247a0153f3d8af205",
+    "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+    "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+    "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T19:47:39Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "id": "8cc9974ff0c2f15e6b793f",
+    "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+    "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several [&#8230;]",
+    "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+    "source": "The Verge",
+    "published": "2026-11-25T19:45:51Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b4fddd7d3c17c325b4153d",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T19:44:24Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
+  },
+  {
+    "id": "0eb775f636214d226a2af0",
+    "title": "UK food inflation could hit 5% next year, Bank of England says",
+    "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war. The deputy governor Clare Lombardelli told MPs on the cross-party Treasury se",
+    "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+    "source": "The Guardian",
+    "published": "2026-11-25T19:25:57Z",
+    "category": "Economy",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83c604134ee13025218688505d66317e"
+  },
+  {
+    "id": "9756bf661ceb259a44bb69",
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+    "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T19:19:06Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "id": "45d5ef88f5d57d952cd68b",
+    "title": "Ahmed bin Saeed inaugurates second Middle East edition of 'DOERS Summit Dubai'",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGduZ3ZlQktjTmtHaEtlNU9tVE9yZGJMZjVocVkzbmpsSGlENWZmdUVnak5CNFRqN1UzM0Nld2toamNkUlNXa2NJX2xBQmV2R1FHdzBFcmttazNtVDhJZ1BQNnBqQnFIT1V4cTcxVDZ1cERxd3h6bWNmeUMwZWIyLWxBdElUSE1rMDZHUg?oc=5",
+    "source": "www.wam.ae",
+    "published": "2026-11-25T19:16:18Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "cc6e960d226fca72222e0b",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+    "source": "The Verge",
+    "published": "2026-11-25T19:10:15Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "9ed88987e3d50e1ec702df",
     "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
     "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
@@ -140,6 +260,18 @@
     "published": "2026-11-25T17:07:10Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "10a4a24cd0ea53557a7f6d",
+    "title": "EU, UK fine fragrance firms over 570 mn euros for international cartel",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUY5eDdqdVlDd1pJajBPcEVOTWpldkMtZktIS1dCSG1DaEoxZWo3WmpVMkFUMk5oX3J1dEJFYngwMzg5S1g1WGFMcHRYeWwweTNBeTMyWDlGQ3NhMXhDUERqQWNTNjNNQWVkaHFzU3Q5S0hjYnM5TjhrYTZMRUVsenNqYmt4NUZKSDhpbEc2SUZJZw?oc=5",
+    "source": "AFP.com",
+    "published": "2026-11-25T17:04:45Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -336,6 +468,18 @@
     "image": ""
   },
   {
+    "id": "de021846239e75cc6a9a0e",
+    "title": "QDB showcases Qatar fintech ecosystem strides at SFF 2026 | Gulf Times",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzJ6N0dObGVUcVFBc2l2YUs1WEdJYXRxNkhrdE1yNndlTVpwUGN4bHBGcFhDNnZjOTI2bTB4bDlxYmpZbjBvV18wOW5XdUF2ajNaLWYzRXRob3hYX1o5MTZKMDZ6eXRNUlkxQlFQU18yME5lVHRrYVFORkMyMHJ6YU5IbFpYTUNrcW9BRTl4UHZ6WGFXZW1nUFVkMVo1REFxZzdKaldxLXdvNTRlcDItcU130gGyAUFVX3lxTE1TMno3R05sZVRxUUFzaXZhSzVYR0lhdHE2SGt0TXI2d2VNWnBQY3hscEZwWEM2dmM5MjZtMHhsOXFialluMG9XXzA5bld1QXZqM1otZjNFdGhveFhfWjkxNkowNnp5dE1SWTFCUVBTXzIwTmVUdGthUU5GQzIwcnphTkhsWlhNQ2txb0FFOXhQdnpYYVdlbWdQVWQxWjVEQXFnN0pqV3Etd281NGVwMi1xTXc?oc=5",
+    "source": "Gulf Times",
+    "published": "2026-11-25T15:35:00Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "59be09ec3b7a5efcbb4edb",
     "title": "2027 economic and market outlook",
     "summary": "",
@@ -370,6 +514,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/c63cd1b6d68275d8461c1bc612aa99fff6a89fc6/344_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e3c98370ea0441e4255f17e16b95c54"
+  },
+  {
+    "id": "6fa2ecab31b0edab58267a",
+    "title": "Euro struggles for traction as upbeat US economic data reinforce hawkish Fed outlook",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk1GT2x3dDJ1b2REWUZ0TXgxSWdoblpWN05fWXNVbExVMzUyWnNIdzZoYTdraVRGVmtSTndlblNabnQ3MXRKamxIMEgwN2VDcF9ucW1fZzZpRmFUeWZ0QUZQaTBNQm9XMHpBNndRUDJRNkFkTW44THMxdjlWVG9XRWZFT2xqblZFRDJFTy0wT2RHYTkzd29OQVprVlg1ZUNoeWZMR0RyaGJsQ3BrdFc4bURnSUpiQzFMZ2hJOFlqQ0FvSjk0bXBXZlpXeDRZOGk5ZGtxYjNRdkF2cUdNSGlPa2M5V1g?oc=5",
+    "source": "www.tmgm.com",
+    "published": "2026-11-25T15:16:21Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
   },
   {
     "id": "d1b1550ef46b5efe069199",
@@ -442,6 +598,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-25.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ffeef623d5cacc00cab9b7",
+    "title": "Trump proposing new tariffs on 14 partners including China and EU",
+    "summary": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European Union, that would go into effect early next year, the office of the US trade representative said on Wednesday. The administr",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+    "source": "The Guardian",
+    "published": "2026-11-25T14:59:44Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/1e62345f75c4b03ed8949417f520577e19e7e89d/914_0_5738_4593/master/5738.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4818ac36cef3291c38bb9b7059947de"
   },
   {
     "id": "6f1e95d2e797edf204f487",
@@ -862,6 +1030,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg"
+  },
+  {
+    "id": "5e930982ff8c3d41a1a3aa",
+    "title": "MapmyIndia Appoints Abhit Kalsotra as Chief Technology Officer to Strengthen Technology and Location Intelligence Capabilities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSXczZzhqNjJMNUFRM1lIYWlHMnJ1T3lVS1pRblluN3N3QmlwTm1IdGNhY3RUVVdLNHdaMm84RlRxZ0JUUnRRN3pYekRxRmRfMzJEejBNWXVLRGNjbTF0ME1pVGtyd08xVE9jOXgzSkR0cDEtSnA2REVhV2Y1WWJoX3o2c1VfWWZhdzlRSXFrZGRhVmNLTEJuM0lqS3JKWUFKdU1jS1NybTFYR1AyVXd6NmZMbXFRLXpHV2lZMS16SnN5ZzdqQzRNcDJfcWM2VXRMQkdlVm9aTWNtd190ZVZEVUNJbHRoSTZLYTd6OEFoRk4xa08zMENHb1Rlaw?oc=5",
+    "source": "Indian Startup Times",
+    "published": "2026-11-25T12:20:20Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
   },
   {
     "id": "53c3f6f2b28c9cd71adc30",
@@ -1446,6 +1626,18 @@
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldm1pNWVObl83RjJ0b1hHaThiYmxrcV8yemhVTUJPVWNLRlZLTnM4cjl6WHNSZXpoUjJFLVFjTFhIcGJ1Z25VNnowY3hmS0syNEdF?oc=5",
     "source": "eu.36kr.com",
     "published": "2026-11-25T08:53:01Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9d720ece9fa3b925d7f84c",
+    "title": "Bucharest Forum 2026: Black Sea Security and European Competitiveness at the Centre of Debates in Bucharest",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHBrXzhHMktWOVVRcGJmMjZZMzVMOUpmZ0htUjI5bXlsSmp1ZEpxWFZhZmJaZE9ObnhtM3dXbXR1LW5xOEkyRGNIc0t6VlhMbGJ0TmhsVDc2TGtFLU5OLTU1WUlGdXdkcFQ3cmViOGF6OG5mRThsc2JsUWZFeGl6NE94a2VwVVU5a01tdk92MjgwaDBMUDFuM1lWN2IySlBqcVVjQXo2eFIxRGM1UjhieDEyMFNoRW9zUFZPU0pBVWJhQi02WWhhY2VUYkh6R0R1VUNreXFWZXJhWllEMnc?oc=5",
+    "source": "The Diplomat Bucharest",
+    "published": "2026-11-25T08:52:36Z",
     "category": "World",
     "topic": "Middle East",
     "country": "",
