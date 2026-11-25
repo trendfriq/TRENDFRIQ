@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-25T04:04:35.149584Z",
+  "last_updated": "2026-11-25T05:14:03.508511Z",
   "articles": [
+    {
+      "id": "cb5104da852dec6cc22c4a",
+      "title": "Global Airports Turn to Private Investment, Raising Cost Concerns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWNRTXVxbTRoSVdpMkRELS1OQjl0a1pXeW1MN0hoQ1dnX2NkQnJjOG9EWFh5VHVEdFhBWmU2RjdkMTJWTzFfc3R0QnRMTEplX2ZNcUJId0dtUG41SVBSRDF3MHRiYTA3RmtCM1Q0QXFPRFNWMVFlejl0ei1mRjlxQ1lzODFld1AyMDdmMnNMRm5Bb1hpWVRwVHFYNjFTY2NhdkE?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-25T05:10:30Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a60502dec264c271f125a9",
+      "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWhTWjcyd1RmRUlpanRTUHEwdWhLa2lKOGZtYUY3aE5LeEJsLWx6U0dONFhWNUZ0OF9KSVNfS1B3NmhuMVhFUm0wYUxuUmdtVlhaaU96RzkxdzgwZzlVQXoxSEFUSS1XZldZRF9rNF9PdFkyakxUTTB6RHdweDRQcHZ4WEprRElvVUR1STVWeVktamxsaGdqak1FbE96cDNOa3B5RE1YenNaSzVuSFRLcV9pOU1pQmlCUkhsVlJB?oc=5",
+      "source": "EE Times Asia",
+      "published": "2026-11-25T05:08:47Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fbf69c47213221127107c6",
+      "title": "Networking Event:Tech Founders, AI, Intelligent Systems for Startups & Pros",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFp6bDVEUmk3dFNkR21Tcmk1ZjFHemI2aXJIWHhpY1dya2h5THY1dmZrLVp5UnFmVUZPS0NhUzV0TGhIZGNKeXhOSFpDXzBMNm1VMnhueURnUy1USU5pQmM3d01CWFRmRzRlVldtbkdDeVZXMEI0cGRheFJnQmpvTnZvRWJVdjRhM2F6QWpRRTRhdHA0cFVlRDV1aHpZTE93U185TmN3S1FXaTRJbm9HNkhSMEN6dzJlcXZNLThoc0FyVklSUFhMVTgtSUZGRnZHSE1ib0FZZWtZWFU?oc=5",
+      "source": "Superpower Daily",
+      "published": "2026-11-25T04:59:13Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d28edd583d67403a26f23b",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T04:49:55Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+    },
+    {
+      "id": "80dc78ac8b8d58d8805f9b",
+      "title": "The future of trade: Rethinking risk, regional platforms and AI agents",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2lIemkzR3VoZ0xQT0tGQ2l2ejBNaFA0VGVPLTl2bnFsNmM5ZVMzeWFXbkstMFBweWhLUHlJRmhidkhEWmVTamRkLVF5M0ZldHpacjZDeUhmZENHUkZrZnVXX0d5Y1dmcC1lRXd0MDRHalc5bjNCQjZoaFFlVXNWNllOWVc1NWI3cU1fLTFWR3ZteGpRd1MybkU2eHN2cUpKR1Z4YVl5T01TejhYbHFZbg?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-25T04:20:58Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7eb5d08c0ad8c08b7f5045",
+      "title": "Jensen Huang Boost Fades Fast as Taiwan Stocks Tumble 8%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSndDcWFkVFpWQUhnOHh4X0xYYlRXOE5MaHp4eUxXS2E2YkN3aUZQSlRCQktESDdsd2NrTlV1WnlLQ1B6WFhoZzY3VlZXcHNWbVRQcGszNWxWbVp6NkZiQUxTc0ttUHVObVYxZ1FmaXdPSzJJY29sYXRiWUhIWnlpR3UzeHplWnlTM1BJMVdxdGgtRGNjUVlpWGU3ajF5UG8tTmRmdHN1Y0dJQQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-25T04:03:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "75a3a86ed42c87797de443",
       "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
@@ -50,6 +122,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
     {
+      "id": "a3c0fb58aa19d1d678610e",
+      "title": "Questions? We've Got Answers: Addressing Issues Impacting the Economic and Financial Outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NUVQ3QnZWNzVOTERjb1BmTDJlT2h2OU5IMDRWLWhvOWVydFpST2NXd3g0TzFoN1d2dkVYQlNhQXBqeU9hYU1LaVpvQWhDUEtNN2djNWItVDQ?oc=5",
+      "source": "TD Economics",
+      "published": "2026-11-25T02:44:41Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "09fff6cc3d1720f3741f0f",
       "title": "Euro softens to near 1.0950 as traders await US PCE, GDP data",
       "summary": "",
@@ -96,6 +180,18 @@
       "topic": "Americas",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "931118a83c11690ed26110",
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T01:40:42Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png"
     },
     {
       "id": "146682ecf8925c5d082d10",
@@ -168,6 +264,18 @@
       "topic": "Europe",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "4980e212d8f2fd4177de22",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T00:56:51Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
     },
     {
       "id": "be54e905a796b4cee0cd01",
@@ -446,6 +554,30 @@
       "image": ""
     },
     {
+      "id": "803932ad076bb2b61b1ca1",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T23:05:11Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "728942263f493f659fb261",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-24T23:03:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "id": "a4707405e2ca0b252bd19d",
       "title": "Dubai’s AI ambitions hinge on getting the infrastructure right",
       "summary": "",
@@ -560,6 +692,18 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaERld1NLd2EzNUJRRV9mWGtLVWN4ZVhIeUlxcEV0a0VaMmhIWVdjWThzMENXVGs4c3MtSE1ZbTJFYlhlb3pkR2U5UmFCWlp3Q3NaalBMTzNqY3NVR0d4RU5oTFBVTnF1RTZsWnIzSzBZcFVGQm9hbnRCU1dvRmEwQ2JKc1RYTnZfSjJ2eTlTYWd2d3JGZHNlbE10TQ?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-11-24T21:45:54Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5907c01600c34dc2c70ef8",
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhyY3Jxcm1ZNEhfdFNUS2p5RTAta1NyTnNGS0tOLWx5UkEwWGpYZm9IeWtQUmVjMWFKeE1kbFRLZURzUTJkLTRhV0t2Q2tURGZzYjc5Mlh1eWFhaEpLWmctTkRFeFR1RGxINGh2aEdlZ2xSX0hKYXNkZThTaEpsT1VMSVAyUmJmX2dscXZSLWJkM3hYQ2ZYejN1akN0UlpqeG5Ibks4alRZTkpsR05Qa3czTnVVT3VvV1dTejFJUU9XNHJvMEE?oc=5",
+      "source": "MarketWatch",
+      "published": "2026-11-24T21:45:00Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -790,18 +934,6 @@
       "published": "2026-11-24T20:56:04Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a3c0fb58aa19d1d678610e",
-      "title": "Questions? We've Got Answers: Addressing Issues Impacting the Economic and Financial Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NUVQ3QnZWNzVOTERjb1BmTDJlT2h2OU5IMDRWLWhvOWVydFpST2NXd3g0TzFoN1d2dkVYQlNhQXBqeU9hYU1LaVpvQWhDUEtNN2djNWItVDQ?oc=5",
-      "source": "TD Economics",
-      "published": "2026-11-24T20:52:53Z",
-      "category": "Economy",
-      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -1058,6 +1190,18 @@
       "image": ""
     },
     {
+      "id": "8b28f9fb199b35900f2379",
+      "title": "ECB’s Vujčić cautions against economic isolation amid mounting global shocks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZmJ2YlNIY0N5Z0xrbEtSN01vM3RGSnItOGY3Y0JCemlwUms5Vmx5WWp2X2tXNktDOVkyMzRlWTZWQ25pc2pUMnZnQ3pkUHc0TGVnTWJhVFFGaVFTckludXFsTXU0Mm52NE16RmFkN3VIQzBZcmpXZ1RjU3lFWkZ2dXdNT2RsWDVjdjdQaVBZRXhxZVF5bWpRZlBheFVud1FaMWNTdFpCT1ZqUmRvS0NramJIS2RWLXdvZGo3a2FsT2FnOUZ4V205SWxPdUMtNFBkcEU2TC1jMG16Zw?oc=5",
+      "source": "INSIGHT EU MONITORING",
+      "published": "2026-11-24T19:01:57Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9b5e3b4b01429c066a4e4b",
       "title": "Amazon is knocking almost $50 off six months of Apple TV",
       "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you [&#8230;]",
@@ -1178,6 +1322,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800"
     },
     {
+      "id": "d0f94da6daf867e3f0c462",
+      "title": "The Trump Administration’s Megaspeed Blacklisting Comes With a Glaring Loophole",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2k4bDJ0Mzh0REpudnhjT1Z3dGVVa1Z4WlFuTGdtVmhBZUI2YlB6M296ZV9XUGJ4R3NGQ1ZZSWEyR3JWV1lpd1lCLXhicm5CM1M0Q0loeVNNeDZQMjFuQ3lvNTZRNnV5QXROdzBMSFJTYl9BYXlKMDZ2MFdoWWp0LVpJa3p2dTlhMEtLdW9YN2xCZlJwQjVXNzFVX2ZySE9XcV92d1UwTnRtTV8tMUE?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-11-24T18:00:16Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "547fb526a993b4fb0136f0",
       "title": "Mahama, Steinmeier rally German investors to tap Africa’s investment opportunities",
       "summary": "",
@@ -1284,162 +1440,6 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "9b3e5bb6883339f0999d2f",
-      "title": "Earnings call transcript: MS&AD Insurance misses Q2 2026 EPS, raises profit outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUd5NkJ6aTA5SDNRZEZtUFdLS1g4ZVBPeEg0VXVYZVpCVWkwRnlBMXJycldyU1dsa1Fwd0M5T0wxTS1KdHhFMGN5ZFR4a1o0MHZGVDdQSFBmZFZ3NXlZVlNiYUdKRy1ibnpaQ2JUTWhfZl9sbkNMZ1JzRjVzU1c5WjUwR3plSzlNUnltcjkyYm9nUmJpX2VzTTNEZEx0V01ZMGlmeENZX3dqV21nbXRZZGdEQ25VTGNSVXA1QzBfdUIyWkJTN2pKcHBQN1JDb0FpTm9DZEFWMVo?oc=5",
-      "source": "Investing.com UK",
-      "published": "2026-11-24T17:10:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6afcb8b7041c1d5d5f682e",
-      "title": "A Region Trapped between Republican War and Democratic Withdrawal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjFFaVd1emdTcGNwM1otRVlvdUFIRkRzdGRSaW1tbElkZVpQRWFLSms4WWRER2xUallSTks5Q2Jkc1poejRtV0FFajV5Sjh3M0RaYkRoRHBxcU1QWUNBMURYZEtwRngtQVVCQVk3SHpqOGc2NXRaWHY4WjZlVWNsUEVXTDg3WkdFeUZ5S18tZ0M3ZUE4WUJreGk3bHFlckdo?oc=5",
-      "source": "Middle East Council on Global Affairs",
-      "published": "2026-11-24T17:08:07Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1bacfc6abde8051b52d960",
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T17:04:00Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "08a6094b9f24b3f9375f2a",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T17:00:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200"
-    },
-    {
-      "id": "b4c49589d66e7eb08d7955",
-      "title": "US has high stakes in maintaining strong HK ties",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ta0FjZ3JVTlc0U0l1TjFOMVhaRjNhZkVnVE4zbGExcVZkQWx6V0pKRDR4cXBKWER1dC1RMll4TXdBUFFtZkVoTEszU3RkLWxiZl85N0xUSEc?oc=5",
-      "source": "chinadailyhk",
-      "published": "2026-11-24T16:58:40Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ba2f254cb73bd11320883f",
-      "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2xBdHctNDVmckhqTjVBMEJLSHowZ0h0U3JjdHVSTW5kckxQbmpnV1hsLVd0WVBtcE1jNGtJOXZtbUFXVkhvT2RCc1QxOHJaMEwyd29SbnE5dUtpVXc2RmMyelRUa1JtY3M5bmNkR05WRjUxVVdzc2NGMGJnbU9vZkJfNXY0OUU2QnZYUTlhN3dCYnVyYzBMU3pRMkwwR012Y2cxeHpuejJrV2dkb2RNYVJ1c2FpSTFzSkR4b1VNdjhGQ3BxLTBWc19CMzFQZ0RQX2ctTVFtdVU1YUctdkRtREJwajNOSWVOMDF2VTBLTmo?oc=5",
-      "source": "StreetInsider",
-      "published": "2026-11-24T16:50:57Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a77a44f3631df5681de09a",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T16:49:07Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg"
-    },
-    {
-      "id": "e6c2e14ad38e09d265ea67",
-      "title": "Company Results: Company Quarterly Result, Annual Results, Financial Results",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bVBpQVJTM1Z2YVBjZTRBdkdVc2xCeUVWSTZSVlFvSHVMWngwZ2IyVEFjdThJR1pDeUMtN2FCWWl1d3RqTHlPd0dIN05oeHpxektLR3ZDd19nYm5CX3NUZUdHcTJROExXVmNudXF3?oc=5",
-      "source": "Business Standard",
-      "published": "2026-11-24T16:47:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "022f717aafc7a3a3d2acfb",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T16:46:00Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720"
-    },
-    {
-      "id": "aa9ffe741a635a63a5302e",
-      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-      "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
-      "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T16:40:46Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/uber-nuro-Driverless-Image-.jpg?resize=1200,675"
-    },
-    {
-      "id": "0fe862075d4361c62b1752",
-      "title": "The EU is allocating €490,000 to promote eco-innovations and the development of ‘green’ businesses in Moldova",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUlSUHdWY2c5Y3djc2dVOW1rLUtSeXJaOVZVNWl1TUFtMDVRMFd2eUVFWWdkazdvci1aOVBYeXN2NXlQV0FpakQ2RlVHZlRFUkliUk5GVkoyMlBIVkkyeFpXdER5eDRadUM2TlVER182TFFORzBwQU9ER2tBTVhXQ0k1d1pENWdIM0pkXzVUY3pVWnNOOUE0QVdObzZleVhwcmtKWVVNRGdPLUpVbmFlNTkyWTNoVWZFMkFpeDBnSWRJSmpxX2dDNGlWalJJMnc3SGhV?oc=5",
-      "source": "logos-pres.md",
-      "published": "2026-11-24T16:37:38Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "382477c959ea42f31a5aea",
-      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-      "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after [&#823",
-      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-      "source": "The Verge",
-      "published": "2026-11-24T16:37:03Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2292676553.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ff6c6aedbd710a87e341b9",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T16:31:26Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
     }
   ],
   "countries": [
