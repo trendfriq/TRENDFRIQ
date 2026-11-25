@@ -1,5 +1,65 @@
 [
   {
+    "id": "17929128d139e3d01b2200",
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "source": "The Verge",
+    "published": "2026-11-25T17:44:51Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1b214afa5a2f08b97cadad",
+    "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+    "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+    "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T17:36:51Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ransomware-screen-1186403530.jpg?resize=1200,749"
+  },
+  {
+    "id": "5b2e3451b1a570f55bbadf",
+    "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+    "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T17:35:58Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675"
+  },
+  {
+    "id": "42cd4506e23baf082e0cb5",
+    "title": "X’s latest update for creators focuses on vertical video",
+    "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+    "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+    "source": "TechCrunch",
+    "published": "2026-11-25T17:28:29Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258168632.jpg?w=1024"
+  },
+  {
+    "id": "9b65a89dbf4e5e6e767644",
+    "title": "Norway Welcomes US Decision on Tariffs, Pledges Continued Cooperation",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVhJMmtucnlyaTVXb25FWWhYdU8xMmxxYTRlZ0VMNDVEd3AwVEZEdjBpSTcxeUE3VDRSRm5UdHE4ZkEzYjdGTXo2cXNlVU56XzJOdXFqMjUtTmFuMjJUMl9BQVVNeEZWQnUwa1dHZXdTVmNmT0xpUjdMUFdNQi1IY1I3dHBTbGJqR21iYnFjZThmOEM0OG9pemtHZC00RWRVeWc?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-25T17:10:32Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "86f08995bcb74ccfed7766",
     "title": "Italy to Drop Curbs on Home Renovation Tax Credits in Budget Shift",
     "summary": "",
@@ -60,6 +120,18 @@
     "image": ""
   },
   {
+    "id": "ab887a6039d725a68373de",
+    "title": "What Drove China’s Record Outbound Investment (ODI)? (Part I: Flows, Stock, and Trends)",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXhVRkhwTXVHVDNDUWk3dXp5ekZWdjRXU01vcjh0Y2RzTHFQTHBpTzFvVVRaNnFvbFpvZ0V2dzE2UlBuZnNCbXlZZW9FY211VEY3TU13SzZKM0FTQXUyV05uSWxVUnVxazA0bElGQzE4TzZRMHQyQ0NGOVl5emRSVlZ5SHFWMWVzYjBiSERXLWNadVBFZVF2Uw?oc=5",
+    "source": "China Briefing",
+    "published": "2026-11-25T16:45:02Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "4b401efd1676af3f2f1190",
     "title": "Shein feels impact of EU import fees as revenue slides 6%",
     "summary": "",
@@ -82,6 +154,18 @@
     "topic": "BBC Business",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg"
+  },
+  {
+    "id": "2c58628ef9af9e2574b169",
+    "title": "US stocks fall further as fears over AI intensify",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+    "source": "BBC",
+    "published": "2026-11-25T16:07:26Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "fcba5c9d7e3f7593e60a3b",
@@ -118,6 +202,30 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a10800e04b1fe8bbe505f3b2eea0512f"
+  },
+  {
+    "id": "3e500e04dfa2ba493c9c60",
+    "title": "Canadian astronaut welcomes baby girl from space station",
+    "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+    "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T15:41:39Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg"
+  },
+  {
+    "id": "edace181ba8247b2e1f1b5",
+    "title": "Rethinking relations between the EU and the Global South",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDJHMmZnU1N6aUIySzVhYnlsd0JLMDBxSDc0OVd1Ykg4bVI1Zm5DMnBweGJyR1JubkdhbVFTMXFsVmh2X2RyNGNEbVlURHFOSWdzX29pS2ZndnF0d0s1azR0a3R3U1N5VEJ6WXZpUGwzRzFYZ0d3VkFraHNxTDBJTnA0U2hnUUhNMlJiUTJFVk91ZXhUaXNtTGdoY19hTHNaRDZIZ21fdHVPQUxpTWc?oc=5",
+    "source": "Real Instituto Elcano",
+    "published": "2026-11-25T15:41:28Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "11636d826b71e4199c3d99",
@@ -264,6 +372,18 @@
     "image": ""
   },
   {
+    "id": "07a47c82111b5ca3a1005f",
+    "title": "𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 We invite greater German investment in manufacturing, agroprocessing, infrastructure, healthcare, renewable energy and digital technology, taking advantage of Kenya’s strategic position as a gatew",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUpObjdhMUphWUlIdDlwczFQRk5uVC01dHFoV3A1ODdUbVZpOGdUNEc2RlQxVTR2YVJnd05jVkJOTjRZQVFlWEd6SzI5bGI2SGR1TkwtVjZ1bHFxcVdkVXdIWGJ2REhMeGNYMXpDYU02ZlZkV0dUMVZ2d2RUcTMtck1NVnJsRU1CS0x5R20ydzJPT0JMd0tncldUQV9NbnFmdzRJNjZ4Q1ZlX3RmZnc0Q19oalVENFRKdE5yYkpRbV9ZVWtiZ1FJZ0lza0hJLWhtNWlzT3NEZFJ1TnVFOUE?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-25T14:55:58Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5d6d58571fb0b25a9d5da3",
     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
     "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
@@ -284,6 +404,18 @@
     "published": "2026-11-25T14:41:03Z",
     "category": "World",
     "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "955a61dfbbcceb55232f70",
+    "title": "Infotech Builds on API-Driven Advisory and Acquisition Momentum With Two Executive Appointments",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUEFTZEVpWkc5Y1cwbmhTb1ZxSGRsZGlFS2loQmQtZVE0SDRraGVMMGdNRWFPeE9mZVlPc05Gc0lNWkcwck1xNklCUEdzeWJSdmtnb2xaNk13SHJ3NXpUdktEc2xrRExNRUJveXdFaVcyQVBDVzYxOVNUdHY2bzgyZERYcXZnLWhNOFNZVnh4Vm1UZHpubG1maXFPMk1WVVZrZlZmaEszb0lRTHZldGlMczY1OTVlU09PNVBkTlBKaGRxTXlXWWtvWUZ2cXo5TTJXYl85dkVHTE0zMTgyNkVCU2Y0SlNvdw?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-11-25T14:39:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -370,6 +502,18 @@
     "topic": "TechCrunch",
     "country": "",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+  },
+  {
+    "id": "7a3413a1bf7079871c2db9",
+    "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+    "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+    "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T14:06:13Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg"
   },
   {
     "id": "e6430c4f0b912788f6640f",
@@ -562,6 +706,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2c18933b97f57811eaf942",
+    "title": "Adesina urges Tinubu to lead $50bn mobilisation for Africa’s space economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFlBd0s0RFdXa3MwWkQ4YTEzazh5YlpIODcxOVh3MklFN0pUNjltMlJaclRnLUMzbEZGRjFlejR0OExfdUs3WGNzNnRDdGp0UTVjZlZ2S2VDTHhvSnprOXhFamNHWXpLbEc4Tnh2MXMtRnNvZUs4MXJGYWdoUkR1MlZScncyUF9FOTlvNF9GeTQtdXNUUDYxOWFBRUtHaGc?oc=5",
+    "source": "The Guardian Nigeria News",
+    "published": "2026-11-25T12:40:56Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
   },
   {
     "id": "7347eaec08cc58a3b9f1fb",
@@ -924,6 +1080,18 @@
     "image": ""
   },
   {
+    "id": "68fbec585c943125f033cf",
+    "title": "Protesters call on Israel to free Palestinian student held without charge",
+    "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+    "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T10:03:42Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
     "id": "58957c3acc4b07d3232e3a",
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
@@ -946,6 +1114,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77f7/live/4f619020-e8b3-11f1-9e64-bddd508b9881.jpg"
+  },
+  {
+    "id": "0505df65b0eef6393f3c12",
+    "title": "Edge AI Product Development: Ambarella and Sigma Connectivity Announce Strategic Collaboration",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRTVRV1pQM0hyRTJGS3JGUlBJT1dtWjhJT2lrMTRxU3BqT05XWEd5RDhlZVB5SHBMT2RvQ0VEaDVDTV9TU3VYeDZYY0RXSURRVjJxQjdneHBlS19CcDlGNml2YXl5Vm9DRUEtYWNOLW9sNkhNWGlQcjFzOWJWUQ?oc=5",
+    "source": "Electronics Media",
+    "published": "2026-11-25T09:54:57Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
   },
   {
     "id": "43f28ba52dd501cecf8eed",

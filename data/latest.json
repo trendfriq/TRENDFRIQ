@@ -1,29 +1,113 @@
 {
-  "last_updated": "2026-11-25T17:20:28.928432Z",
+  "last_updated": "2026-11-25T18:05:56.819756Z",
   "articles": [
     {
       "id": "fcba5c9d7e3f7593e60a3b",
       "title": "Poundland collapses putting 11,000 jobs at risk",
-      "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published": "2026-11-25T17:11:09Z",
+      "published": "2026-11-25T18:04:13Z",
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3b/live/67717ce0-e8ed-11f1-8808-1d4222955d7e.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "42b954009353f086b60c45",
+      "title": "US stocks fall further as fears over AI intensify",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T17:48:09Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "17929128d139e3d01b2200",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "published": "2026-11-25T17:44:51Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "1b214afa5a2f08b97cadad",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T17:36:51Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ransomware-screen-1186403530.jpg?resize=1200,749"
+    },
+    {
+      "id": "5b2e3451b1a570f55bbadf",
+      "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T17:35:58Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675"
+    },
+    {
+      "id": "6cd45e2d2b78eb32e04a91",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T17:30:16Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "42cd4506e23baf082e0cb5",
+      "title": "X’s latest update for creators focuses on vertical video",
+      "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T17:28:29Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258168632.jpg?w=1024"
     },
     {
       "id": "b329aba5c3283cdd7daa23",
-      "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
+      "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened",
       "summary": "New tariffs planned as Trump administration clamps down on ‘unfair trade practices’ Hannah Webster , senior economist at the think tank New Economics Foundation , also called for other measures. The price cap increase will be difficult news for households to bear, especially during the winter when our energy needs and bills are higher. The government’s curre",
       "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
       "source": "The Guardian",
-      "published": "2026-11-25T17:10:21Z",
+      "published": "2026-11-25T17:19:11Z",
       "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/6430214b88ce13af167a04c542a1e9ee28c7de7d/666_0_4400_3520/master/4400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=cda8aae7146ca82d145656f2ffa2882f"
+    },
+    {
+      "id": "9b65a89dbf4e5e6e767644",
+      "title": "Norway Welcomes US Decision on Tariffs, Pledges Continued Cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVhJMmtucnlyaTVXb25FWWhYdU8xMmxxYTRlZ0VMNDVEd3AwVEZEdjBpSTcxeUE3VDRSRm5UdHE4ZkEzYjdGTXo2cXNlVU56XzJOdXFqMjUtTmFuMjJUMl9BQVVNeEZWQnUwa1dHZXdTVmNmT0xpUjdMUFdNQi1IY1I3dHBTbGJqR21iYnFjZThmOEM0OG9pemtHZC00RWRVeWc?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-25T17:10:32Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "86f08995bcb74ccfed7766",
@@ -52,7 +136,7 @@
     {
       "id": "6ccba0f5ca792b00d3dde6",
       "title": "WhatsApp now lets you schedule messages in group and individual chats",
-      "summary": "Users can schedule messages from 10 minutes later to after 14 days",
+      "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
       "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
       "source": "TechCrunch",
       "published": "2026-11-25T16:57:51Z",
@@ -94,6 +178,18 @@
       "published": "2026-11-25T16:55:21Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "ab887a6039d725a68373de",
+      "title": "What Drove China’s Record Outbound Investment (ODI)? (Part I: Flows, Stock, and Trends)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXhVRkhwTXVHVDNDUWk3dXp5ekZWdjRXU01vcjh0Y2RzTHFQTHBpTzFvVVRaNnFvbFpvZ0V2dzE2UlBuZnNCbXlZZW9FY211VEY3TU13SzZKM0FTQXUyV05uSWxVUnVxazA0bElGQzE4TzZRMHQyQ0NGOVl5emRSVlZ5SHFWMWVzYjBiSERXLWNadVBFZVF2Uw?oc=5",
+      "source": "China Briefing",
+      "published": "2026-11-25T16:45:02Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -146,16 +242,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
     },
     {
-      "id": "42b954009353f086b60c45",
+      "id": "2c58628ef9af9e2574b169",
       "title": "US stocks fall further as fears over AI intensify",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+      "source": "BBC",
       "published": "2026-11-25T16:07:26Z",
-      "category": "Finance",
-      "topic": "BBC Business",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+      "image": ""
     },
     {
       "id": "927dd6b10beb1b9592b8a7",
@@ -180,6 +276,30 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a10800e04b1fe8bbe505f3b2eea0512f"
+    },
+    {
+      "id": "3e500e04dfa2ba493c9c60",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T15:41:39Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg"
+    },
+    {
+      "id": "edace181ba8247b2e1f1b5",
+      "title": "Rethinking relations between the EU and the Global South",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDJHMmZnU1N6aUIySzVhYnlsd0JLMDBxSDc0OVd1Ykg4bVI1Zm5DMnBweGJyR1JubkdhbVFTMXFsVmh2X2RyNGNEbVlURHFOSWdzX29pS2ZndnF0d0s1azR0a3R3U1N5VEJ6WXZpUGwzRzFYZ0d3VkFraHNxTDBJTnA0U2hnUUhNMlJiUTJFVk91ZXhUaXNtTGdoY19hTHNaRDZIZ21fdHVPQUxpTWc?oc=5",
+      "source": "Real Instituto Elcano",
+      "published": "2026-11-25T15:41:28Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "11636d826b71e4199c3d99",
@@ -326,6 +446,18 @@
       "image": ""
     },
     {
+      "id": "07a47c82111b5ca3a1005f",
+      "title": "𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 We invite greater German investment in manufacturing, agroprocessing, infrastructure, healthcare, renewable energy and digital technology, taking advantage of Kenya’s strategic position as a gatew",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUpObjdhMUphWUlIdDlwczFQRk5uVC01dHFoV3A1ODdUbVZpOGdUNEc2RlQxVTR2YVJnd05jVkJOTjRZQVFlWEd6SzI5bGI2SGR1TkwtVjZ1bHFxcVdkVXdIWGJ2REhMeGNYMXpDYU02ZlZkV0dUMVZ2d2RUcTMtck1NVnJsRU1CS0x5R20ydzJPT0JMd0tncldUQV9NbnFmdzRJNjZ4Q1ZlX3RmZnc0Q19oalVENFRKdE5yYkpRbV9ZVWtiZ1FJZ0lza0hJLWhtNWlzT3NEZFJ1TnVFOUE?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-25T14:55:58Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5d6d58571fb0b25a9d5da3",
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
       "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
@@ -346,6 +478,18 @@
       "published": "2026-11-25T14:41:03Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "955a61dfbbcceb55232f70",
+      "title": "Infotech Builds on API-Driven Advisory and Acquisition Momentum With Two Executive Appointments",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUEFTZEVpWkc5Y1cwbmhTb1ZxSGRsZGlFS2loQmQtZVE0SDRraGVMMGdNRWFPeE9mZVlPc05Gc0lNWkcwck1xNklCUEdzeWJSdmtnb2xaNk13SHJ3NXpUdktEc2xrRExNRUJveXdFaVcyQVBDVzYxOVNUdHY2bzgyZERYcXZnLWhNOFNZVnh4Vm1UZHpubG1maXFPMk1WVVZrZlZmaEszb0lRTHZldGlMczY1OTVlU09PNVBkTlBKaGRxTXlXWWtvWUZ2cXo5TTJXYl85dkVHTE0zMTgyNkVCU2Y0SlNvdw?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-11-25T14:39:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -444,6 +588,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+    },
+    {
+      "id": "7a3413a1bf7079871c2db9",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T14:06:13Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "e6430c4f0b912788f6640f",
@@ -650,6 +806,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "2c18933b97f57811eaf942",
+      "title": "Adesina urges Tinubu to lead $50bn mobilisation for Africa’s space economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFlBd0s0RFdXa3MwWkQ4YTEzazh5YlpIODcxOVh3MklFN0pUNjltMlJaclRnLUMzbEZGRjFlejR0OExfdUs3WGNzNnRDdGp0UTVjZlZ2S2VDTHhvSnprOXhFamNHWXpLbEc4Tnh2MXMtRnNvZUs4MXJGYWdoUkR1MlZScncyUF9FOTlvNF9GeTQtdXNUUDYxOWFBRUtHaGc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "published": "2026-11-25T12:40:56Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7347eaec08cc58a3b9f1fb",
       "title": "Ahmed bin Saeed inaugurates 2nd Middle East Edition of “DOERS Summit Dubai 2026\"",
       "summary": "",
@@ -835,7 +1003,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUlmZzNacHBuNFNwNHhJR095aU1VMy14N2VsQVU0STZxNTR5Skx1UXFyVExLMVA2cWJibzIycVhfOUR0ZkVWbEd2ZGZja1JoYmxBZk9hMHNTY041aEJuelNBdFgxSmdtMXZOX29GU09qcFlRTFQ5ZUtvdVB2c3B4Mk9teWxIMkUxelV4bmdiRV9ydlhvSjh4SXhndHdVM3FkbzVV?oc=5",
       "source": "African Development Bank Group",
-      "published": "2026-11-25T12:00:22Z",
+      "published": "2026-11-25T12:02:47Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -864,6 +1032,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg"
+    },
+    {
+      "id": "3426f741354e7c4d94fbf8",
+      "title": "3 More Stocks to Buy After Earnings",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21QaDlQTTVfZjZLNDFwSWpuTFFPVFJsZE52b3kxeGhQNk9kdUF6OEQ3UGU5S192azM5WVZaSjhEeHZIMmJxT04xVGdUU3ZESEhPdmJkUmJlWWltWGNoUzc0azdOa2UtZkFZcmJQbFN1eE5KbHNONG1ubDJXRXkzY0Rn?oc=5",
+      "source": "Morningstar",
+      "published": "2026-11-25T11:49:49Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "f2bb73d90cebb6cd52c2a4",
@@ -956,18 +1136,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdG9hV0x3Z05rOFNVTXpHTEV2QkQ3N2o4bUU1RFlJOWJ4dGowNFY3R0VVZ1Y5MHlVcGY5YTl5ZlpPUGl1V3ptbWtWei10VnJ0WkVlaGNjaUZmbE9EZnprLUJuNHRUQUQzUUtHZ21OWHByY3lkbmkzeUxEdVBvVzgwS09tV2tFU2ZWV3hXM3RwcGNrWjN6ZGk3bnQ3OXA4eVgyMnk0?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-25T11:10:31Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3426f741354e7c4d94fbf8",
-      "title": "3 More Stocks to Buy After Earnings",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21QaDlQTTVfZjZLNDFwSWpuTFFPVFJsZE52b3kxeGhQNk9kdUF6OEQ3UGU5S192azM5WVZaSjhEeHZIMmJxT04xVGdUU3ZESEhPdmJkUmJlWWltWGNoUzc0azdOa2UtZkFZcmJQbFN1eE5KbHNONG1ubDJXRXkzY0Rn?oc=5",
-      "source": "Morningstar",
-      "published": "2026-11-25T11:09:43Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -1094,6 +1262,18 @@
       "image": ""
     },
     {
+      "id": "68fbec585c943125f033cf",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T10:03:42Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "id": "58957c3acc4b07d3232e3a",
       "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
       "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
@@ -1104,6 +1284,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg"
+    },
+    {
+      "id": "0505df65b0eef6393f3c12",
+      "title": "Edge AI Product Development: Ambarella and Sigma Connectivity Announce Strategic Collaboration",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRTVRV1pQM0hyRTJGS3JGUlBJT1dtWjhJT2lrMTRxU3BqT05XWEd5RDhlZVB5SHBMT2RvQ0VEaDVDTV9TU3VYeDZYY0RXSURRVjJxQjdneHBlS19CcDlGNml2YXl5Vm9DRUEtYWNOLW9sNkhNWGlQcjFzOWJWUQ?oc=5",
+      "source": "Electronics Media",
+      "published": "2026-11-25T09:54:57Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
     },
     {
       "id": "b1db65a692ce60efc8bbcb",
@@ -1246,198 +1438,6 @@
       "published": "2026-11-25T09:01:57Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1e18f0fb794076ed231ac2",
-      "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-25T09:01:21Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6f128fe6206135e22c1ac4",
-      "title": "Africa’s Green Economy Summit unveils over $500 million in investment opportunities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1dzQ2ZtNHJGRXRvT25iTlR0bDczcFpsam5uSVUtMWxVY2x6VnhoVTY2cmxoMkhXYXRxTjF5SFF2a0V3ZFZwZWlXXzVDS2pJNUhRY3QxM2tpM19xeVdyLVlscFRkV3NRU0FCakNwTDgxaTZ5dlZPRzlVT2t5VHVBZXRMaVMyVFNtdWU0Sl9PNkVPcDlrS2dfRTdHY2hzUzVjYThzZC1UOUJnNVJ2WFQtRjBXZlpQM1I2X1B6czFxR01WNzA?oc=5",
-      "source": "thenational.co.za",
-      "published": "2026-11-25T09:00:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e51e5b7a752d91fdcaa321",
-      "title": "Cyprus startup ecosystem tops 524 firms and €1bn in private funding",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWZ4RC1ueTFJMkI4OGM0aE9iZ3NIandIVkIzeVdLSG1TbVBCdndOMHRhejNGM2NpUHg5cTlha1RCbGplcUh1amhHYkFTLVF1TXVwTmtFUzlTel85Z1BSQ2RfYl9VN3RVaDY4LV9DNWxlV1dEa2JRR01ySWEtS2Q3LUxKM0FHWnZzVTVTS29CN2lCXzZwNHByalFTM1hlTTdhTkZTNA?oc=5",
-      "source": "Cyprus Mail",
-      "published": "2026-11-25T09:00:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "52cf92d596bd43411ea06f",
-      "title": "Myriota secures USD $40 million in Series C funding",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2NLMWc3YWFUTU9GbGdSRFA5QkJnR0ZtUmdqQmhzNE04OVlHTENjSFBqNUpXNkNxblRDcGJZRzVRaEI1T0RQY05hclNlb0NDMFM4VVZoVmp0RUNUZlBKbXQwRWlXNGpYVzM3MEcwU3ZOTjRlZzJQWmJsTlRyanFRUzBsZEdlbjNpRThN?oc=5",
-      "source": "ChannelLife Australia",
-      "published": "2026-11-25T09:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3f087c939657e50ccc1603",
-      "title": "Week Ahead for FX, Bonds: Flash PMI Data to Provide Gauge on Economic Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGRKVlM2NDJTdnJ2MW1LcHA4Z29OVTA3eEo0NFlsblNRRnBvcGVGZkVneWN1X1VWWVRWY1FTSm1jWHE0aV9IQzR5Sk9uWHpmdGdSb0VIR3hhal9YckR6QTVTeXhEWVRSTkQ2U2szTEdvQUtSYWVQSXU0LU1Pb3lzNmx6MHdNUmd4NTFHM2thTmpaN2xDclJSa1l1ZzQzRThSdnBPY0tKNC14WlNZRXNpeg?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-25T08:59:17Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "01773fce5c48ca7c151ae0",
-      "title": "Elumelu To Lead Private Sector Mobilisation At Sierra Leone Integration Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0pXUFZqN0RnaXBTbFR1NkVHUjZwaXBpajFfY2loY3plNFR6YXN6Ykxod2NBR0ppN0xHbmJNRjF4SHlvMkZkZ21aUnZ5YXhteWhweERudmZXVWVIN1BOQmZNZm40ZGppOEFkRW9HSkdzRnJKSEZicTZFMFZqRGtYcnZDdFFFOGhlV2ZCVDNiTEpDM19WYmwwS0RqeVdLLUZkaG5r?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "published": "2026-11-25T08:57:23Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7a5d9a010559bd556e526b",
-      "title": "36Kr Global Event | 2026 Dubai Airport Freezone Beijing Exchange Conference Successfully Held – Unlock New Overseas Expansion Opportunities for Chinese Enterprises in the Middle East",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldm1pNWVObl83RjJ0b1hHaThiYmxrcV8yemhVTUJPVWNLRlZLTnM4cjl6WHNSZXpoUjJFLVFjTFhIcGJ1Z25VNnowY3hmS0syNEdF?oc=5",
-      "source": "eu.36kr.com",
-      "published": "2026-11-25T08:53:01Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7ece2172eb011afe868e43",
-      "title": "U.S.–Vietnam Dairy Collaboration Opens New Opportunities for Global Nutrition Development",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2R6VHo2N1VIZHNsc2xxMXA5WE5BU0NWMm55bGdGYUhlMl83dzd4bkhyNGE3S0hfWG1rWHhiVXB6YmxMbl93a0E1eTVwaDM1eHZiZnZ1NF9jVFhKNVUxVFNibWpYc1FnRlFyS0tsSDVhNmFTd3E0ZF9kTzZDZnRhSVVuNjlsOHN3b3d2aGxyOXpNSElPSUlwR05Td2pnM3VIdDVzdlpHdEhObU1wRnFDWFZmNjEzTzNnYVczLXF5bVVwdkV3eVg3X3FLOHp5R2NnV2t1U3p1ODlOSlBiWmN4QmV1WjI?oc=5",
-      "source": "The Des Moines Register",
-      "published": "2026-11-25T08:51:02Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6754b2175d3b31515e9349",
-      "title": "AI and brand growth top priorities for CMOs in 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGRCZzRLNVAzTzdxczkwUDVzdlZLVjBMMlRpcmg0U3l6ODI2X1lJTTFHMFd6dC00ZmJkRWxuZGhHazdQUVhEXzhmWXRRLWdGVXhpSm9ROXVMVF9zQVNIc1VPV2t5bTY2dlkway1fYWxCNjZRbG82YURtS3dIQzJZMkVRSjdadmFPWk1mVHVuRFNrcUxGQmZFd2RqYnQ1RFN6S1BJ?oc=5",
-      "source": "https://marketingreport.one/",
-      "published": "2026-11-25T08:49:55Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5002344e52642871332ea6",
-      "title": "From solar power to sustainable farming: Africa’s Green Economy Summit unveils over US$500 million in investment opportunities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY2V5b2h1NnJhSlU5d0VCZU9pTk5RRUxaVTk0TXVrT2lybldzdFhoV25oWnozM2psTHdqazZxSWE4a01oeGJHb1hKYmNyTWI0X21vSUxzX0JvNVhfNFFrM0RjbTZLZUs3dmdoWHQ4OXJoaXdqY1EteHRWMmROUjZhTGVzWkl5QnJXbm1IcFVPZlRRcmU2c01VREFyTmdLbzZzdFp2Z0NFUnZVb0k5TGhXQTZrUFdTcmtscl9nSGVGNl9tcl9EVzNqQUJwdzJpR056dHMweDdzVFc1UVB3UU5F?oc=5",
-      "source": "Africa.com",
-      "published": "2026-11-25T08:43:09Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bed37bb1a4d743b7b4abf6",
-      "title": "U.S.–Vietnam Dairy Collaboration Opens New Opportunities for Global Nutrition Development",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN3N4S2gxc1IxWWR6cjVxd3hlY3VrMXRrdTFjQUZveUhaV1RLM0NpYWZpOXk5NE1peWl5VXlvMDFwS0dyMXlHQTlTb2VIZnBFQVBwQktKei1pWlVhTUVPYTgtQ3Y0enFTYmJUX0FTUG91XzNsaGgzLXpvZGRpaUxzRFlZMWJWRFdZelM5VTFJZWpiX2FUWU5IVDdmamI3YU42RUFJSnBQaHYtT3B6MWJ2Q1NWajRmTDJvUVgtZTlnanhQZHQtTmdoMk9pemFKdFBvWVAyWmVXbmM?oc=5",
-      "source": "The Columbus Dispatch",
-      "published": "2026-11-25T08:43:08Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3ef326259dbc7d6d18d1b0",
-      "title": "U.S.–Vietnam Dairy Collaboration Opens New Opportunities for Global Nutrition Development",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEtHaFg3c3VYYkQ1OFlxNktoWmtmVHFKQVV4VzNDdWlCei0zRnFtZGVmZ0NsYl9SeVdKZmRSeGpMTWZXLTZsaUFLaW1uM3VtQVlsdy0tSER2S3dFYWg2TU5GZVZFZ0c5TmVQeTJjZFBYTVpPSlYzb2ZGVmh1ZWZGelJQRmdpVnZfbjQ2ZmNzN3cxSlhsU25vTGxVTWpOcjhTYlpIMVZ4LUZwY0ZPNS1KNzFTSEpjRjBIblB6eTZBMHpzMEtCWkZXdUZiaFZEbkVqX2pheFJPZ0FFQTE3?oc=5",
-      "source": "The Detroit News",
-      "published": "2026-11-25T08:37:04Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d1ea3f20108f00a789053c",
-      "title": "Sanofi Insmed Acquisition: Inside the $41.0bn Growth Bet",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Z1czRVdTWVJLZmpkV2dZcmlHZE9QUmZ5eDVNMkREYlNocHk1cWc3LXB4YXBkZE1ITnd4U1RwZmdacDVqWm5fXzlINHJ1dmdpc0Jjdm1WcUpCV3FieXJPOXEwRWdyUDlUT0NyZjRKRGQ?oc=5",
-      "source": "Global Brands Magazine",
-      "published": "2026-11-25T08:32:25Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dfd3c07af0d59a43136383",
-      "title": "Meet Taipei 2026 Draws Record Attendance, Sets Stage for Taipei Tech Week 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Id0pOSksybTBDeGx1dTZNYWh6c25sRlpPV05DWTJPSVNxMXVYX3J1U3d6UTBGTGVfblo0dU1nRnlMWkFpRzM1dm0tcVJQUjgxcU5Cam4xeTBwakNqeUVRdGd5MXFNMVpBOC1BWtIBbEFVX3lxTE5Id0pOSksybTBDeGx1dTZNYWh6c25sRlpPV05DWTJPSVNxMXVYX3J1U3d6UTBGTGVfblo0dU1nRnlMWkFpRzM1dm0tcVJQUjgxcU5Cam4xeTBwakNqeUVRdGd5MXFNMVpBOC1BWg?oc=5",
-      "source": "KIPOST",
-      "published": "2026-11-25T08:30:21Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fe2e051f0aba5e5a2c1d20",
-      "title": "Finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5bWlIRUlIUkt6eWd4MDdmUVkyZE9hQkFTSmZxMTJuWUtqZjVMV21qQW10TXpPT0UyRmdnZU9GVXBreGEyTmcxeHhQb0RIQVJTUTE4N3RsMU14b3ZQNGw4Ym45dm5uQk1peVI0eS0yLUYxc3FENFE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-25T08:27:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e01502898278522cda5a40",
-      "title": "The AI race isn’t about moving first. It’s about who can scale",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGVablFoOWxoNlFPTHdVZTFkVUdGS2c4MkpTZUdBY01jdFpvT3AwN2xNRDlqOTJxeWd5TmNXcENTNVNhV2Vyck1GZnpLU002TVNZbEVPZzU4NExmazVWbGNKZjhhQ1E2LWlrRXM3aHM1U1UzdlZrUi1iQzU4aWxMN0EyaWJNcDEzcjJaTWJEOVpLRE5uWURIS3NIZ0dQX3Zhb1lRSGhzRQ?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-25T08:26:58Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
