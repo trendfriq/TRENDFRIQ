@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-25T10:14:19.735668Z",
+  "last_updated": "2026-11-25T11:19:55.499800Z",
   "articles": [
+    {
+      "id": "b74e12e389d11a6112f3e1",
+      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to [&#8230;]",
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "source": "The Verge",
+      "published": "2026-11-25T11:12:42Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3426f741354e7c4d94fbf8",
+      "title": "3 More Stocks to Buy After Earnings",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21QaDlQTTVfZjZLNDFwSWpuTFFPVFJsZE52b3kxeGhQNk9kdUF6OEQ3UGU5S192azM5WVZaSjhEeHZIMmJxT04xVGdUU3ZESEhPdmJkUmJlWWltWGNoUzc0azdOa2UtZkFZcmJQbFN1eE5KbHNONG1ubDJXRXkzY0Rn?oc=5",
+      "source": "Morningstar",
+      "published": "2026-11-25T11:09:43Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "800aa531a0e76c8b276a07",
+      "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
+      "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act now The explosion of extreme wealth in the world is the defining social fact of our times. When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+      "source": "The Guardian",
+      "published": "2026-11-25T11:00:47Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1c9aac5924c3fe66618d816071a71686"
+    },
+    {
+      "id": "12d3fdfe0d98bfc43a48a0",
+      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+      "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+      "source": "NPR",
+      "published": "2026-11-25T11:00:00Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg"
+    },
+    {
+      "id": "762ce6d7fedd6d19f35349",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-25T10:52:09Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+      "id": "ea4a6f618532f78942b906",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-25T10:42:20Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "c0514b7330d467e1698a97",
+      "title": "APEC 2027: A crucial opportunity for Vietnam to govern the Asia-Pacific region.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVEwdmxua2JIcmxydG5kVExWOU4zTkJpR1IySnNYbUp6YTJ0LUwzcGFXUDJuckt1SDQ4MEw3Sk9jMnRmQXlYYWEtSzRCcGxSV21hMFNlTnM1dEZRaHlpLUFxTVpzT1d5cTJSeWhlLTVybGl2andOb0x5cl9ISEZINUFpVGZ6dXRkMzdhb1J6U3JPTWlvUlBtZ21n?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-25T10:40:25Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "b50e46d04304c43411e6d3",
       "title": "EA adds AI-generated John Motson to FC 27 video game",
@@ -38,6 +122,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg"
     },
     {
+      "id": "86e9e9979fdc6f745644df",
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T09:56:19Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77f7/live/4f619020-e8b3-11f1-9e64-bddd508b9881.jpg"
+    },
+    {
       "id": "42887a31417738a7d599f4",
       "title": "Energy bills to rise by 26% from January after gas prices surge",
       "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
@@ -47,7 +143,7 @@
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9855/live/6f788a40-e8a3-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "b1db65a692ce60efc8bbcb",
@@ -146,6 +242,18 @@
       "image": ""
     },
     {
+      "id": "f6d101d9cd8d13b752e32b",
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T09:06:02Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
+    },
+    {
       "id": "5ac0475c349a424a381925",
       "title": "Africa targets $500m in green investments",
       "summary": "",
@@ -154,6 +262,18 @@
       "published": "2026-11-25T09:05:34Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f4603889c8fe5c4d135392",
+      "title": "Schroders taps Backbase for AI-powered digital wealth management transformation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRV9CT0w3aFpPVWRsSFNxXzU1LVBBRzZuN0Q4ZUl0bncyUTRQVldna0QwTHBDZ3o4WXBib3FGR2c3THR4VDc4RUdMeVRFOUNudTZMMW9rcUhvd0FhN2l4d2pkRW83eEFJOTZFdkhKSGI1czdSZXUzdFNCTG9seW1Hb0pITFJFWXZoMnFkWEVDZ1ZXQkxOTERxYi05UGFLV2dTNnQydXIzSXplSGpEX1ZUQ2lNVlZ3SVlURU11blFncGM5ckt6ZDRraWZ0TQ?oc=5",
+      "source": "internationalfinance.com",
+      "published": "2026-11-25T09:01:57Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -178,6 +298,18 @@
       "published": "2026-11-25T09:00:00Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e51e5b7a752d91fdcaa321",
+      "title": "Cyprus startup ecosystem tops 524 firms and €1bn in private funding",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWZ4RC1ueTFJMkI4OGM0aE9iZ3NIandIVkIzeVdLSG1TbVBCdndOMHRhejNGM2NpUHg5cTlha1RCbGplcUh1amhHYkFTLVF1TXVwTmtFUzlTel85Z1BSQ2RfYl9VN3RVaDY4LV9DNWxlV1dEa2JRR01ySWEtS2Q3LUxKM0FHWnZzVTVTS29CN2lCXzZwNHByalFTM1hlTTdhTkZTNA?oc=5",
+      "source": "Cyprus Mail",
+      "published": "2026-11-25T09:00:00Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -242,6 +374,30 @@
       "image": ""
     },
     {
+      "id": "d1ea3f20108f00a789053c",
+      "title": "Sanofi Insmed Acquisition: Inside the $41.0bn Growth Bet",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Z1czRVdTWVJLZmpkV2dZcmlHZE9QUmZ5eDVNMkREYlNocHk1cWc3LXB4YXBkZE1ITnd4U1RwZmdacDVqWm5fXzlINHJ1dmdpc0Jjdm1WcUpCV3FieXJPOXEwRWdyUDlUT0NyZjRKRGQ?oc=5",
+      "source": "Global Brands Magazine",
+      "published": "2026-11-25T08:32:25Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "dfd3c07af0d59a43136383",
+      "title": "Meet Taipei 2026 Draws Record Attendance, Sets Stage for Taipei Tech Week 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Id0pOSksybTBDeGx1dTZNYWh6c25sRlpPV05DWTJPSVNxMXVYX3J1U3d6UTBGTGVfblo0dU1nRnlMWkFpRzM1dm0tcVJQUjgxcU5Cam4xeTBwakNqeUVRdGd5MXFNMVpBOC1BWtIBbEFVX3lxTE5Id0pOSksybTBDeGx1dTZNYWh6c25sRlpPV05DWTJPSVNxMXVYX3J1U3d6UTBGTGVfblo0dU1nRnlMWkFpRzM1dm0tcVJQUjgxcU5Cam4xeTBwakNqeUVRdGd5MXFNMVpBOC1BWg?oc=5",
+      "source": "KIPOST",
+      "published": "2026-11-25T08:30:21Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fe2e051f0aba5e5a2c1d20",
       "title": "Finance",
       "summary": "",
@@ -250,6 +406,18 @@
       "published": "2026-11-25T08:27:10Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fb619d35464bd9987962c9",
+      "title": "XINNOVE Releases 2026 Editorial Ranking of Agencies for Platform-Specific Social Media Campaigns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNEFBOXhmcUZzSGhNV0FtVkMzRWNRdWlNZmZKc21hR0hvaGVPMnV1bFA0cWNWeDJaLXlVYTlPMnBncU9oSjcxRVN5azY5NkNzempSNllpamJ3Zm1pN01mRDFsSkY4SmlVZHU0ZEhYcjhBUUhvNmhZVXpvY2tLQlNjUnJyRTE1eFY1emdmWV9uMlJWWnNpeGtLR2NLVlRPamJRZFJyQVQtdkpfbUNDVlZva09GSHZENVJJbDFRekpFcjBKc0dPd01KNDFOZk9GcVM5TTc1MnhsWUVnSTQzX2pkcjYzbw?oc=5",
+      "source": "IndyStar",
+      "published": "2026-11-25T08:13:03Z",
+      "category": "Brands",
+      "topic": "Brands & business",
       "country": "",
       "image": ""
     },
@@ -278,10 +446,34 @@
       "image": ""
     },
     {
+      "id": "4b39e6d1e4ed4e5e9a4352",
+      "title": "Marico launches Korean beauty-inspired skincare brand Joyun",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSEFWSzNJaTdCZHN0LTI0T3RoTll2UDE5SjVrN3lLZmJldlc4d09xbGZVcnFzTHUzNGFrSFJIa0lFdDYtcWdEaTI1bU5YQUFwQlhKb2FHbUtuaDdlazhQU2hMbEhzRGdmbllrdkpUWTNDWm8zaWRJMk9iWm5XdG1OVzZIQVpDUVpqeEJtQklGNEZvWVJFTVROQ0N1cklycXFiS2FlamxXem5hblhwTU1DdmVnTUhxNXZ1QTdKZGVFLWlDd9IBwgFBVV95cUxOSEFWSzNJaTdCZHN0LTI0T3RoTll2UDE5SjVrN3lLZmJldlc4d09xbGZVcnFzTHUzNGFrSFJIa0lFdDYtcWdEaTI1bU5YQUFwQlhKb2FHbUtuaDdlazhQU2hMbEhzRGdmbllrdkpUWTNDWm8zaWRJMk9iWm5XdG1OVzZIQVpDUVpqeEJtQklGNEZvWVJFTVROQ0N1cklycXFiS2FlamxXem5hblhwTU1DdmVnTUhxNXZ1QTdKZGVFLWlDdw?oc=5",
+      "source": "Storyboard18",
+      "published": "2026-11-25T08:00:47Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "32abd80a044d19ab748c3b",
       "title": "Lychee ice wine and other unexpected hits of Shenzhen’s Apec summit",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2dUU01xVnZyNGFGeVFBbFBuNi1LemRweU1acXRiekhLZy0yMlNhRHRfR2NqMWJzM296SG1DTVNWV1hsdVNWS3NfaklwY0V2N28wZzVNUHNaWmZuQWNCamg3MUlMeTJwcUJJNVFsYUN3TkRQVEtKRDE1djVvZnlURG5GbllVR2diLXBHNmhMWTM2V285MXdYYnpiMmxXLWxIRjZwV0oxaFgwaEpldGdVeGRGbURMVEk5a1hJWWRhRnRSOExKOEJjZnltM1JwSXlaLVE?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-25T08:00:13Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "501f8a010e8e28154ec48a",
+      "title": "Lychee ice wine and other unexpected hits of Shenzhen’s Apec summit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGNWMjdDT3VkdG9DRVhXaTdJd04zUl9NQ0xPN2cyMG5ZaFhXQnFsdXQ4QXdMREV3T0tLU0pUblpjRDktMzZoRkpmOXMzTFNvbUN5S0ZpMjVDYndHNGRlTkxRaUk2NmN5MExIdE93bHpLczBHV1dXcEZYVm03bkNLTUw1akVXRDVCWmEyU1k2TmxMMFY2ajN4dEtQWFRTdGFQemVvYTRTbkNKcXJwaTNONzF6OHY1Y1NuM0ZBY1FtT083WkFBYVBIUDIwbHFBSTByd29yRlo0Sm5uODV5VVNiRnpnZzVtdXJMV1JYMjVB?oc=5",
       "source": "South China Morning Post",
       "published": "2026-11-25T08:00:13Z",
       "category": "World",
@@ -360,6 +552,30 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
+    },
+    {
+      "id": "7b1d1e420c13fb813b3776",
+      "title": "Spain's economy is booming, yet real wages are below their 2009 peak",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXZlSDQ4VGxKQW84Y0lScjVncmZvaURiaU5nYkNIQmI3MHo5eEtYVkl1dDZGUDB5WkRCTExHM3NWT3RPT01fdEFkMVR2OFBzSW4tT3BSc3FnMWR2TWtfRFkyc0ZucVg5a2ltTFpZWVR1YXhFSmlPc2pFYkluZXBidkFaOFExTS1TckFNTG82QmtRQUtuRkNkVjZiTkp5V245eXA4bU02YnoxQXlZ?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-11-25T07:10:25Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6728eb208267b68f7b0750",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T07:08:22Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg"
     },
     {
       "id": "7266bc0301368ec693582c",
@@ -482,8 +698,20 @@
       "image": ""
     },
     {
+      "id": "94782615941f7124a50cfc",
+      "title": "Global growth to be marginally higher in 2026 supported by tech-related investments: RBI Governor",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFJ2QVFNZUJVa1Rvb0NlWmhiYmNhNWNRMlVlYUNHSGY0c3UwcWlrYlVpRmR2RFI5dmdEUmprQ1NkUGlYUUpkdUtISTFYLWJPVVdXT1Y4bUt0ck5HN3NueF9QQUxobWhPMG92ZnpfdGVPUVNvYUpPXy04b05OS3B1X3preFlkbVMzWnY3LU4yU3VicmpKOUw2UV93UEZNZ05oOUlGaHQ4UUd2Y2c1cW1PTHlkVlF5WGE0WS13TmJNbw?oc=5",
+      "source": "DD News",
+      "published": "2026-11-25T06:07:46Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6cd45e2d2b78eb32e04a91",
-      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
       "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
       "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -633,7 +861,7 @@
       "source": "chinadailyhk",
       "published": "2026-11-25T05:08:10Z",
       "category": "World",
-      "topic": "Middle East",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -670,6 +898,18 @@
       "published": "2026-11-25T04:38:12Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "08761e86fb871f853b21c5",
+      "title": "I-Star 2026: Spreading innovation from practical problems.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXpEbTdTVm9BRnUxaWgtaDRHVldBVmZXYnphWnA2UlFJRkllYWU4Ri1fQWRkaUJBY1N2Yy1LdFo0eWJfajlQOHlqMk4zX09tWmd0UDRxMUhieEpCN1pYUktERHRVTHNPdV9mSXRvbXBwTWpSaDE4ZkE5ckcwVUNYc1puR3h2cHV1SHowZUZlbkJQTy1J?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-25T04:35:09Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -722,6 +962,18 @@
       "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
     },
     {
+      "id": "1a296de22956b0fd2a9c7a",
+      "title": "US GDP Data Take Centre Stage as Investors Assess Economic Resilience",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2phNllhMGVEbU9rNjNfMHhxME4zamphUnhKQzJpREM0dGhXQnp5SnpiT0ZONzdxbW9VWmpsaV9zY3cwVlh3ZzBLcWFpclpqNzA5TzYxbFRMbHJXdUxxWk4yanN6YXdBVWRaaFdaMU9pVVF5V0QwWEJCMkhSNk8yYW5xWTJ6OTJrTUpWbV9qdkM0Tmx3c1lLVFBpakRLUGNCZ0g4UVF5SWRIUDBCT0E?oc=5",
+      "source": "kalkine.co.uk",
+      "published": "2026-11-25T03:56:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2a1422ea57bb08bb754c14",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
@@ -744,18 +996,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "762ce6d7fedd6d19f35349",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-25T02:59:27Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
     {
       "id": "a3c0fb58aa19d1d678610e",
@@ -790,6 +1030,18 @@
       "published": "2026-11-25T02:25:00Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fddb2a0754cc82143f2e18",
+      "title": "Euro softens to near 1.0950 as traders await US PCE, GDP data",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGZIUUdibTY4YlpYb3gyN19IME5pdEc4ZThObVI2bnVpR1BsZ0hmQkVxY1BYNHJXQ0JOLW4wVUxGNDR2MU53SGVJajVqRXQzT1NfcXJERF95UUJxSFI4aUhIR3BYSnFQYTZUYUYwWHZHQ051OFJocFZVM2o5SFIxRlJOZTBlaTVwZUEyZFA0TU9lVWtSbkdQYUoxWU85d0kyZUJIcFVEdGs3SElkUWlHZFIwVVdDNUE5aGowNDFvZEprRHVzemtZ?oc=5",
+      "source": "www.tmgm.com",
+      "published": "2026-11-25T02:23:44Z",
+      "category": "Economy",
+      "topic": "Global economy",
       "country": "",
       "image": ""
     },
@@ -902,6 +1154,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "id": "2f290be06e0e8c4869db34",
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSGwtdEpKSG8wYkJ4ek9DR25GV1BiSFBsRjk2SUdGdWZJclFwZkU0bHZUSmxCNzdQbk9aeV9OTDF0R1QzN1J4c2ZrYVU1X2VMdXRNa2oyMmRRWmM?oc=5",
+      "source": "BBC",
+      "published": "2026-11-25T01:03:05Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "04d7a75d17591af0239d47",
       "title": "The rising cost of putting food on the table in India",
       "summary": "India's food inflation is broadening, squeezing household budgets.",
@@ -960,6 +1224,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
+    },
+    {
+      "id": "209b69b840618609dca217",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-25T00:54:13Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "be54e905a796b4cee0cd01",
@@ -1164,282 +1440,6 @@
       "topic": "Africa",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "c730c7bd6b86983f92284b",
-      "title": "New Zealand Dollar meets US inflation data near its 2026 low",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmE1OWNXWWVoWGg4c1Vkc0pTNnJ4cWdVYmI4eEZ3WjBlRTdzSFNjc3hRdU9hVl96MXExQ0EtQXZUd05BZ2I1T2sxM2JJazVSREJWV3pEeXhVU3hPcm05OGRWd2ZDd2llajNJMHVCUTdtcnc2OEpUblQ5NllabTUzUjFRSE03ME1MalV3Y3RwNVhlUVFaV1o3TThONUt6ZHEtSG5LSmJBY1dyU2pUd19CT3F2U1RPNGxhaEFiQkpubmdRQlhfVXhISg?oc=5",
-      "source": "www.tmgm.com",
-      "published": "2026-11-24T23:28:57Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "710a9b72c7454d32c5b647",
-      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are [&#8230;]",
-      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-      "source": "The Verge",
-      "published": "2026-11-24T23:25:46Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9ac44b87b546a69d2e3ead",
-      "title": "Nation's opening-up fuels growth across Asia-Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mbDkxYy1fU2J1S1ljdXdnU0xOZGdWYkV2ZFZnOXhBTjNiRHBJOU45NjF0b0lRSV85YW4ycEs3VjVEZ1hTbEJWOEtKUDdSazNwT05WeG4xdjQtTUVCQ3FiTTFMT2Rvc01PTEp1YmYwU3I3bmw4UktjZVVPU0owdw?oc=5",
-      "source": "China Daily",
-      "published": "2026-11-24T23:20:43Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6ad26cab75b344242c649e",
-      "title": "Nation's opening-up fuels growth across Asia-Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbHBiVjdLanZXM0lDZEF1eUt3QlZGcFo4c3VHVTlibGNnb1JOemhaY01zdXZBVWF1aVVfS1VtOFZ0Sy1GNVBoRjVVVVdiS2FXakJFUVhEVmtzMmRMNFNRTmxZZkVEUjVUUHY5LTZMQnpGb2NZWE4ySkd4TG1QdlhiSzhB?oc=5",
-      "source": "China Daily Global Edition",
-      "published": "2026-11-24T23:20:43Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "44e2309e40d665d614c0a6",
-      "title": "Together AI Launches Preemptible GPU Compute at Half On-Demand Rates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd20yblBDejMtbldlNEpwQUhPQW0wbXhSSVRiNXlQanZId0RpdkNWS0UtZ2pvRDhQOWR4S0lRa185UUNnVXROSFdkdmdlUTlfTUdpaFYxN1J6N2RDQXhqeDBKMmZPLXRDMnlPNV9CQWNtTjlNVEI1Nnh3NkFOdzZhSmVQNl95WUQtRUowX0E5WnZwTFBs?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-24T23:20:06Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "803932ad076bb2b61b1ca1",
-      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T23:05:11Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "728942263f493f659fb261",
-      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-24T23:03:59Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "a4707405e2ca0b252bd19d",
-      "title": "Dubai’s AI ambitions hinge on getting the infrastructure right",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmdGZTYxOFBzX3V1T3FkV2lFU3hnVHoxUTdHclpPbmZ1aWgzVzh5YUJTQ1Y3X2RfcXZid3NGei1rUjQwbDZmZERUYnQzVk1MaDZ3TU5oeFBtSlR1aEVRVW92TkJnY21Hb2dvNWpjQU1RemtmY0ZDZnhkX01sMVRXVHoxdEdTTmE5QkxBQVVIQ2ZkSW1GOGRLb1RpWmdkODYwWWlXUTB6M2FXYXc?oc=5",
-      "source": "Intelligent CIO",
-      "published": "2026-11-24T22:42:23Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f17eb37e0838b1be2e40f8",
-      "title": "EWA inaugural event connects African creative businesses to investors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEE3Rm9QMlNxSm84MkJJb1ZwWTlBd2NRckpiNlktM2pMWVZ5QzVlVkJRaHBFZlUzVGxPcDR5SHZaaC1aZ0Rpb2xFc2dZQklybC1mbi1mMEUzaXFRdlliRXJKSnNiMW1GbHljczJnLVRUYTN3UzlWMGtjbll1cThfMGZIREFsUUtRTXBfMkZpVlRCMWRXdEp0YUhNOXY0Y2kxd25hazBYb3FSUGotWl95cA?oc=5",
-      "source": "Business News Nigeria",
-      "published": "2026-11-24T22:33:39Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f507ee893942088988657b",
-      "title": "5 Tools That Help SaaS Startups Turn Email Subscribers Into Customers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWxfdkVUVnRfRnU5V3gya2ZseXdSVzZZZFNBQXc1NmdLM1ZFNnVXeEZvY2FMbTFoQ1RWYzZocGdPVU14Wllub1NybDdWbW10NEI4VUFpVS1zOHEyazJvaDNqZm1PWU9WcTdudXowV2lVbG54bTlxZEtGQjlCaFRtZWl0M1RIRUpnaDl5cTEtamQ0Nm10TVAxYWNR?oc=5",
-      "source": "Quasa.io",
-      "published": "2026-11-24T22:29:23Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3f66369c8927dc1a5f3b57",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T22:27:52Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800"
-    },
-    {
-      "id": "c8eac803e623f9c2d25cc8",
-      "title": "Huawei found guilty of stealing trade secrets",
-      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and [&#8230;]",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "source": "The Verge",
-      "published": "2026-11-24T22:23:27Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "99bf7a0cfbc2b477f4563c",
-      "title": "23/5 Trading: What It Means for Investor Relations",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrOXpLdFExSlRHZWdrMmYzOWhvaWdQNHF5aWgtWkZxMzltWnhxQi1SZFFHRElfZ3Q5Z0hXbERFYl81R0E2T1FxdlBJRFJ4d3AyS3BWMDY4eFYtZS05WUlwVk1MUlhQd3pkN19ub1B1b1M2TW8?oc=5",
-      "source": "Business Wire",
-      "published": "2026-11-24T22:17:21Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4d6a21e04eeb848981cc3e",
-      "title": "Which Medical Device Investments Are Driving Nearshoring?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVE5QXVDY09MQ3ZndWs5RENvSEJqa19ITWhfX3FXcW9MSTdMdkNPMHlBaWpndkxWS3VWRnVmZzVvaDd0b2VBT1g1RUhoNDZJUTdsOGhpN1FVNnI5Y0VDNEF4R2xKOGEwOTRJXzlxS2hHVVRZY3ZtdHZkWkZZcVJDOVNZWEVUVHhJc2hDR1dXcGdHeENhNEZEbHhfNWY?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-24T22:10:20Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "51526959fd76ab404dd81c",
-      "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-      "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldw",
-      "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-      "source": "The Guardian",
-      "published": "2026-11-24T22:05:21Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc808307b5e3f691453f80b7c9300755"
-    },
-    {
-      "id": "115c5e781cf113c734df81",
-      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T21:51:57Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a919734a680de1b27cada5",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T21:48:27Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
-    },
-    {
-      "id": "8e6fd53c9190c57a72dd0f",
-      "title": "Morolong: Reindustrialisation key to jobs, investment and inclusive economic growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN25TLUtzQ0ZPSEgtcFlpZFIyaWxjSUpxRFhpQ0xsbDMxUjZBQUZBMEg0U2NlU18ySVdkZjdySWJoQWRjT0hOWWJMNjNBUkpzRjA4QWM2cUh2YzdIa3VweHV2VHBTaWdzRkJ3WGtGZGlxWU1Da2NtdkpjV283dEVoU21mS2dLVDRIVUpUcVl2SHY3SmhVcm50YUcwQTRicjlsXzJ1Z2VVUTVHY2dPTFc4M1k3ZTVEODN4cVd3U0RrMA?oc=5",
-      "source": "South African Daily",
-      "published": "2026-11-24T21:48:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9d1dc0a136002f6c22bcc8",
-      "title": "HP stock reverses course after hours despite quarterly results beat, dividend bump",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaERld1NLd2EzNUJRRV9mWGtLVWN4ZVhIeUlxcEV0a0VaMmhIWVdjWThzMENXVGs4c3MtSE1ZbTJFYlhlb3pkR2U5UmFCWlp3Q3NaalBMTzNqY3NVR0d4RU5oTFBVTnF1RTZsWnIzSzBZcFVGQm9hbnRCU1dvRmEwQ2JKc1RYTnZfSjJ2eTlTYWd2d3JGZHNlbE10TQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-24T21:45:54Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5907c01600c34dc2c70ef8",
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhyY3Jxcm1ZNEhfdFNUS2p5RTAta1NyTnNGS0tOLWx5UkEwWGpYZm9IeWtQUmVjMWFKeE1kbFRLZURzUTJkLTRhV0t2Q2tURGZzYjc5Mlh1eWFhaEpLWmctTkRFeFR1RGxINGh2aEdlZ2xSX0hKYXNkZThTaEpsT1VMSVAyUmJmX2dscXZSLWJkM3hYQ2ZYejN1akN0UlpqeG5Ibks4alRZTkpsR05Qa3czTnVVT3VvV1dTejFJUU9XNHJvMEE?oc=5",
-      "source": "MarketWatch",
-      "published": "2026-11-24T21:45:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6cd9634b07ace6f4b22375",
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build [&#8230;]",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-      "source": "The Verge",
-      "published": "2026-11-24T21:39:14Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ddf5f5e1e3a03a64600ecc",
-      "title": "Even the best AI agents struggle with everyday life",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T21:33:29Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024"
-    },
-    {
-      "id": "a18f6caa7fc18d5b78fd68",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T21:32:38Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
     }
   ],
   "countries": [

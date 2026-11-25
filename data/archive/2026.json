@@ -1,5 +1,65 @@
 [
   {
+    "id": "b74e12e389d11a6112f3e1",
+    "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+    "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to [&#8230;]",
+    "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+    "source": "The Verge",
+    "published": "2026-11-25T11:12:42Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3426f741354e7c4d94fbf8",
+    "title": "3 More Stocks to Buy After Earnings",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21QaDlQTTVfZjZLNDFwSWpuTFFPVFJsZE52b3kxeGhQNk9kdUF6OEQ3UGU5S192azM5WVZaSjhEeHZIMmJxT04xVGdUU3ZESEhPdmJkUmJlWWltWGNoUzc0azdOa2UtZkFZcmJQbFN1eE5KbHNONG1ubDJXRXkzY0Rn?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-25T11:09:43Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "800aa531a0e76c8b276a07",
+    "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
+    "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act now The explosion of extreme wealth in the world is the defining social fact of our times. When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+    "source": "The Guardian",
+    "published": "2026-11-25T11:00:47Z",
+    "category": "Technology",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1c9aac5924c3fe66618d816071a71686"
+  },
+  {
+    "id": "12d3fdfe0d98bfc43a48a0",
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "source": "NPR",
+    "published": "2026-11-25T11:00:00Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg"
+  },
+  {
+    "id": "c0514b7330d467e1698a97",
+    "title": "APEC 2027: A crucial opportunity for Vietnam to govern the Asia-Pacific region.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVEwdmxua2JIcmxydG5kVExWOU4zTkJpR1IySnNYbUp6YTJ0LUwzcGFXUDJuckt1SDQ4MEw3Sk9jMnRmQXlYYWEtSzRCcGxSV21hMFNlTnM1dEZRaHlpLUFxTVpzT1d5cTJSeWhlLTVybGl2andOb0x5cl9ISEZINUFpVGZ6dXRkMzdhb1J6U3JPTWlvUlBtZ21n?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-25T10:40:25Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "b50e46d04304c43411e6d3",
     "title": "EA adds AI-generated John Motson to FC 27 video game",
     "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
@@ -22,6 +82,18 @@
     "topic": "BBC Technology",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg"
+  },
+  {
+    "id": "86e9e9979fdc6f745644df",
+    "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+    "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+    "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T09:56:19Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77f7/live/4f619020-e8b3-11f1-9e64-bddd508b9881.jpg"
   },
   {
     "id": "9824a53e3b00e7a773816d",
@@ -96,6 +168,18 @@
     "image": ""
   },
   {
+    "id": "f6d101d9cd8d13b752e32b",
+    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+    "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T09:06:02Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
+  },
+  {
     "id": "5ac0475c349a424a381925",
     "title": "Africa targets $500m in green investments",
     "summary": "",
@@ -108,6 +192,18 @@
     "image": ""
   },
   {
+    "id": "f4603889c8fe5c4d135392",
+    "title": "Schroders taps Backbase for AI-powered digital wealth management transformation",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRV9CT0w3aFpPVWRsSFNxXzU1LVBBRzZuN0Q4ZUl0bncyUTRQVldna0QwTHBDZ3o4WXBib3FGR2c3THR4VDc4RUdMeVRFOUNudTZMMW9rcUhvd0FhN2l4d2pkRW83eEFJOTZFdkhKSGI1czdSZXUzdFNCTG9seW1Hb0pITFJFWXZoMnFkWEVDZ1ZXQkxOTERxYi05UGFLV2dTNnQydXIzSXplSGpEX1ZUQ2lNVlZ3SVlURU11blFncGM5ckt6ZDRraWZ0TQ?oc=5",
+    "source": "internationalfinance.com",
+    "published": "2026-11-25T09:01:57Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6f128fe6206135e22c1ac4",
     "title": "Africa’s Green Economy Summit unveils over $500 million in investment opportunities",
     "summary": "",
@@ -116,6 +212,18 @@
     "published": "2026-11-25T09:00:00Z",
     "category": "World",
     "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "e51e5b7a752d91fdcaa321",
+    "title": "Cyprus startup ecosystem tops 524 firms and €1bn in private funding",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWZ4RC1ueTFJMkI4OGM0aE9iZ3NIandIVkIzeVdLSG1TbVBCdndOMHRhejNGM2NpUHg5cTlha1RCbGplcUh1amhHYkFTLVF1TXVwTmtFUzlTel85Z1BSQ2RfYl9VN3RVaDY4LV9DNWxlV1dEa2JRR01ySWEtS2Q3LUxKM0FHWnZzVTVTS29CN2lCXzZwNHByalFTM1hlTTdhTkZTNA?oc=5",
+    "source": "Cyprus Mail",
+    "published": "2026-11-25T09:00:00Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -180,6 +288,18 @@
     "image": ""
   },
   {
+    "id": "d1ea3f20108f00a789053c",
+    "title": "Sanofi Insmed Acquisition: Inside the $41.0bn Growth Bet",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Z1czRVdTWVJLZmpkV2dZcmlHZE9QUmZ5eDVNMkREYlNocHk1cWc3LXB4YXBkZE1ITnd4U1RwZmdacDVqWm5fXzlINHJ1dmdpc0Jjdm1WcUpCV3FieXJPOXEwRWdyUDlUT0NyZjRKRGQ?oc=5",
+    "source": "Global Brands Magazine",
+    "published": "2026-11-25T08:32:25Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "d4cc56dec42331549cf083",
     "title": "All hostages freed after Colombian security forces storm supermarket, says president",
     "summary": "Operation in which one captor was killed brings to an end day-long siege in which 30 hostages were initially held Colombian security forces have stormed a supermarket in the Caribbean city of Cartagena to end a day-long hostage siege , with the president saying all hostages have been rescued and one captor killed. Abelardo de la Espriella said: “In an extrao",
@@ -192,6 +312,18 @@
     "image": "https://i.guim.co.uk/img/media/a5c069113373baf36b55dbce4358afd21f67fadf/0_0_4722_3777/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d18f1b84593b794dd5f30f93d2820ac9"
   },
   {
+    "id": "dfd3c07af0d59a43136383",
+    "title": "Meet Taipei 2026 Draws Record Attendance, Sets Stage for Taipei Tech Week 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Id0pOSksybTBDeGx1dTZNYWh6c25sRlpPV05DWTJPSVNxMXVYX3J1U3d6UTBGTGVfblo0dU1nRnlMWkFpRzM1dm0tcVJQUjgxcU5Cam4xeTBwakNqeUVRdGd5MXFNMVpBOC1BWtIBbEFVX3lxTE5Id0pOSksybTBDeGx1dTZNYWh6c25sRlpPV05DWTJPSVNxMXVYX3J1U3d6UTBGTGVfblo0dU1nRnlMWkFpRzM1dm0tcVJQUjgxcU5Cam4xeTBwakNqeUVRdGd5MXFNMVpBOC1BWg?oc=5",
+    "source": "KIPOST",
+    "published": "2026-11-25T08:30:21Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "fe2e051f0aba5e5a2c1d20",
     "title": "Finance",
     "summary": "",
@@ -200,6 +332,18 @@
     "published": "2026-11-25T08:27:10Z",
     "category": "Finance",
     "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "fb619d35464bd9987962c9",
+    "title": "XINNOVE Releases 2026 Editorial Ranking of Agencies for Platform-Specific Social Media Campaigns",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNEFBOXhmcUZzSGhNV0FtVkMzRWNRdWlNZmZKc21hR0hvaGVPMnV1bFA0cWNWeDJaLXlVYTlPMnBncU9oSjcxRVN5azY5NkNzempSNllpamJ3Zm1pN01mRDFsSkY4SmlVZHU0ZEhYcjhBUUhvNmhZVXpvY2tLQlNjUnJyRTE1eFY1emdmWV9uMlJWWnNpeGtLR2NLVlRPamJRZFJyQVQtdkpfbUNDVlZva09GSHZENVJJbDFRekpFcjBKc0dPd01KNDFOZk9GcVM5TTc1MnhsWUVnSTQzX2pkcjYzbw?oc=5",
+    "source": "IndyStar",
+    "published": "2026-11-25T08:13:03Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -228,10 +372,34 @@
     "image": ""
   },
   {
+    "id": "4b39e6d1e4ed4e5e9a4352",
+    "title": "Marico launches Korean beauty-inspired skincare brand Joyun",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSEFWSzNJaTdCZHN0LTI0T3RoTll2UDE5SjVrN3lLZmJldlc4d09xbGZVcnFzTHUzNGFrSFJIa0lFdDYtcWdEaTI1bU5YQUFwQlhKb2FHbUtuaDdlazhQU2hMbEhzRGdmbllrdkpUWTNDWm8zaWRJMk9iWm5XdG1OVzZIQVpDUVpqeEJtQklGNEZvWVJFTVROQ0N1cklycXFiS2FlamxXem5hblhwTU1DdmVnTUhxNXZ1QTdKZGVFLWlDd9IBwgFBVV95cUxOSEFWSzNJaTdCZHN0LTI0T3RoTll2UDE5SjVrN3lLZmJldlc4d09xbGZVcnFzTHUzNGFrSFJIa0lFdDYtcWdEaTI1bU5YQUFwQlhKb2FHbUtuaDdlazhQU2hMbEhzRGdmbllrdkpUWTNDWm8zaWRJMk9iWm5XdG1OVzZIQVpDUVpqeEJtQklGNEZvWVJFTVROQ0N1cklycXFiS2FlamxXem5hblhwTU1DdmVnTUhxNXZ1QTdKZGVFLWlDdw?oc=5",
+    "source": "Storyboard18",
+    "published": "2026-11-25T08:00:47Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "32abd80a044d19ab748c3b",
     "title": "Lychee ice wine and other unexpected hits of Shenzhen’s Apec summit",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2dUU01xVnZyNGFGeVFBbFBuNi1LemRweU1acXRiekhLZy0yMlNhRHRfR2NqMWJzM296SG1DTVNWV1hsdVNWS3NfaklwY0V2N28wZzVNUHNaWmZuQWNCamg3MUlMeTJwcUJJNVFsYUN3TkRQVEtKRDE1djVvZnlURG5GbllVR2diLXBHNmhMWTM2V285MXdYYnpiMmxXLWxIRjZwV0oxaFgwaEpldGdVeGRGbURMVEk5a1hJWWRhRnRSOExKOEJjZnltM1JwSXlaLVE?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-25T08:00:13Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "501f8a010e8e28154ec48a",
+    "title": "Lychee ice wine and other unexpected hits of Shenzhen’s Apec summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGNWMjdDT3VkdG9DRVhXaTdJd04zUl9NQ0xPN2cyMG5ZaFhXQnFsdXQ4QXdMREV3T0tLU0pUblpjRDktMzZoRkpmOXMzTFNvbUN5S0ZpMjVDYndHNGRlTkxRaUk2NmN5MExIdE93bHpLczBHV1dXcEZYVm03bkNLTUw1akVXRDVCWmEyU1k2TmxMMFY2ajN4dEtQWFRTdGFQemVvYTRTbkNKcXJwaTNONzF6OHY1Y1NuM0ZBY1FtT083WkFBYVBIUDIwbHFBSTByd29yRlo0Sm5uODV5VVNiRnpnZzVtdXJMV1JYMjVB?oc=5",
     "source": "South China Morning Post",
     "published": "2026-11-25T08:00:13Z",
     "category": "World",
@@ -310,6 +478,30 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
+  },
+  {
+    "id": "7b1d1e420c13fb813b3776",
+    "title": "Spain's economy is booming, yet real wages are below their 2009 peak",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXZlSDQ4VGxKQW84Y0lScjVncmZvaURiaU5nYkNIQmI3MHo5eEtYVkl1dDZGUDB5WkRCTExHM3NWT3RPT01fdEFkMVR2OFBzSW4tT3BSc3FnMWR2TWtfRFkyc0ZucVg5a2ltTFpZWVR1YXhFSmlPc2pFYkluZXBidkFaOFExTS1TckFNTG82QmtRQUtuRkNkVjZiTkp5V245eXA4bU02YnoxQXlZ?oc=5",
+    "source": "Euronews.com",
+    "published": "2026-11-25T07:10:25Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6728eb208267b68f7b0750",
+    "title": "Two children among six dead after plane crash off Mississippi coast",
+    "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+    "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T07:08:22Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg"
   },
   {
     "id": "7266bc0301368ec693582c",
@@ -576,6 +768,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
   },
   {
+    "id": "08761e86fb871f853b21c5",
+    "title": "I-Star 2026: Spreading innovation from practical problems.",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXpEbTdTVm9BRnUxaWgtaDRHVldBVmZXYnphWnA2UlFJRkllYWU4Ri1fQWRkaUJBY1N2Yy1LdFo0eWJfajlQOHlqMk4zX09tWmd0UDRxMUhieEpCN1pYUktERHRVTHNPdV9mSXRvbXBwTWpSaDE4ZkE5ckcwVUNYc1puR3h2cHV1SHowZUZlbkJQTy1J?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-25T04:35:09Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "80dc78ac8b8d58d8805f9b",
     "title": "The future of trade: Rethinking risk, regional platforms and AI agents",
     "summary": "",
@@ -612,6 +816,18 @@
     "image": ""
   },
   {
+    "id": "1a296de22956b0fd2a9c7a",
+    "title": "US GDP Data Take Centre Stage as Investors Assess Economic Resilience",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2phNllhMGVEbU9rNjNfMHhxME4zamphUnhKQzJpREM0dGhXQnp5SnpiT0ZONzdxbW9VWmpsaV9zY3cwVlh3ZzBLcWFpclpqNzA5TzYxbFRMbHJXdUxxWk4yanN6YXdBVWRaaFdaMU9pVVF5V0QwWEJCMkhSNk8yYW5xWTJ6OTJrTUpWbV9qdkM0Tmx3c1lLVFBpakRLUGNCZ0g4UVF5SWRIUDBCT0E?oc=5",
+    "source": "kalkine.co.uk",
+    "published": "2026-11-25T03:56:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "96dcf6f07da95217ab9c47",
     "title": "Ricoh Named to TIME Asia-Pacific’s Best Employers 2027",
     "summary": "",
@@ -644,6 +860,18 @@
     "published": "2026-11-25T02:25:00Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "fddb2a0754cc82143f2e18",
+    "title": "Euro softens to near 1.0950 as traders await US PCE, GDP data",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGZIUUdibTY4YlpYb3gyN19IME5pdEc4ZThObVI2bnVpR1BsZ0hmQkVxY1BYNHJXQ0JOLW4wVUxGNDR2MU53SGVJajVqRXQzT1NfcXJERF95UUJxSFI4aUhIR3BYSnFQYTZUYUYwWHZHQ051OFJocFZVM2o5SFIxRlJOZTBlaTVwZUEyZFA0TU9lVWtSbkdQYUoxWU85d0kyZUJIcFVEdGs3SElkUWlHZFIwVVdDNUE5aGowNDFvZEprRHVzemtZ?oc=5",
+    "source": "www.tmgm.com",
+    "published": "2026-11-25T02:23:44Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -744,6 +972,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg"
   },
   {
+    "id": "2f290be06e0e8c4869db34",
+    "title": "Trump's rescue of Nvidia's Huang brings political risks",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSGwtdEpKSG8wYkJ4ek9DR25GV1BiSFBsRjk2SUdGdWZJclFwZkU0bHZUSmxCNzdQbk9aeV9OTDF0R1QzN1J4c2ZrYVU1X2VMdXRNa2oyMmRRWmM?oc=5",
+    "source": "BBC",
+    "published": "2026-11-25T01:03:05Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "04d7a75d17591af0239d47",
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
@@ -814,6 +1054,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
+  },
+  {
+    "id": "209b69b840618609dca217",
+    "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+    "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+    "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-25T00:54:13Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg"
   },
   {
     "id": "be54e905a796b4cee0cd01",
@@ -2244,6 +2496,18 @@
     "image": ""
   },
   {
+    "id": "277e84b5dccf5cb01254cc",
+    "title": "BESydney moves closer to industry and expertise with new global brand platform",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVZ1RWdrMGwxUFNSWE5VNTRYQnJqOWY0RXMzdExVaTdWZWxFbXZkcmhTS18wd0QwYlA0Z1IwRDVvZlRreWQ5ZEJUWUxtbXI3OEFpRWR5NkJJb0FUWkJyRlJHY1ppMlRoNWVFRERUZzBlUmtNd0ZLVzRyTHNWaDdRSnZldmRPckNSN0NKdndQN19JUHBPVDg0R0dqUVFBOEE2UkE?oc=5",
+    "source": "Conference & Meetings World",
+    "published": "2026-11-24T16:20:32Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "bc7a97fb4c9474709fbce0",
     "title": "Africa’s most industrialised country secures another foothold in North America’s car industry as Chinese auto parts giant picks Moroccan factory to manufacture Nissan components",
     "summary": "",
@@ -3012,6 +3276,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
   },
   {
+    "id": "a0280015bd3777a87f637b",
+    "title": "China, EU view cooperation as the way forward",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WTUZuUC1xTmZqSmJRcDgwUWxfLXdBdGZwbkwxVExCeTVjemRxU2ozLU05MnRBN2JKQUZYa1F4Tkt6dERmMmhLLWRXM2wzS3pHVXFSOEhn?oc=5",
+    "source": "chinadailyhk",
+    "published": "2026-11-24T12:44:00Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "923c41191ae5c1d2580def",
     "title": "Brazil seeks primary surplus of 1.5% of GDP by 2030",
     "summary": "",
@@ -3694,6 +3970,18 @@
     "topic": "Europe",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "7d6286022fba0619d78a18",
+    "title": "Venezuela's power cuts threaten economic recovery and leave residents sleepless",
+    "summary": "Despite sitting on some of the world's largest oil reserves, Venezuela can't keep the lights on. While Washington talks up major oil deals, millions of Venezuelans face daily blackouts.",
+    "url": "https://www.npr.org/2026/11/23/nx-s1-6046499/venezuela-power-outages-economy-oil",
+    "source": "NPR",
+    "published": "2026-11-24T09:51:59Z",
+    "category": "World",
+    "topic": "NPR",
+    "country": "",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7859x5240+0+0/resize/7859x5240!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Fbd%2F449c162f44fc83ce4ce7314b5904%2Fap26246156918323.jpg"
   },
   {
     "id": "513d8e68abac35821d09ad",
