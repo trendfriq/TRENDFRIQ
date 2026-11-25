@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-25T02:57:36.172754Z",
+  "last_updated": "2026-11-25T04:04:35.149584Z",
   "articles": [
+    {
+      "id": "75a3a86ed42c87797de443",
+      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "summary": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage inside a supermarket in Cartagena, a popular tourist city. Abelardo de la Espriella’",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "source": "The Guardian",
+      "published": "2026-11-25T03:57:11Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
+    },
+    {
+      "id": "2a1422ea57bb08bb754c14",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-25T03:44:07Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "96dcf6f07da95217ab9c47",
+      "title": "Ricoh Named to TIME Asia-Pacific’s Best Employers 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGpEeTJNWjdHV25ZYlhfNTBUbWdOQUo2V0g0VzlVYTM4dDZvTm5FeFdFUlJNaW0xZ2dRR052bktBY0hyeGhTTXFRNEFzT3Fnb2lIcU42Y3hOVW5WX1VJUFhUNzMtaGlJaEpBZXdreHlNek5RZGs2RF9pWGkwdTJjUVlGeTB0a3E1TGdETEEtTVBzUU40eUZ2TThZZU1QVUlpWnc?oc=5",
+      "source": "Plataforma Media",
+      "published": "2026-11-25T03:22:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "762ce6d7fedd6d19f35349",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-25T02:59:27Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
     {
       "id": "09fff6cc3d1720f3741f0f",
       "title": "Euro softens to near 1.0950 as traders await US PCE, GDP data",
@@ -31,7 +79,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1k1ZnJGem1XclVDcE9ZNm51TUdua3BWNGwxcWM5TFQ0U0J0amZFUmxBZnJkSjZHazBSLWhLeWZZdy1jSXpkMTVabVZmSExqRnpsYmdBdFk4TnhhUnhKZlhwby1BazBWQ3ZpeExEc081TWhudGpQS1FjeGx2djlOVEFIX1ZmRnBEX3IzdFUtMXl1cFFpZ2ZOUjlsWQ?oc=5",
       "source": "Global Banking & Finance Review",
-      "published": "2026-11-25T02:02:42Z",
+      "published": "2026-11-25T01:57:51Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -86,20 +134,8 @@
       "image": ""
     },
     {
-      "id": "762ce6d7fedd6d19f35349",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-25T01:11:57Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
-    },
-    {
       "id": "912dcc7ffb345aa14cdf1c",
-      "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
       "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
       "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -135,7 +171,7 @@
     },
     {
       "id": "be54e905a796b4cee0cd01",
-      "title": "US preparing to unveil new tariffs on global trading partners",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
       "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -147,7 +183,7 @@
     },
     {
       "id": "2ab70d7805c6020b223436",
-      "title": "US preparing to unveil new tariffs on global trading partners",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
       "source": "BBC",
@@ -243,7 +279,7 @@
     },
     {
       "id": "11304642d4ef0ee9b56049",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanc",
       "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "source": "TechCrunch",
@@ -303,8 +339,8 @@
     },
     {
       "id": "e0ee458ad4118b14dec561",
-      "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
-      "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday. Ábrego is leaving the US for Spain on Tuesday evening. Continue reading...",
+      "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+      "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain. The Salvadorian immigrant was at the center",
       "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
       "source": "The Guardian",
       "published": "2026-11-24T23:50:31Z",
@@ -322,6 +358,18 @@
       "published": "2026-11-24T23:38:18Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "39094cd5c5319ec6573d3c",
+      "title": "German President urges investors to rethink Africa’s investment potential",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3hnS0pyOXFjMGpNdl9IN0NVZ3gyQ1hiLW84STljUlI3U3h5c3VTSUltclVFMDJDOGVPakI1WnhTRk5SOVpCX0JkdWQ1RUhhYUtscldqT1FiX3ZrclE1TFJWRkx6R0Q2Z08zaGlnM3NXVWFQTnRtVG9BRldKblQ3V3V2dUgwYXpJbUZPSGctWjN5cHVGcmF0dms3ZmxLSUJqQlE?oc=5",
+      "source": "Ghana News Agency",
+      "published": "2026-11-24T23:33:02Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -554,6 +602,18 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
     },
     {
+      "id": "fd25d0227e38590cfd86f1",
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zMHE5bDhwdEJfa19fcjIxendtcFRoNDQ4OUJRcjlYdVVjN3R4cEZKSVRFTk16VDBPQW1NZXZGRk1yb0FOTm8zSEJUVDQyNU94RUFWaGVuRVZiRWNDajZGOWtPVnYyR1Z0QXl6M3RFcmFUOFnSAXhBVV95cUxOQjBwdGtodEVkTHJEcnZEMzVmRjVPM056UXpSeWtQZnRMQzUyb0p2VWFjeWNEVTZiVW94R1NUZ21zQjVvbVdZRGJ0c0ZrQW5uU2lmcHhpU2wwWEUzTTNpSjUxMU0xc1VmZDNNNU9MSDNJcFNxallNWXM?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-24T21:29:03Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "02e2692513a2ac78ccf7b0",
       "title": "Top In-App Advertising Platforms (2026)",
       "summary": "",
@@ -570,6 +630,18 @@
       "title": "CPI Advertising Networks (2026)",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LVXJHQlZYWXRxcFZPb3lmcWp4dzZNd3pwVHpNdlhMTjhLaXE3Y3BtR01kVFhUZXZFUXpyQ2lLZkJqZkdkSXBPNHdtb0JFNU9vMzNlWlZZS1lpX002ZXgtVw?oc=5",
+      "source": "Business of Apps",
+      "published": "2026-11-24T21:25:08Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c020f615b7f071a366b987",
+      "title": "Top Mobile Advertising Companies (2026)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92ZlRVeUQtdGRUUlZHeFRtdm9maWNqVUMyengyanR4VmNoRGJqX3ZjNG9IWExqM2dPb3RXLTBSSkxPMlhSOHM0UXhRMGIwb2JVMHRaVGlOdkxyNnc?oc=5",
       "source": "Business of Apps",
       "published": "2026-11-24T21:25:08Z",
       "category": "Brands",
@@ -624,18 +696,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675"
-    },
-    {
-      "id": "2a1422ea57bb08bb754c14",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-24T21:19:42Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
     },
     {
       "id": "13354f8e661d4c4bd3f344",
@@ -708,18 +768,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800"
-    },
-    {
-      "id": "75a3a86ed42c87797de443",
-      "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
-      "summary": "Police say at least 20 held in supermarket and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men are holding at least 20 people hostage in a supermarket in Cartagena, one of Colombia’s most popular tourist cities. About 30 people were initially seized by the group of armed men early on Tuesday morning, but by nightfall,",
-      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-      "source": "The Guardian",
-      "published": "2026-11-24T21:06:37Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfb671dc404c631fd0b7916736e89a8"
     },
     {
       "id": "3934ad9964c8ebd430655b",
@@ -1392,54 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
-    },
-    {
-      "id": "8b33b2f4c44865f7f8d415",
-      "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
-      "summary": "New York City mayor Zohran Mamdani weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans 'signed up for their pensions being tied to the question of Huang’s fidelity to his marriage'. The mayor said Huang 'had a massive impact', with Nvidia’s share price",
-      "url": "https://www.theguardian.com/technology/video/2026/nov/24/mamdani-questions-ai-economy-as-jensen-huang-returns-to-nvidia-video",
-      "source": "The Guardian",
-      "published": "2026-11-24T16:30:07Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/526ad4b151eda4ee611778e9331242738273d7c0/229_0_2281_1825/master/2281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2edb941248ec53ef56b2e61a9c9a1f1e"
-    },
-    {
-      "id": "9b7f0538ab9342259f2c86",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "source": "The Verge",
-      "published": "2026-11-24T16:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d7d928cc05d2d4f38cdb92",
-      "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
-      "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy The tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X. “Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley l",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
-      "source": "The Guardian",
-      "published": "2026-11-24T16:27:41Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/37b2869f7bd05de287d811e35f9d87f7014da37e/848_0_5407_4326/master/5407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ed7c540f9bb509e6e84c8e3da1e428f"
-    },
-    {
-      "id": "5907c01600c34dc2c70ef8",
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhyY3Jxcm1ZNEhfdFNUS2p5RTAta1NyTnNGS0tOLWx5UkEwWGpYZm9IeWtQUmVjMWFKeE1kbFRLZURzUTJkLTRhV0t2Q2tURGZzYjc5Mlh1eWFhaEpLWmctTkRFeFR1RGxINGh2aEdlZ2xSX0hKYXNkZThTaEpsT1VMSVAyUmJmX2dscXZSLWJkM3hYQ2ZYejN1akN0UlpqeG5Ibks4alRZTkpsR05Qa3czTnVVT3VvV1dTejFJUU9XNHJvMEE?oc=5",
-      "source": "MarketWatch",
-      "published": "2026-11-24T16:23:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
