@@ -1,6 +1,138 @@
 {
-  "last_updated": "2026-11-26T15:37:57.412055Z",
+  "last_updated": "2026-11-26T16:51:05.614696Z",
   "articles": [
+    {
+      "id": "0f889ad86b2320334e2c87",
+      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T16:39:30Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "046ea33a313a0f1b1e38f9",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against t",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "source": "The Verge",
+      "published": "2026-11-26T16:38:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "fc8b6ca176a80dac62145d",
+      "title": "Europe Assembles a New Team to Steer Its Economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcldadmZ3enZsMDN0X3N2VXJsUnhGSjR6N1VHek1HU0kzdmhFanM2cExXa3lxZ2pvUFhULTlaZFlQQ2c3Nzc2RWtmdVA0SWt6RndQckRRRHg3ZW9iYlBwODdGeHd1OXNGbmwzQ2lxaGh5ZnA2VThsbW5nLUtocnRsaA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-26T16:29:51Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8f0b7f0fcdf3040535ab44",
+      "title": "Global Trade Faces New Tariff Pressures as Latin America Expands Export Opportunities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUExlZlFUdFB0NDA1YUN2RXcwLXIzQzdGVkxGZzhRZTRHVWdpcU9oS2hKbmVZSVJYV0pSendfODYxWlJhQTJaV2RFZTctT09FYjdTVUJ4THRleUQ3Tmt2akl3cU0yMmc1ZzFXTFg4VUdlRkpYUlBWWnMyaUxUSThXQWxYUWlMVlU4T3lhTXdzQUk3Rjc2YVBJNGdhWjM1YUNzd3RMaTFTQ3lldW1seF90WUhyaHJVeWQwMzA5X3dn?oc=5",
+      "source": "AgroLatam",
+      "published": "2026-11-26T16:29:48Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f64617009b35f3d4b8abb6",
+      "title": "Tobacco Giants Eye Imperial Brands Amid Industry Shift",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRno3MWxGZVRiWENlMld2QzN0akFZdk1GRzdjNHBUX0lnVXlndlZkVmltWktpbWo3SHdHOGUxVjBXc1I2SDdnYUNxQU5NMUpZNDViNkhSWXowV3c3YTVYYTA5VmhVS3I2NlRaQVJxNEYyMHQ3cWk0ZkwwYTdBelgwZ1A2MmFPekJydjE1Yk9Jd0FJUGZ0UkJqUFBsRG9KZw?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T16:24:51Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b81da0547893b26212f11b",
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T16:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675"
+    },
+    {
+      "id": "f12382e734d6ef9cbebcf0",
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-26T16:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/peter-claffey-dexter-sol-ansell.jpg?quality=90&strip=all&crop=0,0,92.21171875,100"
+    },
+    {
+      "id": "a067c0da2f1d9669615277",
+      "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+      "summary": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T15:57:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg"
+    },
+    {
+      "id": "2fbc6d410457e6b8adbf53",
+      "title": "When will Poundland shops close? Five key questions answered",
+      "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T15:55:50Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg"
+    },
+    {
+      "id": "6017eb39d3e996ca309220",
+      "title": "GTA VI developers vote against unionization",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from [&#823",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "source": "The Verge",
+      "published": "2026-11-26T15:55:24Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "92ba01607884e2d0cebecc",
+      "title": "Area CV Wins Three Awards at the 2026 TORI Awards",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJLX0w1b25QQ28wcE5WWnRYTmJ2dkh4REsxUXNDV1FEdVFNa1llTkkwWUZ2b1dXODdwaGE0cXFyNVh2NDhxUGdlX2JMeGtIVFJrZlBvdWJMNkY2T2pQV0plM29YN2Z3YnNub0tQQWsyRXpROHd3YTFMR01WNkZaU29aWkVTNnVjSW5LaXdGNEJzclRlb0NmbmNCaHFwZkJxU3dZVzF1ZmljYjM4?oc=5",
+      "source": "markets.businessinsider.com",
+      "published": "2026-11-26T15:49:55Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "ab16224e8d1cd5dd506ef2",
       "title": "New UK-EU treaty has 10-year termination clause",
@@ -74,10 +206,34 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "6e15749ded293c5035f64f",
+      "title": "ETO Markets Marks 13th Anniversary With “Race Beyond Limits” Global Brand Strategy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTRuSnJBMnhkUjB6YXR2d2tIVmh4aUxrWm5BaWRhR1cxZ016dlR3b0FwY0RTZVRCLS1Wb01kQ2tfRjRhUFdzOFZUNXZzLVJTVlVxcUNIQzBxN3BIUmNpQzc1NjZseFByci16TF94Qi0wbTNza0hPT0Zhd2szSFZNNHdPUHBXLVNlazBDMTJfbVhOcjRDLUU4MkNvQVJUZk1ITF9qSk9B?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T14:59:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5a641128ffbd2b0ded9ce3",
       "title": "US Housing Weakness Signals the First Major Cost of Higher-for-Longer Rates",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1E4dnduZUt6RDNoZWhBY0ExZ183aTlsWUNqNFlrVzZiTnEtaTJZbTd3Rkt3ZTMwV0hmVGk2VDdFdGtKYlFGZTZ1MDNISUFncm41UEM0cWNJU202QWpSTmJUNXl0RlNlQ0hzSmx6UkJXVUplS21DWWpqNXY0VDVucjNvV3hwaWp5NWFXVEU3V3VUbE9yRmEwdy1yTGpTZlFpNU1LbWI2cF95WjdYdGlOVDk0cw?oc=5",
+      "source": "kalkine.ca",
+      "published": "2026-11-26T14:56:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "87a147e8778ff06d488ccb",
+      "title": "US Consumer Confidence and Spending Become Critical Signals for the Next Growth Phase",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFZURDdqV2J3ZXRNZ05haWZjVW9vSDFuWXFrbVY0TkV6azF6Yi1XZlFWSE1GWDVyWWhvUFlRQWQ2emhhYlJFNXNSRzNjemVkTkNlSVM5UXpZVkhaSzlEempCSmJVc0h3TTNpcDNxbWRSVmdHcXlFVV91WVUxT0ZSWTBXWXlSbWxTVjQzOXJOVXdlbUpXeVpaaVhRamtJdGZxbWozdGJxSmIwY0oxbWh1TTdWUnlIanlpN3BNNGhqUnE?oc=5",
       "source": "kalkine.ca",
       "published": "2026-11-26T14:56:00Z",
       "category": "Economy",
@@ -122,6 +278,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg"
     },
     {
+      "id": "fe4653ec32639992357c4e",
+      "title": "Deutsche Bank's 2027 Outlook: Great Expectations, but Risky Business — The AI Boom, the Bond Market and the Price of Progress",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTNFVnA5dWZoRmhmZV9wSzRlRGNENlI0QnJ0Z2I5LVAtQ2RfQmRaM3pTRWpLWnQzS19RbW10ak9Hbi1qYlcxM1Zmak5TZjdrM3NWRVdaR19JWC02enM0RW15TU9WY3ozWTkzOWZIVndGTzJEY2VuUTJ2Ry1EYVZmUkZwQQ?oc=5",
+      "source": "The Dark Side Of The Boom",
+      "published": "2026-11-26T14:31:10Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "a537e18e84916f22722c0f",
       "title": "Norse Atlantic suspends all flights as it faces potential collapse",
       "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
@@ -158,16 +326,16 @@
       "image": ""
     },
     {
-      "id": "2fbc6d410457e6b8adbf53",
-      "title": "When will Poundland close? Five questions about its future",
-      "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T14:05:27Z",
+      "id": "8c6ff65016edf7f3bf1a7e",
+      "title": "JPMorgan Rethinks UK Investments: Will Higher Taxes Hurt Growth?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLU5mSjNmajdRZUdJT09JWHB5VlZaUWdkWUx5M2tkWXBiUVN6V19pdDBYcVUtdG1hWkRQc21XTVFkQWd1TVZmVG1sX2FsQjRMN0laUzdvaUpEU3ZHQXMxdXFnUXlhWkNuM3dQelRwWG9JOWtBMGlfdjVUN0FjVTA5UWJ1ZTY1R0ozVWsxeWVIc1hrbEItblBPd0RNNGhJMXllRnFfRUQtNA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T14:05:00Z",
       "category": "Finance",
-      "topic": "BBC Business",
+      "topic": "Global finance",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e449/live/9d5e65f0-e99e-11f1-b880-15b494ba858d.jpg"
+      "image": ""
     },
     {
       "id": "1acf3e41a2e63c51709693",
@@ -314,18 +482,6 @@
       "image": ""
     },
     {
-      "id": "a067c0da2f1d9669615277",
-      "title": "Miami runway incident disrupts flights on Thanksgiving eve",
-      "summary": "A FedEx aircraft overran a runway, prompting disruption on one of the busiest travel days of the year.",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T13:09:15Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "id": "98bbccc85d22da06677818",
       "title": "Rate Hike Odds at 99.8%: The Real Reason US Tightening Is Crushing Global Stocks",
       "summary": "",
@@ -456,6 +612,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/415_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ed745e4201500b4a32142b87296adf6"
+    },
+    {
+      "id": "5897d0f37fb9f99bc6e6ea",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
+      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T12:16:06Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg"
     },
     {
       "id": "bc8f486a99a062a7a68493",
@@ -1185,7 +1353,7 @@
       "source": "Africa News Agency",
       "published": "2026-11-26T07:51:50Z",
       "category": "World",
-      "topic": "Middle East",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1272,174 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f7f/live/77162390-e96e-11f1-848a-0519bc65af50.jpg"
-    },
-    {
-      "id": "5a6781f6ba73e93da771d7",
-      "title": "Croda International plc (LSE:CRDA): FTSE 100 Mid Cap Growth Stock in Focus as Investors Track the Next Market Catalyst",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZmFfdFlLVVRWSmxSbUJOX1dQX0JFVmdTOVNIc1J2dHptV2xZLTJURllpRW5FRVdrZjBPcEJGNlBUQWx2dzhyN05ENXRySGt1RjdiRGMzOW5FWDlmRm5jU2dmdk9BeEQwNkY5WG85UmRmTi02OEdFQ1laaElWTndwTFZfU2dEZHNfUTRwYVNUYzZDdk4xZXVsT1VEd1JIazNKcjY2TDRTbnVSYWMybkJxemRkbjBoaU5DRERnQ2plRlNqcXF4TXF4bFVqT0VhZEl2UmlWRlI4RWY2T1FoMlZiVDFpSWl2QUdx?oc=5",
-      "source": "kalkine.co.uk",
-      "published": "2026-11-26T07:30:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "05c65400c78fcefda4d4dc",
-      "title": "DR Congo demands answers over Ugandan general's threats",
-      "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T07:24:39Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9933/live/ff601720-e97c-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "e38e30f73b7cf7452da60c",
-      "title": "American Express Elevates Jessica Ling as Chief Marketing Officer",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzJGQ2hJSVRMR19KU3BSWHZlUkxRWmVvcXRHQ0JSVVJuT2p1bmowUDh5cTNpMVlxclEyWk54Y0xyQWZ5QnA1eTZiX2pHZTVhc2Z2cHc0cGladEFXaGJjbTRBLWtmMDhsRmZtUENLQ0ZqMkZsS3h4V1lyakV1YXBhcnZxby1MbUs3Zy1zRER3?oc=5",
-      "source": "https://hrtoday.in/",
-      "published": "2026-11-26T07:18:57Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d11836686722af1039cf64",
-      "title": "Trump's new tariffs aim to prise global trade from China's grip",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdXQjZTRVJvNzVESnNzMlpfZmxhTEgweFZsUHRZRTVLa29xcENmUjJaUUNjWExsaVNTREJqNlNwSFZzNXFuRUFqSlpRam4tZkZHWXEwZXQ5VlhPVFJzcmNnZEw5a3N2ZVBndnpnNzhiN1Y1NkRtU1M5WE05UmRFcGMzUVk0NXYyRTVpM05MOUhISDhmb3BPTERXcmNHWE9zc2dR?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-26T07:03:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8b6511b8a945cf9cfc3549",
-      "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
-      "summary": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns,",
-      "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
-      "source": "The Guardian",
-      "published": "2026-11-26T07:02:37Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ffd27c3386ac3237566a02659c8e900"
-    },
-    {
-      "id": "6962a5e66391f6c9bee342",
-      "title": "Should you have more China in your portfolio?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUZQN09nQlhaUnFKZy1uSUNpLUcyZGpxeVQzRkQ4X19fSENXZkdYQ2xWcGVGcjJWWFlQdm1tYWpheFM2Xy05WTU0M1FLRjlScUxobWJIX19sVktQOWpfNnhKY2xFQnpfRXVqUi1YQm9sVGJFRTRpdmp1UDBCbS0tSzFn?oc=5",
-      "source": "Klement on Investing",
-      "published": "2026-11-26T07:00:49Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "edc2e2d51a3ce0fac2aac7",
-      "title": "India Launches Powerful Chariot-1 AI Models Under IndiaAI Mission: Here’s What’s New",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHNMbzFVSDY1RHFmTTEyLWdIZ1RtN1pEYXlveF9BbmZDMVVVWG5CaEQ0QTdyak0yN1BuNktKc2JBTEp3SVdpVmVnR2ZabXYwM2Uxak5TN1RzSWhaU0s5NDFkV3FHOG85cVA0VWRPREgweUFIQXk1RlVVMlRtalBfQkY4N3BlVHRHNUFOdTlOeVoxSGdNdGZDNQ?oc=5",
-      "source": "Indian Masterminds",
-      "published": "2026-11-26T06:46:20Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6594562a6f8a9679befdbf",
-      "title": "AfDB, EBRD step up partnership to expand financing for Africa’s small businesses - Economy - African Media Digest",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUtpeTJlOXM3cm1SSUNaQWhQR294UExPLWZlcmhkVHZmdU85OXJjOEtrcFl4RTFaN003X3FDRlhqa1Q1dGpULXJWY1VDcXJWVUc0UWxzN0JFWkdaYno1OUVFcjFQZDg1eFk4QVhha2lmTWRrdFFaMXNzOERid01oUHF5Y3gzTXJTUHZLY3M5YnV1YXhlN1pVNVRDVUhlQXUtZm4tVHIwbzM5aXlrSzlxZEx1eFV6N0drQUVCNlB3S25UcHN0S2dpTjM4R2kyT3NKeVZnc054Zw?oc=5",
-      "source": "Ahram Online",
-      "published": "2026-11-26T06:42:03Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "14ce33c8a22a3249389b2a",
-      "title": "Chariot-1: India's Sovereign AI Speaks 11 Languages and Fits on a Phone",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMk1zaFFZT1RSYVQ3d1hkeUJiRF9FdWIyRldyS1AwYnJPSDJLcHBILVMySEh0TUZXalVNUTF5NWtKRWh6cU80MDdkU0dtS1dIS1FyYUhCYjdQVUJyNmhCR1N5S1I0TTZpQU03VFZKTVFLcFUxRFllazJwN0VKVE1vb1Z0SGpadw?oc=5",
-      "source": "Indianweb2.com",
-      "published": "2026-11-26T06:38:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bd2ea5c41369555a7c2349",
-      "title": "DeepL Launches Aure V2 with End-to-End Speech Translation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ19rNWFxU1pIZEE0RTFyeE1Oam9Pa0Z1eUFDRVhSNWNyR3IwQ2lkczNnUjItSW00aTJyR2NhSXg3ZnltOTF0S2NLNER5US1Tc3J6SU84QThMd3I0cmt2Y1FyRFJfa2tPMDZaMlFlN3ZLSjhYaGNxSFgwQnY0Mm1TeEIyZW9rUQ?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-26T06:17:03Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "03821c95c5d2c709e9d575",
-      "title": "Havas Miami launches cultural intelligence model",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdEJ5cUFLSXV5TUtzRjVwS3hWZzBzbk5Cd1BkdE1EaXVtUDRzcFZFR2JiUVo2cmR6OERIWVJ6bzFicUJsaGFVcVRSUjE4OEZoUlRDRTdoQXIyLWltRXA2eEJ0N1lwUUVOWWNiMVF1UEl0T1F1a2h6bnUzTEdvQnFJdmk1VWxLa2stYTRuOW95Zw?oc=5",
-      "source": "https://marketingreport.one/",
-      "published": "2026-11-26T06:14:41Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c066efe013b55494c873d5",
-      "title": "Asia Stocks Rally as US Tariffs Less Severe Than Feared",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWZKb0h1RHAybVRXQkE3NVg0YVotbmZuMlBOTVVRVEtBaG5od05Ocm8wdk1HRGtfdlU4OHJMRkRPNE02TmdjS2Z0YVRGREEzd3MxVXZGUjU5RFVseURSbW1kS2NRN2xaeWtUcDMyeUgzNmJIZ2liazU5ZzhnZzZJdGJRWlpsVXRMY21zM2ZOMA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-26T06:13:28Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7d3e80f8183678ccfeb145",
-      "title": "South Korea’s central bank hikes interest rates amid AI chip boom",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTW9UQ1JfVnlQTzVzV1lDUEhkZ1VzaVVuNnlGclhleUZPNmJjUEl6aUpiQTB4bDhmdFRxakQ4N0s3NGRWOE1vbjhvTDMwY1dqb0w2NzZTQXBRRDJ1V1ZmaVhiaWM5UGtjQ2hIMjBJWVM1a0d1ZTFlWWdfRlFTRTJaZDA4Yl9sZmVvS213OFdpOWxuMnBKajl5RzF1OHI0NlF4c0s3QnAzMmFLeEEtN3Z2Q0xhWV9ESWFFWUHSAb8BQVVfeXFMTzcxaWxLMDRRY1A3aWNxZFFIdGNtNHEzcGR0aFJjME9Xb2NvTWp4NTd6SlZHOUFreldKQUg2R3hJWmxvS0Rsck1WancydVVSTFpMV0hhUk9xaHplUkd6Q01pRkJlMWlWcWFHYVI0QW9LNll3cUVNMjlIM1RVTzRNdkc5ZlJ0OHA2dTZtSmtEdFhkRkRtdmQxZlBldDRxVWtCRzZPMXIwR2FYeVFoMmp2N1FFMlo0VUxKT0VKUG94TFk?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T06:06:13Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d256b509bbc86a957b3503",
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T06:01:58Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 21
+  "source_count": 20
 }

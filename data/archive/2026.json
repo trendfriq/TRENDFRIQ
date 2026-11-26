@@ -1,5 +1,113 @@
 [
   {
+    "id": "0f889ad86b2320334e2c87",
+    "title": "Italy says two citizens killed in Iranian strike in Kuwait",
+    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+    "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-26T16:39:30Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+    "id": "046ea33a313a0f1b1e38f9",
+    "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+    "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against t",
+    "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+    "source": "The Verge",
+    "published": "2026-11-26T16:38:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "fc8b6ca176a80dac62145d",
+    "title": "Europe Assembles a New Team to Steer Its Economy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcldadmZ3enZsMDN0X3N2VXJsUnhGSjR6N1VHek1HU0kzdmhFanM2cExXa3lxZ2pvUFhULTlaZFlQQ2c3Nzc2RWtmdVA0SWt6RndQckRRRHg3ZW9iYlBwODdGeHd1OXNGbmwzQ2lxaGh5ZnA2VThsbW5nLUtocnRsaA?oc=5",
+    "source": "The New York Times",
+    "published": "2026-11-26T16:29:51Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8f0b7f0fcdf3040535ab44",
+    "title": "Global Trade Faces New Tariff Pressures as Latin America Expands Export Opportunities",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUExlZlFUdFB0NDA1YUN2RXcwLXIzQzdGVkxGZzhRZTRHVWdpcU9oS2hKbmVZSVJYV0pSendfODYxWlJhQTJaV2RFZTctT09FYjdTVUJ4THRleUQ3Tmt2akl3cU0yMmc1ZzFXTFg4VUdlRkpYUlBWWnMyaUxUSThXQWxYUWlMVlU4T3lhTXdzQUk3Rjc2YVBJNGdhWjM1YUNzd3RMaTFTQ3lldW1seF90WUhyaHJVeWQwMzA5X3dn?oc=5",
+    "source": "AgroLatam",
+    "published": "2026-11-26T16:29:48Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f64617009b35f3d4b8abb6",
+    "title": "Tobacco Giants Eye Imperial Brands Amid Industry Shift",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRno3MWxGZVRiWENlMld2QzN0akFZdk1GRzdjNHBUX0lnVXlndlZkVmltWktpbWo3SHdHOGUxVjBXc1I2SDdnYUNxQU5NMUpZNDViNkhSWXowV3c3YTVYYTA5VmhVS3I2NlRaQVJxNEYyMHQ3cWk0ZkwwYTdBelgwZ1A2MmFPekJydjE1Yk9Jd0FJUGZ0UkJqUFBsRG9KZw?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-26T16:24:51Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b81da0547893b26212f11b",
+    "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "source": "TechCrunch",
+    "published": "2026-11-26T16:00:00Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675"
+  },
+  {
+    "id": "f12382e734d6ef9cbebcf0",
+    "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+    "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+    "source": "The Verge",
+    "published": "2026-11-26T16:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/peter-claffey-dexter-sol-ansell.jpg?quality=90&strip=all&crop=0,0,92.21171875,100"
+  },
+  {
+    "id": "6017eb39d3e996ca309220",
+    "title": "GTA VI developers vote against unionization",
+    "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from [&#823",
+    "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+    "source": "The Verge",
+    "published": "2026-11-26T15:55:24Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "92ba01607884e2d0cebecc",
+    "title": "Area CV Wins Three Awards at the 2026 TORI Awards",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJLX0w1b25QQ28wcE5WWnRYTmJ2dkh4REsxUXNDV1FEdVFNa1llTkkwWUZ2b1dXODdwaGE0cXFyNVh2NDhxUGdlX2JMeGtIVFJrZlBvdWJMNkY2T2pQV0plM29YN2Z3YnNub0tQQWsyRXpROHd3YTFMR01WNkZaU29aWkVTNnVjSW5LaXdGNEJzclRlb0NmbmNCaHFwZkJxU3dZVzF1ZmljYjM4?oc=5",
+    "source": "markets.businessinsider.com",
+    "published": "2026-11-26T15:49:55Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "0989ec78615403f939d0cf",
     "title": "Column: China's vision for Asia-Pacific cooperation resonates in an uncertain world",
     "summary": "",
@@ -48,10 +156,34 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "6e15749ded293c5035f64f",
+    "title": "ETO Markets Marks 13th Anniversary With “Race Beyond Limits” Global Brand Strategy",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTRuSnJBMnhkUjB6YXR2d2tIVmh4aUxrWm5BaWRhR1cxZ016dlR3b0FwY0RTZVRCLS1Wb01kQ2tfRjRhUFdzOFZUNXZzLVJTVlVxcUNIQzBxN3BIUmNpQzc1NjZseFByci16TF94Qi0wbTNza0hPT0Zhd2szSFZNNHdPUHBXLVNlazBDMTJfbVhOcjRDLUU4MkNvQVJUZk1ITF9qSk9B?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T14:59:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5a641128ffbd2b0ded9ce3",
     "title": "US Housing Weakness Signals the First Major Cost of Higher-for-Longer Rates",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1E4dnduZUt6RDNoZWhBY0ExZ183aTlsWUNqNFlrVzZiTnEtaTJZbTd3Rkt3ZTMwV0hmVGk2VDdFdGtKYlFGZTZ1MDNISUFncm41UEM0cWNJU202QWpSTmJUNXl0RlNlQ0hzSmx6UkJXVUplS21DWWpqNXY0VDVucjNvV3hwaWp5NWFXVEU3V3VUbE9yRmEwdy1yTGpTZlFpNU1LbWI2cF95WjdYdGlOVDk0cw?oc=5",
+    "source": "kalkine.ca",
+    "published": "2026-11-26T14:56:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "87a147e8778ff06d488ccb",
+    "title": "US Consumer Confidence and Spending Become Critical Signals for the Next Growth Phase",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFZURDdqV2J3ZXRNZ05haWZjVW9vSDFuWXFrbVY0TkV6azF6Yi1XZlFWSE1GWDVyWWhvUFlRQWQ2emhhYlJFNXNSRzNjemVkTkNlSVM5UXpZVkhaSzlEempCSmJVc0h3TTNpcDNxbWRSVmdHcXlFVV91WVUxT0ZSWTBXWXlSbWxTVjQzOXJOVXdlbUpXeVpaaVhRamtJdGZxbWozdGJxSmIwY0oxbWh1TTdWUnlIanlpN3BNNGhqUnE?oc=5",
     "source": "kalkine.ca",
     "published": "2026-11-26T14:56:00Z",
     "category": "Economy",
@@ -96,6 +228,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg"
   },
   {
+    "id": "fe4653ec32639992357c4e",
+    "title": "Deutsche Bank's 2027 Outlook: Great Expectations, but Risky Business — The AI Boom, the Bond Market and the Price of Progress",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTNFVnA5dWZoRmhmZV9wSzRlRGNENlI0QnJ0Z2I5LVAtQ2RfQmRaM3pTRWpLWnQzS19RbW10ak9Hbi1qYlcxM1Zmak5TZjdrM3NWRVdaR19JWC02enM0RW15TU9WY3ozWTkzOWZIVndGTzJEY2VuUTJ2Ry1EYVZmUkZwQQ?oc=5",
+    "source": "The Dark Side Of The Boom",
+    "published": "2026-11-26T14:31:10Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "d4c2ab7a47b98b3e24db2a",
     "title": "Thumbstoppers: The Social Company Conquering the Mindless Scroll — LBB",
     "summary": "",
@@ -130,6 +274,18 @@
     "topic": "BBC Business",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e449/live/9d5e65f0-e99e-11f1-b880-15b494ba858d.jpg"
+  },
+  {
+    "id": "8c6ff65016edf7f3bf1a7e",
+    "title": "JPMorgan Rethinks UK Investments: Will Higher Taxes Hurt Growth?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLU5mSjNmajdRZUdJT09JWHB5VlZaUWdkWUx5M2tkWXBiUVN6V19pdDBYcVUtdG1hWkRQc21XTVFkQWd1TVZmVG1sX2FsQjRMN0laUzdvaUpEU3ZHQXMxdXFnUXlhWkNuM3dQelRwWG9JOWtBMGlfdjVUN0FjVTA5UWJ1ZTY1R0ozVWsxeWVIc1hrbEItblBPd0RNNGhJMXllRnFfRUQtNA?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T14:05:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "1acf3e41a2e63c51709693",
@@ -382,6 +538,18 @@
     "topic": "Brands & business",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "5897d0f37fb9f99bc6e6ea",
+    "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+    "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
+    "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-26T12:16:06Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg"
   },
   {
     "id": "bc8f486a99a062a7a68493",
