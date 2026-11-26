@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T20:38:53.065692Z",
+  "last_updated": "2026-11-26T21:38:21.109049Z",
   "articles": [
     {
       "id": "0f889ad86b2320334e2c87",
@@ -7,11 +7,35 @@
       "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
       "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-26T20:35:39Z",
+      "published": "2026-11-26T21:17:53Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "db806ae0be60040dc8e26e",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "source": "The Verge",
+      "published": "2026-11-26T21:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5ee58b6e2b613ebfbe6a17",
+      "title": "Amazon US vs. Mercado Libre LATAM",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjNwRDJ1RlNXeHpLbEtXR1dIVnh3YmRlVWRmb2ZjOEszVGdHOTRhZGp1ZFZoVlhsMmJKSmRrTGdDcHpvamk5VGxUejBjeEl2TFZIME15bENCQ05VS2ptWDFjUHRFUk9IWlNJdzhZQmNKS29MSTBoM3E2ZzFQaXBYcQ?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-26T20:27:26Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "979e22972f743c1451fecf",
@@ -60,6 +84,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33b587cca6c8195d8be34ebe0bf521ed"
+    },
+    {
+      "id": "fc8b6ca176a80dac62145d",
+      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcldadmZ3enZsMDN0X3N2VXJsUnhGSjR6N1VHek1HU0kzdmhFanM2cExXa3lxZ2pvUFhULTlaZFlQQ2c3Nzc2RWtmdVA0SWt6RndQckRRRHg3ZW9iYlBwODdGeHd1OXNGbmwzQ2lxaGh5ZnA2VThsbW5nLUtocnRsaA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-26T19:41:34Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2e6f12da2cc1bb6ee9ca81",
@@ -122,6 +158,18 @@
       "image": ""
     },
     {
+      "id": "541010906a3a48cc90c96e",
+      "title": "Nvidia Stock Has Found Its Next Big Catalyst, Making the Stock a Once-in-a-Decade Buying Opportunity.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTTR5MTR4cWtRMUVmZEs1aXVmM2FtcXFGN3gwcEt3Z1pPaDhwR3U1Z0oxSnRpcm1aeU1kS3dJX01CWFlYWWxzVUZHUVNwd2NGVngtRmR4cThtUEJWLW5PQlBxSmlNTHlWX3JVcHNZVThFcy1sZmwtNDdOU3U3ZUdBdzRnLVN1WExyd1NCQlNPNkwtcjNLZ3QtU3liZjZoVkpJNC1TdXp0cU9KSGM2MDNZbmI2bFhXOTZ1WGlrSnppU1JqM1hEb0stcUZpc2xNaWVFY2xWRHRLM25lYzFEZE1ZUktZNE5wUkhrX05pTmVuYUhVUFA1VnkxZWlTc19zWXVPS09yU18xd3NlWHFrckV3ODBSMA?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-26T18:34:49Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9846a28e95d3fdaeee5b40",
       "title": "Gold price stalls near $3,570 as Fed hike bets keep bulls at bay",
       "summary": "",
@@ -168,18 +216,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/ed4d7e18d8caa663af83e220fc0cd3e51552c5fe/0_75_386_309/master/386.jpg?width=140&quality=85&auto=format&fit=max&s=e5ebb28d3e303a7517e3c4ebc0b4a1c9"
-    },
-    {
-      "id": "fc8b6ca176a80dac62145d",
-      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcldadmZ3enZsMDN0X3N2VXJsUnhGSjR6N1VHek1HU0kzdmhFanM2cExXa3lxZ2pvUFhULTlaZFlQQ2c3Nzc2RWtmdVA0SWt6RndQckRRRHg3ZW9iYlBwODdGeHd1OXNGbmwzQ2lxaGh5ZnA2VThsbW5nLUtocnRsaA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-26T17:53:04Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "005248df97fec73910de1f",
@@ -310,6 +346,18 @@
       "published": "2026-11-26T16:47:17Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "718be3311961b0827f6ed1",
+      "title": "Value addition, AI key to Africa’s economic transformation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmdibzFhTlNVbzd0NzlEZkpmalRWM1hxYUI5TFRfOTNUYmx2R0o4cEJESjNKRzYtc0gxM0hLNUNVa0ZPYjZ4UUd1aGNFTnhCUlp5NUJiWTNFUWNDcV9kSDlIbHViRWVWLVQ2VVJ3U2xkUnl4d0ZteGFMOE1nYTR6a29JalRGZHZnMl9ZZGtiRTI3TFF0ZTJjRGVBeGNPcWNmTS1rZ2JYU1VjRjRjUjN3bXgwX1hqejlCdmR5ZmlQSV9sbXdxcUxMdmZBdnZNcE16?oc=5",
+      "source": "https://ippmedia.co.tz/",
+      "published": "2026-11-26T16:47:13Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1046,6 +1094,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg"
     },
     {
+      "id": "7f35c68eace044c6082ee9",
+      "title": "Capital Market Outlook 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTJjSVUzbHRwMXpCOVhoY01vdVZwU3JDTk8wUUNkNUhwblRoOTFFQ3lyT1JlRzFHX2ViNDB6WHFZb0dkOVNad1ZyMVZIOHJ0dTFnQ1JTdzY1UXEwY254UTZHTnh2QVk1d1doaldVWWNvNEhxRTVuck9FckpOWDJSMVpVUXVmSFMt?oc=5",
+      "source": "Deutsche Bank AG",
+      "published": "2026-11-26T12:16:04Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "bc8f486a99a062a7a68493",
       "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
       "summary": "",
@@ -1088,7 +1148,7 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
       "source": "The Guardian",
       "published": "2026-11-26T12:00:22Z",
-      "category": "Economy",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bd177a609f3fd201c7b0cc7f40d507c"
@@ -1380,66 +1440,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "8a815f064b6b656c5bf59d",
-      "title": "Will Lufthansa Push TAP's Business Fares Up? | RDC Aviation Ltd",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDZPOXNiNm95VUJjSGVjR2V6TFljYjNQX1QxX0UzaEFCeWptNlBoUWF2dk1EY1NLdElhNUIyaElqeFBKRWhQQjlGZ3B6Y1RZeGNQQXotT05fT3V4WXdaanNSSHhEZTZ3T1I3QXVReTNOcHFxMkpPam84N0I0VUNERWViTlRJME4wZ0VDTE5nMlVrWm1iN3hIbHdaQjJ4WmFJZC1XX1dBMnFXRjh2dFBJVEFHaHV5WmtYX1Nz?oc=5",
-      "source": "Routesonline",
-      "published": "2026-11-26T10:21:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8b1572b79a8c7c3b756cc7",
-      "title": "What's gone wrong at Poundland?",
-      "summary": "Poundland has collapse into administration. Why?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T10:15:47Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d4/live/d044d390-e990-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "dd4c603c20bbf197ff9b21",
-      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-      "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T10:14:08Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "eacb3bd5ebaa2c9286c209",
-      "title": "IndiaAI Mission Government launches Chariot 1 foundation models to boost indigenous AI capabilities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWdHMnpJdlhrSThfX1FRdERfWXJESDlfSVJpSFZvbUdBVUlOYnkzcTd1NW0wV0JYT01NcVl3MlpJVmhhWnozVms4VXk4cFVrV0U5UmVnSDhDLUplWlk5bDBjSEVGZzdjU1hfamZVenMtR0NRbGJXN19pVnJoZFpTQXNkWTRmVjFzMVdRUnRHd0V6U1RpSnNxSUtQX0NGczN5S1JqX3dQZElMajhMYnhLcC1lN1hGM1RGbDBCWGVacUViMU1ESGhhel8xbW5Gak9QNm12Y3Zibw?oc=5",
-      "source": "Zee Business",
-      "published": "2026-11-26T10:06:01Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c2cda04dc49edbd4d5b92e",
-      "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
-      "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “ou",
-      "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
-      "source": "The Guardian",
-      "published": "2026-11-26T10:00:52Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bd61685d30e35ab1aa8a2d7f24b9108"
     }
   ],
   "countries": [
