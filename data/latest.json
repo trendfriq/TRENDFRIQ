@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-26T19:51:05.873749Z",
+  "last_updated": "2026-11-26T20:38:53.065692Z",
   "articles": [
+    {
+      "id": "0f889ad86b2320334e2c87",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T20:35:39Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "979e22972f743c1451fecf",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:03:54Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024"
+    },
+    {
+      "id": "8a47fa25d48b2800d4399b",
+      "title": "Is Alice Huang a spy or not?",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832"
+    },
+    {
+      "id": "77ed0ea9783dbc608b2933",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T19:55:58Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg"
+    },
     {
       "id": "64295a51bb9fe152c13a7d",
       "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
@@ -12,6 +60,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33b587cca6c8195d8be34ebe0bf521ed"
+    },
+    {
+      "id": "2e6f12da2cc1bb6ee9ca81",
+      "title": "Mexico central bank lifts 2026 growth forecast after stronger third quarter",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObzNiNjAteE1oYjBxRC15ZmhSS1BIYlpUbzJycHVrMkdTd1FORTk1NEdQVjEyNHpTZXM1eUk1R0FfSnJFSnpTZWFpbXp0clp3bk5qdmpkUXZvNmRscGNmMEZwT2tRa0wxSnlYMVdXQjlFTWdCSTdxcnJrQUJ0enhIUUNSTTlBRXpSZl9idm9BWVJHd0JEZUtCU1ZURHJiWm9WLUJWbHhVMDF1bld6eUR3RTZfcHBzcmVWV0xWcW5ZbkxPMDJYbHFCWGt0NWpFaWfSAdQBQVVfeXFMTktKX2hHUUZ1dUZYZzJlUmJJbVc1MG9ueXgya3UxdWFnbExGam9LV2pqZGU0YUhXUTJNQ0tmdnkyR05TN2x2bE1ORGI4MnZ0dUVvM0JkVFVxOXRxWjZlc3pEaFhSaDJsOGctRlB0cEs1TjB6V21iMk5ISXAzVjJQTWdFbFRQZ2gxd3pIemRIa0FsNnNldjRzWnNYMnp1eVdSOHFvWHVMTFdRS09lVkdPTEhTYk50eWxUR0NFeW42V1FqbUJTX1VJREJWWV9sTDZMSmJyaFI?oc=5",
+      "source": "Devdiscourse",
+      "published": "2026-11-26T19:32:34Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
     },
     {
       "id": "58238582b61f3958ec423f",
@@ -26,16 +86,16 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675"
     },
     {
-      "id": "0f889ad86b2320334e2c87",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "id": "531caf503c7fef54c54f8a",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-26T19:27:45Z",
+      "published": "2026-11-26T19:26:16Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "b7095d70f93168da6f6cd6",
@@ -74,6 +134,18 @@
       "image": ""
     },
     {
+      "id": "6e01ee815b4903eb76b593",
+      "title": "Spanish economist to become new European Central Bank chief",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUpudUw3QkoyTGVqN3hoN3lmcFR3bDNGMFpxSzVsd3JrajNuTHp5dVg3WWVieklUeG1RdlNPbnVCeFVQZEZmeTItU0h2ZDAzRlAxSVdNTUs0TGNybExrVVc3Z2ZneXV1TFp0SHRLS294VWZiQzBMdVdidzY3MUZSMVRrVW5oUDl1ZVI3Tm84RWZZYl8xNVhRMGhrZmNVaS1rbHpB0gGoAUFVX3lxTE55RDFtNjlya2haWHhybjRodGJGcUFJR2tpOFVGc2FqRnJEMGotRXEtdVh0TnNWLVVUcVBiNk10X1pPR2ZnOHY4blYtR05SYWs0WXhNYWdGSjVLNTM4SXlSOURrWXJCajNLaUljYWtwMFNZUzZqb2pPQkZ2QUZtM3FCeVdyYkZ3YnZPYVJ2d3RSSFV4WnZQUmM2Zlo2cS12ZWhEbEJqcTczVw?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T18:04:02Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8b746ee9f9cc8067590bf1",
       "title": "Touchstone Focused Fund Q3 2026 Commentary",
       "summary": "",
@@ -96,18 +168,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/ed4d7e18d8caa663af83e220fc0cd3e51552c5fe/0_75_386_309/master/386.jpg?width=140&quality=85&auto=format&fit=max&s=e5ebb28d3e303a7517e3c4ebc0b4a1c9"
-    },
-    {
-      "id": "6e01ee815b4903eb76b593",
-      "title": "Spanish economist to become new European Central Bank chief",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUpudUw3QkoyTGVqN3hoN3lmcFR3bDNGMFpxSzVsd3JrajNuTHp5dVg3WWVieklUeG1RdlNPbnVCeFVQZEZmeTItU0h2ZDAzRlAxSVdNTUs0TGNybExrVVc3Z2ZneXV1TFp0SHRLS294VWZiQzBMdVdidzY3MUZSMVRrVW5oUDl1ZVI3Tm84RWZZYl8xNVhRMGhrZmNVaS1rbHpB0gGoAUFVX3lxTE55RDFtNjlya2haWHhybjRodGJGcUFJR2tpOFVGc2FqRnJEMGotRXEtdVh0TnNWLVVUcVBiNk10X1pPR2ZnOHY4blYtR05SYWs0WXhNYWdGSjVLNTM4SXlSOURrWXJCajNLaUljYWtwMFNZUzZqb2pPQkZ2QUZtM3FCeVdyYkZ3YnZPYVJ2d3RSSFV4WnZQUmM2Zlo2cS12ZWhEbEJqcTczVw?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T17:55:18Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
     },
     {
       "id": "fc8b6ca176a80dac62145d",
@@ -264,6 +324,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0fd588d81413fc953b640a",
+      "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXhDYzFwSHFGWmhPTGxLVDdRWFlIcGRkWE1ZYmRLSzNGMjFOUzgyLXowU2NhdTJiM0s4UlRtNldCc3BQMElfTjRWdHdMNm9zY3VyRnpMaUg2T3gwN05selcxWDZyV1YzelBkQ3NPdlQzVWFCUFVPcGFiMTcyVFNYeXBxbk1Od1o3UE1QeUZIT0R6TEJrSUVWVQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T16:37:43Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "8f0b7f0fcdf3040535ab44",
@@ -547,7 +619,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUVWM09Dc28zeTJPcV8wRjFfS1dzSG8zemFWbTFIMmxIZ09ZSno2eThZTjlMTE40bFNnSGdIakk3VHlnSkhaNDBuMDdHS1V2ci1DSjFYckZyODJOZVp5SlMzOWtNSE9scVBWMTluVEs3QnlQbXpRNW5MYVBGMFJoQzVNZEs?oc=5",
       "source": "Chatham House",
-      "published": "2026-11-26T14:36:38Z",
+      "published": "2026-11-26T14:37:31Z",
       "category": "World",
       "topic": "World affairs",
       "country": "",
@@ -662,6 +734,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "c86e8c358366451cd0811b",
+      "title": "IDC co-invests almost R6bn to extract critical minerals",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZfOFlScy12MmpTTmZLLTNYV3hnVmNoOUpGOEJMR1lnN2tfRkFKTjJfNWtGU01NNWxzbEpHTHB1TExhR2JTLUc4UmI2MnR5SFFLUUZ4M2ZQLV9waVpIR1plUFFjanhZTHVqRW40OWp4UURKSXB1aDVCUlhMSnUwLXZzR05yZnpweUtyMlBqY21aSlFWOTZQdUpBWWlIWHBnaUZobEM5RXVTU1N6QTBNdg?oc=5",
+      "source": "News24",
+      "published": "2026-11-26T13:56:35Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5e9bcb733b3e8687383efa",
       "title": "Swiss Economy Faces Minor Impact from Higher US Tariffs in 2024",
       "summary": "",
@@ -744,6 +828,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2965x1965+0+0/resize/2965x1965!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2Fca%2Fa076c10a456fae30c7079d94f200%2Fap26330009741123.jpg"
+    },
+    {
+      "id": "e72b911c9ed5808a3d95ba",
+      "title": "Pig ears for Putin, Trump’s ‘flawless’ roads: how Shenzhen charmed both leaders",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXRjYzQ0UHk5WnlWcktQa1RLWDhGQ0FxbzhYZnRBVWRqTUJTN3RmOFlZRVl3aFlRbmxKM2NNc1c3UXRFcUhtZXNDYVZ0ajdkUWVvdmZ4VEp5UWRkNmoyY0JPWU9wWEdsazBpb2s5aW5WSDZmOWRPOUdYRlc1ZkdZd1RqS1lrVVZJR3NFU2t3Y3hNS2Q4RWxhRnhjZHowX1hmaWswckIxT254TWh3M0wyNlZYSG0tbHNPcGdGWXBxbVp4WFd5bDBSZzNSdk9FTlAzY2fSAdIBQVVfeXFMUDRhNXJ3Vk8tZjR2eG54WHJSNjA3dFNCY3FGNnlidllNWWJhTURUSTZreGM3MElUU25rRjFnd0xxc2Nfck9NLXdVYkdFdmNncXBTdFVCbjYwSXBHREdXZ2doa3ZXeEVGdWxsR0JLRnBpbDVIcWw5bHhDaDRkdnVXVXd4bUg2TlFnM0RKWncxWHBqQ2V1Y0M4QVVoZGx4S3dkU0gxbV9oNHM0RmpKZTkwVjcxOEZkRmNRaDJvOXZDTkZhNGxmN004UWkwSFhjT0hBQVd3?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-26T13:30:08Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "00846d105690fdfa7e52fc",
@@ -1008,6 +1104,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/LA_WAYMO-FREEWAY.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "309da99d778f4d960017b3",
+      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T11:57:48Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "8d3f5cda997388eecb0d99",
@@ -1310,6 +1418,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+      "id": "eacb3bd5ebaa2c9286c209",
+      "title": "IndiaAI Mission Government launches Chariot 1 foundation models to boost indigenous AI capabilities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWdHMnpJdlhrSThfX1FRdERfWXJESDlfSVJpSFZvbUdBVUlOYnkzcTd1NW0wV0JYT01NcVl3MlpJVmhhWnozVms4VXk4cFVrV0U5UmVnSDhDLUplWlk5bDBjSEVGZzdjU1hfamZVenMtR0NRbGJXN19pVnJoZFpTQXNkWTRmVjFzMVdRUnRHd0V6U1RpSnNxSUtQX0NGczN5S1JqX3dQZElMajhMYnhLcC1lN1hGM1RGbDBCWGVacUViMU1ESGhhel8xbW5Gak9QNm12Y3Zibw?oc=5",
+      "source": "Zee Business",
+      "published": "2026-11-26T10:06:01Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c2cda04dc49edbd4d5b92e",
       "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
       "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “ou",
@@ -1320,126 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bd61685d30e35ab1aa8a2d7f24b9108"
-    },
-    {
-      "id": "d54b442ec1bd11bd81fb9b",
-      "title": "China and other U.S. trading partners hit back at Trump's new tariff plans",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDl0X3lqRVBKdFYxMjliSzhqSjh3SE5VRUFETTFETGppaWZZUHBBcDl1ZnUzYTNrenVrNGdJVWlaYk8wNHRXWkI1TUk0ZnY1N1pTNjZzUUZqMXdiSzJDWUx2emlsaTltVjBOMnNTSGNvYW5yYmFobERyZVo3RHpfMjBWZGRPTFk0OU9BYXZWa21TLUJTY3NvcU1ZOVE1UGFOZzBQcVV0QkhVNkxOakNLaWIzREdRQQ?oc=5",
-      "source": "Audacy",
-      "published": "2026-11-26T10:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e51b021662e92d608165a6",
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "source": "The Verge",
-      "published": "2026-11-26T09:54:40Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "8e8ceb7aac957defd8ab0a",
-      "title": "East Africa’s second-largest economy emerges as top destination for Chinese solar exports as imports jump from $5 million to $576 million and panel shipments to the lucrative US market surge",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEVHM1B5T3pvUEZnRTMtR1RiZnBTa3VmeE1aX1lDVjFHOXBUV2xzTGZUSF9vTUowWFdUdUtVaUw2MUNWNktMQkhGQzV2WENwRFRMRmV5UEtpbGQ0RUpza0pzX1ZNMVlFQmF6TjJuUWl2SjBQd3BPMEgxNUJoSkxyWVJOZVpmWkJDeGNZNkdNY2Uyd3ZnVU10aWw0eFRscy02UlhkeGFwc3BTZEI3Q1ZMSmt2bGpBb201UGM5aWYtbW85dmpQRUVmRjk4dmh5c05fQ0Vz?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-11-26T09:54:07Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b506101c57cf316176f819",
-      "title": "Commission prolongs State aid framework to support sectors affected by Middle East crisis until June 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYTlQNGxDYzI4Q2pVaHBFOUlWY0lYbTRuQWdQY0RKel9tR2xxYzZmT3lNU1NCa3FQaFNWaTQ3NktMdVN4b0N2LW9icWI1RGpyNlFjLVFxdHVSR2J6Wjc5MXBydlZSS0ptZVJKMk51djNlQk5hR0d3RFVtczVaLXpXVE5UeXFRSGRRV2ZaeHJ4U1pmS0RKbU9oVTAwZG1nUHdpTDJER0ZUbGU5LUE2RFNEb2JrbEZDTU5KODIwMDZRcmN5RHlScFl1MDFfYThBazBDUV9XYkdSM1l1SE0?oc=5",
-      "source": "The European Sting",
-      "published": "2026-11-26T09:45:49Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "12589f33f7cb0c455a1682",
-      "title": "Melbourne secures 221 business events, generates $321 million for Victoria",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUUVOejNOWHAtbEg3NGVNLVVIZ2dhYTd3bU1qMGlaVU9XMnR1OFRkTnd4SjZMLTlJZUxfQUp2YkdFcjNpVWpNckFaVFFSdEZqcVdwV3R5M08wN1pTSGtHRWxoQTB5UXhjbldZT1kxQ1Y2eFNocGEwZjZ1SkZpc24zZW90NjFxQWtoaUZJaVE5UnlRdHN6cGVaT2JLTWxHNGxvbkZrU0s4akZtbzlqQzh3eU1SRDhNUDJzZXFkYzJUVEM0MWUxQVctSndmRjRuVV83WEJLUDZ6eGtfc1VZSGQwa2gxYW91eTlZajcyaGl0eFBna3lKZGZvZU5JcHpEV3hhWHVuN1dVc0VCX2tlQm5rLXBxWm4yWEFCVlJlONIB5gFBVV95cUxPaTA2Y3I5cXoxLXZRZHEyN2wtczcycXJXWnJfS0J1dENhLS05ZGNoUXpJSWpvcVFRX0pKalVIejhibm5WM0lVUGtPRHcyQUNtSDlQYjRkTEk1VFg5UGt6aHJGOV9XR2YyRUp5Sm9tbF9ZMUo1ZG1WQ01fNE16clVhNVZyRkVsQnppaXVsdUZQVmVteEt6dXFHbkJ3SnlzZkE0SWpJRjlWOFdUaDZhNHpNR0tEVU9GYmdBU1g1c1JNRWROR2duNTZZbkEySFJrdzF4NGlXOFY4bFFaWVYxY0hzcVBxd0czUQ?oc=5",
-      "source": "ET TravelWorld",
-      "published": "2026-11-26T09:43:40Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "36cd3c034800949469389d",
-      "title": "Car finance compensation payments explained",
-      "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T09:39:50Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg"
-    },
-    {
-      "id": "4812c5f234f3b32c358871",
-      "title": "Melbourne secures 221 business events, generates $321 million for Victoria",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1hHcTdNX1dmbFY1UGJGUnczdzJVMnFJTHRyV1lpakR5TVBMYVM1NzZfdmdBQmdBaUgxSDY1TjNXd1k2dVBaWG1JakpuM1JQaWlRQ2FuRGs3VlJPVU5HRjZXbzZlMWJRQlo5ak1QSFYzM1lhQW9iRmZOTmlGLUZieThrdk5zZEpZdUFkV2RnWXhiLVN3VngtT3Z2Q2dfTVFZa0tVVWFKM2tjNUlhMkoxRHlQSHpMYmI2Z0Y4RUstd0hNeXpCVTI5NTNYY1hXbXo0NEhHbXk4T3pyaEY0RUNpQdIB5gFBVV95cUxPaTA2Y3I5cXoxLXZRZHEyN2wtczcycXJXWnJfS0J1dENhLS05ZGNoUXpJSWpvcVFRX0pKalVIejhibm5WM0lVUGtPRHcyQUNtSDlQYjRkTEk1VFg5UGt6aHJGOV9XR2YyRUp5Sm9tbF9ZMUo1ZG1WQ01fNE16clVhNVZyRkVsQnppaXVsdUZQVmVteEt6dXFHbkJ3SnlzZkE0SWpJRjlWOFdUaDZhNHpNR0tEVU9GYmdBU1g1c1JNRWROR2duNTZZbkEySFJrdzF4NGlXOFY4bFFaWVYxY0hzcVBxd0czUQ?oc=5",
-      "source": "ET TravelWorld",
-      "published": "2026-11-26T09:36:15Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ccc80fc1544719e34383fe",
-      "title": "UAE Cabinet approves Agentic AI strategy, sets March 2027 launch for government AI concierge Mira",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTTk2LXp0WElqWkZJLWVZRkRWMjhHeVNPLXZsUTVzamZxcUR5UjViOERJT3VoanJxRGZ3WXYwQzFRSEk1U2ZBdTZRWU9QRGtmUTJMRDRJRHotZ2Q5c3VwLWN4SEF4NS11ZlNsOHVvbHZqOGhSQ0h0cGNZNktBTHVHT0NVT1NidzBIemJEclhkc18tb0FzZDhsWFFadmZxZHhRM2RLaXFNNlJGaE9uenJQQ2NhdjYxSVVZamFmOV95UFZrLTAtNGJPbC1CUEhzZk0?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-26T09:32:17Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "29f2b2d83a49bfb7f98c53",
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-26T09:27:44Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "1c70163843aa559cac269a",
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
-      "source": "BBC",
-      "published": "2026-11-26T09:27:44Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 21
+  "source_count": 22
 }
