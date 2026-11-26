@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-26T05:11:34.177498Z",
+  "last_updated": "2026-11-26T06:18:25.263541Z",
   "articles": [
+    {
+      "id": "7d3e80f8183678ccfeb145",
+      "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTW9UQ1JfVnlQTzVzV1lDUEhkZ1VzaVVuNnlGclhleUZPNmJjUEl6aUpiQTB4bDhmdFRxakQ4N0s3NGRWOE1vbjhvTDMwY1dqb0w2NzZTQXBRRDJ1V1ZmaVhiaWM5UGtjQ2hIMjBJWVM1a0d1ZTFlWWdfRlFTRTJaZDA4Yl9sZmVvS213OFdpOWxuMnBKajl5RzF1OHI0NlF4c0s3QnAzMmFLeEEtN3Z2Q0xhWV9ESWFFWUHSAb8BQVVfeXFMTzcxaWxLMDRRY1A3aWNxZFFIdGNtNHEzcGR0aFJjME9Xb2NvTWp4NTd6SlZHOUFreldKQUg2R3hJWmxvS0Rsck1WancydVVSTFpMV0hhUk9xaHplUkd6Q01pRkJlMWlWcWFHYVI0QW9LNll3cUVNMjlIM1RVTzRNdkc5ZlJ0OHA2dTZtSmtEdFhkRkRtdmQxZlBldDRxVWtCRzZPMXIwR2FYeVFoMmp2N1FFMlo0VUxKT0VKUG94TFk?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T05:50:25Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c6054eaf1763fc2c9516dd",
+      "title": "From India to Jeju, breaking barriers to growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBod3RsYmNwYl9CWFdXNWM2Vm45SmFNVWh3VmpCdWgtVU0wcktReEVaWThaM1dBbmFodXJiaEd5TVdZU1lvNV9oTGNqVXJEQS1hV3BxRkpDSQ?oc=5",
+      "source": "The Korea Herald",
+      "published": "2026-11-26T05:32:20Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3cc4cb3686adf05ac2d527",
+      "title": "PCO wins Korea's Scale-up TIPS backing, lining up 3.7 billion won for its AI video transmission technology",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IYWJWclAtQU5UUHBfYUprVWJvSTZIWnp3ZDNLTWZQVDNDRl93eHhLeXFGb0Q2dDZwSDNRRHgzbEUwR2lvTDFfbVhJRk5wWHgtcVlwTnNkUmV6NEIxcHZN?oc=5",
+      "source": "K-EnterTech Hub",
+      "published": "2026-11-26T04:17:52Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "be54e905a796b4cee0cd01",
       "title": "US announces new tariffs on host of countries including China",
@@ -59,7 +95,19 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "1523ec3c47bf3a6ca8a5f7",
+      "title": "From Shenzhen to Phu Quoc: Vietnam’s responsibility as APEC 2027 host",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWg1cmdGaW9VdG9RaFEtQWxEZzliemt4U2V4RDdMRU8wSDFrNVhCUUdINnBlWTJvUURGY1lSOXRJaFgwYnI1ZS1xeUM0dDhFakJvLXVuODB1SHgxTC1vV0w0QXB3bmZseGlFU2MwRHFJV3FVYk5UVllyRmJoSERaYU5Rekx3QzFnZDdzNEcxZmN1UlNrMGoweG5wczZIWFJZMWlxY015ZGJlUQ?oc=5",
+      "source": "Báo VietNamNet",
+      "published": "2026-11-26T03:07:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "fce630a2b39df32cc523f2",
@@ -142,6 +190,18 @@
       "published": "2026-11-26T01:50:05Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a204e076cf61ef7d8a04e6",
+      "title": "Dollar Steady as Sliding Yields Offset Safe-Haven Demand",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0pXRWNZNHlZUHE4cUhJeFJ2N3ItUnRFZXFJYUczRGNNcF9GdEdkWFhNMjFGc0gzTFVnQ2pOQ0VKaE5zTmltNFRETGtrRnJQM2NZWExacVRxUGh4OThRY2x5MjBDSVZucEtYTDByUEM1TjdkUUdubk1YODdybWNiWThvQWp5ZW1LdjNRWnAxTjFoMnVtOGc?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T01:49:56Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -264,6 +324,18 @@
       "topic": "BBC Business",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg"
+    },
+    {
+      "id": "1c70163843aa559cac269a",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
+      "source": "BBC",
+      "published": "2026-11-26T00:07:51Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "54e67f56863fdec143e46c",
@@ -429,7 +501,7 @@
       "source": "BBC",
       "published": "2026-11-25T21:43:18Z",
       "category": "World",
-      "topic": "World affairs",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -526,6 +598,18 @@
       "published": "2026-11-25T20:34:10Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "62ad9e34330880e762e86a",
+      "title": "FG Lauds Moniepoint’s Continued Investment in Nigeria as It Launches Abuja Regional Headquarters",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzZET0J4WWF3dnB4aWt5MXRaOW1hd1gybkpwRmxfLXdJekd4RHJsVFBYZVdFc0wxRzNyVWJrVmEwMkIzOHF1T25HZUtPT1cxSnJOVkViWG1SM2VwdTJmc05wQURaU01XaWZjM0VONEp2aUZxM0hiOTk2R3dUMVhmZFlpRFlPa2pQVFJIbFFtUy1aaUstcUJnUmszOE10dVpzNXRSSGxUMm14NklEQ3NCRXRhR25pb0luQmdDYTF2Yw?oc=5",
+      "source": "MarketForces Africa",
+      "published": "2026-11-25T20:33:18Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -746,6 +830,18 @@
       "image": ""
     },
     {
+      "id": "1061cb928b442d228f6a27",
+      "title": "RBI sees India’s growth resilient at 6.9 percent in FY27 despite West Asia conflict risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1pBa3VGRVNNZzhfQkthWS1XOF9sSmxzR084NFkyVHBuNXVzS1VRY3hDbXFCTDlfRnhZV0Zma1pHdXFPdkdIZ3hIMkZxZF8wU0NJTmFwYWRwS3B0WFBDMGhpTV9zazNMLVVtNHduRGFNeXpGam5SZGd4RWJXTnJVak16dlYxQW1nQzM4WUZxTHFQOXotUXQtLWk3MXVsZ0h3V2VtQXFhbS16NF9BdVNqMGY3aXc?oc=5",
+      "source": "DD News",
+      "published": "2026-11-25T19:10:26Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "cc6e960d226fca72222e0b",
       "title": "1Password breach leaked customer names and emails, but not passwords",
       "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
@@ -756,6 +852,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "4a7f858840c3c93af93c46",
+      "title": "Why Trump’s newest tariffs could stick",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-25T18:57:00Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "9ed88987e3d50e1ec702df",
@@ -910,6 +1018,18 @@
       "published": "2026-11-25T17:44:45Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cb772f9bff61bc2e5c6f7b",
+      "title": "Half of Europe's Industrial Firms Are Under Intense Financial Strain, McKinsey Says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTh6dUp6cW5nZm1rR2VwOGtFODl4NDFKbDVtYjEta3FBUU9ZU0NWaTVOY0FZbThtdVJCc1Y4amowLVFDVm02S0ppbTZNbmJXYVpqdmRLcVZ2anNrLTdJVG9HQlFfYlVFLUZuX1hOaUV3R2NaNXp6NDJ6Y1dER3Zia05mYkE1cE00cHlUaUxGMk4xQQ?oc=5",
+      "source": "Briefs Finance",
+      "published": "2026-11-25T17:40:00Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -1320,126 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/d52e8fa78cedadca70c70f6e59bfcd90f9e39367/57_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e61b8898cfa2fdd9d84e592e1e1fa317"
-    },
-    {
-      "id": "0af6d793eeb07a9f68849b",
-      "title": "Entertainment Week Africa Draws Global Interest From 121 Countries as Investment Appetite Grows for Africa’s Creative Economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUVZKNDBhZ0pjR1ZTY2Q5bEppeHdSbXM0czBPVTU2V1lSeW1CeWtFSEdiV1p4S2ZOTEpXS2RFc3lJRXVVeEV6NEl3dFdNTHpIaWZJTS1hcVhmR01IazlhVGlQampDemI3V3JFcEw3OWd5dlJSMldZbVhYM2tnVnI0UXJVMHB6V21LN1ZQVzNLQU93Mkk3NWhscWd3QTBDcXU1Q29HV0FTUm5GRUhCQ3JNcEU0TERGM1ltNEs4MDZ1b09jTFlvaTV5QzF0X1h3Z2NNN3BMY3FqUDFOVFlyU3lDUzNxQUxCRGJ0UklsMA?oc=5",
-      "source": "Brand Communicator",
-      "published": "2026-11-25T15:11:06Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "00dcbf37e519cb3f177fe9",
-      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
-      "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
-      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T15:08:37Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/allstate-GettyImages-2291452807-Medium-1.jpeg?w=640"
-    },
-    {
-      "id": "140a7e57f7db6e58be9154",
-      "title": "EU4Green Recovery East: free online course on circular economy for Ukrainian businesses now available",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnIzUUk4dl9BOEJsaUxMY0lfU2FiUUctcVZPcktDeXp3SjFsaGVBdU5sdTNGQjlBUWVsMTBhd21zeEVYa1RaU2tDOW5iNmRmVkc5b2VoQUNKaTNkRkJyaWI3YVlKWm11aFQtMWdiVkJUR3RVNjlXYmQxb1RJLXZORW04MnBhdVhoYlNnVG53OXBhNEhzak5ibmpxSlMxeHpONjNFVEFmVTZiTzdMVW5Zc1k0RGcwbGNwcXdyaFdRT095eEhtRURHNXkxSFNMb1c2dkIzMWR3UWtKRE0?oc=5",
-      "source": "EU NEIGHBOURS east",
-      "published": "2026-11-25T15:06:30Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "13cc079da006b95fc43d30",
-      "title": "Stefan Leuenhofer – State Secretary at the Ministry of Economic Affairs and Energy during Kenya-Germany Business Roundtable, State House, Nairobi.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM2RYano2OTRzSEhydHkyYmlPMzgtWjFxT1NEdC1SekhjVDR4YUI0RVZEQjhuemdjMDcta1d6Mm1LcTQzM0d6S1QzaURlODF2SHVHU3RrbnNGUm1td2pvSWRLNlpFOWtHTXFUbzJPUFZrUUpWTlQ4eUNEY19qU3dWdEtCdzNQNHA3VUlPX3B3VUNTNUgtRUhNYnJNZk05NnFfcWVFZF93WmtNQmZFb3IxWnBUNXNSNm9sMnV4cWdPX3RjVGdrYXp0dnE1Zk12TjczaC03em5ZQWp1QXJMdkE?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-25T15:05:01Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0c4f60e8a6166defb0a9b3",
-      "title": "The Verge’s guide to affordable holiday gifts under $25",
-      "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a barrage of fun gadgets and stocking-stuffer [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-      "source": "The Verge",
-      "published": "2026-11-25T15:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-25.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ffeef623d5cacc00cab9b7",
-      "title": "Trump proposing new tariffs on 14 partners including China and EU",
-      "summary": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European Union, that would go into effect early next year, the office of the US trade representative said on Wednesday. The administr",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-      "source": "The Guardian",
-      "published": "2026-11-25T14:59:44Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/1e62345f75c4b03ed8949417f520577e19e7e89d/914_0_5738_4593/master/5738.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4818ac36cef3291c38bb9b7059947de"
-    },
-    {
-      "id": "6f1e95d2e797edf204f487",
-      "title": "Chariot Launches Sovereign Foundation Models Under IndiaAI Mission",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnlndUZrNzJHRXl6V3M1N1d6b3lxUjdvMXI2NUVLQzlYakZSNGdFdmk3X1dyUEllXzRfMFhQRkNYZUs1dDJHTFRLYm1RZW5MZzNFVkZicUdXaEZuZG5FZ3NFTV94enhLaWVFMzQ2Z1VZZEw1OHZ2VTJVTUdOS3pCcnNGQlluVXpCRjRoSDRYMjRQUQ?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-25T14:59:03Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8c3cd3a2f07038f31d08e0",
-      "title": "Can Euro find traction as upbeat US economic data bolster hawkish Fed expectations?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOVNKRDlMR3JoNFNaVzBPUWpWTVlfWW44YnhNVkswZHViTW5EUjVZeWRNM0xMUmtueDk2cEliRnNRMFFVTmNEek9VQ1RSaXN6MWhCcDJ5Ykk0SWdOelAxbXZlRHdHcUJ2UXpUcDFISTY2MWdVWUNYa04tYUdJNTNRdTFkSlJnLWJKOXVPbFpmTFpyS2FJdTl3djA2Q1BaYjhmLU55Tk1qTkJBRlRscnhUWV8yQzVscnhWNjNSTkxldUd4ZHd4ckRELTZOeUp4bnB2cFQ4YjlCTVdFY2dDMEZxdlNGUEZ1REhI?oc=5",
-      "source": "www.tmgm.com",
-      "published": "2026-11-25T14:58:11Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "07a47c82111b5ca3a1005f",
-      "title": "𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 We invite greater German investment in manufacturing, agroprocessing, infrastructure, healthcare, renewable energy and digital technology, taking advantage of Kenya’s strategic position as a gatew",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUpObjdhMUphWUlIdDlwczFQRk5uVC01dHFoV3A1ODdUbVZpOGdUNEc2RlQxVTR2YVJnd05jVkJOTjRZQVFlWEd6SzI5bGI2SGR1TkwtVjZ1bHFxcVdkVXdIWGJ2REhMeGNYMXpDYU02ZlZkV0dUMVZ2d2RUcTMtck1NVnJsRU1CS0x5R20ydzJPT0JMd0tncldUQV9NbnFmdzRJNjZ4Q1ZlX3RmZnc0Q19oalVENFRKdE5yYkpRbV9ZVWtiZ1FJZ0lza0hJLWhtNWlzT3NEZFJ1TnVFOUE?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-25T14:55:58Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "407e4bff5a98fd1dab8cbf",
-      "title": "Earnings call transcript: Strauss Group posts stronger profit in Q3 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczVhRy1VSFQydXp6YkRhU1RkRFRHdUdjWlBNcXdxRzNsVTR6d05xUVBoX0JGOEFhRG5CLTlIZlp1OXRTNXQ1MHNWbWdtU3c4aTJ6UFJxdzRtN1B1bUZFWlBRRFVPRzhBaVRGdjV0MFFJbzQ3REI0MG1pbnRTLWMxdFZoWFJKd3ZGRDZKSDZTS0swWUx3NEYtaEJ3SGlkYXRyTGtNa3lMVGRkNE5HRkZhLVVwVjhpOVVoU0UwMFgta2EzRzB2dVE?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-25T14:48:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
