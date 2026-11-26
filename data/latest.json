@@ -1,13 +1,133 @@
 {
-  "last_updated": "2026-11-26T06:18:25.263541Z",
+  "last_updated": "2026-11-26T07:49:15.036753Z",
   "articles": [
+    {
+      "id": "fcba5c9d7e3f7593e60a3b",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T07:41:56Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "ab16224e8d1cd5dd506ef2",
+      "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T07:40:04Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "28f4dfedc640af1a20a2aa",
+      "title": "Govt launches indigenous Chariot-1 AI models under IndiaAI Mission",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDhRc1lIeUR4TUFnb2tkRUlCSzA2SFZ0ekxrbmpoTDNWeV9MMk95U0xWZVdmZDBiWnJod0pVU2NrVDRWSDE2ZXREY19jcnd3dFFDRWhYN3ZVbmJVTURScnpPUWRDUGRua04yTjlKcWJOd2NYX2RnVnF0bkZ5WWV2aWV2ZVBIX0ppUHc?oc=5",
+      "source": "Telangana Today",
+      "published": "2026-11-26T07:37:09Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a067c0da2f1d9669615277",
+      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "summary": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T07:34:47Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "8b6511b8a945cf9cfc3549",
+      "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+      "summary": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns,",
+      "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+      "source": "The Guardian",
+      "published": "2026-11-26T07:02:37Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ffd27c3386ac3237566a02659c8e900"
+    },
+    {
+      "id": "6962a5e66391f6c9bee342",
+      "title": "Should you have more China in your portfolio?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUZQN09nQlhaUnFKZy1uSUNpLUcyZGpxeVQzRkQ4X19fSENXZkdYQ2xWcGVGcjJWWFlQdm1tYWpheFM2Xy05WTU0M1FLRjlScUxobWJIX19sVktQOWpfNnhKY2xFQnpfRXVqUi1YQm9sVGJFRTRpdmp1UDBCbS0tSzFn?oc=5",
+      "source": "Klement on Investing",
+      "published": "2026-11-26T07:00:49Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6594562a6f8a9679befdbf",
+      "title": "AfDB, EBRD step up partnership to expand financing for Africa’s small businesses - Economy - African Media Digest",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUtpeTJlOXM3cm1SSUNaQWhQR294UExPLWZlcmhkVHZmdU85OXJjOEtrcFl4RTFaN003X3FDRlhqa1Q1dGpULXJWY1VDcXJWVUc0UWxzN0JFWkdaYno1OUVFcjFQZDg1eFk4QVhha2lmTWRrdFFaMXNzOERid01oUHF5Y3gzTXJTUHZLY3M5YnV1YXhlN1pVNVRDVUhlQXUtZm4tVHIwbzM5aXlrSzlxZEx1eFV6N0drQUVCNlB3S25UcHN0S2dpTjM4R2kyT3NKeVZnc054Zw?oc=5",
+      "source": "Ahram Online",
+      "published": "2026-11-26T06:41:17Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "14ce33c8a22a3249389b2a",
+      "title": "Chariot-1: India's Sovereign AI Speaks 11 Languages and Fits on a Phone",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMk1zaFFZT1RSYVQ3d1hkeUJiRF9FdWIyRldyS1AwYnJPSDJLcHBILVMySEh0TUZXalVNUTF5NWtKRWh6cU80MDdkU0dtS1dIS1FyYUhCYjdQVUJyNmhCR1N5S1I0TTZpQU03VFZKTVFLcFUxRFllazJwN0VKVE1vb1Z0SGpadw?oc=5",
+      "source": "Indianweb2.com",
+      "published": "2026-11-26T06:38:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "bd2ea5c41369555a7c2349",
+      "title": "DeepL Launches Aure V2 with End-to-End Speech Translation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ19rNWFxU1pIZEE0RTFyeE1Oam9Pa0Z1eUFDRVhSNWNyR3IwQ2lkczNnUjItSW00aTJyR2NhSXg3ZnltOTF0S2NLNER5US1Tc3J6SU84QThMd3I0cmt2Y1FyRFJfa2tPMDZaMlFlN3ZLSjhYaGNxSFgwQnY0Mm1TeEIyZW9rUQ?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-26T06:17:03Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c066efe013b55494c873d5",
+      "title": "Asia Stocks Rally as US Tariffs Less Severe Than Feared",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWZKb0h1RHAybVRXQkE3NVg0YVotbmZuMlBOTVVRVEtBaG5od05Ocm8wdk1HRGtfdlU4OHJMRkRPNE02TmdjS2Z0YVRGREEzd3MxVXZGUjU5RFVseURSbW1kS2NRN2xaeWtUcDMyeUgzNmJIZ2liazU5ZzhnZzZJdGJRWlpsVXRMY21zM2ZOMA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T06:13:28Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "7d3e80f8183678ccfeb145",
       "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTW9UQ1JfVnlQTzVzV1lDUEhkZ1VzaVVuNnlGclhleUZPNmJjUEl6aUpiQTB4bDhmdFRxakQ4N0s3NGRWOE1vbjhvTDMwY1dqb0w2NzZTQXBRRDJ1V1ZmaVhiaWM5UGtjQ2hIMjBJWVM1a0d1ZTFlWWdfRlFTRTJaZDA4Yl9sZmVvS213OFdpOWxuMnBKajl5RzF1OHI0NlF4c0s3QnAzMmFLeEEtN3Z2Q0xhWV9ESWFFWUHSAb8BQVVfeXFMTzcxaWxLMDRRY1A3aWNxZFFIdGNtNHEzcGR0aFJjME9Xb2NvTWp4NTd6SlZHOUFreldKQUg2R3hJWmxvS0Rsck1WancydVVSTFpMV0hhUk9xaHplUkd6Q01pRkJlMWlWcWFHYVI0QW9LNll3cUVNMjlIM1RVTzRNdkc5ZlJ0OHA2dTZtSmtEdFhkRkRtdmQxZlBldDRxVWtCRzZPMXIwR2FYeVFoMmp2N1FFMlo0VUxKT0VKUG94TFk?oc=5",
       "source": "Al Jazeera",
-      "published": "2026-11-26T05:50:25Z",
+      "published": "2026-11-26T05:55:44Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
@@ -86,18 +206,6 @@
       "image": ""
     },
     {
-      "id": "a067c0da2f1d9669615277",
-      "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-      "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T03:27:33Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "id": "1523ec3c47bf3a6ca8a5f7",
       "title": "From Shenzhen to Phu Quoc: Vietnam’s responsibility as APEC 2027 host",
       "summary": "",
@@ -158,6 +266,30 @@
       "image": ""
     },
     {
+      "id": "3f2cd9f41e7f3fd3df62da",
+      "title": "APEC 2027 gives Vietnam greater role in Asia-Pacific affairs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02dmU5allpNlgwZEtUZ1dGcWUwOVQ4YzcxaG9veDZtamVaRUlocGhtZ3pZal9GZHY5SS1qdjJ5eDdZelpZeGJkazJURlktYXpGcXpqMm5B?oc=5",
+      "source": "ຂ່າວສານປະເທດລາວ",
+      "published": "2026-11-26T02:28:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4b7649379d52fdd335175e",
+      "title": "APEC 2027 gives Vietnam greater role in Asia-Pacific affairs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xNVdOVW1PMU94bUVpempQeV9rUDFieXVad3l1RlplVElWOGo3MkVZRUpvaU0xM2RJb0FKYXF6eFlINGVaVWg3X21SZTBROGM2ZDJjeVpn?oc=5",
+      "source": "ຂ່າວສານປະເທດລາວ",
+      "published": "2026-11-26T02:28:00Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9bc74f0898ed141c82f041",
       "title": "Situational Awareness Hedge Fund Reports 65% Q3 Loss After Fees - WSJ",
       "summary": "",
@@ -168,18 +300,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "ab16224e8d1cd5dd506ef2",
-      "title": "UK government set to publish new treaties agreed with EU",
-      "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T02:13:00Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "4ddb95425306a9466fbb7d",
@@ -200,18 +320,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0pXRWNZNHlZUHE4cUhJeFJ2N3ItUnRFZXFJYUczRGNNcF9GdEdkWFhNMjFGc0gzTFVnQ2pOQ0VKaE5zTmltNFRETGtrRnJQM2NZWExacVRxUGh4OThRY2x5MjBDSVZucEtYTDByUEM1TjdkUUdubk1YODdybWNiWThvQWp5ZW1LdjNRWnAxTjFoMnVtOGc?oc=5",
       "source": "Global Banking & Finance Review",
       "published": "2026-11-26T01:49:56Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c066efe013b55494c873d5",
-      "title": "Asia Shares Rally Amid AI Concerns and US Tariff Uncertainty",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWZKb0h1RHAybVRXQkE3NVg0YVotbmZuMlBOTVVRVEtBaG5od05Ocm8wdk1HRGtfdlU4OHJMRkRPNE02TmdjS2Z0YVRGREEzd3MxVXZGUjU5RFVseURSbW1kS2NRN2xaeWtUcDMyeUgzNmJIZ2liazU5ZzhnZzZJdGJRWlpsVXRMY21zM2ZOMA?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-26T01:40:36Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -323,7 +431,7 @@
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "1c70163843aa559cac269a",
@@ -398,6 +506,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "da4eda492f54c053130403",
+      "title": "Inflation Rate Surges To 4.9% As Middle East War Casts Long Shadow",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YLS15VHFYT2l6S2JOYXc0cVR5WkhOdDBSS0JVeXMzMF9rWHd5MmNET3NfQ19rNmUyQk93S0Z0SFVPdTRya1VmMkkwVHkteTVkeDZ4TlJIcVpmbVRKb1QySkdlZ2l5UzU4cERIMVpQNjdNeVZfdDNtdk9B?oc=5",
+      "source": "Forbes",
+      "published": "2026-11-25T23:52:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "8842d637b0f0fbcccbea6d",
       "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
       "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
@@ -443,7 +563,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299a/live/007f6470-e96a-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "c91a30b4e6522b01bf534e",
@@ -516,18 +636,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "fcba5c9d7e3f7593e60a3b",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-25T21:31:10Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "0f200758c929f30f973abc",
@@ -792,18 +900,6 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
-    },
-    {
-      "id": "da4eda492f54c053130403",
-      "title": "Inflation Rate Surges To 4.9% As Middle East War Casts Long Shadow",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YLS15VHFYT2l6S2JOYXc0cVR5WkhOdDBSS0JVeXMzMF9rWHd5MmNET3NfQ19rNmUyQk93S0Z0SFVPdTRya1VmMkkwVHkteTVkeDZ4TlJIcVpmbVRKb1QySkdlZ2l5UzU4cERIMVpQNjdNeVZfdDNtdk9B?oc=5",
-      "source": "Forbes",
-      "published": "2026-11-25T19:38:11Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
     },
     {
       "id": "0eb775f636214d226a2af0",
@@ -1344,102 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a10800e04b1fe8bbe505f3b2eea0512f"
-    },
-    {
-      "id": "edace181ba8247b2e1f1b5",
-      "title": "Rethinking relations between the EU and the Global South",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDJHMmZnU1N6aUIySzVhYnlsd0JLMDBxSDc0OVd1Ykg4bVI1Zm5DMnBweGJyR1JubkdhbVFTMXFsVmh2X2RyNGNEbVlURHFOSWdzX29pS2ZndnF0d0s1azR0a3R3U1N5VEJ6WXZpUGwzRzFYZ0d3VkFraHNxTDBJTnA0U2hnUUhNMlJiUTJFVk91ZXhUaXNtTGdoY19hTHNaRDZIZ21fdHVPQUxpTWc?oc=5",
-      "source": "Real Instituto Elcano",
-      "published": "2026-11-25T15:46:01Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3e500e04dfa2ba493c9c60",
-      "title": "Canadian astronaut welcomes baby girl from space station",
-      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-25T15:41:39Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg"
-    },
-    {
-      "id": "de021846239e75cc6a9a0e",
-      "title": "QDB showcases Qatar fintech ecosystem strides at SFF 2026 | Gulf Times",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzJ6N0dObGVUcVFBc2l2YUs1WEdJYXRxNkhrdE1yNndlTVpwUGN4bHBGcFhDNnZjOTI2bTB4bDlxYmpZbjBvV18wOW5XdUF2ajNaLWYzRXRob3hYX1o5MTZKMDZ6eXRNUlkxQlFQU18yME5lVHRrYVFORkMyMHJ6YU5IbFpYTUNrcW9BRTl4UHZ6WGFXZW1nUFVkMVo1REFxZzdKaldxLXdvNTRlcDItcU130gGyAUFVX3lxTE1TMno3R05sZVRxUUFzaXZhSzVYR0lhdHE2SGt0TXI2d2VNWnBQY3hscEZwWEM2dmM5MjZtMHhsOXFialluMG9XXzA5bld1QXZqM1otZjNFdGhveFhfWjkxNkowNnp5dE1SWTFCUVBTXzIwTmVUdGthUU5GQzIwcnphTkhsWlhNQ2txb0FFOXhQdnpYYVdlbWdQVWQxWjVEQXFnN0pqV3Etd281NGVwMi1xTXc?oc=5",
-      "source": "Gulf Times",
-      "published": "2026-11-25T15:35:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "59be09ec3b7a5efcbb4edb",
-      "title": "2027 economic and market outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazk1SWlkR0kxVUJrdThCMmhUVi12eXJ4ZS1haHNtbmdMelRQN3RwQkd4RlRlaVhxOEhjcUtYMVdMZU5KeEFiMFlPVVVCaUtJdVlXS2N2NGVMSEFxSml5djNGbnlXQVMwVnBZV3lDMmRuZDcyVUxRQ1F2VkVHZGFGX18xNDI3clQ2N011ZjlaOEs?oc=5",
-      "source": "Fidelity Investments",
-      "published": "2026-11-25T15:33:47Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "66d83a738b840f080fd76e",
-      "title": "J.P. Morgan's 2027 Outlook: A Year of Moderation — The AI Boom Meets the Reality of Higher Rates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTl9sS01HdnZ0ak5SOHJOWC1fZkdXX0VZLWFjVmt3TlBmc1BOX3lrWkpHTjRaRmJybzliak95aTBxVEtWNTlHRTZvSVRNelZJUk00R3Q1eGtNamM0SGo4cGdZdEdGY19pWjNLTVBkcWduRHlJUi1xbTdLcVB1U2JVSDhQNA?oc=5",
-      "source": "The Dark Side Of The Boom",
-      "published": "2026-11-25T15:30:56Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ec7d726e8b64153783e547",
-      "title": "New York bans AI toys, including those using internet to talk to children",
-      "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold co",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-      "source": "The Guardian",
-      "published": "2026-11-25T15:29:21Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/c63cd1b6d68275d8461c1bc612aa99fff6a89fc6/344_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e3c98370ea0441e4255f17e16b95c54"
-    },
-    {
-      "id": "6fa2ecab31b0edab58267a",
-      "title": "Euro struggles for traction as upbeat US economic data reinforce hawkish Fed outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk1GT2x3dDJ1b2REWUZ0TXgxSWdoblpWN05fWXNVbExVMzUyWnNIdzZoYTdraVRGVmtSTndlblNabnQ3MXRKamxIMEgwN2VDcF9ucW1fZzZpRmFUeWZ0QUZQaTBNQm9XMHpBNndRUDJRNkFkTW44THMxdjlWVG9XRWZFT2xqblZFRDJFTy0wT2RHYTkzd29OQVprVlg1ZUNoeWZMR0RyaGJsQ3BrdFc4bURnSUpiQzFMZ2hJOFlqQ0FvSjk0bXBXZlpXeDRZOGk5ZGtxYjNRdkF2cUdNSGlPa2M5V1g?oc=5",
-      "source": "www.tmgm.com",
-      "published": "2026-11-25T15:16:21Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d1b1550ef46b5efe069199",
-      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
-      "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least",
-      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-      "source": "The Guardian",
-      "published": "2026-11-25T15:13:10Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/d52e8fa78cedadca70c70f6e59bfcd90f9e39367/57_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e61b8898cfa2fdd9d84e592e1e1fa317"
     }
   ],
   "countries": [
