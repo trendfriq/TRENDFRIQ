@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-11-26T10:59:34.678970Z",
+  "last_updated": "2026-11-26T12:02:12.961734Z",
   "articles": [
+    {
+      "id": "a77b5085c9245e54e54e40",
+      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+      "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from China and other major trading partners, tr",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "source": "The Guardian",
+      "published": "2026-11-26T12:00:22Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bd177a609f3fd201c7b0cc7f40d507c"
+    },
+    {
+      "id": "05cadaa4a6a3f7fe53f905",
+      "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+      "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving violation that could get a [&#8230;]",
+      "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+      "source": "The Verge",
+      "published": "2026-11-26T12:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/LA_WAYMO-FREEWAY.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "aa76240b301c8abe06ce94",
+      "title": "Govt launches indigenous Chariot-1 AI foundation models under IndiaAI Mission",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGE5aHkwcUljM0tMRlctbmZGVnhjeFhTaTViXzNDRjViWlJLMVItT3g4eU9sWUtHdEV1NGloU3I3UEZ6a2hvSVhFV0R5VGpvZkFmdktGTkJGTEpyOVBZeEEtUnVvWXBYVjZ3YzB0aEhyc2VoQmZDYy1fdEdMQVJiWlFTQWR1R3FpZW9pd0JZV1diZWE5YWVMOVhKQkFldkwteXE2eWRVQXpmMmM?oc=5",
+      "source": "MorungExpress",
+      "published": "2026-11-26T11:49:54Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c9eff6d29ac5901dd7ef64",
+      "title": "India AI Mission-backed Chariot-1 models launched",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3Y3MTZIRFBYelVkdlI2M3NPZHRaTEJYMTdhYkp5VUlvZE4zWEhLMy1rZ19DdXRFbUVuQnh2a1hxWGpqTGNkMzdvV2loS0czalp2bEdVcU9DeDNrSzR6UkhucjZ5XzZySnR6TTBKdlVxem5zX3RUVFhnU1dkNnM5amVYQTBLaWxJd253S2FGNkE1Zw?oc=5",
+      "source": "Communications Today",
+      "published": "2026-11-26T11:47:08Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a537e18e84916f22722c0f",
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T11:43:38Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg"
+    },
+    {
+      "id": "23184d4d01b1577e6a6c0c",
+      "title": "Harrison Spinks’ first Asia-Pacific exclusive gallery in Jakarta",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeGllWVJfRmJDSmtUWU1XRXdkeFNQWlZfdU9PQm40WFZDWHlZQkNLUVgycVFtc3VXenotWlpKc1QtMTJ4Y3czZGR6cXRYR1hrb244eTFVd3hZZ3ZuWkdyVXp2ZkdwbkF4UkIxVXhLLXNESTl1TkItN1JFOXNFTUZCTVl1MUhyR3ZnQW5DQ29ROA?oc=5",
+      "source": "Independent Observer",
+      "published": "2026-11-26T11:28:59Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "16a9a4cec15bb55bbdb909",
+      "title": "Drivers over 70 face eye tests every three years under new plans",
+      "summary": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T11:21:45Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be7/live/c00f1a90-e98a-11f1-9d1c-4dcc8fcde666.jpg"
+    },
+    {
+      "id": "5928f479bf0c601243a4e5",
+      "title": "China Securities expands Middle East presence with DIFC office",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0VQNTBRSUV2NDVGSGpEVzZGZTlwMWI5YzFfMWZOd1V6ams2a3Y4UnRGbmZMRlBHUTBjdDJWVXlKSDBFQ1NsXzNISjFNYXZSdTVhZEphbWhnT2FkeEhDNG9Vb2hoNThWeGNZZ19kTWYxamJnTGRLcEhfaVZ2SmJTVGVDa3hSUWNkYUI1YUJtV1ROT281NHZZcFcxZTlmZ0NOaENZTE1HYXpuVlk4cnc?oc=5",
+      "source": "Africa Business Communities",
+      "published": "2026-11-26T11:18:05Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fd26270ff810b70f0aaf73",
+      "title": "India launches indigenous Chariot-1 AI models",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMckRSV09mTVFxeWlaN3ZNTmR3WlFYUDJHaHpsVzRKRzZpY005bDIyYS1hNjY3VlNCR2d0bXlCMktRWjh6UFNXZkU3MEdRM0dnSmNub085d2o?oc=5",
+      "source": "The Avenue Mail",
+      "published": "2026-11-26T11:17:11Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b07c161c6e5e1d200fd64a",
+      "title": "CPI Advertising Networks (2026)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LVXJHQlZYWXRxcFZPb3lmcWp4dzZNd3pwVHpNdlhMTjhLaXE3Y3BtR01kVFhUZXZFUXpyQ2lLZkJqZkdkSXBPNHdtb0JFNU9vMzNlWlZZS1lpX002ZXgtVw?oc=5",
+      "source": "Business of Apps",
+      "published": "2026-11-26T11:16:26Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "95c56fa4f1ad061d9a41c1",
+      "title": "India's AI leap: Centre unveils homegrown Chariot-1 AI foundation models built for Indian languages and gover",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN0gzdkw3ck91SlgxMFA1bUpXUGlWTlp2YjRRVlhDRGxsVmpwZk1jMUctQkZRNDZTNUNIcTNRZUVKdnVyNWZScVNaVk9lVzdhZGE1TGR6bkpVakV2cW13a0hhWmgxQVJBR3VpMHVDUGIyRlY5cjFfQzR2akI4ZkJCQzVxd0ZINHVHeEZ4blBvRENDaXV1TnVhMW03QUF1bjk2TjVnYm5CdUY5Y3Q0eEh0TUViZWU5NWozZHVPSmtiN1Y2Q1BCWDR6dU9rS0ZNcUVyTUMteFFnUXNfejhRS3NLMHhNSl9xRW5VcXfSAe8BQVVfeXFMT0wxR3pjNEp4MExKRjlFUTQ5UHpCVmlHdFFNRUh2UXU1dHV5NzlWc3dCMHpNYWdDWGx3SUVlMmZFS0FoSWY4RkdmOHhUYV9FQzNpSndVTU8zMVNiUXEzTTd1S1lqbGUwQ3Y0VDIyMUJwVmhwUEtESFBxbGpoc25xTTllR1NER3FnZUNXOFlqVFpQMER3aWhjT1ZNUzR1X29DWUt3ZDd1dVFncmdQUkNZTl9qcXBfbFNYWDhLRkJBbEVXMHJyMDZEZDFGY0lDZ1l3YnBvcmFxWnFEU0F6MTJVQXdIUEJBQkhCSXpZYTEtNm8?oc=5",
+      "source": "India.com",
+      "published": "2026-11-26T11:08:49Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d42c7b057b7d98a9d515d1",
+      "title": "S&P Assigns Saudi PIF First A+ Long-Term Credit Rating, Stable Outlook",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWgwSFBSSGxEMzVzSmtGVnZQXzlLeEVCQzRKQVhIcGVQWXN0blRMOEs0VGxsb2tmVnV3RzlEQ0JJZF9OZGhLY01JTDAyekUxeC0yZjluQzBQc0JldTFlNkpjLVlaVkdGQkx2dVJZSnBlcHNwTWNVZlYtS0QtZGJ3VmExblB6RFRmb01BREU3d05nWHQyX3lrdmFZMjNZbklkRkREVHN3MEs2Nzhua0ZLOUdZZw?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-26T11:05:17Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "7cf041493f5f1dec2adb84",
       "title": "Adesina: Africa’s Space Economy Requires $50bn Investment",
@@ -12,6 +156,18 @@
       "topic": "Africa",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "dd248cfa5dd6f290e48b96",
+      "title": "X is finally getting its first parental controls",
+      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits, require approval for new followers, and limit [&#8230;]",
+      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+      "source": "The Verge",
+      "published": "2026-11-26T10:45:50Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "cd015df5de356f50605df8",
@@ -35,7 +191,19 @@
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d4/live/d044d390-e990-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "c2cda04dc49edbd4d5b92e",
+      "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+      "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “ou",
+      "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+      "source": "The Guardian",
+      "published": "2026-11-26T10:00:52Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bd61685d30e35ab1aa8a2d7f24b9108"
     },
     {
       "id": "0b032116e10466e07e3bd0",
@@ -72,6 +240,30 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "8e8ceb7aac957defd8ab0a",
+      "title": "East Africa’s second-largest economy emerges as top destination for Chinese solar exports as imports jump from $5 million to $576 million and panel shipments to the lucrative US market surge",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEVHM1B5T3pvUEZnRTMtR1RiZnBTa3VmeE1aX1lDVjFHOXBUV2xzTGZUSF9vTUowWFdUdUtVaUw2MUNWNktMQkhGQzV2WENwRFRMRmV5UEtpbGQ0RUpza0pzX1ZNMVlFQmF6TjJuUWl2SjBQd3BPMEgxNUJoSkxyWVJOZVpmWkJDeGNZNkdNY2Uyd3ZnVU10aWw0eFRscy02UlhkeGFwc3BTZEI3Q1ZMSmt2bGpBb201UGM5aWYtbW85dmpQRUVmRjk4dmh5c05fQ0Vz?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-26T09:54:07Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b506101c57cf316176f819",
+      "title": "Commission prolongs State aid framework to support sectors affected by Middle East crisis until June 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYTlQNGxDYzI4Q2pVaHBFOUlWY0lYbTRuQWdQY0RKel9tR2xxYzZmT3lNU1NCa3FQaFNWaTQ3NktMdVN4b0N2LW9icWI1RGpyNlFjLVFxdHVSR2J6Wjc5MXBydlZSS0ptZVJKMk51djNlQk5hR0d3RFVtczVaLXpXVE5UeXFRSGRRV2ZaeHJ4U1pmS0RKbU9oVTAwZG1nUHdpTDJER0ZUbGU5LUE2RFNEb2JrbEZDTU5KODIwMDZRcmN5RHlScFl1MDFfYThBazBDUV9XYkdSM1l1SE0?oc=5",
+      "source": "The European Sting",
+      "published": "2026-11-26T09:45:49Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "12589f33f7cb0c455a1682",
@@ -153,7 +345,7 @@
       "source": "www.wam.ae",
       "published": "2026-11-26T09:19:54Z",
       "category": "World",
-      "topic": "World affairs",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -242,6 +434,18 @@
       "image": ""
     },
     {
+      "id": "b2f3af08e0bbc7e3f67425",
+      "title": "India launches indigenous Chariot-1 Foundation Models to strengthen sovereign AI capabilities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeXp6SC1UZUFtTEhfSXoxVGRvTkVWTkpldEFheHFNVlNia1lfUUpReEZ0NG1EeVNfUjFmb3RDR2xmSnU5Nm80YWxlbWwyV1RERmoxRmlmcVpTQ3g3NHNVeDBtLWJPRDh4cnJYZW83LVlibTlBVTVYb1JzRkZHaTNDSHhkSUhqQmc3X0ZYQmFfSy1YQ0gtWTB4VUZ6clpBdzRNNG5MRGphS1RrT1NTZkZjUDF4Y3owaFk1MkkxMjFpTzdlSmpKQTZsUzQxUkYtd0VHeFotTTE1WExNdzg5cWZlMUZrX2lfT1NLM0FzX2YyWmZ2UWhFcVZvVk5SMkJHYUVzNGdz0gGIAkFVX3lxTE5zQzNlTlFBMGljRHFWZW9zT0MwNmROeVRPMVFIWEZVSXJpbXRpZXpWbDRJMGplNGxmWjlkNENKank1a3Y4X1JWNVhQS2FoWWdqelNuZDEyZTcxUUREYWxDTG9vUS1BTEdwUFBfakFwdE1qd3Bnb3lmYjQwUkxtcXFrZ2hSeldtTnpHNFc5NlFhdWplTVlDLV9fQ0RYMTAzYU96NXRkdHhTLUVkWnl2Qm8xcngxS0FjT1lMRUQ5ZGFiMTJ3SXdFb01fQzhRZEhRLTNhY2FSQkFieXc4UmoydlFMTVRKbUstNWl1UFh4eXFLN1pFYTFfUDZYSVFRTDZIS1ppcHl0UEhxUw?oc=5",
+      "source": "ET CIO",
+      "published": "2026-11-26T08:30:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fcba5c9d7e3f7593e60a3b",
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
@@ -314,14 +518,14 @@
       "image": ""
     },
     {
-      "id": "3b6ab53b8611b22faa908e",
-      "title": "South Africa deploys trade representatives to secure investment and open export markets",
+      "id": "528941952c0c5b2cf0446b",
+      "title": "India Unveils Home-Grown Chariot-1 AI Models, A New Chapter In Multilingual Intelligence Begins",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGVidzAzRU9WUUNkajRGRjREOHc3X2dPc0w1TnljcUhKcDFnNVRqOUtxMkMzWEl1YU92ci1idlZQNDkwN0dOXzRxYUlTRWFKLURLRk0zWVRKbU9wTVUtT3dHcjFXM0ZDZXZDUnhiTGpsZjlXVG5UNGVRQ1lGOHVvVUhjaUNTeUQ3X3lZRzhxTWxKZVpHQ3YxOFhRY2VjNThXOGpqNHEtalZ4VU1QeXZEa0tkOVZvLTFKUzFEMVV0cWRlZTVaVXpGNHotWTNsaVU?oc=5",
-      "source": "IOL",
-      "published": "2026-11-26T07:53:28Z",
-      "category": "World",
-      "topic": "Africa",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnN4S0VoU2NSSENTS2tTaUdESDViNGhKMVZTYVdnNmZNaThmcmtSTTRKSG9pS0U5eXZjODRkVWQtaFRVQTRpZ09ial95bWtSa2pwakZNVW0zRWZVNXFMYTMtaDM1QU8yTjFxaDhQUE5pYi0ybmI2UHp5LXUxWUpJcXJJWklmZ25aY0RZZ2tlOGoxSk9pWC1VYkRxWG5KU1daTW9DZXUyT3lqSmoxaGhQcGZXZ1JkZDBGektad1BlaWItVEdxcHV1Ql96TlpUTFM30gHWAUFVX3lxTE5wZ3ozMzkwOUo5cGxHS194am51Qm9ZenI5ZVpYeWtOa3gyYkFBcEo2RlpQeXdDNTNycUt5Nk81ZXpZcTdwZ0ZLay1hN21UdWtXX3AxdTJibWVyVmpjaUVJd3BQbUZvaWNBVkU2VVB2akg5UkVDcXl0dF9sQTVrSVBONDc4RDhJQUE2RmJJMUdBQUNWc1JVQ2U1SE55S3podlBFNGN5R1BiRS1iOFYyeDExN3dPOTlXVllEbWFXRklCZ0hyNi1LT0VGcjJ1VzNIWW81MjRsSEE?oc=5",
+      "source": "Free Press Journal",
+      "published": "2026-11-26T08:00:43Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -344,6 +548,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODJBcVdBNERCZTVMcHI3YXFzeHBpR2FGaEYxS1dIQUFQdXMxRXdSaF9QTXlPamltUjZKdFUwTnJKbVBDcjdJSmtoVXVScWZSR1JFRjg1T0d5UGhrd0wxV0pUSGZ6S19lWVdhYW5zOVZEMWR1WHhLR1FXM29xcFAydC1pNHFPN3NIMm1KUDVXSzRMazVFbm50MEtXUTdETFdrWWR6eFdRSTY?oc=5",
       "source": "Africa News Agency",
       "published": "2026-11-26T07:51:50Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3b6ab53b8611b22faa908e",
+      "title": "South Africa deploys trade representatives to secure investment and open export markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGVidzAzRU9WUUNkajRGRjREOHc3X2dPc0w1TnljcUhKcDFnNVRqOUtxMkMzWEl1YU92ci1idlZQNDkwN0dOXzRxYUlTRWFKLURLRk0zWVRKbU9wTVUtT3dHcjFXM0ZDZXZDUnhiTGpsZjlXVG5UNGVRQ1lGOHVvVUhjaUNTeUQ3X3lZRzhxTWxKZVpHQ3YxOFhRY2VjNThXOGpqNHEtalZ4VU1QeXZEa0tkOVZvLTFKUzFEMVV0cWRlZTVaVXpGNHotWTNsaVU?oc=5",
+      "source": "IOL",
+      "published": "2026-11-26T07:50:55Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -502,6 +718,18 @@
       "published": "2026-11-26T07:00:49Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "edc2e2d51a3ce0fac2aac7",
+      "title": "India Launches Powerful Chariot-1 AI Models Under IndiaAI Mission: Here’s What’s New",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHNMbzFVSDY1RHFmTTEyLWdIZ1RtN1pEYXlveF9BbmZDMVVVWG5CaEQ0QTdyak0yN1BuNktKc2JBTEp3SVdpVmVnR2ZabXYwM2Uxak5TN1RzSWhaU0s5NDFkV3FHOG85cVA0VWRPREgweUFIQXk1RlVVMlRtalBfQkY4N3BlVHRHNUFOdTlOeVoxSGdNdGZDNQ?oc=5",
+      "source": "Indian Masterminds",
+      "published": "2026-11-26T06:46:20Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -722,6 +950,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg"
     },
     {
+      "id": "5f663edc0078e568a43914",
+      "title": "Google Launches One More Pie Web Game",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtd0hRR2NpTTN5dVZXOGt4ZHMtWFp5X09DdDVIdEFHM0dnQ2RTU1FNaEVtbTFzUGNmVVRzLTIzYXVCaWhWdUt5aWc1eWJ4RVhHQmxVNzF1SEl5Q1BpaGVRQWIyNUpiSjY4S3FnRG5tR0g2cVlBQXdWc2Q3dGh2VXc?oc=5",
+      "source": "Wisevoter",
+      "published": "2026-11-26T04:03:21Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ec5d26e3eec65e4242b14e",
       "title": "Quarterly Earnings Review: Mixed Results as 53% of Companies Report Profit Growth in Sep-2026",
       "summary": "",
@@ -862,6 +1102,18 @@
       "published": "2026-11-26T02:15:00Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "47494d312c3e66510c2557",
+      "title": "Introducing Surfers Music Hall: A New 2,500-Capacity Home For Live Music On The Gold Coast",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWNHT29xcjlKRXdhUFFaUGNSNFUzeTNiZXRWYmlITUVLVWw0THBoOXAyVlFzMWw1ZExFcGkzcFJHUEppOE1DY0FJalVMNDh5V1YzOE1tNjhROE1BclFZclczMkkzeDVfcW5WUlRvMXIzemp2T2toTXpuUlJnTkZRZk53OUh2RG5qRlRpd0haRGFuT3drSERfTzhYMmkxTkZucGJ4dXRuQlZpV1RtM3AwS2pDUW1tU01LT1JUX1RfTHh4cW9KNzlkZUNEbHQwT2ZR?oc=5",
+      "source": "Live Nation Newsroom",
+      "published": "2026-11-26T02:04:07Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1118,6 +1370,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299a/live/007f6470-e96a-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+      "id": "52ae57ea6772c113fa0f46",
+      "title": "US economy roars ahead in third quarter, inflation remains high in October",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-25T22:06:55Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c91a30b4e6522b01bf534e",
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#",
@@ -1174,270 +1438,6 @@
       "published": "2026-11-25T21:43:18Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "997bd4701ae567b8e8e03e",
-      "title": "Crony Capitalism In The MENA Region: Political Patronage, Economic Inequality, State Capture, And The Crisis Of Institutional Governance - Analysis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMVdyR09fWG5PbWFKUEo4c1dGeFBIOVJoRFdKVFYwNzdnaGprVHliMkNBRDNreFdyeEg5STNUXzYzblltNS1DMk0tVkxiOWpEZnBVczQzdGpoZm9rc2N4RzIyYWMtQnZUZEZpd3BQRUNFZzNOQm16MDlTajFScGE5enM1c1RQazBPMEpKX1ZvdDhqUjJBX1lOSUZ4UWVId1k5d1lJaTZPWDM1VlR2M2NqV2hJeS1DLV9YRVZjV3BzenZYNkg5N1hvNXA2eW5CNlBTYVBWUVR6TnktTGZxb1k4N3BIRHdxc2oyRjRwTHNlRG10Q1h3Zmx4NGctNWlnWmV6Tm5kd1dreDZOc25IaFE?oc=5",
-      "source": "Eurasia Review",
-      "published": "2026-11-25T21:41:40Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0f200758c929f30f973abc",
-      "title": "APA NTA 25-11-2026 $3.58090",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTVjZ0ZiczlseGVQeENYN2RySGU4UHY2YW9kM0FNMVJSVmE1ODd0WHNrOFh2cGVKV2RvNWcybTRkS0pqQUFCbEdNSFltazV0NG80d2otM2pPa2FZMnp6c1Ffd0tsZElsUUtwYUhoVDgtZlF4emlBUGI5MkQ3dmxBZVRpSXU5ME5x?oc=5",
-      "source": "BusinessDesk",
-      "published": "2026-11-25T21:17:24Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "25b2d2d7a6e19234885cf2",
-      "title": "Egypt’s Finance and ICT Ministries Launch AI Hackathon to Engage Startups in Government Innovation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NEpCZDVPT3dMcjlfaG5saFlLbU9QMzR1by1SeWp3SERWM05JWWJUZUJMMHROTmVkNExfekNueXpKMC1aQks1dlYwaW1rVVNDRlc5TlhwWjA1Zw?oc=5",
-      "source": "mof.gov.eg",
-      "published": "2026-11-25T21:15:27Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d129f172af888a08d13e8c",
-      "title": "HP Inc Stock (HPQ) Closed Up by 11.49% on Nov 25: What Signal Does It Send?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjJYenBtUHBIUmFpWlJabTR2VFM0LTZLdW5sVGtITnhTOWUtMFJfRGE4ZWFQWHFsdUI4SElUVzZuVks5NkhjcW03WjlTLVc2MUQyQks0eTkyMWdYMDljZy1SbkN1UHhMd2Q2b25UQlc3TXJ4TjQwLVB2blBzdUdiWU1lWllyalMzSHc?oc=5",
-      "source": "TradingKey",
-      "published": "2026-11-25T21:15:26Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cecacbdc275020c7eec6bd",
-      "title": "FCC approves SpaceX plan to put AI data centers in space",
-      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T20:56:44Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801"
-    },
-    {
-      "id": "fa4bdee15eadc58df70b65",
-      "title": "NBA Europe push targets $11 billion for new arenas",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTjBJeURZWGlQLVRCSTdIX1FuMXc5Y1BFbk15MTVLakZyNzAwZENBOW5rQmd6cWJNQ3ROX0NhZTE5enkxWU9WQ2VVUEZSVWt5S2g2eWIyUnVNcHVYR201WnZScXBDTDhCb2dBZUlVTmpVQ3ZjU210LXQ0NGQzcTVVUWx4QlB6MFZETUUya1RMY01icFF6Nmc?oc=5",
-      "source": "Yahoo Sports",
-      "published": "2026-11-25T20:47:03Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "215a720e7ef980c79b812d",
-      "title": "Why is HP stock one of the top performing stocks in today's session?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdWVNYXdPYWdSYXYzUnNVNmtDeFVWNlk5bXZNTTFOTVl2YmlHQXFnbmdYX3Y0Z0g3eC1vMmpaNWhOOVB1R185S0UzT0E3T1Q1SHVZWG9SMXZRZWIweF9EMUFSNGVHUQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-25T20:34:18Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f47a04395287f496021a61",
-      "title": "Why is HP stock one of the top performing stocks in today's session?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1JaZzF4WDNTREc1S1h2Rm1JZ3oxOXdBMVRyVlJVYjJpZFh1THV5bEdERHdpYzItR2Fkd0Y2dEFtdUNXU01kSENQWndtZ2UyZ0cxTlNtWkRxWWJsbFh5dGJzcnhXM214UWpNUkpsajBoc3A2aXBGUnhodUlsQnZmQVJuNFQ5azNFbV9SNjNpY0tCTTNJd1gxMzJfbE11UW8wMl92VnpZdUIwZlhPWlpNcmEwWGFfSGNHaWYtcXZGLUJSUQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-25T20:34:18Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a17189e0bc91ff2e8aaa47",
-      "title": "Lakshya Aerotech raises $269,000 seed for indigenous 'physical AI",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajFZRVFDMTZzN29VNmVpemhkYmE0M0Zib1Q5VnBXZ3gtY2Y1LTRkWVRHWjdPZDhReEllM1ZtQU90MjdLNjItVmduTFU0NHNhTjdxNnZhbjg3MW5iRDVXSnRqUEFhVlh0TzlNMVRKOWdJZS1iLVNNMlNCdVRUT3d5aEtXWDBjSGY4MGhMREZsWXRjeWRiRy12SGFVbXZXZw?oc=5",
-      "source": "Dealroom",
-      "published": "2026-11-25T20:34:10Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "62ad9e34330880e762e86a",
-      "title": "FG Lauds Moniepoint’s Continued Investment in Nigeria as It Launches Abuja Regional Headquarters",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzZET0J4WWF3dnB4aWt5MXRaOW1hd1gybkpwRmxfLXdJekd4RHJsVFBYZVdFc0wxRzNyVWJrVmEwMkIzOHF1T25HZUtPT1cxSnJOVkViWG1SM2VwdTJmc05wQURaU01XaWZjM0VONEp2aUZxM0hiOTk2R3dUMVhmZFlpRFlPa2pQVFJIbFFtUy1aaUstcUJnUmszOE10dVpzNXRSSGxUMm14NklEQ3NCRXRhR25pb0luQmdDYTF2Yw?oc=5",
-      "source": "MarketForces Africa",
-      "published": "2026-11-25T20:33:18Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "993a4a76b8db31f9284e72",
-      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [&#8230;]",
-      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-      "source": "The Verge",
-      "published": "2026-11-25T20:31:48Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "d92f7fd9ef597f14c007da",
-      "title": "Volkswagen to cut 100,000 jobs by end of decade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhfNlpDanlJVVFiX2FlOWotdUFRNUdVQmk3eWlGbWRzeDNLNlBKSUdtNkphMHEtUk1nTkN2RWxRbVVtWjJaMWJfV0ZFS2dNVVRCVjlTUGkycUNvdWtTUTlYS3BqV3JtQk5DYTE2TU1sdF95WEEzd0FmUVNvT2ZDeFpfcC1Ld9IBhgFBVV95cUxNdjRJZjg0RkpZbzlGTHdPWEF6WHFVOU1pRUk4dE1rcXdIWHlGcGlacnRyWEctc2U4UTNqMUdUQ3ZIbldrYmdyeHFHQzFTMmFsWHluNUFVV1FJRUlsZTBIaU5qTDVoMUFUcEQ0TFppZE5lM25DTzMwc05YU0s0LVh6cmVLYm1GUQ?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-25T20:27:48Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d4cc56dec42331549cf083",
-      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
-      "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, ",
-      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-      "source": "The Guardian",
-      "published": "2026-11-25T20:20:23Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf4e54bf6a462f4c6c2d5ad8521e41aa"
-    },
-    {
-      "id": "44b7954736fae502dedaa9",
-      "title": "EU extends fuel and energy crisis aid for businesses to June 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SSW5tVlBkOThtR0kzSU9fN0I1UWJGWGppd09KS1RqdTJKd0pXV3daZlNqa3JFRjVoVkMwdXlpMndxM3kyTEpHTEs1cVh2ZEtZMklPT2JIUHY4eWNDcXgtZWlvUXNObFNZS3htdjhLUQ?oc=5",
-      "source": "CEO Magazyn",
-      "published": "2026-11-25T20:19:46Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "742afb4c0c06129dc9db14",
-      "title": "Foreign investors urged to invest in Turkey",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWpNVjVqTnlkZ2FvSXNMVXNRaTJjUDg4LWtYTnF5MVB6ZFFhX21URG1wZ1lSY1NjUGlIZndNbWZuUktEZjRpa1gzNTh4TnZUMTBROGw0UGptMTlmNFJBRmlsSGNlbDhwWW04d19xem42MnJiU0hjZWlZZV9qZXRCZUlESkxIemtOSVRFeg?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-11-25T20:12:50Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4e045cef4403869d86223a",
-      "title": "3 Income Stocks For Higher Rates Including BlackRock Stock",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZTFFLUJvU2N6S3lUeDZKOTA4bnhycEdpNHN5TEdMTUxXME92UFhUMEpFXzFYVGdKbFlqaWJ6WVZLcERJWXI1TXh0WGdNMmNLZzVMclJaNUE1R09VUlEySHFxS1JJMkNIdEg0R0d4OWRZNFZjSDFvVXVUUnJNVEh1ZzN3UVFiY2UtWkkycFBEaFFXalg4Mm9NX2kyWVFDTjRmeEUyZFVrT01ZZzFDVEVvby1mTjJ5eHZMRThheEZSTGtVQ0pudkRpQlJiN0RVbWU4blRBZW1OSzRfVm83a01qTDdlRGnSAeoBQVVfeXFMT09tZkFHbEs5Z1NUejZrUTJ3VS1sWjA5T3BTQko5LVMxQURzbDZ6VXVCN3JxOTBjS0ZaVmQ3bWU5amxEcEI5NVoyclNXWHZBUWlGSlpaN21EYlpBZXE2SjBoazRvMjZDUG9oNEVxQ3pkRGtIQlZfSWNkN3YyX2FqUXV4dktxNHNBMmJlVlNxYVBUdDVDNW9vT0dPS21ibF9MT2RSUXFtYjl4VFF6Nnd1ZVhGSUlOMGFUNWZFbHc2bmk4Q21FaDRrZFdxN05SLWh5R1VLVm8zMkFZY01vOG5OUldHN0ZUTG83M1Vn?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-25T20:12:44Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fb19c642f1b7558434080e",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T20:03:27Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800"
-    },
-    {
-      "id": "81fc1af32131e38d551815",
-      "title": "Morocco Secures About $2.2B In Public Backing For Defense Industry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXJzOU1GN2h5ZGkwNGEzSklNa3R4aUQ5b29MTElnUWxIYk1rSklMY2VQcmNNRzBrMkRvU3k4alRmdFBVMGhsVXpQME5UekVKbHZWdl9KeVBmaDUzUDM1dUM4YzVXNTEwbDMwN2RsZ0NnRjhjYklNVENXbFdJSGxJV0EybWRMMmU3SmI1cG1EZnlHTk8xVGNPQTMxZDdIUDc3VTJHMnZleUFrZi15Q3M4QXQ0MGc?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-25T19:57:57Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "875f93d4f61775b7c8483e",
-      "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
-      "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand , in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built ",
-      "url": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
-      "source": "The Guardian",
-      "published": "2026-11-25T19:57:49Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/791b8933a92292555c629c4bcc1e8056243c898c/0_94_3742_2993/master/3742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ff2f5a3479dafefd1edb7fe9cf4817d"
-    },
-    {
-      "id": "74d99a307b5dcf28e29d1f",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:54:57Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
-    },
-    {
-      "id": "70b9acbfbf9a7e478cb330",
-      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
-      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:54:32Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800"
-    },
-    {
-      "id": "86f5c9a6ebec97acd1e838",
-      "title": "DOERS Summit Dubai puts AI, innovation and investment in focus",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1Exd3luVEhsalU1UTUteFVXeWJwTEZONmtDTGxQWVhqelBYSmxLNjBLLVkwSnZjWnJfMk4yWVpkaUIzclZvMFZkRnAxZUwwMFQ2M0c0SWpZV2IxQkRzc2tOMnJUZkRiWE1HTVRsWlVacDl5eEpaejVpNEUyR1paSzBRRWg3ZDltQ0VRSUNWNlRsOGJIUmdibUw4R1BsdjQxdnc?oc=5",
-      "source": "ARN News Centre",
-      "published": "2026-11-25T19:48:31Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
