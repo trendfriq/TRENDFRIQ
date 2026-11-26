@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-26T14:35:04.756790Z",
+  "last_updated": "2026-11-26T15:37:57.412055Z",
   "articles": [
+    {
+      "id": "ab16224e8d1cd5dd506ef2",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T15:23:17Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "5a12d8427988c91984a84b",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T15:17:18Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
+    },
+    {
+      "id": "0989ec78615403f939d0cf",
+      "title": "Column: China's vision for Asia-Pacific cooperation resonates in an uncertain world",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZMDZrM3RObGVWbUFoR2J3ODFvQU92UkFTUDg1RU1QeExkV1hCbEpqNmpSWTlaTVBXM2NOS0NfQXpWT2wtX1luVEJsVXhfTHdqbGlDV1FPS2lsdEdoMmpPZkxPMzloeEItOGtlUUx2TkNYNktzOEFSakwxTW4?oc=5",
+      "source": "Xinhua",
+      "published": "2026-11-26T15:14:15Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "02ca81ff71ab89fd4c5aa3",
+      "title": "Norway's Fjord Defence sees military spending boom outlasting Ukr",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnY4aXkyalVSM1JVamlpOXo0THFIQmFPQndhT213d09PcmFYblZ2S3htTVJ4cUhvaXQ0elFWR0ZPWU40YndrM2VscDBveU42V0MtWnJMV29xeFkycHNaaVEwYkRRV3g2Wm52YVhHYjFobmdfSTBmeEd0V0hsczZhZ3JmbDNFVnVjZ2xWSEdyeGxMUFVNSGNuOGZkZHZhX3dsZFY4?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T15:11:40Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "26fbedb310eec0807aad77",
+      "title": "Post-midterms Trump remains a striker—always on offense",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3dXUDV2cl9QV3FVNFdYWHNKVGxMS0xFeVJKMG9BRVljRk9xWnJjMWJ3SF95Q28yMlM2XzlSVkpoRjJYVS1abDNkdV84N3ZMaW94ay02ZG9xTklPenEtdjRYRkN6TVhPZUFHNkV5TlBhSFBBTXNTbjVkY2Nibi05anNUTFNyeFoxWmJmUXpSNHI0Q056cUFBTW5Mc2NDNUM5ajVaeG1JZ21DWU1BaXJBOEpzRDk2Mmo1VkxRNFp3?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-26T15:09:27Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6e4e7a20ca017409ab7c6c",
+      "title": "Why GTA VI’s version of Florida feels so real",
+      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a bustling, real-world [&#8230;]",
+      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "source": "The Verge",
+      "published": "2026-11-26T15:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5a641128ffbd2b0ded9ce3",
+      "title": "US Housing Weakness Signals the First Major Cost of Higher-for-Longer Rates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1E4dnduZUt6RDNoZWhBY0ExZ183aTlsWUNqNFlrVzZiTnEtaTJZbTd3Rkt3ZTMwV0hmVGk2VDdFdGtKYlFGZTZ1MDNISUFncm41UEM0cWNJU202QWpSTmJUNXl0RlNlQ0hzSmx6UkJXVUplS21DWWpqNXY0VDVucjNvV3hwaWp5NWFXVEU3V3VUbE9yRmEwdy1yTGpTZlFpNU1LbWI2cF95WjdYdGlOVDk0cw?oc=5",
+      "source": "kalkine.ca",
+      "published": "2026-11-26T14:56:00Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "44e71f7f5015b6ee2d1ab5",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T14:44:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "93293c9f9e551d21e272ac",
+      "title": "Safeguarding the UK against economic coercion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUVWM09Dc28zeTJPcV8wRjFfS1dzSG8zemFWbTFIMmxIZ09ZSno2eThZTjlMTE40bFNnSGdIakk3VHlnSkhaNDBuMDdHS1V2ci1DSjFYckZyODJOZVp5SlMzOWtNSE9scVBWMTluVEs3QnlQbXpRNW5MYVBGMFJoQzVNZEs?oc=5",
+      "source": "Chatham House",
+      "published": "2026-11-26T14:37:30Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "976736d634d0cfa5596156",
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T14:35:22Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg"
+    },
     {
       "id": "a537e18e84916f22722c0f",
       "title": "Norse Atlantic suspends all flights as it faces potential collapse",
@@ -50,18 +170,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e449/live/9d5e65f0-e99e-11f1-b880-15b494ba858d.jpg"
     },
     {
-      "id": "5a12d8427988c91984a84b",
-      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T14:00:42Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
-    },
-    {
       "id": "1acf3e41a2e63c51709693",
       "title": "Millions of people to see average monthly mortgage payments rise by £100",
       "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
@@ -71,7 +179,7 @@
       "category": "Finance",
       "topic": "BBC Business",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b5/live/f4930230-e995-11f1-b880-15b494ba858d.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "8a8e91169aed87950fbaa7",
@@ -156,6 +264,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2965x1965+0+0/resize/2965x1965!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2Fca%2Fa076c10a456fae30c7079d94f200%2Fap26330009741123.jpg"
+    },
+    {
+      "id": "00846d105690fdfa7e52fc",
+      "title": "QDB and SC Ventures sign MoU to build and develop innovative ventures in Qatar and support their global expansion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc1p1dmR4N2FQSWNhcW5xdG4zc1gtWWJfMUhmbm44VU0wa1g3Tm9UaTdPNFpwbUlKMi04a2xNQ3VrRVpqMURqVERkU090UG9yR3pMRzdid3BWbU9xcmlxT2NrVmx2Wi1MYldwVXhDc0lBaWJCOGdhS3pDS0MxdHpKWlltUE1PaVZ4MXpjM2IwSzZUaXNNY3N1dmoyY1UxaWN5VWgyTWtBZkphR1pUSXk3Z0NNWE9kYTJoRVhjRzhGVHo4NGJtMmJsZUtXMDVoOU5ldWkxRWdDZGlibmdVV0l0eFZhRVBYcFduOU1iZUJBRzJ5LWhpdFFhME9nTGRnMWVMZkw2X3FR?oc=5",
+      "source": "Zawya",
+      "published": "2026-11-26T13:23:00Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "308e6712b3237fdc70682e",
@@ -698,18 +818,6 @@
       "image": ""
     },
     {
-      "id": "ab16224e8d1cd5dd506ef2",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T09:59:14Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "id": "e51b021662e92d608165a6",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
       "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
@@ -866,6 +974,18 @@
       "image": ""
     },
     {
+      "id": "8b23416b2e0238251658a3",
+      "title": "BharatGen Launches Patram 1.5 with Promptable OCR and Abstention",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTm4zZ3NKZkhoR19nMkZ5MGNkTGVnR0ZSX0VZZzNxOU5CSm9vc3FVajRvUWhYNkh2VlVwVk5QQW80SF9vQ3ZoMTBjZDBQeVhiSEdyazg5RWFUQUVGblFzVUx1WU44N09GVkdCdmJKODM3OUczb01BLUJKUmxBeEJoWEFaNnUzZ0YycV9peFBHZw?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-26T09:16:05Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "760498b4c5843c22251640",
       "title": "IndiaAI Mission-supported Chariot-1 Foundation Models Launched to Boost Indigenous AI Capabilities",
       "summary": "",
@@ -967,7 +1087,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGVidzAzRU9WUUNkajRGRjREOHc3X2dPc0w1TnljcUhKcDFnNVRqOUtxMkMzWEl1YU92ci1idlZQNDkwN0dOXzRxYUlTRWFKLURLRk0zWVRKbU9wTVUtT3dHcjFXM0ZDZXZDUnhiTGpsZjlXVG5UNGVRQ1lGOHVvVUhjaUNTeUQ3X3lZRzhxTWxKZVpHQ3YxOFhRY2VjNThXOGpqNHEtalZ4VU1QeXZEa0tkOVZvLTFKUzFEMVV0cWRlZTVaVXpGNHotWTNsaVU?oc=5",
       "source": "IOL",
-      "published": "2026-11-26T08:24:16Z",
+      "published": "2026-11-26T08:23:21Z",
       "category": "World",
       "topic": "Africa",
       "country": "",
@@ -1065,7 +1185,7 @@
       "source": "Africa News Agency",
       "published": "2026-11-26T07:51:50Z",
       "category": "World",
-      "topic": "Africa",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -1274,6 +1394,18 @@
       "image": ""
     },
     {
+      "id": "03821c95c5d2c709e9d575",
+      "title": "Havas Miami launches cultural intelligence model",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdEJ5cUFLSXV5TUtzRjVwS3hWZzBzbk5Cd1BkdE1EaXVtUDRzcFZFR2JiUVo2cmR6OERIWVJ6bzFicUJsaGFVcVRSUjE4OEZoUlRDRTdoQXIyLWltRXA2eEJ0N1lwUUVOWWNiMVF1UEl0T1F1a2h6bnUzTEdvQnFJdmk1VWxLa2stYTRuOW95Zw?oc=5",
+      "source": "https://marketingreport.one/",
+      "published": "2026-11-26T06:14:41Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c066efe013b55494c873d5",
       "title": "Asia Stocks Rally as US Tariffs Less Severe Than Feared",
       "summary": "",
@@ -1308,138 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
-    },
-    {
-      "id": "aafb865dd96ece880ff4cb",
-      "title": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeExNZGYwMjViSWhVakdxNGtKS0J0Y0NTMjJxMzdRTEdxYmNJUmREY0pqaXFGbWIycG5FSmZQS0JDdFdnZVFOZjhZZjlKV29iY3hhSk5iX2RaNHk4UXlSU29XMEJKbEN3bXFIelhPTi1vLVVaaDR6ODdqbzhUcktRR0lIMA?oc=5",
-      "source": "www.pib.gov.in",
-      "published": "2026-11-26T05:53:00Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c6054eaf1763fc2c9516dd",
-      "title": "From India to Jeju, breaking barriers to growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBod3RsYmNwYl9CWFdXNWM2Vm45SmFNVWh3VmpCdWgtVU0wcktReEVaWThaM1dBbmFodXJiaEd5TVdZU1lvNV9oTGNqVXJEQS1hV3BxRkpDSQ?oc=5",
-      "source": "The Korea Herald",
-      "published": "2026-11-26T05:32:20Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e2b52fee797e469c9fa3bc",
-      "title": "Internationalisation Monitor 2026, second edition",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPck40MC1PVFJKaFk1aTY4LTlhOHVoQ053Q3ZEdTRpQVM5TkpaQ1BWLUhicU5CcWxmaHdrQkFBSzdIODRTLXFQVW5nSEVfSHJURmdKbzAxa2pfSEh6VkxUR29wUDFMNTFYWnpia1pwcF8tMl9fTnVQT0ptQktvQU5iaDFQQmhjM1pydHR1LXJhcTlNOHBxLUk1RQ?oc=5",
-      "source": "Centraal Bureau voor de Statistiek | CBS",
-      "published": "2026-11-26T05:30:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "05e0f7526254f28bde6e6d",
-      "title": "KPMG Middle East CEO Outlook 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFJTRXdrT2tmeGdrMzJZNDZvUWhwVTk1dE1wM2MzVFlNbE1FTTdkUlJjSGJZamljNGM2bUptYVFSemthMjJMRmhabUNhVFRXOFY3REVNZTVqX2JwTkwyR1Jtel92QUdaeEsyZVNjY2JYWURwaVdSMVdnX0lNdmRGMVRDVnNfdm9EWmszSHhCNA?oc=5",
-      "source": "kpmg.com",
-      "published": "2026-11-26T05:13:36Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9755b7b13adf755c66f1c7",
-      "title": "ClearBridge International Growth ADR ESG Portfolios Q3 2026 Commentary",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUNhenlVUHBvandib3VpQ1J1TFFqSXRRZ0wzaG5iQWx2M253TVF0Mm1XbUhEb1dLNm1lcDlvajJGSjhGT1h2TXFNcmxjTkFfaERXNS04ZnFLV1BKWml6NVJONjZ5cUtYNlRIeDM1a05MWUhLQzdXWnlLTmVLX0ktTko0Q1F2bEJjc21DMGR4YnVCYWxYdnJYc0c1LTA2WDZ0UTdPUEhqN0NVV20tSUc0RQ?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-26T05:10:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e4297a5a2ecfdc500ad7c1",
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
-      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T05:00:27Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "0c801dca8e73e521ae77ee",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T05:00:24Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png"
-    },
-    {
-      "id": "3cc4cb3686adf05ac2d527",
-      "title": "PCO wins Korea's Scale-up TIPS backing, lining up 3.7 billion won for its AI video transmission technology",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IYWJWclAtQU5UUHBfYUprVWJvSTZIWnp3ZDNLTWZQVDNDRl93eHhLeXFGb0Q2dDZwSDNRRHgzbEUwR2lvTDFfbVhJRk5wWHgtcVlwTnNkUmV6NEIxcHZN?oc=5",
-      "source": "K-EnterTech Hub",
-      "published": "2026-11-26T04:17:52Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c6d7447ad4b7aebed911f2",
-      "title": "Working Together to Build an Asia-Pacific Community and Foster a New Era of Regional Prosperity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMXpkVGRCMWtxYmhmRjRVTnVVbHZfdUFmOXA3YnBLNS04RXhSQXFCWmpMRkszOHBOc3ZHMEhxa21DN2hidktQT05jT0E1dUdITWprVnRJaW44V1RoT0J2ajFiOUNOR3ktUmpHSTFBRlVSaU1pTDZ1UTZweURmZElwcm8tUzQwSEd3cEN6Yktjb1k1YUNaQXR5Nm93c3NjUUxJTWx0U21tb0M5UkcwcTlrbTNkYmV1dVJOYVdNTll3NDNfeExWbFB1bngxNU9hS2dQTmNPV0lURVU2VTZFaEo3YlZMN1JUV1pxOHRXTllUMUxUSmwzY1BpVW50WnRhcHExaXlTeVlJQkk?oc=5",
-      "source": "Daily Express Malaysia",
-      "published": "2026-11-26T04:16:44Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "be54e905a796b4cee0cd01",
-      "title": "US announces new tariffs on host of countries including China",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T04:10:58Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
-    },
-    {
-      "id": "3ca2c2c1a4cdc7155fbb9c",
-      "title": "South Korea raises interest rate amid U.S. tariff threats",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajc3aXo3WXliMXJZQ0YwbS1BV0tUZzAxRkJWMjRZRkNvNk9JVU11QXBsSDU2eFA0S3JySHpPanFNMUJRWU1ocHBqX3dPd1JRSHFKWkltNXRHT0FxQW1LVW14c2k3SVNiZWpqWjJvSWdldEJEQ2xRRG1rUEFEejV1LS1LbHAwbDN0RTVzWGlJc1Y0YnVXQWc?oc=5",
-      "source": "Operativ Məlumat Mərkəzi",
-      "published": "2026-11-26T04:09:58Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
