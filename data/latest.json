@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-26T16:51:05.614696Z",
+  "last_updated": "2026-11-26T17:43:08.930066Z",
   "articles": [
+    {
+      "id": "a067c0da2f1d9669615277",
+      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T17:38:56Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg"
+    },
+    {
+      "id": "2fbc6d410457e6b8adbf53",
+      "title": "When will Poundland shops close? Five key questions answered",
+      "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T17:21:21Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg"
+    },
+    {
+      "id": "0b8d021f35916d5118e359",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-26T17:07:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ad78321ace8680254f265d",
+      "title": "Android app developers will soon have to share their address publicly",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. [&#8230;]",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "source": "The Verge",
+      "published": "2026-11-26T17:06:24Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "805fcb4a332b0be8f0ddab",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T17:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/iphone-duo-GettyImages-2301595744.jpg?w=1024"
+    },
+    {
+      "id": "41ae633c6584dee9d5b17b",
+      "title": "The best Black Friday deals we’ve already found",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a histori",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-26T16:55:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "0f889ad86b2320334e2c87",
       "title": "Italy says two citizens killed in Iranian strike in Kuwait",
@@ -84,30 +156,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/peter-claffey-dexter-sol-ansell.jpg?quality=90&strip=all&crop=0,0,92.21171875,100"
-    },
-    {
-      "id": "a067c0da2f1d9669615277",
-      "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-      "summary": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T15:57:26Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg"
-    },
-    {
-      "id": "2fbc6d410457e6b8adbf53",
-      "title": "When will Poundland shops close? Five key questions answered",
-      "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T15:55:50Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg"
     },
     {
       "id": "6017eb39d3e996ca309220",
@@ -1392,54 +1440,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "707b537b182e60ac9d5f4d",
-      "title": "TrianglZ Expands Egypt’s Tech Footprint Across Global Markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3BIcThKb0VENXlDZjA0WkhQZzFrNlBGLVVnbERmX3ZWUGVFZE9SR2hFVmpJNzR6SEw3ZFpLQUp5clVLTjNPVlZNSS1OVC1OU1N1QnEtWm5YeEFRazhPZHZGQ2ZVUGgzZnZEZ1laR0p0bHZESlpXemhPQnNRd1RXOXJDNXNZMWZDZDY4aFlPQS1CdXlmdWc?oc=5",
-      "source": "intlbm",
-      "published": "2026-11-26T07:37:54Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "28f4dfedc640af1a20a2aa",
-      "title": "Govt launches indigenous Chariot-1 AI models under IndiaAI Mission",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDhRc1lIeUR4TUFnb2tkRUlCSzA2SFZ0ekxrbmpoTDNWeV9MMk95U0xWZVdmZDBiWnJod0pVU2NrVDRWSDE2ZXREY19jcnd3dFFDRWhYN3ZVbmJVTURScnpPUWRDUGRua04yTjlKcWJOd2NYX2RnVnF0bkZ5WWV2aWV2ZVBIX0ppUHc?oc=5",
-      "source": "Telangana Today",
-      "published": "2026-11-26T07:37:09Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a204e076cf61ef7d8a04e6",
-      "title": "Dollar Rally Pauses for Thanksgiving Amid Choppy Currency Markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0pXRWNZNHlZUHE4cUhJeFJ2N3ItUnRFZXFJYUczRGNNcF9GdEdkWFhNMjFGc0gzTFVnQ2pOQ0VKaE5zTmltNFRETGtrRnJQM2NZWExacVRxUGh4OThRY2x5MjBDSVZucEtYTDByUEM1TjdkUUdubk1YODdybWNiWThvQWp5ZW1LdjNRWnAxTjFoMnVtOGc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-26T07:33:55Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b271d52226ceeea65fc562",
-      "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-      "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T07:31:24Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f7f/live/77162390-e96e-11f1-848a-0519bc65af50.jpg"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 20
+  "source_count": 10
 }
