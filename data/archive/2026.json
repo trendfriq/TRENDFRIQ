@@ -1,5 +1,53 @@
 [
   {
+    "id": "64295a51bb9fe152c13a7d",
+    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+    "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party. In a holiday mes",
+    "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+    "source": "The Guardian",
+    "published": "2026-11-26T19:41:37Z",
+    "category": "Economy",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33b587cca6c8195d8be34ebe0bf521ed"
+  },
+  {
+    "id": "58238582b61f3958ec423f",
+    "title": "X finally gets parental controls after 20 years",
+    "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+    "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+    "source": "TechCrunch",
+    "published": "2026-11-26T19:31:50Z",
+    "category": "Technology",
+    "topic": "TechCrunch",
+    "country": "",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675"
+  },
+  {
+    "id": "b7095d70f93168da6f6cd6",
+    "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+    "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+    "source": "The Verge",
+    "published": "2026-11-26T19:00:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2b74e84b66a5cd702afbab",
+    "title": "What are tariffs, how do they work and why is Trump using them?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+    "source": "BBC",
+    "published": "2026-11-26T18:54:51Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "9846a28e95d3fdaeee5b40",
     "title": "Gold price stalls near $3,570 as Fed hike bets keep bulls at bay",
     "summary": "",
@@ -8,6 +56,18 @@
     "published": "2026-11-26T18:30:11Z",
     "category": "Economy",
     "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8b746ee9f9cc8067590bf1",
+    "title": "Touchstone Focused Fund Q3 2026 Commentary",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGpwajVGeWduYmNLei1YMjNtN3hnbndiNnZpbGVUUkFIRHBjUVV5V296YkFlanJmMVFQRVV3OUVRcjc5NmEwWVoxQUtidHRqRW9QU2pmSWRjWG02OFJuNnJkSE52anMtYU9FamRIZzhtT2dJU3FQbDBGVmFnTjE3eDhmaTZsRzZBaHVzT0kxeEdqdFVBZUNGSnFLQ0tSenU3d0tuOQ?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-11-26T18:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
     "country": "",
     "image": ""
   },
@@ -96,6 +156,18 @@
     "image": ""
   },
   {
+    "id": "3bc4593ecfc643ce27285c",
+    "title": "Can Coupang (CPNG) Overcome Operational Headwinds to Restore Margins?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlRual9YNWhneFF4bFB5RldQcnVNeFpELXNXc1hZS0R3bGE0aEFJdXN6Zi1pa0JtSFpPc3dRRDJMMGx4ZzF4ZnJmR042VG0ySVhrQVZXOG5CWmRxak4wYkV4azFMR2hrd2FNZGowdFpuTExLRmI4UTlJUTBtVS1QeThRYjZTZVAwRU9FbjRJdzNHX2t4U29IWEpBWjZwZXVJdlJ5TE1DckJtczNw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T16:56:32Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "4999dbfa2e3538c9cdd191",
     "title": "Brazil's Embraer criticizes new US tariffs, warns of air travel inflation",
     "summary": "",
@@ -168,6 +240,18 @@
     "image": ""
   },
   {
+    "id": "06e801c570a1f61406b55c",
+    "title": "Kenya positions itself as East Africa’s investment gateway at Equity Group roadshow",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJ0NXVuQnp0Z3psZl9OTkVzZXl3VTNkYjRDUWVnS1lDSk5ucG42VjNwVEVyRU1hazR1T1ppME5SN0JfdVN0WE9KSDdmX01WTDctdXdsc0E3VXBjR0I1NG1rMzZuZ1FndktoZkJZWkRHU3l6SjFPMURsWDVZODlydWIycU1rY2NaZnhOamJYWHpTbUZhLWloZEFJT1VzcHRsVkJ6alpFdEZZUQ?oc=5",
+    "source": "Bizna Kenya",
+    "published": "2026-11-26T16:03:11Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "b81da0547893b26212f11b",
     "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
@@ -236,6 +320,18 @@
     "published": "2026-11-26T15:21:42Z",
     "category": "Finance",
     "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c7e2f187568e9510213bac",
+    "title": "Bundle Launches in the US, Challenging Discount-Led Growth with Shared Customer Rewards",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWnlnbU5SMUhGQ1gtT3hGMnZTWS0zYzVQVDN3MDJGMWlKRjlMRlNyV3FvM2tEVzlCTDNNTC1WQkNvc0dhZmdQeGktQU1aWE84bjFaOUhSU3JlSXhYZTBkcmNPVEFrVXY3TlVoTm93a0NIb04weG5LZUJpbWNnSXdjMjNBckFKbW1vLVhCR19Fbldsb3lEYnZSdFNidVVyYnZkUXByZHl3Wm5wTlF4V0dRNUlMUEZ1NDY5bjdCaDhuZWlqMlg0a2djZFd0YlRSMWFpaHB6YUktSlpQZ1dKcUxxc0JicW1YdEpaMlQxOFExRmxpQQ?oc=5",
+    "source": "The Manila Times",
+    "published": "2026-11-26T15:16:18Z",
+    "category": "Brands",
+    "topic": "Brands & business",
     "country": "",
     "image": ""
   },
@@ -466,6 +562,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "5e9bcb733b3e8687383efa",
+    "title": "Swiss Economy Faces Minor Impact from Higher US Tariffs in 2024",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnNza3hzNkRRaFhVclhFWTNaLXVwVjJ5eEExX0hMcXhPSTlJN0dnelhFT0VNNnFfSlJKT0hlS2JvaWdIeFdOXzhLX0RXbm5GV2ZWVm9feWpLSjVFSWtHNWFjeFBiOFN2cGdyMnhYcDE2YnE0YWIyVGNXaXFjbFBrb25aOTBoTFpXdi1OZmFsVG1Bblh5eWhWdi1FR3licGs?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published": "2026-11-26T13:54:50Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
   },
   {
     "id": "08c939e83161c76180cad8",
@@ -1822,6 +1930,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9c/live/c1d62ef0-e8da-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "id": "e52900867a1a48c55088aa",
+    "title": "Adesina Urges Tinubu to Lead $50bn Africa Space Investment Drive",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUNqRHNyaThkUURqZWFVYUNBeXZlNkJ2UC0tcVJabG82bGZPcGx6a2xJN3paMEs1MXgzT0lxbTZuOExSai1iazNON0tvQ3A2dDd2eFFpX3ZVUFlzeW92cnJwUldlUlVPZGtCbWNpa0RHY2JWcjU0aGtHTDZMWWpLdUdWV1dMNUU4bFQtZ0RaZWxmS0JZcUZJbXhzWlBuWmRMbUhYTlVB?oc=5",
+    "source": "THISDAYLIVE",
+    "published": "2026-11-26T04:26:49Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
   },
   {
     "id": "3cc4cb3686adf05ac2d527",
@@ -6426,6 +6546,18 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOemk5TTRjRXRHc3o3UDFwd1FVLVZBUW90LW1oY1hkOV9BRXhoZGd6aEp1ZmJBZU1LTDBlSWhOTEg4X3hLei1VTk1kSkI0QTdnVkJuLUFZSWJnLXB5d3lzOWFyQzl4NkxlSUJDZERURFF3b2xZTkNnd3ltZVVSX09wMXBOVUF2ZVh2dE9Lcy1jdUxud2VyR0YtTDFBTDhyTkxLVDBzMGR1SGtYSlRfczViSDVhUG5wSDFzMmtJZDZNaTFRcWk3TTc0TVZ3enVCeHdSRTA4UXlYX2N0Sk1mcTZQYnNfVXBGTFU?oc=5",
     "source": "Workday",
     "published": "2026-11-24T21:03:33Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f37e7a1a591aae78dbbbea",
+    "title": "Enablence expects fiscal 2027 revenue of $19M–$21M, almost 150% growth at midpoint",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFJqaHhvQkstZGpnOXJSTEJuWU1BMnpWaDlnLVk0SUwyVEhGNlRHamEyV3lDSkpSQXdMdl92WUV0YW1OTlk4NFp3QXZScXNFZHF5LXN3LTRGRUg5Q1NXeFJYZll6MTRhS1ZFSTJnalhpX2tNZjRvMkkyOEJabnZxQ3lPUGEwLTNaMl9DeGQ4aGhFSUZuaGFlaE5WakxDVXc4QU5aaHgyNFRyT1RJUHFTclpScGFET1R6NFJV?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-24T21:01:00Z",
     "category": "Finance",
     "topic": "Corporate results",
     "country": "",

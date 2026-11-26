@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-26T18:38:17.719909Z",
+  "last_updated": "2026-11-26T19:51:05.873749Z",
   "articles": [
+    {
+      "id": "64295a51bb9fe152c13a7d",
+      "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+      "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party. In a holiday mes",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+      "source": "The Guardian",
+      "published": "2026-11-26T19:41:37Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33b587cca6c8195d8be34ebe0bf521ed"
+    },
+    {
+      "id": "58238582b61f3958ec423f",
+      "title": "X finally gets parental controls after 20 years",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T19:31:50Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675"
+    },
+    {
+      "id": "0f889ad86b2320334e2c87",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T19:27:45Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "b7095d70f93168da6f6cd6",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "source": "The Verge",
+      "published": "2026-11-26T19:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "2b74e84b66a5cd702afbab",
+      "title": "What are tariffs, how do they work and why is Trump using them?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+      "source": "BBC",
+      "published": "2026-11-26T18:54:51Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "9846a28e95d3fdaeee5b40",
       "title": "Gold price stalls near $3,570 as Fed hike bets keep bulls at bay",
@@ -10,6 +70,18 @@
       "published": "2026-11-26T18:30:11Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8b746ee9f9cc8067590bf1",
+      "title": "Touchstone Focused Fund Q3 2026 Commentary",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGpwajVGeWduYmNLei1YMjNtN3hnbndiNnZpbGVUUkFIRHBjUVV5V296YkFlanJmMVFQRVV3OUVRcjc5NmEwWVoxQUtidHRqRW9QU2pmSWRjWG02OFJuNnJkSE52anMtYU9FamRIZzhtT2dJU3FQbDBGVmFnTjE3eDhmaTZsRzZBaHVzT0kxeEdqdFVBZUNGSnFLQ0tSenU3d0tuOQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-26T18:00:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -38,16 +110,16 @@
       "image": ""
     },
     {
-      "id": "0f889ad86b2320334e2c87",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T17:54:22Z",
+      "id": "fc8b6ca176a80dac62145d",
+      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcldadmZ3enZsMDN0X3N2VXJsUnhGSjR6N1VHek1HU0kzdmhFanM2cExXa3lxZ2pvUFhULTlaZFlQQ2c3Nzc2RWtmdVA0SWt6RndQckRRRHg3ZW9iYlBwODdGeHd1OXNGbmwzQ2lxaGh5ZnA2VThsbW5nLUtocnRsaA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-26T17:53:04Z",
       "category": "World",
-      "topic": "BBC News",
+      "topic": "Europe",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+      "image": ""
     },
     {
       "id": "005248df97fec73910de1f",
@@ -146,6 +218,18 @@
       "image": ""
     },
     {
+      "id": "3bc4593ecfc643ce27285c",
+      "title": "Can Coupang (CPNG) Overcome Operational Headwinds to Restore Margins?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlRual9YNWhneFF4bFB5RldQcnVNeFpELXNXc1hZS0R3bGE0aEFJdXN6Zi1pa0JtSFpPc3dRRDJMMGx4ZzF4ZnJmR042VG0ySVhrQVZXOG5CWmRxak4wYkV4azFMR2hrd2FNZGowdFpuTExLRmI4UTlJUTBtVS1QeThRYjZTZVAwRU9FbjRJdzNHX2t4U29IWEpBWjZwZXVJdlJ5TE1DckJtczNw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T16:56:32Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "41ae633c6584dee9d5b17b",
       "title": "The best Black Friday deals we’ve already found",
       "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a histori",
@@ -182,18 +266,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "fc8b6ca176a80dac62145d",
-      "title": "Europe Assembles a New Team to Steer Its Economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcldadmZ3enZsMDN0X3N2VXJsUnhGSjR6N1VHek1HU0kzdmhFanM2cExXa3lxZ2pvUFhULTlaZFlQQ2c3Nzc2RWtmdVA0SWt6RndQckRRRHg3ZW9iYlBwODdGeHd1OXNGbmwzQ2lxaGh5ZnA2VThsbW5nLUtocnRsaA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-26T16:29:52Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "8f0b7f0fcdf3040535ab44",
       "title": "Global Trade Faces New Tariff Pressures as Latin America Expands Export Opportunities",
       "summary": "",
@@ -206,6 +278,18 @@
       "image": ""
     },
     {
+      "id": "e38e30f73b7cf7452da60c",
+      "title": "American Express Elevates Jessica Ling as Chief Marketing Officer",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzJGQ2hJSVRMR19KU3BSWHZlUkxRWmVvcXRHQ0JSVVJuT2p1bmowUDh5cTNpMVlxclEyWk54Y0xyQWZ5QnA1eTZiX2pHZTVhc2Z2cHc0cGladEFXaGJjbTRBLWtmMDhsRmZtUENLQ0ZqMkZsS3h4V1lyakV1YXBhcnZxby1MbUs3Zy1zRER3?oc=5",
+      "source": "https://hrtoday.in/",
+      "published": "2026-11-26T16:28:01Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f64617009b35f3d4b8abb6",
       "title": "Tobacco Giants Eye Imperial Brands Amid Industry Shift",
       "summary": "",
@@ -214,6 +298,18 @@
       "published": "2026-11-26T16:24:51Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "06e801c570a1f61406b55c",
+      "title": "Kenya positions itself as East Africa’s investment gateway at Equity Group roadshow",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJ0NXVuQnp0Z3psZl9OTkVzZXl3VTNkYjRDUWVnS1lDSk5ucG42VjNwVEVyRU1hazR1T1ppME5SN0JfdVN0WE9KSDdmX01WTDctdXdsc0E3VXBjR0I1NG1rMzZuZ1FndktoZkJZWkRHU3l6SjFPMURsWDVZODlydWIycU1rY2NaZnhOamJYWHpTbUZhLWloZEFJT1VzcHRsVkJ6alpFdEZZUQ?oc=5",
+      "source": "Bizna Kenya",
+      "published": "2026-11-26T16:03:11Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -231,7 +327,7 @@
     },
     {
       "id": "b81da0547893b26212f11b",
-      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "source": "TechCrunch",
@@ -324,6 +420,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
+    },
+    {
+      "id": "c7e2f187568e9510213bac",
+      "title": "Bundle Launches in the US, Challenging Discount-Led Growth with Shared Customer Rewards",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWnlnbU5SMUhGQ1gtT3hGMnZTWS0zYzVQVDN3MDJGMWlKRjlMRlNyV3FvM2tEVzlCTDNNTC1WQkNvc0dhZmdQeGktQU1aWE84bjFaOUhSU3JlSXhYZTBkcmNPVEFrVXY3TlVoTm93a0NIb04weG5LZUJpbWNnSXdjMjNBckFKbW1vLVhCR19Fbldsb3lEYnZSdFNidVVyYnZkUXByZHl3Wm5wTlF4V0dRNUlMUEZ1NDY5bjdCaDhuZWlqMlg0a2djZFd0YlRSMWFpaHB6YUktSlpQZ1dKcUxxc0JicW1YdEpaMlQxOFExRmxpQQ?oc=5",
+      "source": "The Manila Times",
+      "published": "2026-11-26T15:16:18Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0989ec78615403f939d0cf",
@@ -552,6 +660,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5e9bcb733b3e8687383efa",
+      "title": "Swiss Economy Faces Minor Impact from Higher US Tariffs in 2024",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnNza3hzNkRRaFhVclhFWTNaLXVwVjJ5eEExX0hMcXhPSTlJN0dnelhFT0VNNnFfSlJKT0hlS2JvaWdIeFdOXzhLX0RXbm5GV2ZWVm9feWpLSjVFSWtHNWFjeFBiOFN2cGdyMnhYcDE2YnE0YWIyVGNXaXFjbFBrb25aOTBoTFpXdi1OZmFsVG1Bblh5eWhWdi1FR3licGs?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T13:54:50Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "08c939e83161c76180cad8",
@@ -1318,126 +1438,6 @@
       "published": "2026-11-26T09:27:44Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "28c98866da53c9a7b15687",
-      "title": "Sonoma Pharmaceuticals, Inc. (SNOA) Earnings Date, Reports and Estimates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMmZJU2NYb1pob1R3c0F6TEJaX201T3pNUm83NmRfX09PdWF6eHNOWEQtM0ZuODBSRXJIQ05POS1TZUpsQ3ZGMWpiTHRRQm9oRUl4NkZBSE9EeTBTQms4?oc=5",
-      "source": "Traders Union",
-      "published": "2026-11-26T09:27:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d62d31ed62bed750fd8134",
-      "title": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
-      "summary": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says.",
-      "url": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T09:23:46Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29e/live/9a874000-e970-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "53996fa4e7da208abf11be",
-      "title": "India launches indigenous Chariot-1 Foundation Models to strengthen sovereign AI capabilities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVFl0SExJdW1IQ29YMW9WYk9mS0dMSWZfcWVSRHJ1OXFYNVV6UEltVm5IMXlQQnhOeEw3alhzSk03cURMd3pHdXctZnpsR2poR0JqUnAzaC1TU2djcnAwMmNGZjNTb0szbElveU1Ub1RMUzQ0NnFQTHd6M1BYc1RvME84aVVpdk1SSVk2dVkyQjVVQ2I0My1NYTIxOXBvTkgzTDI5Mk1SeUE3OVkxYUlTY1QzUkxpd3lLc05JaUpna21SUDBTTGUxZHNxaGNNRkw5MnJYOW5fdUNpOVpwaEE1ekVzaER6RksxYnN5am02b0YyMW4waTNnb2xoNHZHcFNRWlRXUmx1UdIBjAJBVV95cUxPT3ZObm5XaGtfcGhtWEFHWFlNak43enlXV1NiTlFwYUp3NUdXQUxRVEdCaTBOaWtheWYzUjhiT20wTEI4ckpWQm5Pc3VlMG9XenRtTnFFOEt5VjdBWDVScHMzS3NSWG5MOW1KTTN0dzEwMHhtdVFYRGZpQ2h6MTI2R1lwLVAwWjluSU5VREFVMzFJc2d4azd0azEyek9jOE1BUDQxdjVyazVxaGE1Q0xZRWRBbHVTR2FRUDItcFZUTjh3ZjEzX0NQTVRtUDBxQWltR3NRRGwzWFVoRGhNbWhtdWNMQ25ZVVhpSnVYbzBGcThiZzVGajhNcTZTVF9JRVNOQzZTaHFMa05pX2hB?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-11-26T09:23:44Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8cb32eb5c1a8ec1e68249c",
-      "title": "GITEX GLOBAL 2026 to draw 6,000 exhibitors, participants from 120 countries",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVJxR3VRMG81UFEyOTRUNGZKNV9nOVNETDBMYmNTdW9mWFltUEFoQVA5QTVvbjIzdlV6d2lab0ozRkxwamN5bm5jZ2g2cVNLVkI3T1JITGxDLVdhNEhtRGtzQmtCSzhEZnR2TVJLNFlFQ1pfZmhpbk8wOEhiNGNCX3Jn?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-11-26T09:19:54Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9fdc713ce19596f45124a1",
-      "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-26T09:18:49Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8b23416b2e0238251658a3",
-      "title": "BharatGen Launches Patram 1.5 with Promptable OCR and Abstention",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTm4zZ3NKZkhoR19nMkZ5MGNkTGVnR0ZSX0VZZzNxOU5CSm9vc3FVajRvUWhYNkh2VlVwVk5QQW80SF9vQ3ZoMTBjZDBQeVhiSEdyazg5RWFUQUVGblFzVUx1WU44N09GVkdCdmJKODM3OUczb01BLUJKUmxBeEJoWEFaNnUzZ0YycV9peFBHZw?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-26T09:16:05Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "760498b4c5843c22251640",
-      "title": "IndiaAI Mission-supported Chariot-1 Foundation Models Launched to Boost Indigenous AI Capabilities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3E2TVFpbmptV1h5S284VXN6VHFpdnBRaEdDemItREg3cjE4TU9yd1FEdXUxR3A1MnZCbUFjY2JkT1pnamZjUGpyMjh4aHg2dGRqRE9ZcnlBR2VTUWRiODJnWWVfMkY0ak1OS1h3S3V5djBDaXlsbHhyRm9CRm53ejg2RGFsRTlteTlYcDBfQV9lY3UzU0NaXzNHRjBqajlLXzh1Q1JvSVBwRVQ2Mzk0ZWtQcGRXSUJ2T3dUX0dSQ0V0OFFNX1BUVw?oc=5",
-      "source": "DD India",
-      "published": "2026-11-26T09:11:08Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1f5b122183e4dfd470e5c9",
-      "title": "Market Movers blog: Global markets fall as Trump plans new tariffs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-      "source": "Investment Week",
-      "published": "2026-11-26T09:08:35Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dfe3e77d9c900fb4513732",
-      "title": "Careem launches free family accounts in Dubai and Abu Dhabi",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VrN2NVSzhCb1BJejAyWGVSR21JMW94ZGdmMVM1cUJNUHdJR1ptSkI2LUpMY25ONUZMMWM5eUpIVmQydUhwSWRoMkcwSkZXMUNydC1pSGlJdnRDU2d3MGFVN3gxZXRWcFMxRnBKTzBoc0FLRHd5ZlVZRGFpUnVMd2FVaXFsbERUb0tjcXFPN3JLckhZSmNSY2FBSUF6VFNXRFhla2ttSQ?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-26T08:41:52Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6e79a0039fa47fbbfdce7b",
-      "title": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSHd3aTlQbDA5TmhVWjNac21CWnA4bS1KQkFLM2UzZ3dtR0NMSGJkZ3EtWjNHMk5EakRFN0R5ZmQxbEhaVEdjQVVxcG5NSTd6eTNteS1YbjJST0hnNEV0MUZ0ajBaZnRFRGpYbHJyNG1sZXZYRjNlWHRacC1iS25iaUJOV3NkM1FzNllpU3JDTjNEbmtzemlTQkJtVjZ1eUtubjNGekFlVVpnWTVCLTFIWEQ0YXMwcnVUT3F6Rmpvc255b3FESm5zQWl3V3pIc3lfM1g2QndMS0hhQmp5TzVUYml3?oc=5",
-      "source": "CXOToday.com",
-      "published": "2026-11-26T08:38:45Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
