@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-26T09:53:10.330166Z",
+  "last_updated": "2026-11-26T10:59:34.678970Z",
   "articles": [
+    {
+      "id": "7cf041493f5f1dec2adb84",
+      "title": "Adesina: Africa’s Space Economy Requires $50bn Investment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlJ3LUJ4ZHJRZ19wSzh4SUFQSVo5cHRzV2lEQjhUNEN4VmxDeWwzeFRkZS1aX2lNbUJ1eXcyel9kakN4ZzNiaDMzem82ZzZzeW5uMkNqZDlPZ1hUdlJZVmw5UEFzcWhGT2M2eVkybjQ4YURoMmd5aVJ6a3NCSHpjUVZxdw?oc=5",
+      "source": "Techeconomy",
+      "published": "2026-11-26T10:51:02Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cd015df5de356f50605df8",
+      "title": "Korea-Latin America council celebrates 30 years",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUwxOWE2NGh3d0xLOVJDaURwT0EtYkpfOHJ1U09RTkpzR0t4NHhaeVhPTFJXYWRqakRzanVoWFRFb1oxY2dMXzV6aXQ4bXVBbW4tb2Vzelpzd2t2bGYyeGE5RXM2VFJIVXozcTRvSXVPS2tib0UwWnZCRlhHOGtFNlRVVnJQbHBCRElQWEN5bjRTbS1PTVR4d0pxSklMRWJNd1FYcTdB?oc=5",
+      "source": "Korea JoongAng Daily",
+      "published": "2026-11-26T10:25:52Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "8b1572b79a8c7c3b756cc7",
+      "title": "What's gone wrong at Poundland?",
+      "summary": "Poundland has collapse into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T10:15:47Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "0b032116e10466e07e3bd0",
+      "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+      "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed. P",
+      "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+      "source": "The Guardian",
+      "published": "2026-11-26T10:00:51Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/415_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ed745e4201500b4a32142b87296adf6"
+    },
+    {
+      "id": "ab16224e8d1cd5dd506ef2",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T09:59:14Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "e51b021662e92d608165a6",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge",
+      "published": "2026-11-26T09:54:40Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "12589f33f7cb0c455a1682",
       "title": "Melbourne secures 221 business events, generates $321 million for Victoria",
@@ -50,6 +122,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "id": "1c70163843aa559cac269a",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
+      "source": "BBC",
+      "published": "2026-11-26T09:27:44Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d62d31ed62bed750fd8134",
       "title": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
       "summary": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says.",
@@ -69,7 +153,19 @@
       "source": "www.wam.ae",
       "published": "2026-11-26T09:19:54Z",
       "category": "World",
-      "topic": "Middle East",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9fdc713ce19596f45124a1",
+      "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-26T09:18:49Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -82,6 +178,18 @@
       "published": "2026-11-26T09:11:08Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1f5b122183e4dfd470e5c9",
+      "title": "Market Movers blog: Global markets fall as Trump plans new tariffs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+      "source": "Investment Week",
+      "published": "2026-11-26T09:08:35Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -146,18 +254,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "id": "3b6ab53b8611b22faa908e",
-      "title": "South Africa deploys trade representatives to secure investment and open export markets",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGVidzAzRU9WUUNkajRGRjREOHc3X2dPc0w1TnljcUhKcDFnNVRqOUtxMkMzWEl1YU92ci1idlZQNDkwN0dOXzRxYUlTRWFKLURLRk0zWVRKbU9wTVUtT3dHcjFXM0ZDZXZDUnhiTGpsZjlXVG5UNGVRQ1lGOHVvVUhjaUNTeUQ3X3lZRzhxTWxKZVpHQ3YxOFhRY2VjNThXOGpqNHEtalZ4VU1QeXZEa0tkOVZvLTFKUzFEMVV0cWRlZTVaVXpGNHotWTNsaVU?oc=5",
-      "source": "IOL",
-      "published": "2026-11-26T08:22:29Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "459b315208f9445c9cdcb5",
       "title": "The Power Behind AI: Why Electricity and Grid Access Are Becoming Financial Market Variables",
       "summary": "",
@@ -214,6 +310,18 @@
       "published": "2026-11-26T08:02:00Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3b6ab53b8611b22faa908e",
+      "title": "South Africa deploys trade representatives to secure investment and open export markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGVidzAzRU9WUUNkajRGRjREOHc3X2dPc0w1TnljcUhKcDFnNVRqOUtxMkMzWEl1YU92ci1idlZQNDkwN0dOXzRxYUlTRWFKLURLRk0zWVRKbU9wTVUtT3dHcjFXM0ZDZXZDUnhiTGpsZjlXVG5UNGVRQ1lGOHVvVUhjaUNTeUQ3X3lZRzhxTWxKZVpHQ3YxOFhRY2VjNThXOGpqNHEtalZ4VU1QeXZEa0tkOVZvLTFKUzFEMVV0cWRlZTVaVXpGNHotWTNsaVU?oc=5",
+      "source": "IOL",
+      "published": "2026-11-26T07:53:28Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -276,18 +384,6 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "ab16224e8d1cd5dd506ef2",
-      "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
-      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T07:40:04Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "707b537b182e60ac9d5f4d",
@@ -515,7 +611,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcdc/live/8e8b2b50-e965-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2990/live/c4071ed0-e981-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "9755b7b13adf755c66f1c7",
@@ -551,7 +647,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c2/live/32726e60-e97d-11f1-99a1-253766e7ad8b.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png"
     },
     {
       "id": "3cc4cb3686adf05ac2d527",
@@ -830,6 +926,18 @@
       "image": ""
     },
     {
+      "id": "2b9bc02c14805c1430002e",
+      "title": "Why investors are betting on the UAE capital markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLW94UEpLNlU5UFEwTzRVOEY0SUYyVnJxVGZGZVNDUmlxMnB0TkM1QVRhMFNyTEdZcVBwdEVSQW1wbTU4UjVSRklZelVhMTFUQnBOalVWNm5DN2Y3Ti05U3ZweXBHZDVKdTBFaVEzakExWVpYQnFFa3lfTjJYc2JGRllfcVBiZEdLc0VvLUducw?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-26T00:53:08Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "7583f52321a2849b1c95e1",
       "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
       "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at",
@@ -874,18 +982,6 @@
       "published": "2026-11-26T00:12:59Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1c70163843aa559cac269a",
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
-      "source": "BBC",
-      "published": "2026-11-26T00:07:51Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -996,6 +1092,18 @@
       "topic": "TechCrunch",
       "country": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+    },
+    {
+      "id": "14fff68b6cb4531277a74b",
+      "title": "Active customers rose from 3 to 28 as CHARBONE's delivery fleet expanded from 2 to 11.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZElDUWg2RUFhS2xJM0d0OVFxNXZpaTV1MkU0d3R4RWowY1I5eXljTDVIVUFvdEdMTXhrZmlaZ0Z5RmhBYzl2M3ltVmNNOEFpS0JERDBxRUpVNzBZSEVvUGZTRVZfT2lBbGp0WXhQcWpfVkc5RklUdjJ6emNCb1hyN2FORVhvWWdsYjJBTlVoOVZEeXVNS0cweWdjSnpIVmJ6eC1JbFAxRUpjcGtLR2dReV9VaGlCTm5hNlRrdnk3TXBOdw?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-25T22:40:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1c6024d18fe8d709ef3ddd",
@@ -1332,114 +1440,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "2fc73247a0153f3d8af205",
-      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-25T19:47:39Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "8cc9974ff0c2f15e6b793f",
-      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several [&#8230;]",
-      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
-      "source": "The Verge",
-      "published": "2026-11-25T19:45:51Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b4fddd7d3c17c325b4153d",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:44:24Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
-    },
-    {
-      "id": "0eb775f636214d226a2af0",
-      "title": "UK food inflation could hit 5% next year, Bank of England says",
-      "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war. The deputy governor Clare Lombardelli told MPs on the cross-party Treasury se",
-      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-      "source": "The Guardian",
-      "published": "2026-11-25T19:25:57Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83c604134ee13025218688505d66317e"
-    },
-    {
-      "id": "45d5ef88f5d57d952cd68b",
-      "title": "Ahmed bin Saeed inaugurates second Middle East edition of 'DOERS Summit Dubai'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGduZ3ZlQktjTmtHaEtlNU9tVE9yZGJMZjVocVkzbmpsSGlENWZmdUVnak5CNFRqN1UzM0Nld2toamNkUlNXa2NJX2xBQmV2R1FHdzBFcmttazNtVDhJZ1BQNnBqQnFIT1V4cTcxVDZ1cERxd3h6bWNmeUMwZWIyLWxBdElUSE1rMDZHUg?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-11-25T19:16:18Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1061cb928b442d228f6a27",
-      "title": "RBI sees India’s growth resilient at 6.9 percent in FY27 despite West Asia conflict risks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1pBa3VGRVNNZzhfQkthWS1XOF9sSmxzR084NFkyVHBuNXVzS1VRY3hDbXFCTDlfRnhZV0Zma1pHdXFPdkdIZ3hIMkZxZF8wU0NJTmFwYWRwS3B0WFBDMGhpTV9zazNMLVVtNHduRGFNeXpGam5SZGd4RWJXTnJVak16dlYxQW1nQzM4WUZxTHFQOXotUXQtLWk3MXVsZ0h3V2VtQXFhbS16NF9BdVNqMGY3aXc?oc=5",
-      "source": "DD News",
-      "published": "2026-11-25T19:10:26Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cc6e960d226fca72222e0b",
-      "title": "1Password breach leaked customer names and emails, but not passwords",
-      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
-      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-      "source": "The Verge",
-      "published": "2026-11-25T19:10:15Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "4a7f858840c3c93af93c46",
-      "title": "Why Trump’s newest tariffs could stick",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-25T18:57:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9ed88987e3d50e1ec702df",
-      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
-      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T18:49:52Z",
-      "category": "Technology",
-      "topic": "TechCrunch",
-      "country": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200"
     }
   ],
   "countries": [
