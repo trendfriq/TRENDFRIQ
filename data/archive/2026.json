@@ -1,5 +1,41 @@
 [
   {
+    "id": "1319dbd59774efca69351d",
+    "title": "Asia made a big AI bet on Nvidia. What happens now?",
+    "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+    "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published": "2026-11-26T23:08:12Z",
+    "category": "Finance",
+    "topic": "BBC Business",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg"
+  },
+  {
+    "id": "5718d6cf7adee706224031",
+    "title": "Bank of Mexico raises 2026 economic growth forecast to 1.9 pct",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CdU9LMVAxZDcwbU8yNlhOeGxsLW44dXQ2WW5fR1I4NVBabDN4cFlHVXg0UHU2UUJwSFZNTVJ5RUZpSVNkNUwyNzhwSzB5Q0dzeU1YaFJCSVlBZWFESThxZUdJVjc0ZnNnTjVlTERBU1BPY3F4T3dkd1lEcy0?oc=5",
+    "source": "Xinhua",
+    "published": "2026-11-26T22:52:15Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2eccc11da40e85e306dcd3",
+    "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+    "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-26T22:49:27Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
+  },
+  {
     "id": "cd6fae5189c62649fa9478",
     "title": "HITS Launches $20-a-Month 'Conversational AI Researcher' That Can Design New Drugs",
     "summary": "",
@@ -8,6 +44,18 @@
     "published": "2026-11-26T22:25:00Z",
     "category": "Technology",
     "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "00c94fc9e511dd9bffdac0",
+    "title": "QDB, SC Ventures tie up to boost Qatar’s fintech ecosystem, global expansion",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2p5VHJJN0tnaFVnamM3NUtpdV8wR2xtN1YzUnZxdTNfUDRRemxWXzl1OHNKYm9KNUNhdnB5NjZpZUZNbzRBcEU1RUluLWxuOFhid2J0WjdxcjktOFptdmdKWmRJMnhuN2hkX2l2U0lqUF85RDFaZ29iWHRnUUhMMWdGS2hFYkU4OElzbWd6MFFWb1JFZi1JMHlYZDAyV0ktYTNFZTV6OWFFLWxILS1wNzFmNFZKWGdRNU9xeElJb1BMcWcyS3c?oc=5",
+    "source": "Qatar Tribune",
+    "published": "2026-11-26T22:19:27Z",
+    "category": "World",
+    "topic": "Middle East",
     "country": "",
     "image": ""
   },
@@ -228,6 +276,18 @@
     "image": ""
   },
   {
+    "id": "f7038ed72b3ae57c360330",
+    "title": "Taiwan's Kaimei Q3 Profit Surges 76.87%, EPS NT$2.39; AI Revenue Share Doubles to 8.9%",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56dlgzajNNaDZ2MWk4bkktaGU4S3BaY2lPcDVTbTdsTkRwSUZpWTljWk9YdUpWd2F3cHhGaGFLbVZjSG8zLXY1c0gzV2pSUkxVaUFGZ3BaR2p4YzM5UVdxclRsRmo5RGlRUmtEOTM5ZEs4dTJSbnc?oc=5",
+    "source": "BigGo Finance",
+    "published": "2026-11-26T18:15:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "8b746ee9f9cc8067590bf1",
     "title": "Touchstone Focused Fund Q3 2026 Commentary",
     "summary": "",
@@ -284,6 +344,18 @@
     "published": "2026-11-26T17:45:24Z",
     "category": "World",
     "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d086c6a7bd35052ee7323c",
+    "title": "Leaders choose Spain's former central bank head as next European Central Bank president",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSXZRd0VWS19MOXBRWTV1bmhmTDBOa3RnVDZsNUdIR2xrclh6M055MVQ4UFFzUE9zaUQ1T1NqTlNPTjB5OXdfLS1MM3hnNzB3ZzMwN3N0RWJ2cl9uaFFWVlRlbmh4cWh1cldyU21Qd2x4czN1R2hUeDRWVnM1eGFqZEF3Z0xmY2ZraGItSjFnVGtEa3dBajZqQjVSXzNwd3pWSS1wd09nU0NIeWFtWGVNa25Rem5GVGVGdGRTZ2RoSGlnN19KUjZjNi1uNlZrczhNX0lfWnZ3a0ZDM1NEU21FXzk4aw?oc=5",
+    "source": "BNN Bloomberg",
+    "published": "2026-11-26T17:30:24Z",
+    "category": "World",
+    "topic": "Europe",
     "country": "",
     "image": ""
   },
@@ -624,6 +696,18 @@
     "image": ""
   },
   {
+    "id": "858ffa316006f3a80e61fd",
+    "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMDlCQ2luQkhFZWpiTUktZ1VTMElPRGprTnU2SUU1UmRudi11UzlUOWxVRXowSG9tc3Z4SWhZSzVoQlpWaHg2ZGRSZktVTFpBTjA2S2VSemFWNng1REdwQkRfMjhYNlNxYm1NRzlZR3JfSFBQZEJuSXZqeEZBbGRwbHk3Y01neURwTExTVmxXajFNenNGc0pLeE56Qk4xaUd3cll4WDZ6MVdGOWZuRktyLVFTR1lRaXJ4cS13Z3BQaXhWcFI3QV9hZUFPR2dJOE1pVWNPOGRraXQ5b3Q4MGpncQ?oc=5",
+    "source": "The Globe and Mail",
+    "published": "2026-11-26T14:57:07Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "5a641128ffbd2b0ded9ce3",
     "title": "US Housing Weakness Signals the First Major Cost of Higher-for-Longer Rates",
     "summary": "",
@@ -840,6 +924,18 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fce%2F2b1557be47b9bc08a682a6d8f98f%2Fap26329472681866.jpg"
   },
   {
+    "id": "eae9b7608e42af1f49b7e9",
+    "title": "Spain’s former central bank head tapped as next European Central Bank president",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGVUUk5IRmZyby04NzdlN3J3QnVKeEd5dURSVHFhcmVOdVZERkYxbGo3d0JoeWJEMVdyUWlEU3Z6dWZmU1ozMGNUWFRnN1R0a1IxcGQyN2Q0dDVLTW9udkRvWTRCVHB4N2drZ25fMW1XazdHdUg1RDNWeG1fMjNBa3d1bEpNTGZKTXRpNkt2LWNyYnlFa0gxM0U4QmM2OWhGRHlsZFU3REJYSkV1N2xNeGJrdDZrVkZZY1U5ckpLMzh2eWJVT0pv?oc=5",
+    "source": "Investment Executive",
+    "published": "2026-11-26T13:41:00Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6b097e37f95302379403b5",
     "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
     "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
@@ -956,6 +1052,18 @@
     "published": "2026-11-26T13:11:30Z",
     "category": "Brands",
     "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "9b27168bbba6992a429a1e",
+    "title": "Regional Security Spillover: The Impact of the US-Israeli-Iran Conflict on the GCC States",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDhUR1VNeTZFQVNQOV9tQmd3dVVhenEtYjBHc0k5MFZ3TC1yWXFXQk15WUs1T2t3bENlLXdCOUFnTjRjRWtvUUtwa2lEZ0NCcGVmX29DMEtKQURLUnlxbGZ4QTFlWkVOdHFoc3I1UngyTkl0OGNCQVpFVDYzWHZKakhHSXhNR2ZLYmJGV0Utb3NjTmVDTUNHSjZVOVBha0I0LUZnVzhyc1F1VTg?oc=5",
+    "source": "Mepei",
+    "published": "2026-11-26T13:07:23Z",
+    "category": "World",
+    "topic": "World affairs",
     "country": "",
     "image": ""
   },
@@ -1380,6 +1488,18 @@
     "image": ""
   },
   {
+    "id": "7b5a253217b2fc1f642b2e",
+    "title": "Tunisia central bank holds rate at 7% as deficit doubles",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2cGl4OE9ocEdLMzBnc09OTE5KYnFEaDlYTmFrTERmdk9XTWtJdkk0Y1ozRDBVY3NGZXg2YTluSGZsWWNEcktxMzBIYWNza0pRQ3R2YlkzeS14a1BBdThNQ3hJQTYwTm9HcmxMVQ?oc=5",
+    "source": "DNE Africa",
+    "published": "2026-11-26T10:51:24Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "7cf041493f5f1dec2adb84",
     "title": "Adesina: Africa’s Space Economy Requires $50bn Investment",
     "summary": "",
@@ -1776,12 +1896,36 @@
     "image": ""
   },
   {
+    "id": "fa400fd1d9171d4d8b04bf",
+    "title": "Government steps up stimulus and business role to drive 8% economic growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXdGaWRoWDdFNWFPbXNDUDhQWC1tUEVIZ3c3QVNLd3d2a0VyR0N0ajZTYW1RdXFCMmdpNHd6X3M0eWlqT3FZaXYzdVdVYkdNYU9OdnpteEx3M1JsbEtHSjZjMGNPN2lCY0JDZWhRc2UybzRiZXFXNXg2ZmE0TFdoR3FVeHRGS1dadGJDV1FsMmFSTUlNQmUwNGYxcnI?oc=5",
+    "source": "Independent Observer",
+    "published": "2026-11-26T08:26:12Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "283fd07854e65da3b5b332",
     "title": "Focus On TEHA CEO Dialogue: Africa’s Investment Appeal",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUV1cG15V0xPVnZELUozQkt0a0NfUFR5VzhTdE5oekJVRTN0VlRJUUdkSzNkTlFpeGdKYkRfYXJ6aDlJRUQySkk2M2hDZVV2R2s2emlkc1lrWGZydXdEOW1EWjZuT0FmT1doUWFPNlM4QTZmenFyOGlNdEZKVzRmMGI1a205bXdfNWdIc3BZcXNGZHBVTXRUdDNGUk5yQQ?oc=5",
     "source": "CNBC Africa",
     "published": "2026-11-26T08:21:50Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "d95976f2ee435f842897d5",
+    "title": "SA revives foreign economic representative network to attract investment and boost exports",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS25oY2pLYVFQdVY3R2xSQmdXdjNHQ3lJd0c0VWtSS2hBbzRjYnBZMG0tY0Vxd3o5NUdxV18xd3RiQUxLNUJtZVItTVBxLW43QVBOaHkzZ2pFdno3d2lOMEhyWnZXcjJ3SnVUZDFGM2ZMa3A0RXRoeVJUTFNGLUZjQXVRZ0VDOGlNZVFEMFR3SFhGb3NJcUJmWGNsNjNzaDlicDBvS1N6THJkS293ODhDVzNtemd5WThzSlB6YlY0aVJaSEFSM1BVVGQ3VVhtLWFXajhMVGNR?oc=5",
+    "source": "businessreport.co.za",
+    "published": "2026-11-26T08:19:27Z",
     "category": "World",
     "topic": "Africa",
     "country": "",
@@ -5756,6 +5900,18 @@
     "published": "2026-11-25T05:48:10Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "04e081be48fcd22178d786",
+    "title": "Meet Taipei 2026 Draws Record Attendance, Sets Stage for Taipei Tech Week 2027",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnTks3OW1RcTJBbE5jVGlmaEMwemtBampmcDdMcmY3RHJiRU5KUERCVXhIbUNnUW1lZzRVOHdnYzlqNUY5SGF0T0Fhd2hQUVJXWFdlTnJ2eVg?oc=5",
+    "source": "Taiwan News",
+    "published": "2026-11-25T05:34:00Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },

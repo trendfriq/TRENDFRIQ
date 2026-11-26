@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-26T22:40:32.336510Z",
+  "last_updated": "2026-11-26T23:40:26.813987Z",
   "articles": [
+    {
+      "id": "1319dbd59774efca69351d",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-26T23:08:12Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg"
+    },
+    {
+      "id": "5718d6cf7adee706224031",
+      "title": "Bank of Mexico raises 2026 economic growth forecast to 1.9 pct",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CdU9LMVAxZDcwbU8yNlhOeGxsLW44dXQ2WW5fR1I4NVBabDN4cFlHVXg0UHU2UUJwSFZNTVJ5RUZpSVNkNUwyNzhwSzB5Q0dzeU1YaFJCSVlBZWFESThxZUdJVjc0ZnNnTjVlTERBU1BPY3F4T3dkd1lEcy0?oc=5",
+      "source": "Xinhua",
+      "published": "2026-11-26T22:52:15Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2eccc11da40e85e306dcd3",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T22:49:27Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
+    },
+    {
+      "id": "98bb85340ac63c88f04312",
+      "title": "Small Businesses Across Australia and New Zealand Defy Economy, Remain Confident Heading into Holiday Shopping Season",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRWdHVXBwM2NCMjNkYWVnTDJhM1FhTXNmZjB3Um1VcWJlS2I1U1lNWnZCcGwxcC1UWkJCMmdzamFaT0pCV0kxaGpIcGFHWEhfZ0tYdTM0V3haVG1vaDhDY0EwT092M0g3aGdjM1JxZTFEV1l2VjJnSk1Telh4M19peDE1YThRekJSdXp4MFJMRUJWTGZUZlpkYWlhQmdxX05oVnJlUlFlMVJJd3VDVE5TZ2xmdEN3ZDN1ZzZSaTg2anBGOC1lUy0wZ3Y2bVZXZHVUU2E2bTA0UG1oUm96bDRDLU9Kck1qWndiMjJLQ1ZQd2dxQjBPYVE?oc=5",
+      "source": "iTWire",
+      "published": "2026-11-26T22:45:21Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "cd6fae5189c62649fa9478",
       "title": "HITS Launches $20-a-Month 'Conversational AI Researcher' That Can Design New Drugs",
@@ -14,14 +62,14 @@
       "image": ""
     },
     {
-      "id": "98bb85340ac63c88f04312",
-      "title": "Small Businesses Across Australia and New Zealand Defy Economy, Remain Confident Heading into Holiday Shopping Season",
+      "id": "00c94fc9e511dd9bffdac0",
+      "title": "QDB, SC Ventures tie up to boost Qatar’s fintech ecosystem, global expansion",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRWdHVXBwM2NCMjNkYWVnTDJhM1FhTXNmZjB3Um1VcWJlS2I1U1lNWnZCcGwxcC1UWkJCMmdzamFaT0pCV0kxaGpIcGFHWEhfZ0tYdTM0V3haVG1vaDhDY0EwT092M0g3aGdjM1JxZTFEV1l2VjJnSk1Telh4M19peDE1YThRekJSdXp4MFJMRUJWTGZUZlpkYWlhQmdxX05oVnJlUlFlMVJJd3VDVE5TZ2xmdEN3ZDN1ZzZSaTg2anBGOC1lUy0wZ3Y2bVZXZHVUU2E2bTA0UG1oUm96bDRDLU9Kck1qWndiMjJLQ1ZQd2dxQjBPYVE?oc=5",
-      "source": "iTWire",
-      "published": "2026-11-26T22:05:27Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2p5VHJJN0tnaFVnamM3NUtpdV8wR2xtN1YzUnZxdTNfUDRRemxWXzl1OHNKYm9KNUNhdnB5NjZpZUZNbzRBcEU1RUluLWxuOFhid2J0WjdxcjktOFptdmdKWmRJMnhuN2hkX2l2U0lqUF85RDFaZ29iWHRnUUhMMWdGS2hFYkU4OElzbWd6MFFWb1JFZi1JMHlYZDAyV0ktYTNFZTV6OWFFLWxILS1wNzFmNFZKWGdRNU9xeElJb1BMcWcyS3c?oc=5",
+      "source": "Qatar Tribune",
+      "published": "2026-11-26T22:19:27Z",
       "category": "World",
-      "topic": "Asia Pacific",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -266,6 +314,18 @@
       "image": ""
     },
     {
+      "id": "f7038ed72b3ae57c360330",
+      "title": "Taiwan's Kaimei Q3 Profit Surges 76.87%, EPS NT$2.39; AI Revenue Share Doubles to 8.9%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56dlgzajNNaDZ2MWk4bkktaGU4S3BaY2lPcDVTbTdsTkRwSUZpWTljWk9YdUpWd2F3cHhGaGFLbVZjSG8zLXY1c0gzV2pSUkxVaUFGZ3BaR2p4YzM5UVdxclRsRmo5RGlRUmtEOTM5ZEs4dTJSbnc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-26T18:15:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6e01ee815b4903eb76b593",
       "title": "Spanish economist to become new European Central Bank chief",
       "summary": "",
@@ -336,6 +396,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg"
+    },
+    {
+      "id": "d086c6a7bd35052ee7323c",
+      "title": "Leaders choose Spain's former central bank head as next European Central Bank president",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSXZRd0VWS19MOXBRWTV1bmhmTDBOa3RnVDZsNUdIR2xrclh6M055MVQ4UFFzUE9zaUQ1T1NqTlNPTjB5OXdfLS1MM3hnNzB3ZzMwN3N0RWJ2cl9uaFFWVlRlbmh4cWh1cldyU21Qd2x4czN1R2hUeDRWVnM1eGFqZEF3Z0xmY2ZraGItSjFnVGtEa3dBajZqQjVSXzNwd3pWSS1wd09nU0NIeWFtWGVNa25Rem5GVGVGdGRTZ2RoSGlnN19KUjZjNi1uNlZrczhNX0lfWnZ3a0ZDM1NEU21FXzk4aw?oc=5",
+      "source": "BNN Bloomberg",
+      "published": "2026-11-26T17:30:24Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2fbc6d410457e6b8adbf53",
@@ -679,7 +751,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnY4aXkyalVSM1JVamlpOXo0THFIQmFPQndhT213d09PcmFYblZ2S3htTVJ4cUhvaXQ0elFWR0ZPWU40YndrM2VscDBveU42V0MtWnJMV29xeFkycHNaaVEwYkRRV3g2Wm52YVhHYjFobmdfSTBmeEd0V0hsczZhZ3JmbDNFVnVjZ2xWSEdyeGxMUFVNSGNuOGZkZHZhX3dsZFY4?oc=5",
       "source": "Global Banking & Finance Review",
-      "published": "2026-11-26T15:11:40Z",
+      "published": "2026-11-26T15:12:10Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -718,6 +790,18 @@
       "published": "2026-11-26T14:59:00Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "858ffa316006f3a80e61fd",
+      "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMDlCQ2luQkhFZWpiTUktZ1VTMElPRGprTnU2SUU1UmRudi11UzlUOWxVRXowSG9tc3Z4SWhZSzVoQlpWaHg2ZGRSZktVTFpBTjA2S2VSemFWNng1REdwQkRfMjhYNlNxYm1NRzlZR3JfSFBQZEJuSXZqeEZBbGRwbHk3Y01neURwTExTVmxXajFNenNGc0pLeE56Qk4xaUd3cll4WDZ6MVdGOWZuRktyLVFTR1lRaXJ4cS13Z3BQaXhWcFI3QV9hZUFPR2dJOE1pVWNPOGRraXQ5b3Q4MGpncQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-26T14:57:07Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -938,6 +1022,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fce%2F2b1557be47b9bc08a682a6d8f98f%2Fap26329472681866.jpg"
     },
     {
+      "id": "eae9b7608e42af1f49b7e9",
+      "title": "Spain’s former central bank head tapped as next European Central Bank president",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGVUUk5IRmZyby04NzdlN3J3QnVKeEd5dURSVHFhcmVOdVZERkYxbGo3d0JoeWJEMVdyUWlEU3Z6dWZmU1ozMGNUWFRnN1R0a1IxcGQyN2Q0dDVLTW9udkRvWTRCVHB4N2drZ25fMW1XazdHdUg1RDNWeG1fMjNBa3d1bEpNTGZKTXRpNkt2LWNyYnlFa0gxM0U4QmM2OWhGRHlsZFU3REJYSkV1N2xNeGJrdDZrVkZZY1U5ckpLMzh2eWJVT0pv?oc=5",
+      "source": "Investment Executive",
+      "published": "2026-11-26T13:41:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "6b097e37f95302379403b5",
       "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
       "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
@@ -1054,6 +1150,18 @@
       "published": "2026-11-26T13:11:30Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9b27168bbba6992a429a1e",
+      "title": "Regional Security Spillover: The Impact of the US-Israeli-Iran Conflict on the GCC States",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDhUR1VNeTZFQVNQOV9tQmd3dVVhenEtYjBHc0k5MFZ3TC1yWXFXQk15WUs1T2t3bENlLXdCOUFnTjRjRWtvUUtwa2lEZ0NCcGVmX29DMEtKQURLUnlxbGZ4QTFlWkVOdHFoc3I1UngyTkl0OGNCQVpFVDYzWHZKakhHSXhNR2ZLYmJGV0Utb3NjTmVDTUNHSjZVOVBha0I0LUZnVzhyc1F1VTg?oc=5",
+      "source": "Mepei",
+      "published": "2026-11-26T13:07:23Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1330,114 +1438,6 @@
       "published": "2026-11-26T11:48:45Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "23184d4d01b1577e6a6c0c",
-      "title": "Harrison Spinks’ first Asia-Pacific exclusive gallery in Jakarta",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeGllWVJfRmJDSmtUWU1XRXdkeFNQWlZfdU9PQm40WFZDWHlZQkNLUVgycVFtc3VXenotWlpKc1QtMTJ4Y3czZGR6cXRYR1hrb244eTFVd3hZZ3ZuWkdyVXp2ZkdwbkF4UkIxVXhLLXNESTl1TkItN1JFOXNFTUZCTVl1MUhyR3ZnQW5DQ29ROA?oc=5",
-      "source": "Independent Observer",
-      "published": "2026-11-26T11:28:59Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d42c7b057b7d98a9d515d1",
-      "title": "S&P Assigns Saudi PIF First A+ Long-Term Credit Rating, Stable Outlook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWgwSFBSSGxEMzVzSmtGVnZQXzlLeEVCQzRKQVhIcGVQWXN0blRMOEs0VGxsb2tmVnV3RzlEQ0JJZF9OZGhLY01JTDAyekUxeC0yZjluQzBQc0JldTFlNkpjLVlaVkdGQkx2dVJZSnBlcHNwTWNVZlYtS0QtZGJ3VmExblB6RFRmb01BREU3d05nWHQyX3lrdmFZMjNZbklkRkREVHN3MEs2Nzhua0ZLOUdZZw?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-26T11:23:57Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bc1a659c54712f3489fbf7",
-      "title": "India AI Mission Launches Indigenous Chariot-1 Foundation Models",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNW5ORjhHRWZFNnVJX0NyQlBGc3lhdnNBMlBtQjBZbFJoNFp0N05nS2k2R1dKNEotUWdfZlRURS1UQno2U09qMnV4dF8tSTQyeHVVVWFuRk1kTXEwbk5SVzMxeUd3a2NrYWpYOTJFSldxV2hCSERQekRFUTJ1azNTWjBEYmlCZlZkeDdGM1dJYzlRRGNyTDNYbmJIWW4zdGJNT3V2and4QQ?oc=5",
-      "source": "Adda247",
-      "published": "2026-11-26T11:23:50Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d47facffc6b66e7d86b107",
-      "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T11:21:50Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg"
-    },
-    {
-      "id": "16a9a4cec15bb55bbdb909",
-      "title": "Drivers over 70 face eye tests every three years under new plans",
-      "summary": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-26T11:21:45Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "5928f479bf0c601243a4e5",
-      "title": "China Securities expands Middle East presence with DIFC office",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0VQNTBRSUV2NDVGSGpEVzZGZTlwMWI5YzFfMWZOd1V6ams2a3Y4UnRGbmZMRlBHUTBjdDJWVXlKSDBFQ1NsXzNISjFNYXZSdTVhZEphbWhnT2FkeEhDNG9Vb2hoNThWeGNZZ19kTWYxamJnTGRLcEhfaVZ2SmJTVGVDa3hSUWNkYUI1YUJtV1ROT281NHZZcFcxZTlmZ0NOaENZTE1HYXpuVlk4cnc?oc=5",
-      "source": "Africa Business Communities",
-      "published": "2026-11-26T11:18:05Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fd26270ff810b70f0aaf73",
-      "title": "India launches indigenous Chariot-1 AI models",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMckRSV09mTVFxeWlaN3ZNTmR3WlFYUDJHaHpsVzRKRzZpY005bDIyYS1hNjY3VlNCR2d0bXlCMktRWjh6UFNXZkU3MEdRM0dnSmNub085d2o?oc=5",
-      "source": "The Avenue Mail",
-      "published": "2026-11-26T11:17:11Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b07c161c6e5e1d200fd64a",
-      "title": "CPI Advertising Networks (2026)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LVXJHQlZYWXRxcFZPb3lmcWp4dzZNd3pwVHpNdlhMTjhLaXE3Y3BtR01kVFhUZXZFUXpyQ2lLZkJqZkdkSXBPNHdtb0JFNU9vMzNlWlZZS1lpX002ZXgtVw?oc=5",
-      "source": "Business of Apps",
-      "published": "2026-11-26T11:16:26Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "bed5e42726aadf3cb4fbcd",
-      "title": "ADB seeks to strengthen regional connectivity to drive growth across Asia and the Pacific",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaWppc2VTQTJTX1BIdDQ5Mmc2SE41NmhCUWxtLVpROHFsWUpFT1BsM2I4d3E2YkhzaG1kMy1QY1NzcnlOV2NubExxZWJ2OS1iM3AwS3gxUnd0aDJZMllMY2lDM09ZQ0UxUkdFd2pMeHRvN01uMmlhRFo4UXRvZWJMNHdKNmNiZmp3VWI3eHNSajZXWnB4TEtqS21ETlVpb2VfT2trTmdld1lKdzdMVzN3NFpudlNyblhBYzVOVGRGZVR4b2RQSmpfNjhSV3A?oc=5",
-      "source": "Азия-Плюс",
-      "published": "2026-11-26T11:16:10Z",
-      "category": "World",
-      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     }
