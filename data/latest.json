@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-26T21:38:21.109049Z",
+  "last_updated": "2026-11-26T22:40:32.336510Z",
   "articles": [
+    {
+      "id": "cd6fae5189c62649fa9478",
+      "title": "HITS Launches $20-a-Month 'Conversational AI Researcher' That Can Design New Drugs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CR3BzY3VDVHZVQzMya1VhZ0pjZDg3ODJJbExFa2kycjl3cmEwLUZ5eWZSbE9qX2ZTSkR1ZUtsLXFJZjhlOHBpcDNkYnFpQXdwOG9sT3RrRnNkenVMMXpKLTNXdXJDYngtT19NTEFLX1M3d0s0Umc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-26T22:25:00Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "98bb85340ac63c88f04312",
+      "title": "Small Businesses Across Australia and New Zealand Defy Economy, Remain Confident Heading into Holiday Shopping Season",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRWdHVXBwM2NCMjNkYWVnTDJhM1FhTXNmZjB3Um1VcWJlS2I1U1lNWnZCcGwxcC1UWkJCMmdzamFaT0pCV0kxaGpIcGFHWEhfZ0tYdTM0V3haVG1vaDhDY0EwT092M0g3aGdjM1JxZTFEV1l2VjJnSk1Telh4M19peDE1YThRekJSdXp4MFJMRUJWTGZUZlpkYWlhQmdxX05oVnJlUlFlMVJJd3VDVE5TZ2xmdEN3ZDN1ZzZSaTg2anBGOC1lUy0wZ3Y2bVZXZHVUU2E2bTA0UG1oUm96bDRDLU9Kck1qWndiMjJLQ1ZQd2dxQjBPYVE?oc=5",
+      "source": "iTWire",
+      "published": "2026-11-26T22:05:27Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5a3dd98de28c4660f220ac",
+      "title": "Korean ramyeon exports race toward $2 billion as makers rush to expand plants",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw?oc=5",
+      "source": "Korea JoongAng Daily",
+      "published": "2026-11-26T22:05:06Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5a12d8427988c91984a84b",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-26T22:01:22Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
+    },
+    {
+      "id": "cd64d9fd081d0dad6edf10",
+      "title": "Oil, gas investments to fall to $522 bln in 2016",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTFMMzFWNzdZcWZaMkJKRURuUWFRZ0RiM3gyY3VJZU43MWVjVV9hbXZqeWxwN1l3Z2ZpRjlvbmNFR1dlODFtUVJubXdwVGsxUWY5c3B2dHdYS09ZWEk2T2pJc3BkWmVINjI1MU1qdmk0dlk3Wko0aFlJOEhmRzN2NlEyVGRyZlFmZTV0U3VJdUY?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-26T21:55:30Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7981fabb9de6e8bb40eaa2",
+      "title": "APA NTA 26-11-2026 $3.59727",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3NSbjR1TXdNZkluVlZxaHlRY3RjRVdOSk5XZE9Tdi0wQV9MOS16MTNXVEc1SU43ZWNWXzFVTnlwSk1TVlNnRWJhQldUWGtXNk9LbWd1b0pqNzdMcEVqOGY3VHU1ZFVULXV3QzZUakNtWGd1VTk3dmtoUmJDWEhsVHRpVW42WkpS?oc=5",
+      "source": "BusinessDesk",
+      "published": "2026-11-26T21:50:06Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c879b23d01ccf00c82cb84",
+      "title": "IG Metall Reaches Wage Deal With Employers in German Metal Industry",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUNmTDNqSmRNU0dDanFQWi1RQzZpSENWbzVadnZyVUFQcEl5VWR4Mlo0djdhNTRaMkNHNnJYc0RwMW1DdEFka2U3bWZ1eTJTb3ZDSHVBaU1HN1lwTHBONGtDODlTVEwxaDhzaVNNcEtHZHY1eFlVS2xwSWNBVm1VOU5fWGQ4ZlFoMUhkVV9KNA?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T21:25:37Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "0f889ad86b2320334e2c87",
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -266,6 +350,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg"
     },
     {
+      "id": "00f2d6b3dcf7e3a68a23e5",
+      "title": "Mexico urges Asian trade partners to crack down on tariff dodging",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-26T17:09:43Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "0b8d021f35916d5118e359",
       "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
       "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is [&#8230;]",
@@ -358,6 +454,30 @@
       "published": "2026-11-26T16:47:13Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4135fa226c8af98c826531",
+      "title": "Germany Faces Economic Uncertainty Amid Trump Tariffs, DIW Warns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDhkeWNDZnlUblJtZkMxMVFsdUpoVnFzTmM4MDU0N0FDbVNzS0w3ekg0MzgySlR1ZWszSjFGaDFwS3doQVoxQ09uSnhJN2o4Z1pEU1NZbTVXcUlmWXFQd3NtZ3ExWXpJZTBuamFJNF9CY2xlcjN2eGJ3QVBXaTlTTDBhVXlyMG5ZLUFXTDlNTEdWNVFBbGoxb0FHVFNiMDQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T16:42:10Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e0ab042710d6a51c63f8be",
+      "title": "Jared Kushner says the most valuable US export is capitalism — and his business ties help him negotiate",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVB3aU1XeFNkVW94cng3RkQtNGF4VkM4UF9YOEhyczN3bjhFaTY0d3E5VDRObnR1SUZGLU5HSHBfaDRjSG9fNTdxdENMb0hPblRhdFpxNHJxczQ0VlhlY2dQZkRMM2JpeVJmc2FuRHNOOWFrdnBpUk9PU3FMSjd0MlVVTFNROWV6VG55UVg0U2RJRVVrcVdxYQ?oc=5",
+      "source": "Business Insider",
+      "published": "2026-11-26T16:40:00Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -528,18 +648,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "5a12d8427988c91984a84b",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T15:17:18Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
     },
     {
       "id": "c7e2f187568e9510213bac",
@@ -746,6 +854,18 @@
       "image": ""
     },
     {
+      "id": "c86e8c358366451cd0811b",
+      "title": "IDC co-invests almost R6bn to extract critical minerals",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZfOFlScy12MmpTTmZLLTNYV3hnVmNoOUpGOEJMR1lnN2tfRkFKTjJfNWtGU01NNWxzbEpHTHB1TExhR2JTLUc4UmI2MnR5SFFLUUZ4M2ZQLV9waVpIR1plUFFjanhZTHVqRW40OWp4UURKSXB1aDVCUlhMSnUwLXZzR05yZnpweUtyMlBqY21aSlFWOTZQdUpBWWlIWHBnaUZobEM5RXVTU1N6QTBNdg?oc=5",
+      "source": "News24",
+      "published": "2026-11-26T14:01:54Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1acf3e41a2e63c51709693",
       "title": "Millions of people to see average monthly mortgage payments rise by £100",
       "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
@@ -780,18 +900,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "c86e8c358366451cd0811b",
-      "title": "IDC co-invests almost R6bn to extract critical minerals",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZfOFlScy12MmpTTmZLLTNYV3hnVmNoOUpGOEJMR1lnN2tfRkFKTjJfNWtGU01NNWxzbEpHTHB1TExhR2JTLUc4UmI2MnR5SFFLUUZ4M2ZQLV9waVpIR1plUFFjanhZTHVqRW40OWp4UURKSXB1aDVCUlhMSnUwLXZzR05yZnpweUtyMlBqY21aSlFWOTZQdUpBWWlIWHBnaUZobEM5RXVTU1N6QTBNdg?oc=5",
-      "source": "News24",
-      "published": "2026-11-26T13:56:35Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
     },
     {
       "id": "5e9bcb733b3e8687383efa",
@@ -898,6 +1006,18 @@
       "published": "2026-11-26T13:23:00Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "0b44f3b3c4dd530693640f",
+      "title": "STPI opens 75th centre in Bareilly to expand IT infrastructure in UP",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVoxdkVqX19yRFRsc29VSDh0bkRiM2p4YkVJUzAxQVd1MTNqVjZHNUJqRU5oQ3BoSXp2SzNnYnA5bVlmV25HUmpNZUh0eW5EMlJFd3cxbm9LdWxmR2FmUWVEX09ubHd6SXNSbTBEMjdnSmJacDl3eV9MYjh3Y2hoQjNaU1laQjhDZE4xNnBDU1o4UlFkNWfSAZYBQVVfeXFMUG1aMXZFal9fckRUbHNvVUg4dG5EYjNqeGJFSVMwMUFXdTEzalY2RzVCakVOaENwaEl6dkszZ2JwOW1ZZlduR1JqTWVIdHluRDJSRXd3MW5vS3VsZkdhZlFlRF9Pbmx3eklzUm0wRDI3Z0piWnA5d3lfTGI4d2NoaEIzWlNZWkI4Q2ROMTZwQ1NaOFJRZDVn?oc=5",
+      "source": "Tech Observer Magazine",
+      "published": "2026-11-26T13:21:32Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -1318,126 +1438,6 @@
       "published": "2026-11-26T11:16:10Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "95c56fa4f1ad061d9a41c1",
-      "title": "India's AI leap: Centre unveils homegrown Chariot-1 AI foundation models built for Indian languages and gover",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN0gzdkw3ck91SlgxMFA1bUpXUGlWTlp2YjRRVlhDRGxsVmpwZk1jMUctQkZRNDZTNUNIcTNRZUVKdnVyNWZScVNaVk9lVzdhZGE1TGR6bkpVakV2cW13a0hhWmgxQVJBR3VpMHVDUGIyRlY5cjFfQzR2akI4ZkJCQzVxd0ZINHVHeEZ4blBvRENDaXV1TnVhMW03QUF1bjk2TjVnYm5CdUY5Y3Q0eEh0TUViZWU5NWozZHVPSmtiN1Y2Q1BCWDR6dU9rS0ZNcUVyTUMteFFnUXNfejhRS3NLMHhNSl9xRW5VcXfSAe8BQVVfeXFMT0wxR3pjNEp4MExKRjlFUTQ5UHpCVmlHdFFNRUh2UXU1dHV5NzlWc3dCMHpNYWdDWGx3SUVlMmZFS0FoSWY4RkdmOHhUYV9FQzNpSndVTU8zMVNiUXEzTTd1S1lqbGUwQ3Y0VDIyMUJwVmhwUEtESFBxbGpoc25xTTllR1NER3FnZUNXOFlqVFpQMER3aWhjT1ZNUzR1X29DWUt3ZDd1dVFncmdQUkNZTl9qcXBfbFNYWDhLRkJBbEVXMHJyMDZEZDFGY0lDZ1l3YnBvcmFxWnFEU0F6MTJVQXdIUEJBQkhCSXpZYTEtNm8?oc=5",
-      "source": "India.com",
-      "published": "2026-11-26T11:08:49Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1ee02381ce0bfcd0e2d125",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T11:00:39Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec2/live/6c97c050-e986-11f1-b64a-3bc3040b00fe.jpg"
-    },
-    {
-      "id": "ac24b04ec47c6d403133fe",
-      "title": "Opinion: Nvidia gives the U.S. leverage over China. But the company has leverage over the U.S., too",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVdIbGx1SklwN3E5MWNFUGczdTl2cm1VXy00dFNhZV9XVlR3eXh4S040eFVFcVRvc3ozTWZSS05aQ3ZWYldqX084bWxCVnpsU21rNFBmeXQtdmhXNEhpU2VON19zdTg0T1pud2xNSXFvcXZHRHUtdExZSV9UbUtjSnpUM25NSjItTEJ1S29sajVIbk1BSkM5cEpCR2V0a0RuM0F2cU1rZEhWTkV5VFJNNmJOOXU3aV9x?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-11-26T11:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "106cdd850e1653253f0f26",
-      "title": "Amcham warns new U.S. tariffs could erode Brazil’s competitiveness",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT0dFemh6WnFoRzlTU3VuaDRnNGRWYldlTDZQVFFaeXUzMUVaTTNWSXQxaUJzZUxOY2ZoQTJsSGVHQlZqVEN0M0txQVlXQVpNbEN2emdVa2FmYzZxVzN2cVphcHFXZk9leDM5Q0h1amF0eXlWVUVuT1NpM1VhMkJoYnJXTTY2RW45YmJVV2cwcXhibzNKNldLeTF0MHFvVWVXSnc1QUdtak43QmVRZE9BczNEUWNKcUl4TFZSQ1pobFNOYXp3eVIzQkJ1TkpwQkdnbEM5R9IB4wFBVV95cUxQSlMtVVRNSnhFNmhxVzV0eWpNWmczd0dJdEg0OW5EY2ozS1dYQ054RjF5SU0zYUozVWIwR3kwbGtERnFiVE1jUzlWaG9OOGhFTDJLQ2JBckFzWF9rMjBjYWV2d25STWJPNU5QelVSazBfRGd3X1l3NGlmQTVpMVhZRmI4MzdKWXh4MG5zTVM5MTNpS3BTUWwyMG9GSjVIMzRPMGxiamFUa2xBeTNvWm55V3A5NVNqdVRQMzBUajZ6cUNwYl8tbXlFUWRsUlBBb1J6RndFdFBzQnJSbVNaa2Q2ZFg1QQ?oc=5",
-      "source": "Valor International",
-      "published": "2026-11-26T10:51:51Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7cf041493f5f1dec2adb84",
-      "title": "Adesina: Africa’s Space Economy Requires $50bn Investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlJ3LUJ4ZHJRZ19wSzh4SUFQSVo5cHRzV2lEQjhUNEN4VmxDeWwzeFRkZS1aX2lNbUJ1eXcyel9kakN4ZzNiaDMzem82ZzZzeW5uMkNqZDlPZ1hUdlJZVmw5UEFzcWhGT2M2eVkybjQ4YURoMmd5aVJ6a3NCSHpjUVZxdw?oc=5",
-      "source": "Techeconomy",
-      "published": "2026-11-26T10:51:02Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dd248cfa5dd6f290e48b96",
-      "title": "X is finally getting its first parental controls",
-      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits, require approval for new followers, and limit [&#8230;]",
-      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-      "source": "The Verge",
-      "published": "2026-11-26T10:45:50Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9188c4f17dc953a51fe1f9",
-      "title": "New Canadian-funded project helps Vietnamese SMEs meet export standards",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzVVLWh6X1B3WUpIQ3RpdTNJOGhTZDZRMjFDTE5LdEg3ajZKQ01kMHlWd2hTUUhHN0JxR3pCTHMxTU4za3p2d2xiVWVkMzdZR3FTY1BQX0FkMG9aS0xENUhLZmVLWjhlUEFOSlQxWXhwMmZaclNvNmo2b1V6V2ZwMkhYa0g4T3dYY3hscEFTakNVUG1VcGFaSGNWbExtSXZV?oc=5",
-      "source": "Vietnam Economic Times",
-      "published": "2026-11-26T10:35:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cd015df5de356f50605df8",
-      "title": "Korea-Latin America council celebrates 30 years",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUwxOWE2NGh3d0xLOVJDaURwT0EtYkpfOHJ1U09RTkpzR0t4NHhaeVhPTFJXYWRqakRzanVoWFRFb1oxY2dMXzV6aXQ4bXVBbW4tb2Vzelpzd2t2bGYyeGE5RXM2VFJIVXozcTRvSXVPS2tib0UwWnZCRlhHOGtFNlRVVnJQbHBCRElQWEN5bjRTbS1PTVR4d0pxSklMRWJNd1FYcTdB?oc=5",
-      "source": "Korea JoongAng Daily",
-      "published": "2026-11-26T10:25:52Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "740614d037a97d3b21d521",
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T10:25:51Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg"
-    },
-    {
-      "id": "d58cf8f7901027636cacca",
-      "title": "【Formosa Sumco Technology FY2026 Q3 Earnings Call】AI Demand Ignites Silicon Wafer Recovery; Taiwan's Formosa Sumco Q3 Revenue Hits NT$3.984 Billion, Up 29% Year-on-Year, with 2027 Capacity Fully Sold Out and Prices Risin",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XeDllQ1hyZGMxcFNNaG9sZzREWGE0SEhWWk5fZ2RZV21vaDlvbnlCb3llT1pJc1AxTUl0WkFpTHBwNG10eHA2SkF2Y0hITnc5aDVOb1Ffa3dTYVpFQm9pS3p3?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-26T10:24:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
