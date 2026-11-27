@@ -1,5 +1,53 @@
 [
   {
+    "id": "9ec3f4b1096bc9cd9ff211",
+    "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+    "summary": "Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its most popular gear. Some [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+    "source": "The Verge",
+    "published": "2026-11-27T16:30:37Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ce0c9325ee8cb3e96470cc",
+    "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+    "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely watched decision that exposes the tensions between minority",
+    "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+    "source": "The Guardian",
+    "published": "2026-11-27T16:13:07Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/ad8c8bb232c8d2eaa7194673e8f1d7308e2a80cb/355_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7294bccc9abc19d7cf25229852775a10"
+  },
+  {
+    "id": "60bd6b1a9655a23182e6dc",
+    "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+    "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-27T16:06:37Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
+  },
+  {
+    "id": "f53be474bc7fc47c59520f",
+    "title": "Brazil pushes back on Macron calling its meat 'doped'",
+    "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+    "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-27T15:54:15Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
+  },
+  {
     "id": "2c35895d5ac13bfd29d625",
     "title": "GSP Hires Aviation Consultant to Pursue International Cargo Business",
     "summary": "",
@@ -22,6 +70,30 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg"
+  },
+  {
+    "id": "79d1139b8859768538cbe5",
+    "title": "Mahama announces US$10 billion new economy investment programme at German-African Business Summit",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSVgtS0ZBdS1qRXlMME9aQ0lzdHY4OVVsaFQwZEpGUGt3TWJlVHpoYzViWnJPTS1SY2kxREdzNnBaYmxacjlxTlR1WmNCMHRXQmw2cmZVSThjeXlmbU5MT3M0dEp0MDc3ZzdVdXBVcGdBX1hyelpzOUpsMW94c0JnNnpQMndiRWlFeW1XSUswZGtpU05sQllRcldQQjNBLTRGYkEzZHg5WGxRcGUtcTV3UUZkNFBCbmZMM3c5ZVFRV2hGMU5BR0o2Szg1b2h6Vktp?oc=5",
+    "source": "Tech Review Africa",
+    "published": "2026-11-27T15:36:54Z",
+    "category": "World",
+    "topic": "Africa",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "08a3c52229b003f33f3295",
+    "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+    "summary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+    "source": "The Verge",
+    "published": "2026-11-27T15:30:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "256081816a831a6d2a861c",
@@ -84,6 +156,18 @@
     "image": "https://i.guim.co.uk/img/media/b78bd09c92d89960e79cab8a33338868663794eb/171_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0540f9b74f59c65d1f65a63e5e9ef2f6"
   },
   {
+    "id": "c7a45e747abe44a6d801db",
+    "title": "Black Friday: Europe's gloomiest shoppers",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmhteGM5TzQzX2JUUkhIOXkzVXpvMWZNby1FblZMZFpSS2FuZlBYV1BxeEptS3MtbkxUUGxSZGxlb3RKV0ZHVFZ6dk1HYVhOa1Q4Zk93cTdvSVFFZktZNFBlUmZrUzNIbi1hWWI0aWUwaFVRemNaTzRCY19EN0JrV3RKQ3NzQ3R4SUlTZjlLMlNLdS12Vnc?oc=5",
+    "source": "Euronews.com",
+    "published": "2026-11-27T14:38:42Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "9ca572dd04f874f061122d",
     "title": "Buying a laptop right now is rough, but these Black Friday deals help",
     "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But thankfully, Black Friday can offer a tiny [&#8230;]",
@@ -94,6 +178,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Apple_MacBook_Neo_competition_Lenovo_Acer_Asus_ADiBenedetto_0020.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "539042e920d63e02136a9c",
+    "title": "Jamieson Wellness Inc. Announces Closing of Acquisition by Kirin Holdings Company, Limited",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0ZORTROWHotOVNqNU9HRU1XRHoyZ0Yxc080Y3JQZ3FJRnpYTzI0OG1TNXZYSElrYXlDTnZNem50c3o5YjkyZ0otSFlPS2pnTDlvYXhwcnJEWWxNQ1VIaE5rM1E0cG0xY1ZsaEpTa19nTkZ5aDU5bWdKMVl6N1lZVVg0U1AwYzd3MDBXemJIOU9xQW03cXVTbDBFSWtHSFd2N0NtbzZNelhVUWxVdzBIN0hWSm1SSFBZbDEtTFRFQnRvRkZkTlhiQkYxZnVxOTB3VVdBaXdrZkRxSngxc0UzSHpVcw?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-27T14:27:00Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
   },
   {
     "id": "f84435db99b8af5c2068d9",
@@ -118,6 +214,30 @@
     "topic": "Global finance",
     "country": "",
     "image": ""
+  },
+  {
+    "id": "1f06b845ea0922209f36a9",
+    "title": "CaaS Threats, Tool Integration, US Cyber Shake-Up: Cybersecurity",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGU2VExOTE8wZXFMUkJfZVF6YXcyN0lZTFdGeUJTT19kWFZDWk9hTnpwNTVJUEJQeF9fNTRYaDNzMzZqaGR0bGFkU3V2NFpoOEtOSFJ2ZDVwTUc2a0p1TVVqYVd0a1NKcTBEQXBlakRLdFZnVHFYUGdkSXR1c3NmejVISnpXYkJ4TmFrbm11bVVuSk5UYU9TcnZiZEZlelVRWmlreDVlN0o?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-27T14:05:16Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "8ec456ca88761fea6cfcb3",
+    "title": "Amazon’s sale deals deceive customers, thinktank alleges",
+    "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months according to an analysis by Groundwork Collaborative, which Amazon disputes An Apple Watch on sale for $680. A pair of women’s Hunter yellow rainboots discounted for $127, and a pair of men’s UGG boots, $180. A Carhartt beanie just shy of $20. These dis",
+    "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+    "source": "The Guardian",
+    "published": "2026-11-27T14:00:12Z",
+    "category": "Brands",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/3fd874b4fe3a8894153f2b9fcb7206a3baf3e365/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=237bbb587a5e0939050adaef26594466"
   },
   {
     "id": "1d140bb3b26b0663e87bbf",
@@ -252,6 +372,18 @@
     "image": ""
   },
   {
+    "id": "9830a56ced53a11ceec7a6",
+    "title": "Earnings call transcript: Asseco Poland Q3 2026 profit growth lifts shares",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3p5bW1jQ1l2UC0wcFJNbG1BUHBsaDBlb192Z2VocTh5RTd6ci1RUlVUTE1NVTh6MzBlQnpQaHZ6TUtTSWFXVXF5MWZzMS1kNWdXbkNqRktfLXEzTC0xdFk0TG9OYXNkSnd6czgwRDN3djBaWUtLM2E2VjU2MktzbmhDRkhBam9wRWlCeTBJU2plTHR3WFgwMkI3Z0t4bU9mTDd6UUJBZVFvNE1fZ21kMlJiZmEza0lHY1BUTFpJd1BIUmlnbGNFSA?oc=5",
+    "source": "Investing.com",
+    "published": "2026-11-27T13:09:20Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "9f9e171591e4098beb17ae",
     "title": "EY Launches AI Academy for Clients in the Middle East and North Africa",
     "summary": "",
@@ -380,6 +512,18 @@
     "published": "2026-11-27T12:10:39Z",
     "category": "World",
     "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "1b0c53683fdf2386eec733",
+    "title": "US Treasury yields decline despite rising PCE inflation and strong GDP growth",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVLdzNtMUxKT2JYeUZad2pYcG5BV3JVLU1jX2RyYlhmWjV3NGVUanVhd2tWcVo3Z1h3Qk85TXFCLTExNHNnUDcxRjctNGZaS0NNNWhrLS1tQ0IyajlBY0VNa1UwaGFpTDA2V19hME9qbWFKQUhydC1lOEFSN3VHMzMzZ1o4RDVpMHAwaDdXVThpMU9xSDR1eEgxZkwyYjA4U0hNUUpiSXlqbkdhZ2NvRmdwcmxjNHpzN09oTl81aWFvZEhx?oc=5",
+    "source": "Equiti Global",
+    "published": "2026-11-27T12:00:43Z",
+    "category": "Economy",
+    "topic": "Global economy",
     "country": "",
     "image": ""
   },
@@ -924,6 +1068,30 @@
     "image": ""
   },
   {
+    "id": "6110a97cccf3b508e4a2d9",
+    "title": "Taiwan foreign minister urges businesses and government to shift focus from global sales to global investment",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdkJEWms4UEFaT2pabkpfUXRHSVhKcG5OMnhlUDBzYkswMV9Fb1ZZZW4yaGl2RXFFVmRhLVZMZ0dvUm5HUGFPYnp1WDJDMVQwU1ppNmJkajNpWGJVRHlJQWJhSWV1ZVZkMElQZkNEdzlxeGFrX2ltM0pFRExITng0TDhCVmJEcXdwYnFUM0tHWFJTV3Zka3ByQXFUaGdFSWp3Rkhfc0MxYmpSb3pYVlFVWElQMkhMd2FKTmEzZktuT0VrX0NUOThjcTFJbExiVVV0SnpPWlJNTTZWeUtnNmh0SVZ1aWM1TWlyV290QzJlUWE?oc=5",
+    "source": "联合早报",
+    "published": "2026-11-27T08:38:07Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "b47c9ed985511bac0de8a7",
+    "title": "Poland Grows Three Times Faster Than Germany, Reshaping Europe",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1Q5WnFWQkhjQ2NxZzVya3hfaU1zaS02RjJfSEZ3dTdQaDlKS2dPYi1ETXZtTFk4Ym15WkNKd1VfU3hoRTUwOVFyZHlKS3pvQmJVUU16RGdRcm5jQjljZlNCNUhBNXczYWo2T3JHMXBsNDRjektjLTFSWkRLRGNObjZlNnhqbmRmSFZuVzBFLURyQ1RmeU5kS0F3?oc=5",
+    "source": "Seoul Economic Daily",
+    "published": "2026-11-27T08:36:59Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "8e8e2d373c334fc16ee9e1",
     "title": "Shoppers helped pay Trump's tariffs. Now Target, Best Buy, and Kohl's are booking $387 million in refunds",
     "summary": "",
@@ -1320,6 +1488,18 @@
     "image": ""
   },
   {
+    "id": "da9bcc2fc087e2a16e504b",
+    "title": "The US and Europe have opposite economic problems",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzdDSzNtSzlOZEcxbC04T000bU9pVV9ncWZ6Vno4Y1ljRlZQOUgzOFJQUTR3V2tFT3RxaWYwQUJVbjVSRW8xVzV1VW1BT3BHOVJuT1BFMmphMEIyZXc5YnZnS3JOMjRzRzhBLWF3eTQ2TkVBVGRyME1QVmlRWkZub3pkSTU?oc=5",
+    "source": "Financial Times",
+    "published": "2026-11-27T05:03:45Z",
+    "category": "World",
+    "topic": "Europe",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "237e081d1abcfa32ac1d52",
     "title": "Forbes Middle East Announces The Agenda Of Building The Future Summit At The Grand Egyptian Museum On November 29-30",
     "summary": "",
@@ -1496,6 +1676,18 @@
     "published": "2026-11-27T02:35:00Z",
     "category": "Technology",
     "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "f74d44e7bfb3a36a2996a3",
+    "title": "Building Asia-Pacific Community",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PbkhITmlBbU1jTllzM0VRdmpkWDJJTWszWjVVWERPN0lwYmg4Zkt6ZGR6RU4wZFBoTEVjVmJ2QnlWMTlISzRldDY0UW5IQ21C?oc=5",
+    "source": "The Rising Nepal",
+    "published": "2026-11-27T02:32:38Z",
+    "category": "World",
+    "topic": "Asia Pacific",
     "country": "",
     "image": ""
   },
@@ -7764,6 +7956,42 @@
     "image": ""
   },
   {
+    "id": "04309e1eed0712a74c0c97",
+    "title": "Daily market news",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmZiSENRQzhfN1N0OUp1bWJmSmxWSXFhVm9hNXNWanFhdFhuNmN5RW5fLUt6TmxzSkktUDQyRkdpdU8xYm5sYTR0QmpiMzg3dEdkdldPaTdGU21vRHRFSTNhMEtodUc2ME53MXdyMUhHbVhHMG5PTmdVVHVLa1F2NGRxbjRrd2UtZmpndEpGR3JVbWtO?oc=5",
+    "source": "Edward Jones",
+    "published": "2026-11-25T08:00:00Z",
+    "category": "Finance",
+    "topic": "Global finance",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "cd8c9f32d7c69d3651122b",
+    "title": "AI Act",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3Um0wTW9MYVN3ZnEwZU1sMWxDTnNHYjM4cjg0OGhWa2k5N3Ywb3VfU2pVdEhlR0NqUVdwYUw5Zm82WFNUaGhGZ0o2anZxN2p5MFBiRURiQlJEMkNpLXZ3UEtUbjMzTDJoYzVtRjF1UWNpcVZnQnVUVnhCb1Jwdw?oc=5",
+    "source": "Shaping Europe’s digital future",
+    "published": "2026-11-25T08:00:00Z",
+    "category": "Technology",
+    "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "a7116e0467b2cf6ef39745",
+    "title": "Asia-Pacific Media Partnership Officially Launched",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDk5aU8yNjk4d3ZvVFF1bmZ4Mzk5anBkM1B5T1dmWVI5UXJSMXBBbjVMTDRwZzBKaW5pRFNNLUpuSmphcW5aZ3pob3V5RTF4VzlGQXRIQ2NEZ05vTEVGdXlzN2FtMlNHVnBhOXRReEhfOTVZX0VpaXNESW1Pa2pYUUdYcHh3SGw4Yjk3bmZNU2ZibnhldFI2UmtUTHk0alJhTFF5SQ?oc=5",
+    "source": "USA Today",
+    "published": "2026-11-25T08:00:00Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "1cb3923d4e1b2c953bcb89",
     "title": "How Italy turned its UAE partnership into a strategic asset",
     "summary": "",
@@ -8266,6 +8494,18 @@
     "topic": "BBC News",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+  },
+  {
+    "id": "2278940c8148a141e4f5d2",
+    "title": "India’s Ranking in Different Indexes 2026, Latest Global Rank",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXSE53LXhuaERtTnlVZXdTOTNyRXc2UHR6YVZGeHhYbDZrOWpjVWhkNGM2c01TcTFEeFRQRHdMZXVkYmw4UjhqRjduTFc4Z1NzbDNGUW1jaHB5dmtBQ0M2X2ticXl5SWxJbDdWc3I1ckRjMk8xdUxvRGNmUlB3Zw?oc=5",
+    "source": "Vajiram & Ravi",
+    "published": "2026-11-25T04:40:34Z",
+    "category": "World",
+    "topic": "World affairs",
+    "country": "",
+    "image": ""
   },
   {
     "id": "08761e86fb871f853b21c5",
