@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-26T23:40:26.813987Z",
+  "last_updated": "2026-11-27T00:48:16.440692Z",
   "articles": [
+    {
+      "id": "a067c0da2f1d9669615277",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T00:29:48Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "3c01055c44d74eefc54e96",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-27T00:02:19Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "1a9b026564aa8b016c71b7",
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-11-26T23:17:12Z",
+      "category": "Finance",
+      "topic": "BBC Business",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png"
+    },
     {
       "id": "1319dbd59774efca69351d",
       "title": "Asia made a big AI bet on Nvidia. What happens now?",
@@ -143,7 +179,7 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png"
     },
     {
       "id": "db806ae0be60040dc8e26e",
@@ -384,18 +420,6 @@
       "topic": "Middle East",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "a067c0da2f1d9669615277",
-      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-      "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-26T17:38:56Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg"
     },
     {
       "id": "d086c6a7bd35052ee7323c",
@@ -1414,30 +1438,6 @@
       "published": "2026-11-26T11:52:14Z",
       "category": "Technology",
       "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "aa76240b301c8abe06ce94",
-      "title": "Govt launches indigenous Chariot-1 AI foundation models under IndiaAI Mission",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGE5aHkwcUljM0tMRlctbmZGVnhjeFhTaTViXzNDRjViWlJLMVItT3g4eU9sWUtHdEV1NGloU3I3UEZ6a2hvSVhFV0R5VGpvZkFmdktGTkJGTEpyOVBZeEEtUnVvWXBYVjZ3YzB0aEhyc2VoQmZDYy1fdEdMQVJiWlFTQWR1R3FpZW9pd0JZV1diZWE5YWVMOVhKQkFldkwteXE2eWRVQXpmMmM?oc=5",
-      "source": "MorungExpress",
-      "published": "2026-11-26T11:49:54Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c9eff6d29ac5901dd7ef64",
-      "title": "India AI Mission-backed Chariot-1 models launched",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3Y3MTZIRFBYelVkdlI2M3NPZHRaTEJYMTdhYkp5VUlvZE4zWEhLMy1rZ19DdXRFbUVuQnh2a1hxWGpqTGNkMzdvV2loS0czalp2bEdVcU9DeDNrSzR6UkhucjZ5XzZySnR6TTBKdlVxem5zX3RUVFhnU1dkNnM5amVYQTBLaWxJd253S2FGNkE1Zw?oc=5",
-      "source": "Communications Today",
-      "published": "2026-11-26T11:48:45Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
