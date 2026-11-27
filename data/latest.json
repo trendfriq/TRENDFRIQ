@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-27T14:57:10.847058Z",
+  "last_updated": "2026-11-27T16:02:15.245902Z",
   "articles": [
+    {
+      "id": "2c35895d5ac13bfd29d625",
+      "title": "GSP Hires Aviation Consultant to Pursue International Cargo Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXzFpQTVSTW1lb2Itb2c0SEpDelJiRG0tU1VpVHVfbFdMZFlsMnNBSHRaaWUxVXBac0Z2dWtRb2Q1RHFMWVk0Q1Bkczl2MnIwWHRwdVF1NU04RGQwZzVXbi1sd3hsQWluNHJQdDBlWVA4OHR3aTJ0Y05nTUpvR3ZQQ2pFYWltSzBMZEp2SmZEYkI4YzQtYmhaQmlKdDZScXdQanRXR2pEWUNWSGhXSmRSZFhaMG9Lc2pMeUVj?oc=5",
+      "source": "Greenville Business Magazine",
+      "published": "2026-11-27T15:43:05Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5ef4be14e1a178dfd7a60b",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T15:38:13Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg"
+    },
+    {
+      "id": "256081816a831a6d2a861c",
+      "title": "Trade and Financial Services Round-Up Issue No 45 of 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT1JLRmltWjZBeF9teWh5SG9DQWZZZlA1QlJaMXZmOTVKUDdzemo5Vnc2X3MyZDhLTFYtMnFXRVJ3aXQzc2dKQVF3Tk52d0RJTGo2bERXMy1Hc1JyZUdVYnNMb2NDT1FmaF9NWjk5a3RHT2pud1ZqOWIzYWxFSE4yREUzbDBHZw?oc=5",
+      "source": "Vellum Kenya",
+      "published": "2026-11-27T15:27:30Z",
+      "category": "Economy",
+      "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1eab93bf7e54c93e2ea577",
+      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T15:18:51Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "7c7af34bb6b58b31fa451a",
+      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+      "summary": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal events. The best price that we’ve previously seen [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T15:15:28Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "5813550398040e4fc6ea29",
+      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T15:15:19Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "60c0a46596fd63bceaf1d8",
+      "title": "Türkiye-Russia mutual direct investments reach approximately $10B",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN29qdE1WMnJOLTExR0tXQ1Q1QnJHRDJjNGEtVHluMkVpUWFLMlhhYXdoTWlnMms1WllBWGxMbzJRcVRQeEZYQjZCby1hbmxBUUhBNm9QRUV5WG9vVlh0N2VuRUZNMG9ieVFfQ0Q1b0hFekNnUDQyNXNiS1p4d1hBMHJuckpxSmlkcG5OTUxvLXRmQ1NMQ1Q4dTZIamFaaEhHQlNFcmZGbko?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-27T14:52:29Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a2aee26315fa8c166bb3a3",
+      "title": "Hackers reportedly breach US Air Force’s flagship cloud computing platform",
+      "summary": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US Air Force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported Friday that the intrusion into the USAF’s Cloud One platform cou",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+      "source": "The Guardian",
+      "published": "2026-11-27T14:50:15Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b78bd09c92d89960e79cab8a33338868663794eb/171_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0540f9b74f59c65d1f65a63e5e9ef2f6"
+    },
     {
       "id": "a38c1440c2b10cd04c7261",
       "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
@@ -84,6 +180,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268886_Keychron_G6_HE_gaming_mouse_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "292ca3888b5c92558f2f4f",
+      "title": "How America’s Tax Code Subsidizes Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2R3RF9SRFRfYk9yN2J0TVRSMTZQMzhFem1POWJlbEJydlRXd0dWX0ZPem1UVjRaaUtNX1Y2Wjl4dzRIeXByd1prU1RYS1dMa2F5YjJzSVdrY3M0alFiTlAxdVZEanJEMVozcUxIVVQ4SzhiZ0VzS2lhMlkyQU91ajhoX3gzSWg1TnRyZjAxT2FPaHE4bTU2bENB?oc=5",
+      "source": "Pasadena Now",
+      "published": "2026-11-27T13:53:21Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d99f6db4c8570f23ce0573",
@@ -398,6 +506,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0052.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "1e82c20bfd294eebdfbfaa",
+      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+      "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T11:22:02Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/fde88380-ea46-11f1-b220-b9f21129b546.jpg"
+    },
+    {
       "id": "ebefa0b5b1ec1ee84963ce",
       "title": "Box Inc Q3FY27 Results: Analysts revamp targets ahead of earnings",
       "summary": "",
@@ -416,6 +536,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFdtOExTZDV5cDlWTlFxMjhaYWUyVDZjZmRVVTNIb19RcDBmdkV0UzhzSU04dmFVUFp1V0dNTm9vZllwNG9PN0hZUnh3NVUzTFpyc084SVFVTVhseUtIMndEQXp3T0NQdm4yc3dUMHg2eWI2aUdQMmdzVW9kR3NweWtIVHdocXN6RnVGcVB3dG14TzNpUjdmZ2tSZU4wdHA3YVo0czJITFJCWjdtdTZJY1Nqc0ZDcTJzdjlyN2kyNUFHOTg?oc=5",
       "source": "Kalkine Media",
       "published": "2026-11-27T11:14:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b4defc476d6946ee8ecd2e",
+      "title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkx6N3IzNUI3Qmh1c2J4dXhma081UWlWOGh5aERTYTZ2TDhTYkZJVlpEcTNxNnRwZnZOX2E3ejY1OVhaenR2N2VYSHEwOUFFYnZYZnZNSURfTlVwTVpvTkFzWmRrbVRnaFBqSUhrUDR4ZUM0a0RlRTk4MW5EcnpkUXktcXJTa2w5NEEwTzRkQjRWTlp0SXNsVm82SXZGby1TRjRHZFdLOGdZMmNJU0NfWUZlMzF1SDc3SThiaUx1OFdIc28?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-27T10:53:00Z",
       "category": "Finance",
       "topic": "Corporate results",
       "country": "",
@@ -492,6 +624,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
+    },
+    {
+      "id": "e953394d53cc375096ebf3",
+      "title": "Enclustra launches Singapore HQ to drive R&D growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSTVtSTE0QmpTdGt3SEt2ZUVTUkJEQ0VselctbHBjVzVaMDJxRmtKOVJLeXZzVVc0NWhYOXZ6X0NsRE1admt3YTBZTVZEQmF5VURuQVdIVzhDYWE3b0EzUnpPR1ZCTE12WmpJcVRwemVKS2xHbzdjZXBFbTNBR05oOEdqXzdYRFBselVESDlURnk0VFdpd1l3?oc=5",
+      "source": "Singapore Economic Development Board (EDB)",
+      "published": "2026-11-27T10:18:43Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "c671b62accf1dd4b778ca6",
@@ -1274,6 +1418,18 @@
       "image": ""
     },
     {
+      "id": "59cfc73998e26e3fd67a71",
+      "title": "SpaceX boosted revenue but isn't profitable, first-ever earnings report shows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGl3bVhNVVpvSnhTTzFheWFsSkJqWkJsVEgtMUlBZjBJWkk2X19OS2JEY0tKdDFfMjRpUS14cDhCTG5nQVlIc09UMXlneXNka2tKcGUxbmxBdU90b3Nsc2ZmdExmbjN1aTFnYkVDMy1lOTFmWk9iQ1VnaGZCYXp0ajNPX0FjWGhoWkhhVmNGcTY0NmtUXzZEVzVyTkQ3UzjSAaQBQVVfeXFMTUI4dXF2UzNpRThfT00wMW04Vm5IZFlLeUlMdlU2WUtnWWllSG5neTM3SnhTRVFLSGttOW9pQ1NmSm1VRVpXNzlFLW5XSE9ySEl3alBUZGxQTzNPUldHY0hNczJ4Z2JfbnAwVV9EdzVnYlNBLVhQNHU3ako2WmowWTZDUUQ4VFM4OUh3V2lqdlRUcHRlX0h5bThPUGhzdlA5d0NGMmY?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-11-27T05:25:05Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f04dd1163db5d12e5ecf40",
       "title": "DPIIT Startup Advisory Council gets founders of Zoho, Lenskart, OYO, Groww, Zepto, Minimalist on board",
       "summary": "",
@@ -1284,162 +1440,6 @@
       "topic": "Technology",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "a067c0da2f1d9669615277",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T05:15:26Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg"
-    },
-    {
-      "id": "bbba10cb49b7186c88f9c0",
-      "title": "European CEO Sentiment Reaches Two-Year High, Survey Finds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmt6aVBZcUpSSVVKNDNWUWxZYnY4ZTlSWUNNUG5oZFV0S2JraUlWWFBiRThEbFJ6LUdMM3FILW1yTzFPMFkxLXNHUzJaX2JqNjYzRFVkcWlpU3otWlh6NVA1a050eFR5OFNoNnV1RndrdHFuUzBQWEpJbnJReVFfTTBSeTk3VGk3dnI1S3haWjM?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T05:07:43Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "237e081d1abcfa32ac1d52",
-      "title": "Forbes Middle East Announces The Agenda Of Building The Future Summit At The Grand Egyptian Museum On November 29-30",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQckQ2T0szM3UtQ3JIRC1VYXUwUkt6dUFwYkQ2Z2ZFY2pfSHQtN1I1Q0s4dVZ3dXJ3OVYtWVQ3MkhFdzJLMTNaTUx2QjNnUVpVVmFaQXhROE04OWVtd1lmTUtlWm54SjV5YXpWTjVLMVR1RjBqcF9TcklpWHQ5SHFqUnFDNnBUeDktQUNLRS1PYlA0Zm5XbXdNUEs0dlN6bnhsT1RILUh5dmZFdlFzazN1Q2JtVHZfbXBJZWNva3plUDN0NGZWSzhIOEFzWVVDdTlwTk04OENnVHNjSEJxRG81RDA1dTRRZHpRbTlpOQ?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-27T04:34:53Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7c5f4875a070a7fa58c93b",
-      "title": "Forbes Middle East Announces The Agenda Of Building The Future Summit At The Grand Egyptian Museum On November 29-30",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVGs0dUFMdms2UGxoZ0Y3QS1CY29zZUgycnAtZGlvbFBzY3FNdkNtVmhoS29vV01jSFZhcXhENG5INlhYQVBxM29LdFFMb3puck9ualZOZTI4YkJSYlFxcUZsNnBKSEc0clUxaGw5R0R6OHFqVl9maFJJRTB5TEp6aE1odlppenVvZ2JnT2I5eGFIcTMySGU0eDBsZlFwbHBtTTJpd0JidWltdm9TT3J3LUtlRkdGcEdEdDNvR2lyY1pxdTd5ZEpXRlpfdEItSFJVV0FIejl0UDYtLVdoWU9IMDJlanFHYVEzX1FQdWdjX1g5UQ?oc=5",
-      "source": "Forbes Middle East",
-      "published": "2026-11-27T04:34:53Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "676453fdc342fc8d2d99ae",
-      "title": "STPI Inaugurates its 75th Centre in Bareilly to Strengthen Uttar Pradesh’s IT/ITeS and Startup Ecosystem",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05eWc4d1FqX0VZQmphdWFGZk5zU0xxanFOY3M1Ukp5ekRnaEJtaXVnY2tLbXpLZDdDV1hUUnB0T0lORXNyeHFUYWh1cmdRaTdfR2dVekFHMXlyVW1QNmZrRmQ2NVVPa2FhNDdER0M5dTFNT2xVRllFSk5GWHA?oc=5",
-      "source": "www.pib.gov.in",
-      "published": "2026-11-27T04:22:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "83b173d98616f480e62370",
-      "title": "STPI Inaugurates its 75th Centre in Bareilly to Strengthen Uttar Pradesh’s IT/ITeS and Startup Ecosystem",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qdFNSY1VJRW1wTjJ6LTNZeGprdmVESVVrRmhxb3Fxb2c2N0dNcGJEWDlDeU0zWGdyRGhTcWlPS2Iwc1hTQ3lsVkxZTzdXemtSa2hkNVgyM24ycng1SjViWGdFa1ZuVXlVN2JWX2h1ZUp4QUdsck4yZ3huVmo?oc=5",
-      "source": "www.pib.gov.in",
-      "published": "2026-11-27T04:22:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "97b695080da2f07df2546b",
-      "title": "Companies advancing business growth honoured at Middle East National Business, International Business, and Technology Excellence Awards 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWnl1ajQ3QkZ3N29rWEFETDI0bVllREdmWDBIaGFzV3NTWWtMQkZoY1F3THduY1B1bVQ5bGtrMi1hMk5RZFNfNnVlQ1VXYUtvT0FVSHhvaTRfN2laN012TE5HTW53a3V0b0x2bUJPVGdnSnE4cy1mN21Bek9JcklGZ3VuT0E3U1N1enJuTDRsNnFOelBCSkZKbVZPME1BZlN0bE5ZWEZlcGJVMnlUekVKZ3JSZXFnOFQ2ZkExTGRlV1dwb01fczV2bjFxSUFMb3ktc3pFUHZhOUxja3pJa19zeUR2LVA0LVdHU3VncWhPUENjQ3JfSFBYVGpB?oc=5",
-      "source": "Asian Business Review",
-      "published": "2026-11-27T04:13:30Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "08d9f8d241b2b1f4c1ff3f",
-      "title": "Quarterly Earnings Review: Mixed Trends Across 4,315 Stocks in Sep-2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQjA3Vmk1UEVKZDkyN0VPbktDbktjRGJQczRzWXh3ajY3S2RmUU1kcGxEb2sxMVR1QmxnOFZ3RC1fdVJncEZtWkw0VUtPUFY5SXc5WVRiM04zOWZFQk9zbmtfNGdYeWNFbGtrdnp3XzZWa096ZjBITEU3eXM0b2t1V01KZ3ZjQ3ZLZWI1dmR4MXV3TXNCQ0l5NmRjcTdvclQ5UTRLRjZfamJvcDFqR3kxbi1sYUUzTGg2ODRxLTdYVURkbWZrTjU4?oc=5",
-      "source": "MarketsMojo",
-      "published": "2026-11-27T03:53:12Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b257a9f003eafe9ca6c005",
-      "title": "DPM Gan Kim Yong at the SPH Asia Future Summit 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOam1vSjM1dHZDUkdyQUxsR0lhdzdQTTVxMW9zZERLNzdaRkpTYmN4WVZOczVOZlFndVM1MThtM2s4YWRLcE1MOExoSFJmaFVPOXRQWlI3ZnJBMVVuenVWc05mN3Fra3N4VWo2YzZZVW1iUWtCRUZKUWNjbklrUG83ZHQxRnk2WFFmSVpmNQ?oc=5",
-      "source": "Prime Minister's Office Singapore",
-      "published": "2026-11-27T03:38:16Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e99e134e3d7fdb2a79e7d5",
-      "title": "Investment banking & brokerage stocks Q3 results: Benchmarking Raymond James",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHNfeGpCaGVhNVdOMnVZOW9MUFhMbWhvem92U09rbzJmb1JvNEI3ZkJjSUZZU21tTzYzSjdldDZ4cWVXQW9xQWtUQUh5eXBkbXJ0WFNKNWlYOFhiSHEwZTdhVzZTaHJBcmR2TW85MldReVFsaWZrUnpKcWZyS0xFMDZ3UW5hWVJCQnFrLU5xZFVjUFBjOEhzZlhSV2NaZmxsV2h5NDZzQ3Rpc29UTjVlcjVOVmxvX0JIVUhCM3BDTG1JSmZidG00OGtlWG1ZM0E?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-27T03:32:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "165de68efd44a5c9a11261",
-      "title": "Why Shenzhen’s Huaqiangbei electronics hub is attracting more foreign visitors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOS1xa1prQUNvUXN5Y3JCUlUwNmFKZ21pUEtrWVJHYVgyY2NSWHpSelFhYi1jc1pyLUpGQ3JyQ3JveVF5RFhoTE52RzY1V2VoTFotMGJGTlp2ZmpOREVCcEVIeVZpSGdVUFEyMlBPb2tIR2RUSjdvd2tJTHpaSHB6UmlMNnRpZ0ZmSGx3YmlGX0JENXVmZGd3dVc1WUcxeGlZaUlQOEpUMjBFekUxcHV3STRnWWdkVmdwTS1GdE1zSlRnTHNDX0pjdlU5QlJ4LWo5OXNnY1BDOWREdXZNSHZQQVVRZzRVdw?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-27T03:30:10Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6ac57f841142c48b7d600e",
-      "title": "Why Shenzhen’s Huaqiangbei electronics hub is attracting more foreign visitors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSUdwX2JfdGxpcjItX194TElwckJPZ0UzVzlkQjFUcGw4b193UzhpTWJ2MUU1NjVyWGpPQVVFMUF0MGc4N0t0eEJLeWg5azMwVDE4WV8zWFZVQnJBSHV3dUhINWZJcGZRR19TT1FvRG91NjN3TFQtNUlWcnVWT0RmeUp6empHcnliRzlSeWNTMFR2ZGxsczkyOXJoMllva2JZLWVOa05ISDZaRzktUldhYUNUMm5pWDBGRlNyRGhMLWwxOGl0VlVNXzBFX1pTQkc2d2UtX3BR0gHWAUFVX3lxTE5BNzZuVkV6SWVoRFppM1pMSWVqUVFYRkNpYVd6MFdnYTNqemJyQjltclVoMTJiUkdldzRneUZ1X2JhU1JOSnZxOVRQS2VHc1VsZTBzaTg0RnpaSUhSa3EyWUdKRnZjSV9oZDB3azlQb0FhWXM0QXZKM1Vtai1mcHgxdnVLbDZWQlJMVzhpRTlybWl6NWZJQUtJYmYwQlptd19xeXFzT0VGckhMekFQdU5GUnZjdDlnRUtTZEpjWVdpbHBnUnNmWXppdFJPVFFHTi1JWkRpaUE?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-27T03:30:10Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7d6be5dc19172846ebe8f1",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T03:28:15Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
     }
   ],
   "countries": [
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 18
 }
