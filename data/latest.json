@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-27T03:21:58.131684Z",
+  "last_updated": "2026-11-27T04:32:42.108451Z",
   "articles": [
+    {
+      "id": "165de68efd44a5c9a11261",
+      "title": "Why Shenzhen’s Huaqiangbei electronics hub is attracting more foreign visitors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOS1xa1prQUNvUXN5Y3JCUlUwNmFKZ21pUEtrWVJHYVgyY2NSWHpSelFhYi1jc1pyLUpGQ3JyQ3JveVF5RFhoTE52RzY1V2VoTFotMGJGTlp2ZmpOREVCcEVIeVZpSGdVUFEyMlBPb2tIR2RUSjdvd2tJTHpaSHB6UmlMNnRpZ0ZmSGx3YmlGX0JENXVmZGd3dVc1WUcxeGlZaUlQOEpUMjBFekUxcHV3STRnWWdkVmdwTS1GdE1zSlRnTHNDX0pjdlU5QlJ4LWo5OXNnY1BDOWREdXZNSHZQQVVRZzRVdw?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-27T03:30:10Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7d6be5dc19172846ebe8f1",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T03:28:15Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
     {
       "id": "9a781f6cd7e9ce272d4b45",
       "title": "How innovation turns disruption into opportunity to power next era of growth",
@@ -14,16 +38,16 @@
       "image": ""
     },
     {
-      "id": "7d6be5dc19172846ebe8f1",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T02:55:31Z",
-      "category": "World",
-      "topic": "BBC News",
+      "id": "ee727bd770174ad7ed02ef",
+      "title": "[Opportunity Amid Crisis: K-Construction] Operating Profit Jumps 127%... Triple Gains in Earnings, Financial Health and Shareholder Returns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ENHBRSS1QTE8tRjdGT1BOZU5Fc3FTWFVzUXRuOW9PYVFOZHNCNjRyd2ZJZmdVdkp4OGhMVW1oS0lyX21ZT3FSNWIxRlFKaVBSWXAybk8wSnNrWXNDS2pUeFhNMHU?oc=5",
+      "source": "아시아경제",
+      "published": "2026-11-27T03:00:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+      "image": ""
     },
     {
       "id": "ac347afc94892f55e9775e",
@@ -178,6 +202,18 @@
       "published": "2026-11-27T00:34:37Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "52a6e5fd6ca590c6590dc9",
+      "title": "Korean AI Startups Face a Buyer Test Over Data Access, Model Providers and Agent Tools",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVMyWUdoMUJTbGV4Y3l5b094WWtBWDVJNlVPOUxGdEdiUmdMbmVsSkNaUmhEMm43SnBQbTFLSF9KMEJJRDl3WVlqUVh3R3BjeUtiRkdrdFk4MF9OUm4wdGZ0clpPRGhmNXl1b1Q2emc1cWwzRG5MSS0tQm5KTS03NkRR?oc=5",
+      "source": "KoreaTechDesk",
+      "published": "2026-11-27T00:09:14Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -1274,6 +1310,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "id": "44526b6d6e251bd9ae25f0",
+      "title": "Cyclic Materials Expands Rare Earth Recycling into Europe and Asia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV9PanZ4aDBISXJTcHgzUGl4U0s4bl9NcE5MeEhXejJqQXFFeHdaSUdudUhHQi1yNU5tbWhRWlBDZ0N4azVQeFREQXBfNmtpRmtJYkZ5U3l1MDlOU2g4TFEtQ0JLUHFmZ05FRjloSGx6cThhdXpVV21rUUFRLVhyUG9rU0kyWmk4emU1NUhpb0JqYkJtWld1ek50NVQ?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-26T13:39:51Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "15ab51d825aea42c3dc7c2",
       "title": "GITEX GLOBAL and Expand North Star to Be Hosted at Dubai Exhibition Centre, Expo City Dubai",
       "summary": "",
@@ -1392,54 +1440,6 @@
       "topic": "Brands & business",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "9b27168bbba6992a429a1e",
-      "title": "Regional Security Spillover: The Impact of the US-Israeli-Iran Conflict on the GCC States",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDhUR1VNeTZFQVNQOV9tQmd3dVVhenEtYjBHc0k5MFZ3TC1yWXFXQk15WUs1T2t3bENlLXdCOUFnTjRjRWtvUUtwa2lEZ0NCcGVmX29DMEtKQURLUnlxbGZ4QTFlWkVOdHFoc3I1UngyTkl0OGNCQVpFVDYzWHZKakhHSXhNR2ZLYmJGV0Utb3NjTmVDTUNHSjZVOVBha0I0LUZnVzhyc1F1VTg?oc=5",
-      "source": "Mepei",
-      "published": "2026-11-26T13:07:23Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "98bbccc85d22da06677818",
-      "title": "Rate Hike Odds at 99.8%: The Real Reason US Tightening Is Crushing Global Stocks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWEhheGxTMzRmYVFLR282cG5OWUpUSXgwQmpfcWVTc3J5bDhCdjJzSzZMOUQ2Y21OTXBxaVJQaHU4UlZadFJfa09YdDFPUEc2Y2FoTVZTakJEMFgxenlfUWFLN0JubVpCS245c01KUFR0NldCakE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-26T13:05:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d8df850a29326451490cef",
-      "title": "SBO Sees Higher Sales by 2027 as Precision Orders Surge",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2FieVJrR3dIWGo0czhQc0xMTlR3WnJZbGRYaUkyT3B4MWI3emRoQ3VISFpJTjR4WXNXeTRLSGI1cmdZYkJZMS15MUVOQmR4RmJTWHB6dm1nSmk2Qm1tOFZtbjU1MTM1NG9yQUF4VzBjS1pzYjMtUjZkcTNMZ0ZxLWtaRkFEYWlfSUZHcTJobW9NX1VNTVZpQlJOdzVUQQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-26T12:57:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "33a72446f4e4a5129cbc91",
-      "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
-      "summary": "Bank of England warns of increases for millions coming off fixed deals over next three years as interest rates rise Business live – latest updates More than 400,000 UK homeowners will face a £500-a-month increase in their mortgage payments over the next three years, as rising interest rates heap extra pressure on households, the Bank of England has said. The",
-      "url": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
-      "source": "The Guardian",
-      "published": "2026-11-26T12:44:46Z",
-      "category": "Economy",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/76bae3267d5d42beeecac666ece9772680ada6e6/795_0_2761_2210/master/2761.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1861741a64aaa50100b955a88f56ecb7"
     }
   ],
   "countries": [
