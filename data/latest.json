@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-27T13:54:53.474397Z",
+  "last_updated": "2026-11-27T14:57:10.847058Z",
   "articles": [
+    {
+      "id": "a38c1440c2b10cd04c7261",
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T14:49:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "9ca572dd04f874f061122d",
+      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But thankfully, Black Friday can offer a tiny [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-27T14:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Apple_MacBook_Neo_competition_Lenovo_Acer_Asus_ADiBenedetto_0020.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "f84435db99b8af5c2068d9",
+      "title": "Software giant SAP weighs major job cuts as AI transforms sector, sources say",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXlTRnczX1kzVVFWNmpBWWZscmx0cGVUUGNOMFctTUV5WmJVa1NrQ3N1NmFURDhfNUVEUXJiU09lc1NPV1UyUms1ZUdpMFMwZHdnaHcxcjJHdjBuQWRpZ2dwZ3ZVUUxBTU1fMHpLYl9pSExQOTVURGpSZ3JLazhwSVpWUkdJeGVsaElsZTNPVUY3N0JoUlVfcm5qbEhoQ2JYQ3lpWXBJU2g?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-27T14:26:30Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "afc3403327ad9f038dbd7d",
+      "title": "Plus Ultra to Lay Off Entire Workforce Amid Financial Crisis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmVsZUkyVXlEd2NxZGV5cFNhblJIUzNzTHBDWjlmX1l5NXVfRUg0NVhaNE95N294UmVweUxPbW5SVXA1TjJpWU13Q0tTOVh4ZHNvRkxJakgxeFRoeWFzNVU3QkRVVzVnYmQ3LVkxNGo4WG84b3Z3eEl5T283WmFZNFZmX0JvWVhhUm0tb2lCLXE4OXdzYTVma3djRVNyaGs?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-27T14:25:45Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "328423d917a01424e6835a",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "published": "2026-11-27T14:19:44Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "1d140bb3b26b0663e87bbf",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [&#8230;]",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge",
+      "published": "2026-11-27T14:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "cf3eb807c0ae156f31c82e",
+      "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
+      "summary": "When Keychron announced its $90 G6 HE gaming mouse, I immediately thought, \"Cool! A cheaper alternative to the pricey $180 Logitech G Pro X2 Superstrike.\" Logitech's innovation with the Superstrike is using magnetic Hall effect switches for a user-adjustable mouse click depth, with haptic vibrations mimicking the tactile click feel. The Keychron G6 HE, as [&",
+      "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
+      "source": "The Verge",
+      "published": "2026-11-27T14:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268886_Keychron_G6_HE_gaming_mouse_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "d99f6db4c8570f23ce0573",
       "title": "STR strengthens Middle East presence with new subsea technology and service hub in Sharjah",
@@ -36,6 +120,30 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "083bb22a383971dee9d05a",
+      "title": "Women in Finance: Accelerators of Invention",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVhiOG01c1lsTDRiWDF5UE9vTmIyMGJobmdaRU1sNGY1TXBXNXEyYnBDaVZ0YTFtVVFlRU96d1BTWDBXVkJ4RXpNOXc2SG1XNDE2RmFYdXA0Q2hTRjBqNE8tUGdTTlUyd0o3cW9SQlIwb1JCU01PRTl1MHpremlOUnczZHJxMFF6?oc=5",
+      "source": "Atlantic Council",
+      "published": "2026-11-27T13:29:41Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9d38abe9cc1d6213901f1e",
+      "title": "Indonesia steps up partnership diversification for economic resilience",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXp1elo2RUZKeENicEt0b2tOTDhhalduMTBXRGdhUzNYRGEwR1RfbHlxM19DQW9YODRtU3QwOUgtR0twV0U4M01vVjdJUkduY3BOWEZwUVdTaGk4WnBVZktaSUZoLTh0VGFfVXB3OGxFSEZtY0NKXzRLeUFlRjRvX25KQnFlRVVyQWVSTjV6RUY0amwydmhVNm9obFp4UWtjaGpndnZOVk1XWGg30gGyAUFVX3lxTE91bGNHVXRhU3NqQ2NSYmZHZmRWMkhSSnVaTWszMUcwMThMZkRhMXJxSnhMWHRkYVJJLW9tMWpYX1A0Y1BtWGxGSks2Qm1JMnVuUl9Ka29ZU3JjV0NtVWh3d25rREtnNFQ5T3NKQVEyekJXb0ctWVBxZUY0NmJHQWNQUm1RQ3hKU0IybFY4cC1ZN24xaUROQUpPNnJrdHdaUl9STW15MzJPSTYzZU9LQmJMUnc?oc=5",
+      "source": "ANTARA News",
+      "published": "2026-11-27T13:20:25Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "11d36fb09338e1060bad37",
@@ -94,6 +202,18 @@
       "published": "2026-11-27T13:06:02Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7bc3829c08a791c53e73c7",
+      "title": "IFC’s Makhtar Diop: ‘10 airports alone won’t tempt big investors – bundled, they will’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0lYdlhyZ3ZSd3FZQi1LcDI0ODkyYzNXbWZoMEVtSGtoZ2hHYlFrZVU3ejFzWjhKOFBKZi1pM1BBQ244OVJpQV8wOWw1TnpaR3VibVVpS0JhZUdNTWhkUVZtdXkxcUcxdjkta1cyeGhhekxINUw1SVdVa2pMRjBlTXlTV1J6TFpFYW51elhvRDlsWWlpaDNUQXU0eDhWX1FKUFdJdktoVjdSdE5WeFllb3RKeVNUTmhQOHc?oc=5",
+      "source": "The Africa Report",
+      "published": "2026-11-27T13:01:40Z",
+      "category": "World",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -158,6 +278,18 @@
       "image": ""
     },
     {
+      "id": "fe5f7c70db61f7b7b39433",
+      "title": "Africa’s green economy summit unveils US$500 million investment pipeline across 13 African countries",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaTRodDlKZlVVNlNDdXdla1VUQVNLYlhtdjU0Z01YQncwZ0VHUmF6ZmpJam9YZXo2WG1MQkRJZ3hoTXV4eHlkakpSc0lEQ0Z5YmI4cEdVdnlIN1FBdWYwbTlrVnkzYUZVc19sdjR3YnFyLWlTTlZ0NlBpcmpvdktvSjdLel9zdEV3SThHZVZaekVwSDQ1bG9NMURXSnlMYjRwaFpXcUZKaDhEMTNjVkE3Y3VLOExMWUJuaUY2YW1qYzhlOWdDUlE1eDZ5U0tCaEJxamVhN0p3?oc=5",
+      "source": "Africa Sustainability Matters",
+      "published": "2026-11-27T12:21:40Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "47bf004cb668de4cf65751",
       "title": "EU economic sentiment fell to 96 in November",
       "summary": "",
@@ -166,6 +298,18 @@
       "published": "2026-11-27T12:15:58Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "dad1f38de153fd372541ea",
+      "title": "Meituan posts second straight quarterly profit as delivery subsidy war eases",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWt5eFFfejNiS2l6UjNtVWlYRzVjaEFjdWZEc1RCRnlrYTl6alRlU2dYRUgwTjhYMFVqd1pwdXhwY2tPUmpyYTQ5bWY5UEU4UFRuNEMxZWI1V196WXlmTnpHQkdxUnQwemNzM2xNTU9nQ0dyeG5fUEFacHZkTTFOT1E3bVd3djA0UnRDa0R4WkE5UGQ4X1FEaTBJT20tamxUeFotYUcxZTFucE1DcW1HblU5V0tpZDNpWGJTbWc0aGgtU0FLbEUzSE5RUdIBywFBVV95cUxPZWs1anpyRjZSc3ZWNXVpMmpwTmZta1htMkYtMGN4LWtOYjR0cDFkLVVLSWI3U1FEd0xNLUdrcW5EcDdPRWt3OVRDZUpSR0wwOTVIS083RElOVkR5MmEwUF9WbjR6N21GV2R4ZFJuZlVNS3VJZjV4ZUc3c21fWnhuaWszTGRHMkJzcHNrN21udU9sSkFVLUROOWpjc3R0QmRWaFplQm52Z0RsQ2REZ2QwT2phS3RzYjBmUmR0dXAwU29ZX2g4c3JheHU4UQ?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-27T12:11:15Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -180,18 +324,6 @@
       "topic": "Europe",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "328423d917a01424e6835a",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "source": "The Verge",
-      "published": "2026-11-27T11:52:34Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "695ff2a5237891005ac11f",
@@ -290,6 +422,18 @@
       "image": ""
     },
     {
+      "id": "da30667014454069a0f585",
+      "title": "ESCP Business School: Building future-ready graduates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFp2VEUxTzNpZlVQejRHd0ZqaWRLLXFnanBJeldGdTVJUnFfNURjNTFzaVJiQmRxd1pWbWJUa0ZrZlY0Z01wQlhqZDg1NV9sbGZwOTFCSmJNWVpVRzNWRVhOVkJocmJKSHlHZFp0RzhwTlNyTU9KSGxuc2pHRi1kWVZkcm81TkpvaWlBNHRxWkd4R2M?oc=5",
+      "source": "Study International",
+      "published": "2026-11-27T10:50:10Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "69d9ce5d4b062af5f583ed",
       "title": "Volkswagen Drags Mercedes, BMW Into $1.2B India Tax Dispute",
       "summary": "",
@@ -336,18 +480,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268739_Apple_Watch_Ultra_4_AKrales_0087.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "a38c1440c2b10cd04c7261",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T10:26:28Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg"
     },
     {
       "id": "340af565625916d0ce3ecb",
@@ -428,6 +560,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRE03NElfUWJSZjhYYURjSlk5c1NueTQyMndIaFptWVRXQ1ZrR2xOOTNub1hRX0pGWm91WXE2ZjcxelR5M3RqdXl5SmhXMnJyMHpFNktDQkV0WWlYLTZ0R04zSHJZdEUxdkRFZ215VFZCNzRoZU5qWVdpdGEzWmFMbHJONnJ1SkVNTkE?oc=5",
       "source": "The New York Times",
       "published": "2026-11-27T10:02:53Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "885bfa19dab78f61fb1b37",
+      "title": "The Sovereign Debt Squeeze: Why Refinancing Capacity Matters More Than the Headline Debt Ratio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeG5NMlhxeDVCUExnSnFxbkVreGZBTFVMM1lMSzBwWWdTdG5RajQxWDZKeWpkcVY0SFV3YmJ3MlJDc2dNdllnM1R4WDVZVFR0LVczN05jQUJadEtRVkozUjdWakFmLTVQczNWZmZHQW9SbHg3WDVpNG9WUHZsVVM5c3NMWHR4NGdtMDhCdFdMeExuc2hCVncwUWlUMVBNb3RXRFBZYjhnNHBiV1kxREVKYndqdEwzOUFXVnNyUERrZ0JZaDFJUTBYUnB4OWVlSTg?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-27T10:02:10Z",
       "category": "Finance",
       "topic": "Global finance",
       "country": "",
@@ -746,6 +890,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg"
     },
     {
+      "id": "a2b068896d82f08efd5043",
+      "title": "US Futures Rally on AI Rebound as Treasuries Dip, Markets Recover",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNRX0FrMmFFY2RzNVcxRkV4SjA0TXRNT2ZyekJVY2lTV2tiampzdURNcm50MmRJbm1haWo3OXMtREpJdkNRYTQyeERYUXdyLW1POUJZRWx4N1o5QnN6OFIzUUJWTkRzYV9GWThlNXBlVFNhZ1paM2hqNlFYMzJpQlB4WGNseWZjc1ZTNmpFZGd6QUFLY0NFWS1QQkJ0VnNiRGc?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-27T08:08:45Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1e593cccda1a67e840341a",
       "title": "Tech, policy and investment leaders from 120-plus countries converge on GITEX GLOBAL 2026",
       "summary": "",
@@ -802,18 +958,6 @@
       "published": "2026-11-27T07:41:05Z",
       "category": "World",
       "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a2b068896d82f08efd5043",
-      "title": "Shares Rebound as Dollar Heads for Third Monthly Gain, Markets Rally",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNRX0FrMmFFY2RzNVcxRkV4SjA0TXRNT2ZyekJVY2lTV2tiampzdURNcm50MmRJbm1haWo3OXMtREpJdkNRYTQyeERYUXdyLW1POUJZRWx4N1o5QnN6OFIzUUJWTkRzYV9GWThlNXBlVFNhZ1paM2hqNlFYMzJpQlB4WGNseWZjc1ZTNmpFZGd6QUFLY0NFWS1QQkJ0VnNiRGc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T07:32:27Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -998,6 +1142,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "id": "bb17434a96c5a92394c560",
+      "title": "Together for a bright Asia-Pacific future",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOEIyZmR2SWRJRVpEZ2hJOVp6SWNpeXlQZmo3dGVsQXllYkdkNUJCQXBZaGlTcEhkUmRuLTc3UTF2YV9kN2FaV3dSTEgzdjRMcGFLRnZ5Q0xTWmhFdVJ4dGdvUTZYQ1VQZGFoaUNJWHIzMk84ZHRhX3RKY1BRQ2FxcEROWkJIUdIBiwFBVV95cUxQclRNYW9XNENCcldseGUzSGdEeWZYT2hjMUZvb0M4YUpfLW5ZVFN0ajBIRzJlOXFxbWVJck1IWWV5VmNmSmRjZHFwbDdqRnEyVmRNNDY2c1FRTmw1em1WbTJMMVNrRlVuV0lsTDRxTW8yY0ZRUmJnVnVxX2ZndjhTU0pMenZNYnFTQWhj?oc=5",
+      "source": "ANTARA News",
+      "published": "2026-11-27T06:01:06Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d69a88649a9e22bd375ec5",
       "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
       "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than returning to his family house in Lagos, the more frenetic city of his birth. In 2022",
@@ -1080,6 +1236,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6616/live/f53c94f0-ea1f-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "25b2d2d7a6e19234885cf2",
+      "title": "Egypt’s Finance and ICT Ministries Launch AI Hackathon to Engage Startups in Government Innovation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NEpCZDVPT3dMcjlfaG5saFlLbU9QMzR1by1SeWp3SERWM05JWWJUZUJMMHROTmVkNExfekNueXpKMC1aQks1dlYwaW1rVVNDRlc5TlhwWjA1Zw?oc=5",
+      "source": "mof.gov.eg",
+      "published": "2026-11-27T05:31:31Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
     },
     {
       "id": "d2c7a0dcdbc0bc3e7760c7",
@@ -1272,174 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
-    },
-    {
-      "id": "9a781f6cd7e9ce272d4b45",
-      "title": "How innovation turns disruption into opportunity to power next era of growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVmdfVFBoRktTa1QyNkl2Y0szLVA0ZnR1d1ZNaWxWZUR1aHgxcEl3dEtWVUtGOHVaanZ4aHpJQWJwUnoxakNBdEY3S1FaY3huekplbHZqd3BTVlBRcUhDLUJES3NJZXZ3Yk54SEJyYzhQYnRqOWJCUjVITjB4dzA0RHlNVjhLcFNDNzE5UmRHWFkydmcydnV5RVlJVmRrbWE4OTBYa05qZXF0aU1lNjd3UUU2Y0czYnBJXzRlcVp5QVF5Q2dYcmF1SXl0U1c1aUhsd2Y5ZUV3?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-27T03:00:11Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ee727bd770174ad7ed02ef",
-      "title": "[Opportunity Amid Crisis: K-Construction] Operating Profit Jumps 127%... Triple Gains in Earnings, Financial Health and Shareholder Returns",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ENHBRSS1QTE8tRjdGT1BOZU5Fc3FTWFVzUXRuOW9PYVFOZHNCNjRyd2ZJZmdVdkp4OGhMVW1oS0lyX21ZT3FSNWIxRlFKaVBSWXAybk8wSnNrWXNDS2pUeFhNMHU?oc=5",
-      "source": "아시아경제",
-      "published": "2026-11-27T03:00:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a1c604b98c1552654451e8",
-      "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWDlwY1NTeFR1U29lR09mbldXajgxZURsM1B0UEczRXFkaUplc0UzT0toMkZmdWhHSWwwbU80bE94ZTExc2paSjA1dXJVaHpMeGo4bFZXaUVxNDFTNnpha3ZibTBkUktaMWhYbUZHQlFRZVo0OHBSYjk0RjlzcUtUMVpfUlQ3TnZnNHV5Z25nbS1nMU5WX3VTSXpPWjRxZ2pSa2JXWFNWbUNOUE02cWFDbDFNbGREOVNlTzBYRzc4YXZwSUFyLVNPZFBlWU1ua2NERVh1aTlpei1Wd1BkdmxjNHoxQmc1dw?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-11-27T02:53:39Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ac347afc94892f55e9775e",
-      "title": "Europe's biggest technology company SAP is planning to cut 10,000 jobs, as it prepares for ...",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQN25teS1WVWQ2NEVhZ0RteENXMDVMWFVUSXRQZ1o4Rlh2LTFQSTFWbmR4WXZpV3RCdWNkbHBLbTYwSk9DbnZXLVhGRU1LSklWZURnVEFpSk4tRFFMSkZKcTVaek85VkY1bkFDRGVsLVdzeno0aTQtSlJPNHptTEZDc3l2dEFLYkJpbWxVSWFuWG1KSFVkMTlFT0dVUVZjSWpidFUtSnBLdTMzUG9MSEFyY1A1ZkZzUVRjNGZ2X0R5b3JRaU9iRTRzUjBDbUZmYm9zamVpcU5KNDVfZXBmcnlSUTdjcnpBQXYxY0RaQ3JWVXl2SHp6TV9BZGVmWUdtVi1K0gGGAkFVX3lxTE9nTzJzZXp2SnZpMlY4aTB1YlhQWkxvR29JNzJtclpTd2JaM0VELWNUVFYzQWo5Y3JJbmVNTkVyNTBkSlVTaUt3WWNPN3l4RWsza0VVbnU1LTdhTGY2bkRuUXBNQ3dmeHpFRWtZNWdOVThqQUVpYVVvUFVYVFRwZ3RkLXFWczlIOWg3RUQyakNwdnlEdEI4T2RaUXpmcFp6Mlh1YVB2LVVxMVloUnlXOHRaTkJiWmxhVEdxVlhIUEpqSlQya21VeEM4LXhFMHg4WVg3X2haMFpmMWpnemxFOHFTUWRDRWN2SFUtMF9pNFdKUUxvdlJPUWttMnB3S1ROdVlKOFF1Y2c?oc=5",
-      "source": "The Times of India",
-      "published": "2026-11-27T02:35:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d8c22fff9a817c5d01d4e2",
-      "title": "36Kr Exclusive: Haptic Glove Startup Benchmarked Against Manus Achieves Tens of Millions in Revenue, Secures Funding From SAGE Capital, Puhua and Other Investors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YdGNnVHQwcFNRT0NHMmRYbFozTnVIYW1sd3YwWDVPOEVkQ0NWYTdmd29hVUs1WFpIT29DREFvdDFDR1JXQ2NsSHQyRWRWX1FCdGNF?oc=5",
-      "source": "36Kr",
-      "published": "2026-11-27T02:31:01Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "773c8c3ebbcd910132b409",
-      "title": "AMD confirmed as inaugural tech partner of HKSTP AI developer community",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qUXRwWVc5S0ZuTEQ3TVlydmRrODVYZG4zTlc1MEhoRjFRMWpBZzQyQS1mVXY0ckdyT3lJYU1VaWlFVFNPenI5VmNzV20xaHRHWThCel9FUVM?oc=5",
-      "source": "chinadailyhk",
-      "published": "2026-11-27T02:12:15Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "99a119586a390692eadffc",
-      "title": "Trimble names 0-60 challenge winners for construction tech",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzdLVjB2dzlPRWxUbFVZWHlFdnNZRTdwcFpvWlFmMlhTVUJTY0VlZ0VWNGRxU2pyUk13NVlkQmtCb2dZNXRxTVZUTzdGR3YxcmE0bmdXYVA1WW9feEhmV3R1U05feERGaXlQTFAzeHJhUGxkVlFGYmlvQWpROElTYVBHbUJpLXRNOGVJU25TOA?oc=5",
-      "source": "IT Brief New Zealand",
-      "published": "2026-11-27T01:52:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8a9d1cd6c43e0b42cdf77a",
-      "title": "Mexico Urges Asian Trade Partners to Tighten Checks on Tariff Evasion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QzN5Vk54VUxhRnNyaXo2UEVCYkwxeGVJU1J0SDcycWdJRF91bEZzLWZmazM5Y21fcXZxNzl3cldXdnZVSEo2bjcyX2dSUXctazQ4OHBYWGkzcV9RT1dRc1cxaktYMUdENG9FbzdGUEs0M1hodlk3T1FjOF9IV1E?oc=5",
-      "source": "The China-Global South Project",
-      "published": "2026-11-27T01:46:58Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "843534c49dddc964a28947",
-      "title": "S. Korea raises benchmark interest rate",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM21XSjhnaVVtUjY5SDJuUTZIdkQ3R3kyeTlTRTBxMGxRMGNVbDVicUV2aUozaUR6NGxUWlVmYkZsTEVib1A5eU40cDdzQm5ZQ0gtcjNkQnRSTU16X0tHamhBNDVleHMxVXlycnBta2Z6SmhRRzNleTB2MzRyX0VuejVB?oc=5",
-      "source": "China Daily Global Edition",
-      "published": "2026-11-27T01:22:36Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "17b2ec60906144e2b85a56",
-      "title": "The global investment surge and overlooked opportunities in global small caps",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWRoc0tEalZiVVp0elNIS3pVZFc4eFdBbGEzYkNTX1RPbFlGNzh5b2JOQk9yWE1GQTg5UGxwRFBocFRkaGNqdllLNk5PN1lmUTdvX2g4UGNJUlZ5Yk1zTnQ1bzBIVWJDR3VOd3lDR0hhV2xNcUNuWkl2YnR0MGpTbDVMeWhPUE10TTkwcThYemM5bTVYUGlBRk8zQWdVdVBIc3Y2cTJ4S0FTZWpDbE1KejNsMjJjQQ?oc=5",
-      "source": "Livewire Markets",
-      "published": "2026-11-27T01:09:09Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "084cf0ac26b9ca2071f471",
-      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-      "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-27T00:58:49Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "3f0dd029a71a83298548f9",
-      "title": "Michigan can't afford to lose its global innovation edge | Opinion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVk2WnMwRThzS1FQOG1wX1pZbjdBdkRjSU9xSmtFTTFveWMwdng2Z3hGUUxFWDVSa3dDV3B5R0I1WnU2Wk9QN0l3YUNTNW5JbXpNUmlteXhNR1ZWUlN6ZE4yMFlFcVZUUWEzQ1JDOTRRNGt1UktnRFAwdktSTVdpcmh6M1UzUVZMTHFsTm9WUXhJd3VHeFlPLXczakhRNnNralhaTnBBYzNnNExCbWpXbTdidDh3R3R4dlBzLVRCbl9iUGdOLWh3ZA?oc=5",
-      "source": "The Detroit News",
-      "published": "2026-11-27T00:58:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cb4c2660b6afdac25ce5ee",
-      "title": "Global Affairs Canada Issues New Guidance On Deemed Ownership",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkRtU0lqcWNUMlh5d05zRVlTd1lrT21wRFN3UmtORkRjR2o0YXZ0TFUxN1V0YUpFRWhLVkhjNnpJQUJqaTcwUDg1VDJHTTF2Q3QyMzFEcXhHcFRnaTN3cnl3dGRxNGNyMF9wQXhuNmZpeTRYR1VrZEdHZWNUTXFYUEFTWHVycHI1eWk0RTY0MHN1aWhKUFhaOEE1RDRGLVZRUzVJdGo5c0FHSWVOcGVwaHJmRHdEWl9FTWVsbTQtQXFMdWFoMzEySVNjOA?oc=5",
-      "source": "Legal 500",
-      "published": "2026-11-27T00:34:37Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fa46900c5fcff543a3295b",
-      "title": "The Korea Federation of Saemaul Geumgo announced on the 27th that it signed a \"MOU\" with the UN Asia..",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wZXhiMVpYb1FOYWVqeldlOWpNdWlaZGhRQ0hHdWh3b19TV3hMcWJqSGxreFQwUE5QQzl5TWpNZnIxbktkU2JaTHhmVUt4V0pSLXc?oc=5",
-      "source": "매일경제",
-      "published": "2026-11-27T00:27:05Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
