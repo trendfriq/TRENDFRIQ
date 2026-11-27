@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-27T21:18:14.826874Z",
+  "last_updated": "2026-11-27T22:17:50.668506Z",
   "articles": [
+    {
+      "id": "6ccc7c31dee7390a75c181",
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T22:03:46Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
+    },
+    {
+      "id": "65e067513a05324abc8865",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T21:55:53Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "9b74f40cbfe827390dbb70",
+      "title": "Allstate has been suffering an outage since Monday",
+      "summary": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts through the app and site appeared to still [&#8230;]",
+      "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+      "source": "The Verge",
+      "published": "2026-11-27T21:52:42Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/https___www.allstatenewsroom.com_wp-content_uploads_2023_04_Allstate_LobbyAllstateSign_DARKBLUE_CROP.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ebd63f4c82a92e9098654c",
+      "title": "The 25 best gaming deals we’ve found so far for Black Friday",
+      "summary": "While deals on consoles and key PC components are in short supply during Black Friday (or simply not good enough to warrant covering), there are numerous fantastic discounts on video games, accessories, and monitors to make up for it. We thought it’d be useful to display all of the deals we think are worth your [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T21:50:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/World-of-Warcraft-Shaman-keyart.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "17509216a0f52cbf2a100b",
+      "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+      "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabet",
+      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+      "source": "The Guardian",
+      "published": "2026-11-27T21:24:10Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b8456a333d471f6fd8fdee4d2da7278"
+    },
     {
       "id": "328423d917a01424e6835a",
       "title": "The absolute best Black Friday deals we’ve found (so far)",
@@ -24,18 +84,6 @@
       "topic": "World affairs",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "65e067513a05324abc8865",
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T20:57:04Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "id": "3fca890b12dd17069828bd",
@@ -96,18 +144,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "17509216a0f52cbf2a100b",
-      "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
-      "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabet",
-      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
-      "source": "The Guardian",
-      "published": "2026-11-27T20:19:04Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b8456a333d471f6fd8fdee4d2da7278"
     },
     {
       "id": "5813550398040e4fc6ea29",
@@ -1402,42 +1438,6 @@
       "published": "2026-11-27T09:14:32Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d2bc1d70686fc1188262e9",
-      "title": "[Sintrones Technology FY2026 Q3 Earnings Call] Taiwan's Sintrones posts NT$448 million in first-nine-month revenue, up 17% year-on-year; EPS of NT$0.23 ends losses, Hsu Yu-jui says next year's operating performance will ",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TNHRsOTY4Tml1Y0drZFFldGYzUjgwN0Z3RE9GMzBFaE1VZVlCYVBBLVZ5alNBeHphSTM4ZUJxWGY3OWVGTzJOeFhsa3cwUS1vOFpsTnB3V0FTRE1vc0w4aUpn?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-27T09:14:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6bafb1e1663f56d366ca9b",
-      "title": "Euro Zone Inflation Expectations Rise Sharply, ECB Survey Finds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVFJQ3ViMThpZzZaMXdpRGxZTHBtME85b2VfU0RaZFJlMnJnUFdpQmU0NUVsV2djMVZyLWRWZkxjZFIxRG91TGhmODhnRnljUW1hWnlwaUo4amo2enJMSGV4aW0zeFBQSEhJZXdRX0pBV1ZjbXZHejlDamN2M2o2VTl5eW1nbExXejVWX1NTYmF2Q3JWR1FhRFFhOERsSVFL?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T09:07:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "981fafa0bd160646790896",
-      "title": "AfCFTA Investment Framework seeks to unlock jobs, business growth and better opportunities for Africans",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ3hiSDJOY3VWOFlRYUZMVlVxNXkxNDdObldsQmxxREN6TnhDQl9TTU1yUmdhSWd4LW4tMjRLbjIwMG5IV3BPSTd1d0lRUzVFZVRfdWIxaFQ2ZHpCMDhzajd1QXZNajMyQjhjdEEtRlk5bUJ5bDV0RnRfd1lZbHd0TGxIelJJbTk5b2Rpd3hhRVVJaUllaUd2Vl9HOFJZSUE3dkg0VlZHc01lcHB4NWFUTnFraTJ3NUR3QnZLeDc0Nm92NzBVZGk2aXRFWEtHam9M?oc=5",
-      "source": "Business & Financial Times",
-      "published": "2026-11-27T09:04:02Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
