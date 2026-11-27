@@ -1,17 +1,113 @@
 {
-  "last_updated": "2026-11-27T20:19:58.360013Z",
+  "last_updated": "2026-11-27T21:18:14.826874Z",
   "articles": [
+    {
+      "id": "328423d917a01424e6835a",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "published": "2026-11-27T21:09:43Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "97d55a7053c30de76535b3",
+      "title": "CEO affair scandals expose risks of unchecked power for companies",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVNadE56RGx1aGlYWDVMMExBNG5KQWZKbG0tbi16WnBPdm9raTBEd1BWZDVGNmxqRUFTNDBnaTk2UXFEXzlUSXlYMmZpTFBTUUdicXVzakY4aTByMmY5NzlmR0FNN2FFZjhObUt2UDFhbHM5Qi05N21pWDBxME5hbnEwcXBRaE050gGcAUFVX3lxTE53dHVHWEJJLXg3WklHNzdYaEMtR0R1Z1lMTUFFcEJLSldvejltck5oM1U0cVdGeDRBTFMzcnBUQlluMUlRc0JsVUFkSU9hc2NIUmZrY3lGZ0JzbmxTNThKRF8zWGthR2NJVjlNRHEzWEl3RU9qYXJOa3ZuU2FuMWNoUTF2aDVvdl9vMjdhb18wZHpucS00bEVSSTJZMQ?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-27T21:00:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "65e067513a05324abc8865",
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-27T20:09:09Z",
+      "published": "2026-11-27T20:57:04Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "3fca890b12dd17069828bd",
+      "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
+      "summary": "Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and mods. The company has decided, rather than fight it, to embrace the modding community. The latest update adds several [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+      "source": "The Verge",
+      "published": "2026-11-27T20:48:04Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268415_MPC_Sample_TO_Brien_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "28a9fe0ae4da0b98ccbb38",
+      "title": "Legend Robot Expands Global Construction Robotics Footprint to 500+ Projects and 10 Million m²",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVGxPajRXQ1lzR1BVdDUzcS1vbTdDbEd4N2RKZUVQbWpmWnE3d0ljTDIzY0l2ZlVLd3ZUSDVhZXBiQVZrcTd5UndiN2lYQThUVmhtOWhvaFVmQjY1eDYtY19Xc2ZNMk5YcVAycG1NeUoxeXhlZWdheHNkcWRZdk5pcnRuMWFRSFdLR1haR25OanJFZnVBQXZDTjV2M21qSGZPM0E1MlQ2Q2tuV3pBeVB2ZnNfSTd4Y1RLWkU2Q1lUMGEyeGFiM252eFI3VkdoM2dNQXVESVp5WGJOR0pnSERWa1VmMk9VZw?oc=5",
+      "source": "markets.businessinsider.com",
+      "published": "2026-11-27T20:41:39Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1bc3f2e2255b4e741e68b9",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T20:34:45Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "6d1191e92b519542408645",
+      "title": "Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday",
+      "summary": "If our sub-$30 Black Friday roundup has you hungry for more great gadgets at low prices, you can currently grab the Nothing CMF Buds 2A in black starting at $17.89 on Amazon for Black Friday, which is about $11 less than the MSRP and the lowest price we’ve seen. The wireless earbuds are discounted in [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T20:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Buds-2a-in-Dark-Grey.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "3fe447c13fe67d8757d538",
+      "title": "Apple’s latest AirTags have dropped to just $18 a pop for Black Friday",
+      "summary": "If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price of $29 each, but have been consistently available for around $24 since Amazon Prime Day in late June. [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T20:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "17509216a0f52cbf2a100b",
+      "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+      "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabet",
+      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+      "source": "The Guardian",
+      "published": "2026-11-27T20:19:04Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b8456a333d471f6fd8fdee4d2da7278"
     },
     {
       "id": "5813550398040e4fc6ea29",
@@ -48,18 +144,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "328423d917a01424e6835a",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "source": "The Verge",
-      "published": "2026-11-27T18:59:19Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "b3be99709395388969d766",
@@ -120,6 +204,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anker-nano-100w-universal-travel-adapter.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "c0e5251cb950e107b23009",
+      "title": "Mexico files formal complaint to US over DEA tip line",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcHJjOGhXdkU5NUVlb0Judl8za04zS0o1ODRlMGtBelNqMzRScDhSekwwTWcwN0YwN3NJZmxPZy1JRVFhZk9KSEl1RExSRDhleDdCZE9WM2hOb3dwZG9Bb3diamFHd2NPNTJiYktoWTdVdURvVXZlZG9MdU5aZW9UeDFtUHNWS2tyMW1XbnFiOFlDS1hvRTA0bGYzaVRsUdIBowFBVV95cUxPZmJ6blBnb1ZxanRjbWNqUVBqNnItWlRUd3ZTenFJODBFNkhZUC1iU3FmQ1Y2UldlYVhwR09RQ1dUU215NFpBYlk2cEZTTHJjY3dpUVd4OTZUdk9aeUJTZ1VOSlk0ZHVlYWtoaEhSbkNablJXNjZDVlpRVXNNZWRfS3JIRDcxZHQwcXpvMlFWNjN0SmVJeFQ5QWVFWGhOdHNoSkZz?oc=5",
+      "source": "WGN Radio 720",
+      "published": "2026-11-27T18:22:44Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
     },
     {
       "id": "2eccc11da40e85e306dcd3",
@@ -194,6 +290,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
     },
     {
+      "id": "70dcf5391175cc6eb422ef",
+      "title": "Africa urged to prioritise investment in human capital, digital security",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMENrMDJ0R2sxdHdFUzJmUmpUQXdKbEkxZ05nZjJHVWJMaUtFMm9XMllNcGZ4SnZKN3ByMjRSclVjdi03VjBZZVF1THh0ZGFwTkpDbzc5WnA4Q3hJSzRMeWFZc202Tm9Uek16cnRyYzZIV0Q0NEZoU2JPTlZjMnBRb2RwVGt4ZGtBNDZqODd1LVdWRTRhcGtHYkY3X2RQNzV1aUZhZ1Qxb0lhblkybTNmYTNOajBLOHI0OHdCQ2twQXItZkYyZlpEVC1QVm5GamYwc2s0N21EVFRZcVcwY0JF?oc=5",
+      "source": "https://ippmedia.co.tz/",
+      "published": "2026-11-27T17:07:29Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5e6be9186956e41e3efd2c",
       "title": "Dell delivers record results, but Wall Street sees a catch",
       "summary": "",
@@ -216,6 +324,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
+    },
+    {
+      "id": "0ca342094027a1ded25d5e",
+      "title": "31-year-old considered one of the world’s ‘most educated people’ with 13 degrees from top universities",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3hnLTRtelpOUGMyWGoyeXM5T0tSb2UxcDFoRlcxMnNRZUdQaVNDYVVCVm5hSmhrTDVqRUNEaWI4NUgwcW5sWE8weHdjaVNSZTkzQ1VQU19BVWU1R09faGFKVTItRzhjbVVWZ3FlMUhrX256TUd3eWNpem5IVGV3U3h1bVBZcmZuWjBNdlBkU2JVUlloMXNfV0hyamtPREh6U2cwQmhtcTZTb2xDbGMtdjdaUFNLT01sZHRLdHFnbFo2a0ZWY2wxLXNKQjNwSGFNd1dR0gHTAUFVX3lxTE1neGctNG16Wk5QYzJYajJ5czlPS1JvZTFwMWhGVzEyc1FlR1BpU0NhVUJWbmFKaGtMNWpFQ0RpYjg1SDBxbmxYTzB4d2NpU1JlOTNDVVBTX0FVZTVHT19oYUpVMi1HOGNtVVZncWUxSGtfbnpNR3d5Y2l6bkhUZXdTeHVtUFlyZm5aME12UGRTYlVSWWgxc19XSHJqa09ESHpTZzBCaG1xNlNvbENsYy12N1pQU0tPTWxkdEt0cWdsWjZrRlZjbDEtc0pCM3BIYU13V1E?oc=5",
+      "source": "WWNY",
+      "published": "2026-11-27T16:36:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1768238a5c2ccfa9ca3a64",
@@ -974,6 +1094,18 @@
       "image": ""
     },
     {
+      "id": "cf112c87a4ddb74f244c7f",
+      "title": "Experian plc (EXPGY) Stock Price, News, Quote & History",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mZUFqem5WWkZnMGhLeGxHRDc0bmlPZTc5Sm5GWVVKUzdHdWZKYVFkNG1EX1RkaG1OVEYxSExxT2M5Q3hKS055ekFHY2pzSTBjOGl3?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-27T11:10:43Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b4defc476d6946ee8ecd2e",
       "title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
       "summary": "",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-27T09:04:02Z",
       "category": "World",
       "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6f291e793f524c5376d219",
-      "title": "DPM Gan Kim Yong's Dialogue at the SPH Asia Future Summit 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0NpUkYwX2tUWk1VX2ZDNF93Qi1PbmtXb1Y2ZFRwdTRmZi0xWV9RX2RVWjZnelptcGdJaldRS1ZNNHNfWGRuclUwUmRQT1laeXVLdDEyWm5PdEpmbGlLMkpNWGNuanhkWnRlWDIxZk5vNmhoU25UZ0kxV3R3bG54X0dTVDQzZ1REMEloYkY0YzU3Zl9hYy0tSA?oc=5",
-      "source": "Prime Minister's Office Singapore",
-      "published": "2026-11-27T09:00:21Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "55fc9327912552edcaae68",
-      "title": "Will exit of key executive cloud WuXi Biologics’ US outlook?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazAySnM0REdIa0djVTFHNXdiVEpnX2RkSk1UNHRpc045OXhvZ053dTdWYzJyVG1BTXJubTI4aUUxMVNYdmFETkYyc1k3V1N4dmljeEhDS0htTVRsZVJkOEE1dkRGdDdCQ3QtZFBfT0tHY193cnI2aUFBQXJNQ1I4MEtzSHl1WkVRc2M5ZFNxYmVVX2tSRmlYYnhEVnBNXzdXdWxyYWpPMjg2UEttSzdpUA?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-27T09:00:08Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "89c23cc02508893e9ef631",
-      "title": "AI, shifting consumer habits and data reshape the future of advertising",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUx4WDZtUUY4bE5pS0FlZ1NHZ3RCWnp4TFJLV01FNjNIMWRzZFZKeGFSOHQxS18yTnRZdnpmQTdHd2lBcGk4cU04QkhkUnJVVzB3TTNyVWEwaVE4MnJyc2hEYUswT3B6NVpGTzFaYkEwUUlyR2VDQmptUzFMTUY5cTFfVnJrVkpuakxOR3ZHcFBjQUZwRzM1SlFaNHZZdEYyOXpSZA?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-27T09:00:03Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d8b939cea51e00e0d0be49",
-      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-      "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T08:58:08Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg"
-    },
-    {
-      "id": "53a83e259ff95a6bdc42a1",
-      "title": "Mali: Betting on Investment to Open a New Economic Chapter",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDN2OUllRHFlX2ZCMmpnX2RMWHA3NEtHRHNuVlRrMHBXYVRJOGFCQTB6Z2RwN18wZ1BEekxBMERRQ1Z4NkJPR0JKMUVhQTNGRExzQzdZNWFyS3dTZHYwU0dCdEpqTW5CYUk2X2xhRzNHQTNWSjJ3NktyR2ZFV1Mteko0ZHVPdE91WHFSbmt1T1BzV0U?oc=5",
-      "source": "Africa News Agency",
-      "published": "2026-11-27T08:56:08Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0a2714b03d1932f6689385",
-      "title": "Saudi real estate companies see profit decline as competition intensifies",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjZQaEZtdUFXaHlOVHF6TkpfcHpVWUJ4WHlPWHFZTXV5QUVUcGI0SjlnN3EyQnhrWnNRUmk0XzQxTHpMTnNjcG13WGYxVjVsQTh1bmFtNlpyRGtraXB4Ukxzd1ZyMEJXd2Mxb1hWYW5UMUpGc1ZUcklsMkdOUFp5ZmVwSy00QXNidlpSRUZ5cmcyVXpsOVVsMXc4RzNYTV82NmpjM2swbWRUaTNObDFLNWtWZVNwX0NSbnZN?oc=5",
-      "source": "https://internationalfinance.com/",
-      "published": "2026-11-27T08:52:27Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "12c08e94740bfc8e149a38",
-      "title": "Late Payments Are a Supply-Chain Risk, Not Just an Accounts-Receivable Problem",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1dOMXE3VWdrdEZSTFNxVmcyUFVxX2xsWVp0M2NkODJIdGJzUkVad0dmbzM3RXJhSFVQTXpZblBwcUFsRWxaNkhCZGMwRVEyQU1UVXRucUtwblRwaWJOZzZyTmI3ZTA5V2ltbFJMUzZleUgtbm90a1BXa0ZRTE1uSFFySDh2ZmNGUXJyNXRUc3Q4eU82NDJwakVHTDhoZDFkUWNvTTNxUTVLb2JFbWdlRU8yeHJYZGg1Q1E?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T08:50:19Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "af124966abd540c9c809d3",
-      "title": "Global economy risks hangover as growth over-reliant on AI boom: India chief economic adviser",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnNCbHRlNUM3aHZ3VWoxQXk5dHBfWGx0Wk85bVllZTR2bHkwVUMzb25xTV9ETEdxUVctR2cwTjN2Rkp2eV9WcjJZVHNmTjBSbmZCb3daYWt1RjdmcXZ1UW9DbmZRYkRXWHVDcjBER1Naa2lMalEwcVFMb0ltUDIteUhDdllnVWQxdXBMOG9ONkxxUFdreS1FQ3Q3RkFOSUQ1WG9mX2lla29ROGthMkN4TXNadGtOdzBZeHd6Ynh1d3hzY212d1RvOUNzak9Rdw?oc=5",
-      "source": "The Business Times",
-      "published": "2026-11-27T08:49:00Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dc12ad98cc526bb6a02ed7",
-      "title": "Global economy risks hangover with growth over-reliant on AI boom: India’s chief economic adviser",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObW01Smp0MGpKMlhXc2g1VEpHYVM3UGtJdEN3RlU2T2VKR3EtMDVBSGpCU2tvVlZmVEhPZE0xS0YwTVNTYVJmRS16YkwyRkdUTkxWZVRYY2ZkZ21mQU9KZFIyLU1rVkotcjJPTUlQeUFLQzR0ck00SnB4N1hhNkFFUHRlUlp6dGFNMGxvMDVfaVhOOVRMZVNCeVBOakZoZ014ZFVqZDdDOE9lOUpCODh5OGJKeFFBelhvRFM0YjJ3eXI1VHhTSU53Ul9jdkFYNEE?oc=5",
-      "source": "The Business Times",
-      "published": "2026-11-27T08:49:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f0c43b22d981d31493e3b4",
-      "title": "【Xander FY2026 Q3 Earnings Call】EPS Surges 6x to NT$0.36 as AI Server Shipments Ramp Up; Full-Year Revenue Targets NT$11 Billion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZY0V0WE5fZXRqS3FmaWF4Tko5X3FRckF2V2J3RDNSN19YRVNqYnpQQlNWd3U5MU04SUhabmJseHlyVTU2SDJ1UVc4ZU55ODNJckc1Y3d0ek92TEdpbzdzcFRR?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-11-27T08:44:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3f6988b9c94ef3e4684689",
-      "title": "Taiwan foreign minister urges businesses and government to shift focus from global sales to global investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWHJEXzhHOHk3Ty1Ec1RuRk1tMWVyR2dmdk5zU2dGZExnazVicWtqVFp4d2dzRE9SZjZ1WS1vVWhFbEpmZmRuOVRUT3pFb05INmRlU2pKdVFkSExpaUpiQ2lsWS1kYl9CQVdWN1FUVG9VYjByX2pMdE85YmwzX1drYzVja3VnY1ZMMC1LaXkwWWFPTG5scU1rUVlEU1pET2tIdXJmdXpnd09ab1VDX3R3U25ReDdKYkJWYlZuMURMT1pGV3NINTBsb19GS3hQWFNERTVXOA?oc=5",
-      "source": "联合早报",
-      "published": "2026-11-27T08:38:07Z",
-      "category": "World",
-      "topic": "World affairs",
       "country": "",
       "image": ""
     }
