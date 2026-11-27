@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-27T17:10:22.932822Z",
+  "last_updated": "2026-11-27T18:08:33.024037Z",
   "articles": [
+    {
+      "id": "2eccc11da40e85e306dcd3",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T18:00:40Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "5090bfb0f43fe274c5560c",
+      "title": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkNiUkFYUTZhRlJIVDRlLTNORHBSTDdraEtvWktFeC05elpYQTUyN1JWWDNjTG11SnpVTm9vTndSSlJjNU9ZU2xOZEJxUjEyZTlQOGI1QTZOMGVEeDViTzZFS21pZ3NxcUtRbnNKNzMxalEzWEszZ2N6VU9Mc0Z4OERFZkRCdmRad3VKZnUyd29nMWRjQl9RMzZOZzcwdExaN0Z0REszV25seEdyZldkMG5admVUVS1xdmJN?oc=5",
+      "source": "The Business Standard",
+      "published": "2026-11-27T17:51:47Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "53a840c169ed789de9ad75",
+      "title": "Here are the best Black Friday deals you can grab for $30 or less",
+      "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "source": "The Verge",
+      "published": "2026-11-27T17:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "db367a35fb282de990d79d",
+      "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+      "summary": "Greenpeace publishes report showing tech firm is continuing to build despite planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm’s requests to modify the original terms of the planning permission did not have approval. “Inspectors visited",
+      "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+      "source": "The Guardian",
+      "published": "2026-11-27T17:21:18Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/53fa79a19abbefe201798e60613aa1864cc000e7/0_0_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0012475d899848481a2293442a0a93a0"
+    },
+    {
+      "id": "60bd6b1a9655a23182e6dc",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T17:19:31Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
+    },
     {
       "id": "328423d917a01424e6835a",
       "title": "The absolute best Black Friday deals we’ve found (so far)",
@@ -14,9 +74,21 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "5e6be9186956e41e3efd2c",
+      "title": "Dell delivers record results, but Wall Street sees a catch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2hNM3ZpSi1sTUlvYkNJQjFkVnhtUW1OMXhsM1dYVjk5TExxQXRRbE5UbTNRQ19DWF85cHFRSXhVLUhqR0N2R0E0amF5SHFEQzhGdDNHVElRRURDQ0l1aEt1RnlIVVp1allEUmZnLXU0bkNUY1FnRGw1S1NKMGkyQUVFaURhUEFaazlzQnFQY2ZPa3prWF9Xb3hlaGRyRWM?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-27T17:03:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "5ef4be14e1a178dfd7a60b",
       "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
       "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-27T16:53:46Z",
@@ -48,18 +120,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/ad8c8bb232c8d2eaa7194673e8f1d7308e2a80cb/355_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7294bccc9abc19d7cf25229852775a10"
-    },
-    {
-      "id": "60bd6b1a9655a23182e6dc",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T16:06:37Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
     },
     {
       "id": "760498b4c5843c22251640",
@@ -106,6 +166,18 @@
       "published": "2026-11-27T15:43:05Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2e14a212641eebb26b288e",
+      "title": "EU's Moscovici flags risk to Italy's structural deficit",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejFCRTg1MmhNc09xVVdQamFtMUk4NTJUbFpTaV9SN2xlRnA2bmE4MlotZjQtVWwwcGpzN0RncmhLWEZRdTdwVmk4cExOQ0hBQ0oyVS1wM3pOMGExNXVMSzBYakVtdzlMdHR1NzlOZlRNdGFJNzRaV3dhSUtIRjhqMWtBY2JhUS02X2J6V2VqaHZMbE9idzFV?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-27T15:40:03Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -183,8 +255,8 @@
     },
     {
       "id": "a2aee26315fa8c166bb3a3",
-      "title": "Hackers reportedly breach US Air Force’s flagship cloud computing platform",
-      "summary": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US Air Force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported Friday that the intrusion into the USAF’s Cloud One platform cou",
+      "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+      "summary": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US air force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported on Friday that the intrusion into the USAF’s Cloud One platform ",
       "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
       "source": "The Guardian",
       "published": "2026-11-27T14:50:15Z",
@@ -272,6 +344,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGU2VExOTE8wZXFMUkJfZVF6YXcyN0lZTFdGeUJTT19kWFZDWk9hTnpwNTVJUEJQeF9fNTRYaDNzMzZqaGR0bGFkU3V2NFpoOEtOSFJ2ZDVwTUc2a0p1TVVqYVd0a1NKcTBEQXBlakRLdFZnVHFYUGdkSXR1c3NmejVISnpXYkJ4TmFrbm11bVVuSk5UYU9TcnZiZEZlelVRWmlreDVlN0o?oc=5",
       "source": "Mexico Business News",
       "published": "2026-11-27T14:05:16Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e8e1e9dd5e211cfa7f2d4b",
+      "title": "Forget Yield Chasing. These 5 Dividend Stocks Have Raised Payouts Through Every Recession Since the 1970s",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0drYXhiYjZFNjFMM3Azb3VDdGE4dnFMRjIybnQtTHBQRDlOX2VFVjZpcW1nc19NY0lYTTgyWmY4a0dKaHRLOXdMNWRVUTVVeUQ5U3ZhRlZoei1jc0c2RDZxcjMzc0FJZDZOMmwwa3FPMmhDOU9la1Z5b0hnUlNlNHpzN0lfU2NRRFNWcVl4emZpcEJpam41QWhDekI3LXhndDVGdzRtc1BHM0FaenR4ZGxjeVZGaTkyVzJtMDBEelYzSGZUVTZrU3FQU1FCaVZYRm5JYmRMVWt4OGRRd1FYbHhB?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-27T14:03:00Z",
       "category": "World",
       "topic": "Americas",
       "country": "",
@@ -722,6 +806,18 @@
       "image": ""
     },
     {
+      "id": "96a8a8b66e6ae3e8e68a50",
+      "title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ01mbUJWQVhaX0FqR29rYUc3a2ZYNGM2bUsyQWJjd3NiLW83Q3ZEUDhyYjA1MzNTdWNXSDR5Z0I1ZG5ibkl4RlJTZ283dElHTWd3eXBoVWdHYWkzMUQxSG8yeDZWY2hWbTU3WkV2eDRuS05hS2Z1YS04NzcwckhiN0JueUlrRjhXbFZ0SlhXQnM0cjE1MEIwVS1YZzA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-27T10:53:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "da30667014454069a0f585",
       "title": "ESCP Business School: Building future-ready graduates",
       "summary": "",
@@ -742,6 +838,18 @@
       "published": "2026-11-27T10:49:50Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e3602f75c4700d36333991",
+      "title": "EU plan to reduce internal business barriers is a ‘huge opportunity’ for Canadian firms",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91X1Vwa0JKTks0ZGFQQlJzMG9YQW1tRzN2QUhwbjBzTUNnQzRMYW5fX0VEUE5FV2pfMHpmNjdsN1NvT1lFSXRQUDJ1NnFTTXE3M2hpNzNzVFhyeWltMjZ3dGUtdzd6Q3ItSlJ4dEdFbEw3RTR5TGRhdldB?oc=5",
+      "source": "The Logic",
+      "published": "2026-11-27T10:45:00Z",
+      "category": "World",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -996,18 +1104,6 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "2eccc11da40e85e306dcd3",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T09:07:48Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "6bafb1e1663f56d366ca9b",
@@ -1344,102 +1440,6 @@
       "topic": "Global economy",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "bc2fdf52c72d3534c31396",
-      "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
-      "summary": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before the government threatened to abolish the independent environmental adviser. The nature adviser made a significant intervention to urge Bristol city council not to ",
-      "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
-      "source": "The Guardian",
-      "published": "2026-11-27T07:00:57Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b5748b57a64addd2c5bb997a92af840adb787b60/1358_0_4536_3629/master/4536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61a9d49a0f37592a9150f488ee69bf78"
-    },
-    {
-      "id": "f32dc0a8ef62e48c41b519",
-      "title": "Wigiwork Flips Tech Hiring: Engineers Set Their Price, AI Matches the Company, No Agency Commission",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTzJCeFM5WUJxX1JyUmE5NlF3b1dyVWs5Y3g1NWhtMEJlWGtTYjVSdTBkdGNhMDdTYm9CeXV3ejRpaDhRS0tsQlJtU0o3M2RLT2NBeWNoUVplR2xLTjRGWHdkUjlmUFgtXzNNQW1nTmUtWllLVENKMUFhbElCRjhueEx6MEh5RllBQkp0YmVPelM3SlpkN1Z4YURNNV9XdVhXZUJ5cnU3UDFNanNTaFlYT3E3dXNnc01fVnVoTmNEQnREdDIyU29GTHZ4cS1PZ1BIMllvbDFkeEtGLThuU21UcnpPa3V2aWV5eWhXcW9HdDBCYmpUMGstdDhydFY3SlVXWU5NRFd3?oc=5",
-      "source": "FinancialContent",
-      "published": "2026-11-27T07:00:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "873b661aae49e22952a4e0",
-      "title": "‘WSJ Tech: Qatar’ to bring global business, investment, technology leaders to Doha",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTcxYXFkVGpQWGxMd0VRMUlPaGt5N0xMOWlhUzhSYTM5OG9uMGZmQ25xWXhjb29QWEFENnQ2YVRkcEdSMUVqRVN3a0ZQR1FsVHlvS2lyaUFZX0NtY0RQZVdIdjZJZFFYaWR1S1RkOWdPQXdfOG1veWhWSG4zbXFReF90Q0dleVdSVmkzUE1abWRRZjBOU2lOTGljamlPUzZSNVFPd0hLQUZobmFKM2diZE5OV2xvRGRxbTR4WDc3OC0xdVVa?oc=5",
-      "source": "The Peninsula Qatar",
-      "published": "2026-11-27T06:54:23Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "60da1f8c6ae18db762dfb8",
-      "title": "As Trump targets 14 major economies with new tariffs, China’s $203 billion export surge into Africa presents a new economic dilemma",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbTlFcWxSOWRXUFV6RndqdGNoZVMyZkx4SzA5eWxGdjh1X0x3Vm01WHNZeDcwTWFtTzd5TWFnUGNQYjJENmIxbzVQV1Zqcjk5cTRsTVZGek01MDVyZEdPRkVocWxPc21YSVhxLURwdlJUeDRleGpWWFFVN1U5ZXFmTG03b2YtRllrNmd3bTZVaV9FeDQ0WmIwOEhhSktvS3RzXzFfcEx2ejJOaDZybllyUEswUGtpakhBVWRKTVRZLXJoVUppSzNYOHV1S2VXU255TlUxeHV3aDI?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-11-27T06:48:39Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "393fb63a5404203bba1b0f",
-      "title": "The Korea Federation of Community Credit Cooperatives will cooperate with international organization..",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XOUpTTk9YSmUydy1pSWVHc3piSGRLT1pUV2JBcUU0dGs4UnBZbDc4aEhua2JZZkpMSlRYRUFMWVl2Qkptb0otaUlvSW0ybHRQV2c?oc=5",
-      "source": "매일경제",
-      "published": "2026-11-27T06:47:36Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8a95cd8eaefb9ca346217d",
-      "title": "SAP flags security incident, says no evidence of unauthorized access to customer data",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN095Q1ozZFFLS1labVpzakhmSEJWeWljRVN2RmxUWlBPOUVvNU5kQVB0NVpOTmhDRjZndEw4RFJwMDd4cWVOWTR1djR1R1BfOEtyVUU3cUQ0a0ZqdTNlZUNJV1V1bXBNSkF2WUNLOUR2ejFqcTJXdlRYd0c3cHlsOUh2cndMWHNOczJjdG0xam9ULUhfU0hPaDJrbUFOWGp1SFJyaWxyNURyaHd1Q2kweGJ2N0trMHRPWVFlM0E1UEJBZWc?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-27T06:30:00Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d28550e55c1fc3e763cd79",
-      "title": "IndiaAI Mission Backed Chariot-1 Models Launched to Boost Indigenous Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGV4bVByaTFoeUFHaEZIU0J5REUxNFZKU2E2V3JJcEtCUXpDWkFNYmN2Um1CSEQ0WE9HSEl0UkRFSW5BRmlVbmZ3d09GOHZ0em91a2V1TlUtMlBNR2tqWnYyN1EwYThvbkU1S2JCbmpxVXlmVmRmaFZuMzh3NUZwXzVkeUFjeVBuTXB1bS1iQldtRm9uMTFqWVRJdW9RZ0J5QVpTckVYREVTbHFlYkFSRHRKVjNreDVnN3p4Yw?oc=5",
-      "source": "Bold News",
-      "published": "2026-11-27T06:14:06Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "dcb79a12bbc65b1f3adb2f",
-      "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-      "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
-      "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
-      "source": "NPR",
-      "published": "2026-11-27T06:12:45Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3888x2592+0+0/resize/3888x2592!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2Fcb%2F367e983047b195799abc793a8a87%2Fap26330767680840.jpg"
     }
   ],
   "countries": [
