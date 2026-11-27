@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-27T04:32:42.108451Z",
+  "last_updated": "2026-11-27T05:36:47.308960Z",
   "articles": [
+    {
+      "id": "a067c0da2f1d9669615277",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T05:15:26Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "bbba10cb49b7186c88f9c0",
+      "title": "European CEO Sentiment Reaches Two-Year High, Survey Finds",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmt6aVBZcUpSSVVKNDNWUWxZYnY4ZTlSWUNNUG5oZFV0S2JraUlWWFBiRThEbFJ6LUdMM3FILW1yTzFPMFkxLXNHUzJaX2JqNjYzRFVkcWlpU3otWlh6NVA1a050eFR5OFNoNnV1RndrdHFuUzBQWEpJbnJReVFfTTBSeTk3VGk3dnI1S3haWjM?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-27T05:07:43Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "f19c8fb5fe3c66377bee00",
+      "title": "The next frontier: UAE’s space ambition targets global market and a bigger domestic ecosystem",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZm1tXzNwSVZPaHhzUi1PUlZ0QXJXS2NINDFIUGo4NGYwdkdDT1QyN0xoSmYxTF9UamxXREFDeEZiUXI3YlpTcUV6bU5NSWtjOUJwemR4VnZVcGhVY1UxLS0yNnA5LUk1ZjlIMVZzcTRTbnYwLWJCcVY0NTMzOG12R19MLXlQbnVfempYb3lkYy1wMzMySjZaRHRMeWdvMjVObjZBeklPdFJuVzNoeHRkRkF0WWNBcmRtSWFuX2F5T3ZzdnM?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-27T05:05:07Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "237e081d1abcfa32ac1d52",
+      "title": "Forbes Middle East Announces The Agenda Of Building The Future Summit At The Grand Egyptian Museum On November 29-30",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQckQ2T0szM3UtQ3JIRC1VYXUwUkt6dUFwYkQ2Z2ZFY2pfSHQtN1I1Q0s4dVZ3dXJ3OVYtWVQ3MkhFdzJLMTNaTUx2QjNnUVpVVmFaQXhROE04OWVtd1lmTUtlWm54SjV5YXpWTjVLMVR1RjBqcF9TcklpWHQ5SHFqUnFDNnBUeDktQUNLRS1PYlA0Zm5XbXdNUEs0dlN6bnhsT1RILUh5dmZFdlFzazN1Q2JtVHZfbXBJZWNva3plUDN0NGZWSzhIOEFzWVVDdTlwTk04OENnVHNjSEJxRG81RDA1dTRRZHpRbTlpOQ?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-27T04:34:53Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "165de68efd44a5c9a11261",
       "title": "Why Shenzhen’s Huaqiangbei electronics hub is attracting more foreign visitors",
@@ -50,6 +98,18 @@
       "image": ""
     },
     {
+      "id": "a1c604b98c1552654451e8",
+      "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWDlwY1NTeFR1U29lR09mbldXajgxZURsM1B0UEczRXFkaUplc0UzT0toMkZmdWhHSWwwbU80bE94ZTExc2paSjA1dXJVaHpMeGo4bFZXaUVxNDFTNnpha3ZibTBkUktaMWhYbUZHQlFRZVo0OHBSYjk0RjlzcUtUMVpfUlQ3TnZnNHV5Z25nbS1nMU5WX3VTSXpPWjRxZ2pSa2JXWFNWbUNOUE02cWFDbDFNbGREOVNlTzBYRzc4YXZwSUFyLVNPZFBlWU1ua2NERVh1aTlpei1Wd1BkdmxjNHoxQmc1dw?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-27T02:53:39Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "ac347afc94892f55e9775e",
       "title": "Europe's biggest technology company SAP is planning to cut 10,000 jobs, as it prepares for ...",
       "summary": "",
@@ -66,7 +126,7 @@
       "title": "36Kr Exclusive: Haptic Glove Startup Benchmarked Against Manus Achieves Tens of Millions in Revenue, Secures Funding From SAGE Capital, Puhua and Other Investors",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YdGNnVHQwcFNRT0NHMmRYbFozTnVIYW1sd3YwWDVPOEVkQ0NWYTdmd29hVUs1WFpIT29DREFvdDFDR1JXQ2NsSHQyRWRWX1FCdGNF?oc=5",
-      "source": "eu.36kr.com",
+      "source": "36Kr",
       "published": "2026-11-27T02:31:01Z",
       "category": "Technology",
       "topic": "Technology",
@@ -170,18 +230,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "id": "a067c0da2f1d9669615277",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T00:52:11Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "id": "e38e30f73b7cf7452da60c",
       "title": "American Express Elevates Jessica Ling as Chief Marketing Officer",
       "summary": "",
@@ -202,6 +250,18 @@
       "published": "2026-11-27T00:34:37Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "fa46900c5fcff543a3295b",
+      "title": "The Korea Federation of Saemaul Geumgo announced on the 27th that it signed a \"MOU\" with the UN Asia..",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wZXhiMVpYb1FOYWVqeldlOWpNdWlaZGhRQ0hHdWh3b19TV3hMcWJqSGxreFQwUE5QQzl5TWpNZnIxbktkU2JaTHhmVUt4V0pSLXc?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-27T00:27:05Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -252,6 +312,18 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg"
+    },
+    {
+      "id": "4999dbfa2e3538c9cdd191",
+      "title": "Brazil's Embraer criticizes new US tariffs, warns of air travel inflation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY25OMnN4NU9UMkpqZXcxWk5oMkdHRnR3alJpWVZfMnZVOEN2U1k3Z0xkVTdEZTFoSm9KdXExUnVReGhGeDl5SnprUncxOXpzSGpOazRVOEMzREczYzF2ODNaTkh4b2l4Q1dCU1JhekJIVXFNX1J1eTdlNmFpbTVSYU5BRUQwRmZzU3BvMjEyTmhOd3JXZlRjY1cwUjV0LWl0QkhVTVUzQmFKYmlJaEtQdXZORUdnZ25GZnZHcU04UEMtWDg?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-26T22:54:36Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5718d6cf7adee706224031",
@@ -322,6 +394,18 @@
       "published": "2026-11-26T22:08:00Z",
       "category": "Economy",
       "topic": "Global economy",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "e5da371fa4782201ec26d6",
+      "title": "The Gulf is betting billions on becoming the world’s AI engine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
+      "source": "Fast Company Middle East",
+      "published": "2026-11-26T22:05:13Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -518,6 +602,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+      "id": "ced4366f4dca7f37b174b6",
+      "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3FuRF9nbl9LcE55WGZSN2NNT1pJbnFXcUx5VHAyR0dsenQ2Y0hyYVo4X3VIZDgzTWNxWlpWS1hFWlRhSm9PVXJlazZCUWtzamFNTkRjSWF3S25iV1ZlZ2lzcDFidEZIX1dIMTJjU2ZfRlBuLVpnSnNmT3hzd1MyS1FGRWZWMHllUDBsUTdDMThKV2NjV2RlZUlUQ1c?oc=5",
+      "source": "The Guardian",
+      "published": "2026-11-26T19:09:00Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b7095d70f93168da6f6cd6",
       "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
       "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks [&#8230;]",
@@ -574,6 +670,18 @@
       "published": "2026-11-26T18:15:00Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b8fd5b9cec70eca209ca2f",
+      "title": "Macquarie-led group to buy EDOTCO's Asia-Pacific tower businesses for $1.2 billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVFvam01bElxRWtEdHZtYUxfWkVxcE54Wk1lTGNPN1AxRUI2MnRZczZfYk5BVE1ObjZ6OUlrUkdGLV9FbFZab1NiOWU3SG82WkxmM1pVb3k2amotdUJjb0J5b1MzaDNrOGZUdUtWenMtaDV1ZmwtN3FqSTZJa0VNRTRaSjlyZUp6SnFQaENkckhMT0dkYmNicHdQdnhoYTg1Z1BiUXBPWVJXZkk5RHQzWTZhcHh5TzlZWHY1UV9TWGNXd1c5Z2ZCVXhfcUl5Q18xZ2NwS2tFbjd3SHhETDd3RWdscGJJQQ?oc=5",
+      "source": "The Daily Star",
+      "published": "2026-11-26T18:07:38Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -646,6 +754,18 @@
       "published": "2026-11-26T17:45:24Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "066d09b1a99e453928b144",
+      "title": "First MERCOSUR–European Union Business Forum since the signing of the agreement between the two blocs marks a new milestone in their relations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOWZzWlctN3JNcFhNRnF6bU9JVk1JRlM1bE5Bb1piQjFjcFJCMURmRlZaMmxNQTFDbXAzZEgtakV3WS05RGdWMGYtNmNpeFFSVE5zUHZxWHdSTlFXV2o1T0FjdXVUWTE0M2FjRXlpYlNsS2dEWmN0YW4wVmtyUDRpdUVfUzFNSFFlSEdPaHhuQmtqdW12Rjc5QmVFUllQZUo2MjYwc1RvRlRRQzFvRWZCSmp2YmxncHBDblAyYVV3RlVsaDVyd1VTTGluU1R3UGUyWlFoLU1ISjQ1ak9FQ0diQVo2d01hLW1RRXVkTnBaNzcyYmQ5TzA3d3RGelFsWnM?oc=5",
+      "source": "Mercosur",
+      "published": "2026-11-26T17:37:49Z",
+      "category": "World",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -768,18 +888,6 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "4999dbfa2e3538c9cdd191",
-      "title": "Brazil's Embraer criticizes new US tariffs, warns of air travel inflation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY25OMnN4NU9UMkpqZXcxWk5oMkdHRnR3alJpWVZfMnZVOEN2U1k3Z0xkVTdEZTFoSm9KdXExUnVReGhGeDl5SnprUncxOXpzSGpOazRVOEMzREczYzF2ODNaTkh4b2l4Q1dCU1JhekJIVXFNX1J1eTdlNmFpbTVSYU5BRUQwRmZzU3BvMjEyTmhOd3JXZlRjY1cwUjV0LWl0QkhVTVUzQmFKYmlJaEtQdXZORUdnZ25GZnZHcU04UEMtWDg?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-26T16:47:17Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     },
     {
       "id": "718be3311961b0827f6ed1",
@@ -1286,6 +1394,18 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fce%2F2b1557be47b9bc08a682a6d8f98f%2Fap26329472681866.jpg"
     },
     {
+      "id": "c6e81835d4d02face52415",
+      "title": "Foreign Affairs Minister urges Indian investors to partner Ghana in priority development sectors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVFodkJyc09xMlZOazh1YXpfZ0RwQlNlcHI0QllORWpIOUMwQk55c1plTk1kTmVaYl9kWkt1TXlwT1lSbWNFVkl6NVVPc242SFRYZkQxLUF1ZUdtWVZ2SG9zVUwzTUhsR01sRG9icjVvRjJkQlMxZ1FHc2xsRzFIeXhoci1mVzl0OW9nNVhxQVljRXZiMnFGddIBlwFBVV95cUxPaFFUdXVVU0c3UVdFMzVUNUFFRUkxT0I2WHpfMWFGVHFWYzg3bGJrS0RxSFE2LTc0bHBJbVBpRENsUFYxeWpBT0FxQUdhNHVVcVA4SU94T1FDSXVqTS1YMFc0UHFIdU1FRFFWNTVleHhBT1pSWF9FODlRc2Rfam1odWRaM2hlN1VURWFLT3k5bEtjT195RU1N?oc=5",
+      "source": "Modern Ghana",
+      "published": "2026-11-26T13:43:00Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "eae9b7608e42af1f49b7e9",
       "title": "Spain’s former central bank head tapped as next European Central Bank president",
       "summary": "",
@@ -1318,126 +1438,6 @@
       "published": "2026-11-26T13:39:51Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "15ab51d825aea42c3dc7c2",
-      "title": "GITEX GLOBAL and Expand North Star to Be Hosted at Dubai Exhibition Centre, Expo City Dubai",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5OdUx5UGhmUkNHOUNKTFlZeWJwYmpqQ2RxVzJ0MVRQRkxYSjFJQ2I0VUduN2ZRN3JQVUpB?oc=5",
-      "source": "Howl.Link",
-      "published": "2026-11-26T13:38:47Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "90c7ddeb486accf353b3bf",
-      "title": "Gonzalez: European electronics, semiconductor firms eye Rio South Texas for U.S. expansion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS0g4aVI5dk13WEt5QktvbEFTRGRwUlZyTmNtNTRhS3V4Zk9hcm9icEk1bEdQMDhwaHdHR250eUFXY3pHRlN4WnAyTzZ1MlhoS3J1Sm13eE5sZnF1M1NDeGpfaGRUMlpoSzFoUHFsMl85Wkd5Z1EyQzZMVTc2T2dFY1lTTTk4UUlzQzNHd0x1QXV3UDl2MFVac0JtSXpFeE9ZcFkyYnRsY3ZTVEhET0FTcXZLLVNCajRjWlhpRlZpVVZXdmhycnluejVR?oc=5",
-      "source": "Rio Grande Guardian",
-      "published": "2026-11-26T13:36:03Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "53235b40ca7b0044de8b1e",
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-      "source": "NPR",
-      "published": "2026-11-26T13:31:28Z",
-      "category": "World",
-      "topic": "NPR",
-      "country": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2965x1965+0+0/resize/2965x1965!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2Fca%2Fa076c10a456fae30c7079d94f200%2Fap26330009741123.jpg"
-    },
-    {
-      "id": "e72b911c9ed5808a3d95ba",
-      "title": "Pig ears for Putin, Trump’s ‘flawless’ roads: how Shenzhen charmed both leaders",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXRjYzQ0UHk5WnlWcktQa1RLWDhGQ0FxbzhYZnRBVWRqTUJTN3RmOFlZRVl3aFlRbmxKM2NNc1c3UXRFcUhtZXNDYVZ0ajdkUWVvdmZ4VEp5UWRkNmoyY0JPWU9wWEdsazBpb2s5aW5WSDZmOWRPOUdYRlc1ZkdZd1RqS1lrVVZJR3NFU2t3Y3hNS2Q4RWxhRnhjZHowX1hmaWswckIxT254TWh3M0wyNlZYSG0tbHNPcGdGWXBxbVp4WFd5bDBSZzNSdk9FTlAzY2fSAdIBQVVfeXFMUDRhNXJ3Vk8tZjR2eG54WHJSNjA3dFNCY3FGNnlidllNWWJhTURUSTZreGM3MElUU25rRjFnd0xxc2Nfck9NLXdVYkdFdmNncXBTdFVCbjYwSXBHREdXZ2doa3ZXeEVGdWxsR0JLRnBpbDVIcWw5bHhDaDRkdnVXVXd4bUg2TlFnM0RKWncxWHBqQ2V1Y0M4QVVoZGx4S3dkU0gxbV9oNHM0RmpKZTkwVjcxOEZkRmNRaDJvOXZDTkZhNGxmN004UWkwSFhjT0hBQVd3?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-26T13:30:08Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c86e8c358366451cd0811b",
-      "title": "IDC co-invests almost R6bn to extract critical minerals",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZfOFlScy12MmpTTmZLLTNYV3hnVmNoOUpGOEJMR1lnN2tfRkFKTjJfNWtGU01NNWxzbEpHTHB1TExhR2JTLUc4UmI2MnR5SFFLUUZ4M2ZQLV9waVpIR1plUFFjanhZTHVqRW40OWp4UURKSXB1aDVCUlhMSnUwLXZzR05yZnpweUtyMlBqY21aSlFWOTZQdUpBWWlIWHBnaUZobEM5RXVTU1N6QTBNdg?oc=5",
-      "source": "News24",
-      "published": "2026-11-26T13:25:46Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "00846d105690fdfa7e52fc",
-      "title": "QDB and SC Ventures sign MoU to build and develop innovative ventures in Qatar and support their global expansion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc1p1dmR4N2FQSWNhcW5xdG4zc1gtWWJfMUhmbm44VU0wa1g3Tm9UaTdPNFpwbUlKMi04a2xNQ3VrRVpqMURqVERkU090UG9yR3pMRzdid3BWbU9xcmlxT2NrVmx2Wi1MYldwVXhDc0lBaWJCOGdhS3pDS0MxdHpKWlltUE1PaVZ4MXpjM2IwSzZUaXNNY3N1dmoyY1UxaWN5VWgyTWtBZkphR1pUSXk3Z0NNWE9kYTJoRVhjRzhGVHo4NGJtMmJsZUtXMDVoOU5ldWkxRWdDZGlibmdVV0l0eFZhRVBYcFduOU1iZUJBRzJ5LWhpdFFhME9nTGRnMWVMZkw2X3FR?oc=5",
-      "source": "Zawya",
-      "published": "2026-11-26T13:23:00Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0b44f3b3c4dd530693640f",
-      "title": "STPI opens 75th centre in Bareilly to expand IT infrastructure in UP",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVoxdkVqX19yRFRsc29VSDh0bkRiM2p4YkVJUzAxQVd1MTNqVjZHNUJqRU5oQ3BoSXp2SzNnYnA5bVlmV25HUmpNZUh0eW5EMlJFd3cxbm9LdWxmR2FmUWVEX09ubHd6SXNSbTBEMjdnSmJacDl3eV9MYjh3Y2hoQjNaU1laQjhDZE4xNnBDU1o4UlFkNWfSAZYBQVVfeXFMUG1aMXZFal9fckRUbHNvVUg4dG5EYjNqeGJFSVMwMUFXdTEzalY2RzVCakVOaENwaEl6dkszZ2JwOW1ZZlduR1JqTWVIdHluRDJSRXd3MW5vS3VsZkdhZlFlRF9Pbmx3eklzUm0wRDI3Z0piWnA5d3lfTGI4d2NoaEIzWlNZWkI4Q2ROMTZwQ1NaOFJRZDVn?oc=5",
-      "source": "Tech Observer Magazine",
-      "published": "2026-11-26T13:21:32Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "308e6712b3237fdc70682e",
-      "title": "German Minister Urges Adherence to Deals After US Tariff Hikes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdXFJUkdBQlhnalV6SkZDN2NCYlA4VlZEc3lCZG5mVTBBZzdiUWpaeFVhN0VTUEE5Vk03dGJHM19YcXlkV0RUVl9uYmhRRFdPdldvZER0UHBPWmNDRzFCX0o4clBWRldNRG9mdlN1ZXJacDRGb2Q2b09fZTFqLUxuSURDWHZxQl9VNm41WGtkUktpWVhHbUNkVEd2TnhuQQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-26T13:16:05Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "afb57085519312466e13f9",
-      "title": "China seeks closer ties with Iraq, Syria in recent meetings",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WQ2RtRjAza0FZX2RBQS1rVV9sc3JoQmRWakdwVDBQYXl3SmZMbTljalVMWU1QQzdPZFhGNjZZTFhRb2U2bDNvX0V2cVE0d0hkTXUtU3oyUzFRdlBF?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-26T13:14:14Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6adc3e5d61c8ca3d7b1ff6",
-      "title": "Cisco and OpenAI launch Shirudo to combat AI-driven cyberattacks, block Java4shell exploits",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ1NyRURMdkVkQ3ZRRGtKX05BTXlPRTRHaDAyN1Q0WUM2QzRNYjRkemthS2liZ3I5T0lCMFNieW13Tm5leXlfUkVJYndSdkl0b1BaSTRhdEtvTF8xRF9WcGVYaFY3b2phdDRsWmY4S2ZOQ3lMLTAzS3E0dWRJWUhpZ0p1a19CWXJ1N0hFMngxVFkxMTN0SEsxSXhoVU5fMlhfeVR0MHl1b2licVBibVhhWjVmWnRiM2k5ZV9NYlFmakc4WEhnZExObVp1bEdHbGMwc3FRdw?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-26T13:11:30Z",
-      "category": "Brands",
-      "topic": "Brands & business",
       "country": "",
       "image": ""
     }
