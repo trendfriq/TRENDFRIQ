@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-27T19:22:08.272941Z",
+  "last_updated": "2026-11-27T20:19:58.360013Z",
   "articles": [
+    {
+      "id": "65e067513a05324abc8865",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T20:09:09Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "5813550398040e4fc6ea29",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-27T20:06:31Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "22a7651786873323165056",
+      "title": "You might lose your Oura health data if you’re still using an old Android phone",
+      "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you are using [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+      "source": "The Verge",
+      "published": "2026-11-27T19:44:19Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0176.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "6131694ce6ba016446ccaf",
+      "title": "The best Black Friday deals on smart home gear",
+      "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and thermostats see their lowest prices [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "source": "The Verge",
+      "published": "2026-11-27T19:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "328423d917a01424e6835a",
       "title": "The absolute best Black Friday deals we’ve found (so far)",
@@ -14,16 +62,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "5813550398040e4fc6ea29",
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T18:52:33Z",
+      "id": "b3be99709395388969d766",
+      "title": "Ranking - Top Export Merchandise Categories & D2C Brand Sectors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWURXYlhPSWFQZTlqQUJ0XzVPcUYzRzcwdElOb1d3YjdLN0Z5cFNNX0FiMmtvVUhDN1JLa0ZHRGFuckJvMTQzRlVMWTd4ZW4wS2ZqOU9SLUtHVVNaSkc5dEdyZ0lPWWpIRVZjV1dKV19HN1ByelBOUVQ4Rm4wb2FLYzhLeldTcURucVJNbkw1VEZHTjFhWGt0OEdNRWxSdks3dzhkdjNOX0JPMkR1TUM0MEJDMA?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-27T18:58:39Z",
       "category": "World",
-      "topic": "BBC News",
+      "topic": "Americas",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
+      "image": ""
     },
     {
       "id": "0099978229ddc3298e0fa6",
@@ -84,6 +132,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "1684f845f7ab767cc72c83",
+      "title": "Lakshya SmartGuard Systems Raises ₹2.5 Crore in Seed Funding",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEVSbmI2UktjUlpadmw2X2tMek1VM0FEWnVVQWhfcW5CdGFNWWY1VHJqRF9xWXVFQnhoVXYxcFZlT0lkd0kxWVdPdWd6UVhXQ0RXSWNtcWJjVVo2RmItR1JZUFhkYlFwcFVpaHFvTDhoSkNldTJpVE1wUWdNNXpmVHNZUkJhODdyWktHbGs3T2NsZ3NRTzBsb3N6NWhlTmM?oc=5",
+      "source": "TechGraph",
+      "published": "2026-11-27T17:57:51Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
     },
     {
       "id": "5090bfb0f43fe274c5560c",
@@ -228,6 +288,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
+    },
+    {
+      "id": "3d539cb0a16a9afcf3f9fb",
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-27T15:48:19Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
     },
     {
       "id": "256081816a831a6d2a861c",
@@ -406,6 +478,18 @@
       "published": "2026-11-27T14:25:45Z",
       "category": "Finance",
       "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "53451fb33db8b9ff54771e",
+      "title": "Beyond the upgrade cycle: why wearable technology needs to embrace longevity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3JFTjhQRUE2WFktU3FkVEd2OW1RX2dXVGE0QlVaVHA0WXkwdUd1M2xWQTl4WXhEZk1mcUpXWGszZ19xTXNNUUJJZHpLdEFqVGUwakExWk8yZXBYblZKNXE4dW1LLUZqdGpjRGdfS2ZVYXNCNW5hTS1oX1ZXbDFGUjEzWUU2ZHNSRWxybzItS3ZsdUw5clZnbjZQZ2p5X0lIWEJ2cFFPQTJUTmFFOEJV?oc=5",
+      "source": "UKTN",
+      "published": "2026-11-27T14:10:11Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -614,6 +698,18 @@
       "image": ""
     },
     {
+      "id": "af771f45f99f5c6e09ac9a",
+      "title": "South Africa launches global trade offensive to offset US AGOA exit and Middle East war disruptions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ0lwX0s1emN0T042cEJvSGdMbFVOZHh3TVlBNGEyelYtNnd2SFBKQlNsLUxnS3JLSThPb2RSMC10QTBtWXlXOC1iSE5GRXpKU2FTZVBGY2IxanV2QzFaOHpleE9nbTlvUFU0WERtMUZJMGtmeUlTcnI2NkZMZjdDX1hnMHFWN21KWWVzNHN5NlRIcmxsN3JvVHNlSmxxOTFaYjN6eVFLSk5FZ1FWbVBQV05pUENMbGVJOEloakJjTHg2Nm5BNUU0WDRyNlMxRXExeHNOYzBkRQ?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-11-27T13:09:01Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9f9e171591e4098beb17ae",
       "title": "EY Launches AI Academy for Clients in the Middle East and North Africa",
       "summary": "",
@@ -648,6 +744,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "85d560fd7e809a3b6131d6",
+      "title": "Meta announces entrepreneurship-focused investment plans for Türkiye | Daily Sabah",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTndiMkgxcWhiMVlpaGtWbmNLcC1JVkxRQXJQalNWY19sOENQSWZnRGowekpPS3VLUFE1T0pOdVREZTBaQmhzTkVhM3pveS1kcnVJMzR5bVJFQkdwQm02bEV6OHR3QjRoSGxQSUp1S0FqbkZvMU1JeDFJZUVXcUtkM25Ga1BDeThTNTZKanhIVWQyNGw5dWpfZ3p4aE1WdXV4MkRQV3BpSHIxWWdxNEHSAbMBQVVfeXFMT1lDVEtkM19kNmhVRnIzb1JmZUdFQXhIUkxEQzlDWk5mcFhsMndEM2RBZHUzWkZTS0tQQXpaYzlPcDNWSkVOejhLbndTQ1BxbGJhVU5kbDhYUE1iXzZzX0VzN0xoR3J6bThDV2ptaWs1bHdyRFp6eE9QWVdodnJlYXJxME5YbDNiWmN2WU1Xb2FleGVPVTJwWE9uVk44bERJSXk1MlpCeVZQbWpkdkhUMl9GaTg?oc=5",
+      "source": "Daily Sabah",
+      "published": "2026-11-27T12:54:26Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "3c09ea4f391fdbd32a2f68",
@@ -1330,114 +1438,6 @@
       "published": "2026-11-27T08:38:07Z",
       "category": "World",
       "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "6110a97cccf3b508e4a2d9",
-      "title": "Taiwan foreign minister urges businesses and government to shift focus from global sales to global investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdkJEWms4UEFaT2pabkpfUXRHSVhKcG5OMnhlUDBzYkswMV9Fb1ZZZW4yaGl2RXFFVmRhLVZMZ0dvUm5HUGFPYnp1WDJDMVQwU1ppNmJkajNpWGJVRHlJQWJhSWV1ZVZkMElQZkNEdzlxeGFrX2ltM0pFRExITng0TDhCVmJEcXdwYnFUM0tHWFJTV3Zka3ByQXFUaGdFSWp3Rkhfc0MxYmpSb3pYVlFVWElQMkhMd2FKTmEzZktuT0VrX0NUOThjcTFJbExiVVV0SnpPWlJNTTZWeUtnNmh0SVZ1aWM1TWlyV290QzJlUWE?oc=5",
-      "source": "联合早报",
-      "published": "2026-11-27T08:38:07Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "b47c9ed985511bac0de8a7",
-      "title": "Poland Grows Three Times Faster Than Germany, Reshaping Europe",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1Q5WnFWQkhjQ2NxZzVya3hfaU1zaS02RjJfSEZ3dTdQaDlKS2dPYi1ETXZtTFk4Ym15WkNKd1VfU3hoRTUwOVFyZHlKS3pvQmJVUU16RGdRcm5jQjljZlNCNUhBNXczYWo2T3JHMXBsNDRjektjLTFSWkRLRGNObjZlNnhqbmRmSFZuVzBFLURyQ1RmeU5kS0F3?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-11-27T08:36:59Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8e8e2d373c334fc16ee9e1",
-      "title": "Shoppers helped pay Trump's tariffs. Now Target, Best Buy, and Kohl's are booking $387 million in refunds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMkFaVUNOZUJVOTNOMG5SUlZub2JGWVVhX3ZORnRZT2dYZzgxSUxjMXN0eDA3OHhHWG5lVWxpeWJESUt3czd3RzloMmVfOGtJMzA3bnZ4SUp5OTBCSnJXZnU0NklQcnRUQ1dGaTJIUFdkcEpWMEt6c3FRZVo0ODdOMHBHcw?oc=5",
-      "source": "Fortune",
-      "published": "2026-11-27T08:31:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d2b1ce8fd121b584ebd390",
-      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW91bDlWeXB6eW1vVC1rVWQzZlFvNmtrSHMxN1Y2THgzTDNDc3VDZGk0d2R3Y0pUOW1pVDdrTXVwcU5lck4tSGNrX1dTZ0pSQVEyc21wSUdFdFJVUldET2sxcEFzS2gxWGNHRFJvMVIzSC16UUpGOGV1bnNoMmJ2NmxWOUlWaUdZSW8xVGpia3NMVHYt0gGUAUFVX3lxTE43MzBKUVFtU0t4ZEM1cmV4b2J3Wk8wYUtRVkwydXlDS0MwcFpjLVBNVnFTVDQxUFpEZ1hkXzN6aGNEc1hwcE1LR09CektONnJscjRXZGNhRFpZeUNnUXhNaG50VF9CQ0ZabFExMzFNYUtpd3RLLUxSRmNldU80OE5WLTZ4a2dBXzF0ejQzNThoZTVCbHg?oc=5",
-      "source": "DW.com",
-      "published": "2026-11-27T08:18:28Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1c0565d52f665d4bd3955c",
-      "title": "Millions of wives in South Asia unprotected from marital rape - study",
-      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
-      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T08:13:43Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg"
-    },
-    {
-      "id": "d43d041550565adfc254d8",
-      "title": "Maritime trade stagnates amid geopolitical uncertainty",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDNrS2VwRnhLYkcyZGFPNGU3SFhuY0t4SFR3eUJ4NWliNEF3Qms0YlUzbEltWlhVOFozTEI4dWM5bzV5UFVQZ3JOZm1BY08yQVVVOHpqZEVXRGVKZXE2akZjanItMGJGaXNRWmJqSEJ5a2tRWEhpTW5tcU1LQV9ybmhQTGZnYWdqV3JieTczbVdMZllMSUdB?oc=5",
-      "source": "The European Sting",
-      "published": "2026-11-27T08:12:53Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a2b068896d82f08efd5043",
-      "title": "US Futures Rally on AI Rebound as Treasuries Dip, Markets Recover",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNRX0FrMmFFY2RzNVcxRkV4SjA0TXRNT2ZyekJVY2lTV2tiampzdURNcm50MmRJbm1haWo3OXMtREpJdkNRYTQyeERYUXdyLW1POUJZRWx4N1o5QnN6OFIzUUJWTkRzYV9GWThlNXBlVFNhZ1paM2hqNlFYMzJpQlB4WGNseWZjc1ZTNmpFZGd6QUFLY0NFWS1QQkJ0VnNiRGc?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T08:08:45Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1e593cccda1a67e840341a",
-      "title": "Tech, policy and investment leaders from 120-plus countries converge on GITEX GLOBAL 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM0tyeks4NXZsV0U5SU5TOTY2ZVdGSC0tQzNaYTFldElZc1ROdlYwcDNRal9ZQ0o1WWhaWGFucW8wWlBobXBRYkRIV2pYa2NndXlWRDVvcTBuLVhfUXRMU05qb0I3OVJxc0ZwcDVzMnA0eXA2VEFhZ041cGRvdk16dTNJU0NKaktuUm94clFZZFRxX3BKQmRLSHM2cklQNy1XaHoxMTFWaVlzMS1VR2VQckR4LVExX2ZWaW9NOXZWLVlkZFp4TmREc2lZaE1oOWlTd0s5aDZnaVBQeEUzWnFKMDA1LWZiNHJR0gH7AUFVX3lxTFBESnlSS0VCLWI4QU5MMUVneFp6cVE5OFh1ejdUbkhGRUthVEFVa1F4N09ZOTRyeE15XzA3VnJ4eXNVcEl1ZnNLUElpM2VHaHY4dHdsNUE0NEROWmt2T0Y4MXp5YkZNTEotY0lacllfMGw3UDNoV3JETHRlaDJnQm5faS1ZTXlfREU3Y00zdVFjUnVTWjFDbmsxVy1VaFpBZ0paUGg0eXlFTkRMVURaVmxuZ2swUTNqejd4ODVxTnVxYi1NdG9IMTN3X3hLS3ZCSTMyNnJKYXJ3Q1hEUEdDQ3pmVVpaSEFxckM0b0hZdG5FY28taEdqOFg0RHNj?oc=5",
-      "source": "Gulf News",
-      "published": "2026-11-27T08:01:24Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "57bbfc903751368afc3754",
-      "title": "Ambarella Partners With Sigma Connectivity To Enhance its Edge AI Product Development",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWW92Y05GNTM3bnpnSGJCM0VDcTBfc3l2b2FjUGRtQWo2RDU5UHJpUl9qdkJoVDZSQk94b0cxWUZXT3IyZFV5dEhrZ0tTam1ObXdaMnU3S2V6NWxzUmplak5VZmFUU3oyTEJuTjFrSkVXTEc0OTNQMmVuVngxMUREVWthSHJqdDYxYUE1S2ZGZFhiT3NzQ09kRmRQcGZfbVJEaXhlVnBNVm1fVGR4cGF6bDh0UmpGWlJsMG9KNVk2N2p2ZGd4UUFjQVlOYklsems?oc=5",
-      "source": "Electronics For You BUSINESS",
-      "published": "2026-11-27T07:49:26Z",
-      "category": "Technology",
-      "topic": "Technology",
       "country": "",
       "image": ""
     }

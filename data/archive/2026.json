@@ -1,5 +1,53 @@
 [
   {
+    "id": "65e067513a05324abc8865",
+    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-27T20:09:09Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "id": "22a7651786873323165056",
+    "title": "You might lose your Oura health data if you’re still using an old Android phone",
+    "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you are using [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+    "source": "The Verge",
+    "published": "2026-11-27T19:44:19Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0176.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6131694ce6ba016446ccaf",
+    "title": "The best Black Friday deals on smart home gear",
+    "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and thermostats see their lowest prices [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+    "source": "The Verge",
+    "published": "2026-11-27T19:30:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b3be99709395388969d766",
+    "title": "Ranking - Top Export Merchandise Categories & D2C Brand Sectors",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWURXYlhPSWFQZTlqQUJ0XzVPcUYzRzcwdElOb1d3YjdLN0Z5cFNNX0FiMmtvVUhDN1JLa0ZHRGFuckJvMTQzRlVMWTd4ZW4wS2ZqOU9SLUtHVVNaSkc5dEdyZ0lPWWpIRVZjV1dKV19HN1ByelBOUVQ4Rm4wb2FLYzhLeldTcURucVJNbkw1VEZHTjFhWGt0OEdNRWxSdks3dzhkdjNOX0JPMkR1TUM0MEJDMA?oc=5",
+    "source": "Mexico Business News",
+    "published": "2026-11-27T18:58:39Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "0099978229ddc3298e0fa6",
     "title": "OpenAI Countersues Apple for Trade Secrets Theft, FT Reports",
     "summary": "",
@@ -34,6 +82,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anker-nano-100w-universal-travel-adapter.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1684f845f7ab767cc72c83",
+    "title": "Lakshya SmartGuard Systems Raises ₹2.5 Crore in Seed Funding",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEVSbmI2UktjUlpadmw2X2tMek1VM0FEWnVVQWhfcW5CdGFNWWY1VHJqRF9xWXVFQnhoVXYxcFZlT0lkd0kxWVdPdWd6UVhXQ0RXSWNtcWJjVVo2RmItR1JZUFhkYlFwcFVpaHFvTDhoSkNldTJpVE1wUWdNNXpmVHNZUkJhODdyWktHbGs3T2NsZ3NRTzBsb3N6NWhlTmM?oc=5",
+    "source": "TechGraph",
+    "published": "2026-11-27T17:57:51Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
   },
   {
     "id": "5090bfb0f43fe274c5560c",
@@ -348,6 +408,18 @@
     "image": ""
   },
   {
+    "id": "53451fb33db8b9ff54771e",
+    "title": "Beyond the upgrade cycle: why wearable technology needs to embrace longevity",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3JFTjhQRUE2WFktU3FkVEd2OW1RX2dXVGE0QlVaVHA0WXkwdUd1M2xWQTl4WXhEZk1mcUpXWGszZ19xTXNNUUJJZHpLdEFqVGUwakExWk8yZXBYblZKNXE4dW1LLUZqdGpjRGdfS2ZVYXNCNW5hTS1oX1ZXbDFGUjEzWUU2ZHNSRWxybzItS3ZsdUw5clZnbjZQZ2p5X0lIWEJ2cFFPQTJUTmFFOEJV?oc=5",
+    "source": "UKTN",
+    "published": "2026-11-27T14:10:11Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "1f06b845ea0922209f36a9",
     "title": "CaaS Threats, Tool Integration, US Cyber Shake-Up: Cybersecurity",
     "summary": "",
@@ -528,6 +600,18 @@
     "image": ""
   },
   {
+    "id": "af771f45f99f5c6e09ac9a",
+    "title": "South Africa launches global trade offensive to offset US AGOA exit and Middle East war disruptions",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ0lwX0s1emN0T042cEJvSGdMbFVOZHh3TVlBNGEyelYtNnd2SFBKQlNsLUxnS3JLSThPb2RSMC10QTBtWXlXOC1iSE5GRXpKU2FTZVBGY2IxanV2QzFaOHpleE9nbTlvUFU0WERtMUZJMGtmeUlTcnI2NkZMZjdDX1hnMHFWN21KWWVzNHN5NlRIcmxsN3JvVHNlSmxxOTFaYjN6eVFLSk5FZ1FWbVBQV05pUENMbGVJOEloakJjTHg2Nm5BNUU0WDRyNlMxRXExeHNOYzBkRQ?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-11-27T13:09:01Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "9f9e171591e4098beb17ae",
     "title": "EY Launches AI Academy for Clients in the Middle East and North Africa",
     "summary": "",
@@ -562,6 +646,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "85d560fd7e809a3b6131d6",
+    "title": "Meta announces entrepreneurship-focused investment plans for Türkiye | Daily Sabah",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTndiMkgxcWhiMVlpaGtWbmNLcC1JVkxRQXJQalNWY19sOENQSWZnRGowekpPS3VLUFE1T0pOdVREZTBaQmhzTkVhM3pveS1kcnVJMzR5bVJFQkdwQm02bEV6OHR3QjRoSGxQSUp1S0FqbkZvMU1JeDFJZUVXcUtkM25Ga1BDeThTNTZKanhIVWQyNGw5dWpfZ3p4aE1WdXV4MkRQV3BpSHIxWWdxNEHSAbMBQVVfeXFMT1lDVEtkM19kNmhVRnIzb1JmZUdFQXhIUkxEQzlDWk5mcFhsMndEM2RBZHUzWkZTS0tQQXpaYzlPcDNWSkVOejhLbndTQ1BxbGJhVU5kbDhYUE1iXzZzX0VzN0xoR3J6bThDV2ptaWs1bHdyRFp6eE9QWVdodnJlYXJxME5YbDNiWmN2WU1Xb2FleGVPVTJwWE9uVk44bERJSXk1MlpCeVZQbWpkdkhUMl9GaTg?oc=5",
+    "source": "Daily Sabah",
+    "published": "2026-11-27T12:54:26Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "3c09ea4f391fdbd32a2f68",
@@ -2064,6 +2160,18 @@
     "image": ""
   },
   {
+    "id": "da92fb3e7322634bb4a810",
+    "title": "Mexico's Central Bank Raises 2026 Growth Forecast to 1.9%, Investment Weakness Persists",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VSGFyRVpJdlBJZF91azVOWkVVbGNTN09xaFV1SE43VmpoSHpmRlU3SldCcUtTVVFoUXFVQ2RrSHc0NV9NMFRTNDlKbVlYVVcxRzlNLVVjVjc1cl9VRUZYMzY3b3NOZGZCZ19ScEFpdGFVQ0JOd0E?oc=5",
+    "source": "BigGo Finance",
+    "published": "2026-11-27T00:25:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "52a6e5fd6ca590c6590dc9",
     "title": "Korean AI Startups Face a Buyer Test Over Data Access, Model Providers and Agent Tools",
     "summary": "",
@@ -2110,6 +2218,18 @@
     "topic": "BBC Business",
     "country": "",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg"
+  },
+  {
+    "id": "95fef46124059f1975b56d",
+    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+    "source": "BBC",
+    "published": "2026-11-26T23:08:12Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "5718d6cf7adee706224031",
@@ -8244,6 +8364,18 @@
     "image": ""
   },
   {
+    "id": "c306f131be56471249b6d6",
+    "title": "AAON (Nasdaq:AAON) - Stock Analysis",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcVRrVExPeDh6SUFpQndBaHRucHdWRVowM2tidDdvY0M4eUhfeVZpd0ZHMVhEYTdoQmFfVWl2ZW5rY2E2YkRGMk5qM3gwQThkdGxWYjcwSDFMS05mcE9MUWxvUXN3WVpibTZoRVlTSQ?oc=5",
+    "source": "Simply Wall St",
+    "published": "2026-11-25T08:00:00Z",
+    "category": "Finance",
+    "topic": "Corporate results",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "1cb3923d4e1b2c953bcb89",
     "title": "How Italy turned its UAE partnership into a strategic asset",
     "summary": "",
@@ -8432,6 +8564,18 @@
     "published": "2026-11-25T06:47:49Z",
     "category": "Technology",
     "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "2cd3cf7885bc5b3a01c5d4",
+    "title": "UAE's economy minister on AI investment",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGJUSkxnRy1mRXlYU1N4WERSOEh0YTItV2FKR3BFTDh0RnJycG0xS1BTdzJkcTNDbXpja1R4aEVqelRhb2VKX0RKTGJEVGtwQWx4dUN0amR4SWFpVjVDRTVQTVJZUmNuaWR6TmFwTTEteTN0X01ETzVIWUhqOGk4UlRQSDdmS0Vi?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-25T06:47:00Z",
+    "category": "World",
+    "topic": "Middle East",
     "country": "",
     "image": ""
   },
@@ -9474,6 +9618,18 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVE5QXVDY09MQ3ZndWs5RENvSEJqa19ITWhfX3FXcW9MSTdMdkNPMHlBaWpndkxWS3VWRnVmZzVvaDd0b2VBT1g1RUhoNDZJUTdsOGhpN1FVNnI5Y0VDNEF4R2xKOGEwOTRJXzlxS2hHVVRZY3ZtdHZkWkZZcVJDOVNZWEVUVHhJc2hDR1dXcGdHeENhNEZEbHhfNWY?oc=5",
     "source": "Mexico Business News",
     "published": "2026-11-24T22:10:20Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "6f8cd588e3b88096df26f5",
+    "title": "Brazil’s Black Friday set for record sales as AI reshapes shopping behavior, says Stefanini",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3VGMGZKNHdzVlFLNElrWXVGWXM1UXlXUklRbWtrM0J3aklLYUhaaEVBek5pRGR3d29sZU9kc2VZc29DaXc4NS1OdDg0OG9vdFJ6Zm96aHFsYlJLOUpGOU84cUd3MFdBLXY1T1JMVE5EN0l1V21VeUNjd3RIcGgxbGVrN2gyUjJKOGxKeGhERmlyWUVFM203S0gtR25Xc3RjUHI0aVlBa2xqaFhtMUNYa2NPNG9UVWtxaWVBdmF2OUtyNVozOGfSAcsBQVVfeXFMTlIxVk1VYi04bE9YUmVlT2hXNTlna01FVUl2bi10S2JOY0FKWkl4MUJ1SG82MGlkb3JJcWRGUXdDTzF2UHhUNkF1bHZ2YUFubVZiYnBLZFJudnpqaTJ3TklROE1tTlQyMFJHWlZQMm82NHI5R1RfY2NFNzdNRnc0V1RrZlZUYXJLQURmc0ZEcnZyeVc3SU1rY1NJdkpvTjg0ZUdweFhTQWVaSm41QW1HZ2tvV2xWazRQdERoa1FYRDFXaUJUNWJFbU0xazg?oc=5",
+    "source": "Consultancy.lat",
+    "published": "2026-11-24T22:02:16Z",
     "category": "World",
     "topic": "Americas",
     "country": "",
