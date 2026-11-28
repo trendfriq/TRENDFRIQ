@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T07:59:58.500532Z",
+  "last_updated": "2026-11-28T08:53:54.544233Z",
   "articles": [
     {
       "id": "6811ba22810e73a48586a3",
@@ -7,11 +7,35 @@
       "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
       "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "published": "2026-11-28T07:55:18Z",
+      "published": "2026-11-28T08:41:54Z",
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
+    },
+    {
+      "id": "848699850941362fefc9dc",
+      "title": "Gemini 4 Neon Opens Wallet, Backs Itself Up",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUh0TFdtQzI3eV80RVhiQ3JZMG8yX1pwLWVEYzI1dFpUbVhJNFBxWjJMMVB3Mzc5WkN3Ql9RNDJDQkdfVUwwcTV3STdSenBabTEwTFM5UW5ZaG1JQkpic2hRdHBub0FKNnVxWjZicURiRGstNWRhb19hNTJkRG5xUjRBWU1MZw?oc=5",
+      "source": "Wisevoter",
+      "published": "2026-11-28T08:03:01Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "1238713f440f690e9acc85",
+      "title": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
+      "summary": "Meta claims its Muse assistant will make users’ lives easier, but business owners say AI is driving them to go analogue Restaurant owners are battling a horde of AI bots and returning to using the telephone instead of online booking as new virtual assistants launch in the UK – but sometimes even that isn’t enough to stop them. This week, Mark Zuckerberg’s Me",
+      "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+      "source": "The Guardian",
+      "published": "2026-11-28T08:00:34Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e666c023ca802b8b858e41f60b911c52"
     },
     {
       "id": "86796f234e992695ee1faf",
@@ -24,6 +48,18 @@
       "topic": "Corporate results",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "43587a9eefb341081d3751",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T07:31:14Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"
     },
     {
       "id": "00ad9b6999e71f57d3c5ab",
@@ -218,6 +254,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "0f00cdbde872b84288f8b3",
+      "title": "Sponsored Commentary: Immigrant talent powers the American economy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3VpblJuR1hPZ1JJWHoxajdaRTVhbV9rOTFib0pSQXZpbzhjdWV6V3FibThUa3lJOUh3MGZTU01vb2ZUZmdfUnZfVC0zWDV5WGU5N2h1ZXpscllOTW9PWW9jTHg3RFlNYnpvdWZMM0xyS05uUUZDR1lGajc4dEJQemxsNGRJTUFs?oc=5",
+      "source": "Alaska Beacon",
+      "published": "2026-11-28T03:23:57Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "384ebc18bbcd2c821fba57",
       "title": "Home minister urges Canada to recruit skilled Bangladeshi workers",
       "summary": "",
@@ -386,6 +434,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "3049df907464fcef99e106",
+      "title": "RELEX Acquires autone to Expand AI-Powered Planning Capabilities for Fashion, Lifestyle Brands and Apparel Retailers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdXc5N2NZMk1XMkFhQWNldnpRTldGTDJzTE1NRXZuMTNEamlJQUFVUzExeVREbGRIbDFTU0pXcjMtSlNjb1pJYUtDMUhXVkg0cEI1bGJEWW5nUk1jb0FHNDJlcDF5aktFZ0xLSnM5dF92TERBX2l4Sy1kVVpWZ1JpV1dIc09lUEdEajhVT3NaOEJ6UTBvOGdncXJNLU1kOWxacXpwdlZVTWFjelAtc3dJN2lBd092ZzdWenVKNHF2TjdHVVNJcEU4bXc1UkRKcl96M2JVLWdlS1lEX3Y3d0dhMEdXU0txeWRYdmUyT1dRTEYwWXIwX2MwTUVOaE4xb0gxWlE?oc=5",
+      "source": "Business Wire",
+      "published": "2026-11-28T00:00:42Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "9ec3f4b1096bc9cd9ff211",
       "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
       "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised [&#8230;]",
@@ -482,6 +542,18 @@
       "image": ""
     },
     {
+      "id": "e76541e95a72e14981f8af",
+      "title": "South Africa’s credit rating upgraded after years of economic stagnation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtNWlUyNEIzMWV1Q3RXbXJOQzlBVEd5NVFNeEI0bHA5dk9DMHR2T0xJbzZZcVhUQmVvdUxzT1llV3RlVVJSY1lMWXNOMWFoOGFUaC0yTWlhZzZ3S3dSQ2JXMnZSekNWQ1ltczB5TWtGNmZfN2FFb1E1NHpsRl83UldEUnY?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-27T23:13:58Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "953e54fde0c82403ceebd9",
       "title": "Cboe Global Markets (CBOE) Stock May Be Fully Priced After KPI Options Launch",
       "summary": "",
@@ -492,6 +564,18 @@
       "topic": "Global finance",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "e450cbcac5dc0ec47ea854",
+      "title": "Sudan's lost generation: War is stealing the childhood of millions",
+      "summary": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+      "source": "NPR",
+      "published": "2026-11-27T22:54:53Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
     },
     {
       "id": "796158dfffdeebe3449b05",
@@ -1286,6 +1370,18 @@
       "image": ""
     },
     {
+      "id": "ae818fefcba398e102f09d",
+      "title": "Jamieson Wellness Inc. Announces Closing of Acquisition by Kirin Holdings Company, Limited",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0c2X0dRT1FUeTA4ZF9xNTV2Zi1MeXVlTXdYN19HcnlTd2NUMXJmT2N0emdXQ20xQVZXRjJxT3B0MnZJbDRULXR5aF8zeE83d0hLWHdkd0VjSDgyMmpVS1U2NXEyYVFsdW9ydlR0OXcyazA4Y3RYWGxoRkNHWXNueEQ1SGg2NGstTjVIZmZzU0RiYkdQeDVxVk5ob3g2Z0NZLXFrYXpCQ0pmWVZ5RFdnQnZNdWlha0Q0dlFSWXBPX0QzaUZPMHAwSE5PY1NHZXJpU0xxMHkzZzM?oc=5",
+      "source": "PR Newswire Canada",
+      "published": "2026-11-27T14:27:00Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "f84435db99b8af5c2068d9",
       "title": "Software giant SAP weighs major job cuts as AI transforms sector, sources say",
       "summary": "",
@@ -1322,6 +1418,18 @@
       "image": ""
     },
     {
+      "id": "9bfad7f9b418766a7d8275",
+      "title": "Rocket Companies Is Winning in a Brutal Mortgage Market—Can It Keep It Up?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRG9nT1hqaXZYZkJXWXBqd0ZWQTR4UHZMb1cyWWNyXzVqSmViV01GaUJmaHlucWVJSDNLc3RtSmVyQ2JDcU5BWlNRellva0V0X2R3MTBKNzVyY3BTT0QzX1hwUnZWdDhrQV8yLXZrSzhXU3RFS1VZZmZDLXJCY3pGWXZyOElDdnFrd2lRUmlxSmhpY0sxbnlZRXYyalBRbmhyOEZLUjlhUkN1N0hVTFhrTG15MnAyVFVuYXlXNEhyMHp0Mk9vclRhay1JTk04RFE?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-27T14:20:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "048632a3702f8d7fa646a5",
       "title": "Earnings Calendar and Analysis for This Week",
       "summary": "",
@@ -1330,114 +1438,6 @@
       "published": "2026-11-27T14:18:03Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "53451fb33db8b9ff54771e",
-      "title": "Beyond the upgrade cycle: why wearable technology needs to embrace longevity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3JFTjhQRUE2WFktU3FkVEd2OW1RX2dXVGE0QlVaVHA0WXkwdUd1M2xWQTl4WXhEZk1mcUpXWGszZ19xTXNNUUJJZHpLdEFqVGUwakExWk8yZXBYblZKNXE4dW1LLUZqdGpjRGdfS2ZVYXNCNW5hTS1oX1ZXbDFGUjEzWUU2ZHNSRWxybzItS3ZsdUw5clZnbjZQZ2p5X0lIWEJ2cFFPQTJUTmFFOEJV?oc=5",
-      "source": "UKTN",
-      "published": "2026-11-27T14:10:11Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9f55b73b9e3c3db8ba35f7",
-      "title": "American Eagle Gears Up for Q3 Earnings: What Should Investors Expect?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3cyUlFkVEc0bF9vQWc4dGdsNEFyaExxMGlGRVNTWFpWSGQwYnhGSnlRd3BGVEVfcmFGREhxc3JrZF9OS2p6UUZ2azlkZUQzUG1USjV6bjRoSlNXdHJzeUZqdDZwNXRxRFB4bFB1aHNhNDVwYS1zWGRMSWJuLUJwZENVWm81X1kybE1QU09NVVhoUnMwbjNISE1IVGJrNGdieW91NHctM2o5eGUtZ0ZGS3hfb3dOOUVhOGc3d280cHVMUQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-27T14:08:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1f06b845ea0922209f36a9",
-      "title": "CaaS Threats, Tool Integration, US Cyber Shake-Up: Cybersecurity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGU2VExOTE8wZXFMUkJfZVF6YXcyN0lZTFdGeUJTT19kWFZDWk9hTnpwNTVJUEJQeF9fNTRYaDNzMzZqaGR0bGFkU3V2NFpoOEtOSFJ2ZDVwTUc2a0p1TVVqYVd0a1NKcTBEQXBlakRLdFZnVHFYUGdkSXR1c3NmejVISnpXYkJ4TmFrbm11bVVuSk5UYU9TcnZiZEZlelVRWmlreDVlN0o?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-27T14:05:16Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e8e1e9dd5e211cfa7f2d4b",
-      "title": "Forget Yield Chasing. These 5 Dividend Stocks Have Raised Payouts Through Every Recession Since the 1970s",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0drYXhiYjZFNjFMM3Azb3VDdGE4dnFMRjIybnQtTHBQRDlOX2VFVjZpcW1nc19NY0lYTTgyWmY4a0dKaHRLOXdMNWRVUTVVeUQ5U3ZhRlZoei1jc0c2RDZxcjMzc0FJZDZOMmwwa3FPMmhDOU9la1Z5b0hnUlNlNHpzN0lfU2NRRFNWcVl4emZpcEJpam41QWhDekI3LXhndDVGdzRtc1BHM0FaenR4ZGxjeVZGaTkyVzJtMDBEelYzSGZUVTZrU3FQU1FCaVZYRm5JYmRMVWt4OGRRd1FYbHhB?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-27T14:03:00Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "8ec456ca88761fea6cfcb3",
-      "title": "Amazon’s sale deals deceive customers, thinktank alleges",
-      "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Groundwork Collaborative finds, a claim Amazon disputes An Apple Watch on sale for $680. A pair of women’s Hunter yellow rainboots discounted for $127, and a pair of men’s UGG boots, $180. A Carhartt beanie just shy of $20. These discounts – all reporte",
-      "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
-      "source": "The Guardian",
-      "published": "2026-11-27T14:00:12Z",
-      "category": "Brands",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/3fd874b4fe3a8894153f2b9fcb7206a3baf3e365/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=237bbb587a5e0939050adaef26594466"
-    },
-    {
-      "id": "1d140bb3b26b0663e87bbf",
-      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [&#8230;]",
-      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-      "source": "The Verge",
-      "published": "2026-11-27T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "cf3eb807c0ae156f31c82e",
-      "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
-      "summary": "When Keychron announced its $90 G6 HE gaming mouse, I immediately thought, \"Cool! A cheaper alternative to the pricey $180 Logitech G Pro X2 Superstrike.\" Logitech's innovation with the Superstrike is using magnetic Hall effect switches for a user-adjustable mouse click depth, with haptic vibrations mimicking the tactile click feel. The Keychron G6 HE, as [&",
-      "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
-      "source": "The Verge",
-      "published": "2026-11-27T14:00:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268886_Keychron_G6_HE_gaming_mouse_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "292ca3888b5c92558f2f4f",
-      "title": "How America’s Tax Code Subsidizes Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2R3RF9SRFRfYk9yN2J0TVRSMTZQMzhFem1POWJlbEJydlRXd0dWX0ZPem1UVjRaaUtNX1Y2Wjl4dzRIeXByd1prU1RYS1dMa2F5YjJzSVdrY3M0alFiTlAxdVZEanJEMVozcUxIVVQ4SzhiZ0VzS2lhMlkyQU91ajhoX3gzSWg1TnRyZjAxT2FPaHE4bTU2bENB?oc=5",
-      "source": "Pasadena Now",
-      "published": "2026-11-27T13:53:21Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d99f6db4c8570f23ce0573",
-      "title": "STR strengthens Middle East presence with new subsea technology and service hub in Sharjah",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmtqSTlUTnNSay1vQllSVktwb3otU1M3aG1NNnhZX0xRSWo2X2NwWXNDVlQ5WHRENzBFdk41d09GaWE0Smlpb2RfUFlBbnJsSnNaWXljb3hxbmRQUlN5eE5RUEFIWmpZOUFlZlBoUmdjQ3MtU3Jzem1ucTNyRmxaRXZXTmhQQnFwSWpuU1g0NWFIYlpiZWRsT3NWeFBjRlZJNy1BdlYxZFdJdjV0dXlqWkYtVWtic1JxbUZndVZvRmVWS1I3?oc=5",
-      "source": "Aberdeen & Grampian Chamber of Commerce",
-      "published": "2026-11-27T13:41:11Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
