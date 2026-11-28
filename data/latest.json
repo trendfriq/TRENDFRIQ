@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-28T13:52:06.001572Z",
+  "last_updated": "2026-11-28T14:35:31.227507Z",
   "articles": [
+    {
+      "id": "7479e0f80cfc2f0eb8fd8b",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T14:10:01Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
+    },
+    {
+      "id": "86dc88a31c8f86eeefb956",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "source": "TechCrunch",
+      "published": "2026-11-28T14:00:00Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/david-ha-Sakana-AI-.jpg?resize=1200,1200"
+    },
+    {
+      "id": "57681c892476b2bd5c99f5",
+      "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
+      "summary": "I have to face facts: I'm a digital hoarder. My son graduated high school this year, and to mark the occasion, I made him a scrapbook of his 12 years of school. He loved it, but one reaction surprised me: He said he'd never seen most of these photos. Unlike my childhood - documented in [&#8230;]",
+      "url": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
+      "source": "The Verge",
+      "published": "2026-11-28T14:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/LR6B6927_e6db04.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "53dfa59d77ebe0f6bbac2b",
+      "title": "Almost every great Black Friday deal is still happening this weekend",
+      "summary": "Black Friday has passed, but that doesn’t mean you missed out. Far from it. Almost all of the same deals from yesterday are still available, but some retailers plan to end theirs once the clock turns to early Sunday morning. True, expired deals you had your eye on are likely to return for Cyber Monday, [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "published": "2026-11-28T13:57:03Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_SATURDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "004223549335d90c9687f6",
       "title": "The Startup Ecosystem Leaders 100: India’s Most Influential Leaders Supporting Innovation & Entrepreneurship – 2026",
@@ -62,18 +110,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268335_TCL_X11L_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "7479e0f80cfc2f0eb8fd8b",
-      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-28T12:49:44Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
-    },
-    {
       "id": "4056230e974e92ea249b8e",
       "title": "Xiaomi Launches UMIADS: A New Global Advertising Brand",
       "summary": "",
@@ -82,6 +118,18 @@
       "published": "2026-11-28T12:28:43Z",
       "category": "Brands",
       "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "dbfd25c5794bf7832ae60b",
+      "title": "American Tower Corporation (AMT) Stock Price, News, Quote & History",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QdlBfMnVsM056U2tIWDlhSlFXMTdNVk9NSWl4TkkxdUpsMEl0RU9ORXBiTy1sTlJWdFMzNUx0QkEwWnRtT3ljOGNZUWJUeHBE?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-28T11:58:42Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -107,7 +155,7 @@
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/8d3ca800-eb36-11f1-9c9c-710a05f9c274.jpg"
     },
     {
       "id": "12ccd3f99b5cd0b9b9899e",
@@ -140,7 +188,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
       "source": "The Guardian",
       "published": "2026-11-28T10:52:00Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=007a6cbe7b5ee3ef949cc2a619564432"
@@ -176,7 +224,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
       "source": "The Guardian",
       "published": "2026-11-28T10:00:36Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ee497468bef612b3afb2e55f40051ca"
@@ -272,7 +320,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
       "source": "The Guardian",
       "published": "2026-11-28T08:00:34Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e666c023ca802b8b858e41f60b911c52"
@@ -452,7 +500,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
       "source": "The Guardian",
       "published": "2026-11-28T05:00:30Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54747db8a6ca91f6cb37f58a5d2b359a"
@@ -616,7 +664,7 @@
     {
       "id": "328423d917a01424e6835a",
       "title": "The absolute best Black Friday deals you can still get",
-      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber [&#8230;]",
+      "summary": "Editor’s note: It’s no longer Black Friday, but given how many great deals are still happening, the shopping holiday didn’t really go away overnight. Still, we’ve focused our attention to a new post, and this one will no longer be updated. Black Friday is nearly over, but many of this year’s best deals are still [&#8230;]",
       "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
       "source": "The Verge",
       "published": "2026-11-28T03:28:32Z",
@@ -902,13 +950,25 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9349173/BR-TRL-059_2040.0.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "ac49b1f34a532c6b891a35",
+      "title": "Another S&P upgrade nudges SA towards investment grade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQME9GekFuVDlWVHRvaXc5VnJFM0pIclYzbXd0VnhGUXdzbThVc1pGMHVpeDg4TkxoVUQ0eVB0blRiT0R4N3NqZUhHNWhrZjBQNDdzZjZGdDJDYlJSUm45QU5kNzRKakxXZ2Y2V2F5UTV5Nkwtb3BLMlkxeFZ3SEV2ck02czJqYnV6MnhwR3c3M0U1TmhCXzMtemlkamVsc1hfZUM4OE55Z0lhNnM?oc=5",
+      "source": "News24",
+      "published": "2026-11-27T23:29:42Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "2a895774aad5a36d0d6ba7",
       "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
       "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discouraging hardware suppliers from working on future OpenAI devices. The suit, filed in northern California federal court, comes after Apple sued OpenAI for",
       "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
       "source": "The Guardian",
       "published": "2026-11-27T23:28:50Z",
-      "category": "Brands",
+      "category": "Technology",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fc5f0fb7a76240240e87e00f0870fdc"
@@ -922,18 +982,6 @@
       "published": "2026-11-27T23:28:05Z",
       "category": "World",
       "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ac49b1f34a532c6b891a35",
-      "title": "Another S&P upgrade nudges SA towards investment grade",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQME9GekFuVDlWVHRvaXc5VnJFM0pIclYzbXd0VnhGUXdzbThVc1pGMHVpeDg4TkxoVUQ0eVB0blRiT0R4N3NqZUhHNWhrZjBQNDdzZjZGdDJDYlJSUm45QU5kNzRKakxXZ2Y2V2F5UTV5Nkwtb3BLMlkxeFZ3SEV2ck02czJqYnV6MnhwR3c3M0U1TmhCXzMtemlkamVsc1hfZUM4OE55Z0lhNnM?oc=5",
-      "source": "News24",
-      "published": "2026-11-27T23:19:36Z",
-      "category": "World",
-      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -1286,6 +1334,18 @@
       "image": ""
     },
     {
+      "id": "0e80dcdb7eec658662d8ae",
+      "title": "EAM Jaishankar calls for reinventing global cooperation in a fragmented world at Jeju Forum for Peace and Prosperity 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWZIa3NsYmdmcF85R2ktejV1ZEVIaUpVaWxvVVhTQ0FNZ244ZjZBeFFGcmMwaVZ2TWRoaVRObEQwV25LUnBWeWgweXVhQkZNdTNtSEY5c1BlV3ZmTjJHaThuYnN0RmFscFZYSWJRSU1QRUMxV1JiQ1JSMzNndmJJdHZRMVByeUZFWXJFRkY5aVd2UXR3akZsdTl0YUdmRXljaW1XSmU5NzR1OU5aMklHaDZvblVocnJXbU8zM0FMN05HLXhoN1BpMGd4OXpidHlaZDdscEV3OURHdlI4XzFuTQ?oc=5",
+      "source": "DD News",
+      "published": "2026-11-27T18:50:36Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "614c2ea9645d3d9ae1b0ed",
       "title": "Nirmala Sitharaman to hold high-level meetings with Singapore leadership, global investors",
       "summary": "",
@@ -1378,66 +1438,6 @@
       "published": "2026-11-27T17:57:51Z",
       "category": "Technology",
       "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5090bfb0f43fe274c5560c",
-      "title": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkNiUkFYUTZhRlJIVDRlLTNORHBSTDdraEtvWktFeC05elpYQTUyN1JWWDNjTG11SnpVTm9vTndSSlJjNU9ZU2xOZEJxUjEyZTlQOGI1QTZOMGVEeDViTzZFS21pZ3NxcUtRbnNKNzMxalEzWEszZ2N6VU9Mc0Z4OERFZkRCdmRad3VKZnUyd29nMWRjQl9RMzZOZzcwdExaN0Z0REszV25seEdyZldkMG5admVUVS1xdmJN?oc=5",
-      "source": "The Business Standard",
-      "published": "2026-11-27T17:51:47Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5a93bb401d741c61c9b41d",
-      "title": "Mosaic shuttering Florida mine in response to global sulfur disruptions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHJwc1ZBOVBjM19EVmR1TEcwbnlTN1JtajlOLTNvb0hGSHVoSGxHWFdjQVM4Tk03VmtrblpTWE9mYmUzN3FEQWkxZHZRNGw4eGpLMHd5UWt1UmxvSGw1MGxnNTgxUjRyWnZUWDZrZXBMSFVaYVVKbVNXM3VJQXhGckppby1hOGhrVmI1eFEtQmJpYWt0bWJsTXlLZHJ0aWdZeWltcW91T1R1QQ?oc=5",
-      "source": "Brownfield Ag News",
-      "published": "2026-11-27T17:48:31Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d27fc3573f17f488ad199a",
-      "title": "HSBC Makes Bullish 2027 Call as Tech Stocks Struggle",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSkdBZWRsV251ZUtYX0o1M1M0bVJPNEdEU2hpZmRKYnJJM0hEakZ4bGZtQWRIdnhIYlMyNGFzTU5EZUh4UjdyLThzaDBmVEU3UVBuZlV1VUZuTl9WUUE3WXd1WFRxTlJ3LVZ2SERqYmtKT0xSLUotbmFETXFuOTR3OE53cWJldk9tWEFGeERwWmxTaGxpSnZtX0JFMWpVaWo3MTNYeU9USjNmOEN4bjFUMmNR?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-27T17:37:44Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "53a840c169ed789de9ad75",
-      "title": "Here are the best Black Friday deals you can grab for $30 or less",
-      "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
-      "source": "The Verge",
-      "published": "2026-11-27T17:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "e2032c199750e0a4debdf1",
-      "title": "Egypt's Brotherhood calls Sudan's TMC to cede power",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3AyYlg1MmIwTmEtZXJhSGNfblRDRUoyN05xdkZBbGdtdmI3VWFNNnJvR3VoQW1kb21yYXpSMTVYZjk1a25LU1A4clpSekUzcHlDSjJSV1ZTYnBZa1l0YThWRGhBaXRGbTZUVGtMVVF6MWtyVGV4c0ZoN3ppQWQ4ZGtGdlBlZTUwSGN5RUFzOWFYQQ?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-11-27T17:29:05Z",
-      "category": "World",
-      "topic": "Middle East",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 21
+  "source_count": 22
 }
