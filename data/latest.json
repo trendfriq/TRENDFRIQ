@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-28T11:50:25.803278Z",
+  "last_updated": "2026-11-28T12:40:11.717911Z",
   "articles": [
+    {
+      "id": "7642d2da0cab337b31a980",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T12:36:59Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
+    },
+    {
+      "id": "4a5a0790d467e2db341d0f",
+      "title": "Argentina fails to block UK-led oil drilling off Falkland Islands",
+      "summary": "International tribunal rules there does not appear to be basis for believing Buenos Aires has jurisdiction on islands Argentina’s attempt to block oil drilling off the Falkland Islands has been rejected by an international tribunal. Buenos Aires had called for the international tribunal for the law of the sea (ITLOS) to order a halt to the Sea Lion project, ",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+      "source": "The Guardian",
+      "published": "2026-11-28T12:11:02Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/32371dbe4bb863597422e9658bc6f2ab94586f6c/301_0_2043_1635/master/2043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fc380308dd6d23f3228e31f41f793a4"
+    },
+    {
+      "id": "b260fb5f327c139c419537",
+      "title": "Shubhi S. Appointed Chief Marketing Officer at IndusInd Money",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDBmYUxQbXNGbUFMaUtyaTlsOWVWcFg4dm90UVlHMU9wUHJwcDF6c1J5T1VmVEthNmw0R3l1WVNtVERfSXQ4VERIcGJlU0Z2UEtVSTV2aXdjV0EzMVJGeEtGU3RPY3ZuNUVTYXVCQ3ZDNHVIbXpHRWt3SUVwMWhoZlhCVlR5RHM?oc=5",
+      "source": "hrtoday.in",
+      "published": "2026-11-28T11:51:55Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "3953d8b93f75f4995324d0",
       "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
@@ -59,7 +95,19 @@
       "category": "World",
       "topic": "BBC News",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "1d425358df637b17654371",
+      "title": "BlackRock | Assets Under Management, History, & Influence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZlFtQzNhR2xleWw2Q2wySEJDc3ZabzUwMDR6cVE3QUVfTmp3SHpZNHdMZlVKcU5CYTBJZG5VYUFTbUswSkNVZVd1ZjdURkFGVjlucV9hN0N6UQ?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-28T10:18:59Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0c1f8a31e59cc9f7f02450",
@@ -72,6 +120,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ee497468bef612b3afb2e55f40051ca"
+    },
+    {
+      "id": "bc2b3ede62824942b4ae87",
+      "title": "Iran's economy progressing, says Rouhani",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTldLUG9NOW9nQV93cXdEQzNyUWdLVmR5NkVtNVpIeGp3SGRDS2c2WXMzbE5qcVFUX2ZNNUJLQ0MyVVNOVTJCN29Hb0w1eTh5T0lCM2tCTHlQRnVkWWtucWxndDhuT2FjSlFBd1h3SnNfS2VZXzRUN2RfSmp2b0VMQ0o5dw?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T09:53:24Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "da5a3256536035ec321ab6",
@@ -398,6 +458,18 @@
       "image": ""
     },
     {
+      "id": "ae2a1b1ba3c1643bc636fb",
+      "title": "S&P lifts South Africa closer to investment-grade status",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWxZMWpJUDhSRXZQd3pUbVFibFA5THRfZnFWaGdZcnFIWnJxdzYwRUJkeFNsdml0VVFOTXlzWkR2cXpkTnZva3ltUGJaRVBzWl9RV0lfcVd5aU40MXB6Zkwtb2VUd2t3X3EyNlllQjN3alByOXQyR3k0bzRORmp3WGduaTdrTjMzeDF0OVdoZHVqbWJObEMyMkpqdzFqdFNo?oc=5",
+      "source": "Johannesburg Sunday World",
+      "published": "2026-11-28T03:53:04Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "c43a64846e4cfc54fa6b86",
       "title": "The theme of APEC 2027 is an answer to the issues of our time.",
       "summary": "",
@@ -442,6 +514,18 @@
       "published": "2026-11-28T03:23:57Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "b126d63639529f464f4647",
+      "title": "Macquarie-led group to buy EDOTCO's Asia-Pacific tower businesses for $1.2 billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzFXQUhIblVvSm9XNTExcXlkTktNaXhaTWhyLVkxT1h4OTk0S0x0MGNvaGJtSkNtZ1dWaXd3WURHVlduVjVNNnpDekRKbGdlbmVEbUZjZTBkejV4c08xbzE4Z19seFlHeENzeWZrM1hyZDk3QmNJZGpLa25qZXNDXzdHcWZHYWJHMlBhc29ORWRRb2NkNWF4Rm96bkp1RERyRjFJaW5Ib3BvM3JROGFKeVRhLWViQXdtUHhyV3Rhcng?oc=5",
+      "source": "The Daily Star",
+      "published": "2026-11-28T02:47:13Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
       "image": ""
     },
@@ -1354,90 +1438,6 @@
       "published": "2026-11-27T16:02:18Z",
       "category": "Technology",
       "topic": "Artificial intelligence",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "fa15e8cee2123b7df5ca8c",
-      "title": "Meta announces entrepreneurship-focused investment plans for Türkiye | Daily Sabah",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUNUS2QzX2Q2aFVGcjNvUmZlR0VBeEhSTERDOUNaTmZwWGwyd0QzZEFkdTNaRlNLS1BBelpjOU9wM1ZKRU56OEtud1NDUHFsYmFVTmRsOFhQTWJfNnNfRXM3TGhHcnptOENXam1pazVsd3JEWnp4T1BZV2h2cmVhcnEwTlhsM2JaY3ZZTVdvYWV4ZU9VMnBYT25WTjhsRElJeTUyWkJ5VlBtamR2SFQyX0ZpONIBswFBVV95cUxPWUNUS2QzX2Q2aFVGcjNvUmZlR0VBeEhSTERDOUNaTmZwWGwyd0QzZEFkdTNaRlNLS1BBelpjOU9wM1ZKRU56OEtud1NDUHFsYmFVTmRsOFhQTWJfNnNfRXM3TGhHcnptOENXam1pazVsd3JEWnp4T1BZV2h2cmVhcnEwTlhsM2JaY3ZZTVdvYWV4ZU9VMnBYT25WTjhsRElJeTUyWkJ5VlBtamR2SFQyX0ZpOA?oc=5",
-      "source": "Daily Sabah",
-      "published": "2026-11-27T15:54:22Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f53be474bc7fc47c59520f",
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
-      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T15:54:15Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
-      "id": "29435f88b9f9eeab65c90f",
-      "title": "Kenya News Agency - KNA. . President William Samoei Ruto – stabilising our economy has attracted foreign investment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWwtLW9qbkpER0VfQ0hPQTctMHhVWmFPN3hCSVdaODVTUUlhRUgwWXk5dzU3RGk1NGlCSlh1RUU1Ym1kMW1WM1VQOXZyVzNFRXpIUlJnSEw4NG16TUxoTmRlenlzV1J4YzRCemp0aDNxaFJIMlU5WC15TWJrOV9NWEZfb3BNS0tWTlFZb1BpX3EzQjhGUV9FWFE4bm0zazE4QnFSdHFya0M0MDdHNzNWc19lVkRZVFdwTUVtdEMyOUtQSzJTd1NVdEs3QmNuVmg2b2VYUEJyOEptZVZrQ0t0Vw?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-27T15:49:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3d539cb0a16a9afcf3f9fb",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "source": "NBC News",
-      "published": "2026-11-27T15:48:19Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "256081816a831a6d2a861c",
-      "title": "Trade and Financial Services Round-Up Issue No 45 of 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT1JLRmltWjZBeF9teWh5SG9DQWZZZlA1QlJaMXZmOTVKUDdzemo5Vnc2X3MyZDhLTFYtMnFXRVJ3aXQzc2dKQVF3Tk52d0RJTGo2bERXMy1Hc1JyZUdVYnNMb2NDT1FmaF9NWjk5a3RHT2pud1ZqOWIzYWxFSE4yREUzbDBHZw?oc=5",
-      "source": "Vellum Kenya",
-      "published": "2026-11-27T15:47:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2c35895d5ac13bfd29d625",
-      "title": "GSP Hires Aviation Consultant to Pursue International Cargo Business",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXzFpQTVSTW1lb2Itb2c0SEpDelJiRG0tU1VpVHVfbFdMZFlsMnNBSHRaaWUxVXBac0Z2dWtRb2Q1RHFMWVk0Q1Bkczl2MnIwWHRwdVF1NU04RGQwZzVXbi1sd3hsQWluNHJQdDBlWVA4OHR3aTJ0Y05nTUpvR3ZQQ2pFYWltSzBMZEp2SmZEYkI4YzQtYmhaQmlKdDZScXdQanRXR2pEWUNWSGhXSmRSZFhaMG9Lc2pMeUVj?oc=5",
-      "source": "Greenville Business Magazine",
-      "published": "2026-11-27T15:43:05Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "97533128f451d06e8be3d9",
-      "title": "GSP Hires Aviation Consultant to Pursue International Cargo Business",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnZsMTdGQ0FkdDRnaC1ZV3czUjRoX3oyZTZ6Z2RXWUY1R3hITVFuc0lUVkxlQ3czMWdBVkZuQjdFZFR6dXAwRFJZNDNGQXJjMU12ODdFQ0psbWt3NlVPcERHWFFsS2QxeVoxZU9Yd1F2UV9UREF6SXA5Rk9sY0xZLWc3MTdSRU9EeFZmc2lhMHotRW11bm5jT3lXTGRNQWZpVEotM0wxekFxQ2RLVUVhNjZXY2lPdGR6dlZVUA?oc=5",
-      "source": "Greenville Business Magazine",
-      "published": "2026-11-27T15:43:05Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     }

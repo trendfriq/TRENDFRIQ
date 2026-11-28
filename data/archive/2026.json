@@ -1,5 +1,41 @@
 [
   {
+    "id": "7642d2da0cab337b31a980",
+    "title": "Argentina's bid to stop Falklands oil drilling rejected",
+    "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+    "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-11-28T12:36:59Z",
+    "category": "World",
+    "topic": "BBC News",
+    "country": "",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
+  },
+  {
+    "id": "4a5a0790d467e2db341d0f",
+    "title": "Argentina fails to block UK-led oil drilling off Falkland Islands",
+    "summary": "International tribunal rules there does not appear to be basis for believing Buenos Aires has jurisdiction on islands Argentina’s attempt to block oil drilling off the Falkland Islands has been rejected by an international tribunal. Buenos Aires had called for the international tribunal for the law of the sea (ITLOS) to order a halt to the Sea Lion project, ",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+    "source": "The Guardian",
+    "published": "2026-11-28T12:11:02Z",
+    "category": "World",
+    "topic": "The Guardian",
+    "country": "",
+    "image": "https://i.guim.co.uk/img/media/32371dbe4bb863597422e9658bc6f2ab94586f6c/301_0_2043_1635/master/2043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fc380308dd6d23f3228e31f41f793a4"
+  },
+  {
+    "id": "b260fb5f327c139c419537",
+    "title": "Shubhi S. Appointed Chief Marketing Officer at IndusInd Money",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDBmYUxQbXNGbUFMaUtyaTlsOWVWcFg4dm90UVlHMU9wUHJwcDF6c1J5T1VmVEthNmw0R3l1WVNtVERfSXQ4VERIcGJlU0Z2UEtVSTV2aXdjV0EzMVJGeEtGU3RPY3ZuNUVTYXVCQ3ZDNHVIbXpHRWt3SUVwMWhoZlhCVlR5RHM?oc=5",
+    "source": "hrtoday.in",
+    "published": "2026-11-28T11:51:55Z",
+    "category": "Brands",
+    "topic": "Brands & business",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "3953d8b93f75f4995324d0",
     "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
     "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
@@ -70,6 +106,18 @@
     "topic": "The Guardian",
     "country": "",
     "image": "https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ee497468bef612b3afb2e55f40051ca"
+  },
+  {
+    "id": "bc2b3ede62824942b4ae87",
+    "title": "Iran's economy progressing, says Rouhani",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTldLUG9NOW9nQV93cXdEQzNyUWdLVmR5NkVtNVpIeGp3SGRDS2c2WXMzbE5qcVFUX2ZNNUJLQ0MyVVNOVTJCN29Hb0w1eTh5T0lCM2tCTHlQRnVkWWtucWxndDhuT2FjSlFBd1h3SnNfS2VZXzRUN2RfSmp2b0VMQ0o5dw?oc=5",
+    "source": "Yeni Safak English",
+    "published": "2026-11-28T09:53:24Z",
+    "category": "World",
+    "topic": "Middle East",
+    "country": "",
+    "image": ""
   },
   {
     "id": "da5a3256536035ec321ab6",
@@ -380,6 +428,18 @@
     "published": "2026-11-28T03:57:06Z",
     "category": "Technology",
     "topic": "Artificial intelligence",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "ae2a1b1ba3c1643bc636fb",
+    "title": "S&P lifts South Africa closer to investment-grade status",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWxZMWpJUDhSRXZQd3pUbVFibFA5THRfZnFWaGdZcnFIWnJxdzYwRUJkeFNsdml0VVFOTXlzWkR2cXpkTnZva3ltUGJaRVBzWl9RV0lfcVd5aU40MXB6Zkwtb2VUd2t3X3EyNlllQjN3alByOXQyR3k0bzRORmp3WGduaTdrTjMzeDF0OVdoZHVqbWJObEMyMkpqdzFqdFNo?oc=5",
+    "source": "Johannesburg Sunday World",
+    "published": "2026-11-28T03:53:04Z",
+    "category": "World",
+    "topic": "Africa",
     "country": "",
     "image": ""
   },
@@ -3984,6 +4044,18 @@
     "image": ""
   },
   {
+    "id": "b72a8dcb46e2b07f0839dd",
+    "title": "Gold price struggles to advance near $3,570 as Fed rate hike bets deter bulls",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObGQ4UXYxUzhtajkwSDJMeHlOQi1GRGZ0MHVfTWFnMnkxQVFJSFhhZnFScWVsWlFCU3dhUVVOOTBPNUVsbVI1dXVUUzJKa2Vyc0k3TUpBNlJhTE45OHAwR0NxdGhham9GeUp2TThPVTBIZW5VT3Vpa2pwOXhrOFk4cDNaQ3VfWFV3UkR3ZVlrTmp6clZ4MFBPdW9GamRUNF9HUEtSc2VyN25DRjNfaFZCSGVWbjNUejdMcHlZejBRZEthdHZoT3NsNk1GaDk?oc=5",
+    "source": "www.tmgm.com",
+    "published": "2026-11-26T18:22:05Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "f7038ed72b3ae57c360330",
     "title": "Taiwan's Kaimei Q3 Profit Surges 76.87%, EPS NT$2.39; AI Revenue Share Doubles to 8.9%",
     "summary": "",
@@ -4588,6 +4660,18 @@
     "title": "Dollar Rally Pauses as Investors Reassess US Rates, Growth and Global Risk",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaG5NMThtS1JtcWU3OFg1ejJvdDliT2xEWFVMRFdFYXl4SkRNQzlWajNuRlNxdDdUMktvc1drTWk1eGc2S3ByQ0RxcUZEYW1zUEw3b0lZYWRoSHN1cDJnMjZNb3FPSzRVdGxudTk2dDBJZW9JZ1dQVmwtcEtJdU03ZmZqdXQwNTkxR3dKa0YzLVIwTl9VOGRsZTd5TjBuUkhlMFNUYjV2YXJCUEotRkw5eg?oc=5",
+    "source": "kalkine.ca",
+    "published": "2026-11-26T14:56:00Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "90dfa77c7c5fa08a883a18",
+    "title": "New US Tariff Plans Put Global Trade and Inflation Risks Back in Focus",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0xJRk9HZGlfZjM2d2RqX0VKc2s5cnJ0WEE1Z0RNbXlpMEQ4cEFIeWhpYXdCSzE2UlBuOElGdWIxejRGb052V1RVOWx6THZoMlF6UThPUVUyVVRxTW5Cd0NiSjJLOU41YXJlenRwSEYxNU1keEh6V0lQQzNNSW56NklmTWZuYWNnYUpPZWhjR1ZsS3RLTklibGZ6M1JlRWg2dm84aFJvdmlXYUNh?oc=5",
     "source": "kalkine.ca",
     "published": "2026-11-26T14:56:00Z",
     "category": "Economy",
