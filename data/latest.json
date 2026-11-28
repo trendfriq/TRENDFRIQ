@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T08:53:54.544233Z",
+  "last_updated": "2026-11-28T09:54:32.261210Z",
   "articles": [
     {
       "id": "6811ba22810e73a48586a3",
@@ -7,7 +7,7 @@
       "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
       "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "published": "2026-11-28T08:41:54Z",
+      "published": "2026-11-28T09:10:32Z",
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
@@ -168,6 +168,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54747db8a6ca91f6cb37f58a5d2b359a"
+    },
+    {
+      "id": "18efd8547a8dca89dee2de",
+      "title": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+      "summary": "Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information Leading experts and the governor of the Bank of England have suggested that top AI companies might have something under their hat – a “bombshell” revelation about encryption. Depending on what it is, it could have major consequences for the w",
+      "url": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
+      "source": "The Guardian",
+      "published": "2026-11-28T05:00:30Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/7b3c245cf23380f751f0177a251f8961f4cecd5a/0_0_2502_2003/master/2502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afa5dbcb980305efc42bbaaf06c95819"
     },
     {
       "id": "66bdd498545627daa6f644",
@@ -518,6 +530,18 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9349173/BR-TRL-059_2040.0.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "2a895774aad5a36d0d6ba7",
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+      "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discouraging hardware suppliers from working on future OpenAI devices. The suit, filed in northern California federal court, comes after Apple sued OpenAI for",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+      "source": "The Guardian",
+      "published": "2026-11-27T23:28:50Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fc5f0fb7a76240240e87e00f0870fdc"
+    },
+    {
       "id": "89451950cc7a2ed50dc663",
       "title": "APEC meetings inject fresh momentum into regional business cooperation: business figures",
       "summary": "",
@@ -816,6 +840,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "8e89210f7e322a3812bf00",
+      "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+      "summary": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficulties Tell us: have you been affected by the DWP ‘cyber incident’ Benefits and pensions claimants have faced chaos after the system was hit by a “serious cyber incident”, fuelling concerns about the UK government’s ability to defend it",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+      "source": "The Guardian",
+      "published": "2026-11-27T19:45:51Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=175ae4be6947e6754fc8c95228c2bea9"
     },
     {
       "id": "22a7651786873323165056",
@@ -1402,42 +1438,6 @@
       "published": "2026-11-27T14:25:45Z",
       "category": "Finance",
       "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c6ef2e4f8b2d176ecd21d1",
-      "title": "5 Strong Buy Stocks to Buy and Hold For the Next 5 Years",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTdxeTk3RGNxTThnTjlkX01sNHlvOExLRWxVNmJrcmtLQm1vcWN6VzFzZTVkd3F5bFBLYWFmV1FfUGV3d2J0U21iQS1SMzJReGhrQzgxdFE1OE8wOGY5OWc0N21aWHN5ZEZLS0UwYW4yWUpEWDNkWW4wREZBb01mZkY3REgtMDlmc19nVF9wVmdrZw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-27T14:23:57Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9bfad7f9b418766a7d8275",
-      "title": "Rocket Companies Is Winning in a Brutal Mortgage Market—Can It Keep It Up?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRG9nT1hqaXZYZkJXWXBqd0ZWQTR4UHZMb1cyWWNyXzVqSmViV01GaUJmaHlucWVJSDNLc3RtSmVyQ2JDcU5BWlNRellva0V0X2R3MTBKNzVyY3BTT0QzX1hwUnZWdDhrQV8yLXZrSzhXU3RFS1VZZmZDLXJCY3pGWXZyOElDdnFrd2lRUmlxSmhpY0sxbnlZRXYyalBRbmhyOEZLUjlhUkN1N0hVTFhrTG15MnAyVFVuYXlXNEhyMHp0Mk9vclRhay1JTk04RFE?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-27T14:20:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "048632a3702f8d7fa646a5",
-      "title": "Earnings Calendar and Analysis for This Week",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERWb3J6WkNFaktWLUdJSFc5NldRblBMcGd5ZDlUaGVHeHhpcXd6WndUR05lcW9sOWQ2RDY5TVUtVFNQSkFQRUs0QnhwWG5PemJVMU9aVVlVczFXdm9WY2o5aElhYUgtdFdSWnJxb0lZRUdHWW9CUF9MSnBzS3VlMTd5dUFULVdBQnBzZGRJSm9WY0ZwX2Mxc3RjcXFNQXNjVzN3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-27T14:18:03Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 10
 }
