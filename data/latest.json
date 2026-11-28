@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-28T06:47:05.263604Z",
+  "last_updated": "2026-11-28T07:59:58.500532Z",
   "articles": [
+    {
+      "id": "6811ba22810e73a48586a3",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-28T07:55:18Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
+    },
+    {
+      "id": "86796f234e992695ee1faf",
+      "title": "Thai Listed Firms’ Nine-Month Profit Tops 1.18 Trillion Baht as Top Corporates Scale CSR",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVlUxcXN3STFnTDk0SjdhMUdEeU1HSlg5cXhPZjRXVVJZUV9KbGlPelFKcWtPMHpVclA0SkxWS1djOUdiZVFfRUVnWnZsY0d3THVQcDRLZDNMZk1vMUhDRlA0bzFHbVpsT2c?oc=5",
+      "source": "Nation Thailand",
+      "published": "2026-11-28T07:43:45Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "00ad9b6999e71f57d3c5ab",
+      "title": "‘The key is pricing realistically’: how to sell your home in a falling market",
+      "summary": "From small fixes such as decluttering to taking your property off the market for a break, there are ways to seal the deal Selling your home is always a big task, but when the headlines are telling you prices are falling, it can feel even more daunting. Average house prices in the UK fell by 1.2% over the year to 31&nbsp;October, according to Lloyds bank – th",
+      "url": "https://www.theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices",
+      "source": "The Guardian",
+      "published": "2026-11-28T07:00:32Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/7205cccd70043b0f56f77bff4e6ad36dbcc465c0/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e69fa27326fb2a723621c081f49db2a5"
+    },
+    {
+      "id": "9a7ef44e462624c4a4ae15",
+      "title": "19th Annual Palestine Convention held in Illinois",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWJNQmRFYW41TXBXcXFLakk1Szd1UC00U3FyRTlvTkdaWTl4a2szMzBGYy1sZGpnTnFDNVE5M2RBY3FVbkw5NEE3aXk3Ym9rb2xFc1hIcHNoUl9rLXBGNDB2TFlNTkVfUXM1VlNyam9aN1lDU2g5U2lpTk0zLTNWYl9OejRzYzB1czQ3dlY1SGFOQQ?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T06:42:11Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "5b29ae0e09d9d173ab75e9",
+      "title": "AmCham representative: Vietnam is well-positioned to promote consensus within APEC.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWHNteXlVbUxEaG5jQmFlZ2dKblpTWnJvcC1tUkp5eTEwNWhDdDVUUTZhbXQwbGFGaEQ4MlVjV3BGNmVyTDVHbDRSNF9PV3pwZVlSaVlxQkYwTkVnYXlSN2xxd2FJSHJLaU9Scmo0V2liQUpOTDZrbDZDLXAyV3RZZ1o3QjE4TGk5cGJNTEpXZUMwTU01ZkFYQnZJQ2taNXY4VlN5UmpLMA?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-28T06:36:24Z",
+      "category": "World",
+      "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "680e989843b5d602dbf291",
       "title": "Displaced Palestinians play football tournament amid rubble",
@@ -72,6 +132,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54747db8a6ca91f6cb37f58a5d2b359a"
+    },
+    {
+      "id": "66bdd498545627daa6f644",
+      "title": "Global News Podcast | US asks Mexicans to contact cartel tip line",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96elplWlZoRDBWTGRvQTItdE9HOXo1a1AxZVY0WkZxSkVJQVlhOTRkU0ZOdmpRQy1Rck5HMmtkY1RJQTJLdHc5MmhvZnhabFNH?oc=5",
+      "source": "BBC",
+      "published": "2026-11-28T04:24:14Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0b2a52c951b978bc840b62",
@@ -398,6 +470,18 @@
       "image": ""
     },
     {
+      "id": "ac49b1f34a532c6b891a35",
+      "title": "Another S&P upgrade nudges SA towards investment grade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQME9GekFuVDlWVHRvaXc5VnJFM0pIclYzbXd0VnhGUXdzbThVc1pGMHVpeDg4TkxoVUQ0eVB0blRiT0R4N3NqZUhHNWhrZjBQNDdzZjZGdDJDYlJSUm45QU5kNzRKakxXZ2Y2V2F5UTV5Nkwtb3BLMlkxeFZ3SEV2ck02czJqYnV6MnhwR3c3M0U1TmhCXzMtemlkamVsc1hfZUM4OE55Z0lhNnM?oc=5",
+      "source": "News24",
+      "published": "2026-11-27T23:19:36Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "953e54fde0c82403ceebd9",
       "title": "Cboe Global Markets (CBOE) Stock May Be Fully Priced After KPI Options Launch",
       "summary": "",
@@ -506,6 +590,18 @@
       "image": ""
     },
     {
+      "id": "abb9c480143fe945e050bb",
+      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjZWS0RsVkdYQ2VFdGNwWWlDYktzZENUREVWaWc0TEx2TzFBRUw0aHBSaUVtYzlFR3pGSkN2RXFKcWZOR3c5Wnp4blNSN3B1OUR0TWU2dzJiNEJqazVrX1BCU0prZE1ULUVVMnFxMk1idk5CclFhV3dmcEhXLTYwSllOeFlSTlN3VzBydVBHampseWh0UmpNVElGZWptcFR6QkdxVmk1ODh6eERqcm9zNDV1UDJaM1JiLVBv0gHAAUFVX3lxTE5oSGExNEYwT3BoZGZOZVpjc1YtczVYNUxmOHRSM2JRTnEwQ1JqNFBUYkZwOER2cHNaZEZld0N0a0JXUXExdm1sWWxET2FXR3hkeV9HQUoxQ0hCZE9NckxhR3JzUWg1QXQ4X19TX1hzOWl3QkY2VF9jVS1xcjhHRThRaDljVWtCb2YzZmpTREE0U2dlLVQ4bHhyTFBkOHpnbUxYY0pJMWxrNnV0U0hqWnkwcVpjZDJQTmdUQ1ZSTWR2eg?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T21:25:26Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "17509216a0f52cbf2a100b",
       "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
       "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabet",
@@ -574,6 +670,18 @@
       "published": "2026-11-27T20:41:39Z",
       "category": "World",
       "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c02ebb432af82fdccbc560",
+      "title": "Been a long time: Expeditors meets analysts, discloses revenue shares",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3phODM3Z1hmREd4T0ExQm5NZl9vbld1MHBpZFc3ajA2LUYwTmdUTmRBbThKeVFxSVhNRVF1VUd3SV9YejNHanl6OWVmOFZTSXBfRXYzVXpVOXJtWHlCVWNnWUJNZk95aFVXOURVYzh4VlFEWFRoYVNib19GZVMyMzQ4b1lYLWUtWFFuYldzcThXTy1kenQwdnh4UlNOTHJUQ3RF?oc=5",
+      "source": "FreightWaves",
+      "published": "2026-11-27T20:38:15Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -1330,114 +1438,6 @@
       "published": "2026-11-27T13:41:11Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1020c3cde9048cf7fd6162",
-      "title": "5 Best Dividend Stocks Of 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uT01UX0JOXzF1dld3Um5YbGZDVDNXT09IM0hmcWJFZzJTRFgwTy1tU01kckRXWm9rNENOT284VWcwWGhVRXdxZG5mS01MVlo4QlVodGhLeFViT3k2N3EySTV2dWJGdHNLcFJPOE5wbw?oc=5",
-      "source": "Forbes",
-      "published": "2026-11-27T13:40:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e056cc8e97bf4372ee4c95",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T13:38:07Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "5f771510f1c421a9033438",
-      "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
-      "summary": "If you&#8217;ve been curious about smart rings but have been put off by their high price tags, Black Friday is a good time to consider giving one a try. That’s because the Oura Ring 5, which we consider the best smart ring you can buy, has dropped to an all-time low of $299 ($100 off) [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-27T13:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "083bb22a383971dee9d05a",
-      "title": "Women in Finance: Accelerators of Invention",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVhiOG01c1lsTDRiWDF5UE9vTmIyMGJobmdaRU1sNGY1TXBXNXEyYnBDaVZ0YTFtVVFlRU96d1BTWDBXVkJ4RXpNOXc2SG1XNDE2RmFYdXA0Q2hTRjBqNE8tUGdTTlUyd0o3cW9SQlIwb1JCU01PRTl1MHpremlOUnczZHJxMFF6?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-27T13:29:41Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9d38abe9cc1d6213901f1e",
-      "title": "Indonesia steps up partnership diversification for economic resilience",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXp1elo2RUZKeENicEt0b2tOTDhhalduMTBXRGdhUzNYRGEwR1RfbHlxM19DQW9YODRtU3QwOUgtR0twV0U4M01vVjdJUkduY3BOWEZwUVdTaGk4WnBVZktaSUZoLTh0VGFfVXB3OGxFSEZtY0NKXzRLeUFlRjRvX25KQnFlRVVyQWVSTjV6RUY0amwydmhVNm9obFp4UWtjaGpndnZOVk1XWGg30gGyAUFVX3lxTE91bGNHVXRhU3NqQ2NSYmZHZmRWMkhSSnVaTWszMUcwMThMZkRhMXJxSnhMWHRkYVJJLW9tMWpYX1A0Y1BtWGxGSks2Qm1JMnVuUl9Ka29ZU3JjV0NtVWh3d25rREtnNFQ5T3NKQVEyekJXb0ctWVBxZUY0NmJHQWNQUm1RQ3hKU0IybFY4cC1ZN24xaUROQUpPNnJrdHdaUl9STW15MzJPSTYzZU9LQmJMUnc?oc=5",
-      "source": "ANTARA News",
-      "published": "2026-11-27T13:20:25Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "11d36fb09338e1060bad37",
-      "title": "Norse Atlantic’s Norwegian Unit Files for Bankruptcy Amid Rising Costs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVlV0akZEVDNvelNKOElfZTV5aW1lZldlSC1lQU1IUUh5LVFJWjlnOUwtS3g4cmx2Y0lMMXA4X2VDZkRmYV9XY25lVlQyZ2JwRGVLY01fdFZnXzJEejEwX0xvRXhzdHpOTW5pR0tnRmxIZ0Y4YXZLOE02bWxXaUVZbXBndm1YWDNFek5JbWQ3SC16cnJvUmZycjBnOXE4aU0?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T13:19:50Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f7013d072299eeb56cb356",
-      "title": "UniCredit considers bigger Generali stake among expanded partners",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3B1blRRSFIxS2VCeXVWVERReE9oVkFDRlRmUkZwVFplZU1pVlZFWkQ3Z281c1RHLXNDUDRvdW1STXpIV3p6ZkdQTk1QZThHaUFIdjBfZVd3Q1lLT2VWV2J6QzZOZWphRURzSDB4ODZYZXlIQ1JBa1VYRGJYZElYWXZpVHhzZ1Z2Q3hZNVNpbDFYSjJsMmFGM1pOcGdpQQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T13:15:19Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "d478b6c3023652cad2d16a",
-      "title": "Latin American banana sector calls for more sustainable prices in the supply chain in 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmdlaUt1aXozMmhrQkV3dzJzeExiOHdBOW5qU1NYQjNHLTRDSXhyekdJYWdtb3NDVlFRb3lEZmRRaTVFMTE5WjREOVVySmlxaUlEMmN2Q1NwVTRwZ3ROWU85VnN2bTQwbkZhb0ZQY2FrN1M3Q2ZtYnoybE82eTVsSmZqSUYzUFF6czloTnZta2ZFUnVNSXZHeVhKWlJiakg0UXNuTkx2UTdfZC1fR1VnUnNLcTRadlFKbTNzYU1YNXRiWWd3eGI0VklZWmNJbEczdjU3ZG5mb2t5NzgyN1dITVlB?oc=5",
-      "source": "FreshPlaza",
-      "published": "2026-11-27T13:12:21Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "998ec1cc1317abb02629bb",
-      "title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnVsSnZja1ZGX2VrVW45QkNUN3pfeGlCV182ZHJZMVdYc296Vld2cVN0U1V6ZDR0YWtBN0ZEZ0dYeEVDZEVZZUo1WHZjWjk4aUhZNEl4ZDIzV0RjQmVDb3NQYXdMdVVra2gxQzMydEMwcDgyR3NOenJERHEweEF3S05xYnJTdHFWWnBJYV85bkFhSGxWSGs2bENkZEdscFNWRTBDM3ZYWVNHc1A5c2ppclZwdS1zdHNOV3RXdks1aXZobGkxMGY5OHJlNkQ1LXNfYnUyRGJjTi1qVVpxSTNoWmI5NXZWLWtG?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-11-27T13:10:28Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
