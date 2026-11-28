@@ -1,10 +1,106 @@
 {
-  "last_updated": "2026-11-28T00:08:09.987416Z",
+  "last_updated": "2026-11-28T01:42:13.408783Z",
   "articles": [
+    {
+      "id": "bb0be17c4eefba01243166",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-28T01:30:50Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "id": "117a0da82d3c22700b748a",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "source": "The Verge",
+      "published": "2026-11-28T01:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "d58dec9be4ef0625224b82",
+      "title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdUpadGw0UXdtbVVzOHplS1hRRHN2OGF6TmFYdWg2eWJ2WTFfQ05UdWptc1Y4dC1yRVJuQnp0SmZRMEFPLUFLYV92UEtvVzkyWHBEWXVWYTh0ZkpMSXRVSTdIWHZ3LXZxeWp2cks2b3FnRUhhVWh1N1dQVFpiZXpHd0l2Z0xSU1Z4OHdPM1R1WnhOZmdsRHVUVGdjRTBieHMzOVRPbFctSXV3dTgxNWxadnFwdm01ZVA0cHMtV2dIc1I4OGhJdm93WUxFQ3BtNXFCNkJ3WlVFNTZOR0dyQTR6dUhYQ0lfRlcxZTFv?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-28T01:16:33Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "6ccc7c31dee7390a75c181",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T00:56:55Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
+    },
+    {
+      "id": "328423d917a01424e6835a",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "summary": "This year's Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we've seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can't guarantee a deal you've had [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "published": "2026-11-28T00:44:11Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "fa95235543e5d491eebc08",
+      "title": "Iran's Zarif rejects Netanyahu's nuclear claim, says he 'cries wolf'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTGFBUWRjNl9rclRtSFFJNktxV3BqYXFCUHlwZEZUdXJjUl9uSE9icHhSWmpjd1JQRXZvX1hmYTM4WFhoTGRiNG1vcHBobUdlS0FmclA5V05NcmhMSU9sa3U2REhGbFRTZ2NQeWk5a1dROW03OWlXUi1ubWVfSEk2NTZrRkszVEw4a3hKZzJZZkF0T0ZGRGpRS1l6OW1xalE5Z2t1Sw?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T00:33:14Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "2d2948e2a0107b3157beca",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-28T00:30:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "0099978229ddc3298e0fa6",
+      "title": "OpenAI Countersues Apple Over Trade Secrets and Employee Poaching",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUVCalM0SGIwa1V6M3NhaUJFR0NySGRvOHFTQXRSajkydHlYTzVnTVBuc0k4UUlkcE5lR1hsWXh2Q2ZWMzVsTkswc3c4V3kydTBxYldLbW9RMXhVZXktMHZ4SzRUMXRobUZGNE9xMnlRaFgxVzY3V3pXU1RORGZGSXJJOVlrdFZuT3Zmc1pMT2w3QW9oUnlJaXpMWElacVNE?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-28T00:06:28Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "ac0ee698ab46bb9b755d34",
       "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
-      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called the BYD Whale, [&#8230;]",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called [&#8230;]",
       "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
       "source": "The Verge",
       "published": "2026-11-28T00:02:49Z",
@@ -27,7 +123,7 @@
     },
     {
       "id": "4ea89c18d9270ce4298748",
-      "title": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
       "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a [&#8230;]",
       "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
       "source": "The Verge",
@@ -36,6 +132,18 @@
       "topic": "The Verge",
       "country": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ccc80fc1544719e34383fe",
+      "title": "UAE Cabinet approves Agentic AI strategy, sets March 2027 launch for government AI concierge Mira",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTTk2LXp0WElqWkZJLWVZRkRWMjhHeVNPLXZsUTVzamZxcUR5UjViOERJT3VoanJxRGZ3WXYwQzFRSEk1U2ZBdTZRWU9QRGtmUTJMRDRJRHotZ2Q5c3VwLWN4SEF4NS11ZlNsOHVvbHZqOGhSQ0h0cGNZNktBTHVHT0NVT1NidzBIemJEclhkc18tb0FzZDhsWFFadmZxZHhRM2RLaXFNNlJGaE9uenJQQ2NhdjYxSVVZamFmOV95UFZrLTAtNGJPbC1CUEhzZk0?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-27T23:30:53Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "cca3aa456dd100c7c22e21",
@@ -62,16 +170,28 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9349173/BR-TRL-059_2040.0.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "328423d917a01424e6835a",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "source": "The Verge",
-      "published": "2026-11-27T22:43:57Z",
-      "category": "Technology",
-      "topic": "The Verge",
+      "id": "89451950cc7a2ed50dc663",
+      "title": "APEC meetings inject fresh momentum into regional business cooperation: business figures",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3N2LXBPanJUal9lTXk0UFVvLXBObE9VT25LbjY5dVVyaVFOcFhKOGhSdmRxSmJWN2J0UmJOWWZkbV9scjlMT3l1U1FwTnJaWmNyT0xWOTZhUjJrdmJETl9yV25mWkdaTlFLLW9XTGxDVElEN1lsNFluOTgyVUtySEhua09tQkRCeWh2b25IUjQ2MTlIbnMzdVBrbTVpdXJ1c2lLSEVnc1lIbjlvRGlkbkdkbnBuR0pHdWlZNEV3VlJ4ZnZDTUJrTDQ5LVZoQTJ2UEQyNml3?oc=5",
+      "source": "巴士的報",
+      "published": "2026-11-27T23:28:05Z",
+      "category": "World",
+      "topic": "Asia Pacific",
       "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "image": ""
+    },
+    {
+      "id": "953e54fde0c82403ceebd9",
+      "title": "Cboe Global Markets (CBOE) Stock May Be Fully Priced After KPI Options Launch",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNck1HanZVV2h2VVBZcDRHd1pjRnFZUjJIUHdDaGwwUmVBdUNqbVF1Um9lOG1FQkxPak9XTm1TX0hvcVVqcWJxMUtzMHRPaDVzNWlzYWNmbktyUHNranJUcGZaOG1jdlRrMHBYWWRUc0xfY1lid0hrMng3MmM0UVJfV09BLVBrRzVDZFp6cDdkQ0FvYjEzRUdkRXBNR0Q?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-27T23:10:23Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "796158dfffdeebe3449b05",
@@ -86,6 +206,30 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0010.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "74017b85b53a27dfd4efce",
+      "title": "South Africa Edges Closer to Investment Grade After S&P Upgrade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHQySzluWGJPY0VjSlRBcFhqVDV0RFY2LWRYRzJYeUFscHBQdjFwdDFDYUV2TF9tZlFzMkxJTjl5cHpIMnFJNXFWQkVoNTJ4VWQ4RzRINUlpNFVWNUx1RDNtU3VRSzJ2QjZha2tjeUNoSXJkeWVVWlY2QUgtSl9WZ2JaY0VVU2F3SFpmRmhRQTNUVHI4czhzTHJob2pBVDQxMEdmRFpWUEx4WUlRWTF0cjFFMVI?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-27T22:16:38Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "78dcfe3176d13bab83758f",
+      "title": "How to Live Calmly, Despite Stock Market Whiplash",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRE03NElfUWJSZjhYYURjSlk5c1NueTQyMndIaFptWVRXQ1ZrR2xOOTNub1hRX0pGWm91WXE2ZjcxelR5M3RqdXl5SmhXMnJyMHpFNktDQkV0WWlYLTZ0R04zSHJZdEUxdkRFZ215VFZCNzRoZU5qWVdpdGEzWmFMbHJONnJ1SkVNTkE?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-27T22:16:28Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "3503715821f146d723fb91",
       "title": "China Challenges Mexico’s Tariffs as Trade Talks Continue",
       "summary": "",
@@ -96,18 +240,6 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "6ccc7c31dee7390a75c181",
-      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T22:03:46Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
     },
     {
       "id": "65e067513a05324abc8865",
@@ -156,6 +288,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b8456a333d471f6fd8fdee4d2da7278"
+    },
+    {
+      "id": "afe11f52757733059dfe3d",
+      "title": "Economist Urges Capital Mobilisation, Investment To Unlock 2027 Growth",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVU8yZUFtXzIycmItTFZkekxWYmdNT1ZiMUhXQzk3Mm5vVFV0c0xQUGx3Smp6TWJXNXJUNF9HZVpQV1N0TUN0S1ZKdDBKVlVOQl9sUVJmaFRzTFVhTWdqYldUdlN2LXBXQU9DYnRlaTRMODA0ZzI0ZUhvX0E5eDYtMDNiNDlZcFRWQmZjd1FEcVdkQ1NfbnJ1WFRsTUk?oc=5",
+      "source": "MarketForces Africa",
+      "published": "2026-11-27T21:00:39Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "97d55a7053c30de76535b3",
@@ -266,18 +410,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "0099978229ddc3298e0fa6",
-      "title": "OpenAI Countersues Apple Over Trade Secrets in AI Rivalry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUVCalM0SGIwa1V6M3NhaUJFR0NySGRvOHFTQXRSajkydHlYTzVnTVBuc0k4UUlkcE5lR1hsWXh2Q2ZWMzVsTkswc3c4V3kydTBxYldLbW9RMXhVZXktMHZ4SzRUMXRobUZGNE9xMnlRaFgxVzY3V3pXU1RORGZGSXJJOVlrdFZuT3Zmc1pMT2w3QW9oUnlJaXpMWElacVNE?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T19:10:47Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "b3be99709395388969d766",
       "title": "Ranking - Top Export Merchandise Categories & D2C Brand Sectors",
       "summary": "",
@@ -286,18 +418,6 @@
       "published": "2026-11-27T18:58:39Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "78dcfe3176d13bab83758f",
-      "title": "How to Live Calmly, Despite Stock Market Whiplash",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRE03NElfUWJSZjhYYURjSlk5c1NueTQyMndIaFptWVRXQ1ZrR2xOOTNub1hRX0pGWm91WXE2ZjcxelR5M3RqdXl5SmhXMnJyMHpFNktDQkV0WWlYLTZ0R04zSHJZdEUxdkRFZ215VFZCNzRoZU5qWVdpdGEzWmFMbHJONnJ1SkVNTkE?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-27T18:58:04Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -456,6 +576,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
+    },
+    {
+      "id": "59cfc73998e26e3fd67a71",
+      "title": "SpaceX boosted revenue but isn't profitable, first-ever earnings report shows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGl3bVhNVVpvSnhTTzFheWFsSkJqWkJsVEgtMUlBZjBJWkk2X19OS2JEY0tKdDFfMjRpUS14cDhCTG5nQVlIc09UMXlneXNka2tKcGUxbmxBdU90b3Nsc2ZmdExmbjN1aTFnYkVDMy1lOTFmWk9iQ1VnaGZCYXp0ajNPX0FjWGhoWkhhVmNGcTY0NmtUXzZEVzVyTkQ3UzjSAaQBQVVfeXFMTUI4dXF2UzNpRThfT00wMW04Vm5IZFlLeUlMdlU2WUtnWWllSG5neTM3SnhTRVFLSGttOW9pQ1NmSm1VRVpXNzlFLW5XSE9ySEl3alBUZGxQTzNPUldHY0hNczJ4Z2JfbnAwVV9EdzVnYlNBLVhQNHU3ako2WmowWTZDUUQ4VFM4OUh3V2lqdlRUcHRlX0h5bThPUGhzdlA5d0NGMmY?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-11-27T16:47:05Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
     },
     {
       "id": "0ca342094027a1ded25d5e",
@@ -746,6 +878,18 @@
       "image": ""
     },
     {
+      "id": "c6ef2e4f8b2d176ecd21d1",
+      "title": "5 Strong Buy Stocks to Buy and Hold For the Next 5 Years",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTdxeTk3RGNxTThnTjlkX01sNHlvOExLRWxVNmJrcmtLQm1vcWN6VzFzZTVkd3F5bFBLYWFmV1FfUGV3d2J0U21iQS1SMzJReGhrQzgxdFE1OE8wOGY5OWc0N21aWHN5ZEZLS0UwYW4yWUpEWDNkWW4wREZBb01mZkY3REgtMDlmc19nVF9wVmdrZw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-27T14:23:57Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "53451fb33db8b9ff54771e",
       "title": "Beyond the upgrade cycle: why wearable technology needs to embrace longevity",
       "summary": "",
@@ -969,7 +1113,7 @@
       "source": "Business Insider Africa",
       "published": "2026-11-27T13:09:01Z",
       "category": "World",
-      "topic": "Middle East",
+      "topic": "Africa",
       "country": "",
       "image": ""
     },
@@ -994,6 +1138,18 @@
       "published": "2026-11-27T13:01:40Z",
       "category": "World",
       "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4a2526d2da88261b27709d",
+      "title": "Uzbekistan’s emerging startup ecosystem: a rising global innovation platform",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56TG9jeVI1WGx1SmN1ZVEyVGktamRPVzNpa2JOUktKUDFYaHJnUGxCc1ZzQ0NSZDdjQlBOZUhqR3VoM0wyR0V0MlVENmdZM19UYk5nQm1za1RSQURSUE1Lb3BnZjZmWGhwMWhr?oc=5",
+      "source": "Daily News Hungary",
+      "published": "2026-11-27T13:01:21Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -1083,7 +1239,7 @@
     },
     {
       "id": "47bf004cb668de4cf65751",
-      "title": "EU economic sentiment fell to 96 in November",
+      "title": "EU economic sentiment fell to 96 as firms reduced hiring plans",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42cDZoOUEzc05ESVpUbTVPb1o2aUhWU05NNFJZOVNGbHdMbklSMnJSZUg4bDZsNUFHYjZ1WVFJdlJ2SGxkTW1IRVE0dmxjcFFYVDIxeHBNSEVrVDNNLTYzQmZ6VTRMcWhqbnc?oc=5",
       "source": "CEO Magazyn",
@@ -1250,6 +1406,18 @@
       "image": ""
     },
     {
+      "id": "2b74fc718f2e399f0218ad",
+      "title": "Unicorn Open-Sources Top-Tier Video Model Again, Valuation Surpasses $1 Billion USD",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tMU9pQ0M5Q0Vfdi04RUJXaTRpNTF6eGQwNEpESFBCZm03MXE5ME5Iczd1TFRpSENVNWVNQ1dGbXZ6S1FhVEpCel9Wb21uNGNrY1JJ?oc=5",
+      "source": "36Kr",
+      "published": "2026-11-27T11:01:23Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "b4defc476d6946ee8ecd2e",
       "title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
       "summary": "",
@@ -1270,174 +1438,6 @@
       "published": "2026-11-27T10:53:00Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "da30667014454069a0f585",
-      "title": "ESCP Business School: Building future-ready graduates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFp2VEUxTzNpZlVQejRHd0ZqaWRLLXFnanBJeldGdTVJUnFfNURjNTFzaVJiQmRxd1pWbWJUa0ZrZlY0Z01wQlhqZDg1NV9sbGZwOTFCSmJNWVpVRzNWRVhOVkJocmJKSHlHZFp0RzhwTlNyTU9KSGxuc2pHRi1kWVZkcm81TkpvaWlBNHRxWkd4R2M?oc=5",
-      "source": "Study International",
-      "published": "2026-11-27T10:50:10Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "69d9ce5d4b062af5f583ed",
-      "title": "Volkswagen Drags Mercedes, BMW Into $1.2B India Tax Dispute",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRV9IcTVvX0lKMTh2RHRDcVR0MGhIWk9HTkg0YTBhc0toakhpWUVaMlVCQmNjZlBvVEtScnhJN2p1NUZWekt6RTRVYjRjNUxmcG5vUGpwQnJxaWk1U0N5MDFmWDAtY1NmVnI0SmRKRnlNZXU4QVZXSWEtdWQ1RFpnVkR0dGZ5NkJHZFE1UDdjWVpuRndXYmdULVBPd1hsaFhn?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T10:49:50Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "e3602f75c4700d36333991",
-      "title": "EU plan to reduce internal business barriers is a ‘huge opportunity’ for Canadian firms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91X1Vwa0JKTks0ZGFQQlJzMG9YQW1tRzN2QUhwbjBzTUNnQzRMYW5fX0VEUE5FV2pfMHpmNjdsN1NvT1lFSXRQUDJ1NnFTTXE3M2hpNzNzVFhyeWltMjZ3dGUtdzd6Q3ItSlJ4dEdFbEw3RTR5TGRhdldB?oc=5",
-      "source": "The Logic",
-      "published": "2026-11-27T10:45:00Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9fb851ef3dc7fed8aef6f5",
-      "title": "META_TITLE_QUOTE",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CMWpxcXI0NkV1S0FIRkJ2SHBDWXpqUlBxaGVidzJHZzY1THJtVHQ4aU9aRFdfa3VGSjBhemI2Y1I5VnRrV1A4VTdYdw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-27T10:41:49Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2d1c1b4dce2bfe42c4d2aa",
-      "title": "Global eVTOL Aircraft Market Valued at USD 15.5 Billion in 2025, Projected to Reach USD 39.0 Billion by 2034",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BTW9OYW5qUnNQNGpDZ3lnZl91X2NDcFNLZW83aTFVNF9fRDRGaVB1SjZtd2pBQXJ5V0V0SW4tOUg4aHA1aGgyMTFEVjQzek5rRzJtX183S1A4VWVDYWVEMGRXNHNzV2FZM0lpaHpMSEdxMlE?oc=5",
-      "source": "Avi-Go",
-      "published": "2026-11-27T10:36:59Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "10f46cafaeb1f4a94382f8",
-      "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
-      "summary": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony, Nothing, and other major brands are offering some of the best prices [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
-      "source": "The Verge",
-      "published": "2026-11-27T10:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268739_Apple_Watch_Ultra_4_AKrales_0087.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "340af565625916d0ce3ecb",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T10:24:24Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
-    },
-    {
-      "id": "e953394d53cc375096ebf3",
-      "title": "Enclustra launches Singapore HQ to drive R&D growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSTVtSTE0QmpTdGt3SEt2ZUVTUkJEQ0VselctbHBjVzVaMDJxRmtKOVJLeXZzVVc0NWhYOXZ6X0NsRE1admt3YTBZTVZEQmF5VURuQVdIVzhDYWE3b0EzUnpPR1ZCTE12WmpJcVRwemVKS2xHbzdjZXBFbTNBR05oOEdqXzdYRFBselVESDlURnk0VFdpd1l3?oc=5",
-      "source": "Singapore Economic Development Board (EDB)",
-      "published": "2026-11-27T10:18:43Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c671b62accf1dd4b778ca6",
-      "title": "Hernández de Cos, the pragmatic liberal tapped to head the ECB and take on Europe’s upcoming challenges",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWXQtdU45WHpGV0ozOUNrLVEyWTh0b1JtTnNKZU5aX3JFaFctYVdSY0VoeU1IUmNZOGVITmxieENSS2VPNVpCbkRsZnJaUjhJR1lYd1VRMUVGOEtmSDJyNmNCU0l5bGxPdlBvek9hWjVpd1g4TzFmdmI1Z2oyUjBsNnlBclZDRlIxcGNtTHgtMHFoa0tBVU85VW8tQUNlNmJEbUZRVlB5cVU1bnpYdmdnWmttU245dTJfTjg5bHNJRjIwbnJVcnhBV0hNZjd2dEU4cWswNGJaaExFbzFPOU5CM2RlOC12WkZjOTZqWTMza011MVNjc0JraNIBjAJBVV95cUxQU1NGSUpjMHFQSm11RWZPUEtRanlibzBHdWEyeXJ6MU5vTnBiQmp3TjZFR0pfUll4UVlIeEZkLXpmVno2eEZPbGZQQXBYSDctVXdmQnM2cnpCLUpZRG1xb19UZWVrM0xMd0IxWXh5OWNDbkNfT1VZMFFSSWtGNEhzX2N1VFNBaGROWTlFelZJQlNRYkY4aGdwSGlTQkVucEtYMGpIem5tYlljdnh5WnJ4ZTNnR2RNN3dlc2I4Wk1BSmxmbTY0clFxM0RING96Wkl0aHpHaUJIRXlJeHVldWxHRzhEbEJSbjJuUkxkeXNKRWdqeElndm5pRVZtSGpnMnBaU3BfLTZOeV9URnpp?oc=5",
-      "source": "EL PAÍS English",
-      "published": "2026-11-27T10:13:19Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "4cafb5c11f6a5c29b43cf5",
-      "title": "Hernández de Cos, the pragmatic liberal tapped to head the ECB and take on Europe’s upcoming challenges",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQU1NGSUpjMHFQSm11RWZPUEtRanlibzBHdWEyeXJ6MU5vTnBiQmp3TjZFR0pfUll4UVlIeEZkLXpmVno2eEZPbGZQQXBYSDctVXdmQnM2cnpCLUpZRG1xb19UZWVrM0xMd0IxWXh5OWNDbkNfT1VZMFFSSWtGNEhzX2N1VFNBaGROWTlFelZJQlNRYkY4aGdwSGlTQkVucEtYMGpIem5tYlljdnh5WnJ4ZTNnR2RNN3dlc2I4Wk1BSmxmbTY0clFxM0RING96Wkl0aHpHaUJIRXlJeHVldWxHRzhEbEJSbjJuUkxkeXNKRWdqeElndm5pRVZtSGpnMnBaU3BfLTZOeV9URnpp0gGMAkFVX3lxTFBTU0ZJSmMwcVBKbXVFZk9QS1FqeWJvMEd1YTJ5cnoxTm9OcGJCandONkVHSl9SWXhRWUh4RmQtemZWejZ4Rk9sZlBBcFhINy1Vd2ZCczZyekItSllEbXFvX1RlZWszTEx3QjFZeHk5Y0NuQ19PVVkwUVJJa0Y0SHNfY3VUU0FoZE5ZOUV6VklCU1FiRjhoZ3BIaVNCRW5wS1gwakh6bm1iWWN2eHlacnhlM2dHZE03d2VzYjhaTUFKbGZtNjRyUXEzREg0b3paSXRoekdpQkhFeUl4dWV1bEdHOERsQlJuMm5STGR5c0pFZ2p4SWd2bmlFVm1IamcycFpTcF8tNk55X1RGemk?oc=5",
-      "source": "EL PAÍS English",
-      "published": "2026-11-27T10:13:19Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5dbdf30e0c098658ff375e",
-      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
-      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published": "2026-11-27T10:10:36Z",
-      "category": "Finance",
-      "topic": "BBC Business",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4715/live/6ec7a880-ea5e-11f1-99b6-a35a62fa4264.png"
-    },
-    {
-      "id": "86b578f10942ede1c4044a",
-      "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-27T10:05:00Z",
-      "category": "Economy",
-      "topic": "Global economy",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "cb6ff52e8f388b9411996e",
-      "title": "Nvidia reinstates Jensen Huang and Microsoft launches ads in AI Overviews: Latest industry moves",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzJpWjN5ZXFldE9TMUxuTHVWMDdtQldrYmZkeFcwS01sLUxGY29pSl9kQlNGUkt2d1JzNWhwUFlfU0pjZDBqVGpmUWJodzVxNFp6eGFiUTVTMzM0RXRxaVNCeE0xYmxBZ3pzMHlMeE5zY1ZnMVBwc3Z5MHVtUXlTZ0trZlB5YXNpZU1SVVdWeTJkS0dRTEJkM2lJYk8zU0lsLTFyU1l0LTIzWm9ESkhQVlYxRXNySGhnWUZoRWsxeWQxQWRuLVY5VHhjM29ndnR5R3NRbWJ6ek93YUJlMWlz?oc=5",
-      "source": "Performance Marketing World",
-      "published": "2026-11-27T10:04:28Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "885bfa19dab78f61fb1b37",
-      "title": "The Sovereign Debt Squeeze: Why Refinancing Capacity Matters More Than the Headline Debt Ratio",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeG5NMlhxeDVCUExnSnFxbkVreGZBTFVMM1lMSzBwWWdTdG5RajQxWDZKeWpkcVY0SFV3YmJ3MlJDc2dNdllnM1R4WDVZVFR0LVczN05jQUJadEtRVkozUjdWakFmLTVQczNWZmZHQW9SbHg3WDVpNG9WUHZsVVM5c3NMWHR4NGdtMDhCdFdMeExuc2hCVncwUWlUMVBNb3RXRFBZYjhnNHBiV1kxREVKYndqdEwzOUFXVnNyUERrZ0JZaDFJUTBYUnB4OWVlSTg?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T10:02:10Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 10
+  "source_count": 22
 }
