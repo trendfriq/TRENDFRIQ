@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-28T16:25:22.612537Z",
+  "last_updated": "2026-11-28T17:23:47.955242Z",
   "articles": [
+    {
+      "id": "7642d2da0cab337b31a980",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T17:11:37Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
+    },
+    {
+      "id": "f4acbbbda738b3bd5f84c1",
+      "title": "Dozens killed as Myanmar military strikes hit wedding venue and school",
+      "summary": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+      "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T16:53:20Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/567f/live/7b882a50-eb48-11f1-867f-2ba50c8646d5.jpg"
+    },
+    {
+      "id": "38d7f581ce2b21c228ec55",
+      "title": "Saab Secures €450M Radar Deal with Ukraine Amid Rising Defense Demand",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTExkS2I3VG9SWlY0NmFaMXdyRnc5NnRPMDFFRWVweUJ4VnZMb3l0Rmk5aDVQaTNZMEM1MzQzTEFpalR3U2RCYnZoVEdodkItSlhyeDV4eHNfQ3JfcVlzdFBzd3AySXVmZ0FvUnhZclVVS0RpR2tRNFRFRTZCRi1IM1JCTE1LNkw4MjRET2x4Tnhhc21hOVE?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-11-28T16:50:20Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cbbf6c49de6b56b5efeba8",
+      "title": "This new sports app is designed specifically for women’s sports",
+      "summary": "A new sports app is looking to change the way fans engage with women’s sports — without real-money gambling.",
+      "url": "https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/",
+      "source": "TechCrunch",
+      "published": "2026-11-28T16:43:39Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Womens-sports-rival-app.png?resize=1200,562"
+    },
     {
       "id": "6f4a32dcf45287b31841ce",
       "title": "Jailed Palestinian ends hunger strike after 33 days",
@@ -134,6 +182,30 @@
       "image": ""
     },
     {
+      "id": "f9f8ad5443e38a0a17a308",
+      "title": "BNY Mellon Global Equity Income Fund Q3 2026 Commentary (DEQAX)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOE5zc0ZxZkVvcFNKVzV5N2hpeXo5X2EzejN4c2NqUW5GSTVCdjNVT3VaQW03UlVHMXhUUEFjbzB6RVZ1d1lXaTF1dkE0Nk9IOF8yQ0YtOGxGRzhVZ3dKdU1odmdGRmc2MXI0WjgxWkpvbTVKV1JkY1lEc1F6SEpqV0FNeXVQNUw4YVBLR2ZpcUh2di15eFZhWHRTalM?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-28T15:10:00Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "699f4a1cf0b0b67a28ff6c",
+      "title": "Reforms to Expand Foreign Participation in G-Secs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
+      "source": "pib.gov.in",
+      "published": "2026-11-28T15:02:51Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "13a89bc70b3625aa470411",
       "title": "Forbes Middle East’s Building The Future Summit – Egypt Kicks Off November 29",
       "summary": "",
@@ -154,6 +226,30 @@
       "published": "2026-11-28T14:44:53Z",
       "category": "Finance",
       "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "7b4873999865feaaf44336",
+      "title": "HSBC Sees Improved Equity Market Prospects as Three Major Risks Could Ease in 2027",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEVMNjJsVkZqcUtCcVROeFotLTdCVzNGUTB2aWdXUFhJdG9WS3BpbF9ldE9UN2lZdmVuVEZBNGpCZG4yNTdIZ2JJZUJvYTNacUVTUTNSTU03bmRMU0RpeklYeGxmRDg1bEpRY0lsdzRqRjZjTEw5ZGNNR3NVQmFFaEp3SHdYXzA1?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-11-28T14:42:31Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "083f4f14fb9ac6893277cc",
+      "title": "AirAsia CEO says talks about opening Myanmar airline 'have stopped'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmFPMzBPXzRiNkxZYmVjVnpKS3JnM1hldWxFLUR0UnBBV1poVHZxdDF3NzFhUDVCbVZwR1lmUDZRTUdFYXhYai1NSFNLcDEyYm1rREdJVUxVU1RoQnVzRHEwSnhPUVhCNHBXbDE4dEhtcmN1ZlU4NHp5ZnpTQmZ5TmxpYXFaVHVfeXJuci1PUE9uaXBxclRpeThFeFFTeEFVSlBWcXVlU0UtUQ?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T14:40:19Z",
+      "category": "World",
+      "topic": "Middle East",
       "country": "",
       "image": ""
     },
@@ -228,18 +324,6 @@
       "topic": "Technology",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "7642d2da0cab337b31a980",
-      "title": "Argentina's bid to stop Falklands oil drilling rejected",
-      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
-      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-28T13:36:36Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
     },
     {
       "id": "4a5a0790d467e2db341d0f",
@@ -576,6 +660,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/7205cccd70043b0f56f77bff4e6ad36dbcc465c0/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e69fa27326fb2a723621c081f49db2a5"
+    },
+    {
+      "id": "2b2c0817026306cbdda544",
+      "title": "Trump’s tariffs have become America’s new normal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkRXTlVRWkRPclk0V1VrRkJ5eVIwUlh3YzdSVVQxb3FaLW9seFBGZEVGTVY4TzZMTFl4QU0zOURPSGdEQTBXdnUxaVNnOWdUNm03dk9CdTA5SUIxaGd1Q3BkS0t0d1ptdVlDeWV6WUtsdTZ2X0p6VUVBa1EtQ0NTVmU4RnpsVUg4UWZVTkk3TGVuN25ZWXdV0gGcAUFVX3lxTE1CbzQ4NGhaaDhwODNKdjZmT2JVaTRmTTVpQUZjVTBaYTNaVGJIbWdZVE04LUVQUkxwWlduN1VJc3dkNzRfcUIzU29FSmd4N084N1B5OUNrMzNkZlJ6LTYzMnlnRDVpRmN6S2ttdFpGRVp0Wm5OOU9sYkw2Mmpkc2dyeUpLSVhpLVpNMEc5WFJZOUc1bnhnUWZhNkJRaA?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T06:58:56Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
     },
     {
       "id": "9a7ef44e462624c4a4ae15",
@@ -1344,102 +1440,6 @@
       "topic": "Americas",
       "country": "",
       "image": ""
-    },
-    {
-      "id": "17509216a0f52cbf2a100b",
-      "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
-      "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabet",
-      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
-      "source": "The Guardian",
-      "published": "2026-11-27T21:24:10Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b8456a333d471f6fd8fdee4d2da7278"
-    },
-    {
-      "id": "c0e5251cb950e107b23009",
-      "title": "Mexico files formal complaint to US over DEA tip line",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcHJjOGhXdkU5NUVlb0Judl8za04zS0o1ODRlMGtBelNqMzRScDhSekwwTWcwN0YwN3NJZmxPZy1JRVFhZk9KSEl1RExSRDhleDdCZE9WM2hOb3dwZG9Bb3diamFHd2NPNTJiYktoWTdVdURvVXZlZG9MdU5aZW9UeDFtUHNWS2tyMW1XbnFiOFlDS1hvRTA0bGYzaVRsUdIBowFBVV95cUxPZmJ6blBnb1ZxanRjbWNqUVBqNnItWlRUd3ZTenFJODBFNkhZUC1iU3FmQ1Y2UldlYVhwR09RQ1dUU215NFpBYlk2cEZTTHJjY3dpUVd4OTZUdk9aeUJTZ1VOSlk0ZHVlYWtoaEhSbkNablJXNjZDVlpRVXNNZWRfS3JIRDcxZHQwcXpvMlFWNjN0SmVJeFQ5QWVFWGhOdHNoSkZz?oc=5",
-      "source": "WGN Radio 720",
-      "published": "2026-11-27T21:23:39Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "afe11f52757733059dfe3d",
-      "title": "Economist Urges Capital Mobilisation, Investment To Unlock 2027 Growth",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVU8yZUFtXzIycmItTFZkekxWYmdNT1ZiMUhXQzk3Mm5vVFV0c0xQUGx3Smp6TWJXNXJUNF9HZVpQV1N0TUN0S1ZKdDBKVlVOQl9sUVJmaFRzTFVhTWdqYldUdlN2LXBXQU9DYnRlaTRMODA0ZzI0ZUhvX0E5eDYtMDNiNDlZcFRWQmZjd1FEcVdkQ1NfbnJ1WFRsTUk?oc=5",
-      "source": "MarketForces Africa",
-      "published": "2026-11-27T21:00:39Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "97d55a7053c30de76535b3",
-      "title": "CEO affair scandals expose risks of unchecked power for companies",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVNadE56RGx1aGlYWDVMMExBNG5KQWZKbG0tbi16WnBPdm9raTBEd1BWZDVGNmxqRUFTNDBnaTk2UXFEXzlUSXlYMmZpTFBTUUdicXVzakY4aTByMmY5NzlmR0FNN2FFZjhObUt2UDFhbHM5Qi05N21pWDBxME5hbnEwcXBRaE050gGcAUFVX3lxTE53dHVHWEJJLXg3WklHNzdYaEMtR0R1Z1lMTUFFcEJLSldvejltck5oM1U0cVdGeDRBTFMzcnBUQlluMUlRc0JsVUFkSU9hc2NIUmZrY3lGZ0JzbmxTNThKRF8zWGthR2NJVjlNRHEzWEl3RU9qYXJOa3ZuU2FuMWNoUTF2aDVvdl9vMjdhb18wZHpucS00bEVSSTJZMQ?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-27T21:00:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3fca890b12dd17069828bd",
-      "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
-      "summary": "Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and mods. The company has decided, rather than fight it, to embrace the modding community. The latest update adds several [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
-      "source": "The Verge",
-      "published": "2026-11-27T20:48:04Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268415_MPC_Sample_TO_Brien_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "28a9fe0ae4da0b98ccbb38",
-      "title": "Legend Robot Expands Global Construction Robotics Footprint to 500+ Projects and 10 Million m²",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVGxPajRXQ1lzR1BVdDUzcS1vbTdDbEd4N2RKZUVQbWpmWnE3d0ljTDIzY0l2ZlVLd3ZUSDVhZXBiQVZrcTd5UndiN2lYQThUVmhtOWhvaFVmQjY1eDYtY19Xc2ZNMk5YcVAycG1NeUoxeXhlZWdheHNkcWRZdk5pcnRuMWFRSFdLR1haR25OanJFZnVBQXZDTjV2M21qSGZPM0E1MlQ2Q2tuV3pBeVB2ZnNfSTd4Y1RLWkU2Q1lUMGEyeGFiM252eFI3VkdoM2dNQXVESVp5WGJOR0pnSERWa1VmMk9VZw?oc=5",
-      "source": "markets.businessinsider.com",
-      "published": "2026-11-27T20:41:39Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "c02ebb432af82fdccbc560",
-      "title": "Been a long time: Expeditors meets analysts, discloses revenue shares",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3phODM3Z1hmREd4T0ExQm5NZl9vbld1MHBpZFc3ajA2LUYwTmdUTmRBbThKeVFxSVhNRVF1VUd3SV9YejNHanl6OWVmOFZTSXBfRXYzVXpVOXJtWHlCVWNnWUJNZk95aFVXOURVYzh4VlFEWFRoYVNib19GZVMyMzQ4b1lYLWUtWFFuYldzcThXTy1kenQwdnh4UlNOTHJUQ3RF?oc=5",
-      "source": "FreightWaves",
-      "published": "2026-11-27T20:38:15Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1bc3f2e2255b4e741e68b9",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T20:34:45Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
   "countries": [
