@@ -1,9 +1,117 @@
 {
-  "last_updated": "2026-11-28T15:25:14.696553Z",
+  "last_updated": "2026-11-28T16:25:22.612537Z",
   "articles": [
     {
+      "id": "6f4a32dcf45287b31841ce",
+      "title": "Jailed Palestinian ends hunger strike after 33 days",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2NsZkdweF9TckN4WFU5R1hIaFpNdkVldGZkeWRkUHhuVGY3Rk80R0Y0YXVMMVE0N085UWNvZ0g5MW9sYW51aEVvNG9MYUVxMDJJajhpblVyYXctRlJnMDJtYUpPdmRDaW1GN3ZwRlNHR0lRRzFQS2FMaXRhQmh3ZmxXVTUtN2gtQkR4MXZrd0xGNmts?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T16:22:14Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "309fd1b42b76a5b3dff005",
+      "title": "Saudi king says to consider Japan's request to support Tokyo listing of Aramco",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd2lYVlk3YktVY2ZFLWMxbWpTaWZ2Z3MwM3UxQVdEelFiRkNzODkzRmdySUhURFo3V2lSSFoxSjhoUnFXVE1pb3ZKank2eHFTV3V4Qmk2X3JTZGtGNVNMNXdaMVZuS3VZRFFYQkZ1U3JGRld1ekx0VzVROExNMEhxdEJZRU1RT0ZEcDBBeFZjdXJCcTZscHJHOFJ4X3V5clJXV1BVeUJ3RkE3XzQyc1RaT2NVWjF1NFlCZFE?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T16:18:13Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "118eb9f4eb8533a0148710",
+      "title": "Here’s what other Verge readers bought during Black Friday",
+      "summary": "We’ve covered a lot of deals so far that we think are fantastic during Black Friday, but readers gravitated to some more than others. Price plays a major factor, unsurprisingly, but for the holidays, some people care more about novelty above all else. They just want to gift something cool (or get something nice for [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday",
+      "source": "The Verge",
+      "published": "2026-11-28T16:17:05Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xteink3_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "e1b87e54e0b19aa0ef31c3",
+      "title": "Police reportedly turn water cannons on protesters outside Meta offices in India",
+      "summary": "Police in the Indian state of Haryana turned water cannons on protesters from the opposition Congress party outside Meta's offices, according to Reuters. The protests are just the latest from the party's youth wing, which has accused Meta of bowing to pressure from Prime Minister Narendra &#8203;Modi's Bharatiya Janata Party (BJP) and censoring Congress part",
+      "url": "https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices",
+      "source": "The Verge",
+      "published": "2026-11-28T16:04:47Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK043_VRG_Illo_N_Barclay_5_Meta.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "6811ba22810e73a48586a3",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-28T16:01:09Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8250/live/ce59c850-eb44-11f1-867f-2ba50c8646d5.jpg"
+    },
+    {
+      "id": "035c1668d39a8ece5f2592",
+      "title": "Trump crackdown shatters US hopes for Guatemalans displaced by climate crisis",
+      "summary": "As drought worsens, more climate migrants are trekking north – but as US deportations ramp up, rural Guatemalans are running out of options The small plots of farmland in Caparrosa, an Indigenous Maya Ch’orti’ village in eastern Guatemala, are bone dry. It’s mid-June, and the rainy season should have started a month and a half ago, but it’s barely rained at ",
+      "url": "https://www.theguardian.com/world/2026/nov/28/guatemala-climate-crisis-trump-deportation-crackdown",
+      "source": "The Guardian",
+      "published": "2026-11-28T16:00:44Z",
+      "category": "World",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/b89ec80234738b8d7d92f09174624f3e678927ab/1561_521_6229_4983/master/6229.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7859a026fe51b38162947315ae3dbe7"
+    },
+    {
+      "id": "3b3011d4871e732df1c86f",
+      "title": "How Burnham’s 10-year plan can turn more happiness into higher growth",
+      "summary": "Solely targeting GDP is the road to ruin. A wider focus is needed, from better youth and mental health services to more apprenticeships When Andy Burnham publishes his 10-year plan , he is expected to define what the UK government can do to help and support citizens of all ages. In a story arc refreshing the idea of a modern, “cradle to grave” welfare state,",
+      "url": "https://www.theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth",
+      "source": "The Guardian",
+      "published": "2026-11-28T16:00:43Z",
+      "category": "Economy",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/1af99028027c11918e5e55c443acd02f43e28b82/429_0_4201_3361/master/4201.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b75349d659b13431a7c32fb72a19502d"
+    },
+    {
+      "id": "2f6d260a72322c6cc7864b",
+      "title": "Abdelatty: Egypt to Establish Investment Entity to Boost African Investments",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalBaTnY2VzY0QkRsYmh2VUFCU2xvUGZyYURhdWxKcm1faW9UY2RDZlR4azVnUjhKQjRvQTlveU4xNlJtRURoWkg3VzQ5VzI1TFZSdERVTlhrMVN2UU1qZXdOd0NzMUJHZnJSdTZfNWhvSmNZSmc3NmszUmQ1ZU4xR29oUE90UHA5MHc4OXZIbnhpV2FBWGo4aURfTG9SMkRLTjlYWURuV240MDRVbDdR?oc=5",
+      "source": "DNE Africa",
+      "published": "2026-11-28T15:23:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "53dfa59d77ebe0f6bbac2b",
+      "title": "Almost every great Black Friday deal is still happening this weekend",
+      "summary": "Black Friday has passed, but that doesn’t mean you missed out. Far from it. Almost all of the same deals from yesterday are still available, but some retailers plan to end theirs once the clock turns to early Sunday morning. True, expired deals you had your eye on are likely to return for Cyber Monday, [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "published": "2026-11-28T15:17:57Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_SATURDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "id": "0e02b30924b5871a4391e4",
-      "title": "Kodak’s ultra-cute Charmera keychain camera is on sale for just $30",
+      "title": "Kodak’s adorable Charmera keychain camera is on sale for just $30",
       "summary": "We wouldn’t normally recommend a bad camera, but we’ll make an exception for the Kodak Charmera. As my colleague Andrew Liszewski pointed out in his review, the tiny retro keychain camera takes pretty lackluster photos, yet it’s charming enough that he kept using it anyway. That makes it a great gift for anyone who loves [&#8230;]",
       "url": "https://www.theverge.com/gadgets/1044917/kodak-charmera-keychain-digital-camera-black-friday-deal-sale-2026",
       "source": "The Verge",
@@ -34,6 +142,30 @@
       "published": "2026-11-28T15:02:44Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "9184d7ee1da2aaf8ac068a",
+      "title": "Prediction: Palantir and Nvidia Will Be Worth This Much by Year-end 2027 (Hint: Only 1 Is a Buy)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMzZ2T0REdFpyWXhOTjc2SzBVUWRkcWZkTTdZRFN1MWs1SWl6VUFGejc2NERMdkxSS0RjcnV4RHFyd1JkajhkTEc3ek9iMTgzMHp0OWdlbnc3eEwxMV9FUExRa2JOaUh6LXZRY2d0UWIyNGxPbk82QlJEZDNndU9wQU9LWXRZZXRhY2ptclBmQm9HdEtLc1JJczQ4QnFZdHkyMUxkZzl2cWIxdGRPeW44YVNRWTJjN1RTZlNXRWttRVMxMWlUYmhuMERfMENJNEw2aG9nRF9ReVZoSUE4a3VxOGtEV3FxRmNabFhJMmJ6b2Z1WG9yTUhYZHF5S3BJalhoeEZFN25pZUs?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-28T14:44:53Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "65730a32ebcc66efc977c5",
+      "title": "Earnings Scoreboard: 12 of 13 reporting firms beat EPS and revenue estimates; 9 grow Y/Y profits",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdk9rUHhpSXJhbWtRUHFEbW9naUxVeW5WSG43cFVpRUkzUVl2TFJ4NUM1WnQzQjV4amdnaFQ4NDJnYy1NVzdtU0FaMFNaRURDTWN4WWt6b3F3LUFBSlRoc0VuUUdZeHB4LWpzR1BxZFNUcWFmT0dlN21PWVA1Vl9ZMmh0ZndfUWdrUmI3alM4a0tFSDdIb0YtcVJhbHpWNklUWlVSUDdDOXR2c3NVTXdLSGRsaUE5V3paMHB4UldNWlZrWVNucjhIeGFDdVpMRV9ONTMzMXlJRXBOY3ZuYzBWTTJ1bzFFeFNjZmJPSExB?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-28T14:35:18Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -86,18 +218,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/LR6B6927_e6db04.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "53dfa59d77ebe0f6bbac2b",
-      "title": "Almost every great Black Friday deal is still happening this weekend",
-      "summary": "Black Friday has passed, but that doesn’t mean you missed out. Far from it. Almost all of the same deals from yesterday are still available, but some retailers plan to end theirs once the clock turns to early Sunday morning. True, expired deals you had your eye on are likely to return for Cyber Monday, [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
-      "source": "The Verge",
-      "published": "2026-11-28T13:57:03Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_SATURDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "id": "004223549335d90c9687f6",
       "title": "The Startup Ecosystem Leaders 100: India’s Most Influential Leaders Supporting Innovation & Entrepreneurship – 2026",
       "summary": "",
@@ -132,18 +252,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/32371dbe4bb863597422e9658bc6f2ab94586f6c/301_0_2043_1635/master/2043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fc380308dd6d23f3228e31f41f793a4"
-    },
-    {
-      "id": "6811ba22810e73a48586a3",
-      "title": "Pensions and benefits services still down after 'cyber incident'",
-      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-28T13:02:10Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
     },
     {
       "id": "8f5f6ba9e10c42ce1d11c6",
@@ -434,6 +542,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"
     },
     {
+      "id": "5a27838e3be0e898d325a5",
+      "title": "META_TITLE_SECTORS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lQ0FHQUVPQTd3ZEV5R1pXZVZqWl9PNEdMX2ZYenh1MUJNNjVVZmQySFBUZE1SQ2dLVldubVlKWHRQRWRCTER1Mk9aRk5ha0VaODFCWjZvb29PUnhtMTZsT0dMMA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-28T07:23:39Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "fcdc92dd9f335b53319c69",
       "title": "Village plea for replacement Royal Mail postbox hits the rocks (literally)",
       "summary": "Residents woke up to find their vital box missing, but despite 11 months of lobbying the company now says it cannot replace it Residents of a remote Devon village now have to drive more than a mile to send letters after their attempts to get a new postbox literally hit the rocks. Villagers in North Huish have described a farcical near 11-month battle to chal",
@@ -526,6 +646,18 @@
       "published": "2026-11-28T06:21:06Z",
       "category": "Technology",
       "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "3d539cb0a16a9afcf3f9fb",
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-28T06:03:06Z",
+      "category": "World",
+      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -794,6 +926,18 @@
       "image": ""
     },
     {
+      "id": "c7f3afe5729f72c8b4b9df",
+      "title": "Badr Abdelatty: Egyptian investments in Africa exceed $14 Billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTh3QWM5SkpyX1VrMXprVEJROGV4UGtINXM3ak1UUTNmaUVxY0stZlNEUWZJMS1XQy1QcFNWcjVnekZnVWdfc01Ia09wemxiTjdQZ1RQZ19fMnF3ZGNQU2t3X28wWUtnTDdKZFZpYUVuNHpEQkdGeFRUWDBNcU5IMTFxSlpWaGUya2xHMkNoQzQ2d1FwazFVTnhoTVBOSi02WnJsSW1qZkhZV28?oc=5",
+      "source": "Egypt Today",
+      "published": "2026-11-28T02:30:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "d18a303d0c11d530393f35",
       "title": "Shenzhen, and the Asia-Pacific it points to",
       "summary": "",
@@ -1046,18 +1190,6 @@
       "image": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fc5f0fb7a76240240e87e00f0870fdc"
     },
     {
-      "id": "89451950cc7a2ed50dc663",
-      "title": "APEC meetings inject fresh momentum into regional business cooperation: business figures",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3N2LXBPanJUal9lTXk0UFVvLXBObE9VT25LbjY5dVVyaVFOcFhKOGhSdmRxSmJWN2J0UmJOWWZkbV9scjlMT3l1U1FwTnJaWmNyT0xWOTZhUjJrdmJETl9yV25mWkdaTlFLLW9XTGxDVElEN1lsNFluOTgyVUtySEhua09tQkRCeWh2b25IUjQ2MTlIbnMzdVBrbTVpdXJ1c2lLSEVnc1lIbjlvRGlkbkdkbnBuR0pHdWlZNEV3VlJ4ZnZDTUJrTDQ5LVZoQTJ2UEQyNml3?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-27T23:28:05Z",
-      "category": "World",
-      "topic": "Asia Pacific",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "e76541e95a72e14981f8af",
       "title": "South Africa’s credit rating upgraded after years of economic stagnation",
       "summary": "",
@@ -1092,18 +1224,6 @@
       "topic": "NPR",
       "country": "",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
-    },
-    {
-      "id": "2f6d260a72322c6cc7864b",
-      "title": "Abdelatty: Egypt to Establish Investment Entity to Boost African Investments",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalBaTnY2VzY0QkRsYmh2VUFCU2xvUGZyYURhdWxKcm1faW9UY2RDZlR4azVnUjhKQjRvQTlveU4xNlJtRURoWkg3VzQ5VzI1TFZSdERVTlhrMVN2UU1qZXdOd0NzMUJHZnJSdTZfNWhvSmNZSmc3NmszUmQ1ZU4xR29oUE90UHA5MHc4OXZIbnhpV2FBWGo4aURfTG9SMkRLTjlYWURuV240MDRVbDdR?oc=5",
-      "source": "DNE Africa",
-      "published": "2026-11-27T22:45:00Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
     },
     {
       "id": "ac49b1f34a532c6b891a35",
@@ -1320,126 +1440,6 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "6d1191e92b519542408645",
-      "title": "Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday",
-      "summary": "If our sub-$30 Black Friday roundup has you hungry for more great gadgets at low prices, you can currently grab the Nothing CMF Buds 2A in black starting at $17.89 on Amazon for Black Friday, which is about $11 less than the MSRP and the lowest price we’ve seen. The wireless earbuds are discounted in [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-27T20:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Buds-2a-in-Dark-Grey.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "3fe447c13fe67d8757d538",
-      "title": "Apple’s latest AirTags have dropped to just $18 a pop for Black Friday",
-      "summary": "If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price of $29 each, but have been consistently available for around $24 since Amazon Prime Day in late June. [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale",
-      "source": "The Verge",
-      "published": "2026-11-27T20:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "5813550398040e4fc6ea29",
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T20:06:31Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "8e89210f7e322a3812bf00",
-      "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-      "summary": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficulties Tell us: have you been affected by the DWP ‘cyber incident’ Benefits and pensions claimants have faced chaos after the system was hit by a “serious cyber incident”, fuelling concerns about the UK government’s ability to defend it",
-      "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-      "source": "The Guardian",
-      "published": "2026-11-27T19:45:51Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=175ae4be6947e6754fc8c95228c2bea9"
-    },
-    {
-      "id": "22a7651786873323165056",
-      "title": "You might lose your Oura health data if you’re still using an old Android phone",
-      "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you are using [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
-      "source": "The Verge",
-      "published": "2026-11-27T19:44:19Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0176.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "6131694ce6ba016446ccaf",
-      "title": "The best Black Friday deals on our favorite smart home gear",
-      "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and thermostats see their lowest prices [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
-      "source": "The Verge",
-      "published": "2026-11-27T19:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b3be99709395388969d766",
-      "title": "Ranking - Top Export Merchandise Categories & D2C Brand Sectors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWURXYlhPSWFQZTlqQUJ0XzVPcUYzRzcwdElOb1d3YjdLN0Z5cFNNX0FiMmtvVUhDN1JLa0ZHRGFuckJvMTQzRlVMWTd4ZW4wS2ZqOU9SLUtHVVNaSkc5dEdyZ0lPWWpIRVZjV1dKV19HN1ByelBOUVQ4Rm4wb2FLYzhLeldTcURucVJNbkw1VEZHTjFhWGt0OEdNRWxSdks3dzhkdjNOX0JPMkR1TUM0MEJDMA?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-11-27T18:58:39Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0e80dcdb7eec658662d8ae",
-      "title": "EAM Jaishankar calls for reinventing global cooperation in a fragmented world at Jeju Forum for Peace and Prosperity 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWZIa3NsYmdmcF85R2ktejV1ZEVIaUpVaWxvVVhTQ0FNZ244ZjZBeFFGcmMwaVZ2TWRoaVRObEQwV25LUnBWeWgweXVhQkZNdTNtSEY5c1BlV3ZmTjJHaThuYnN0RmFscFZYSWJRSU1QRUMxV1JiQ1JSMzNndmJJdHZRMVByeUZFWXJFRkY5aVd2UXR3akZsdTl0YUdmRXljaW1XSmU5NzR1OU5aMklHaDZvblVocnJXbU8zM0FMN05HLXhoN1BpMGd4OXpidHlaZDdscEV3OURHdlI4XzFuTQ?oc=5",
-      "source": "DD News",
-      "published": "2026-11-27T18:50:36Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "614c2ea9645d3d9ae1b0ed",
-      "title": "Nirmala Sitharaman to hold high-level meetings with Singapore leadership, global investors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0xUNEF2dXJrdk9lYjVpV3o0Q010dkJJYlZSRFEzNllPS2JRbUg3RzFWeTV2QXJjaUlId1FXRjVfNmJIZmppVU1XNXBKQUE0cWFMWUpuT3NXVXRmU2NMNmhJMDhZenpvV1NFTlZFbDNxVjZReTd1WEc0MU5iVEI3aVhkYzV6MVJfYThRV3YtZVFMT0tkUURUMWlITEhZcUtmWERNWFg1T1cxdHBxbl96MmI5SWY2Zw?oc=5",
-      "source": "DD News",
-      "published": "2026-11-27T18:47:18Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1eab93bf7e54c93e2ea577",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T18:42:50Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
     }
   ],
   "countries": [
