@@ -1,21 +1,57 @@
 {
-  "last_updated": "2026-11-28T17:23:47.955242Z",
+  "last_updated": "2026-11-28T18:19:23.499103Z",
   "articles": [
+    {
+      "id": "c6644893ef2781f576e026",
+      "title": "You can save $20 on Nimble’s splittable 10,000mAh power bank right now",
+      "summary": "Thanks to a lingering Black Friday promo, Nimble’s 10,000mAh SharePower portable charger is available from Nimble and Amazon (for Prime members) for $59.96 ($20 off), which is the lowest price we’ve seen for the clever charging gadget. The discount extends to all four colors, too, though only the blue hue is currently only available directly [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1044906/nimble-sharepower-portable-charger-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-28T18:15:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nimble-sharepower-charger.png?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "id": "7642d2da0cab337b31a980",
       "title": "Argentina's bid to stop Falklands oil drilling rejected",
       "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
       "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-28T17:11:37Z",
+      "published": "2026-11-28T18:01:05Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
     },
     {
+      "id": "c4b167f7f806b55c9bd1c6",
+      "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+      "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+      "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+      "source": "TechCrunch",
+      "published": "2026-11-28T17:46:47Z",
+      "category": "Technology",
+      "topic": "TechCrunch",
+      "country": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024"
+    },
+    {
+      "id": "2631e0cd86cdea5e4b3c8e",
+      "title": "You can get a Pixel 11 Pro for what flagship phones used to cost",
+      "summary": "Before the RAM crisis, you could get a new, high-end phone for well under $1,000. Those days are gone, and flagship phones now start at a grand or more. Not to mention that you can easily spend double that on a phone that folds in half. But let’s turn back the clock for a moment [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1042667/google-pixel-11-pro-xl-10a-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-28T17:15:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-review-photos-5.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "id": "f4acbbbda738b3bd5f84c1",
-      "title": "Dozens killed as Myanmar military strikes hit wedding venue and school",
+      "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
       "summary": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
       "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -194,6 +230,18 @@
       "image": ""
     },
     {
+      "id": "a5fad96c8e83ab14278fe3",
+      "title": "QBA, Belgian delegation explore avenues for economic and investment cooperation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeFpBNG0xSmRCcjRiV3AzeDB4RlNXVWdNTXdSUDZQLS1KSnVqUDNoY2g4clVQZmVjdThlTFhMZ2IyelY4UjI0QVpteVVqQWNJa21OWW14TjJnRXpOaGNDQlhxbmNRbmlCWXV0RGk5WHd1ZHhEdDlXVHV4c1NNelpVVDRZRGl1bEMya3dQaDJTOFlkSkJpQzIwUDMxa1ViX2RLUkJsb0hDZ1VzM01lZGtOZUdyZjgxcFd4UVdlOVFaaEMxV3RFSGJkeXFTSnYwN3dx?oc=5",
+      "source": "Qatar Tribune",
+      "published": "2026-11-28T15:08:30Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "699f4a1cf0b0b67a28ff6c",
       "title": "Reforms to Expand Foreign Participation in G-Secs",
       "summary": "",
@@ -249,7 +297,7 @@
       "source": "Yeni Safak English",
       "published": "2026-11-28T14:40:19Z",
       "category": "World",
-      "topic": "Middle East",
+      "topic": "Europe",
       "country": "",
       "image": ""
     },
@@ -259,6 +307,18 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdk9rUHhpSXJhbWtRUHFEbW9naUxVeW5WSG43cFVpRUkzUVl2TFJ4NUM1WnQzQjV4amdnaFQ4NDJnYy1NVzdtU0FaMFNaRURDTWN4WWt6b3F3LUFBSlRoc0VuUUdZeHB4LWpzR1BxZFNUcWFmT0dlN21PWVA1Vl9ZMmh0ZndfUWdrUmI3alM4a0tFSDdIb0YtcVJhbHpWNklUWlVSUDdDOXR2c3NVTXdLSGRsaUE5V3paMHB4UldNWlZrWVNucjhIeGFDdVpMRV9ONTMzMXlJRXBOY3ZuYzBWTTJ1bzFFeFNjZmJPSExB?oc=5",
       "source": "TradingView",
+      "published": "2026-11-28T14:35:18Z",
+      "category": "Finance",
+      "topic": "Corporate results",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "544b896a93b0e5163670bf",
+      "title": "Earnings Scoreboard: 12 of 13 reporting firms beat EPS and revenue estimates; 9 grow Y/Y profits",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDM1VUExeHdtY1ViRVdYMjJVTUtnWVhvZnBRMVpmTHZXMDdEcXRXNjRnR2lDVy1DTE9rNjI4enpaOXJNMWsxSXl2Z0VpTThVZTNWS1ZlZnEtbnZGX1dlR2JyV0o5V0N3QVNYU2U5bHU5VXZNWGxWNE9SWi1fQ3BSNjBfNmpLTHhZSkNhaHdtWXl0dWhzdy0wd1VvR1M5alJ2Q3ppSUFkVE1SQnFUaGhZVzJhOV95OUVPaWZSVzhyNkd0ZlBRSXN2aVR4OA?oc=5",
+      "source": "Seeking Alpha",
       "published": "2026-11-28T14:35:18Z",
       "category": "Finance",
       "topic": "Corporate results",
@@ -426,7 +486,7 @@
       "title": "Shubhi S. Appointed Chief Marketing Officer at IndusInd Money",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDBmYUxQbXNGbUFMaUtyaTlsOWVWcFg4dm90UVlHMU9wUHJwcDF6c1J5T1VmVEthNmw0R3l1WVNtVERfSXQ4VERIcGJlU0Z2UEtVSTV2aXdjV0EzMVJGeEtGU3RPY3ZuNUVTYXVCQ3ZDNHVIbXpHRWt3SUVwMWhoZlhCVlR5RHM?oc=5",
-      "source": "hrtoday.in",
+      "source": "https://hrtoday.in/",
       "published": "2026-11-28T11:51:55Z",
       "category": "Brands",
       "topic": "Brands & business",
@@ -590,6 +650,18 @@
       "image": ""
     },
     {
+      "id": "3d539cb0a16a9afcf3f9fb",
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-28T08:05:01Z",
+      "category": "World",
+      "topic": "Americas",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "848699850941362fefc9dc",
       "title": "Gemini 4 Neon Opens Wallet, Backs Itself Up",
       "summary": "",
@@ -742,18 +814,6 @@
       "published": "2026-11-28T06:21:06Z",
       "category": "Technology",
       "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "3d539cb0a16a9afcf3f9fb",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "source": "NBC News",
-      "published": "2026-11-28T06:03:06Z",
-      "category": "World",
-      "topic": "Americas",
       "country": "",
       "image": ""
     },
@@ -1029,7 +1089,7 @@
       "source": "Egypt Today",
       "published": "2026-11-28T02:30:00Z",
       "category": "World",
-      "topic": "Africa",
+      "topic": "World affairs",
       "country": "",
       "image": ""
     },
@@ -1380,66 +1440,6 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/ebf5a271f7a37c05df6ac1f3eb3bf728d51e5332/153_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=179563fc63cbf166961dce3abfa353f5"
-    },
-    {
-      "id": "65e067513a05324abc8865",
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T21:55:53Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "id": "9b74f40cbfe827390dbb70",
-      "title": "Allstate has been suffering an outage since Monday",
-      "summary": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts through the app and site appeared to still [&#8230;]",
-      "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
-      "source": "The Verge",
-      "published": "2026-11-27T21:52:42Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/https___www.allstatenewsroom.com_wp-content_uploads_2023_04_Allstate_LobbyAllstateSign_DARKBLUE_CROP.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "ebd63f4c82a92e9098654c",
-      "title": "The 25 best gaming deals we’ve found so far for Black Friday",
-      "summary": "While deals on consoles and key PC components are in short supply during Black Friday (or simply not good enough to warrant covering), there are numerous fantastic discounts on video games, accessories, and monitors to make up for it. We thought it’d be useful to display all of the deals we think are worth your [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
-      "source": "The Verge",
-      "published": "2026-11-27T21:50:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/World-of-Warcraft-Shaman-keyart.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "9ffdefd4c55b070320d70b",
-      "title": "Dubai FinTech Summit 2026: Key deals and announcements shaping the future of finance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYjNTRjlTTEJQTHN3RnZRMldGUVlqRXJrNjA1a0FDRjhEaFBfZW5QMFJsZlZCQzMxdUVTaGUxQWhOUHF3X2lSZjQtWWZfWUlYRDNMQ3hRRDE1cE9yc01hWVpnNmJPQzE4c1Z6WXo0bTNmUUVDaTJrMGhLLVRDbDJhRW5ZYnpHd2k5VUZCYUIxYnJCX0h0Y0pCQ29ReUF4bFZoQ3c2N3laOEdyckx1cGFvQlhVLW9QZw?oc=5",
-      "source": "Fast Company Middle East",
-      "published": "2026-11-27T21:26:34Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "abb9c480143fe945e050bb",
-      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjZWS0RsVkdYQ2VFdGNwWWlDYktzZENUREVWaWc0TEx2TzFBRUw0aHBSaUVtYzlFR3pGSkN2RXFKcWZOR3c5Wnp4blNSN3B1OUR0TWU2dzJiNEJqazVrX1BCU0prZE1ULUVVMnFxMk1idk5CclFhV3dmcEhXLTYwSllOeFlSTlN3VzBydVBHampseWh0UmpNVElGZWptcFR6QkdxVmk1ODh6eERqcm9zNDV1UDJaM1JiLVBv0gHAAUFVX3lxTE5oSGExNEYwT3BoZGZOZVpjc1YtczVYNUxmOHRSM2JRTnEwQ1JqNFBUYkZwOER2cHNaZEZld0N0a0JXUXExdm1sWWxET2FXR3hkeV9HQUoxQ0hCZE9NckxhR3JzUWg1QXQ4X19TX1hzOWl3QkY2VF9jVS1xcjhHRThRaDljVWtCb2YzZmpTREE0U2dlLVQ4bHhyTFBkOHpnbUxYY0pJMWxrNnV0U0hqWnkwcVpjZDJQTmdUQ1ZSTWR2eg?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T21:25:26Z",
-      "category": "World",
-      "topic": "Americas",
-      "country": "",
-      "image": ""
     }
   ],
   "countries": [
