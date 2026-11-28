@@ -1,13 +1,25 @@
 {
-  "last_updated": "2026-11-28T12:40:11.717911Z",
+  "last_updated": "2026-11-28T13:52:06.001572Z",
   "articles": [
+    {
+      "id": "004223549335d90c9687f6",
+      "title": "The Startup Ecosystem Leaders 100: India’s Most Influential Leaders Supporting Innovation & Entrepreneurship – 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMHMySnZ4cDNIaGF2YlpLY2l0MU4yUENhYTZIQXgwaWNkTldTNmw4X2doZWprQnlHeXZBdkRtaV9zcUd4Mk02Qm42WFV3TFVtV3QtS0NWVWcxdnRCTTdSejg2NWVfbGNDN0R2LTBSMWQ4RW56N3NDdU5LenBaUjZueF95M3dMYm5PSl96RFVOcFotR3F4ZE9EOFZYQWNWS1B0YWVsd0RhdVFaanEwdFg2LXhmb3NLSExIemFyQzhKdVdoeHpNYmNiaVRJMF9UTFRocW5iTGJoZEcyOXEzZUR6SVZOYVYxYjloQnc?oc=5",
+      "source": "Indian Startup Times",
+      "published": "2026-11-28T13:39:13Z",
+      "category": "Technology",
+      "topic": "Technology",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "7642d2da0cab337b31a980",
       "title": "Argentina's bid to stop Falklands oil drilling rejected",
       "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
       "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-28T12:36:59Z",
+      "published": "2026-11-28T13:36:36Z",
       "category": "World",
       "topic": "BBC News",
       "country": "",
@@ -15,15 +27,63 @@
     },
     {
       "id": "4a5a0790d467e2db341d0f",
-      "title": "Argentina fails to block UK-led oil drilling off Falkland Islands",
-      "summary": "International tribunal rules there does not appear to be basis for believing Buenos Aires has jurisdiction on islands Argentina’s attempt to block oil drilling off the Falkland Islands has been rejected by an international tribunal. Buenos Aires had called for the international tribunal for the law of the sea (ITLOS) to order a halt to the Sea Lion project, ",
+      "title": "Argentina fails to block oil drilling off Falkland Islands",
+      "summary": "UK government calls on Buenos Aires to end ‘economic pressure’ on islands after international tribunal’s ruling The UK has called on Argentina to stop its economic warfare on the Falkland islands after Buenos Aires failed in a legal attempt to terminate an offshore oil project vital to the future of the British overseas territory. An application by the South",
       "url": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
       "source": "The Guardian",
-      "published": "2026-11-28T12:11:02Z",
+      "published": "2026-11-28T13:22:10Z",
       "category": "World",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/32371dbe4bb863597422e9658bc6f2ab94586f6c/301_0_2043_1635/master/2043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fc380308dd6d23f3228e31f41f793a4"
+    },
+    {
+      "id": "6811ba22810e73a48586a3",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-28T13:02:10Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
+    },
+    {
+      "id": "8f5f6ba9e10c42ce1d11c6",
+      "title": "Here’s how to make that new Black Friday TV look its best",
+      "summary": "It's the season of great deals on TVs. But once you get a new one home and set it up in your living room, it might not meet expectations when you turn it on. Maybe it's overly bright, or things just look… off. Luckily, there are some easy tweaks you can make so that new, [&#8230;]",
+      "url": "https://www.theverge.com/tech/1042700/change-these-tv-settings",
+      "source": "The Verge",
+      "published": "2026-11-28T13:00:00Z",
+      "category": "Technology",
+      "topic": "The Verge",
+      "country": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268335_TCL_X11L_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "7479e0f80cfc2f0eb8fd8b",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T12:49:44Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
+    },
+    {
+      "id": "4056230e974e92ea249b8e",
+      "title": "Xiaomi Launches UMIADS: A New Global Advertising Brand",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX25JY2JtZk43bGNHY191SG9sU1FoODg5WUFtMHN4MWpfSHdlQWdtMDhmbHE5aHVLVW8xaFlDTXJQNEhfYVVCUURodXFYNXE2d0MtVEZKVG94ZXNENHhfSHNXb0dZRkRtVWxVcVg3RjZMVU8teEtIbVZUcmZVNFdjV3p3VG9zQUpUTzBwbA?oc=5",
+      "source": "MarkHub24",
+      "published": "2026-11-28T12:28:43Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
     },
     {
       "id": "b260fb5f327c139c419537",
@@ -62,16 +122,16 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x792+0+0/resize/1200x792!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F39%2Feede82314a65a15e81e0bcdb4094%2Fap26310487621671.jpg"
     },
     {
-      "id": "7479e0f80cfc2f0eb8fd8b",
-      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-28T11:18:37Z",
-      "category": "World",
-      "topic": "BBC News",
+      "id": "6496743a07ccf82e0f2ccd",
+      "title": "Under the influence: how creator marketing upended advertising",
+      "summary": "Brands are piggybacking off the potential sales that targeting millions of ardent followers can bring – but there are risks From the Avon ladies to the former Sex Pistols lead singer John Lydon selling butter , personal endorsement of products is a well-trodden form of marketing with significant gains – and pitfalls. More recently, the practice of teaming up",
+      "url": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media",
+      "source": "The Guardian",
+      "published": "2026-11-28T11:00:37Z",
+      "category": "Brands",
+      "topic": "The Guardian",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
+      "image": "https://i.guim.co.uk/img/media/7c54bda5f28a52373a191c3d1eacfd044d27a070/0_0_3570_2854/master/3570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64c0008cce994b13bdded2be712e7a8d"
     },
     {
       "id": "3b59e02d667b8dba07c6cb",
@@ -80,7 +140,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
       "source": "The Guardian",
       "published": "2026-11-28T10:52:00Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=007a6cbe7b5ee3ef949cc2a619564432"
@@ -116,7 +176,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
       "source": "The Guardian",
       "published": "2026-11-28T10:00:36Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ee497468bef612b3afb2e55f40051ca"
@@ -170,18 +230,6 @@
       "image": ""
     },
     {
-      "id": "6811ba22810e73a48586a3",
-      "title": "Pensions and benefits services still down after 'cyber incident'",
-      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-28T09:10:32Z",
-      "category": "Technology",
-      "topic": "BBC Technology",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
-    },
-    {
       "id": "d47547bb191e78245f6325",
       "title": "US Goods Trade Deficit Widens 10.7% Month-On-Month To $149.5B In October",
       "summary": "",
@@ -224,7 +272,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
       "source": "The Guardian",
       "published": "2026-11-28T08:00:34Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e666c023ca802b8b858e41f60b911c52"
@@ -240,6 +288,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"
+    },
+    {
+      "id": "fcdc92dd9f335b53319c69",
+      "title": "Village plea for replacement Royal Mail postbox hits the rocks (literally)",
+      "summary": "Residents woke up to find their vital box missing, but despite 11 months of lobbying the company now says it cannot replace it Residents of a remote Devon village now have to drive more than a mile to send letters after their attempts to get a new postbox literally hit the rocks. Villagers in North Huish have described a farcical near 11-month battle to chal",
+      "url": "https://www.theguardian.com/business/2026/nov/28/mystery-of-the-missing-mailbox-oyal-mail-postbox-falls-on-stony-ground",
+      "source": "The Guardian",
+      "published": "2026-11-28T07:00:35Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/821af32648b79e7ec462088a5aefe97631b1eb7a/289_0_4335_3468/master/4335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=420f14f75648496b67b4d44924fe4913"
     },
     {
       "id": "00ad9b6999e71f57d3c5ab",
@@ -260,6 +320,18 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWJNQmRFYW41TXBXcXFLakk1Szd1UC00U3FyRTlvTkdaWTl4a2szMzBGYy1sZGpnTnFDNVE5M2RBY3FVbkw5NEE3aXk3Ym9rb2xFc1hIcHNoUl9rLXBGNDB2TFlNTkVfUXM1VlNyam9aN1lDU2g5U2lpTk0zLTNWYl9OejRzYzB1czQ3dlY1SGFOQQ?oc=5",
       "source": "Yeni Safak English",
       "published": "2026-11-28T06:42:11Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "a2335374ea08dcdc7d3aba",
+      "title": "Doctors Without Borders denounces Israeli strike on clinic",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHpBdEhzdHNhSjBDdjFFbU5wZjZZd2Y3Nk1pWmFjcWVFNndpdHBscGNhd2RNRDNUQ0dGdF93dXBmWDFTaGVDRnQxNm95TDdzMmJlLXJwUkVCNUVJeG5BOGlPV0ZJOEMteXpJSndpTFp6YjJwQ2hSZ0F4czR0d0lnVjBRVmpsbWJVdDlfRlJIbDlfZHpTeVFSVFRiQXVqdw?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T06:37:20Z",
       "category": "World",
       "topic": "Middle East",
       "country": "",
@@ -312,6 +384,18 @@
       "topic": "Technology",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "18ec304842d0e34071ae46",
+      "title": "Stunted sprouts: heatwaves and drought take toll on festive vegetable",
+      "summary": "The Christmas staple is smaller this year after a hot, dry summer hit the water-loving – but versatile – brassica They are a key ingredient in many Christmas dinners, but brussels sprouts appearing on diners’ plates this festive season are likely to be smaller than usual, after the hot, dry summer took its toll on the water-loving crop. Sprouts are generally",
+      "url": "https://www.theguardian.com/business/2026/nov/28/sprouts-smaller-than-usual-heatwaves-drought-festive-vegetable",
+      "source": "The Guardian",
+      "published": "2026-11-28T06:00:34Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/60e5c88dc6e8b92522341cef05d9996c4212e6a8/0_309_2142_1714/master/2142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6202ee535e3381c42536b857b404b0e"
     },
     {
       "id": "5cf44bda62d53e2fda65a3",
@@ -368,7 +452,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
       "source": "The Guardian",
       "published": "2026-11-28T05:00:30Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54747db8a6ca91f6cb37f58a5d2b359a"
@@ -384,6 +468,18 @@
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/7b3c245cf23380f751f0177a251f8961f4cecd5a/0_0_2502_2003/master/2502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afa5dbcb980305efc42bbaaf06c95819"
+    },
+    {
+      "id": "0a792c60da7e62150d27fe",
+      "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+      "summary": "Bernard Arnault’s children – described as ‘modern-day French royals’ – are subject of rivalry rumours over who will succeed him They are France’s richest family, leading the world’s biggest luxury goods empire, dressed in matching Dior suits – a clan so powerful they have been described as modern-day French royals. But in recent months, the family dynasty of",
+      "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+      "source": "The Guardian",
+      "published": "2026-11-28T05:00:30Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/c46ffd41bf96b580a798224da7f19715e474c84a/929_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=057d01a99b4bebf13d361e99009f6afd"
     },
     {
       "id": "66bdd498545627daa6f644",
@@ -408,6 +504,18 @@
       "topic": "BBC News",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
+    },
+    {
+      "id": "eb22e792b97de21970b9d2",
+      "title": "META_TITLE_SECTORS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fNmprZVo0cnM2Qi10UVQ0X3BHRDNMQ1pZZ0NjTVYyNWRyZll2ZTVNUUxmWTlybzVhaS1NTTY3aTdqMU5SSUx3RlpodnRMeVBRdDhj?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-28T04:18:43Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
     },
     {
       "id": "1af5809b95ae1df54488ef",
@@ -438,6 +546,18 @@
       "title": "European financial firms plan larger Hong Kong investment, treasury chief says",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS0lCckRacmZ2WFZSSHc2VWg5Qm9fNE5hcGxTYWJxS0RHN1ZOSU14b18xUVVIZU9ESHVTSDR3TG9ITTlvdEdPRVExQmxlR09QZ2pSaHN4UjZpVWFUSkRJdTBBY1hYTkFNaXlZMXdrRGx6dy00N1ZNX1N1c3lPcjRjOTY0ZXdnNF8xWjJtRl9XY2tYLXBwdW0tSUIzSVZ5c2FLWUJSaXBBUnAzYkhLWXFWeGFUV3A2dC1jNWV5V3NfRzY2X0lXb3ZoNHF1cGlRMDRuWnBRSHdlX2FzajVVSlZZMNIB4AFBVV95cUxQRmstcmZzZ0NLRzgtRjlnN212c1FqZ1dwN2g4dU9STW9TMzFWMVJLLUZ4V3MyUFBiTnRMenk4UTJscWYxU0RlaFVXLXRkM0JjU3ljSnlaTXBHMW5lR0lfRndvdXEwekdER0EzM2V6b20xYTdCdU9NLVdVZTduSDdnNUFPQkVWLWZvWXlwYUxUazNUbmdkeHFuVEkyQ2UwNzNqQl9MeFoxOHFGWm5vN214akJhcklUWGxUeHQzY3hPUHFnYVQ1cHluRzhld054cFFvdks0LWl3Q3RRUFpOalpBZg?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-28T04:08:11Z",
+      "category": "World",
+      "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4025fe5d9ee09ac267b8a3",
+      "title": "European financial firms plan larger Hong Kong investment, treasury chief says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRmstcmZzZ0NLRzgtRjlnN212c1FqZ1dwN2g4dU9STW9TMzFWMVJLLUZ4V3MyUFBiTnRMenk4UTJscWYxU0RlaFVXLXRkM0JjU3ljSnlaTXBHMW5lR0lfRndvdXEwekdER0EzM2V6b20xYTdCdU9NLVdVZTduSDdnNUFPQkVWLWZvWXlwYUxUazNUbmdkeHFuVEkyQ2UwNzNqQl9MeFoxOHFGWm5vN214akJhcklUWGxUeHQzY3hPUHFnYVQ1cHluRzhld054cFFvdks0LWl3Q3RRUFpOalpBZtIB4AFBVV95cUxQRmstcmZzZ0NLRzgtRjlnN212c1FqZ1dwN2g4dU9STW9TMzFWMVJLLUZ4V3MyUFBiTnRMenk4UTJscWYxU0RlaFVXLXRkM0JjU3ljSnlaTXBHMW5lR0lfRndvdXEwekdER0EzM2V6b20xYTdCdU9NLVdVZTduSDdnNUFPQkVWLWZvWXlwYUxUazNUbmdkeHFuVEkyQ2UwNzNqQl9MeFoxOHFGWm5vN214akJhcklUWGxUeHQzY3hPUHFnYVQ1cHluRzhld054cFFvdks0LWl3Q3RRUFpOalpBZg?oc=5",
       "source": "South China Morning Post",
       "published": "2026-11-28T04:08:11Z",
       "category": "World",
@@ -788,7 +908,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
       "source": "The Guardian",
       "published": "2026-11-27T23:28:50Z",
-      "category": "Technology",
+      "category": "Brands",
       "topic": "The Guardian",
       "country": "",
       "image": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fc5f0fb7a76240240e87e00f0870fdc"
@@ -912,6 +1032,18 @@
       "topic": "Asia Pacific",
       "country": "",
       "image": ""
+    },
+    {
+      "id": "46df0b87fdb81010fac5e6",
+      "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
+      "summary": "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class We are at a pivotal moment in history. Never before in human history have so few people held so much wealth and so much power. And never before have we seen such an unprecedented level of greed, arrogance and irresponsibi",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+      "source": "The Guardian",
+      "published": "2026-11-27T22:10:08Z",
+      "category": "Brands",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/ebf5a271f7a37c05df6ac1f3eb3bf728d51e5332/153_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=179563fc63cbf166961dce3abfa353f5"
     },
     {
       "id": "65e067513a05324abc8865",
@@ -1306,138 +1438,6 @@
       "published": "2026-11-27T17:29:05Z",
       "category": "World",
       "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "db367a35fb282de990d79d",
-      "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
-      "summary": "Greenpeace publishes report showing tech firm is continuing to build despite planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm’s requests to modify the original terms of the planning permission did not have approval. “Inspectors visited",
-      "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
-      "source": "The Guardian",
-      "published": "2026-11-27T17:21:18Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/53fa79a19abbefe201798e60613aa1864cc000e7/0_0_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0012475d899848481a2293442a0a93a0"
-    },
-    {
-      "id": "60bd6b1a9655a23182e6dc",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T17:19:31Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
-      "id": "70dcf5391175cc6eb422ef",
-      "title": "Africa urged to prioritise investment in human capital, digital security",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMENrMDJ0R2sxdHdFUzJmUmpUQXdKbEkxZ05nZjJHVWJMaUtFMm9XMllNcGZ4SnZKN3ByMjRSclVjdi03VjBZZVF1THh0ZGFwTkpDbzc5WnA4Q3hJSzRMeWFZc202Tm9Uek16cnRyYzZIV0Q0NEZoU2JPTlZjMnBRb2RwVGt4ZGtBNDZqODd1LVdWRTRhcGtHYkY3X2RQNzV1aUZhZ1Qxb0lhblkybTNmYTNOajBLOHI0OHdCQ2twQXItZkYyZlpEVC1QVm5GamYwc2s0N21EVFRZcVcwY0JF?oc=5",
-      "source": "https://ippmedia.co.tz/",
-      "published": "2026-11-27T17:07:29Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5e6be9186956e41e3efd2c",
-      "title": "Dell delivers record results, but Wall Street sees a catch",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2hNM3ZpSi1sTUlvYkNJQjFkVnhtUW1OMXhsM1dYVjk5TExxQXRRbE5UbTNRQ19DWF85cHFRSXhVLUhqR0N2R0E0amF5SHFEQzhGdDNHVElRRURDQ0l1aEt1RnlIVVp1allEUmZnLXU0bkNUY1FnRGw1S1NKMGkyQUVFaURhUEFaazlzQnFQY2ZPa3prWF9Xb3hlaGRyRWM?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-27T17:03:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "5ef4be14e1a178dfd7a60b",
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T16:53:46Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
-    },
-    {
-      "id": "59cfc73998e26e3fd67a71",
-      "title": "SpaceX boosted revenue but isn't profitable, first-ever earnings report shows",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGl3bVhNVVpvSnhTTzFheWFsSkJqWkJsVEgtMUlBZjBJWkk2X19OS2JEY0tKdDFfMjRpUS14cDhCTG5nQVlIc09UMXlneXNka2tKcGUxbmxBdU90b3Nsc2ZmdExmbjN1aTFnYkVDMy1lOTFmWk9iQ1VnaGZCYXp0ajNPX0FjWGhoWkhhVmNGcTY0NmtUXzZEVzVyTkQ3UzjSAaQBQVVfeXFMTUI4dXF2UzNpRThfT00wMW04Vm5IZFlLeUlMdlU2WUtnWWllSG5neTM3SnhTRVFLSGttOW9pQ1NmSm1VRVpXNzlFLW5XSE9ySEl3alBUZGxQTzNPUldHY0hNczJ4Z2JfbnAwVV9EdzVnYlNBLVhQNHU3ako2WmowWTZDUUQ4VFM4OUh3V2lqdlRUcHRlX0h5bThPUGhzdlA5d0NGMmY?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-27T16:47:05Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "0ca342094027a1ded25d5e",
-      "title": "31-year-old considered one of the world’s ‘most educated people’ with 13 degrees from top universities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3hnLTRtelpOUGMyWGoyeXM5T0tSb2UxcDFoRlcxMnNRZUdQaVNDYVVCVm5hSmhrTDVqRUNEaWI4NUgwcW5sWE8weHdjaVNSZTkzQ1VQU19BVWU1R09faGFKVTItRzhjbVVWZ3FlMUhrX256TUd3eWNpem5IVGV3U3h1bVBZcmZuWjBNdlBkU2JVUlloMXNfV0hyamtPREh6U2cwQmhtcTZTb2xDbGMtdjdaUFNLT01sZHRLdHFnbFo2a0ZWY2wxLXNKQjNwSGFNd1dR0gHTAUFVX3lxTE1neGctNG16Wk5QYzJYajJ5czlPS1JvZTFwMWhGVzEyc1FlR1BpU0NhVUJWbmFKaGtMNWpFQ0RpYjg1SDBxbmxYTzB4d2NpU1JlOTNDVVBTX0FVZTVHT19oYUpVMi1HOGNtVVZncWUxSGtfbnpNR3d5Y2l6bkhUZXdTeHVtUFlyZm5aME12UGRTYlVSWWgxc19XSHJqa09ESHpTZzBCaG1xNlNvbENsYy12N1pQU0tPTWxkdEt0cWdsWjZrRlZjbDEtc0pCM3BIYU13V1E?oc=5",
-      "source": "WWNY",
-      "published": "2026-11-27T16:36:00Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "1768238a5c2ccfa9ca3a64",
-      "title": "Salesforce, Snowflake Earnings: 7 Reports in 4 Days",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU19XOGo0akFHNEdqeEpldF9VMjN6cFUxNkVnaTdhbjRBODVsU2xhSkZYbzVjM0hFdkQ2WU1jd0VCLUFTemNDRnNoZThaX2ZxQVNaT1l4d1o5dHp6Y0h2LW4wTk1iVzdWWGpaUWUwaGJLRTJYamxvLUVPNFFRdW9HNW5ZOThRWTJua0plRg?oc=5",
-      "source": "shattered.io",
-      "published": "2026-11-27T16:35:05Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ce0c9325ee8cb3e96470cc",
-      "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
-      "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely watched decision that exposes the tensions between minority",
-      "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
-      "source": "The Guardian",
-      "published": "2026-11-27T16:13:07Z",
-      "category": "World",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/ad8c8bb232c8d2eaa7194673e8f1d7308e2a80cb/355_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7294bccc9abc19d7cf25229852775a10"
-    },
-    {
-      "id": "1e6098d03e475c096b6a80",
-      "title": "Federal government supports Manitoba businesses in building resilience amid trade pressures and U.S. tariffs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYlJOWmN3ZXZZSWp3VVV3ZFF2RXFsNkVqSnlaaE1ER0JBblhlUkI3YklMOGtlVl9RYUZHVkNYNHc5YWdKd3VTaFpGNGwzTEhEalVFLUJubE8wZmxtY0tFYWtKNkdrQXBLcGxHRl92Q0x3R0ZHUVU4cXJkY3BOLVdWQW9hU2dmYnZhY0ZmalQ2N3B3NF9iVk1tVERnM1lJTlBEWUR2NDB1NVk1b0dpWWwxVU95cy1pdWhFbFlzb2RhNGF5a2NEN0Zka19PRndEaWNVZEd6bjRDZEpXb3F6WHliaTBxb21QN21hYTRPS0o3LUZGMzFIZXFLbEJnNkx3SkZuRWFPLXlaQjQ4TEU?oc=5",
-      "source": "Canada.ca",
-      "published": "2026-11-27T16:02:28Z",
-      "category": "World",
-      "topic": "World affairs",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "760498b4c5843c22251640",
-      "title": "IndiaAI Mission-supported Chariot-1 Foundation Models Launched to Boost Indigenous AI Capabilities",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3E2TVFpbmptV1h5S284VXN6VHFpdnBRaEdDemItREg3cjE4TU9yd1FEdXUxR3A1MnZCbUFjY2JkT1pnamZjUGpyMjh4aHg2dGRqRE9ZcnlBR2VTUWRiODJnWWVfMkY0ak1OS1h3S3V5djBDaXlsbHhyRm9CRm53ejg2RGFsRTlteTlYcDBfQV9lY3UzU0NaXzNHRjBqajlLXzh1Q1JvSVBwRVQ2Mzk0ZWtQcGRXSUJ2T3dUX0dSQ0V0OFFNX1BUVw?oc=5",
-      "source": "DD India",
-      "published": "2026-11-27T16:02:18Z",
-      "category": "Technology",
-      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 22
+  "source_count": 21
 }
