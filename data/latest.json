@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-28T09:54:32.261210Z",
+  "last_updated": "2026-11-28T10:53:25.827331Z",
   "articles": [
+    {
+      "id": "f3d70f2740f257b6e4805b",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T10:34:58Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+    },
+    {
+      "id": "7479e0f80cfc2f0eb8fd8b",
+      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T10:14:37Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2da/live/46909920-eb18-11f1-90b9-a9d17de9c0bd.jpg"
+    },
+    {
+      "id": "da5a3256536035ec321ab6",
+      "title": "Record inflation, gas prices major travel concerns for Americans: Survey",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVRQcUcyOVhFMUVZbGlkd3pKYzRNNWdmc1dpcF92OVF5QTVZVUJqSW44T09IdEdpQzB0NmFMV2NmTE1QQjlwTE5WdzFGdkdXelRNNXRVTlJ0VXNDdEZFejRFS19mejhLMS1EUjdHQ1RMajNEdTUtekFhVFVDbjFCcGxIYllCdjFtQVpqSG0xTnFfYlhDVVN2MktuYklVdzhVZE9MYlBzQ3pxYmp1VjZabQ?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T09:48:14Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "c4ecee06211307f9386f9a",
+      "title": "Weekly expansion recap: Retail and consumer companies expand across stores, distribution and new markets",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU1draUVQVndHTUswaFFNT2NJQUI5T05xdjJYTnJCRV9WSjhPTFN6NGJ2cDM3X3J0UXU3ajFVa2lweEtGamVXUkhzdGZ5bkpvWTJSOUlDNTBYaW5Zcm51clpCcW1zQm9Gd0xLREtnWFhqWGk0TFp0dlRKNmJCRlZ5cW1QcmNsZXBvTEtHUk1MRFpCRkJEaWw5WmFWai16ZW94bnFZZEhNRDlMLWpMZEJVQXpVRGRCNjJ6UUpzcHZidnFjeEx1aVBZb3NjR1FyNTlYSENudEhrTTVaQVRoZDRudnZ1UG8xRnlMUUpxRmZvRzNwQUNKd3RMZzlRT0swUmPSAYQCQVVfeXFMUFJyLWsteHRiNlkyb25HZ295cmItNWsyTWQ2WkdvNkFNOERKUlZJZjVQWjlWMnlmYUpRdVVLU2NpMkRhc21WTklQMGUyUW8tRFIxOERvdXQ4MXozZXJ0ZmdJSlJLb0FldDd3MndzbmpRa3FCcFM3Y0lBZ2lrTk0zcThOaEhvVzBlc3R4LXBJZ1JFZG84ZmZMU3Zpc0xpUmFaWW1xa19yWGk5aGN4TjdDSFhMNWlHTHQxTFVOdVFmYm83akZrXzJDYTlJWFIyU2JJSU5leWtudTdHQ0RCS3NlS0FkcllWTFRTTmhCMm5vckJqREI1djJpa2taQ1FIdU1DTXBGMEc?oc=5",
+      "source": "ET Retail",
+      "published": "2026-11-28T09:39:39Z",
+      "category": "Brands",
+      "topic": "Brands & business",
+      "country": "",
+      "image": ""
+    },
     {
       "id": "6811ba22810e73a48586a3",
       "title": "Pensions and benefits services still down after 'cyber incident'",
@@ -12,6 +60,30 @@
       "topic": "BBC Technology",
       "country": "",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
+    },
+    {
+      "id": "d47547bb191e78245f6325",
+      "title": "US Goods Trade Deficit Widens 10.7% Month-On-Month To $149.5B In October",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2ZwWnF4RFdmVHdjdmpuMVB6bC1wbV9hQllxZ0FnZ3JFNVE4b21jbkRlamE2SWlsODROQURGLWYtYy00alR0QTlnRGlwZVZpVV82cnM3X1lOUUxwMzJ3THNjWi1CbkZSeGhkOFVYUVFJbEhVeFh1SzJKd25zNXRuckM1dVBVdTBGVHpQcHEzUW9Pbkl5Vjh4T3hYSHIwb0x5T1BFMHJ6d0RyRC1tWDlmZ1picVk4N2Nr?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-28T08:57:09Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "cdcf4600a7bb66d488ba50",
+      "title": "“Beyond Arms Exports to Production and Technology Cooperation”: South Korea’s Defense Industry Expands Its Middle East Push, Accelerating a Shift in Global Defense Competition",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vaVpyc3g4OWM0aTJaby16Nmd0eUNhS0xrWDc1UUJfdnUzN2dMdzZtcWt0RWw3UUJBbGl0TWVLNkctUTl5S0l2VmJPMXhxRXk3dldSVGRXTQ?oc=5",
+      "source": "https://economy.ac/",
+      "published": "2026-11-28T08:27:09Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
     },
     {
       "id": "848699850941362fefc9dc",
@@ -106,6 +178,18 @@
       "published": "2026-11-28T06:27:33Z",
       "category": "World",
       "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "17fa446caffedf00862981",
+      "title": "STPI Opens 75th Centre in Bareilly to Expand India’s IT and Startup Ecosystem",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOTFqRzlGX29ObFdRQ2pGUmdfSzQ2bkZLclVkM3QtLTlOUVFoY1NkMWhMZTI0OG91ajVyZmVmT1g0TjdtTlpJejRuR1A4SmtSRmpZTDBxa243ZE5sWS1qS0JZZGNPZUgtR29xRTlFbmxrT2N1X3UwQjN5c2NXSG8tYVBIMnlGS0ZxRkxHaXVQenN1UW82NEVyNktocVJMN29TcG1DUlFXNA?oc=5",
+      "source": "Bold News",
+      "published": "2026-11-28T06:21:06Z",
+      "category": "Technology",
+      "topic": "Technology",
       "country": "",
       "image": ""
     },
@@ -206,6 +290,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
     },
     {
+      "id": "1af5809b95ae1df54488ef",
+      "title": "Earnings Beat Might Change The Case For Investing In Marathon Petroleum Stock (MPC)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTG04YmF2OTZ4VmVvZVotRmE4b0dxSlMzVXZfdEU0TXdPSjFrMkdzNzdfNm5uQ1hMLWFFdDktVVNSQ3N2bU5YbElMb0hNT2FUREw1YXktekpESjZKS2dlTGl0WmJySVlabVVfMVBuRHhJVWFfLTJWZ0tBa2c0N1BZdmFRejY0U24wemkwQmlIQWhkZ0ZVbko3VktHZ1kxQXVPS25obTY2X0JrSTlJOUY2MDZYVTRSVUlzWU82aWs1dVFNaF90OXhQVW94amzSAdIBQVVfeXFMT1B1RHlzMjYwNzN5MC13Mk1qdVNpYUNhaGxNS19PVGlpRGdTR0syN2FOZndoYm4tM0VfOHA3QTV0b0NDZ0RvUUctRGRNdVBmb3lGMUVfZkJqYkpiZk80LXktN0d1OFAyOGVlOWFTWmJSMDFVeFFINXV3NkdzeTZDeUZXM1NmdnFHWDhiQTBJZUw1MEZtMGdIdGxPMlRRQmJES1FKUVF4Nm1KY2VONGZHWXBPTmV5b21Zc01KRnhJNFgxR1hKbVRIanduQkV3eVBoMzZR?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-28T04:13:59Z",
+      "category": "Finance",
+      "topic": "Global finance",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "58b7ceb1a51005c1e80848",
       "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
       "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
@@ -226,6 +322,18 @@
       "published": "2026-11-28T04:08:11Z",
       "category": "World",
       "topic": "Europe",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "562cca8c8cbc0458b21b28",
+      "title": "Anthropic Denies Training Claude to Sabotage Users’ Work",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVVrZjVETkxxZmtrc3kyRnl1azF0MTlQQXpHOW9WY0JxRFJTR29TNVQ1NjJ6ZWV4dEhWZkdTQ1hOZG5RX2g0NzhKbkRVNDdPMnpiVGp3MV9TbGxqNW9TbTZfU3RVME9DYlVjbFZlYjM1VkFEVm82bnIxSi1uUEg4LUp5TQ?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-28T03:57:06Z",
+      "category": "Technology",
+      "topic": "Artificial intelligence",
       "country": "",
       "image": ""
     },
@@ -600,6 +708,18 @@
       "topic": "NPR",
       "country": "",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+    },
+    {
+      "id": "2f6d260a72322c6cc7864b",
+      "title": "Abdelatty: Egypt to Establish Investment Entity to Boost African Investments",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalBaTnY2VzY0QkRsYmh2VUFCU2xvUGZyYURhdWxKcm1faW9UY2RDZlR4azVnUjhKQjRvQTlveU4xNlJtRURoWkg3VzQ5VzI1TFZSdERVTlhrMVN2UU1qZXdOd0NzMUJHZnJSdTZfNWhvSmNZSmc3NmszUmQ1ZU4xR29oUE90UHA5MHc4OXZIbnhpV2FBWGo4aURfTG9SMkRLTjlYWURuV240MDRVbDdR?oc=5",
+      "source": "DNE Africa",
+      "published": "2026-11-27T22:45:00Z",
+      "category": "World",
+      "topic": "Africa",
+      "country": "",
+      "image": ""
     },
     {
       "id": "796158dfffdeebe3449b05",
@@ -1318,126 +1438,6 @@
       "published": "2026-11-27T15:10:00Z",
       "category": "Finance",
       "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "695544e93964c3a7a24cfd",
-      "title": "AI. Autonomous. Agile. Atmanirbhar. India’s business landscape is being shaped by visionary leaders who are driving innovation, embracing new-age technologies and building enterprises with the ambition to create a global",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUlpIbXVpQlV5bmttX0VjbmFZaWM5WkNkdFJqX2sxaEFVRGt6NWRSSVNTeDdjWE9ib2FyUVR5N1A4bXNYeUdiRUVWZU9xNzIyYWUzWHN6cDh1X1FlMGNoSnBPX1AzNURPT0pKeVlkdzVoUjNiZTRjTkZwVUdld2k1V1hOV1dTU3kwQUlUOTJLNDA0OTRBQzFhdV9adl9SYmhPODVZdl9maGZBdFFGaHhjRHJUWC1fbjhEc2lld1hKVEpOd3FzNjhTZ3V3bXlEN3NuMndTdVJSNWZvQnNzRFZjcWtB?oc=5",
-      "source": "Facebook",
-      "published": "2026-11-27T14:57:41Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "60c0a46596fd63bceaf1d8",
-      "title": "Türkiye-Russia mutual direct investments reach approximately $10B",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN29qdE1WMnJOLTExR0tXQ1Q1QnJHRDJjNGEtVHluMkVpUWFLMlhhYXdoTWlnMms1WllBWGxMbzJRcVRQeEZYQjZCby1hbmxBUUhBNm9QRUV5WG9vVlh0N2VuRUZNMG9ieVFfQ0Q1b0hFekNnUDQyNXNiS1p4d1hBMHJuckpxSmlkcG5OTUxvLXRmQ1NMQ1Q4dTZIamFaaEhHQlNFcmZGbko?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-11-27T14:52:29Z",
-      "category": "World",
-      "topic": "Middle East",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "a2aee26315fa8c166bb3a3",
-      "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
-      "summary": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US air force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported on Friday that the intrusion into the USAF’s Cloud One platform ",
-      "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
-      "source": "The Guardian",
-      "published": "2026-11-27T14:50:15Z",
-      "category": "Technology",
-      "topic": "The Guardian",
-      "country": "",
-      "image": "https://i.guim.co.uk/img/media/b78bd09c92d89960e79cab8a33338868663794eb/171_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0540f9b74f59c65d1f65a63e5e9ef2f6"
-    },
-    {
-      "id": "a38c1440c2b10cd04c7261",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-27T14:49:59Z",
-      "category": "World",
-      "topic": "BBC News",
-      "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "c7a45e747abe44a6d801db",
-      "title": "Black Friday: Europe's gloomiest shoppers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmhteGM5TzQzX2JUUkhIOXkzVXpvMWZNby1FblZMZFpSS2FuZlBYV1BxeEptS3MtbkxUUGxSZGxlb3RKV0ZHVFZ6dk1HYVhOa1Q4Zk93cTdvSVFFZktZNFBlUmZrUzNIbi1hWWI0aWUwaFVRemNaTzRCY19EN0JrV3RKQ3NzQ3R4SUlTZjlLMlNLdS12Vnc?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-27T14:38:42Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "9ca572dd04f874f061122d",
-      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
-      "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But thankfully, Black Friday can offer a tiny [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
-      "source": "The Verge",
-      "published": "2026-11-27T14:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Apple_MacBook_Neo_competition_Lenovo_Acer_Asus_ADiBenedetto_0020.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "539042e920d63e02136a9c",
-      "title": "Jamieson Wellness Inc. Announces Closing of Acquisition by Kirin Holdings Company, Limited",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0ZORTROWHotOVNqNU9HRU1XRHoyZ0Yxc080Y3JQZ3FJRnpYTzI0OG1TNXZYSElrYXlDTnZNem50c3o5YjkyZ0otSFlPS2pnTDlvYXhwcnJEWWxNQ1VIaE5rM1E0cG0xY1ZsaEpTa19nTkZ5aDU5bWdKMVl6N1lZVVg0U1AwYzd3MDBXemJIOU9xQW03cXVTbDBFSWtHSFd2N0NtbzZNelhVUWxVdzBIN0hWSm1SSFBZbDEtTFRFQnRvRkZkTlhiQkYxZnVxOTB3VVdBaXdrZkRxSngxc0UzSHpVcw?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-27T14:27:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "ae818fefcba398e102f09d",
-      "title": "Jamieson Wellness Inc. Announces Closing of Acquisition by Kirin Holdings Company, Limited",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0c2X0dRT1FUeTA4ZF9xNTV2Zi1MeXVlTXdYN19HcnlTd2NUMXJmT2N0emdXQ20xQVZXRjJxT3B0MnZJbDRULXR5aF8zeE83d0hLWHdkd0VjSDgyMmpVS1U2NXEyYVFsdW9ydlR0OXcyazA4Y3RYWGxoRkNHWXNueEQ1SGg2NGstTjVIZmZzU0RiYkdQeDVxVk5ob3g2Z0NZLXFrYXpCQ0pmWVZ5RFdnQnZNdWlha0Q0dlFSWXBPX0QzaUZPMHAwSE5PY1NHZXJpU0xxMHkzZzM?oc=5",
-      "source": "PR Newswire Canada",
-      "published": "2026-11-27T14:27:00Z",
-      "category": "Brands",
-      "topic": "Brands & business",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "f84435db99b8af5c2068d9",
-      "title": "Software giant SAP weighs major job cuts as AI transforms sector, sources say",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXlTRnczX1kzVVFWNmpBWWZscmx0cGVUUGNOMFctTUV5WmJVa1NrQ3N1NmFURDhfNUVEUXJiU09lc1NPV1UyUms1ZUdpMFMwZHdnaHcxcjJHdjBuQWRpZ2dwZ3ZVUUxBTU1fMHpLYl9pSExQOTVURGpSZ3JLazhwSVpWUkdJeGVsaElsZTNPVUY3N0JoUlVfcm5qbEhoQ2JYQ3lpWXBJU2g?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-27T14:26:30Z",
-      "category": "Technology",
-      "topic": "Technology",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "afc3403327ad9f038dbd7d",
-      "title": "Plus Ultra to Lay Off Entire Workforce Amid Financial Crisis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmVsZUkyVXlEd2NxZGV5cFNhblJIUzNzTHBDWjlmX1l5NXVfRUg0NVhaNE95N294UmVweUxPbW5SVXA1TjJpWU13Q0tTOVh4ZHNvRkxJakgxeFRoeWFzNVU3QkRVVzVnYmQ3LVkxNGo4WG84b3Z3eEl5T283WmFZNFZmX0JvWVhhUm0tb2lCLXE4OXdzYTVma3djRVNyaGs?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-11-27T14:25:45Z",
-      "category": "Finance",
-      "topic": "Global finance",
       "country": "",
       "image": ""
     }
@@ -6601,5 +6601,5 @@
       "source": "World Bank"
     }
   ],
-  "source_count": 10
+  "source_count": 22
 }
