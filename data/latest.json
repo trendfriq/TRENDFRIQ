@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-11-28T10:53:25.827331Z",
+  "last_updated": "2026-11-28T11:50:25.803278Z",
   "articles": [
+    {
+      "id": "3953d8b93f75f4995324d0",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-28T11:35:34Z",
+      "category": "Technology",
+      "topic": "BBC Technology",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg"
+    },
+    {
+      "id": "12ccd3f99b5cd0b9b9899e",
+      "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+      "summary": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+      "source": "NPR",
+      "published": "2026-11-28T11:32:37Z",
+      "category": "World",
+      "topic": "NPR",
+      "country": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x792+0+0/resize/1200x792!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F39%2Feede82314a65a15e81e0bcdb4094%2Fap26310487621671.jpg"
+    },
+    {
+      "id": "7479e0f80cfc2f0eb8fd8b",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-28T11:18:37Z",
+      "category": "World",
+      "topic": "BBC News",
+      "country": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
+    },
+    {
+      "id": "3b59e02d667b8dba07c6cb",
+      "title": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
+      "summary": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was “probably an attack”, the UK’s former chief technology officer has said. The Department for Work and Pensions took down several systems that appeared ",
+      "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+      "source": "The Guardian",
+      "published": "2026-11-28T10:52:00Z",
+      "category": "Technology",
+      "topic": "The Guardian",
+      "country": "",
+      "image": "https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=007a6cbe7b5ee3ef949cc2a619564432"
+    },
     {
       "id": "f3d70f2740f257b6e4805b",
       "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
@@ -14,16 +62,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
     },
     {
-      "id": "7479e0f80cfc2f0eb8fd8b",
-      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-28T10:14:37Z",
-      "category": "World",
-      "topic": "BBC News",
+      "id": "0c1f8a31e59cc9f7f02450",
+      "title": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
+      "summary": "Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her A woman with terminal cancer has been left “traumatised and violated” after being falsely accused of shoplifting and banned from Sainsbury’s by staff using facial recognition technology. Monia Indge, 58, was shopping with her husband i",
+      "url": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
+      "source": "The Guardian",
+      "published": "2026-11-28T10:00:36Z",
+      "category": "Technology",
+      "topic": "The Guardian",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2da/live/46909920-eb18-11f1-90b9-a9d17de9c0bd.jpg"
+      "image": "https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ee497468bef612b3afb2e55f40051ca"
     },
     {
       "id": "da5a3256536035ec321ab6",
@@ -32,6 +80,18 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVRQcUcyOVhFMUVZbGlkd3pKYzRNNWdmc1dpcF92OVF5QTVZVUJqSW44T09IdEdpQzB0NmFMV2NmTE1QQjlwTE5WdzFGdkdXelRNNXRVTlJ0VXNDdEZFejRFS19mejhLMS1EUjdHQ1RMajNEdTUtekFhVFVDbjFCcGxIYllCdjFtQVpqSG0xTnFfYlhDVVN2MktuYklVdzhVZE9MYlBzQ3pxYmp1VjZabQ?oc=5",
       "source": "Yeni Safak English",
       "published": "2026-11-28T09:48:14Z",
+      "category": "World",
+      "topic": "Middle East",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "4b4b28a8af8bdf77fb9154",
+      "title": "Palestine slams international silence to Israeli violations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmF2OFJkb3lqWEllbXhTOHVOQUNUZzRQYWNjR3BoQktEOGpfMzBCQ2hnbVNoclpzczRqd3FCd2hoaWNyOURfU3FfdmVEYjNvb3B0TGNpTmhzWnhvR2U1MFc2UVpXaEhXVnc0ODR0Vk5pSW9kb0drb0pKMFR1eExLVS1VN3lic3p5M2M0YzFyUUNDSWdsTzRibl9qVm53UXc?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-11-28T09:48:09Z",
       "category": "World",
       "topic": "Middle East",
       "country": "",
@@ -110,18 +170,6 @@
       "image": "https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e666c023ca802b8b858e41f60b911c52"
     },
     {
-      "id": "86796f234e992695ee1faf",
-      "title": "Thai Listed Firms’ Nine-Month Profit Tops 1.18 Trillion Baht as Top Corporates Scale CSR",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVlUxcXN3STFnTDk0SjdhMUdEeU1HSlg5cXhPZjRXVVJZUV9KbGlPelFKcWtPMHpVclA0SkxWS1djOUdiZVFfRUVnWnZsY0d3THVQcDRLZDNMZk1vMUhDRlA0bzFHbVpsT2c?oc=5",
-      "source": "Nation Thailand",
-      "published": "2026-11-28T07:43:45Z",
-      "category": "Finance",
-      "topic": "Corporate results",
-      "country": "",
-      "image": ""
-    },
-    {
       "id": "43587a9eefb341081d3751",
       "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
       "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
@@ -166,6 +214,18 @@
       "published": "2026-11-28T06:36:24Z",
       "category": "World",
       "topic": "Asia Pacific",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "86796f234e992695ee1faf",
+      "title": "Thai Listed Firms’ Nine-Month Profit Tops 1.18 Trillion Baht as Top Corporates Scale CSR",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVlUxcXN3STFnTDk0SjdhMUdEeU1HSlg5cXhPZjRXVVJZUV9KbGlPelFKcWtPMHpVclA0SkxWS1djOUdiZVFfRUVnWnZsY0d3THVQcDRLZDNMZk1vMUhDRlA0bzFHbVpsT2c?oc=5",
+      "source": "Nation Thailand",
+      "published": "2026-11-28T06:31:00Z",
+      "category": "Finance",
+      "topic": "Corporate results",
       "country": "",
       "image": ""
     },
@@ -431,7 +491,7 @@
       "category": "Technology",
       "topic": "BBC Technology",
       "country": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da6/live/634898f0-ea88-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "id": "33135c6cd7f3e3d9fe8306",
@@ -1010,6 +1070,18 @@
       "image": ""
     },
     {
+      "id": "614c2ea9645d3d9ae1b0ed",
+      "title": "Nirmala Sitharaman to hold high-level meetings with Singapore leadership, global investors",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0xUNEF2dXJrdk9lYjVpV3o0Q010dkJJYlZSRFEzNllPS2JRbUg3RzFWeTV2QXJjaUlId1FXRjVfNmJIZmppVU1XNXBKQUE0cWFMWUpuT3NXVXRmU2NMNmhJMDhZenpvV1NFTlZFbDNxVjZReTd1WEc0MU5iVEI3aVhkYzV6MVJfYThRV3YtZVFMT0tkUURUMWlITEhZcUtmWERNWFg1T1cxdHBxbl96MmI5SWY2Zw?oc=5",
+      "source": "DD News",
+      "published": "2026-11-27T18:47:18Z",
+      "category": "World",
+      "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
       "id": "1eab93bf7e54c93e2ea577",
       "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
       "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
@@ -1114,6 +1186,18 @@
       "published": "2026-11-27T17:48:31Z",
       "category": "World",
       "topic": "World affairs",
+      "country": "",
+      "image": ""
+    },
+    {
+      "id": "d27fc3573f17f488ad199a",
+      "title": "HSBC Makes Bullish 2027 Call as Tech Stocks Struggle",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSkdBZWRsV251ZUtYX0o1M1M0bVJPNEdEU2hpZmRKYnJJM0hEakZ4bGZtQWRIdnhIYlMyNGFzTU5EZUh4UjdyLThzaDBmVEU3UVBuZlV1VUZuTl9WUUE3WXd1WFRxTlJ3LVZ2SERqYmtKT0xSLUotbmFETXFuOTR3OE53cWJldk9tWEFGeERwWmxTaGxpSnZtX0JFMWpVaWo3MTNYeU9USjNmOEN4bjFUMmNR?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-27T17:37:44Z",
+      "category": "Finance",
+      "topic": "Global finance",
       "country": "",
       "image": ""
     },
@@ -1354,90 +1438,6 @@
       "published": "2026-11-27T15:43:05Z",
       "category": "World",
       "topic": "Americas",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2f5ed92ef175244c63ad38",
-      "title": "CBOE Bets on Prediction Markets to Broaden Its Retail Footprint",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQank3aXFPOF9Cc0EtalNrYXZjcDdUeXc2X1RWcjBaVmt3Q21FTWk1aVJsMlZzTDc2RzBpVE5wN1p6NTgxcDNjMVlGYjl5VGgwNFVpTlFsUWw4YS0tcE41RTZSdFZKT2tYdy1jdWRRRGRlVUVFRm5Ia1hvbW9wOTZGQkxBNzd2RlBqM3pvcW95UExUWmJzb2dhelNub3VVQ2RSb3Q5UA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-27T15:41:00Z",
-      "category": "Finance",
-      "topic": "Global finance",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "2e14a212641eebb26b288e",
-      "title": "EU's Moscovici flags risk to Italy's structural deficit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejFCRTg1MmhNc09xVVdQamFtMUk4NTJUbFpTaV9SN2xlRnA2bmE4MlotZjQtVWwwcGpzN0RncmhLWEZRdTdwVmk4cExOQ0hBQ0oyVS1wM3pOMGExNXVMSzBYakVtdzlMdHR1NzlOZlRNdGFJNzRaV3dhSUtIRjhqMWtBY2JhUS02X2J6V2VqaHZMbE9idzFV?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-11-27T15:40:03Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "79d1139b8859768538cbe5",
-      "title": "Mahama announces US$10 billion new economy investment programme at German-African Business Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSVgtS0ZBdS1qRXlMME9aQ0lzdHY4OVVsaFQwZEpGUGt3TWJlVHpoYzViWnJPTS1SY2kxREdzNnBaYmxacjlxTlR1WmNCMHRXQmw2cmZVSThjeXlmbU5MT3M0dEp0MDc3ZzdVdXBVcGdBX1hyelpzOUpsMW94c0JnNnpQMndiRWlFeW1XSUswZGtpU05sQllRcldQQjNBLTRGYkEzZHg5WGxRcGUtcTV3UUZkNFBCbmZMM3c5ZVFRV2hGMU5BR0o2Szg1b2h6Vktp?oc=5",
-      "source": "Tech Review Africa",
-      "published": "2026-11-27T15:36:54Z",
-      "category": "World",
-      "topic": "Africa",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "08a3c52229b003f33f3295",
-      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
-      "summary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-27T15:30:00Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "b173dbbb62f223f1278ad3",
-      "title": "EU's Moscovici says does not want crisis with Italy, expecting answers on budget",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzF4ajdWY2hSYlVuNlVSdE9xc3BqYkkydExFd0w1eHk4V2tXZGRQa3VaSllOTWJZVlVzOUZpXzlXTnQtRC1kZzFReVpHdGtQZzI3eGpNV202aE9MRFQ0VlFFUEFTc0lDWkR0UWNUc18yRXp1TUE4MW55ckdkNHl6UXp4amlaV1hCbmdkOHd1ZHNiQkhBcFhaTmN0ckRUUWNvalJxVUkzTFdGb2FyemlycHBVY0NkN0h5?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-11-27T15:29:58Z",
-      "category": "World",
-      "topic": "Europe",
-      "country": "",
-      "image": ""
-    },
-    {
-      "id": "7c7af34bb6b58b31fa451a",
-      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-      "summary": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal events. The best price that we’ve previously seen [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-27T15:15:28Z",
-      "category": "Technology",
-      "topic": "The Verge",
-      "country": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "de61b5f4275ec6879ead59",
-      "title": "SemiLEDs swung from a $1.1 million loss to $817,000 profit as annual revenue fell to $19.1 million.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2lnOGxUaTlWSV9wRnZ3aTVRdXhuYWplOWZKUElFMFNzeU5zclgzX3JVRnYwOEFfMVVJM1VtcEZ6ZXRxYmR0bjB6dFBkdkFrcjlDY0txRXJrdzg2VnRGQmhVSzV2bkZ1bVMyVTJUTnBqdGJYV1BhZ1I0d2gyMUdYazNCUHlvM01NVmlqa29aaWFUYVFKQlgtOTN5Tk5yMXdSblNqZlJoald1QmRBSjFKX0ZEVmpmTUVXSklvMW54NG8?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-27T15:10:00Z",
-      "category": "Finance",
-      "topic": "Corporate results",
       "country": "",
       "image": ""
     }
