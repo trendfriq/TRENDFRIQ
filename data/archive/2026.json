@@ -1,5 +1,29 @@
 [
   {
+    "id": "8ac90c21a0303d22ae0965",
+    "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+    "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+    "source": "The Verge",
+    "published": "2026-11-28T03:30:00Z",
+    "category": "Technology",
+    "topic": "The Verge",
+    "country": "",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d18a303d0c11d530393f35",
+    "title": "Shenzhen, and the Asia-Pacific it points to",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6M1Z1QkJKQ052anNHdjQxTnRFZXgzTEFJb1JQT1Iya1JlM1dNR01iOFh1VnpJN2RzcHhYOWVaaFhmNjMwbUVzQmZSdDZIbzJwd3Y2TzRJSWNXWEJuY1NNbVpFYVowRGx3TmhpT3pObmNxcmpXeWZ0d3czV2tlZw?oc=5",
+    "source": "China Daily",
+    "published": "2026-11-28T02:17:43Z",
+    "category": "World",
+    "topic": "Asia Pacific",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "bb0be17c4eefba01243166",
     "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
     "summary": "With an official PC version potentially still months away, fans are getting impatient.",
@@ -22,6 +46,18 @@
     "topic": "The Verge",
     "country": "",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "96b397cee8f1a3915a0cba",
+    "title": "Thanksgiving storms leave nearly a million without power across the US",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5",
+    "source": "Al Jazeera",
+    "published": "2026-11-28T01:29:20Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
   },
   {
     "id": "d58dec9be4ef0625224b82",
@@ -408,6 +444,18 @@
     "image": ""
   },
   {
+    "id": "11e173400abd7f78693d19",
+    "title": "Uruguay opens free-trade zone to draw global service centers",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFBwdDVvZ19TNUwzYktXdmEwMWxiOEVzQmJqNUJsVDhaRERJYnhfVlhRUzYxamdncXBpN2NDMXJVY00xaVVreTBiNWpMZDh1ZjA1YnhYZWJDUXdMYlg3Q3ZvcWg5dHd5dUJsTElseDM0bzJYcUhNQ0FOaWVITGp0RGJFdkVmNVliQnZRTGNNTVNTa0hrdGVsT1R2a1U1RXV3?oc=5",
+    "source": "BNamericas",
+    "published": "2026-11-27T18:10:44Z",
+    "category": "World",
+    "topic": "Americas",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "1684f845f7ab767cc72c83",
     "title": "Lakshya SmartGuard Systems Raises ₹2.5 Crore in Seed Funding",
     "summary": "",
@@ -560,6 +608,18 @@
     "published": "2026-11-27T16:02:28Z",
     "category": "World",
     "topic": "World affairs",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "fa15e8cee2123b7df5ca8c",
+    "title": "Meta announces entrepreneurship-focused investment plans for Türkiye | Daily Sabah",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUNUS2QzX2Q2aFVGcjNvUmZlR0VBeEhSTERDOUNaTmZwWGwyd0QzZEFkdTNaRlNLS1BBelpjOU9wM1ZKRU56OEtud1NDUHFsYmFVTmRsOFhQTWJfNnNfRXM3TGhHcnptOENXam1pazVsd3JEWnp4T1BZV2h2cmVhcnEwTlhsM2JaY3ZZTVdvYWV4ZU9VMnBYT25WTjhsRElJeTUyWkJ5VlBtamR2SFQyX0ZpONIBswFBVV95cUxPWUNUS2QzX2Q2aFVGcjNvUmZlR0VBeEhSTERDOUNaTmZwWGwyd0QzZEFkdTNaRlNLS1BBelpjOU9wM1ZKRU56OEtud1NDUHFsYmFVTmRsOFhQTWJfNnNfRXM3TGhHcnptOENXam1pazVsd3JEWnp4T1BZV2h2cmVhcnEwTlhsM2JaY3ZZTVdvYWV4ZU9VMnBYT25WTjhsRElJeTUyWkJ5VlBtamR2SFQyX0ZpOA?oc=5",
+    "source": "Daily Sabah",
+    "published": "2026-11-27T15:54:22Z",
+    "category": "Technology",
+    "topic": "Technology",
     "country": "",
     "image": ""
   },
@@ -1608,6 +1668,18 @@
     "image": ""
   },
   {
+    "id": "1ce76f2b4d3c0137320f94",
+    "title": "Italy’s Startup Push: What’s Behind It?",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tc3o0eTFsU0VGZkd6SFdyb3loMUJWV05nWVFmYmJ2dHBnOVdhWUNqNzFDU1lrdXc1eTJWVkg2clRIb3gtUy1zbkZrdzQxRmhCbXl4aFFMTWQ0Yk9NUXFOMjFySlh0M1ZCc0YtNVd1QU0wT2xxVi1Hbg?oc=5",
+    "source": "TechRound",
+    "published": "2026-11-27T09:11:50Z",
+    "category": "Technology",
+    "topic": "Technology",
+    "country": "",
+    "image": ""
+  },
+  {
     "id": "6bafb1e1663f56d366ca9b",
     "title": "Euro Zone Inflation Expectations Rise Sharply, ECB Survey Finds",
     "summary": "",
@@ -2513,6 +2585,18 @@
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM21XSjhnaVVtUjY5SDJuUTZIdkQ3R3kyeTlTRTBxMGxRMGNVbDVicUV2aUozaUR6NGxUWlVmYkZsTEVib1A5eU40cDdzQm5ZQ0gtcjNkQnRSTU16X0tHamhBNDVleHMxVXlycnBta2Z6SmhRRzNleTB2MzRyX0VuejVB?oc=5",
     "source": "China Daily Global Edition",
+    "published": "2026-11-27T01:22:36Z",
+    "category": "Economy",
+    "topic": "Global economy",
+    "country": "",
+    "image": ""
+  },
+  {
+    "id": "c5870666dbd423fea76227",
+    "title": "S. Korea raises benchmark interest rate",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BYWlOU01teVN5TFN1N2pBeVEzZjhQU2pOUDZsRG1uS1NiV3hWanNqUTI1TUNRRWFxeUlYNzdnQ1RZaEdObF9RMU5FSFNta0EwZ3RLamllMjlZRGU5aEJLZW9SdU9HRDYwbkZkcWVjdElPOE5SajdIenFVcFVZUQ?oc=5",
+    "source": "China Daily",
     "published": "2026-11-27T01:22:36Z",
     "category": "Economy",
     "topic": "Global economy",
